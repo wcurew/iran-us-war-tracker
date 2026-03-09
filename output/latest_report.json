@@ -1,29 +1,29 @@
 {
   "date_utc": "2026-03-09",
-  "generated_at_utc": "2026-03-09T03:46:11+00:00",
-  "window_start_utc": "2026-03-08T21:44:29.082604+00:00",
-  "window_end_utc": "2026-03-09T03:44:29.082604+00:00",
-  "total_articles_classified": 13,
-  "relevant_articles": 12,
+  "generated_at_utc": "2026-03-09T07:56:20+00:00",
+  "window_start_utc": "2026-03-09T03:44:29.082604+00:00",
+  "window_end_utc": "2026-03-09T07:55:49.050538+00:00",
+  "total_articles_classified": 5,
+  "relevant_articles": 4,
   "negotiation_count": 0,
   "ceasefire_count": 0,
   "deescalation_count": 0,
-  "escalation_count": 3,
-  "strike_count": 9,
+  "escalation_count": 2,
+  "strike_count": 2,
   "irrelevant_count": 1,
   "negotiation_ratio": 0.0,
   "war_ratio": 1.0,
-  "avg_strength": 0.8333,
-  "median_strength": 0.9,
+  "avg_strength": 0.85,
+  "median_strength": 0.85,
   "avg_positive_strength": 0.0,
-  "avg_negative_strength": 0.8333,
-  "batch_raw_score": 44.0,
+  "avg_negative_strength": 0.85,
+  "batch_raw_score": 12.2,
   "war_batch_score": 100.0,
   "negotiation_events": 0,
   "ceasefire_events": 0,
   "deescalation_events": 0,
-  "escalation_events": 3,
-  "strike_events": 9,
+  "escalation_events": 2,
+  "strike_events": 2,
   "war_smoothed_score": 100.0,
   "trend_delta": 0.0,
   "trend_label": "flat",
@@ -38,78 +38,42 @@
   "top_ceasefire_articles": [],
   "top_escalation_articles": [
     {
-      "title": "Iran Warns of Infrastructure Retaliation after US-Israeli Energy Strikes - Palestine Chronicle",
-      "source": "Palestine Chronicle",
-      "published_at": "2026-03-09T02:09:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1JKQzhVU0Z3U1pHRm8yb3V6LUkwTTMyZFI5WkdiTkFmVHBRa3J0Zm5PWF9odnJRVTRNRjNWVWFrejNZZFFEZHRiZ2ZkNjhnNVVJbE8tQXZoRkJkcERvd1BJRzlqdllPcWJ0MFNDVTBrWDU4ZlJDYkJDY1VaMDU5XzhFcUp6R2RDVWt3T1NkSDNnaHV5ejNhNmJWWHUzbVRTNlRxSkZvSTllYUli?oc=5",
-      "strength": 0.85,
-      "reason": "Iran threatened infrastructure retaliation after US-Israeli energy strikes, indicating rising tensions.",
-      "event_key": "iran warns infrastructure retaliation after us israel energy strikes"
+      "title": "Why did diplomacy fail between the US and Iran? - DW.com",
+      "source": "DW.com",
+      "published_at": "2026-03-09T05:03:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3NNalA0UDBUNkhaYXlyRFV1TFF5U3lyMXpCU194eGhwSjZGQmJlMnNTc2VmS3BJcVhTYnJxVlZycUFjblYwMGh4WTRsTzdSZi00YURpS1lQdTZCUWRlMlNoREVyWkU2SjJLZ1NDQ0dYekIwYVNudFdVTURnZUQxY0lOcU5yZ9IBhgFBVV95cUxOR1ZWYWJUT0JfY1lzaHZCMWJVNFNWOVl6V3JpS01HTEJmRV9MQnA3UEhRbmdHRzBCdkNlQjQ4ckxFWEtiUHBTU2FfcWxyS2xCb2gwQmxVQ1lsWm05Q1BlN1pDOV85WjhUd2o2Y0lzWEpDbUl6Rlk3OTJXYWdMeVdNMEpaMWo3UQ?oc=5",
+      "strength": 0.8,
+      "reason": "Analysis of the breakdown of diplomacy between the US and Iran, signaling failed talks and heightened tensions.",
+      "event_key": "us iran diplomacy failure"
     },
     {
-      "title": "New Iran supreme leader raises fears of escalation and uncertain U.S. role - ABC11 Raleigh-Durham",
-      "source": "ABC11 Raleigh-Durham",
-      "published_at": "2026-03-09T01:50:58+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWQtZEZOOVp2NlJnYmZEWGR0TVZuZVFBLTU1TVMycVRoRk9FdlNVaVprNFVSMzhoaGc0LWhHeS0xNkxnM0c1TmpGTHFBaDMtREhNU1ppbWRRODdKYTloc3pHMVVQanZJZXpzWU5tOC1uSXpxOGRyZEQxcFpWZlp3NjMxY0o0Sjd3VFYzNUFjenpVQUVzYUZFWGtPU1V5M1nSAaQBQVVfeXFMT2J4dG12N0c1YXVRbE1nSUlaOWdmQjdWX29COU1xOWNNNmY5MzJRNGNWUWVYZFdzYVQ3eGpsaEdrU200RzVYcXdUdzgzMU9fTk8tUFFlRE9KVk5CZDROVU1LRlBnLXlzVi1MTmpIckFveFozQ1g5S0tsZnU2WFN0cVBjODBNTi0wRWtuNUNsV2JWUjJqbFRVSGJCVU1sRnhtNU1Nenc?oc=5",
-      "strength": 0.75,
-      "reason": "New supreme leader raises fears of escalation and unclear U.S. role, signaling rising tensions and potential breakdown in diplomacy.",
-      "event_key": "iran new supreme leader escalation"
-    },
-    {
-      "title": "Iran war: Rising gas prices, 7th U.S. service member dies | FOX 10 Talks - FOX 10 Phoenix",
-      "source": "FOX 10 Phoenix",
-      "published_at": "2026-03-08T23:21:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpT1I0cG1PamtaR3hGR1pZMWltZnJwVldVZ1BHUWxpcEFmbmdRd2Q1dVp1X0RTYVRvSU1aN0hPeS1QdUV5UWJ3UzJtb3U3NGVjYWRJdTVmSi12NEYtUmhWVC0wWXJIZ9IBa0FVX3lxTE9fQXJPOXZBcGM5ZHBoQkRLMjM2OFRNbDJuWkhoc3lFZ2hnR0hSV0xYcVByUEJMRnYyUHNTczFLZHhnbFFkQzBCY2ZDdVZ3NkczX0piZURFSHh6dzIyTDBOUVdXeC13elFSZEpj?oc=5",
-      "strength": 0.4,
-      "reason": "U.S. service member fatality and economic impacts indicate rising tensions and conflict escalation.",
-      "event_key": "us service member death iran tensions"
+      "title": "Trump says US has sunk all Iranian ships, destroyed most missile launch platforms - Anadolu Ajansı",
+      "source": "Anadolu Ajansı",
+      "published_at": "2026-03-09T04:01:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkEyMmZZOTZBNldReFhNbDdKSFB5WERFVWEtU3dsS0JjRnVnQ0dUOTNtR3NRSnVFLTUtR1gyQ3RoUWplMzhSUmZSZjdLS3UtWGttY0c2ZU9aYS1ONWRfNnE0Q3Y4NWtHUm1YVHctdnVfblQzNENRZFoxQTZ0R25uUVhmLUpkOEV3T3NLbW1kVTBGOEZqanVnWERmQWNOWm15Q1FPSWN6M1pzZUFtb2hRUkVRc1RXeTg2SnR5Q3NzVQ?oc=5",
+      "strength": 0.8,
+      "reason": "Trump's boastful claim of sinking Iranian ships and destroying missile sites is hostile military rhetoric.",
+      "event_key": "trump claim sank iranian ships destroyed missile platforms"
     }
   ],
   "top_strike_articles": [
     {
-      "title": "New footage shows US missile striking IRGC facility near girls' school in Iran: Report - Anadolu Ajansı",
-      "source": "Anadolu Ajansı",
-      "published_at": "2026-03-09T01:00:24+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY25sQlYwTUdnR2s2ZDlCWTRCcEFreHVUX3YyMWJTcmxSQkxGRVdoZDlMYjhXMnBLWjlBR3dSdG44ZlBYLUZGZU5FUUoxenduOVROeVI5TUo0a3hzOVM0MFJMOFMtRE12SWd2Vm10NmNQYzZrV2JGeEtRWDFTWjMtQVo5VjBHN2lhWFE1R0d0dzd3aG9BYnJmeF9jeGlneXFvdFQxWm0tQ2dONUxvUWdHX3RsTzJDVUxNcjRobnNCczF4M19r?oc=5",
-      "strength": 0.95,
-      "reason": "Footage shows a US missile strike on an IRGC facility near a girls' school in Iran.",
-      "event_key": "us strike irgc near girls school iran"
-    },
-    {
-      "title": "Video appears to show U.S. cruise missile striking Iranian school compound - NPR",
-      "source": "NPR",
-      "published_at": "2026-03-09T02:51:06+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUVvYWxYeFNmQ19WNE1idnBxM1BnM1luV0hDYmlxdWR3dHdUZExVeW5IM21WNFlDa1dUWmxZOERxRDVuV2VKREtncTJjRnFZb29rOFNDWnJEZEpHWmhaaWJ0OEpCQ3h6QUpPS3JmNmkzR3pXWEdNbjV2VklxNTRBa1VRU2JIS09jeHJFRE1lUm1NdGs?oc=5",
-      "strength": 0.95,
-      "reason": "Video reportedly shows a U.S. cruise missile striking an Iranian school compound—an actual reported attack.",
-      "event_key": "us cruise missile strike iran school compound"
-    },
-    {
-      "title": "Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran - Bellingcat",
-      "source": "Bellingcat",
-      "published_at": "2026-03-08T22:38:21+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWYtb1hkbjFYMlJ4T0drVlRmMlJtNk04ejlDeHdCWXd5bzBCQ0dBZ29oa0hQNGJSYUYyYzNVaEtqb2FhZ0JVYTV6WUo4UHB1SVkyNEZlYmdvN241bkJJT3BfY1EydUxvMXdSMG5KOFpDdVBaYkFGUHhuTU9ZOTkzVVUwMnViNlhwcFlteVNmY1VhLVNTQW1UeHZBRlFEOGU3dk5JMHJrUFNCNnVjeEJRUA?oc=5",
-      "strength": 0.95,
-      "reason": "Reports and video document a US Tomahawk missile strike on Iranian territory near a school — direct military action.",
-      "event_key": "us tomahawk strike near school iran"
-    },
-    {
-      "title": "Pentagon says 7th U.S. service member has died in Mideast war after being injured in Iranian attack on Saudi Arabia - Fortune",
-      "source": "Fortune",
-      "published_at": "2026-03-08T22:23:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUN1eWtYcWc1YW1uYk9vTkNyUjRnNGpHaEZTRFphZDlaaXZCYVBrLU1GR25DeHFhaHNDck1qNTVnYzdQOExZVndTSUFNcFZVbVVLdFBfZzJOS3VyeXdxU1NzeHdTY0QyTzVPMUxTRXlLZEc5WURFb2RkYzA1QnExTWFmWWxnbTk3SVFsbnRkU1VxcXlQdVE3LVA2WWw?oc=5",
+      "title": "Breaking News: New video adds to evidence that a U.S. missile likely hit an Iranian school where 175 people, many of them children, were reportedly killed. - facebook.com",
+      "source": "facebook.com",
+      "published_at": "2026-03-09T03:48:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLW5pbDBUUF9RX0s2dlpfcVZYMmhKNjNTNmU2MUlXbkVZLXdDakpjYjJiMThzeWM5MTlDbmNFT1BydGI3enRmMnAyZGlZU2ktdEZLaFliVTVUN19ES1Bwa0xUQVBNQTRRSTV2VnAwazdEeVVKa0ZUaHFTazRwVTQyNWxWQWtrUHdLTk54TUV4aFlJVjVlbjRMQWtIMS1sWlhPeno4R1JmeGloVnVkQUNpWnNmcVROdkFzeFhXVmYyM1NiV18xc2pUT1h3dS10YjhLNVQw?oc=5",
       "strength": 0.9,
-      "reason": "Death resulted from an Iranian attack on Saudi Arabia that injured and later killed a U.S. service member.",
-      "event_key": "iran attack on saudi us service member death 7th"
+      "reason": "Video suggests a U.S. missile struck an Iranian school, killing about 175 people.",
+      "event_key": "us missile strike iran school 175 deaths"
     },
     {
-      "title": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\" - CBS News",
-      "source": "CBS News",
-      "published_at": "2026-03-08T23:02:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0RmUTRaQktNamdYd3NIZWYxamZvLUxlV3pCaWZfNFhWYWdRQ0lrdEdIQXNpajNIaDY5eEQ3MVF1ckw1bFFiSVFTV3l1LUdoYjdRLVh6Q1BIT09BS2RmX3Y1b2pIYzhBRUNWY1k4VHRjZDJXb3duWnRXbnVIVV9NMUUxUkJWVUhpOHhQS1hhaS3SAZYBQVVfeXFMUGt1c3VMMXR2NUptT25lcm9IZ2c1dUJOdVpkLVFVbDdiZTI4SVYwelhscks2YlhXREEwa0lXV1FFZVdLX05JRDgzRDRDaFVJN09GVUFfbF92dnN3SVRSanBycVlrdFRRMzdoRjlzaW5KS2stMnFRcW95THpPNkhTWmNrcnppSGI3Zi0yVXRhaE9DYUNwUFNB?oc=5",
+      "title": "US missile seen hitting building near Iranian girls' school, experts say - abcnews.com",
+      "source": "abcnews.com",
+      "published_at": "2026-03-09T04:46:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDlHRmd2UzVIcC02dS1GZ0JVMGZGME8zVlpBNF84TXZaWGpmU1RMdXBuVlFjRzFJS1NyandyTE1UQ2NmdmNYTUFCbDN4OTlKUlJfaWtVa3hTQTJ1TzM2R1NLb0c3UEVjbTl2YkwxUUJCYnp6cjNzZG1jem9hajhNQzRkWTd1dmwtdVZlaXFPTm1tclVhWmNPWWxNaUZOcVnSAaQBQVVfeXFMUG1CZktpZXBQRGNON3hBQXR4N2hnTkV3c2o2MC1UdnlSNVpIaHNtMWRtYVhPc1dadnNNdXpUWjRFaGJMS1BKb3puUUQyOC00akRwR2YzM1AxLXUyNTZwYm9NTHVfeEh3Y2JLenNab1BCcHNnRWVlWFF4OEtISUZ6bURjNTl6c0F0N2dJeEExbm1PemJLU1VUcmpJcHZJd21CMExBVW0?oc=5",
       "strength": 0.9,
-      "reason": "Reports on U.S. strikes against Iran and commentary signaling further attacks.",
-      "event_key": "us strikes against iran"
+      "reason": "Report describes a US missile impact on a building near an Iranian girls' school — an actual military strike.",
+      "event_key": "us missile strike near iran girls school"
     }
   ]
 }
