@@ -129,6 +129,58 @@ RSS_QUERIES = [
     'Iran US Houthi escalation',
 ]
 
+# CSV 고정 컬럼
+CSV_COLUMNS = [
+    "date_utc",
+    "generated_at_utc",
+    "window_start_utc",
+    "window_end_utc",
+
+    "total_articles_classified",
+    "relevant_articles",
+
+    "negotiation_count",
+    "ceasefire_count",
+    "deescalation_count",
+    "escalation_count",
+    "proxy_escalation_count",
+    "strike_count",
+    "irrelevant_count",
+
+    "negotiation_ratio",
+    "war_ratio",
+    "avg_strength",
+    "median_strength",
+    "avg_positive_strength",
+    "avg_negative_strength",
+    "avg_source_weight",
+
+    "negotiation_events",
+    "ceasefire_events",
+    "deescalation_events",
+    "escalation_events",
+    "proxy_events",
+    "strike_events",
+
+    "article_raw_score",
+    "event_raw_score",
+    "batch_raw_score",
+    "war_batch_score",
+    "war_smoothed_score",
+    "trend_delta",
+    "trend_label",
+    "trend_label_ko",
+
+    "oil_signal",
+    "defense_signal",
+    "airline_signal",
+    "equity_signal",
+    "gold_dollar_signal",
+
+    "alert_message",
+    "summary_ko",
+]
+
 CLASSIFIER_PROMPT = """
 You classify news articles about Iran-US conflict developments.
 
@@ -366,7 +418,7 @@ def fetch_rss(url: str, timeout: int = REQUEST_TIMEOUT) -> List[Dict[str, Any]]:
     resp = requests.get(
         url,
         timeout=timeout,
-        headers={"User-Agent": "Mozilla/5.0 (compatible; IranUSTracker/2.1)"},
+        headers={"User-Agent": "Mozilla/5.0 (compatible; IranUSTracker/2.2)"},
     )
     resp.raise_for_status()
 
@@ -643,7 +695,6 @@ def compute_article_and_event_raw_scores(classified_articles: List[Dict[str, Any
         event_key = cls.get("event_key", "") or normalize_title(article.get("title", ""))
         k = (label, event_key)
 
-        # 같은 이벤트는 절대값이 가장 큰 점수만 대표값으로 사용
         current = event_best.get(k)
         if current is None or abs(score) > abs(current):
             event_best[k] = score
@@ -864,9 +915,7 @@ def build_summary_ko(report: Dict[str, Any]) -> str:
 def top_articles_by_label(classified_articles: List[Dict[str, Any]], label: str, n: int = 5) -> List[Dict[str, Any]]:
     rows = [a for a in classified_articles if a["classification"]["label"] == label]
     rows.sort(
-        key=lambda x: (
-            x["classification"]["strength"] * float(x.get("source_weight", 1.0))
-        ),
+        key=lambda x: (x["classification"]["strength"] * float(x.get("source_weight", 1.0))),
         reverse=True
     )
 
@@ -891,13 +940,17 @@ def top_articles_by_label(classified_articles: List[Dict[str, Any]], label: str,
 
 def append_daily_csv(path: Path, row: Dict[str, Any]) -> None:
     file_exists = path.exists()
-    fieldnames = list(row.keys())
+    normalized_row = {col: row.get(col, "") for col in CSV_COLUMNS}
 
     with path.open("a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(
+            f,
+            fieldnames=CSV_COLUMNS,
+            extrasaction="ignore",
+        )
         if not file_exists:
             writer.writeheader()
-        writer.writerow(row)
+        writer.writerow(normalized_row)
 
 
 def build_empty_report(window_start: datetime, window_end: datetime, history: List[Dict[str, Any]]) -> Dict[str, Any]:
