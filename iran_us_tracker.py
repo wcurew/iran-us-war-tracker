@@ -10,7 +10,7 @@ from collections import Counter
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 from urllib.parse import quote_plus
 
 import requests
@@ -41,22 +41,78 @@ CLASSIFY_RETRIES = 3
 SLEEP_BETWEEN_CALLS = 0.15
 
 DEFAULT_LOOKBACK_HOURS = 6
-STATE_HISTORY_LIMIT = 50
-SEEN_ARTICLE_IDS_LIMIT = 500
+STATE_HISTORY_LIMIT = 80
+SEEN_ARTICLE_IDS_LIMIT = 800
 
-# 기사 분류 점수(전쟁 확률용 raw score)
+# 기사 점수(전쟁 확률용 raw score)
 BATCH_WEIGHTS = {
     "negotiation": -2.0,
     "ceasefire": -4.0,
     "deescalation_signal": -1.0,
     "escalation": 2.0,
+    "proxy_escalation": 3.0,
     "strike_or_retaliation": 5.0,
     "irrelevant": 0.0,
 }
 
-# raw score를 0~100 배치 점수로 정규화할 때 사용하는 범위
-RAW_SCORE_MIN = -10.0
-RAW_SCORE_MAX = 10.0
+# raw score를 0~100 배치 점수로 정규화할 범위
+RAW_SCORE_MIN = -12.0
+RAW_SCORE_MAX = 12.0
+
+# 기사 점수와 이벤트 점수 혼합 비중
+ARTICLE_SCORE_WEIGHT = 0.6
+EVENT_SCORE_WEIGHT = 0.4
+
+# 1차 필터용 키워드
+IRAN_TERMS = [
+    "iran", "iranian", "tehran", "iran's", "iranian-backed"
+]
+
+US_TERMS = [
+    "u.s.", " us ", " us-", "united states", "american", "america", "washington", "pentagon"
+]
+
+DIRECT_SIGNAL_TERMS = [
+    "ceasefire", "truce", "negotiation", "talks", "diplomacy", "diplomatic",
+    "retaliation", "retaliate", "strike", "attack", "missile", "military",
+    "de-escalation", "escalation", "warning", "hostilities", "bombing",
+    "airstrike", "envoy", "mediator", "proposal", "threat"
+]
+
+WEAK_CONTEXT_TERMS = [
+    "tensions", "conflict", "pressure", "response", "contact", "channel"
+]
+
+REJECT_TERMS = [
+    "movie", "festival", "soccer", "football", "basketball", "weather",
+    "recipe", "celebrity", "music awards", "box office"
+]
+
+PROXY_TERMS = [
+    "hezbollah", "houthi", "houthis", "militia", "militias",
+    "iran-backed", "proxy", "iraqi militia", "pmf", "kataib"
+]
+
+SOURCE_WEIGHTS = {
+    "reuters": 1.15,
+    "associated press": 1.10,
+    "ap": 1.10,
+    "bloomberg": 1.10,
+    "financial times": 1.10,
+    "ft": 1.10,
+    "bbc": 1.00,
+    "cnn": 1.00,
+    "the washington post": 1.00,
+    "new york times": 1.00,
+    "wall street journal": 1.05,
+    "the wall street journal": 1.05,
+    "al jazeera": 1.00,
+    "the guardian": 1.00,
+    "axios": 1.00,
+    "politico": 0.98,
+    "times of israel": 0.95,
+    "newsweek": 0.95,
+}
 
 RSS_QUERIES = [
     '("Iran" OR "Iranian") ("United States" OR U.S. OR US OR American) ceasefire',
@@ -69,6 +125,8 @@ RSS_QUERIES = [
     '("Iran" OR "Iranian") ("United States" OR U.S. OR US OR American) escalation',
     '("Iran" OR "Iranian") ("United States" OR U.S. OR US OR American) de-escalation',
     '("Iran" OR "Iranian") ("United States" OR U.S. OR US OR American) warning',
+    'Iran US Hezbollah retaliation',
+    'Iran US Houthi escalation',
 ]
 
 CLASSIFIER_PROMPT = """
@@ -79,6 +137,7 @@ Choose exactly one label:
 - ceasefire
 - deescalation_signal
 - escalation
+- proxy_escalation
 - strike_or_retaliation
 - irrelevant
 
@@ -95,30 +154,31 @@ Definitions:
 - escalation:
   threats, warnings, breakdown of diplomacy, rejection of proposals,
   rising tensions, mobilization, hostile rhetoric
+- proxy_escalation:
+  attacks or escalatory moves involving Iran-backed proxies, such as Houthis,
+  Hezbollah, Iraqi militias, where the article implies wider Iran-US tension
 - strike_or_retaliation:
-  actual strike, bombing, missile launch, attack, retaliation, military action
+  actual direct military strike, bombing, missile launch, attack, retaliation,
+  especially when framed as direct Iran-US military action or immediate exchange
 - irrelevant:
   not materially about Iran-US conflict diplomacy or military developments
 
-Extra rules:
-- ceasefire is only for explicit pause/truce/halt in hostilities, not vague hope
-- articles mainly about oil prices, domestic politics, or broad commentary are irrelevant
-  unless they directly discuss Iran-US diplomacy or military action
-- proxy activity should be classified cautiously unless clearly framed as Iran-US escalation
+Rules:
+- vague hope for peace is not ceasefire
+- oil market or general geopolitics articles are irrelevant unless directly tied
+  to Iran-US conflict developments
+- proxy actions should be labeled proxy_escalation unless the article clearly
+  frames direct Iran-US military action
+- if uncertain, choose the closest label and lower the strength
+- return only valid JSON and no markdown
 
-Return ONLY valid JSON with this exact schema:
+Schema:
 {
   "label": "one of the labels above",
   "strength": 0.0,
   "reason": "brief explanation under 25 words",
   "event_key": "short normalized event tag"
 }
-
-Rules:
-- strength must be a number from 0.0 to 1.0
-- event_key should group duplicate stories about the same underlying event
-- never return markdown
-- if uncertain, choose the closest label and lower the strength
 """.strip()
 
 
@@ -156,6 +216,10 @@ def normalize_title(text: str) -> str:
     text = re.sub(r"\[[^\]]+\]", " ", text)
     text = re.sub(r"[^a-z0-9\s]", " ", text)
     return normalize_space(text)
+
+
+def normalize_source_name(text: str) -> str:
+    return normalize_title(text)
 
 
 def sha1_text(text: str) -> str:
@@ -234,6 +298,16 @@ def load_json(path: Path, default: Any) -> Any:
         return default
 
 
+def source_weight_for(source: str) -> float:
+    s = normalize_source_name(source)
+    if not s:
+        return 1.0
+    for key, weight in SOURCE_WEIGHTS.items():
+        if key in s:
+            return weight
+    return 1.0
+
+
 # =========================================================
 # State / Time Window
 # =========================================================
@@ -249,7 +323,7 @@ def save_state(state: Dict[str, Any]) -> None:
     save_json(STATE_PATH, state)
 
 
-def get_time_window() -> tuple[datetime, datetime]:
+def get_time_window() -> Tuple[datetime, datetime]:
     now_utc = utc_now()
     state = load_state()
     last_run = parse_iso_datetime(state.get("last_run_time_utc", ""))
@@ -257,7 +331,6 @@ def get_time_window() -> tuple[datetime, datetime]:
     if last_run is None:
         last_run = now_utc - timedelta(hours=DEFAULT_LOOKBACK_HOURS)
 
-    # 미래시간 방지
     if last_run > now_utc:
         last_run = now_utc - timedelta(hours=DEFAULT_LOOKBACK_HOURS)
 
@@ -277,11 +350,7 @@ def get_history_from_state() -> List[Dict[str, Any]]:
     history = state.get("history", [])
     if not isinstance(history, list):
         return []
-    output = []
-    for row in history:
-        if isinstance(row, dict):
-            output.append(row)
-    return output
+    return [row for row in history if isinstance(row, dict)]
 
 
 # =========================================================
@@ -297,7 +366,7 @@ def fetch_rss(url: str, timeout: int = REQUEST_TIMEOUT) -> List[Dict[str, Any]]:
     resp = requests.get(
         url,
         timeout=timeout,
-        headers={"User-Agent": "Mozilla/5.0 (compatible; IranUSTracker/2.0)"},
+        headers={"User-Agent": "Mozilla/5.0 (compatible; IranUSTracker/2.1)"},
     )
     resp.raise_for_status()
 
@@ -356,39 +425,31 @@ def filter_articles_by_time_window(
     end_time: datetime,
 ) -> List[Dict[str, Any]]:
     output = []
-
     for article in articles:
         published_at = parse_iso_datetime(article.get("published_at", ""))
         if published_at is None:
             continue
-
         if start_time < published_at <= end_time:
             output.append(article)
-
     return output
 
 
 def is_relevant_keyword(title: str, summary: str) -> bool:
     text = f"{title} {summary}".lower()
 
-    iran_terms = [
-        "iran", "iranian", "tehran", "iran's", "iranian-backed"
-    ]
-    us_terms = [
-        "u.s.", " us ", " us-", "united states", "american", "america", "washington", "pentagon"
-    ]
-    conflict_terms = [
-        "ceasefire", "truce", "negotiation", "talks", "diplomacy", "diplomatic",
-        "retaliation", "retaliate", "strike", "attack", "missile", "military",
-        "de-escalation", "escalation", "warning", "hostilities", "bombing",
-        "airstrike", "envoy", "mediator", "proposal", "conflict", "threat"
-    ]
+    has_iran = any(x in text for x in IRAN_TERMS)
+    has_us = any(x in text for x in US_TERMS)
+    has_direct = any(x in text for x in DIRECT_SIGNAL_TERMS)
+    has_weak = any(x in text for x in WEAK_CONTEXT_TERMS)
+    has_reject = any(x in text for x in REJECT_TERMS)
 
-    has_iran = any(t in text for t in iran_terms)
-    has_us = any(t in text for t in us_terms)
-    has_conflict = any(t in text for t in conflict_terms)
+    if not (has_iran and has_us):
+        return False
 
-    return has_iran and has_us and has_conflict
+    if has_reject and not has_direct:
+        return False
+
+    return has_direct or has_weak
 
 
 def dedupe_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -452,6 +513,14 @@ def extract_json_object(text: str) -> Dict[str, Any]:
     raise ValueError(f"Could not parse JSON from: {text[:300]}")
 
 
+def fallback_proxy_override(title: str, summary: str, label: str) -> str:
+    text = f"{title} {summary}".lower()
+    has_proxy = any(term in text for term in PROXY_TERMS)
+    if has_proxy and label == "escalation":
+        return "proxy_escalation"
+    return label
+
+
 def classify_article(client: OpenAI, title: str, summary: str) -> Dict[str, Any]:
     user_input = f"Title: {title}\nSummary: {summary}\nClassify this article."
 
@@ -473,10 +542,11 @@ def classify_article(client: OpenAI, title: str, summary: str) -> Dict[str, Any]
             if label not in BATCH_WEIGHTS:
                 label = "irrelevant"
 
+            label = fallback_proxy_override(title, summary, label)
+
             strength = safe_float(data.get("strength", 0.0), default=0.0)
             reason = normalize_space(str(data.get("reason", "")))[:200]
             event_key = normalize_title(str(data.get("event_key", "")))[:80]
-
             if not event_key:
                 event_key = normalize_title(title)[:80]
 
@@ -509,8 +579,12 @@ def classify_articles(client: OpenAI, articles: List[Dict[str, Any]]) -> List[Di
             title=article.get("title", ""),
             summary=article.get("summary", ""),
         )
+
+        article_source_weight = source_weight_for(article.get("source", ""))
+
         output.append({
             **article,
+            "source_weight": article_source_weight,
             "classification": cls,
         })
         print(f"[INFO] Classified {idx}/{target_count}: {cls['label']}")
@@ -546,8 +620,36 @@ def build_event_stats(classified_articles: List[Dict[str, Any]]) -> Dict[str, in
         "ceasefire_events": len(unique_by_label.get("ceasefire", set())),
         "deescalation_events": len(unique_by_label.get("deescalation_signal", set())),
         "escalation_events": len(unique_by_label.get("escalation", set())),
+        "proxy_events": len(unique_by_label.get("proxy_escalation", set())),
         "strike_events": len(unique_by_label.get("strike_or_retaliation", set())),
     }
+
+
+def compute_article_and_event_raw_scores(classified_articles: List[Dict[str, Any]]) -> Tuple[float, float]:
+    article_raw_score = 0.0
+    event_best: Dict[Tuple[str, str], float] = {}
+
+    for article in classified_articles:
+        cls = article["classification"]
+        label = cls["label"]
+        if label == "irrelevant":
+            continue
+
+        strength = safe_float(cls.get("strength", 0.0))
+        source_weight = float(article.get("source_weight", 1.0))
+        score = BATCH_WEIGHTS[label] * strength * source_weight
+        article_raw_score += score
+
+        event_key = cls.get("event_key", "") or normalize_title(article.get("title", ""))
+        k = (label, event_key)
+
+        # 같은 이벤트는 절대값이 가장 큰 점수만 대표값으로 사용
+        current = event_best.get(k)
+        if current is None or abs(score) > abs(current):
+            event_best[k] = score
+
+    event_raw_score = sum(event_best.values())
+    return round(article_raw_score, 4), round(event_raw_score, 4)
 
 
 def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str, Any]:
@@ -555,10 +657,10 @@ def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str
     strengths: List[float] = []
     positive_strengths: List[float] = []
     negative_strengths: List[float] = []
-    batch_raw_score = 0.0
+    source_weights_seen: List[float] = []
 
     positive_labels = {"negotiation", "ceasefire", "deescalation_signal"}
-    negative_labels = {"escalation", "strike_or_retaliation"}
+    negative_labels = {"escalation", "proxy_escalation", "strike_or_retaliation"}
 
     relevant_articles = []
 
@@ -566,18 +668,26 @@ def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str
         cls = article["classification"]
         label = cls["label"]
         strength = safe_float(cls.get("strength", 0.0))
+        src_weight = float(article.get("source_weight", 1.0))
 
         counts[label] += 1
-        batch_raw_score += BATCH_WEIGHTS[label] * strength
 
         if label != "irrelevant":
             relevant_articles.append(article)
             strengths.append(strength)
+            source_weights_seen.append(src_weight)
 
         if label in positive_labels:
             positive_strengths.append(strength)
         elif label in negative_labels:
             negative_strengths.append(strength)
+
+    article_raw_score, event_raw_score = compute_article_and_event_raw_scores(classified_articles)
+    blended_raw_score = round(
+        ARTICLE_SCORE_WEIGHT * article_raw_score + EVENT_SCORE_WEIGHT * event_raw_score,
+        4
+    )
+    war_batch_score = normalize_raw_to_100(blended_raw_score)
 
     relevant_total = len(relevant_articles)
     positive_count = sum(counts[x] for x in positive_labels)
@@ -587,7 +697,6 @@ def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str
     war_ratio = round(negative_count / relevant_total, 4) if relevant_total else 0.0
 
     event_stats = build_event_stats(classified_articles)
-    war_batch_score = normalize_raw_to_100(batch_raw_score)
 
     return {
         "total_articles_classified": len(classified_articles),
@@ -596,6 +705,7 @@ def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str
         "ceasefire_count": counts["ceasefire"],
         "deescalation_count": counts["deescalation_signal"],
         "escalation_count": counts["escalation"],
+        "proxy_escalation_count": counts["proxy_escalation"],
         "strike_count": counts["strike_or_retaliation"],
         "irrelevant_count": counts["irrelevant"],
         "negotiation_ratio": negotiation_ratio,
@@ -604,7 +714,10 @@ def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str
         "median_strength": median(strengths),
         "avg_positive_strength": round(mean(positive_strengths), 4),
         "avg_negative_strength": round(mean(negative_strengths), 4),
-        "batch_raw_score": round(batch_raw_score, 4),
+        "avg_source_weight": round(mean(source_weights_seen), 4),
+        "article_raw_score": article_raw_score,
+        "event_raw_score": event_raw_score,
+        "batch_raw_score": blended_raw_score,
         "war_batch_score": war_batch_score,
         **event_stats,
     }
@@ -626,7 +739,7 @@ def compute_smoothed_score(current_batch_score: float, history: List[Dict[str, A
     return round(clamp(smoothed, 0.0, 100.0), 2)
 
 
-def compute_trend(history: List[Dict[str, Any]], current_batch_score: float) -> tuple[float, str]:
+def compute_trend(history: List[Dict[str, Any]], current_batch_score: float) -> Tuple[float, str]:
     batch_scores = []
     for row in history:
         val = row.get("war_batch_score")
@@ -701,10 +814,25 @@ def build_market_signal(war_smoothed_score: float) -> Dict[str, str]:
     }
 
 
+def build_alert_message(report: Dict[str, Any]) -> str:
+    if report["war_batch_score"] >= 75 and report["trend_delta"] >= 8:
+        return "전쟁 위험 급상승"
+    if report["war_smoothed_score"] <= 30 and report["trend_delta"] <= -8:
+        return "긴장 완화 가속"
+    if report["ceasefire_count"] >= 2 or report["negotiation_count"] >= 3:
+        return "휴전/협상 신호 증가"
+    if report["strike_count"] >= 2:
+        return "직접 공격/보복 보도 증가"
+    if report["proxy_escalation_count"] >= 2:
+        return "대리세력 확전 신호 증가"
+    return "특이 경보 없음"
+
+
 def build_summary_ko(report: Dict[str, Any]) -> str:
     score = report["war_smoothed_score"]
     trend = report["trend_label"]
     strike_count = report["strike_count"]
+    proxy_count = report["proxy_escalation_count"]
     negotiation = report["negotiation_count"]
     ceasefire = report["ceasefire_count"]
 
@@ -713,12 +841,16 @@ def build_summary_ko(report: Dict[str, Any]) -> str:
 
     if score >= 75:
         if strike_count >= 1:
-            return "실제 공격·보복 보도가 강하게 반영돼 고위험 구간이다. 단기 확전 리스크를 강하게 경계해야 한다."
+            return "직접 공격·보복 보도가 강하게 반영돼 고위험 구간이다. 단기 확전 리스크를 강하게 경계해야 한다."
+        if proxy_count >= 1:
+            return "대리세력 관련 충돌까지 겹치며 긴장이 매우 높다. 위험자산보다 방어적 해석이 유리하다."
         return "긴장 고조 흐름이 매우 강하다. 시장은 방어적 포지션과 에너지 강세 쪽 해석이 유효하다."
 
     if score >= 50:
         if trend in {"strong_up", "up"}:
             return "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다."
+        if proxy_count >= 1:
+            return "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
         return "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
 
     if score >= 25:
@@ -731,7 +863,12 @@ def build_summary_ko(report: Dict[str, Any]) -> str:
 
 def top_articles_by_label(classified_articles: List[Dict[str, Any]], label: str, n: int = 5) -> List[Dict[str, Any]]:
     rows = [a for a in classified_articles if a["classification"]["label"] == label]
-    rows.sort(key=lambda x: x["classification"]["strength"], reverse=True)
+    rows.sort(
+        key=lambda x: (
+            x["classification"]["strength"] * float(x.get("source_weight", 1.0))
+        ),
+        reverse=True
+    )
 
     output = []
     for a in rows[:n]:
@@ -741,6 +878,7 @@ def top_articles_by_label(classified_articles: List[Dict[str, Any]], label: str,
             "published_at": a.get("published_at"),
             "link": a.get("link", ""),
             "strength": a["classification"]["strength"],
+            "source_weight": a.get("source_weight", 1.0),
             "reason": a["classification"]["reason"],
             "event_key": a["classification"]["event_key"],
         })
@@ -780,6 +918,7 @@ def build_empty_report(window_start: datetime, window_end: datetime, history: Li
         "ceasefire_count": 0,
         "deescalation_count": 0,
         "escalation_count": 0,
+        "proxy_escalation_count": 0,
         "strike_count": 0,
         "irrelevant_count": 0,
 
@@ -789,13 +928,17 @@ def build_empty_report(window_start: datetime, window_end: datetime, history: Li
         "median_strength": 0.0,
         "avg_positive_strength": 0.0,
         "avg_negative_strength": 0.0,
+        "avg_source_weight": 0.0,
 
         "negotiation_events": 0,
         "ceasefire_events": 0,
         "deescalation_events": 0,
         "escalation_events": 0,
+        "proxy_events": 0,
         "strike_events": 0,
 
+        "article_raw_score": 0.0,
+        "event_raw_score": 0.0,
         "batch_raw_score": 0.0,
         "war_batch_score": war_batch_score,
         "war_smoothed_score": war_smoothed_score,
@@ -805,11 +948,13 @@ def build_empty_report(window_start: datetime, window_end: datetime, history: Li
 
         **market,
 
+        "alert_message": "특이 경보 없음",
         "summary_ko": "이번 실행 구간에는 새로 올라온 관련 기사가 거의 없었다.",
 
         "top_negotiation_articles": [],
         "top_ceasefire_articles": [],
         "top_escalation_articles": [],
+        "top_proxy_articles": [],
         "top_strike_articles": [],
     }
     return report
@@ -833,21 +978,20 @@ def build_report(
         "generated_at_utc": utc_now_iso(),
         "window_start_utc": window_start.isoformat(),
         "window_end_utc": window_end.isoformat(),
-
         **metrics,
-
         "war_smoothed_score": war_smoothed_score,
         "trend_delta": trend_delta,
         "trend_label": trend_label,
         "trend_label_ko": trend_label_ko(trend_label),
-
         **market,
     }
 
+    report["alert_message"] = build_alert_message(report)
     report["summary_ko"] = build_summary_ko(report)
     report["top_negotiation_articles"] = top_articles_by_label(classified_articles, "negotiation", n=5)
     report["top_ceasefire_articles"] = top_articles_by_label(classified_articles, "ceasefire", n=5)
     report["top_escalation_articles"] = top_articles_by_label(classified_articles, "escalation", n=5)
+    report["top_proxy_articles"] = top_articles_by_label(classified_articles, "proxy_escalation", n=5)
     report["top_strike_articles"] = top_articles_by_label(classified_articles, "strike_or_retaliation", n=5)
 
     return report
@@ -861,7 +1005,6 @@ def run_tracker() -> Dict[str, Any]:
     ensure_dirs()
 
     window_start, window_end = get_time_window()
-    state = load_state()
     history = get_history_from_state()
     seen_article_ids = get_seen_article_ids_from_state()
 
@@ -883,11 +1026,7 @@ def run_tracker() -> Dict[str, Any]:
     print(f"[INFO] Raw fetched: {len(raw_articles)}")
     print(f"[INFO] Time window: {window_start.isoformat()} ~ {window_end.isoformat()}")
 
-    time_filtered = filter_articles_by_time_window(
-        raw_articles,
-        start_time=window_start,
-        end_time=window_end,
-    )
+    time_filtered = filter_articles_by_time_window(raw_articles, window_start, window_end)
     run_log["steps"]["time_filtered"] = len(time_filtered)
 
     keyword_filtered = [
@@ -927,6 +1066,7 @@ def run_tracker() -> Dict[str, Any]:
             "war_batch_score": report["war_batch_score"],
             "war_smoothed_score": report["war_smoothed_score"],
             "trend_label": report["trend_label"],
+            "alert_message": report["alert_message"],
         }]
         new_history = new_history[-STATE_HISTORY_LIMIT:]
 
@@ -935,7 +1075,6 @@ def run_tracker() -> Dict[str, Any]:
             "history": new_history,
             "seen_article_ids": list(seen_article_ids)[-SEEN_ARTICLE_IDS_LIMIT:],
         })
-
         return report
 
     client = build_client()
@@ -944,12 +1083,7 @@ def run_tracker() -> Dict[str, Any]:
     classified_articles = classify_articles(client, unseen)
     run_log["steps"]["classified"] = len(classified_articles)
 
-    report = build_report(
-        window_start=window_start,
-        window_end=window_end,
-        classified_articles=classified_articles,
-        history=history,
-    )
+    report = build_report(window_start, window_end, classified_articles, history)
 
     save_json(CLASSIFIED_JSON_PATH, classified_articles)
     save_json(LATEST_REPORT_PATH, report)
@@ -968,6 +1102,7 @@ def run_tracker() -> Dict[str, Any]:
         "war_batch_score": report["war_batch_score"],
         "war_smoothed_score": report["war_smoothed_score"],
         "trend_label": report["trend_label"],
+        "alert_message": report["alert_message"],
     }]
     new_history = new_history[-STATE_HISTORY_LIMIT:]
 
@@ -997,43 +1132,51 @@ def print_article_section(title: str, rows: List[Dict[str, Any]]) -> None:
     print(f"\n[{title}]")
     for i, row in enumerate(rows, start=1):
         print(f"{i}. {row.get('title', '')}")
-        print(f"   - source   : {row.get('source', '')}")
-        print(f"   - time     : {row.get('published_at', '')}")
-        print(f"   - strength : {row.get('strength', '')}")
-        print(f"   - reason   : {row.get('reason', '')}")
-        print(f"   - link     : {row.get('link', '')}")
+        print(f"   - source        : {row.get('source', '')}")
+        print(f"   - time          : {row.get('published_at', '')}")
+        print(f"   - strength      : {row.get('strength', '')}")
+        print(f"   - source_weight : {row.get('source_weight', '')}")
+        print(f"   - reason        : {row.get('reason', '')}")
+        print(f"   - link          : {row.get('link', '')}")
 
 
 def print_console_report(report: Dict[str, Any]) -> None:
-    print("\n" + "=" * 72)
-    print("IRAN-US WAR TRACKER")
-    print("=" * 72)
+    print("\n" + "=" * 76)
+    print("IRAN-US WAR TRACKER V2")
+    print("=" * 76)
     print(f"실행 구간              : {report['window_start_utc']}  ~  {report['window_end_utc']}")
     print(f"생성 시각 UTC          : {report['generated_at_utc']}")
-    print("-" * 72)
+    print("-" * 76)
     print(f"실시간 전쟁 신호       : {report['war_batch_score']}")
     print(f"상태 기반 전쟁 확률    : {report['war_smoothed_score']}")
     print(f"24시간 추세            : {report['trend_label_ko']} ({report['trend_delta']:+})")
-    print("-" * 72)
+    print(f"경보                   : {report['alert_message']}")
+    print("-" * 76)
     print(f"관련 기사 수           : {report['relevant_articles']}")
     print(f"협상 기사              : {report['negotiation_count']}")
     print(f"휴전 기사              : {report['ceasefire_count']}")
     print(f"완화 신호 기사         : {report['deescalation_count']}")
     print(f"긴장 고조 기사         : {report['escalation_count']}")
+    print(f"대리세력 확전 기사     : {report['proxy_escalation_count']}")
     print(f"실제 공격/보복 기사    : {report['strike_count']}")
-    print("-" * 72)
+    print("-" * 76)
+    print(f"기사 raw score         : {report['article_raw_score']}")
+    print(f"이벤트 raw score       : {report['event_raw_score']}")
+    print(f"혼합 raw score         : {report['batch_raw_score']}")
+    print("-" * 76)
     print(f"투자 시그널 - 유가     : {report['oil_signal']}")
     print(f"투자 시그널 - 방산     : {report['defense_signal']}")
     print(f"투자 시그널 - 항공     : {report['airline_signal']}")
     print(f"투자 시그널 - 증시     : {report['equity_signal']}")
     print(f"투자 시그널 - 금/달러  : {report['gold_dollar_signal']}")
-    print("-" * 72)
+    print("-" * 76)
     print(f"해석                   : {report['summary_ko']}")
-    print("=" * 72)
+    print("=" * 76)
 
     print_article_section("TOP NEGOTIATION", report.get("top_negotiation_articles", []))
     print_article_section("TOP CEASEFIRE", report.get("top_ceasefire_articles", []))
     print_article_section("TOP ESCALATION", report.get("top_escalation_articles", []))
+    print_article_section("TOP PROXY", report.get("top_proxy_articles", []))
     print_article_section("TOP STRIKE", report.get("top_strike_articles", []))
 
 
