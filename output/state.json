@@ -1,0 +1,27 @@
+{
+  "last_run_time_utc": "2026-03-09T03:44:29.082604+00:00",
+  "history": [
+    {
+      "window_start_utc": "2026-03-08T21:44:29.082604+00:00",
+      "window_end_utc": "2026-03-09T03:44:29.082604+00:00",
+      "war_batch_score": 100.0,
+      "war_smoothed_score": 100.0,
+      "trend_label": "flat"
+    }
+  ],
+  "seen_article_ids": [
+    "9e14c0d23e1f8885ebbb24febe567162a8d72dab",
+    "2a23c8ee7cf8d9c4c576d8c1412942fee1c82076",
+    "269a2c50da54345854e53117fa2ff48c51ada9d9",
+    "030a5472930ad0c43233805c750b079f62b5fbdc",
+    "b606447e17564c230c737490b356f9a553f07f0c",
+    "0ac6207313f5f283759754a4c94726d4c0111ef4",
+    "499c0557d93197ce274a61f03d34b3ef88a601ec",
+    "1f4ada0db60aeb0e4453d3e250fd81ffcd4a7c62",
+    "076579066b041de50ce1184e5faa2ee690f752f7",
+    "78c7cf4e853299da63fd387fe268c7eff6b4c4b5",
+    "12246f5b4cc20508c5255046f8f14209dc1ab3d3",
+    "89b48f6a92827e9bd57c9360b32835a5404373f5",
+    "25340876f9975f409faa652e8332c7eacb3d5b03"
+  ]
+}
