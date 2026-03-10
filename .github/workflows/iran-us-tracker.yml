@@ -2,8 +2,8 @@ name: Iran US War Tracker
 
 on:
   schedule:
-    # UTC 기준 6시간마다 실행
-    - cron: "0 */6 * * *"
+    # UTC 기준 3시간마다 실행
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 permissions:
