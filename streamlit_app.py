@@ -1,5 +1,7 @@
 import json
 import os
+import re
+import html
 from pathlib import Path
 
 import pandas as pd
@@ -60,6 +62,14 @@ def save_json(path: Path, obj) -> None:
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
+def clean_text(text: str) -> str:
+    text = "" if text is None else str(text)
+    text = html.unescape(text)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def to_kst(series: pd.Series) -> pd.Series:
     parsed = pd.to_datetime(series, errors="coerce", utc=True)
     try:
@@ -68,7 +78,7 @@ def to_kst(series: pd.Series) -> pd.Series:
         return parsed
 
 
-def gauge_color(score: float) -> str:
+def risk_color(score: float) -> str:
     if score < 25:
         return "#2ecc71"
     if score < 50:
@@ -154,12 +164,12 @@ def get_openai_client():
 
 
 def translate_title_to_korean(title: str, cache: dict) -> str:
-    title = (title or "").strip()
+    title = clean_text(title)
     if not title:
         return ""
 
     if title in cache:
-        return cache[title]
+        return clean_text(cache[title])
 
     client = get_openai_client()
     if client is None:
@@ -173,8 +183,8 @@ def translate_title_to_korean(title: str, cache: dict) -> str:
                     "role": "system",
                     "content": (
                         "Translate English news headlines into natural Korean. "
-                        "Return only the translated headline. "
-                        "Keep proper nouns accurate. Do not add explanation."
+                        "Return only the translated headline text. "
+                        "Do not include HTML, markdown, labels, explanation, or quotation marks."
                     ),
                 },
                 {
@@ -183,7 +193,7 @@ def translate_title_to_korean(title: str, cache: dict) -> str:
                 },
             ],
         )
-        out = (getattr(resp, "output_text", "") or "").strip()
+        out = clean_text((getattr(resp, "output_text", "") or "").strip())
         if out:
             cache[title] = out
             return out
@@ -196,8 +206,8 @@ def translate_title_to_korean(title: str, cache: dict) -> str:
 def get_title_ko(row: pd.Series, cache: dict) -> str:
     for col in ["translated_title_ko", "title_ko", "translated_title"]:
         if col in row and str(row[col]).strip():
-            return str(row[col]).strip()
-    return translate_title_to_korean(str(row.get("title", "")), cache)
+            return clean_text(str(row[col]).strip())
+    return clean_text(translate_title_to_korean(str(row.get("title", "")), cache))
 
 
 # =========================================================
@@ -260,7 +270,6 @@ if not articles_df.empty:
     articles_df["source_weight"] = pd.to_numeric(articles_df["source_weight"], errors="coerce").fillna(1.0)
     articles_df["weighted_strength"] = articles_df["strength"] * articles_df["source_weight"]
 
-    # 번역 제목 생성
     articles_df["title_ko_display"] = articles_df.apply(lambda row: get_title_ko(row, title_ko_cache), axis=1)
     save_json(TITLE_KO_CACHE_PATH, title_ko_cache)
 
@@ -389,8 +398,8 @@ st.markdown(
 # =========================================================
 # Header
 # =========================================================
-war_prob = float(pd.to_numeric(latest.get("war_smoothed_score", 0), errors="coerce"))
-level_color = gauge_color(war_prob)
+trend_risk = float(pd.to_numeric(latest.get("war_smoothed_score", 0), errors="coerce"))
+status_color = risk_color(trend_risk)
 latest_time = latest.get("generated_at_kst", pd.NaT)
 latest_time_text = format_time(latest_time) + " KST" if not pd.isna(latest_time) else "시간 정보 없음"
 
@@ -401,8 +410,8 @@ st.markdown(
         <div class="hero-sub">
             AI 뉴스 분류 기반 지정학 리스크 대시보드
         </div>
-        <div class="status-pill" style="background:{level_color};">
-            현재 전쟁 확률 점수: {war_prob:.1f}
+        <div class="status-pill" style="background:{status_color};">
+            현재 추세 위험도: {trend_risk:.1f}
         </div>
         <div class="mini-note">
             마지막 업데이트: {latest_time_text}
@@ -416,70 +425,108 @@ st.markdown(
 # KPI
 # =========================================================
 k1, k2, k3, k4 = st.columns(4)
-k1.metric("War Probability", f"{float(latest.get('war_smoothed_score', 0)):.1f}")
-k2.metric("Raw War Signal", f"{float(latest.get('war_batch_score', 0)):.1f}")
-k3.metric("Trend", str(latest.get("trend_label_ko", latest.get("trend_label", "-"))))
-k4.metric("Relevant Articles", int(pd.to_numeric(latest.get("relevant_articles", 0), errors="coerce")))
+k1.metric("추세 위험도", f"{float(latest.get('war_smoothed_score', 0)):.1f}")
+k2.metric("즉각 위험도", f"{float(latest.get('war_batch_score', 0)):.1f}")
+k3.metric("추세", str(latest.get("trend_label_ko", latest.get("trend_label", "-"))))
+k4.metric("관련 기사 수", int(pd.to_numeric(latest.get("relevant_articles", 0), errors="coerce")))
 
 # =========================================================
-# Gauge + Summary
+# AI Summary
 # =========================================================
-left, right = st.columns([1, 1])
+st.markdown('<div class="section-title">🧠 AI Interpretation</div>', unsafe_allow_html=True)
 
-with left:
-    fig = go.Figure(
-        go.Indicator(
-            mode="gauge+number",
-            value=war_prob,
-            title={"text": "War Probability"},
-            gauge={
-                "axis": {"range": [0, 100]},
-                "bar": {"color": level_color},
-                "steps": [
-                    {"range": [0, 25], "color": "#2ecc71"},
-                    {"range": [25, 50], "color": "#f1c40f"},
-                    {"range": [50, 75], "color": "#e67e22"},
-                    {"range": [75, 100], "color": "#e74c3c"},
-                ],
-            },
-        )
-    )
-    fig.update_layout(height=320, margin=dict(l=20, r=20, t=50, b=20))
-    st.plotly_chart(fig, use_container_width=True)
+st.markdown('<div class="chart-card">', unsafe_allow_html=True)
+summary_text = clean_text(
+    latest_report.get("summary_ko", "") or latest.get("summary_ko", "요약 정보가 없습니다.")
+)
+alert_text = clean_text(
+    latest_report.get("alert_message", "") or latest.get("alert_message", "")
+)
 
-with right:
-    st.markdown('<div class="chart-card">', unsafe_allow_html=True)
-    st.subheader("🧠 AI Interpretation")
-    summary_text = str(
-        latest_report.get("summary_ko", "") or latest.get("summary_ko", "요약 정보가 없습니다.")
-    )
-    alert_text = str(
-        latest_report.get("alert_message", "") or latest.get("alert_message", "")
-    )
-    if alert_text:
-        st.warning(alert_text)
-    st.info(summary_text)
+if alert_text:
+    st.warning(alert_text)
 
-    s1, s2, s3 = st.columns(3)
-    s1.metric("Strike", int(pd.to_numeric(latest.get("strike_count", 0), errors="coerce")))
-    s2.metric("Proxy", int(pd.to_numeric(latest.get("proxy_escalation_count", 0), errors="coerce")))
-    s3.metric("Escalation", int(pd.to_numeric(latest.get("escalation_count", 0), errors="coerce")))
-    st.markdown('</div>', unsafe_allow_html=True)
+st.info(summary_text)
+
+s1, s2, s3 = st.columns(3)
+s1.metric("직접 공격/보복", int(pd.to_numeric(latest.get("strike_count", 0), errors="coerce")))
+s2.metric("대리세력 확전", int(pd.to_numeric(latest.get("proxy_escalation_count", 0), errors="coerce")))
+s3.metric("긴장 고조 기사", int(pd.to_numeric(latest.get("escalation_count", 0), errors="coerce")))
+st.markdown('</div>', unsafe_allow_html=True)
 
 # =========================================================
 # Trend + Heatmap
 # =========================================================
-st.markdown('<div class="section-title">📈 War Probability Trend</div>', unsafe_allow_html=True)
+st.markdown('<div class="section-title">📈 위험도 추세</div>', unsafe_allow_html=True)
 
 c1, c2 = st.columns([1.35, 1])
 
 with c1:
     st.markdown('<div class="chart-card">', unsafe_allow_html=True)
     trend_df = signal_df.copy().dropna(subset=["generated_at_kst"])
+
     if not trend_df.empty:
-        trend_plot = trend_df.set_index("generated_at_kst")[["war_smoothed_score", "war_batch_score"]]
-        st.line_chart(trend_plot, height=320, use_container_width=True)
-        st.caption("war_smoothed_score와 war_batch_score 추세")
+        plot_df = trend_df.sort_values("generated_at_kst").copy()
+        plot_df["generated_at_kst"] = pd.to_datetime(plot_df["generated_at_kst"], errors="coerce")
+        plot_df = plot_df.dropna(subset=["generated_at_kst"])
+        plot_df["time_bin"] = plot_df["generated_at_kst"].dt.floor("3H")
+
+        plot_df = (
+            plot_df.groupby("time_bin", as_index=False)
+            .agg(
+                war_batch_score=("war_batch_score", "last"),
+                war_smoothed_score=("war_smoothed_score", "last"),
+            )
+            .sort_values("time_bin")
+        )
+
+        fig_trend = go.Figure()
+
+        fig_trend.add_trace(
+            go.Scatter(
+                x=plot_df["time_bin"],
+                y=pd.to_numeric(plot_df["war_batch_score"], errors="coerce"),
+                mode="lines+markers",
+                name="즉각 위험도",
+                line=dict(color="#e74c3c", width=3),
+                marker=dict(size=6, color="#e74c3c"),
+            )
+        )
+
+        fig_trend.add_trace(
+            go.Scatter(
+                x=plot_df["time_bin"],
+                y=pd.to_numeric(plot_df["war_smoothed_score"], errors="coerce"),
+                mode="lines+markers",
+                name="추세 위험도",
+                line=dict(color="#3498db", width=3),
+                marker=dict(size=6, color="#3498db"),
+            )
+        )
+
+        fig_trend.update_layout(
+            height=320,
+            margin=dict(l=10, r=10, t=10, b=10),
+            legend=dict(
+                orientation="h",
+                yanchor="bottom",
+                y=1.02,
+                xanchor="right",
+                x=1
+            ),
+            xaxis_title="시간",
+            yaxis_title="위험도 점수",
+            yaxis=dict(range=[0, 100]),
+            hovermode="x unified",
+        )
+
+        fig_trend.update_xaxes(
+            dtick=3 * 60 * 60 * 1000,
+            tickformat="%m-%d %H:%M"
+        )
+
+        st.plotly_chart(fig_trend, use_container_width=True)
+        st.caption("빨간선=즉각 위험도 / 파란선=추세 위험도 / 3시간 배치 기준")
     else:
         st.info("추세 데이터를 표시할 수 없습니다.")
     st.markdown('</div>', unsafe_allow_html=True)
@@ -505,14 +552,14 @@ with c2:
             )
         )
         heatmap_fig.update_layout(
-            title="War Probability Heatmap",
+            title="추세 위험도 Heatmap",
             height=320,
             margin=dict(l=10, r=10, t=45, b=10),
             xaxis_title="Hour (KST)",
             yaxis_title="Date",
         )
         st.plotly_chart(heatmap_fig, use_container_width=True)
-        st.caption("날짜/시간대별 전쟁 확률 점수 분포")
+        st.caption("날짜/시간대별 추세 위험도 분포")
     else:
         st.info("heatmap 데이터를 표시할 수 없습니다.")
     st.markdown('</div>', unsafe_allow_html=True)
@@ -575,13 +622,14 @@ else:
             badge_color = label_color(row["label"])
             label_text = label_ko(row["label"])
             strength_text = float(row["strength"])
-            source_text = row["source"].strip()
+
+            source_text = clean_text(row.get("source", ""))
             time_text = format_time(row["published_at_kst"])
-            reason_text = row["reason"].strip()
-            link = row["link"].strip()
-            summary = row["summary"].strip()
-            title_ko = str(row.get("title_ko_display", "")).strip()
-            title_en = str(row.get("title", "")).strip()
+            reason_text = clean_text(row.get("reason", ""))
+            link = str(row.get("link", "")).strip()
+            summary = clean_text(row.get("summary", ""))
+            title_ko = clean_text(row.get("title_ko_display", ""))
+            title_en = clean_text(row.get("title", ""))
 
             meta_parts = []
             if source_text:
