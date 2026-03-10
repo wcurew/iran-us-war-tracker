@@ -1,9 +1,9 @@
 {
   "date_utc": "2026-03-10",
-  "generated_at_utc": "2026-03-10T11:08:30+00:00",
-  "window_start_utc": "2026-03-10T07:57:26.423871+00:00",
-  "window_end_utc": "2026-03-10T11:07:46.294900+00:00",
-  "total_articles_classified": 6,
+  "generated_at_utc": "2026-03-10T14:36:16+00:00",
+  "window_start_utc": "2026-03-10T11:07:46.294900+00:00",
+  "window_end_utc": "2026-03-10T14:35:29.043943+00:00",
+  "total_articles_classified": 7,
   "relevant_articles": 6,
   "negotiation_count": 0,
   "ceasefire_count": 0,
@@ -11,11 +11,11 @@
   "escalation_count": 4,
   "proxy_escalation_count": 0,
   "strike_count": 2,
-  "irrelevant_count": 0,
+  "irrelevant_count": 1,
   "negotiation_ratio": 0.0,
   "war_ratio": 1.0,
   "avg_strength": 0.775,
-  "median_strength": 0.8,
+  "median_strength": 0.825,
   "avg_positive_strength": 0.0,
   "avg_negative_strength": 0.775,
   "avg_source_weight": 1.0,
@@ -29,7 +29,7 @@
   "escalation_events": 4,
   "proxy_events": 0,
   "strike_events": 2,
-  "war_smoothed_score": 92.37,
+  "war_smoothed_score": 97.46,
   "trend_delta": 6.14,
   "trend_label": "up",
   "trend_label_ko": "상승",
@@ -44,67 +44,67 @@
   "top_ceasefire_articles": [],
   "top_escalation_articles": [
     {
-      "title": "Iran official says diplomacy off table, signals prolonged war with US - Türkiye Today",
-      "source": "Türkiye Today",
-      "published_at": "2026-03-10T09:19:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHlyVGg2LW1ST2lSQjUySFhDeDJ0U2RVSE8zYnVHUlQxR2VJN2lrTFVETmhUN0diVHlvbDRTRHJ6WUR2d1lNMklLcGhRWERtZ3RFUE9ZNG9WcHM5R0MtQjAta1VENWxuT09pX3ctem95Zm92NDJPZV9VM3IzbVNCLS00WGUxdGhUbUkyb3VPSERhYkFjcVhZdllWZWRSZDBiS2p0OHV2SzR6c3JxWFpKN2V3?oc=5",
+      "title": "Iran Rules Out New US Talks as War Enters Day 11 - Caspianpost.com",
+      "source": "Caspianpost.com",
+      "published_at": "2026-03-10T12:07:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHhtV2ZleDJXb290OWJJeGNNQlBuS1VmcmhrZm53TXBrU3ZXUHB4RkhSSEhwV0pzNzNiTF9UTlNYczZVRHFmZ3Z6OUlRSXYyNW5GaXBtLWVrWFg0a3EwRWZLZXV2TlR0SURIR3RVVGZwQVB6TU5IbDdjQzRYZDN4STh5aw?oc=5",
       "strength": 0.85,
       "source_weight": 1.0,
-      "reason": "Iran official rejects diplomacy and signals a prolonged war with the US, indicating rising tensions and breakdown of talks.",
-      "event_key": "iran official rejects diplomacy signals prolonged war"
+      "reason": "Iran rejects new US talks amid ongoing war, signaling breakdown of diplomacy and rising tensions.",
+      "event_key": "iran rejects us talks war day11"
     },
     {
-      "title": "Iran Rejects Ceasefire With Israel & U.S.? Tehran Says 'MISSILES WILL SPEAK' As Trump Signals Truce - The Times of India",
-      "source": "The Times of India",
-      "published_at": "2026-03-10T10:07:13+00:00",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbURycFZpYzBqQ0swZ1RHNEFVRkxLSFNmaDF2M3VsWVV0a211TWtpaFJ5SUJuYUhnaFpnU2ZmWTdIdDlCWTNELTJmVkkybV9nbFBZNVJubkRYbUNhZVg4UHA2YmozOVRBb3lIWDAyNmlYMlJlY0o1MVN1c21pYU1SbjlVQUZrSzdqNmxTcDdRSUdveGNqMHhQa3EyUVlfRFpQM3ZzT1BBbHRhb1Q5SG15UGlEX3liVXFqb0xSZG1rWnVRUWdicWNwZFJZRzNJc0M5OFZsRncyOFkwZ3JQekdJYnp2NGlpcjhlNUlmMk5iUkRGZ3p0SmgzMm9vc29yVDZHMy1wMNIBigJBVV95cUxNWEh3aU9Oc3VxWkRTQTM1Sl9jSHdkbUlSbF9aVTEtbWFmQ3pvdWNTUXRnNFEtTVR3dmVzY0FxYnZ4N2tOUkhmVjdRT0ZBRm9HcndZQzhMZG9fLUZRWGtmNG9YZDJEU1pDSWVJbGg3SXpvUUR2YzYxNk9GWnNJdG9qY1NHbW9JYlloTGdhaEU3ci0tWndENEl2YmlOSUdva0haTDlSUlV6NGRxa2l6UWJQbUtpMUV1cXVPblJvTHNZWkdEYjV4YW1MMFBjeU9VT1BzcENxZ1pNNFlXb0g4cjh3UWlTaGFYb3FtdlYzamZGdktvNEFTd01NUGEtZTNzRHVnUmt5MzVfQ0tyQQ?oc=5",
+      "title": "US and Israel attack Iran, destroying nuclear negotiations - TRT World",
+      "source": "TRT World",
+      "published_at": "2026-03-10T11:51:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ibnk5eWVNdnRpYkFyTDhzOURraF9CbVdGVnlZeFNidGJHNFdqSGtoZnltcXEzY0VWN2tZSUFSTVBxdjlxWVBBSUJtV2ZmLWJrNjdOQWxDMk03aFlOSXh5X0puSy0?oc=5",
       "strength": 0.8,
       "source_weight": 1.0,
-      "reason": "Iran rejects ceasefire and threatens missile retaliation; tensions rising despite U.S. truce signals.",
-      "event_key": "iran rejects ceasefire threatens missiles"
+      "reason": "Reports US/Israel 'attack' destroying nuclear negotiations — indicates breakdown of diplomacy and rising tensions.",
+      "event_key": "us israel attack ends nuclear negotiations"
     },
     {
-      "title": "Iran’s threats on U.S. soil: sleeper cells, lone wolves, cyberattacks and eerie numbers code - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "published_at": "2026-03-10T10:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWJ4WDZSX25tTDZBQl9wUFVnZEJWalVvdVR5YThXd2o1YkhOTGVTSjVmT0UzeHNvdDRRNl9oVGsxRW01ckRWMm96RmJtVWlRUjJyMG95dks3aHgwMHNGVkNfMGtkbnVoVkEwdkxXLURBMFBTNUpCU2gwNS01SWtUT0g3N1RFeDJYbDhBU0dDUWpTSW9xdnBRRTdxdncyU3VFWkdUREh1dDlJS3hqbmF2X1BBNU9zZw?oc=5",
+      "title": "Iran's foreign minister said that talks with the United States were not on the agenda as their war entered its 11th day. | via ANC 24/7 Link to full story in the comments section. - facebook.com",
+      "source": "facebook.com",
+      "published_at": "2026-03-10T13:00:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS0hreGRzYzRRVndkMEJkWVNGWmtJNHNxZFRsVUpObmF0M1lJNzRJdE81OUtlUWFRVjNONEpiWDh3cjN1QWxsTzZNTUd0aDN6NkRaUVNBR0JUWlNnTEVqN3E4elNnVzJIeU8yZGVSclZKazl1UjVVckZ5d2RzampUUUFBbDJvSTRnSy14ZmduWlFRNUt2NnQ4dTBQQkZsenV0RnVoOGtYclhQOWdMclZrMU9RN094dHNIblFIVUZSN3A4SndQc1NiQmZ2TXpseG1TVl9UdzhiWQ?oc=5",
       "strength": 0.7,
       "source_weight": 1.0,
-      "reason": "Details Iranian threats of sleeper cells, lone-wolf attacks and cyber and terror threats on U.S. soil, signaling rising hostility.",
-      "event_key": "iran threats us soil"
+      "reason": "FM saying talks are not on the agenda amid an ongoing war signals diplomatic breakdown and rising tensions.",
+      "event_key": "iran fm no talks"
     },
     {
-      "title": "Ukraine says US ‘postponed’ Russia talks to focus on Iran conflict - TVP World",
-      "source": "TVP World",
-      "published_at": "2026-03-10T09:02:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHBvTVFxQUtSdlQxc2xjU251ZGpRN21UdWJJaTFscW1EQXNaTFFvbHR0bnZtRjVPZDZEWG9jUW1lSHlxTjRTSmlZWWJYMXdHWWhCMlE0NGY4N3FBNGFrODJtblA0bUV4TjhIamtfYmczamZsNDBpckFnNFkwV0F6bnFoM3I2QWdubEk5aU5fNGRsN0ZNZENCMXBIdWZxLTNQRFE?oc=5",
+      "title": "Kremlin Evades Questions About U.S. Warning Against Intel Sharing With Iran - The Moscow Times",
+      "source": "The Moscow Times",
+      "published_at": "2026-03-10T12:40:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjQzTEZyc3ZWcHQ3SnNqeWl5OWtONkdYTkxQTi1CNjFOejQ4VTBTVmJ3elp1U2Y0d19pYW9KLXlVVUthWjZxUXVfeXA3WHZCakZ6ZEZaTWg2N1cyc0FUQmltN1RLX0o1Z3RIdjRwOVRUTkxOa2FlSHljc2FPT0hpOTRsM0VkZVd3MWFlNGZjNlAtUy1Cc2NaQjJPQm9JNHpkRUxSc0NoWTlJWU9Rb2JfSGI3M2JXNWVackp2aDh5MA?oc=5",
       "strength": 0.6,
       "source_weight": 1.0,
-      "reason": "US postponed Russia talks to focus on Iran conflict, signaling heightened tensions and prioritization of the crisis.",
-      "event_key": "us postpones russia talks focus on iran conflict"
+      "reason": "U.S. warning about intelligence sharing with Iran and Kremlin evasion signals rising tensions and hostile posture.",
+      "event_key": "us warning russia intel sharing with iran"
     }
   ],
   "top_proxy_articles": [],
   "top_strike_articles": [
     {
-      "title": "Iran war: What is happening on day 11 of US-Israel attacks? - Al Jazeera",
-      "source": "Al Jazeera",
-      "published_at": "2026-03-10T09:05:08+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkZBOXc1SDRlX0xuR1VjNU9GOF9GMFg3Um5VQjk4Vm95MUg5bFpsMXhaOWJDRXhNaXNvT0NoT3RLRUNOZmVJZFNVbFZudzUzLUdNbmdYODNzZXdHa1BzQkl6RnBNamFCT0QyajFEcjV5empROUl0NVhFRXN6bGhEaXluN3REMzFpVEFDMkhIVDdpY1I2bmcwVnpXNjA5S0HSAaQBQVVfeXFMTlZEaXlySXNYY2VmczRpR0s5QXRqUEFwOFJFdTlhSjlnbG8tUFdSSmo0ZDl2NldkZHRXUjNSUjR1MDN0d3k3SVhMMnNPVHZDaEZPbnNEM1M2THc0SnRCeU9vRHkzY2hpTWZZYi1Kc0tDcV9NcGtGeFRDaDdLTDdsbHpFM0lCU0NielE3Sy1TcDFFSTBzUVJiN0xWQXRIOG5wSXBkNjc?oc=5",
-      "strength": 0.9,
+      "title": "Tehran rejects US talks as war enters 11th day, Iran hits Gulf - The New Arab",
+      "source": "The New Arab",
+      "published_at": "2026-03-10T12:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFozSGhYb2ZDb3VLbVU2UU90VXR3UU5pR3BkUmg2UEdRZXdteEhwSU1fSFRMNHRMZzBNR2R3Y1BmVHNTdDgyUE5zcFpPMktfRi1GV2FaVWdwZGY5RlkwTXljMFJibXZINm5MMnd2anZxWFJVbTJjMWNWLVZTY1pESGJjS2hQZDN4ZFZzZFBEMkfSAZYBQVVfeXFMTXVFRzNVQ21WTFo4Vjk0blktOWx2WGthWk5KeW8tR0VoejI4UmVpVWc0UUE1NkQxSWpQSjFWQXlfMXdITFFYN0JsWGkwSkNmTlJ2V24ycy1lTTZoai1GNnFHcnVnZFpNV0Q1b3Z3SFloOUZnRUFyV1RBOGdZMjZJSi1Jc0w4cjRnQVZ6TURPV1FzTjNpVGFB?oc=5",
+      "strength": 0.85,
       "source_weight": 1.0,
-      "reason": "Article reports ongoing US-Israel military attacks against Iran on day 11.",
-      "event_key": "us israel attacks against iran day11"
+      "reason": "Article reports Iran striking the Gulf and rejecting US talks—direct military action amid conflict.",
+      "event_key": "iran strikes gulf rejects us talks"
     },
     {
-      "title": "Footage of strike near Iranian school shows likely US missile - The Arkansas Democrat-Gazette",
-      "source": "The Arkansas Democrat-Gazette",
-      "published_at": "2026-03-10T09:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFpDMmV6Rm8yM0s3ZEhsc2FBT2RSaXlUYjlSeUtBSDBFNG56cVlEU2hxN3hpaWp0aDFicXBoOW4yb0duNGl3dkJLcjN2WjVCc1ZfUGdvM1dPZ1E2UDhjYUlQdE9zTlNNcWQ2SmZmV2d2RTAtNm9FZkhXNVQtRTBWaGdzUjRwVWR6TFJwbHpLM2lwSWNpX3Nz?oc=5",
-      "strength": 0.8,
+      "title": "Iran war: Tuesday to be 'most intense day' of US strikes - DW.com",
+      "source": "DW.com",
+      "published_at": "2026-03-10T13:14:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkdiTFNjZENxQ1Z4bHZQb1FfeG1kYjZFblhPdVExeDQ0MjJwN3RYX3ZTRnE1aERiUm9rdzdqZmRWY21nRk03UWNOUVFKYk1tN08weG53UEYzSlZvdkZWRWk4VDdfT3BMbThYb3BWRld3WVRUM21wYWlZc1IxRjVITVQ0QlJnSUlKTmhr?oc=5",
+      "strength": 0.85,
       "source_weight": 1.0,
-      "reason": "Video reportedly shows a likely US missile strike near an Iranian school, indicating direct military action.",
-      "event_key": "us missile strike near iranian school"
+      "reason": "Reports US preparing/launching intense strikes, indicating direct military action.",
+      "event_key": "us intense strikes tuesday"
     }
   ]
 }
