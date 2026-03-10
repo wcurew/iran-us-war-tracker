@@ -3,6 +3,7 @@ import os
 import re
 import html
 from pathlib import Path
+from textwrap import dedent
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -147,7 +148,7 @@ def build_heatmap(df: pd.DataFrame) -> pd.DataFrame:
         index="date",
         columns="hour",
         values="score",
-        aggfunc="mean"
+        aggfunc="mean",
     ).sort_index()
 
     return pivot
@@ -187,10 +188,7 @@ def translate_title_to_korean(title: str, cache: dict) -> str:
                         "Do not include HTML, markdown, labels, explanation, or quotation marks."
                     ),
                 },
-                {
-                    "role": "user",
-                    "content": title,
-                },
+                {"role": "user", "content": title},
             ],
         )
         out = clean_text((getattr(resp, "output_text", "") or "").strip())
@@ -258,9 +256,16 @@ if not articles_df.empty:
         articles_df["source_weight"] = 1.0
 
     for col in [
-        "title", "summary", "link", "source", "label",
-        "reason", "event_key", "translated_title_ko",
-        "title_ko", "translated_title"
+        "title",
+        "summary",
+        "link",
+        "source",
+        "label",
+        "reason",
+        "event_key",
+        "translated_title_ko",
+        "title_ko",
+        "translated_title",
     ]:
         if col not in articles_df.columns:
             articles_df[col] = ""
@@ -283,7 +288,7 @@ if not articles_df.empty:
 # CSS
 # =========================================================
 st.markdown(
-    """
+    dedent("""
     <style>
     .block-container {
         padding-top: 1rem;
@@ -391,7 +396,7 @@ st.markdown(
         margin-bottom: 0.4rem;
     }
     </style>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -404,7 +409,7 @@ latest_time = latest.get("generated_at_kst", pd.NaT)
 latest_time_text = format_time(latest_time) + " KST" if not pd.isna(latest_time) else "시간 정보 없음"
 
 st.markdown(
-    f"""
+    dedent(f"""
     <div class="hero">
         <div class="hero-title">🌍 Iran-US War Risk Tracker</div>
         <div class="hero-sub">
@@ -417,7 +422,7 @@ st.markdown(
             마지막 업데이트: {latest_time_text}
         </div>
     </div>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -507,13 +512,7 @@ with c1:
         fig_trend.update_layout(
             height=320,
             margin=dict(l=10, r=10, t=10, b=10),
-            legend=dict(
-                orientation="h",
-                yanchor="bottom",
-                y=1.02,
-                xanchor="right",
-                x=1
-            ),
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
             xaxis_title="시간",
             yaxis_title="위험도 점수",
             yaxis=dict(range=[0, 100]),
@@ -522,7 +521,7 @@ with c1:
 
         fig_trend.update_xaxes(
             dtick=3 * 60 * 60 * 1000,
-            tickformat="%m-%d %H:%M"
+            tickformat="%m-%d %H:%M",
         )
 
         st.plotly_chart(fig_trend, use_container_width=True)
@@ -534,6 +533,7 @@ with c1:
 with c2:
     st.markdown('<div class="chart-card">', unsafe_allow_html=True)
     heatmap_pivot = build_heatmap(signal_df.tail(120))
+
     if not heatmap_pivot.empty:
         heatmap_fig = go.Figure(
             data=go.Heatmap(
@@ -568,6 +568,7 @@ with c2:
 # Market Signals
 # =========================================================
 st.markdown('<div class="section-title">📊 Market Impact Signals</div>', unsafe_allow_html=True)
+
 m1, m2, m3, m4, m5 = st.columns(5)
 m1.metric("Oil", str(latest.get("oil_signal", "-")))
 m2.metric("Defense", str(latest.get("defense_signal", "-")))
@@ -640,26 +641,29 @@ else:
             meta_text = " · ".join(meta_parts)
             link_html = f'<a href="{link}" target="_blank">원문 보기 ↗</a>' if link else ""
 
-            st.markdown(
-                f"""
-                <div class="news-card">
-                    <span class="badge" style="background:{badge_color};">{label_text}</span>
-                    <span class="badge" style="background:#334155;">Strength {strength_text:.2f}</span>
-                    <span class="badge" style="background:#1f2937;">{strength_emoji(strength_text)}</span>
+            title_en_html = f"<div class='title-en'>{title_en}</div>" if title_en and title_en != title_ko else ""
+            summary_html = f"<div class='summary'>{summary}</div>" if summary else ""
+            reason_html = f"<div class='summary'><b>판단 근거:</b> {reason_text}</div>" if reason_text else ""
+            meta_link_html = f" · {link_html}" if link_html else ""
 
-                    <div class="title-ko">{title_ko}</div>
-                    {"<div class='title-en'>" + title_en + "</div>" if title_en and title_en != title_ko else ""}
-                    {"<div class='summary'>" + summary + "</div>" if summary else ""}
-                    {"<div class='summary'><b>판단 근거:</b> " + reason_text + "</div>" if reason_text else ""}
+            card_html = dedent(f"""
+            <div class="news-card">
+                <span class="badge" style="background:{badge_color};">{label_text}</span>
+                <span class="badge" style="background:#334155;">Strength {strength_text:.2f}</span>
+                <span class="badge" style="background:#1f2937;">{strength_emoji(strength_text)}</span>
 
-                    <div class="meta">
-                        {meta_text}
-                        {" · " + link_html if link_html else ""}
-                    </div>
+                <div class="title-ko">{title_ko}</div>
+                {title_en_html}
+                {summary_html}
+                {reason_html}
+
+                <div class="meta">
+                    {meta_text}{meta_link_html}
                 </div>
-                """,
-                unsafe_allow_html=True,
-            )
+            </div>
+            """)
+
+            st.markdown(card_html, unsafe_allow_html=True)
 
 # =========================================================
 # Raw data
