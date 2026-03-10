@@ -1,223 +1,53 @@
 [
   {
-    "title": "Ghalibaf: Iran will retaliate if to US-Israeli attacks - The Jerusalem Post",
-    "summary": "Ghalibaf: Iran will retaliate if to US-Israeli attacks The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tQUxnNzR6S2FsUEF1aEZuRmpqZDdvZ1JVNlZXUWJHMWxBaU5IWEhkTERqc2t3SFBDRUNXZTNLTjJub3YxbXhVRVFBOWRnNndBX05rYTR6QUwxbkNK?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-03-10T16:28:41+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 16:28:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9222b7d25fbb8411c27d9e7cbe20294f083900dd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Senior Iranian official threatens retaliation against US-Israeli attacks, a clear warning increasing tensions.",
-      "event_key": "ghalibaf threat retaliation"
-    }
-  },
-  {
-    "title": "US Says It’s Escalating War on Iran, Dampening Chance for Talks - Bloomberg.com",
-    "summary": "US Says It’s Escalating War on Iran, Dampening Chance for Talks Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0ZJZ3FKMkxrVlZGMUVBbEhEazEta292Sl9jWm9nZW14c3VmUmtvU19ablV2Z2tYX1VVSU9jX3FLVkt5aTlCNXVwNHZlekxuUjlQelpuUlItdzRwM0FWdmVNZVZhT0YxUUp5OEtkNGhLNHlyUTRHS1JRTFB0TnRsVW52VmJYN3FFb3A5Z2o2VGNjZXFtQlEwNkI1YTlWQVZmQ1NSQnNFV0E4S1N5WWRoQ092bw?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-03-10T16:22:17+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 16:22:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "30909a1106c819dad2b666c4ed29f9b9be569e0b",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "US statement of escalating the war lowers prospects for talks, signaling rising tensions.",
-      "event_key": "us escalation dampens talks"
-    }
-  },
-  {
-    "title": "US-Israel strikes expose Iran’s growing isolation - The Jerusalem Post",
-    "summary": "US-Israel strikes expose Iran’s growing isolation The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MUzZ0Zzh0UmJHREJsM0Q4UDNMb1o4cUNtN190QjlDV29PYjhfTFhWUjVYLWRHZm9oTUhlZzFLZkdhNFMwcG5LUzJ1ZlYyQXFlRHIxcWRjSQ?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-03-10T15:00:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 15:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1dbd6525cc66ec0a85b370829015d49254433e19",
+    "title": "Tehran endures ‘worst night of strikes’ amid mixed US messages about more to come - The Guardian",
+    "summary": "Tehran endures ‘worst night of strikes’ amid mixed US messages about more to come The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlJWdUkyRFM5ODYyWC1OTjFVaU9scUhUSUhiZmZKWFlQTVQxMFR3QjZuTW5wNWxmemhUNXhlcS05UHlJbEdXNFFFdHZodV9pY3lSMFJnU2RRYVVSdkx1dnEwQ1ItanF0bVJVM2RGV1NiT2w3ZnZEN2hCYnFyZGlnb19XN2Y?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-03-10T19:07:00+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 19:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c514f2f5dc82f618133d589a3be92d5dff2bd51a",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Article centers on US-Israel military strikes, indicating direct attack/retaliation rather than diplomacy.",
-      "event_key": "us israel strikes expose iran isolation"
+      "reason": "Reports of significant strikes on Tehran and US indicating possible further strikes — direct military attacks and imminent retaliation.",
+      "event_key": "tehran strikes us signals more"
     }
   },
   {
-    "title": "Facts: Counting the Casualties in the US-Israel war on Iran - Modern Diplomacy",
-    "summary": "Facts: Counting the Casualties in the US-Israel war on Iran Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTC1pWk4tblVPZ3hGYnBQa3pwYXN0Y1l0U0tjUXB4aVZmSzRDdEQ4VjhPZ1kyYmFTb00ya3FocHB0MW9vZlh5SkdTN1FNTHB1X3c3OXBGZy1HMmozeHF6d2ZSSTYyQVRBMlBMQkhoeURmdHNpRG9WNDhzUjh0aFlxUHhIUHF4VHBZemxKaUM5VnlRWmNmaktTRVNkQ3Q5Zw?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-03-10T16:20:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 16:20:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "45583995917d27ae99765fadeac6fbd8bcd5d308",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Article tallies casualties from an alleged US-Israel military campaign against Iran, implying direct strikes/war.",
-      "event_key": "us israel war on iran casualties"
-    }
-  },
-  {
-    "title": "US intelligence community ramps up warnings of possible retaliatory attacks by Iran - CNN",
-    "summary": "US intelligence community ramps up warnings of possible retaliatory attacks by Iran CNN",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLW95UGljN19hYV9zall4RldWbGF6SDN5Tmc1aWFxdXlnQWJuVnhWVUhGNWY1aXdHeE50RFNnVU1BdjJTUm1namZDUy1xUTk0NGVlaG1xWllmOUQ0blU5R1dLUFh3TjdDQ3BkeXVwZHJmSllIRGx6ZXNpcVZNb3lNUTc1cHdUWC1w?oc=5",
-    "source": "CNN",
-    "published_at": "2026-03-10T15:48:53+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 15:48:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5a793bb5fcfaf48605f6779b3d3c7bf66f581bc7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US warnings of possible Iranian retaliatory attacks indicate rising tensions and risk of escalation.",
-      "event_key": "us intel warnings iran retaliation"
-    }
-  },
-  {
-    "title": "Pete Hegseth vows ‘most intense day’ of US strikes against Iran - Al Jazeera",
-    "summary": "Pete Hegseth vows ‘most intense day’ of US strikes against Iran Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGdRS212MWRQLXdCaXhjMXNaZWlPV2xPM0NFR2N3a3E1NVp1SzNNb2lTVWVlMVVfZi1ic1puV1JrYktYS29XeVp4QzR0bmc3QlNUZTFqRTlTb3hiYW02X1FjWHcyMkZ0Q1BNZmZmdlRZLUNlYmFRRWt5QUp4Mm1SbjhBcmgzODFBc1V2MVloNHpNODcwSWZ0Tk5qNWVxOEZiRllKMtIBqgFBVV95cUxOR1JVN1JkS0dPWVBrMG5HcXNkSXRMRnU5X2pjWF8tUERBMk5ieG9EaHZ5bkhycF9jS3hUUTl2TzQ4aVZpakRxaVpPbll6YTZKTUY2NGZfaWU5bUl0UnRVaFdYcGsxUXBRTFAzcVc0Q1A5Ri1lRThaenRGa25uZ3RVN1BkZ3d4d21OcUN4cEduYlVxT3gwRlBFSmRoa1dWbktXdEV6c1d3SlFKUQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-10T15:20:53+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 15:20:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "809da42d14b254e25071c8c09a19f5204576afc1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Public vow threatening intense US strikes on Iran constitutes escalatory rhetoric and threat of military action.",
-      "event_key": "hegseth vows intense strikes against iran"
-    }
-  },
-  {
-    "title": "US and Iran dig in and ramp up threats as war rages with no end in sight - AP News",
-    "summary": "US and Iran dig in and ramp up threats as war rages with no end in sight AP News",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2JpNHRqQXdhRzM3VFNMUFY2MFhXRWduMXE4a1pmbDZsbFRUY3lFdXByek9BY3c4Z0xINFlUVkF4REQ2RDVCcnJZdmJDbGJxX3RkdlpZMlZRSF94MG5YM2FUZEJoYThuZHhjVjFzNGVEc0hTeS1VWjRiS0VzZUpOdWFqeHdRTkZVblBNbHBabmJMQQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-03-10T15:33:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 15:33:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "becc45d71d686432864ce083794bc5f44a6d9bbc",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Mutual threats and ramped-up rhetoric indicate rising tensions and greater risk of conflict escalation.",
-      "event_key": "us iran rising threats"
-    }
-  },
-  {
-    "title": "Hegseth Says U.S. Attacks Intensify Under Epic Fury, While Iranian Responses Slow - U.S. Department of War (.gov)",
-    "summary": "Hegseth Says U.S. Attacks Intensify Under Epic Fury, While Iranian Responses Slow U.S. Department of War (.gov)",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekVQVW84NFY3SURqZFRyVURoNDlhLXFvY3d2ek5fNVBMa2REX2ItcTRiVUhCWlJORGNvNld0VFFWb3otMFJNamxXUjJENGJrTkdCcFNtdUplR1VIdEJ2N2pBQVJYbWJWU0tnblNabnloYVJsSmpVUjBpcUpTcEpScERRZFZkWklXd09tMm4ycjZzOWc0aXhiQW54dm1IaVNaTVFneV9PcTd5bU9LRVEwLURGb0hpY041bUFKRGZXM1pGTnFRNmZQQkdMcnZaOV9Md0RrOTN6QnM?oc=5",
-    "source": "U.S. Department of War (.gov)",
-    "published_at": "2026-03-10T17:07:19+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 17:07:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "505802601c1009894c16d9169916d4aeaf02cae7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Title indicates intensified U.S. attacks (direct military action) with Iranian responses, signaling active strikes/retaliation.",
-      "event_key": "us attacks intensify iran responses slow"
-    }
-  },
-  {
-    "title": "Where American support for Trump’s Iran strikes stand as new polls roll in - Fox News",
-    "summary": "Where American support for Trump’s Iran strikes stand as new polls roll in Fox News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUVaMml2N1BabVlWVTdLN3l4Qk1nN1RoM0ZldUJFTVRnQnAtYU1NX2s2cEMtMFhhTC1NMG1mZDJkVVlmcUhpWFcwc3Vra2pmc3ktWHhkeFVpUU54M0EwX28zeElheGdraHZMRjhoYlg0RTdlZk5VTkgwUHVrTWdVeEcyUnBjMnJETEZ0bFdzS2pVT0g0YlV5TWhwR3fSAaIBQVVfeXFMUEd6eFBfVGNZWUwzV0tudE9nRmcxaVktNko1M2gwQXl0N2dqTFF5RVRRa04wd1JuXzZReWpiOTd3MHZvR3NiaHZlNlNYOExZMTg5cGdlSDRXRExLaEtKYUNidWUtT2NXa2h2ZHVkV19RektDamJpMU5PbWVvcWtSU0FIRXY1TW1EUl9aRWExLUY4cEQyZlAxck9GMEdNNG1td1dn?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-03-10T16:23:40+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 16:23:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "300cbce36b4c325d255f7be390b859d2972e57bb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.3,
-      "reason": "Discusses US public support for Trump's strikes, reflecting pro-military/escalatory sentiment.",
-      "event_key": "trump iran strikes polls"
-    }
-  },
-  {
-    "title": "'We made a mistake': In 1st, GOP lawmaker acknowledges US strike hit Iran elementary school - The Times of Israel",
-    "summary": "'We made a mistake': In 1st, GOP lawmaker acknowledges US strike hit Iran elementary school The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNjdxcXIxOHBRNnlVeF8tcjMxQU9tcXNzODRDRTUxb2tkZUdoWHkxOGd0T1J3OUs0YW10UTZBTVFmSUhZRWx6VENTaHJxQlkzNGIxLUxSbmppTjBzMkM1ZTl4dUQ1TlZYMWVrLVc2YWlTM3J3TE5UdjBSaUduWXVYQ1AtLWFhSnVrdHZ5RXQ2eFFzWlk1dlNUTndNZ3JHZ1RVYWhJeVdDalhPc2ZEQ09Fa0Y2Z19WZ3k1SVdhYmZVMUVhWUpLZ1B3czNGYTQ1QQ?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-03-10T16:03:46+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 16:03:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bc69fc74a27115f767798698508b6340c9b21337",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "A US strike hit an Iranian elementary school, with a lawmaker acknowledging the attack—direct military action.",
-      "event_key": "us strike hit iran elementary school acknowledged"
-    }
-  },
-  {
-    "title": "Live: Iran will face 'most intense day' of US attacks, Pentagon chief says - Middle East Eye",
-    "summary": "Live: Iran will face 'most intense day' of US attacks, Pentagon chief says Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-03-10T14:51:13+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 14:51:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0fa76da565888d7c5639f8956582e0a0c9fbedcb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "Pentagon chief threatened 'most intense' US attacks on Iran, signaling heightened tensions and escalation.",
-      "event_key": "pentagon threat most intense attacks on iran"
-    }
-  },
-  {
-    "title": "U.S.-made Tomahawk missile appears linked to deadly Iran school blast, NYT finds - The Detroit News",
-    "summary": "U.S.-made Tomahawk missile appears linked to deadly Iran school blast, NYT finds The Detroit News",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWtrNkwxQko1TWNlLWEzelpxM1JzcURuR0o0MmFIQkQ4MDNPa3l4cEJ6Ri10c0c3RnE0RmFoNDY2bElmZ3V0UmJaMUJnOVdhVHQ2Sk1Gd1lsRWlFUnpkckpjMExZQXU5Znh4eFZ6NHRnM0ozdmF5ZnpaaXZzV3VlMUJnYWpvQlNEdzZVdzNLeWR3cENFSkZ5d2FlTHY5OTZUQ1pGeUJLLU9LUmp4ajd4MVg3NlpxYmxQeGNVTmVoSHFpbl8zdlJHeVhCY2ljUWJpdFZlSGUzQnUycnI5bGNMSjVBdw?oc=5",
-    "source": "The Detroit News",
-    "published_at": "2026-03-10T15:31:13+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 15:31:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "430729fa4d1f71d4d542b37a19404121ec016449",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Investigation links a Tomahawk missile to a deadly strike at an Iranian school.",
-      "event_key": "tomahawk linked school blast iran"
-    }
-  },
-  {
-    "title": "Merz warns of ‘dangerous escalation’ in US-Israel war against Iran [VIDEO] - TVP World",
-    "summary": "Merz warns of ‘dangerous escalation’ in US-Israel war against Iran [VIDEO] TVP World",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblNkWTU3ZDlQUElvRkRXcy1vVExxOFp4SmtkQWdKaFdETXBZd1RtcnhTMXdPY3d2bF9DOUZTOHlxT2dUTzEwT3NxLWpjU3Y2X25iTnU0WE1WSHZBT01lRUZENkVqamJMcEd5QUhvMWZ6aFllMEEybU80YmNvLUJHdHc5VXlrQQ?oc=5",
-    "source": "TVP World",
-    "published_at": "2026-03-10T15:47:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 15:47:00 GMT",
+    "title": "War between the US and Iran: Quick End or Further Escalation - UA.NEWS",
+    "summary": "War between the US and Iran: Quick End or Further Escalation UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVBfMDh6WUxBNDJEN3RaaDlHN19PM1Z4NXQxcTktTFFFRktMaEVBNVA0NW1oaUc4TXlSbmstS3FZNzlJWThPUTdxZVRTMWxZa0hTeTR3RWhySTZCZkNDUWFOdG5QOS1NLXVjWmtTQmlwcC1hVzg3OG4ta0Rwdk9Sa0pxd2xxMFEtNmtvVF9sZ1VMdWVJ?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-03-10T17:51:58+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 17:51:58 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c33e3c0d64ee4360bb5cfe59453f0904c2dbb28b",
+    "article_id": "7caa3e7d8f0f6161239bc72c403cc8f4a38cf88c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Merz issues warning about dangerous escalation in US-Israel conflict involving Iran.",
-      "event_key": "merz warns dangerous escalation us israel iran"
+      "strength": 0.2,
+      "reason": "Headline discusses potential further escalation or war between the US and Iran, not specific diplomatic or strike events.",
+      "event_key": "us iran war outlook"
+    }
+  },
+  {
+    "title": "The US is warning today will be the heaviest day of strikes on Iran so far as the war in the Middle East enters its 11th day. - Facebook",
+    "summary": "The US is warning today will be the heaviest day of strikes on Iran so far as the war in the Middle East enters its 11th day. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU1YakJ3LWUzdF9zM2NSM1pSTnBTTHdENlJpbWdoSGRTeUkwaWZLakp2NndySG8xZEppZEhFMk5ZWXF1R2toTmdrekZJYXNmd3JIY2NOd1d0Ny1YTzBmY2E1NU1OOFkxVHZ0SzZGWnZzT1d6SVJQU3RwQ0Y2TjdaSTV2Q3REelZvcXkxRnFvb09hWGtVdnY2aXFPeGxfVXZ2RzA2Sy1BYUQyMGxUMjNRQzlELVdjTzlVQjd2bHJoMkJzeWIxc1RobGpRQlk3NERNSWE2Qi1DSUZJQVZDV3lB?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-03-10T19:42:23+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 19:42:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "21889b9ce28c5f904ef91c7da10fa90004a200d2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "US warning of heavy strikes on Iran indicates imminent or ongoing direct military attacks and retaliation.",
+      "event_key": "us warning heaviest strikes on iran"
     }
   }
 ]
