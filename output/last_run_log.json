@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-03-10T05:00:37+00:00",
+  "started_at_utc": "2026-03-10T07:57:26+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-03-09T19:54:12.720994+00:00",
-  "window_end_utc": "2026-03-10T05:00:37.616061+00:00",
+  "window_start_utc": "2026-03-10T05:00:37.616061+00:00",
+  "window_end_utc": "2026-03-10T07:57:26.423871+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 76,
-    "keyword_filtered": 29,
-    "deduped": 19,
-    "after_seen_filter": 19,
-    "classified": 19
+    "time_filtered": 29,
+    "keyword_filtered": 14,
+    "deduped": 10,
+    "after_seen_filter": 9,
+    "classified": 9
   },
-  "finished_at_utc": "2026-03-10T05:02:38+00:00",
-  "summary": "직접 공격·보복 보도가 강하게 반영돼 고위험 구간이다. 단기 확전 리스크를 강하게 경계해야 한다."
+  "finished_at_utc": "2026-03-10T07:58:29+00:00",
+  "summary": "긴장 고조 흐름이 매우 강하다. 시장은 방어적 포지션과 에너지 강세 쪽 해석이 유효하다."
 }
