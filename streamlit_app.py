@@ -1,9 +1,11 @@
 import json
+import os
 from pathlib import Path
 
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
+from openai import OpenAI
 
 # =========================================================
 # Page
@@ -21,6 +23,10 @@ OUTPUT_DIR = BASE_DIR / "output"
 DAILY_SIGNAL_PATH = DATA_DIR / "daily_signal.csv"
 CLASSIFIED_JSON_PATH = DATA_DIR / "classified_articles.json"
 LATEST_REPORT_PATH = OUTPUT_DIR / "latest_report.json"
+TITLE_KO_CACHE_PATH = DATA_DIR / "title_ko_cache.json"
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5-mini").strip()
 
 # =========================================================
 # Helpers
@@ -46,6 +52,12 @@ def safe_read_json(path: Path, default):
             return json.load(f)
     except Exception:
         return default
+
+
+def save_json(path: Path, obj) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
 def to_kst(series: pd.Series) -> pd.Series:
@@ -94,7 +106,8 @@ def label_ko(label: str) -> str:
 
 def strength_emoji(value: float) -> str:
     try:
-        n = int(round(float(value) * 5)) if float(value) <= 1 else int(round(float(value)))
+        v = float(value)
+        n = int(round(v * 5)) if v <= 1 else int(round(v))
     except Exception:
         n = 0
     n = max(0, min(n, 5))
@@ -113,7 +126,6 @@ def build_heatmap(df: pd.DataFrame) -> pd.DataFrame:
 
     temp = df.copy()
     temp = temp.dropna(subset=["generated_at_kst", "war_smoothed_score"])
-
     if temp.empty:
         return pd.DataFrame()
 
@@ -131,12 +143,70 @@ def build_heatmap(df: pd.DataFrame) -> pd.DataFrame:
     return pivot
 
 
+@st.cache_resource
+def get_openai_client():
+    if not OPENAI_API_KEY:
+        return None
+    try:
+        return OpenAI(api_key=OPENAI_API_KEY)
+    except Exception:
+        return None
+
+
+def translate_title_to_korean(title: str, cache: dict) -> str:
+    title = (title or "").strip()
+    if not title:
+        return ""
+
+    if title in cache:
+        return cache[title]
+
+    client = get_openai_client()
+    if client is None:
+        return title
+
+    try:
+        resp = client.responses.create(
+            model=OPENAI_MODEL,
+            input=[
+                {
+                    "role": "system",
+                    "content": (
+                        "Translate English news headlines into natural Korean. "
+                        "Return only the translated headline. "
+                        "Keep proper nouns accurate. Do not add explanation."
+                    ),
+                },
+                {
+                    "role": "user",
+                    "content": title,
+                },
+            ],
+        )
+        out = (getattr(resp, "output_text", "") or "").strip()
+        if out:
+            cache[title] = out
+            return out
+    except Exception:
+        pass
+
+    return title
+
+
+def get_title_ko(row: pd.Series, cache: dict) -> str:
+    for col in ["translated_title_ko", "title_ko", "translated_title"]:
+        if col in row and str(row[col]).strip():
+            return str(row[col]).strip()
+    return translate_title_to_korean(str(row.get("title", "")), cache)
+
+
 # =========================================================
 # Load data
 # =========================================================
 signal_df = safe_read_csv(DAILY_SIGNAL_PATH)
 classified_articles = safe_read_json(CLASSIFIED_JSON_PATH, default=[])
 latest_report = safe_read_json(LATEST_REPORT_PATH, default={})
+title_ko_cache = safe_read_json(TITLE_KO_CACHE_PATH, default={})
 
 if signal_df.empty:
     st.error("data/daily_signal.csv 파일이 없거나 비어 있습니다.")
@@ -148,7 +218,6 @@ signal_df = signal_df.sort_values("generated_at_utc").reset_index(drop=True)
 
 latest = signal_df.iloc[-1].copy()
 
-# classified articles normalize
 articles_df = pd.DataFrame(classified_articles)
 if not articles_df.empty:
     if "published_at" in articles_df.columns:
@@ -178,7 +247,11 @@ if not articles_df.empty:
     if "source_weight" not in articles_df.columns:
         articles_df["source_weight"] = 1.0
 
-    for col in ["title", "summary", "link", "source", "label", "reason", "event_key"]:
+    for col in [
+        "title", "summary", "link", "source", "label",
+        "reason", "event_key", "translated_title_ko",
+        "title_ko", "translated_title"
+    ]:
         if col not in articles_df.columns:
             articles_df[col] = ""
         articles_df[col] = articles_df[col].fillna("").astype(str)
@@ -186,6 +259,11 @@ if not articles_df.empty:
     articles_df["strength"] = pd.to_numeric(articles_df["strength"], errors="coerce").fillna(0.0)
     articles_df["source_weight"] = pd.to_numeric(articles_df["source_weight"], errors="coerce").fillna(1.0)
     articles_df["weighted_strength"] = articles_df["strength"] * articles_df["source_weight"]
+
+    # 번역 제목 생성
+    articles_df["title_ko_display"] = articles_df.apply(lambda row: get_title_ko(row, title_ko_cache), axis=1)
+    save_json(TITLE_KO_CACHE_PATH, title_ko_cache)
+
     articles_df = articles_df.sort_values(
         ["published_at_kst", "weighted_strength"],
         ascending=[False, False],
@@ -259,21 +337,27 @@ st.markdown(
     }
     .badge {
         display: inline-block;
-        padding: 0.28rem 0.6rem;
+        padding: 0.30rem 0.62rem;
         border-radius: 999px;
         color: white;
-        font-size: 0.72rem;
+        font-size: 0.73rem;
         font-weight: 800;
         margin-right: 0.38rem;
         margin-bottom: 0.38rem;
     }
-    .title {
-        font-size: 1.03rem;
+    .title-ko {
+        font-size: 1.05rem;
         font-weight: 900;
         line-height: 1.42;
         color: #ffffff;
-        margin-top: 0.15rem;
-        margin-bottom: 0.32rem;
+        margin-top: 0.12rem;
+        margin-bottom: 0.25rem;
+    }
+    .title-en {
+        font-size: 0.88rem;
+        color: #aebcd3;
+        line-height: 1.4;
+        margin-bottom: 0.42rem;
     }
     .summary {
         font-size: 0.92rem;
@@ -291,6 +375,11 @@ st.markdown(
         color: #8ecbff !important;
         text-decoration: none !important;
         font-weight: 700;
+    }
+    .filter-note {
+        color: #95a6c0;
+        font-size: 0.84rem;
+        margin-bottom: 0.4rem;
     }
     </style>
     """,
@@ -447,13 +536,40 @@ st.markdown('<div class="section-title">📰 실시간 뉴스 카드</div>', uns
 if articles_df.empty:
     st.info("data/classified_articles.json에 표시할 기사 데이터가 아직 없습니다.")
 else:
+    label_options = [
+        ("all", "전체"),
+        ("negotiation", "협상"),
+        ("ceasefire", "휴전"),
+        ("deescalation_signal", "완화 신호"),
+        ("escalation", "긴장 고조"),
+        ("proxy_escalation", "대리세력 확전"),
+        ("strike_or_retaliation", "직접 공격/보복"),
+    ]
+
+    if "selected_label_filter" not in st.session_state:
+        st.session_state.selected_label_filter = "all"
+
+    st.markdown('<div class="filter-note">라벨별 빠른 필터</div>', unsafe_allow_html=True)
+    button_cols = st.columns(len(label_options))
+
+    for idx, (value, text) in enumerate(label_options):
+        with button_cols[idx]:
+            if st.button(text, use_container_width=True):
+                st.session_state.selected_label_filter = value
+
+    selected_label = st.session_state.selected_label_filter
+
+    filtered_articles = articles_df.copy()
+    filtered_articles = filtered_articles[filtered_articles["label"].str.lower() != "irrelevant"]
+
+    if selected_label != "all":
+        filtered_articles = filtered_articles[filtered_articles["label"].str.lower() == selected_label]
+
     show_count = st.slider("표시 기사 수", min_value=5, max_value=30, value=12)
-    filtered_articles = articles_df[
-        articles_df["label"].str.lower() != "irrelevant"
-    ].copy()
+    st.caption(f"현재 필터: {dict(label_options).get(selected_label, '전체')}")
 
     if filtered_articles.empty:
-        st.info("현재 표시할 관련 기사 카드가 없습니다.")
+        st.info("현재 필터에 해당하는 관련 기사 카드가 없습니다.")
     else:
         for _, row in filtered_articles.head(show_count).iterrows():
             badge_color = label_color(row["label"])
@@ -464,6 +580,8 @@ else:
             reason_text = row["reason"].strip()
             link = row["link"].strip()
             summary = row["summary"].strip()
+            title_ko = str(row.get("title_ko_display", "")).strip()
+            title_en = str(row.get("title", "")).strip()
 
             meta_parts = []
             if source_text:
@@ -481,8 +599,8 @@ else:
                     <span class="badge" style="background:#334155;">Strength {strength_text:.2f}</span>
                     <span class="badge" style="background:#1f2937;">{strength_emoji(strength_text)}</span>
 
-                    <div class="title">{row["title"]}</div>
-
+                    <div class="title-ko">{title_ko}</div>
+                    {"<div class='title-en'>" + title_en + "</div>" if title_en and title_en != title_ko else ""}
                     {"<div class='summary'>" + summary + "</div>" if summary else ""}
                     {"<div class='summary'><b>판단 근거:</b> " + reason_text + "</div>" if reason_text else ""}
 
@@ -527,6 +645,7 @@ with st.expander("Raw classified articles"):
                 "label",
                 "strength",
                 "source",
+                "title_ko_display",
                 "title",
                 "reason",
                 "link",
