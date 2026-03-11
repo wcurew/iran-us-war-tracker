@@ -3,7 +3,6 @@ import os
 import re
 import html
 from pathlib import Path
-from textwrap import dedent
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -274,7 +273,6 @@ if not articles_df.empty:
     articles_df["strength"] = pd.to_numeric(articles_df["strength"], errors="coerce").fillna(0.0)
     articles_df["source_weight"] = pd.to_numeric(articles_df["source_weight"], errors="coerce").fillna(1.0)
     articles_df["weighted_strength"] = articles_df["strength"] * articles_df["source_weight"]
-
     articles_df["title_ko_display"] = articles_df.apply(lambda row: get_title_ko(row, title_ko_cache), axis=1)
     save_json(TITLE_KO_CACHE_PATH, title_ko_cache)
 
@@ -288,115 +286,67 @@ if not articles_df.empty:
 # CSS
 # =========================================================
 st.markdown(
-    dedent("""
-    <style>
-    .block-container {
-        padding-top: 1rem;
-        padding-bottom: 2rem;
-        max-width: 1250px;
-    }
-    .hero {
-        padding: 1.3rem 1.3rem 1.1rem 1.3rem;
-        border-radius: 24px;
-        background: linear-gradient(135deg, #0f172a 0%, #172033 55%, #1d2a44 100%);
-        border: 1px solid rgba(255,255,255,0.08);
-        box-shadow: 0 10px 30px rgba(0,0,0,0.20);
-        margin-bottom: 1rem;
-    }
-    .hero-title {
-        font-size: 2rem;
-        font-weight: 900;
-        line-height: 1.15;
-        margin-bottom: 0.25rem;
-        color: #ffffff;
-    }
-    .hero-sub {
-        color: #c7d2e1;
-        font-size: 0.98rem;
-        line-height: 1.5;
-    }
-    .status-pill {
-        display: inline-block;
-        margin-top: 0.8rem;
-        padding: 0.45rem 0.8rem;
-        border-radius: 999px;
-        font-weight: 800;
-        font-size: 0.85rem;
-        color: white;
-    }
-    .mini-note {
-        color: #97a6bc;
-        font-size: 0.82rem;
-        margin-top: 0.6rem;
-    }
-    .section-title {
-        font-size: 1.12rem;
-        font-weight: 800;
-        margin-top: 1.15rem;
-        margin-bottom: 0.7rem;
-    }
-    .chart-card {
-        padding: 0.9rem 0.9rem 0.5rem 0.9rem;
-        border-radius: 20px;
-        border: 1px solid rgba(255,255,255,0.08);
-        background: rgba(255,255,255,0.02);
-        margin-bottom: 0.9rem;
-    }
-    .news-card {
-        padding: 1rem 1rem 0.95rem 1rem;
-        border-radius: 20px;
-        border: 1px solid rgba(255,255,255,0.08);
-        background: linear-gradient(180deg, rgba(255,255,255,0.025), rgba(255,255,255,0.015));
-        margin-bottom: 0.85rem;
-    }
-    .badge {
-        display: inline-block;
-        padding: 0.30rem 0.62rem;
-        border-radius: 999px;
-        color: white;
-        font-size: 0.73rem;
-        font-weight: 800;
-        margin-right: 0.38rem;
-        margin-bottom: 0.38rem;
-    }
-    .title-ko {
-        font-size: 1.05rem;
-        font-weight: 900;
-        line-height: 1.42;
-        color: #ffffff;
-        margin-top: 0.12rem;
-        margin-bottom: 0.25rem;
-    }
-    .title-en {
-        font-size: 0.88rem;
-        color: #aebcd3;
-        line-height: 1.4;
-        margin-bottom: 0.42rem;
-    }
-    .summary {
-        font-size: 0.92rem;
-        color: #d7deea;
-        line-height: 1.55;
-        margin-top: 0.35rem;
-        margin-bottom: 0.3rem;
-    }
-    .meta {
-        color: #9fb0c9;
-        font-size: 0.82rem;
-        margin-top: 0.45rem;
-    }
-    .meta a {
-        color: #8ecbff !important;
-        text-decoration: none !important;
-        font-weight: 700;
-    }
-    .filter-note {
-        color: #95a6c0;
-        font-size: 0.84rem;
-        margin-bottom: 0.4rem;
-    }
-    </style>
-    """),
+    """
+<style>
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    max-width: 1250px;
+}
+.hero {
+    padding: 1.2rem 1.2rem 1rem 1.2rem;
+    border-radius: 22px;
+    background: linear-gradient(135deg, #0f172a 0%, #172033 55%, #1d2a44 100%);
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.18);
+    margin-bottom: 1rem;
+}
+.hero-title {
+    font-size: 1.9rem;
+    font-weight: 900;
+    line-height: 1.15;
+    margin-bottom: 0.2rem;
+    color: #ffffff;
+}
+.hero-sub {
+    color: #c7d2e1;
+    font-size: 0.96rem;
+    line-height: 1.5;
+}
+.status-pill {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.42rem 0.78rem;
+    border-radius: 999px;
+    font-weight: 800;
+    font-size: 0.84rem;
+    color: white;
+}
+.mini-note {
+    color: #97a6bc;
+    font-size: 0.82rem;
+    margin-top: 0.55rem;
+}
+.section-title {
+    font-size: 1.10rem;
+    font-weight: 800;
+    margin-top: 1.05rem;
+    margin-bottom: 0.65rem;
+}
+.chart-card {
+    padding: 0.85rem 0.85rem 0.45rem 0.85rem;
+    border-radius: 18px;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: rgba(255,255,255,0.02);
+    margin-bottom: 0.9rem;
+}
+.filter-note {
+    color: #95a6c0;
+    font-size: 0.84rem;
+    margin-bottom: 0.4rem;
+}
+</style>
+""",
     unsafe_allow_html=True,
 )
 
@@ -409,20 +359,16 @@ latest_time = latest.get("generated_at_kst", pd.NaT)
 latest_time_text = format_time(latest_time) + " KST" if not pd.isna(latest_time) else "시간 정보 없음"
 
 st.markdown(
-    dedent(f"""
-    <div class="hero">
-        <div class="hero-title">🌍 Iran-US War Risk Tracker</div>
-        <div class="hero-sub">
-            AI 뉴스 분류 기반 지정학 리스크 대시보드
-        </div>
-        <div class="status-pill" style="background:{status_color};">
-            현재 추세 위험도: {trend_risk:.1f}
-        </div>
-        <div class="mini-note">
-            마지막 업데이트: {latest_time_text}
-        </div>
+    f"""
+<div class="hero">
+    <div class="hero-title">🌍 Iran-US War Risk Tracker</div>
+    <div class="hero-sub">AI 뉴스 분류 기반 지정학 리스크 대시보드</div>
+    <div class="status-pill" style="background:{status_color};">
+        현재 추세 위험도: {trend_risk:.1f}
     </div>
-    """),
+    <div class="mini-note">마지막 업데이트: {latest_time_text}</div>
+</div>
+""",
     unsafe_allow_html=True,
 )
 
@@ -440,24 +386,23 @@ k4.metric("관련 기사 수", int(pd.to_numeric(latest.get("relevant_articles",
 # =========================================================
 st.markdown('<div class="section-title">🧠 AI Interpretation</div>', unsafe_allow_html=True)
 
-st.markdown('<div class="chart-card">', unsafe_allow_html=True)
-summary_text = clean_text(
-    latest_report.get("summary_ko", "") or latest.get("summary_ko", "요약 정보가 없습니다.")
-)
-alert_text = clean_text(
-    latest_report.get("alert_message", "") or latest.get("alert_message", "")
-)
+with st.container(border=True):
+    summary_text = clean_text(
+        latest_report.get("summary_ko", "") or latest.get("summary_ko", "요약 정보가 없습니다.")
+    )
+    alert_text = clean_text(
+        latest_report.get("alert_message", "") or latest.get("alert_message", "")
+    )
 
-if alert_text:
-    st.warning(alert_text)
+    if alert_text:
+        st.warning(alert_text)
 
-st.info(summary_text)
+    st.info(summary_text)
 
-s1, s2, s3 = st.columns(3)
-s1.metric("직접 공격/보복", int(pd.to_numeric(latest.get("strike_count", 0), errors="coerce")))
-s2.metric("대리세력 확전", int(pd.to_numeric(latest.get("proxy_escalation_count", 0), errors="coerce")))
-s3.metric("긴장 고조 기사", int(pd.to_numeric(latest.get("escalation_count", 0), errors="coerce")))
-st.markdown('</div>', unsafe_allow_html=True)
+    s1, s2, s3 = st.columns(3)
+    s1.metric("직접 공격/보복", int(pd.to_numeric(latest.get("strike_count", 0), errors="coerce")))
+    s2.metric("대리세력 확전", int(pd.to_numeric(latest.get("proxy_escalation_count", 0), errors="coerce")))
+    s3.metric("긴장 고조 기사", int(pd.to_numeric(latest.get("escalation_count", 0), errors="coerce")))
 
 # =========================================================
 # Trend + Heatmap
@@ -467,102 +412,100 @@ st.markdown('<div class="section-title">📈 위험도 추세</div>', unsafe_all
 c1, c2 = st.columns([1.35, 1])
 
 with c1:
-    st.markdown('<div class="chart-card">', unsafe_allow_html=True)
-    trend_df = signal_df.copy().dropna(subset=["generated_at_kst"])
+    with st.container(border=True):
+        trend_df = signal_df.copy().dropna(subset=["generated_at_kst"])
 
-    if not trend_df.empty:
-        plot_df = trend_df.sort_values("generated_at_kst").copy()
-        plot_df["generated_at_kst"] = pd.to_datetime(plot_df["generated_at_kst"], errors="coerce")
-        plot_df = plot_df.dropna(subset=["generated_at_kst"])
-        plot_df["time_bin"] = plot_df["generated_at_kst"].dt.floor("3H")
+        if not trend_df.empty:
+            plot_df = trend_df.sort_values("generated_at_kst").copy()
+            plot_df["generated_at_kst"] = pd.to_datetime(plot_df["generated_at_kst"], errors="coerce")
+            plot_df = plot_df.dropna(subset=["generated_at_kst"])
+            plot_df["time_bin"] = plot_df["generated_at_kst"].dt.floor("3H")
 
-        plot_df = (
-            plot_df.groupby("time_bin", as_index=False)
-            .agg(
-                war_batch_score=("war_batch_score", "last"),
-                war_smoothed_score=("war_smoothed_score", "last"),
+            plot_df = (
+                plot_df.groupby("time_bin", as_index=False)
+                .agg(
+                    war_batch_score=("war_batch_score", "last"),
+                    war_smoothed_score=("war_smoothed_score", "last"),
+                )
+                .sort_values("time_bin")
             )
-            .sort_values("time_bin")
-        )
 
-        fig_trend = go.Figure()
+            fig_trend = go.Figure()
 
-        fig_trend.add_trace(
-            go.Scatter(
-                x=plot_df["time_bin"],
-                y=pd.to_numeric(plot_df["war_batch_score"], errors="coerce"),
-                mode="lines+markers",
-                name="즉각 위험도",
-                line=dict(color="#e74c3c", width=3),
-                marker=dict(size=6, color="#e74c3c"),
+            fig_trend.add_trace(
+                go.Scatter(
+                    x=plot_df["time_bin"],
+                    y=pd.to_numeric(plot_df["war_batch_score"], errors="coerce"),
+                    mode="lines+markers",
+                    name="즉각 위험도",
+                    line=dict(color="#e74c3c", width=3),
+                    marker=dict(size=6, color="#e74c3c"),
+                )
             )
-        )
 
-        fig_trend.add_trace(
-            go.Scatter(
-                x=plot_df["time_bin"],
-                y=pd.to_numeric(plot_df["war_smoothed_score"], errors="coerce"),
-                mode="lines+markers",
-                name="추세 위험도",
-                line=dict(color="#3498db", width=3),
-                marker=dict(size=6, color="#3498db"),
+            fig_trend.add_trace(
+                go.Scatter(
+                    x=plot_df["time_bin"],
+                    y=pd.to_numeric(plot_df["war_smoothed_score"], errors="coerce"),
+                    mode="lines+markers",
+                    name="추세 위험도",
+                    line=dict(color="#3498db", width=3),
+                    marker=dict(size=6, color="#3498db"),
+                )
             )
-        )
 
-        fig_trend.update_layout(
-            height=320,
-            margin=dict(l=10, r=10, t=10, b=10),
-            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-            xaxis_title="시간",
-            yaxis_title="위험도 점수",
-            yaxis=dict(range=[0, 100]),
-            hovermode="x unified",
-        )
+            fig_trend.update_layout(
+                height=320,
+                margin=dict(l=10, r=10, t=10, b=10),
+                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                xaxis_title="시간",
+                yaxis_title="위험도 점수",
+                yaxis=dict(range=[0, 100]),
+                hovermode="x unified",
+            )
 
-        fig_trend.update_xaxes(
-            dtick=3 * 60 * 60 * 1000,
-            tickformat="%m-%d %H:%M",
-        )
+            fig_trend.update_xaxes(
+                dtick=3 * 60 * 60 * 1000,
+                tickformat="%m-%d %H:%M",
+            )
 
-        st.plotly_chart(fig_trend, use_container_width=True)
-        st.caption("빨간선=즉각 위험도 / 파란선=추세 위험도 / 3시간 배치 기준")
-    else:
-        st.info("추세 데이터를 표시할 수 없습니다.")
-    st.markdown('</div>', unsafe_allow_html=True)
+            st.plotly_chart(fig_trend, use_container_width=True)
+            st.caption("빨간선=즉각 위험도 / 파란선=추세 위험도 / 3시간 배치 기준")
+        else:
+            st.info("추세 데이터를 표시할 수 없습니다.")
 
 with c2:
-    st.markdown('<div class="chart-card">', unsafe_allow_html=True)
-    heatmap_pivot = build_heatmap(signal_df.tail(120))
+    with st.container(border=True):
+        heatmap_pivot = build_heatmap(signal_df.tail(120))
 
-    if not heatmap_pivot.empty:
-        heatmap_fig = go.Figure(
-            data=go.Heatmap(
-                z=heatmap_pivot.values,
-                x=[f"{int(h):02d}" for h in heatmap_pivot.columns],
-                y=heatmap_pivot.index.tolist(),
-                colorscale=[
-                    [0.00, "#2ecc71"],
-                    [0.25, "#f1c40f"],
-                    [0.50, "#e67e22"],
-                    [1.00, "#e74c3c"],
-                ],
-                zmin=0,
-                zmax=100,
-                colorbar=dict(title="Risk"),
+        if not heatmap_pivot.empty:
+            heatmap_fig = go.Figure(
+                data=go.Heatmap(
+                    z=heatmap_pivot.values,
+                    x=[f"{int(h):02d}" for h in heatmap_pivot.columns],
+                    y=heatmap_pivot.index.tolist(),
+                    colorscale=[
+                        [0.00, "#2ecc71"],
+                        [0.25, "#f1c40f"],
+                        [0.50, "#e67e22"],
+                        [1.00, "#e74c3c"],
+                    ],
+                    zmin=0,
+                    zmax=100,
+                    colorbar=dict(title="Risk"),
+                )
             )
-        )
-        heatmap_fig.update_layout(
-            title="추세 위험도 Heatmap",
-            height=320,
-            margin=dict(l=10, r=10, t=45, b=10),
-            xaxis_title="Hour (KST)",
-            yaxis_title="Date",
-        )
-        st.plotly_chart(heatmap_fig, use_container_width=True)
-        st.caption("날짜/시간대별 추세 위험도 분포")
-    else:
-        st.info("heatmap 데이터를 표시할 수 없습니다.")
-    st.markdown('</div>', unsafe_allow_html=True)
+            heatmap_fig.update_layout(
+                title="추세 위험도 Heatmap",
+                height=320,
+                margin=dict(l=10, r=10, t=45, b=10),
+                xaxis_title="Hour (KST)",
+                yaxis_title="Date",
+            )
+            st.plotly_chart(heatmap_fig, use_container_width=True)
+            st.caption("날짜/시간대별 추세 위험도 분포")
+        else:
+            st.info("heatmap 데이터를 표시할 수 없습니다.")
 
 # =========================================================
 # Market Signals
@@ -579,7 +522,7 @@ m5.metric("Gold / Dollar", str(latest.get("gold_dollar_signal", "-")))
 # =========================================================
 # Real-time news cards
 # =========================================================
-st.markdown('<div class="section-title">📰 실시간 뉴스 카드</div>', unsafe_allow_html=True)
+st.markdown("### 📰 실시간 뉴스 카드")
 
 if articles_df.empty:
     st.info("data/classified_articles.json에 표시할 기사 데이터가 아직 없습니다.")
@@ -597,7 +540,7 @@ else:
     if "selected_label_filter" not in st.session_state:
         st.session_state.selected_label_filter = "all"
 
-    st.markdown('<div class="filter-note">라벨별 빠른 필터</div>', unsafe_allow_html=True)
+    st.caption("라벨별 빠른 필터")
     button_cols = st.columns(len(label_options))
 
     for idx, (value, text) in enumerate(label_options):
@@ -611,7 +554,9 @@ else:
     filtered_articles = filtered_articles[filtered_articles["label"].str.lower() != "irrelevant"]
 
     if selected_label != "all":
-        filtered_articles = filtered_articles[filtered_articles["label"].str.lower() == selected_label]
+        filtered_articles = filtered_articles[
+            filtered_articles["label"].str.lower() == selected_label
+        ]
 
     show_count = st.slider("표시 기사 수", min_value=5, max_value=30, value=12)
     st.caption(f"현재 필터: {dict(label_options).get(selected_label, '전체')}")
@@ -632,38 +577,63 @@ else:
             title_ko = clean_text(row.get("title_ko_display", ""))
             title_en = clean_text(row.get("title", ""))
 
-            meta_parts = []
-            if source_text:
-                meta_parts.append(source_text)
-            if time_text:
-                meta_parts.append(time_text)
+            with st.container(border=True):
+                top1, top2, top3 = st.columns([1.2, 1.25, 1.0])
 
-            meta_text = " · ".join(meta_parts)
-            link_html = f'<a href="{link}" target="_blank">원문 보기 ↗</a>' if link else ""
+                with top1:
+                    st.markdown(
+                        f"""
+<span style="display:inline-block;padding:0.32rem 0.68rem;border-radius:999px;background:{badge_color};color:white;font-weight:800;font-size:0.85rem;">
+{label_text}
+</span>
+""",
+                        unsafe_allow_html=True,
+                    )
 
-            title_en_html = f"<div class='title-en'>{title_en}</div>" if title_en and title_en != title_ko else ""
-            summary_html = f"<div class='summary'>{summary}</div>" if summary else ""
-            reason_html = f"<div class='summary'><b>판단 근거:</b> {reason_text}</div>" if reason_text else ""
-            meta_link_html = f" · {link_html}" if link_html else ""
+                with top2:
+                    st.markdown(
+                        f"""
+<span style="display:inline-block;padding:0.32rem 0.68rem;border-radius:999px;background:#334155;color:white;font-weight:800;font-size:0.85rem;">
+Strength {strength_text:.2f}
+</span>
+""",
+                        unsafe_allow_html=True,
+                    )
 
-            card_html = dedent(f"""
-            <div class="news-card">
-                <span class="badge" style="background:{badge_color};">{label_text}</span>
-                <span class="badge" style="background:#334155;">Strength {strength_text:.2f}</span>
-                <span class="badge" style="background:#1f2937;">{strength_emoji(strength_text)}</span>
+                with top3:
+                    st.markdown(
+                        f"""
+<span style="display:inline-block;padding:0.32rem 0.68rem;border-radius:999px;background:#1f2937;color:white;font-weight:800;font-size:0.85rem;">
+{strength_emoji(strength_text)}
+</span>
+""",
+                        unsafe_allow_html=True,
+                    )
 
-                <div class="title-ko">{title_ko}</div>
-                {title_en_html}
-                {summary_html}
-                {reason_html}
+                st.markdown(f"**{title_ko}**")
 
-                <div class="meta">
-                    {meta_text}{meta_link_html}
-                </div>
-            </div>
-            """)
+                if title_en and title_en != title_ko:
+                    st.caption(title_en)
 
-            st.markdown(card_html, unsafe_allow_html=True)
+                if summary:
+                    st.write(summary)
+
+                if reason_text:
+                    st.caption(f"판단 근거: {reason_text}")
+
+                meta_parts = []
+                if source_text:
+                    meta_parts.append(source_text)
+                if time_text:
+                    meta_parts.append(time_text)
+
+                if meta_parts:
+                    st.caption(" · ".join(meta_parts))
+
+                if link:
+                    st.link_button("원문 보기 ↗", link)
+
+                st.write("")
 
 # =========================================================
 # Raw data
