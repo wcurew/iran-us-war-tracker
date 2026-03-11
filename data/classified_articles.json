@@ -1,104 +1,206 @@
 [
   {
-    "title": "Iran 'not seeking a ceasefire' as US and Israel carry out heaviest day of airstrikes - SBS Australia",
-    "summary": "Iran 'not seeking a ceasefire' as US and Israel carry out heaviest day of airstrikes SBS Australia",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFI4VGlUMS1QM05MdWhwZldpQ2RqS2cwa1hxVnBnNHZiRl9iSE5fYldjZGRqZGFSaXR5ZlZGQ2phRHN0OGRzOHNxWVZ1cVptNWVKbmNNdzlGelg5QmdjOHNPX3hrNFo3WTNzSHNIbVFPWEsxTjdQR2pRUDFyT3JXdGRyNEwyc3VyUVRZQ2wwY1l3eVRpTDZXMTlDVE0wZW9LZVFsVGhjRmVEaDg2ek5SY0s1YWdIZU5CMGd4dWNxeng3LUw3WFZV?oc=5",
-    "source": "SBS Australia",
-    "published_at": "2026-03-10T20:14:36+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 20:14:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "98caab0d9e2cb6e878738e690915945175c67117",
+    "title": "Breaking news: A drone assault hit a major U.S. diplomatic facility in Iraq in a suspected retaliation by pro-Tehran militias to the U.S. and Israel’s war on Iran, according to a security official and an internal U.S. alert reviewed by The Post. - facebook.com",
+    "summary": "Breaking news: A drone assault hit a major U.S. diplomatic facility in Iraq in a suspected retaliation by pro-Tehran militias to the U.S. and Israel’s war on Iran, according to a security official and an internal U.S. alert reviewed by The Post. facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX09Nb0pYbTZZb3h2UUJDdjAxMkZtS1g1a1BOdEl3cnlXN3pVRmFkMnJ1N01fSVJkTlZSZnpfcTYtcVFhSVZTX21IcVc0bFRuWDZHLXdCSU9TWmhsalBaYTEyUXkwbWp5YWxhY2pxaWg5TTBLR01DOEx6Mmc3bVJDSXdJdVdwalRpaHprM25saXlMNlpBXzNpaHBHbmNCZlJaalZfVDF1OURQSlBROElwd1hyb2NMaHZOaTFGNWR2cEg5aUtVVDZQd1pfcmFtajBCeGhSY2tQbzVhbEFx?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-03-11T00:45:09+00:00",
+    "raw_pub_date": "Wed, 11 Mar 2026 00:45:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8c3dc8803a559ba965a184f39b3fcf44b5597c04",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.9,
+      "reason": "Drone assault by pro‑Tehran militias on a U.S. diplomatic facility in Iraq indicates proxy-driven escalation against the U.S.",
+      "event_key": "drone attack us diplomatic facility iraq by pro iran militias"
+    }
+  },
+  {
+    "title": "Iranian-Americans Want Diplomacy to Triumph over War – NIAC - Informed Comment",
+    "summary": "Iranian-Americans Want Diplomacy to Triumph over War – NIAC Informed Comment",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PQzFMT19lVk1mbjFxbEtMbkhBV3RTXzNLNDVUV3YxeDc0ZWdtbDdHcnptbEFvQVp0QnBvZ2laWkJlLVloc2xCcmRyRDh6bnhUbnhDdERpNHJQWkFCdXBobklSMW1DSVpoVnMwTGNPU1kybGM?oc=5",
+    "source": "Informed Comment",
+    "published_at": "2026-03-11T04:04:08+00:00",
+    "raw_pub_date": "Wed, 11 Mar 2026 04:04:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d94f8d60d3e740369844fbe105686286fb154344",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.25,
+      "reason": "Public advocacy urging diplomacy and avoidance of war signals de-escalation intent, not active negotiations.",
+      "event_key": "iranian americans urge diplomacy"
+    }
+  },
+  {
+    "title": "A look at evidence linking U.S. to Iranian school strike - PBS",
+    "summary": "A look at evidence linking U.S. to Iranian school strike PBS",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWtZZjFhcWlvRERRVlR3UW9oeDVxVWVUdU9PUDQ1VDV0bmVRbTdseUZmaDRNelVKcU5EQVJLbndTNGdTdHNOQ2xkc3FoWlIxZUxkVmRQalhTTk1FYWZpaW1oMDdzaTFMdEZyVWp2VDF1N2pvMDc4VU90cGFsUnB2NFMxODlLR0ptbHpqd2xaUmRLWnM?oc=5",
+    "source": "PBS",
+    "published_at": "2026-03-10T22:50:49+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 22:50:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c909740e891fbe1ab5594d08b13ffb7dad5c2825",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Examines evidence alleging U.S. involvement in a strike on an Iranian school.",
+      "event_key": "us linked school strike iran"
+    }
+  },
+  {
+    "title": "Why Netanyahu Chose to Strike Iran Now - Arab Center Washington DC",
+    "summary": "Why Netanyahu Chose to Strike Iran Now Arab Center Washington DC",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yMVZXek5aWmJnYTJycXdQZEF2NDd5dUtDMjl0clRSSTY3cjNxQ2FkMDE5WXFTWkdrTmRUR19zeDZuWlNRcUZXUGVocm16c3hUbHFBem5KdnlhMmRoaGZ6UW0yb3VJYU82UE5qUTVFSFl6N25iYVpmS3IzRUFWZw?oc=5",
+    "source": "Arab Center Washington DC",
+    "published_at": "2026-03-11T01:05:51+00:00",
+    "raw_pub_date": "Wed, 11 Mar 2026 01:05:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "35d7c9f9f030d88573679ebee957fd9eddc6b042",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.7,
+      "reason": "Discusses Netanyahu's decision to carry out a strike on Iran — direct military action.",
+      "event_key": "israel strike iran"
+    }
+  },
+  {
+    "title": "As Iran shows no signs of surrender, U.S. launches 'most intense' day of strikes - PBS",
+    "summary": "As Iran shows no signs of surrender, U.S. launches 'most intense' day of strikes PBS",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0VnQTZSanNwajVUMzVyX2ZOU1RJS0VNNnRJWng5VFRYeUdUOUZ3VHZfaXc1NFBmU3daUkk2VEFET0RpeWhiYVNnRHVxQXl1eE9fYVdFOTA4TjdycjQtd0NfWl9sQlhtSlNWMzN4VGtXZS02QXYxeVJvaEFhVmE4YVpteGI0eGczemUtOWpDTlhHaHJBMzFsaFRTekJBZk5vWmgta0pRNC1ib0FOaW5F?oc=5",
+    "source": "PBS",
+    "published_at": "2026-03-10T22:55:32+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 22:55:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cefbf9a3f5e68df69a0828086c4547ff29fb34fe",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US and Israel conducted heavy airstrikes while Iran stated it was not seeking a ceasefire.",
-      "event_key": "us israel heavy airstrikes iran rejects ceasefire"
+      "reason": "U.S. conducted a major day of direct strikes amid ongoing conflict with Iran.",
+      "event_key": "us most intense day of strikes against iran"
     }
   },
   {
-    "title": "Iran War: Policy director at United Against Nuclear Iran analyzes U.S. strategy | FOX 10 Talks - FOX 10 Phoenix",
-    "summary": "Iran War: Policy director at United Against Nuclear Iran analyzes U.S. strategy | FOX 10 Talks FOX 10 Phoenix",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qWjFkOFFQUjFXY0tMR1pybDdYSjBkYnZveU9fMjFHMU83V1pDVzJIYkJkYzlHVGxFcGVTcFREeUtNMWFsbzJGOWVFRE5aRmdSelN1c1BKeHpoTWV4NjE1YlhrbkdDQdIBa0FVX3lxTFBMV3UwazhrXzRQSGtDQkF4elVnX0dPNWN2SFBSazVxRTlsWTBpUnVwalVkQkpob2VEZlY4anMxWTBMT21vMllOLXFEXzlNWUFxWDh6S1R2Ql82aFN0Q0hnZlZQS3dKQV9QNmFz?oc=5",
-    "source": "FOX 10 Phoenix",
-    "published_at": "2026-03-10T19:57:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 19:57:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "84a9eaeac577d1cf54799bf559ac6063564212e8",
+    "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing - BBC",
+    "summary": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zdk9QMUQ5QmNzT0VKMHlyWXhTQlNCOVgtU3ZZOUhQc0FzeUV5dV9RQUVmSVN4VVFtYjdQS0p6MVBubVVTbGdtRjVodjZ5MVpJNlBzWlBQMVB6Zw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-03-11T00:06:06+00:00",
+    "raw_pub_date": "Wed, 11 Mar 2026 00:06:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aac74e3641bd500f3151f9d56f31a1f6789b60dc",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.85,
-      "reason": "Opinion/analysis piece on U.S. strategy, not reporting a specific diplomatic or military development.",
-      "event_key": "analysis us strategy"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct strikes on Iranian minelaying ships following warnings of intense bombing.",
+      "event_key": "us strike minelaying ships iran"
     }
   },
   {
-    "title": "Between Diplomacy and Destruction: The U.S. Iran Crisis Unfolds - hercampus.com",
-    "summary": "Between Diplomacy and Destruction: The U.S. Iran Crisis Unfolds hercampus.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkVjS2FwWkdwblpDVlZBNk1lWTRhbkNDa25UcHBuUTlWQUQtaWw0Qm1kdU5hbHFibldOZlZqcGpGam52Wm9feXZWQWhXTmZsWHpNS2RVWnNuRXZDbVJvN0htYmVvUXRtRHJCNTMtaDE2RDFIVC1UeWYyRjByTFNzZ0c1LUltRE5hV3BlVlhHX3oxV1Fabk9KV3JDTjA2WURv?oc=5",
-    "source": "hercampus.com",
-    "published_at": "2026-03-10T21:00:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 21:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c71ba913b978aca4eaaf0aad183415ce1e243058",
+    "title": "Photos appear to show US Tomahawk missile fragments at site of deadly Iran school strike - CNN",
+    "summary": "Photos appear to show US Tomahawk missile fragments at site of deadly Iran school strike CNN",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnloc1c1MEpQY1NSMF94ZlI2TW16bUV1dzVkVm80cllBZFctWm9PaDlWck1BZDdfTjVFMzlvUFdsaldodzNtYjYyV08yN3RjSVZBc3ZZa2xkVDliX1Z3NFhTWEMxWDNXektVY1NzT3p4Y2dKNkVJUE1IY1o4aTRHd25RbWhXMnc?oc=5",
+    "source": "CNN",
+    "published_at": "2026-03-10T23:39:44+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 23:39:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "15ab8dd8da961fce03f95e571d5eb6d73c45fb26",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.88,
+      "reason": "Photos reportedly show US Tomahawk missile fragments at site of deadly strike on an Iranian school, indicating a direct attack.",
+      "event_key": "us tomahawk fragments at iran school strike"
+    }
+  },
+  {
+    "title": "Video shows apparent US-made Tomahawk missile strike near Iran girls school - USA Today",
+    "summary": "Video shows apparent US-made Tomahawk missile strike near Iran girls school USA Today",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSURHVWxkM3N5LURteVlfUHhrUGtkZ1p3eEJ5eXdkTGZ5VjZER2lhbnBpTVdjeDR5ODRQcmdhb0tYQ3Y3bjg4dThZM1YwU0VUT1VlMW5YZTRsTVBEaWMzMUdlUDVsSldITkMzaHplUkVJc19ISjRCQV9kbXgwd1lGWEtXNnExeFhkRlE4VEVUS2NKRWJYZGFjUThxYWo0LTR4cl8w?oc=5",
+    "source": "USA Today",
+    "published_at": "2026-03-11T01:59:00+00:00",
+    "raw_pub_date": "Wed, 11 Mar 2026 01:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "368c168a9f8e6d0af7f2d2663cf051b2c637fff6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports show an apparent US Tomahawk missile strike near an Iranian girls' school—direct military attack evidence.",
+      "event_key": "us tomahawk strike near iran school"
+    }
+  },
+  {
+    "title": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say - The New York Times",
+    "summary": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FblpSZTIyUTZqa2dnSW5ueTMxVDRPTFNkWVlHcWttdDhwdThSNU1jS1lHWVpnMTR3SldfdXBsYk5pMmhSb2M4Y3h0SHZPdl91bFEtaHU4ZlpsZ3FmbUhmbDk0YWxzMXRoTGJwcEdSbFlwbGhEM0VOU05kUUtPZw?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-03-10T23:44:58+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 23:44:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f74cdc0d5432e8e911a2134dafc04c510dafdd6d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Title indicates rising tensions and potential move toward conflict rather than active diplomacy or pause.",
-      "event_key": "us iran crisis escalation discussion"
+      "strength": 0.4,
+      "reason": "Reports Iran improving military capabilities, seen by U.S. officials as raising tensions and threat potential.",
+      "event_key": "iran military adaptation"
     }
   },
   {
-    "title": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says - The New York Times",
-    "summary": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFhfMnFtZG5MaU81bFZkSURwR3RVdGtXTWgyWE1NWURDOER2Wk9FVTNMMlF6NFpoUmY4dWpYNmt4SlYyQUI0aHJjY05CMHFsXzZOdGRqby1zUGVSUDl5OXZBNGhEeVY2WUFvNEZyM05hSldza0ZEX1RyOG8xeWQ2SkNYeWNTVlZBZmowbGt3?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-03-10T20:54:02+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 20:54:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8754f406cff5104b9e5e3023031aeed1e9f51051",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct, intense U.S. bombing strikes on Iran reported by the Pentagon.",
-      "event_key": "us intense bombing strikes on iran"
-    }
-  },
-  {
-    "title": "Images taken near Iranian school hit in deadly strikes show fragments of U.S.-made missile - NBC News",
-    "summary": "Images taken near Iranian school hit in deadly strikes show fragments of U.S.-made missile NBC News",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVVIUm9GQlcwVlY2OXEwYVZnc1g4aklwRzVsSlZ0TkRmLXBFT3NvYUFfaXdVLTNvUGhRYUxQUENldndkRTZwOEtOR0JPbzNhN0JSempLNjREd25GX25vbnNYUG9UdUhTNkt2cEtlT3hfcTJwdTMtMlRoZ2prel9JZlZZR05kcTJJRnR5WU9jV01yYjVrMXdQNWIwVEo2ZjNfWlFGcTlBRUdVV2QxWVJaaG9RTGQwQQ?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-03-10T21:09:37+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 21:09:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0d329479b7af781d2a5d93814cdb85c0ec26cc89",
+    "title": "France condemns US-Israeli strikes on Iran, calls for de-escalation - Yeni Safak English",
+    "summary": "France condemns US-Israeli strikes on Iran, calls for de-escalation Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzBGdklKRERWZUswQ3V3WFFaRmUwY3ozODVFQXdMc24zcmpqdkhNMGdDaHRvc3hRQThNMmluMzRwY0dRYjI0eXgwNFpVdEdVTFV2bUgwMEU3QTlnUW1kVjFCRW82S2dSbVVsdFBKZ0d1Y1JzRGlBNFd3eVhSeXBqQk1Jc2E2TlcxakVnMG9EOFZUQjctNGZoRV9ZbVUtM1F5bVVmR1dUaTY?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-03-10T23:18:29+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 23:18:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "250c138b42336646e2be4415f6d3dfc5b2c27170",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Images show fragments of a U.S.-made missile at site of deadly strikes on an Iranian school, indicating a direct attack.",
-      "event_key": "missile strike on iran school"
+      "reason": "Reports US-Israeli strikes on Iran; France condemns and urges de-escalation.",
+      "event_key": "us israel strikes on iran"
     }
   },
   {
-    "title": "Iranian Foreign Minister Rejects Claims of Planned US Attack as ‘Sheer Lie,’ Accuses Israel of Engineering Escalation - Kurdistan24",
-    "summary": "Iranian Foreign Minister Rejects Claims of Planned US Attack as ‘Sheer Lie,’ Accuses Israel of Engineering Escalation Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQemdiYzlaeWdqVUxEdVlmbXlWejRqOExEaTNxRnY4MDk2RlhJSmQ5QUxfOXR2VUZjSVVCNTVoNjRSTEN3dnhWSjM2amd4QjZHdGlydjhjX2VWd01SanV0RHZOdFFyVzYwc2lKX0NVLWVRTWttdDdHb2VuUXdaTG00UUd3eHhGR0M4M1hzejBpY1BGVXgyRjhQa3JITnVjcFBXZTJsOHYwTXZnSi1mSFdWczlmbjFrVTM0YVFsVnRPWU82QWZiYVZKM0k1TEEwZDVNckhQdFdRNE5vd3VwYllkbUFBcFFLRXQ0OEcxZzd0RQ?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-03-10T20:45:00+00:00",
-    "raw_pub_date": "Tue, 10 Mar 2026 20:45:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b57bb85ae2b621fdb81520bf065ca112074d73a5",
+    "title": "US President Donald Trump gave a warning of severe \"military consequences\" to Iran if they place mines throughout the Hormuz Strait. Donald Trump posted on Truth Social his warning to the Iranian regime that he will attack the country \"at a level ne - facebook.com",
+    "summary": "US President Donald Trump gave a warning of severe \"military consequences\" to Iran if they place mines throughout the Hormuz Strait. Donald Trump posted on Truth Social his warning to the Iranian regime that he will attack the country \"at a level ne facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVjA4MkZzRlROQkNoYUs0M3BvRFZ4ZnBPcHZ1c2FiYTZ2WUdRQkhNMkFhd1k0eEtocmVJcWZ5UE5hWEdOTlRGSGtVeng2cUZ0dWs3bUliMEhDREdUZGxRNlptd2Q4ZU5IM0VRWHlCUERGT1FBcXpRb0d1QV9xWUdWTjloQnZBMWdfbFBFSE9qU2s2d1VoY0k0UFFqZ0JFMTlTTkthM0lRYjFFblVVWmducVBKNGJ6bmMwNnBqOTVRc3c5YjV0VE5BT0dyYUtMc3JvV1ZwZEdqak1aQW1HNUdR?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-03-10T23:11:45+00:00",
+    "raw_pub_date": "Tue, 10 Mar 2026 23:11:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7653cf44594a4a4d65f983368f4f15932289af4c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US president threatened military action over Iranian mining of the Strait of Hormuz, a direct hostile warning.",
+      "event_key": "trump warning hormuz mines"
+    }
+  },
+  {
+    "title": "'We're just getting started': Iran issues BIG warning to Netanyahu, rejects US allegations of pre-emptive attack as 'utter lie' - WION",
+    "summary": "'We're just getting started': Iran issues BIG warning to Netanyahu, rejects US allegations of pre-emptive attack as 'utter lie' WION",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcGxFZUktMGd2QkxJZktjdGphZE9CaGJaTGNweGJsRW0xbDV2VkdFQ0k5MzN6VzFvR0Q5N1diaW0za2tsRlNNeV9kNmpQNzRnQVoxUFF5VkprUllOOUJ1aFV3Q0hVM3FJVGNQRS1YVTNRV0ZuZnlDdGdjdHY1YVM4aTI1YXpLd21wZnExcDZfVFlCUmZQLTVfbTN1ckw4UGhtVC04WlhRYzdNXzN1ZkRMUW85b1Z5OU5oUkk2anZIaHV1MVo1Skp2ek5wUXdXS00xMXdVWnlaLVJhNDZ5T09Xc2tuRkFOa3dJb3NPaUl0S21VNVJSRGN0aWF30gH_AUFVX3lxTFBpUi1Nb1VEa2F6RFJMM0c4djZhb1g2NDlPdjRIOXpYTmJmaktOM2ZIM1NJejhqenhCT09xQXB4cS1JUEhLYV9JVzFlSWdLMzJ2QXNvSklGM1ZvM0pQdDZwOWpaSFNISkNGTEtPbDJKZFFZbm1tTGVva05VaEVRSXdQakgyMnIzcjFJc1ZLWjBONVYxRmx0c1BMX1dKbnI0Mk9nbFdjdFRYeEUwWTZ5QW04RGh5R3BtTmNDY2lQOHhBdzBnVE5BQTFFeTNIS3hycXdENFA1aVZHU0o3SGQyUzlpTnotOU9xQ1RkY2pkc0pjaFR3MGl0aEQ2d040SjNiWQ?oc=5",
+    "source": "WION",
+    "published_at": "2026-03-11T03:57:00+00:00",
+    "raw_pub_date": "Wed, 11 Mar 2026 03:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c6a18edb1d523bc204d604b8380070bdc6d4b227",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Hostile rhetoric and accusations toward Israel/U.S., rejecting attack claims signals rising tensions.",
-      "event_key": "iran fm rejects us attack claims accuses israel"
+      "reason": "Iran's strong warning to Netanyahu and rejection of US allegations are hostile rhetoric increasing tensions.",
+      "event_key": "iran warning to netanyahu rejects us preemptive attack claims"
     }
   }
 ]
