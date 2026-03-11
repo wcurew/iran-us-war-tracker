@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-03-11T11:06:59+00:00",
+  "started_at_utc": "2026-03-11T14:36:54+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-03-11T07:57:48.551542+00:00",
-  "window_end_utc": "2026-03-11T11:06:59.694168+00:00",
+  "window_start_utc": "2026-03-11T11:06:59.694168+00:00",
+  "window_end_utc": "2026-03-11T14:36:54.174268+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 27,
-    "keyword_filtered": 18,
-    "deduped": 12,
-    "after_seen_filter": 9,
-    "classified": 9
+    "time_filtered": 31,
+    "keyword_filtered": 12,
+    "deduped": 10,
+    "after_seen_filter": 8,
+    "classified": 8
   },
-  "finished_at_utc": "2026-03-11T11:08:00+00:00",
+  "finished_at_utc": "2026-03-11T14:37:51+00:00",
   "summary": "직접 공격·보복 보도가 강하게 반영돼 고위험 구간이다. 단기 확전 리스크를 강하게 경계해야 한다."
 }
