@@ -130,29 +130,6 @@ def format_time(ts) -> str:
     return ts.strftime("%Y-%m-%d %H:%M")
 
 
-def build_heatmap(df: pd.DataFrame) -> pd.DataFrame:
-    if df.empty or "generated_at_kst" not in df.columns:
-        return pd.DataFrame()
-
-    temp = df.copy()
-    temp = temp.dropna(subset=["generated_at_kst", "war_smoothed_score"])
-    if temp.empty:
-        return pd.DataFrame()
-
-    temp["date"] = temp["generated_at_kst"].dt.strftime("%m-%d")
-    temp["hour"] = temp["generated_at_kst"].dt.hour
-    temp["score"] = pd.to_numeric(temp["war_smoothed_score"], errors="coerce")
-
-    pivot = temp.pivot_table(
-        index="date",
-        columns="hour",
-        values="score",
-        aggfunc="mean",
-    ).sort_index()
-
-    return pivot
-
-
 @st.cache_resource
 def get_openai_client():
     if not OPENAI_API_KEY:
@@ -184,7 +161,7 @@ def translate_title_to_korean(title: str, cache: dict) -> str:
                     "content": (
                         "Translate English news headlines into natural Korean. "
                         "Return only the translated headline text. "
-                        "Do not include HTML, markdown, labels, explanation, or quotation marks."
+                        "Do not include HTML, markdown, explanation, or quotation marks."
                     ),
                 },
                 {"role": "user", "content": title},
@@ -242,14 +219,10 @@ if not articles_df.empty:
         articles_df["reason"] = articles_df["classification"].apply(
             lambda x: x.get("reason", "") if isinstance(x, dict) else ""
         )
-        articles_df["event_key"] = articles_df["classification"].apply(
-            lambda x: x.get("event_key", "") if isinstance(x, dict) else ""
-        )
     else:
         articles_df["label"] = ""
         articles_df["strength"] = 0.0
         articles_df["reason"] = ""
-        articles_df["event_key"] = ""
 
     if "source_weight" not in articles_df.columns:
         articles_df["source_weight"] = 1.0
@@ -261,7 +234,6 @@ if not articles_df.empty:
         "source",
         "label",
         "reason",
-        "event_key",
         "translated_title_ko",
         "title_ko",
         "translated_title",
@@ -333,13 +305,6 @@ st.markdown(
     margin-top: 1.05rem;
     margin-bottom: 0.65rem;
 }
-.chart-card {
-    padding: 0.85rem 0.85rem 0.45rem 0.85rem;
-    border-radius: 18px;
-    border: 1px solid rgba(255,255,255,0.08);
-    background: rgba(255,255,255,0.02);
-    margin-bottom: 0.9rem;
-}
 .filter-note {
     color: #95a6c0;
     font-size: 0.84rem;
@@ -405,107 +370,71 @@ with st.container(border=True):
     s3.metric("긴장 고조 기사", int(pd.to_numeric(latest.get("escalation_count", 0), errors="coerce")))
 
 # =========================================================
-# Trend + Heatmap
+# Trend
 # =========================================================
 st.markdown('<div class="section-title">📈 위험도 추세</div>', unsafe_allow_html=True)
 
-c1, c2 = st.columns([1.35, 1])
+with st.container(border=True):
+    trend_df = signal_df.copy().dropna(subset=["generated_at_kst"])
 
-with c1:
-    with st.container(border=True):
-        trend_df = signal_df.copy().dropna(subset=["generated_at_kst"])
+    if not trend_df.empty:
+        plot_df = trend_df.sort_values("generated_at_kst").copy()
+        plot_df["generated_at_kst"] = pd.to_datetime(plot_df["generated_at_kst"], errors="coerce")
+        plot_df = plot_df.dropna(subset=["generated_at_kst"])
+        plot_df["time_bin"] = plot_df["generated_at_kst"].dt.floor("3H")
 
-        if not trend_df.empty:
-            plot_df = trend_df.sort_values("generated_at_kst").copy()
-            plot_df["generated_at_kst"] = pd.to_datetime(plot_df["generated_at_kst"], errors="coerce")
-            plot_df = plot_df.dropna(subset=["generated_at_kst"])
-            plot_df["time_bin"] = plot_df["generated_at_kst"].dt.floor("3H")
-
-            plot_df = (
-                plot_df.groupby("time_bin", as_index=False)
-                .agg(
-                    war_batch_score=("war_batch_score", "last"),
-                    war_smoothed_score=("war_smoothed_score", "last"),
-                )
-                .sort_values("time_bin")
+        plot_df = (
+            plot_df.groupby("time_bin", as_index=False)
+            .agg(
+                war_batch_score=("war_batch_score", "last"),
+                war_smoothed_score=("war_smoothed_score", "last"),
             )
+            .sort_values("time_bin")
+        )
 
-            fig_trend = go.Figure()
+        fig_trend = go.Figure()
 
-            fig_trend.add_trace(
-                go.Scatter(
-                    x=plot_df["time_bin"],
-                    y=pd.to_numeric(plot_df["war_batch_score"], errors="coerce"),
-                    mode="lines+markers",
-                    name="즉각 위험도",
-                    line=dict(color="#e74c3c", width=3),
-                    marker=dict(size=6, color="#e74c3c"),
-                )
+        fig_trend.add_trace(
+            go.Scatter(
+                x=plot_df["time_bin"],
+                y=pd.to_numeric(plot_df["war_batch_score"], errors="coerce"),
+                mode="lines+markers",
+                name="즉각 위험도",
+                line=dict(color="#e74c3c", width=3),
+                marker=dict(size=6, color="#e74c3c"),
             )
+        )
 
-            fig_trend.add_trace(
-                go.Scatter(
-                    x=plot_df["time_bin"],
-                    y=pd.to_numeric(plot_df["war_smoothed_score"], errors="coerce"),
-                    mode="lines+markers",
-                    name="추세 위험도",
-                    line=dict(color="#3498db", width=3),
-                    marker=dict(size=6, color="#3498db"),
-                )
+        fig_trend.add_trace(
+            go.Scatter(
+                x=plot_df["time_bin"],
+                y=pd.to_numeric(plot_df["war_smoothed_score"], errors="coerce"),
+                mode="lines+markers",
+                name="추세 위험도",
+                line=dict(color="#3498db", width=3),
+                marker=dict(size=6, color="#3498db"),
             )
+        )
 
-            fig_trend.update_layout(
-                height=320,
-                margin=dict(l=10, r=10, t=10, b=10),
-                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-                xaxis_title="시간",
-                yaxis_title="위험도 점수",
-                yaxis=dict(range=[0, 100]),
-                hovermode="x unified",
-            )
+        fig_trend.update_layout(
+            height=340,
+            margin=dict(l=10, r=10, t=10, b=10),
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+            xaxis_title="시간",
+            yaxis_title="위험도 점수",
+            yaxis=dict(range=[0, 100]),
+            hovermode="x unified",
+        )
 
-            fig_trend.update_xaxes(
-                dtick=3 * 60 * 60 * 1000,
-                tickformat="%m-%d %H:%M",
-            )
+        fig_trend.update_xaxes(
+            dtick=3 * 60 * 60 * 1000,
+            tickformat="%m-%d %H:%M",
+        )
 
-            st.plotly_chart(fig_trend, use_container_width=True)
-            st.caption("빨간선=즉각 위험도 / 파란선=추세 위험도 / 3시간 배치 기준")
-        else:
-            st.info("추세 데이터를 표시할 수 없습니다.")
-
-with c2:
-    with st.container(border=True):
-        heatmap_pivot = build_heatmap(signal_df.tail(120))
-
-        if not heatmap_pivot.empty:
-            heatmap_fig = go.Figure(
-                data=go.Heatmap(
-                    z=heatmap_pivot.values,
-                    x=[f"{int(h):02d}" for h in heatmap_pivot.columns],
-                    y=heatmap_pivot.index.tolist(),
-                    colorscale=[
-                        [0.00, "#2ecc71"],
-                        [0.25, "#f1c40f"],
-                        [0.50, "#e67e22"],
-                        [1.00, "#e74c3c"],
-                    ],
-                    zmin=0,
-                    zmax=100,
-                    colorbar=dict(title="Risk"),
-                )
-            )
-            heatmap_fig.update_layout(
-                title="추세 위험도 Heatmap",
-                height=320,
-                margin=dict(l=10, r=10, t=45, b=10),
-                xaxis_title="Hour (KST)",
-                yaxis_title="Date",
-            )
-            st.plotly_chart(heatmap_fig, use_container_width=True)
-            st.caption("날짜/시간대별 추세 위험도 분포")
-        else:
-            st.info("heatmap 데이터를 표시할 수 없습니다.")
+        st.plotly_chart(fig_trend, use_container_width=True)
+        st.caption("빨간선=즉각 위험도 / 파란선=추세 위험도 / 3시간 배치 기준")
+    else:
+        st.info("추세 데이터를 표시할 수 없습니다.")
 
 # =========================================================
 # Market Signals
@@ -610,10 +539,10 @@ Strength {strength_text:.2f}
                         unsafe_allow_html=True,
                     )
 
-                st.markdown(f"**{title_ko}**")
+                st.markdown(f"**한글 번역:** {title_ko}")
 
-                if title_en and title_en != title_ko:
-                    st.caption(title_en)
+                if title_en:
+                    st.caption(f"영문 원문: {title_en}")
 
                 if summary:
                     st.write(summary)
