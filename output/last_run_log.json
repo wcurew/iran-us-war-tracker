@@ -1,16 +1,15 @@
 {
-  "started_at_utc": "2026-03-12T07:59:06+00:00",
+  "started_at_utc": "2026-03-12T07:59:56+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-03-12T05:07:09.375427+00:00",
-  "window_end_utc": "2026-03-12T07:59:06.998677+00:00",
+  "window_start_utc": "2026-03-12T07:59:06.998677+00:00",
+  "window_end_utc": "2026-03-12T07:59:56.763302+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 13,
-    "keyword_filtered": 6,
-    "deduped": 5,
-    "after_seen_filter": 3,
-    "classified": 3
+    "time_filtered": 0,
+    "keyword_filtered": 0,
+    "deduped": 0,
+    "after_seen_filter": 0
   },
-  "finished_at_utc": "2026-03-12T07:59:31+00:00",
-  "summary": "대리세력 관련 충돌까지 겹치며 긴장이 매우 높다. 위험자산보다 방어적 해석이 유리하다."
+  "finished_at_utc": "2026-03-12T08:00:04+00:00",
+  "summary": "이번 실행 구간에는 새로 올라온 관련 기사가 거의 없었다."
 }
