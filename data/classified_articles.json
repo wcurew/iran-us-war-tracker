@@ -1,70 +1,36 @@
 [
   {
-    "title": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts - KESQ",
-    "summary": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts KESQ",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRjJOeDNxVG10czd6ZEdSLVNEVGN4RjQweW1DTkJQdXp0a2pEMk9UZE9YcS0xMXdkOXJjMEk5WmhaRDVGMHoyb0VieXhqb0owUVZmYkszWnZtcFBTOXFPOHlWRVRqb0txZWFidm9QTGpJLS1fR0ZmTEpud0VONGhyVE5GTVZ3Zk80WENFelFvQUZ0TktEbUN1Nld1cG1heS1vLTl6YWpHZ1k1c2xMbjZiTEsyY1NPaXZNZ1NaVUV2dnlSVFFZRWYydW5wSC1tODJm?oc=5",
-    "source": "KESQ",
-    "published_at": "2026-03-12T19:45:04+00:00",
-    "raw_pub_date": "Thu, 12 Mar 2026 19:45:04 GMT",
+    "title": "Lawmakers Are Concerned About Retaliation in the U.S. by Iran - News of the United States - NOTUS",
+    "summary": "Lawmakers Are Concerned About Retaliation in the U.S. by Iran News of the United States - NOTUS",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6UmJ2RmV4LUNQRHJxeUJEUVNWMFZyTHpYWWtReHE4SnJLa0l2V21hNE1EYm9ZYWtxNG9tdzNLY3hXeklqR0pOaTNtVGs0T05UUS0wVmFwdjFfS09fRmFNdGtldC15RUNrbVEw?oc=5",
+    "source": "News of the United States - NOTUS",
+    "published_at": "2026-03-12T21:04:08+00:00",
+    "raw_pub_date": "Thu, 12 Mar 2026 21:04:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "76a946e3b807686a1a9d54e0dee3f152b95cafb7",
+    "article_id": "429614223c6c9a5d125794e86168fe0eb92a8139",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.5,
-      "reason": "Visual overview of the US-Israeli conflict with Iran focusing on warfare and retaliatory strikes.",
-      "event_key": "us israel iran retaliation visualization"
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "U.S. lawmakers express concern about potential Iranian retaliation, indicating rising tensions and threats.",
+      "event_key": "us lawmakers concern iran retaliation"
     }
   },
   {
-    "title": "Israel bombs central Beirut, U.S. airstrikes top 6,000, Iran escalates attacks. Live updates here. - CTV News",
-    "summary": "Israel bombs central Beirut, U.S. airstrikes top 6,000, Iran escalates attacks. Live updates here. CTV News",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWU0SUg5ZXRDRHQzUTh3cEJOMGc5Mi16Y09vb0Y3RVo1SWV3aWNlbVRiMS14OEZJcE5yUlVNRzZMZ1k1aXZoNVdqd3Z0d0hoTy1iUmNISzBDbXVIc3NQTzNaMmJmZ1lmRjhPRkhEYXNxaGo3ZW9tZEhFaE1kUUZRY0l5RFZ2UVJIWVpoNzUwejBXS21mWGM1U0pvWVV2Qnp4TEw3UTlJbkFPeDM1RWxPOWQzRG56MWJzbkhDVlQzWEt6TVBtQ050eTVwZjlyVnVtdTQtb3RmZFFPTkVzcDVz?oc=5",
-    "source": "CTV News",
-    "published_at": "2026-03-12T18:50:33+00:00",
-    "raw_pub_date": "Thu, 12 Mar 2026 18:50:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ef18751a74f9038d0a771e1fc1db538762a98321",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Describes active bombings and thousands of airstrikes with Iran escalating attacks.",
-      "event_key": "israel bombing beirut us airstrikes iran escalation"
-    }
-  },
-  {
-    "title": "A continuing military investigation has determined that the U.S. is responsible for a strike that hit an elementary school in Iran, according to U.S. officials and others familiar with the preliminary findings. Listen to \"The Daily.\" - facebook.com",
-    "summary": "A continuing military investigation has determined that the U.S. is responsible for a strike that hit an elementary school in Iran, according to U.S. officials and others familiar with the preliminary findings. Listen to \"The Daily.\" facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjVNbXRsUjFCT0pfZi1aMFk0cVd2WDJvcU5CMHVvQVc2YWJrWWlpUVlQNjk4a29rM0RNOEFNd3JiU2V0d2ZldDhwVGVKVjBCUlVLdGlHcnlTVm5DRUc3dE1XUzFON0xtSG1rY2IxMVNrOVhfX0d4VzhsSXk0OUo2ek41QmxMZHlERV9MVmIzTEpFTlFvODRmWXh1TEZocFdZcS1KOWRsejdFOC11U0tONmdrdGdEVldDOG15RURRWlplemZTMFdKNGhNVWd6QWczeF9r?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-03-12T18:05:32+00:00",
-    "raw_pub_date": "Thu, 12 Mar 2026 18:05:32 GMT",
+    "title": "Iran-linked hackers take aim at U.S. and other targets, raising risk of cyberattacks during war - PBS",
+    "summary": "Iran-linked hackers take aim at U.S. and other targets, raising risk of cyberattacks during war PBS",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUxtdDNSMXhULUtMOGk2U1J3YTEweVVscDdiVERJZ0JuV2h6VDJfUmk0RUZBa2FzZElrYXFxY3ByaGdwR29uVXNmdEQ3azRvRFdqRWdQdUw5UkFjSFN1V05veHlhS1pSXzVra3NqanpxcXlVQ2FXUmt0VGpHRVBQeVJzdGhpTkFJdGxLMmRaNGd1bXczV1I2dldDVVpmeU1fakF0aldaRUZlV0JuaHlxTUdYb2FKbElmcHNMR3dHZUFDSVMzU3VR0gHMAUFVX3lxTFBiVDBWSXBpRGlhdm1TQVYwLWFsc2hYYmJXOEU1NzdLM1hOUGtIWkgwMEVnbjlmZks0RGxBWVVtUjVVZl82VWdSMmlOQmE3bmtfeG5wMzlBblRCSk41Y2dCZGhjT2dTNGM3aUZiM0x3UHprbW83SDhUVlZudmxiVWd0YmplNTdYU0YtX1c0c3dDY0t2YmwwU0JXNl9WS0dFWHp5Sk5LVzdMelVuR1ZTWXFUS1NidmN2WWU4aVRUZmVFTEpSZUFKdGtpWEFETw?oc=5",
+    "source": "PBS",
+    "published_at": "2026-03-12T21:20:30+00:00",
+    "raw_pub_date": "Thu, 12 Mar 2026 21:20:30 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fe46c511bda349f458d7cea7038239dc848708c9",
+    "article_id": "aadab80679016c04d8f1f0a9fb23ce082f510dd9",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Military probe found a U.S. strike hit an elementary school in Iran, indicating a direct military action.",
-      "event_key": "us strike hits iran elementary school"
-    }
-  },
-  {
-    "title": "Opinion | Finding Fault for the Deadly U.S. Strike on a School in Iran - The New York Times",
-    "summary": "Opinion | Finding Fault for the Deadly U.S. Strike on a School in Iran The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEgtZmZMbmhkZVo5bkNObHhBZU1tNE10Q19UM2g5QkU4NDFteFJKRHh2UnltQzdHdktkeHlYMEZ2ZXI3WEZDb0RKN1UxR0NGaThBRWZsVXgySDdpUF9WWFc5QUlPRmxuSTVTNmhpdG5SZkZHTjJEMTlkOWlBVHNtMldn?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-03-12T18:04:14+00:00",
-    "raw_pub_date": "Thu, 12 Mar 2026 18:04:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "377c6c94f008b10fd9308f78c730670c3dc4d698",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Discusses a deadly U.S. strike on a school in Iran, a direct military action.",
-      "event_key": "us strike on school iran"
+      "label": "proxy_escalation",
+      "strength": 0.75,
+      "reason": "Iran-linked hacker attacks targeting the U.S. signal escalatory cyber operations tied to Iran-backed actors.",
+      "event_key": "iran linked cyberattacks targeting us"
     }
   }
 ]
