@@ -1,608 +1,514 @@
+# streamlit_app.py
+
+from __future__ import annotations
+
 import json
-import os
+import math
 import re
-import html
 from pathlib import Path
+from typing import Any
 
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
 import pandas as pd
-import plotly.graph_objects as go
 import streamlit as st
-from openai import OpenAI
 
-# =========================================================
-# Page
-# =========================================================
+
+# =========================
+# 기본 설정
+# =========================
 st.set_page_config(
-    page_title="Iran-US War Risk Tracker",
-    page_icon="🌍",
+    page_title="Iran-US War Tracker",
+    page_icon="🔥",
     layout="wide",
 )
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
 
-DAILY_SIGNAL_PATH = DATA_DIR / "daily_signal.csv"
-CLASSIFIED_JSON_PATH = DATA_DIR / "classified_articles.json"
-LATEST_REPORT_PATH = OUTPUT_DIR / "latest_report.json"
-TITLE_KO_CACHE_PATH = DATA_DIR / "title_ko_cache.json"
-
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5-mini").strip()
-
-# =========================================================
-# Helpers
-# =========================================================
-def safe_read_csv(path: Path) -> pd.DataFrame:
-    if not path.exists():
-        return pd.DataFrame()
-
-    encodings = ["utf-8", "utf-8-sig", "cp949", "latin1"]
-    for enc in encodings:
-        try:
-            return pd.read_csv(path, encoding=enc, on_bad_lines="skip")
-        except Exception:
-            continue
-    return pd.DataFrame()
+CSV_PATH = DATA_DIR / "daily_signal.csv"
+ARTICLES_PATH = DATA_DIR / "classified_articles.json"
+REPORT_PATH = OUTPUT_DIR / "latest_report.json"
+TITLE_CACHE_PATH = DATA_DIR / "title_ko_cache.json"
 
 
-def safe_read_json(path: Path, default):
-    if not path.exists():
-        return default
+# =========================
+# 유틸
+# =========================
+def safe_load_json(path: Path, default: Any):
     try:
-        with path.open("r", encoding="utf-8") as f:
+        if not path.exists():
+            return default
+        with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     except Exception:
         return default
 
 
-def save_json(path: Path, obj) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
-        json.dump(obj, f, ensure_ascii=False, indent=2)
-
-
-def clean_text(text: str) -> str:
-    text = "" if text is None else str(text)
-    text = html.unescape(text)
-    text = re.sub(r"<[^>]+>", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
-
-def to_kst(series: pd.Series) -> pd.Series:
-    parsed = pd.to_datetime(series, errors="coerce", utc=True)
+def safe_read_csv(path: Path) -> pd.DataFrame:
     try:
-        return parsed.dt.tz_convert("Asia/Seoul")
+        if not path.exists():
+            return pd.DataFrame()
+        return pd.read_csv(path)
     except Exception:
-        return parsed
+        return pd.DataFrame()
 
 
-def risk_color(score: float) -> str:
-    if score < 25:
-        return "#2ecc71"
-    if score < 50:
-        return "#f1c40f"
-    if score < 75:
-        return "#e67e22"
-    return "#e74c3c"
+def normalize_text(value: Any) -> str:
+    if value is None:
+        return ""
+    if isinstance(value, float) and math.isnan(value):
+        return ""
+    return str(value).strip()
 
 
-def label_color(label: str) -> str:
-    palette = {
-        "negotiation": "#1abc9c",
-        "ceasefire": "#00b894",
-        "deescalation_signal": "#2ecc71",
-        "escalation": "#ff9f43",
-        "proxy_escalation": "#8e44ad",
-        "strike_or_retaliation": "#ff5a5f",
-        "irrelevant": "#6c757d",
-    }
-    return palette.get(str(label).strip().lower(), "#6c757d")
+def parse_dt_column(df: pd.DataFrame) -> pd.Series:
+    """
+    timestamp / collected_at / batch_time / datetime / created_at 등
+    가능한 시간 컬럼을 찾아 datetime으로 반환.
+    """
+    if df.empty:
+        return pd.Series(dtype="datetime64[ns]")
+
+    candidate_cols = [
+        "timestamp",
+        "collected_at",
+        "batch_time",
+        "datetime",
+        "created_at",
+        "published_at",
+        "time",
+        "date",
+    ]
+
+    for col in candidate_cols:
+        if col in df.columns:
+            return pd.to_datetime(df[col], errors="coerce")
+
+    return pd.Series([pd.NaT] * len(df), index=df.index)
 
 
-def label_ko(label: str) -> str:
-    mapping = {
-        "negotiation": "협상",
-        "ceasefire": "휴전",
-        "deescalation_signal": "완화 신호",
-        "escalation": "긴장 고조",
-        "proxy_escalation": "대리세력 확전",
-        "strike_or_retaliation": "직접 공격/보복",
-        "irrelevant": "무관",
-    }
-    return mapping.get(str(label).strip().lower(), label)
+def first_existing(d: dict, keys: list[str], default: Any = "") -> Any:
+    for k in keys:
+        if k in d and d[k] is not None:
+            return d[k]
+    return default
 
 
-def strength_emoji(value: float) -> str:
+def is_mostly_ascii(text: str) -> bool:
+    if not text:
+        return True
+    ascii_count = sum(1 for ch in text if ord(ch) < 128)
+    return ascii_count / max(len(text), 1) >= 0.85
+
+
+def has_hangul(text: str) -> bool:
+    return bool(re.search(r"[가-힣]", text))
+
+
+def looks_like_broken_or_code(text: str) -> bool:
+    if not text:
+        return True
+
+    lowered = text.lower()
+
+    suspicious_patterns = [
+        "<div",
+        "</div",
+        "<span",
+        "</span",
+        "<p>",
+        "</p>",
+        "<br",
+        "function(",
+        "return {",
+        "json",
+        '{"',
+        '["',
+        "traceback",
+        "error:",
+        "nan",
+        "null",
+        "none",
+    ]
+
+    if any(p in lowered for p in suspicious_patterns):
+        return True
+
+    # 괄호/기호 비율이 너무 높으면 깨진 문자열로 간주
+    special_count = sum(1 for ch in text if ch in "{}[]<>|\\`~")
+    if special_count >= 4:
+        return True
+
+    return False
+
+
+def sanitize_korean_title(title_ko: Any, title_en: Any) -> str:
+    """
+    번역 실패 / 영어 그대로 / cache 오염 / HTML / 이상 문자열 방어
+    최종적으로 유효한 한글 제목이 아니면 '번역 없음'
+    """
+    ko = normalize_text(title_ko)
+    en = normalize_text(title_en)
+
+    if not ko:
+        return "번역 없음"
+
+    if looks_like_broken_or_code(ko):
+        return "번역 없음"
+
+    if en and ko.strip().lower() == en.strip().lower():
+        return "번역 없음"
+
+    # 한글이 전혀 없고 ASCII 비율 높으면 번역 실패로 간주
+    if not has_hangul(ko) and is_mostly_ascii(ko):
+        return "번역 없음"
+
+    # 너무 짧거나 의미 없는 값 차단
+    if ko in {"-", "--", "N/A", "n/a", "없음"}:
+        return "번역 없음"
+
+    return ko
+
+
+def sanitize_summary(text: Any) -> str:
+    s = normalize_text(text)
+    if not s or looks_like_broken_or_code(s):
+        return "요약 없음"
+    return s
+
+
+def sanitize_reason(text: Any) -> str:
+    s = normalize_text(text)
+    if not s or looks_like_broken_or_code(s):
+        return "판단 근거 없음"
+    return s
+
+
+def sanitize_source(text: Any) -> str:
+    s = normalize_text(text)
+    return s if s else "출처 미상"
+
+
+def sanitize_link(text: Any) -> str:
+    s = normalize_text(text)
+    if s.startswith("http://") or s.startswith("https://"):
+        return s
+    return ""
+
+
+def format_strength(value: Any) -> str:
+    if value is None:
+        return "-"
     try:
         v = float(value)
-        n = int(round(v * 5)) if v <= 1 else int(round(v))
+        return f"{v:.2f}"
     except Exception:
-        n = 0
-    n = max(0, min(n, 5))
-    return "🔥" * n if n > 0 else "·"
+        return normalize_text(value) or "-"
 
 
-def format_time(ts) -> str:
-    if pd.isna(ts):
-        return "시간 정보 없음"
-    return ts.strftime("%Y-%m-%d %H:%M")
-
-
-@st.cache_resource
-def get_openai_client():
-    if not OPENAI_API_KEY:
-        return None
+def format_score(value: Any) -> str:
+    if value is None:
+        return "-"
     try:
-        return OpenAI(api_key=OPENAI_API_KEY)
+        return f"{float(value):.2f}"
     except Exception:
-        return None
+        return "-"
 
 
-def translate_title_to_korean(title: str, cache: dict) -> str:
-    title = clean_text(title)
-    if not title:
-        return ""
-
-    if title in cache:
-        return clean_text(cache[title])
-
-    client = get_openai_client()
-    if client is None:
-        return title
-
+def fire_emoji_from_strength(value: Any) -> str:
     try:
-        resp = client.responses.create(
-            model=OPENAI_MODEL,
-            input=[
-                {
-                    "role": "system",
-                    "content": (
-                        "Translate English news headlines into natural Korean. "
-                        "Return only the translated headline text. "
-                        "Do not include HTML, markdown, explanation, or quotation marks."
-                    ),
-                },
-                {"role": "user", "content": title},
-            ],
-        )
-        out = clean_text((getattr(resp, "output_text", "") or "").strip())
-        if out:
-            cache[title] = out
-            return out
+        v = float(value)
     except Exception:
-        pass
+        return "🔥"
 
-    return title
+    if v >= 0.90:
+        return "🔥🔥🔥"
+    if v >= 0.70:
+        return "🔥🔥"
+    if v >= 0.40:
+        return "🔥"
+    return "·"
 
 
-def get_title_ko(row: pd.Series, cache: dict) -> str:
-    for col in ["translated_title_ko", "title_ko", "translated_title"]:
-        if col in row and str(row[col]).strip():
-            return clean_text(str(row[col]).strip())
-    return clean_text(translate_title_to_korean(str(row.get("title", "")), cache))
+def format_datetime(value: Any) -> str:
+    if value is None:
+        return "-"
+    try:
+        dt = pd.to_datetime(value, errors="coerce")
+        if pd.isna(dt):
+            return "-"
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except Exception:
+        return "-"
 
 
-# =========================================================
-# Load data
-# =========================================================
-signal_df = safe_read_csv(DAILY_SIGNAL_PATH)
-classified_articles = safe_read_json(CLASSIFIED_JSON_PATH, default=[])
-latest_report = safe_read_json(LATEST_REPORT_PATH, default={})
-title_ko_cache = safe_read_json(TITLE_KO_CACHE_PATH, default={})
+# =========================
+# 데이터 로드
+# =========================
+@st.cache_data(ttl=300)
+def load_history() -> pd.DataFrame:
+    df = safe_read_csv(CSV_PATH)
+    if df.empty:
+        return df
 
-if signal_df.empty:
-    st.error("data/daily_signal.csv 파일이 없거나 비어 있습니다.")
-    st.stop()
+    dt = parse_dt_column(df)
+    df = df.copy()
+    df["timestamp_parsed"] = dt
+    df = df.dropna(subset=["timestamp_parsed"]).sort_values("timestamp_parsed")
 
-signal_df["generated_at_utc"] = pd.to_datetime(signal_df["generated_at_utc"], errors="coerce", utc=True)
-signal_df["generated_at_kst"] = to_kst(signal_df["generated_at_utc"])
-signal_df = signal_df.sort_values("generated_at_utc").reset_index(drop=True)
+    # 숫자 컬럼 정리
+    for col in ["war_batch_score", "war_smoothed_score"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce")
 
-latest = signal_df.iloc[-1].copy()
+    return df
 
-articles_df = pd.DataFrame(classified_articles)
-if not articles_df.empty:
-    if "published_at" in articles_df.columns:
-        articles_df["published_at_kst"] = to_kst(articles_df["published_at"])
-    else:
-        articles_df["published_at_kst"] = pd.NaT
 
-    if "classification" in articles_df.columns:
-        articles_df["label"] = articles_df["classification"].apply(
-            lambda x: x.get("label", "") if isinstance(x, dict) else ""
-        )
-        articles_df["strength"] = articles_df["classification"].apply(
-            lambda x: x.get("strength", 0.0) if isinstance(x, dict) else 0.0
-        )
-        articles_df["reason"] = articles_df["classification"].apply(
-            lambda x: x.get("reason", "") if isinstance(x, dict) else ""
-        )
-    else:
-        articles_df["label"] = ""
-        articles_df["strength"] = 0.0
-        articles_df["reason"] = ""
+@st.cache_data(ttl=300)
+def load_articles() -> list[dict]:
+    data = safe_load_json(ARTICLES_PATH, default=[])
+    if not isinstance(data, list):
+        return []
 
-    if "source_weight" not in articles_df.columns:
-        articles_df["source_weight"] = 1.0
+    # title_ko_cache.json 이 있더라도 직접 신뢰하지 않고,
+    # 기사 데이터 안의 title_ko도 sanitize해서만 사용
+    _ = safe_load_json(TITLE_CACHE_PATH, default={})  # 깨져도 무시
 
-    for col in [
-        "title",
-        "summary",
-        "link",
-        "source",
-        "label",
-        "reason",
-        "translated_title_ko",
-        "title_ko",
-        "translated_title",
-    ]:
-        if col not in articles_df.columns:
-            articles_df[col] = ""
-        articles_df[col] = articles_df[col].fillna("").astype(str)
+    cleaned: list[dict] = []
 
-    articles_df["strength"] = pd.to_numeric(articles_df["strength"], errors="coerce").fillna(0.0)
-    articles_df["source_weight"] = pd.to_numeric(articles_df["source_weight"], errors="coerce").fillna(1.0)
-    articles_df["weighted_strength"] = articles_df["strength"] * articles_df["source_weight"]
-    articles_df["title_ko_display"] = articles_df.apply(lambda row: get_title_ko(row, title_ko_cache), axis=1)
-    save_json(TITLE_KO_CACHE_PATH, title_ko_cache)
+    for item in data:
+        if not isinstance(item, dict):
+            continue
 
-    articles_df = articles_df.sort_values(
-        ["published_at_kst", "weighted_strength"],
-        ascending=[False, False],
-        na_position="last",
-    ).reset_index(drop=True)
+        title_en = first_existing(item, ["title", "title_en", "headline"], "")
+        title_ko_raw = first_existing(item, ["title_ko", "translated_title_ko"], "")
 
-# =========================================================
-# CSS
-# =========================================================
-st.markdown(
-    """
-<style>
-.block-container {
-    padding-top: 1rem;
-    padding-bottom: 2rem;
-    max-width: 1250px;
-}
-.hero {
-    padding: 1.2rem 1.2rem 1rem 1.2rem;
-    border-radius: 22px;
-    background: linear-gradient(135deg, #0f172a 0%, #172033 55%, #1d2a44 100%);
-    border: 1px solid rgba(255,255,255,0.08);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.18);
-    margin-bottom: 1rem;
-}
-.hero-title {
-    font-size: 1.9rem;
-    font-weight: 900;
-    line-height: 1.15;
-    margin-bottom: 0.2rem;
-    color: #ffffff;
-}
-.hero-sub {
-    color: #c7d2e1;
-    font-size: 0.96rem;
-    line-height: 1.5;
-}
-.status-pill {
-    display: inline-block;
-    margin-top: 0.75rem;
-    padding: 0.42rem 0.78rem;
-    border-radius: 999px;
-    font-weight: 800;
-    font-size: 0.84rem;
-    color: white;
-}
-.mini-note {
-    color: #97a6bc;
-    font-size: 0.82rem;
-    margin-top: 0.55rem;
-}
-.section-title {
-    font-size: 1.10rem;
-    font-weight: 800;
-    margin-top: 1.05rem;
-    margin-bottom: 0.65rem;
-}
-.filter-note {
-    color: #95a6c0;
-    font-size: 0.84rem;
-    margin-bottom: 0.4rem;
-}
-</style>
-""",
-    unsafe_allow_html=True,
-)
+        article = {
+            "label": normalize_text(first_existing(item, ["label", "classification"], "")) or "UNKNOWN",
+            "strength": first_existing(item, ["strength", "score", "confidence"], None),
+            "title_en": normalize_text(title_en) or "제목 없음",
+            "title_ko": sanitize_korean_title(title_ko_raw, title_en),
+            "summary": sanitize_summary(first_existing(item, ["summary", "summary_en", "desc"], "")),
+            "reason": sanitize_reason(
+                first_existing(item, ["reason", "rationale", "judgement_reason", "why"], "")
+            ),
+            "source": sanitize_source(first_existing(item, ["source", "publisher", "press"], "")),
+            "published_at": first_existing(item, ["published_at", "time", "created_at"], None),
+            "link": sanitize_link(first_existing(item, ["link", "url", "original_link"], "")),
+        }
+        cleaned.append(article)
 
-# =========================================================
-# Header
-# =========================================================
-trend_risk = float(pd.to_numeric(latest.get("war_smoothed_score", 0), errors="coerce"))
-status_color = risk_color(trend_risk)
-latest_time = latest.get("generated_at_kst", pd.NaT)
-latest_time_text = format_time(latest_time) + " KST" if not pd.isna(latest_time) else "시간 정보 없음"
+    # 최신순 정렬
+    def sort_key(x: dict):
+        try:
+            ts = pd.to_datetime(x.get("published_at"), errors="coerce")
+            if pd.isna(ts):
+                return pd.Timestamp.min
+            return ts
+        except Exception:
+            return pd.Timestamp.min
 
-st.markdown(
-    f"""
-<div class="hero">
-    <div class="hero-title">🌍 Iran-US War Risk Tracker</div>
-    <div class="hero-sub">AI 뉴스 분류 기반 지정학 리스크 대시보드</div>
-    <div class="status-pill" style="background:{status_color};">
-        현재 추세 위험도: {trend_risk:.1f}
-    </div>
-    <div class="mini-note">마지막 업데이트: {latest_time_text}</div>
-</div>
-""",
-    unsafe_allow_html=True,
-)
+    cleaned.sort(key=sort_key, reverse=True)
+    return cleaned
 
-# =========================================================
-# KPI
-# =========================================================
-k1, k2, k3, k4 = st.columns(4)
-k1.metric("추세 위험도", f"{float(latest.get('war_smoothed_score', 0)):.1f}")
-k2.metric("즉각 위험도", f"{float(latest.get('war_batch_score', 0)):.1f}")
-k3.metric("추세", str(latest.get("trend_label_ko", latest.get("trend_label", "-"))))
-k4.metric("관련 기사 수", int(pd.to_numeric(latest.get("relevant_articles", 0), errors="coerce")))
 
-# =========================================================
-# AI Summary
-# =========================================================
-st.markdown('<div class="section-title">🧠 AI Interpretation</div>', unsafe_allow_html=True)
+@st.cache_data(ttl=300)
+def load_report() -> dict:
+    data = safe_load_json(REPORT_PATH, default={})
+    return data if isinstance(data, dict) else {}
 
-with st.container(border=True):
-    summary_text = clean_text(
-        latest_report.get("summary_ko", "") or latest.get("summary_ko", "요약 정보가 없습니다.")
-    )
-    alert_text = clean_text(
-        latest_report.get("alert_message", "") or latest.get("alert_message", "")
-    )
 
-    if alert_text:
-        st.warning(alert_text)
+# =========================
+# 가공
+# =========================
+def prepare_chart_df(df: pd.DataFrame) -> pd.DataFrame:
+    if df.empty or "timestamp_parsed" not in df.columns:
+        return pd.DataFrame(columns=["timestamp", "war_batch_score", "war_smoothed_score"])
 
-    st.info(summary_text)
+    chart_df = df.copy()
+    chart_df = chart_df.set_index("timestamp_parsed")
 
-    s1, s2, s3 = st.columns(3)
-    s1.metric("직접 공격/보복", int(pd.to_numeric(latest.get("strike_count", 0), errors="coerce")))
-    s2.metric("대리세력 확전", int(pd.to_numeric(latest.get("proxy_escalation_count", 0), errors="coerce")))
-    s3.metric("긴장 고조 기사", int(pd.to_numeric(latest.get("escalation_count", 0), errors="coerce")))
+    keep_cols = [c for c in ["war_batch_score", "war_smoothed_score"] if c in chart_df.columns]
+    if not keep_cols:
+        return pd.DataFrame(columns=["timestamp", "war_batch_score", "war_smoothed_score"])
 
-# =========================================================
-# Trend
-# =========================================================
-st.markdown('<div class="section-title">📈 위험도 추세</div>', unsafe_allow_html=True)
+    chart_df = chart_df[keep_cols]
 
-with st.container(border=True):
-    trend_df = signal_df.copy().dropna(subset=["generated_at_kst"])
+    # 3시간 배치 기준으로 집계
+    # 배치 데이터라면 거의 그대로 유지되고, 더 촘촘한 경우엔 3시간 단위 last
+    chart_df = chart_df.resample("3H").last().dropna(how="all").reset_index()
+    chart_df = chart_df.rename(columns={"timestamp_parsed": "timestamp"})
 
-    if not trend_df.empty:
-        plot_df = trend_df.sort_values("generated_at_kst").copy()
-        plot_df["generated_at_kst"] = pd.to_datetime(plot_df["generated_at_kst"], errors="coerce")
-        plot_df = plot_df.dropna(subset=["generated_at_kst"])
-        plot_df["time_bin"] = plot_df["generated_at_kst"].dt.floor("3H")
+    return chart_df
 
-        plot_df = (
-            plot_df.groupby("time_bin", as_index=False)
-            .agg(
-                war_batch_score=("war_batch_score", "last"),
-                war_smoothed_score=("war_smoothed_score", "last"),
-            )
-            .sort_values("time_bin")
+
+def latest_scores_from_df(df: pd.DataFrame) -> tuple[Any, Any, str]:
+    if df.empty:
+        return None, None, "-"
+
+    last = df.iloc[-1]
+    batch = last["war_batch_score"] if "war_batch_score" in df.columns else None
+    smooth = last["war_smoothed_score"] if "war_smoothed_score" in df.columns else None
+    ts = format_datetime(last.get("timestamp_parsed"))
+    return batch, smooth, ts
+
+
+def latest_from_report_or_df(report: dict, df: pd.DataFrame) -> tuple[Any, Any]:
+    batch = report.get("war_batch_score", report.get("immediate_risk"))
+    smooth = report.get("war_smoothed_score", report.get("trend_risk"))
+
+    if batch is None or smooth is None:
+        df_batch, df_smooth, _ = latest_scores_from_df(df)
+        batch = batch if batch is not None else df_batch
+        smooth = smooth if smooth is not None else df_smooth
+
+    return batch, smooth
+
+
+# =========================
+# 시각화
+# =========================
+def render_score_chart(chart_df: pd.DataFrame):
+    st.subheader("위험도 추세")
+
+    if chart_df.empty:
+        st.info("표시할 위험도 이력 데이터가 없습니다.")
+        return
+
+    fig, ax = plt.subplots(figsize=(12, 4.8))
+
+    if "war_batch_score" in chart_df.columns:
+        ax.plot(
+            chart_df["timestamp"],
+            chart_df["war_batch_score"],
+            label="즉각 위험도",
+            linewidth=2.2,
+            color="red",
         )
 
-        fig_trend = go.Figure()
-
-        fig_trend.add_trace(
-            go.Scatter(
-                x=plot_df["time_bin"],
-                y=pd.to_numeric(plot_df["war_batch_score"], errors="coerce"),
-                mode="lines+markers",
-                name="즉각 위험도",
-                line=dict(color="#e74c3c", width=3),
-                marker=dict(size=6, color="#e74c3c"),
-            )
+    if "war_smoothed_score" in chart_df.columns:
+        ax.plot(
+            chart_df["timestamp"],
+            chart_df["war_smoothed_score"],
+            label="추세 위험도",
+            linewidth=2.2,
+            color="blue",
         )
 
-        fig_trend.add_trace(
-            go.Scatter(
-                x=plot_df["time_bin"],
-                y=pd.to_numeric(plot_df["war_smoothed_score"], errors="coerce"),
-                mode="lines+markers",
-                name="추세 위험도",
-                line=dict(color="#3498db", width=3),
-                marker=dict(size=6, color="#3498db"),
-            )
+    ax.set_title("3시간 배치 기준 위험도 추세", fontsize=14)
+    ax.set_xlabel("시간")
+    ax.set_ylabel("점수")
+    ax.grid(alpha=0.25)
+    ax.legend()
+
+    ax.xaxis.set_major_locator(mdates.AutoDateLocator())
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d %H:%M"))
+    plt.xticks(rotation=30, ha="right")
+    plt.tight_layout()
+
+    st.pyplot(fig, use_container_width=True)
+
+
+def render_news_cards(articles: list[dict], limit: int):
+    st.subheader("실시간 뉴스 카드")
+
+    if not articles:
+        st.info("표시할 기사 데이터가 없습니다.")
+        return
+
+    for idx, article in enumerate(articles[:limit], start=1):
+        label = normalize_text(article.get("label")) or "UNKNOWN"
+        strength = format_strength(article.get("strength"))
+        fire = fire_emoji_from_strength(article.get("strength"))
+        title_ko = normalize_text(article.get("title_ko")) or "번역 없음"
+        title_en = normalize_text(article.get("title_en")) or "제목 없음"
+        summary = sanitize_summary(article.get("summary"))
+        reason = sanitize_reason(article.get("reason"))
+        source = sanitize_source(article.get("source"))
+        published_at = format_datetime(article.get("published_at"))
+        link = sanitize_link(article.get("link"))
+
+        with st.container(border=True):
+            top_left, top_right = st.columns([0.8, 0.2])
+
+            with top_left:
+                st.markdown(f"### {idx}. {title_ko}")
+                st.caption(title_en)
+
+            with top_right:
+                st.metric("strength", strength)
+
+            meta_col1, meta_col2, meta_col3 = st.columns([0.22, 0.18, 0.60])
+            with meta_col1:
+                st.write(f"**라벨**: {label}")
+            with meta_col2:
+                st.write(f"**열기**: {fire}")
+            with meta_col3:
+                st.write(f"**출처/시간**: {source} / {published_at}")
+
+            st.write(f"**Summary**: {summary}")
+            st.write(f"**판단 근거**: {reason}")
+
+            if link:
+                st.link_button("원문 링크 열기", link, use_container_width=False)
+            else:
+                st.caption("원문 링크 없음")
+
+
+# =========================
+# 메인
+# =========================
+def main():
+    st.title("Iran-US War Tracker")
+
+    history_df = load_history()
+    articles = load_articles()
+    report = load_report()
+
+    latest_batch, latest_smooth = latest_from_report_or_df(report, history_df)
+    _, _, latest_ts = latest_scores_from_df(history_df)
+
+    top1, top2, top3 = st.columns(3)
+    with top1:
+        st.metric("즉각 위험도", format_score(latest_batch))
+    with top2:
+        st.metric("추세 위험도", format_score(latest_smooth))
+    with top3:
+        st.metric("마지막 업데이트", latest_ts)
+
+    with st.expander("데이터 상태", expanded=False):
+        st.write(f"- daily_signal.csv: {'존재' if CSV_PATH.exists() else '없음'}")
+        st.write(f"- classified_articles.json: {'존재' if ARTICLES_PATH.exists() else '없음'}")
+        st.write(f"- latest_report.json: {'존재' if REPORT_PATH.exists() else '없음'}")
+        st.write(f"- title_ko_cache.json: {'존재' if TITLE_CACHE_PATH.exists() else '없음'}")
+        st.write(
+            "- 번역 제목은 표시 전에 sanitize 처리되며, 깨진 값/영문 그대로/HTML/코드 조각은 모두 '번역 없음'으로 치환됩니다."
         )
 
-        fig_trend.update_layout(
-            height=340,
-            margin=dict(l=10, r=10, t=10, b=10),
-            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-            xaxis_title="시간",
-            yaxis_title="위험도 점수",
-            yaxis=dict(range=[0, 100]),
-            hovermode="x unified",
+    st.divider()
+
+    chart_df = prepare_chart_df(history_df)
+    render_score_chart(chart_df)
+
+    st.divider()
+
+    control_left, control_right = st.columns([0.3, 0.7])
+    with control_left:
+        article_limit = st.selectbox(
+            "표시 기사 수",
+            options=[10, 20, 30, 50],
+            index=1,
+        )
+    with control_right:
+        st.caption(
+            "카드는 HTML 직접 렌더링 없이 Streamlit 기본 컴포넌트만 사용합니다. "
+            "그래서 카드 내부에 HTML 코드가 노출되던 문제를 방지합니다."
         )
 
-        fig_trend.update_xaxes(
-            dtick=3 * 60 * 60 * 1000,
-            tickformat="%m-%d %H:%M",
-        )
+    render_news_cards(articles, limit=article_limit)
 
-        st.plotly_chart(fig_trend, use_container_width=True)
-        st.caption("빨간선=즉각 위험도 / 파란선=추세 위험도 / 3시간 배치 기준")
-    else:
-        st.info("추세 데이터를 표시할 수 없습니다.")
 
-# =========================================================
-# Market Signals
-# =========================================================
-st.markdown('<div class="section-title">📊 Market Impact Signals</div>', unsafe_allow_html=True)
-
-m1, m2, m3, m4, m5 = st.columns(5)
-m1.metric("Oil", str(latest.get("oil_signal", "-")))
-m2.metric("Defense", str(latest.get("defense_signal", "-")))
-m3.metric("Airline", str(latest.get("airline_signal", "-")))
-m4.metric("Equity", str(latest.get("equity_signal", "-")))
-m5.metric("Gold / Dollar", str(latest.get("gold_dollar_signal", "-")))
-
-# =========================================================
-# Real-time news cards
-# =========================================================
-st.markdown("### 📰 실시간 뉴스 카드")
-
-if articles_df.empty:
-    st.info("data/classified_articles.json에 표시할 기사 데이터가 아직 없습니다.")
-else:
-    label_options = [
-        ("all", "전체"),
-        ("negotiation", "협상"),
-        ("ceasefire", "휴전"),
-        ("deescalation_signal", "완화 신호"),
-        ("escalation", "긴장 고조"),
-        ("proxy_escalation", "대리세력 확전"),
-        ("strike_or_retaliation", "직접 공격/보복"),
-    ]
-
-    if "selected_label_filter" not in st.session_state:
-        st.session_state.selected_label_filter = "all"
-
-    st.caption("라벨별 빠른 필터")
-    button_cols = st.columns(len(label_options))
-
-    for idx, (value, text) in enumerate(label_options):
-        with button_cols[idx]:
-            if st.button(text, use_container_width=True):
-                st.session_state.selected_label_filter = value
-
-    selected_label = st.session_state.selected_label_filter
-
-    filtered_articles = articles_df.copy()
-    filtered_articles = filtered_articles[filtered_articles["label"].str.lower() != "irrelevant"]
-
-    if selected_label != "all":
-        filtered_articles = filtered_articles[
-            filtered_articles["label"].str.lower() == selected_label
-        ]
-
-    show_count = st.slider("표시 기사 수", min_value=5, max_value=30, value=12)
-    st.caption(f"현재 필터: {dict(label_options).get(selected_label, '전체')}")
-
-    if filtered_articles.empty:
-        st.info("현재 필터에 해당하는 관련 기사 카드가 없습니다.")
-    else:
-        for _, row in filtered_articles.head(show_count).iterrows():
-            badge_color = label_color(row["label"])
-            label_text = label_ko(row["label"])
-            strength_text = float(row["strength"])
-
-            source_text = clean_text(row.get("source", ""))
-            time_text = format_time(row["published_at_kst"])
-            reason_text = clean_text(row.get("reason", ""))
-            link = str(row.get("link", "")).strip()
-            summary = clean_text(row.get("summary", ""))
-            title_ko = clean_text(row.get("title_ko_display", ""))
-            title_en = clean_text(row.get("title", ""))
-
-            with st.container(border=True):
-                top1, top2, top3 = st.columns([1.2, 1.25, 1.0])
-
-                with top1:
-                    st.markdown(
-                        f"""
-<span style="display:inline-block;padding:0.32rem 0.68rem;border-radius:999px;background:{badge_color};color:white;font-weight:800;font-size:0.85rem;">
-{label_text}
-</span>
-""",
-                        unsafe_allow_html=True,
-                    )
-
-                with top2:
-                    st.markdown(
-                        f"""
-<span style="display:inline-block;padding:0.32rem 0.68rem;border-radius:999px;background:#334155;color:white;font-weight:800;font-size:0.85rem;">
-Strength {strength_text:.2f}
-</span>
-""",
-                        unsafe_allow_html=True,
-                    )
-
-                with top3:
-                    st.markdown(
-                        f"""
-<span style="display:inline-block;padding:0.32rem 0.68rem;border-radius:999px;background:#1f2937;color:white;font-weight:800;font-size:0.85rem;">
-{strength_emoji(strength_text)}
-</span>
-""",
-                        unsafe_allow_html=True,
-                    )
-
-                st.markdown(f"**한글 번역:** {title_ko}")
-
-                if title_en:
-                    st.caption(f"영문 원문: {title_en}")
-
-                if summary:
-                    st.write(summary)
-
-                if reason_text:
-                    st.caption(f"판단 근거: {reason_text}")
-
-                meta_parts = []
-                if source_text:
-                    meta_parts.append(source_text)
-                if time_text:
-                    meta_parts.append(time_text)
-
-                if meta_parts:
-                    st.caption(" · ".join(meta_parts))
-
-                if link:
-                    st.link_button("원문 보기 ↗", link)
-
-                st.write("")
-
-# =========================================================
-# Raw data
-# =========================================================
-with st.expander("Raw signal data"):
-    preview_df = signal_df.copy()
-    preview_df["generated_at_kst"] = preview_df["generated_at_kst"].apply(format_time)
-    show_cols = [
-        c for c in [
-            "generated_at_kst",
-            "war_batch_score",
-            "war_smoothed_score",
-            "trend_label_ko",
-            "relevant_articles",
-            "strike_count",
-            "proxy_escalation_count",
-            "escalation_count",
-            "oil_signal",
-            "defense_signal",
-        ] if c in preview_df.columns
-    ]
-    st.dataframe(preview_df[show_cols].tail(100), use_container_width=True)
-
-with st.expander("Raw classified articles"):
-    if articles_df.empty:
-        st.write("기사 데이터 없음")
-    else:
-        preview_cols = [
-            c for c in [
-                "published_at_kst",
-                "label",
-                "strength",
-                "source",
-                "title_ko_display",
-                "title",
-                "reason",
-                "link",
-            ] if c in articles_df.columns
-        ]
-        temp = articles_df.copy()
-        if "published_at_kst" in temp.columns:
-            temp["published_at_kst"] = temp["published_at_kst"].apply(format_time)
-        st.dataframe(temp[preview_cols].head(100), use_container_width=True)
+if __name__ == "__main__":
+    main()

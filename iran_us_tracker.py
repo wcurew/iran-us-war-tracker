@@ -5,6 +5,7 @@ import re
 import time
 import hashlib
 import html
+import math
 import xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import datetime, timezone, timedelta
@@ -45,23 +46,31 @@ STATE_HISTORY_LIMIT = 80
 SEEN_ARTICLE_IDS_LIMIT = 800
 
 # 기사 점수(전쟁 확률용 raw score)
+# 기존보다 초반 포화를 줄이기 위해 전체 가중치를 낮춤
 BATCH_WEIGHTS = {
-    "negotiation": -2.0,
-    "ceasefire": -4.0,
-    "deescalation_signal": -1.0,
-    "escalation": 2.0,
-    "proxy_escalation": 3.0,
-    "strike_or_retaliation": 5.0,
+    "negotiation": -1.2,
+    "ceasefire": -2.5,
+    "deescalation_signal": -0.8,
+    "escalation": 1.5,
+    "proxy_escalation": 2.2,
+    "strike_or_retaliation": 3.5,
     "irrelevant": 0.0,
 }
 
 # raw score를 0~100 배치 점수로 정규화할 범위
-RAW_SCORE_MIN = -12.0
-RAW_SCORE_MAX = 12.0
+# 기존 [-12, 12]보다 넓혀서 100 근처 포화 완화
+RAW_SCORE_MIN = -24.0
+RAW_SCORE_MAX = 24.0
 
 # 기사 점수와 이벤트 점수 혼합 비중
-ARTICLE_SCORE_WEIGHT = 0.6
-EVENT_SCORE_WEIGHT = 0.4
+# 기사 수가 많아도 event 중복 가산 영향이 너무 커지지 않게 조정
+ARTICLE_SCORE_WEIGHT = 0.75
+EVENT_SCORE_WEIGHT = 0.25
+
+# raw score soft cap
+# 기사 수가 많다고 점수가 무한정 커지는 걸 완화
+ARTICLE_RAW_SOFT_CAP = 14.0
+EVENT_RAW_SOFT_CAP = 10.0
 
 # 1차 필터용 키워드
 IRAN_TERMS = [
@@ -358,6 +367,26 @@ def source_weight_for(source: str) -> float:
         if key in s:
             return weight
     return 1.0
+
+
+def signed_soft_cap(value: float, cap: float) -> float:
+    """
+    절댓값이 cap를 크게 넘을수록 증가폭을 눌러준다.
+    """
+    if cap <= 0:
+        return value
+    if value == 0:
+        return 0.0
+    scaled = math.tanh(value / cap) * cap
+    return round(scaled, 4)
+
+
+def get_last_batch_score(history: List[Dict[str, Any]], default: float = 0.0) -> float:
+    for row in reversed(history):
+        val = row.get("war_batch_score")
+        if isinstance(val, (int, float)):
+            return float(val)
+    return default
 
 
 # =========================================================
@@ -689,6 +718,7 @@ def compute_article_and_event_raw_scores(classified_articles: List[Dict[str, Any
 
         strength = safe_float(cls.get("strength", 0.0))
         source_weight = float(article.get("source_weight", 1.0))
+
         score = BATCH_WEIGHTS[label] * strength * source_weight
         article_raw_score += score
 
@@ -700,6 +730,11 @@ def compute_article_and_event_raw_scores(classified_articles: List[Dict[str, Any
             event_best[k] = score
 
     event_raw_score = sum(event_best.values())
+
+    # soft cap 적용
+    article_raw_score = signed_soft_cap(article_raw_score, ARTICLE_RAW_SOFT_CAP)
+    event_raw_score = signed_soft_cap(event_raw_score, EVENT_RAW_SOFT_CAP)
+
     return round(article_raw_score, 4), round(event_raw_score, 4)
 
 
@@ -734,10 +769,13 @@ def compute_batch_metrics(classified_articles: List[Dict[str, Any]]) -> Dict[str
             negative_strengths.append(strength)
 
     article_raw_score, event_raw_score = compute_article_and_event_raw_scores(classified_articles)
+
     blended_raw_score = round(
         ARTICLE_SCORE_WEIGHT * article_raw_score + EVENT_SCORE_WEIGHT * event_raw_score,
         4
     )
+    blended_raw_score = signed_soft_cap(blended_raw_score, 16.0)
+
     war_batch_score = normalize_raw_to_100(blended_raw_score)
 
     relevant_total = len(relevant_articles)
@@ -786,7 +824,8 @@ def compute_smoothed_score(current_batch_score: float, history: List[Dict[str, A
     prev1 = prev_scores[0] if len(prev_scores) >= 1 else current_batch_score
     prev2 = prev_scores[1] if len(prev_scores) >= 2 else prev1
 
-    smoothed = 0.6 * current_batch_score + 0.3 * prev1 + 0.1 * prev2
+    # 기존 0.6/0.3/0.1 보다 약간 더 현재값 위주로 조정
+    smoothed = 0.7 * current_batch_score + 0.2 * prev1 + 0.1 * prev2
     return round(clamp(smoothed, 0.0, 100.0), 2)
 
 
@@ -954,7 +993,8 @@ def append_daily_csv(path: Path, row: Dict[str, Any]) -> None:
 
 
 def build_empty_report(window_start: datetime, window_end: datetime, history: List[Dict[str, Any]]) -> Dict[str, Any]:
-    war_batch_score = 50.0
+    # 기사 없는 배치에서 50 고정 대신 직전 배치 점수 유지
+    war_batch_score = round(get_last_batch_score(history, default=0.0), 2)
     war_smoothed_score = compute_smoothed_score(war_batch_score, history)
     trend_delta, trend_label = compute_trend(history, war_batch_score)
     market = build_market_signal(war_smoothed_score)
