@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "title": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
+    "summary": "Hegseth vows thorough probe of school strike that Trump blamed on Iran The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWRFMTBBWmR3S1BTV3h0WS11SGtMM05hbURRc1ZsNE4yeUpGMkE?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-03-13T20:59:10+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 20:59:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0b0eb858d804fa599f25c6682d0ccd76831b068e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.1,
+      "reason": "Domestic probe of a school strike; not about Iran-US diplomatic or military developments.",
+      "event_key": "school strike probe"
+    }
+  },
+  {
+    "title": "Hegseth announces Pentagon probe into deadly strike on Iranian school - Fox News",
+    "summary": "Hegseth announces Pentagon probe into deadly strike on Iranian school Fox News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcF9RYVQ4UjR3bW9WTW1KQmsxc1dCUGRaYTBsUHRHZi1aYjQzVFJKY0lYSkpFZWltaTAtTHBOM3E1N0dwLUxmR243b1JMM3UwcEE3RGpfaTk0YTNqMkhVbUtkVjN2MVBVSVY1SnIzTUswUnd6MGd4a3Rnb2VQaUFnNHJPaTNGU1Fielc0WG9BY281TFhWeDlqZWxn0gGfAUFVX3lxTFBVUzBlaFY1TFFUX24tcV9pOEZTNU9FdHgwN0FCZEdDUEwxUEtxUkVYUG9zZTNoaUJpVXBIQWRlSGJZdUdleFFXSmFHMnlNOTBqUzVzaENJV29KUEZPV0V2d09WZk5SYVNIVWFQa29mX2RKM2plQ3pfWWo0dVBwdTdfOUZYdGRMTTJtTGYxRFdUdTRTTm1RZ2h3V2VCLXVRSQ?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-03-13T20:00:31+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 20:00:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ee2f5e759793befbb315af11eef1957c7f1a2dea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Pentagon probe announced into a deadly strike on an Iranian school, indicating a direct military strike incident.",
+      "event_key": "pentagon probe deadly strike iran school"
+    }
+  },
+  {
+    "title": "These American Service Members Died in the Iran Conflict - The New York Times",
+    "summary": "These American Service Members Died in the Iran Conflict The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZU40cTJWaEFMR19GRE9vMG5ob0o1Z0JLdmFBZ2luRnFKTnE4QjVKM21yZW5NS0tCUS1DOW1pbnVoNkNPSkVWZllBZFdaRkVpWFZacFFnSWJTYU5FWEpVNUw5WXlIN3BSbEFvbmp4bXJXZw?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-03-13T21:07:37+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 21:07:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7423cdcc051ac28e9600f564f1b865241b40c105",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.45,
+      "reason": "Lists American service members killed in the Iran conflict, implying lethal military strikes or attacks.",
+      "event_key": "us service member deaths iran conflict"
+    }
+  }
+]
