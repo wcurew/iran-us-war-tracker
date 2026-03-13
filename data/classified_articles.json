@@ -1,36 +1,155 @@
 [
   {
-    "title": "Lawmakers Are Concerned About Retaliation in the U.S. by Iran - News of the United States - NOTUS",
-    "summary": "Lawmakers Are Concerned About Retaliation in the U.S. by Iran News of the United States - NOTUS",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6UmJ2RmV4LUNQRHJxeUJEUVNWMFZyTHpYWWtReHE4SnJLa0l2V21hNE1EYm9ZYWtxNG9tdzNLY3hXeklqR0pOaTNtVGs0T05UUS0wVmFwdjFfS09fRmFNdGtldC15RUNrbVEw?oc=5",
-    "source": "News of the United States - NOTUS",
-    "published_at": "2026-03-12T21:04:08+00:00",
-    "raw_pub_date": "Thu, 12 Mar 2026 21:04:08 GMT",
+    "title": "US-Israel-Iran War: Trump’s Communication Diplomacy Punctured? - Countercurrents",
+    "summary": "US-Israel-Iran War: Trump’s Communication Diplomacy Punctured? Countercurrents",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0pWd1FLdTRjcDdnT0xpR3BBby04ZHYtdkpkempDNDd1NmswVXpSYUItWklUY1FsaWFSdHVxaEx2ck5FUWxKUXV6S2NhYWxZcFJRcUpTZ0h1SVI3dllnQzlubEhYRzNtdHNsU2FTRjlnNHhMY0pRQzg2RTJ5Ynp0ZUdnM0o3MlhFeENRZF82dUx5WE9jaFNrYmlyZTI?oc=5",
+    "source": "Countercurrents",
+    "published_at": "2026-03-13T05:00:53+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 05:00:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "719d6a6967f0522042db6fd81cabd0388cd44797",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.35,
+      "reason": "Article suggests breakdown of diplomatic communication and rising tensions between US, Israel, and Iran.",
+      "event_key": "trump communication diplomacy punctured"
+    }
+  },
+  {
+    "title": "Japan's fraught energy diplomacy with Iran remains at mercy of US policy - Nikkei Asia",
+    "summary": "Japan's fraught energy diplomacy with Iran remains at mercy of US policy Nikkei Asia",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFhQNE5uaFpiVEN6SzgwN3BTb0tKWl9YcUtmM2t3TUdURF9jcTR0SVYzWHl4RDRfWlNHYXRqNUpfajl6LXJUb1NfQllKMmRKbEtzbmRlTU9jcGdYdVVGNDlqWW1ZRnVYaVgzLWxYbDJFVV9sVmNjNnI0ejNtZEtXTk5qQWZzZHVsUUloekdSYVNJcnpWV2tVUzdDcm9kV29LRWVjdGE2SVdMMlNvNWJYMHFUZWg?oc=5",
+    "source": "Nikkei Asia",
+    "published_at": "2026-03-12T22:16:00+00:00",
+    "raw_pub_date": "Thu, 12 Mar 2026 22:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "30f6895737637ec62191154f8a1d3f3d6c9ee996",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Article covers Japan-Iran energy diplomacy shaped by US policy, not direct Iran-US conflict developments.",
+      "event_key": "japan energy diplomacy iran us policy"
+    }
+  },
+  {
+    "title": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts - KRDO",
+    "summary": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts KRDO",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkJvY19WTjk3b0dKNGhnTFB0Rk9JMm44Z19KbDB2RjctaHZlem9nSXlhS0RBMEJsSUxEMFNRTjN4VkdHMFo2UzJHcXVCOGNOeWF4bHBnTFdoNXRINHFhaXNQaW1EY1lrWkc5RGlIQWlGSUFQRlB5MkprQkp1eFd4eGdKeVVrbTJMZUZRZE1HS0JKdGNEUzc1NkxMUVQ4YzZVNU81dHczdUFmY3lManpz?oc=5",
+    "source": "KRDO",
+    "published_at": "2026-03-12T23:35:53+00:00",
+    "raw_pub_date": "Thu, 12 Mar 2026 23:35:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "429614223c6c9a5d125794e86168fe0eb92a8139",
+    "article_id": "e024dd2622b2b3ba91e0fe66ca0f2afac0b4c74b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "U.S. lawmakers express concern about potential Iranian retaliation, indicating rising tensions and threats.",
-      "event_key": "us lawmakers concern iran retaliation"
+      "reason": "Maps and charts depict ongoing US-Israeli conflict with Iran and retaliatory actions, indicating rising hostilities.",
+      "event_key": "us israel iran retaliation maps"
     }
   },
   {
-    "title": "Iran-linked hackers take aim at U.S. and other targets, raising risk of cyberattacks during war - PBS",
-    "summary": "Iran-linked hackers take aim at U.S. and other targets, raising risk of cyberattacks during war PBS",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUxtdDNSMXhULUtMOGk2U1J3YTEweVVscDdiVERJZ0JuV2h6VDJfUmk0RUZBa2FzZElrYXFxY3ByaGdwR29uVXNmdEQ3azRvRFdqRWdQdUw5UkFjSFN1V05veHlhS1pSXzVra3NqanpxcXlVQ2FXUmt0VGpHRVBQeVJzdGhpTkFJdGxLMmRaNGd1bXczV1I2dldDVVpmeU1fakF0aldaRUZlV0JuaHlxTUdYb2FKbElmcHNMR3dHZUFDSVMzU3VR0gHMAUFVX3lxTFBiVDBWSXBpRGlhdm1TQVYwLWFsc2hYYmJXOEU1NzdLM1hOUGtIWkgwMEVnbjlmZks0RGxBWVVtUjVVZl82VWdSMmlOQmE3bmtfeG5wMzlBblRCSk41Y2dCZGhjT2dTNGM3aUZiM0x3UHprbW83SDhUVlZudmxiVWd0YmplNTdYU0YtX1c0c3dDY0t2YmwwU0JXNl9WS0dFWHp5Sk5LVzdMelVuR1ZTWXFUS1NidmN2WWU4aVRUZmVFTEpSZUFKdGtpWEFETw?oc=5",
-    "source": "PBS",
-    "published_at": "2026-03-12T21:20:30+00:00",
-    "raw_pub_date": "Thu, 12 Mar 2026 21:20:30 GMT",
+    "title": "The Philippines needs to prepare plans for Filipinos in California after the Federal Bureau of Investigation warned against Iran’s possible retaliation in the United States’ western coast, Malacañang said. | via ANC 24/7 Link to full story in the comments section. - facebook.com",
+    "summary": "The Philippines needs to prepare plans for Filipinos in California after the Federal Bureau of Investigation warned against Iran’s possible retaliation in the United States’ western coast, Malacañang said. | via ANC 24/7 Link to full story in the comments section. facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTJZMHlDSUhGdUJpSXJBSS1PSnBaRjdjVU9BOHpObVRMcl8yUC1OeDNxY2V0elRKUVllckE4QTU0RDI3ZVBFcUo4QndTVkNySFAtaXJ6czUweHF2VFRsTGxjaUEzRF9uRDF4R2pCN3d0RktWaXlESTNPVmpQYThNbzUzNUN0ZVZoZjZ2OVNZMzFhU1Y1bDZEU19lVlozU0JvdVBJMjBIbXUyQk4zWk1oTW5ESEU4ZUQ0S1d0UVNWdzdFbW90YkZYUWQ4MHZKRGRGVERXdVNWQQ?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-03-13T03:30:53+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 03:30:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "da6589b7c8f8ad69bc6626a5fd2a0b987bdff28b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "FBI warning of possible Iranian retaliation on US west coast and government preparations indicate rising tensions and threat escalation.",
+      "event_key": "fbi warns possible iran retaliation us west coast"
+    }
+  },
+  {
+    "title": "Iran’s Leader Threatens New Fronts in US-Israel War - Bloomberg.com",
+    "summary": "Iran’s Leader Threatens New Fronts in US-Israel War Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY04yQ0VLbDZ1eE9MVEJPV1ZRX0pzY0I4SzZfVG9sSVNNSW4wZktVVmstQjJENUhDaWNoQmR4WkZvNXBBZ0hQZnJocGYyX1NoRnBTVEZsd3gxZE80XzlBVXYxeHZWcjF0RlN1NXIxTHdLRFNqVHJCd3dXdzdLVGhyVERUZjJqVFBhTG1uOEdqM1ItallFdUNQYjNsY2VuNFBvcHZhZWpEenFGWDdjOVZQdHlCVkstM00?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-03-12T22:09:42+00:00",
+    "raw_pub_date": "Thu, 12 Mar 2026 22:09:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1576968f8da9c201ad0287b1280ffbcf19cd3ff4",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Supreme leader threatens opening new fronts, signaling hostile rhetoric and rising tensions.",
+      "event_key": "iran threatens new fronts"
+    }
+  },
+  {
+    "title": "Americans on Iran strikes: 'What if this turns into a forever war?' - BBC",
+    "summary": "Americans on Iran strikes: 'What if this turns into a forever war?' BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OOHdxd2F2NDBXMlJWb0lROFBSOGIyVzJxb1Y1cDU5SEF0cHRtUzBLOENMNTZsS3VjM205eFFnMklSZFNQQkhQVFZNcnVGRmZDZklrMURJbm9UQQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-03-13T00:03:34+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 00:03:34 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aadab80679016c04d8f1f0a9fb23ce082f510dd9",
+    "article_id": "068f29ff281b648c58963bd8d91d6af127dc9bed",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Coverage of US strikes on Iran and Americans' fear it could escalate into a prolonged war.",
+      "event_key": "us strikes on iran public reaction"
+    }
+  },
+  {
+    "title": "The Latest: US hits Iran with intense strikes as Iranian air campaign drives oil prices higher - New Haven Register",
+    "summary": "The Latest: US hits Iran with intense strikes as Iranian air campaign drives oil prices higher New Haven Register",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFBvbzlibThxeC1SU3gxQWw3NnhtWU5hS0s4RUl5cWxOUmhHVEhQQ2RfbXBjS3YyUkExUzdNYTZZQUUtYWJ2SWdrcnZWaWNpWE5TbUhIWkQ1VzViUFlRVV9IaEdiYkFwTV9TOHdlT1VERUY4eDF1YUFWZmU5MlJONEdHdG43a3VITGdGelFNeEZkRXItZnFEOFlLQmMwQkpKZGdPUm5RRQ?oc=5",
+    "source": "New Haven Register",
+    "published_at": "2026-03-13T04:28:09+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 04:28:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0bc13aee8cc65c5c8b9be811395b4cc249d016ca",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US conducted direct intense strikes against Iran indicating active military retaliation.",
+      "event_key": "us strikes iran"
+    }
+  },
+  {
+    "title": "Iran's Shiite allies intensify attacks against the US and Israel despite de-escalation after Gaza - Українські Національні Новини (УНН)",
+    "summary": "Iran's Shiite allies intensify attacks against the US and Israel despite de-escalation after Gaza Українські Національні Новини (УНН)",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZlJsVmQydGU3ZGIyWW1CVElrT1hBbndpckJRR1BOeFVoak9OMHFPYXR2SHNXX1pnMGUzakk3NnBJTHh1bWRJckFYTWhxWC1mcjU1bmVkbDdFMk1LWFdobEhlOVFaVVd3bG9Od29mMkp3M3FYaFpWSHlxMEgyMy1oNEs5bDdBaGhLTXpFOXRvUTYxb1JtRHpVV1JxcmdjR1hOUldRMnR5Nm50Y0FKTUs0RVNUWmlPbUdPbFFF0gG6AUFVX3lxTFByMnNrZ0k0b3FsVzhIS0gtSjYyaEtQcDNLZC1DRGkxeV9GM25aNUo5LVIzbFZGM1M3MlFjVzBNc3p1QTFldk5nTTFrM3ptdHdfRDB3YlFOR0xMSzFiMXdjaldNcW1yVjlyVVlMSWkxX0ZDelBlYUh3eHhvSnVtWkc2NmJBSlA4RDQzbkFubFN6RjY0V0JLLWxNS2V5REJ2TDJ2SjJqUVFxYTVFSUd0YkVHd19Ic1RjVGxDZw?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-03-13T04:58:34+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 04:58:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c6a242dbaa9994271db572962cb7361e5a1fd679",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.75,
-      "reason": "Iran-linked hacker attacks targeting the U.S. signal escalatory cyber operations tied to Iran-backed actors.",
-      "event_key": "iran linked cyberattacks targeting us"
+      "strength": 0.85,
+      "reason": "Iran-backed Shiite proxies intensifying attacks against US and Israel despite prior de-escalation.",
+      "event_key": "iran proxies intensify attacks"
+    }
+  },
+  {
+    "title": "US President Donald Trump has warned that Iranian “sleeper cells” may be operating across North America amid escalating tensions. - facebook.com",
+    "summary": "US President Donald Trump has warned that Iranian “sleeper cells” may be operating across North America amid escalating tensions. facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDJPRHN1bDJxRmpucERwbTU1OUxQSG55eFM1ektjSXM5QVNlb2ZHaG9UNTZGa01qc2xQM3pLMlRBWGhpZzRfallyZTlSRkxKQXF6bjBZMnBfaERHUUhGdElvWjRTcjRvS3o2QUVGZzVscmtVOFFJRXZXcFFCWVljWHZDZDJqdFdvaG9wNFJxcVBZWHUwU3FLb1lmQVE5R0NENGxqUHhuNGZmRDhYdXBoWVBnaDNzZHRoQ3dXUlNfdllFUGxTWWx6T21YRlpNczNwUWo5ZHR2NzQ2NDdqQjlB?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-03-13T02:13:06+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 02:13:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f0cd709592eddf1b29e4957ec77650804ae8cfa2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Presidential warning about Iranian 'sleeper cells' is hostile rhetoric that raises tensions.",
+      "event_key": "trump iran sleeper cells warning"
     }
   }
 ]
