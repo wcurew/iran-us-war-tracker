@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-03-14T13:56:59+00:00",
+  "started_at_utc": "2026-03-14T15:52:53+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-03-14T09:58:29.009932+00:00",
-  "window_end_utc": "2026-03-14T13:56:59.763303+00:00",
+  "window_start_utc": "2026-03-14T13:56:59.763303+00:00",
+  "window_end_utc": "2026-03-14T15:52:53.257460+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 26,
-    "keyword_filtered": 13,
-    "deduped": 11,
-    "after_seen_filter": 10,
-    "classified": 10
+    "time_filtered": 15,
+    "keyword_filtered": 6,
+    "deduped": 4,
+    "after_seen_filter": 4,
+    "classified": 4
   },
-  "finished_at_utc": "2026-03-14T13:57:51+00:00",
-  "summary": "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다."
+  "finished_at_utc": "2026-03-14T15:53:22+00:00",
+  "summary": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
 }
