@@ -1,104 +1,53 @@
 [
   {
-    "title": "US strikes Iran's Kharg Island as Tehran threatens retaliation - Türkiye Today",
-    "summary": "US strikes Iran's Kharg Island as Tehran threatens retaliation Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkdDdmJ0bGF4SDBCS1VWNFlTem51UFVuM1FvZzBGWGdPZlJEanpEM3p3VjEwYVkta2NsX2FldWJmVXR0ejJrNG9XRjRCMXJWdmdxaVFLeVVhSjdRM1hzS1RnQ0t1Wk5QVF9WVG1PNEphYkZLbm9yZTZYelZkMVh1T2Z5aWpndFZ6QUNOZHdfbWtHYlZ1QXBTeUV1QTg1NjU3YzdKdw?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-03-14T06:31:20+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 06:31:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2bd5e37911a03ac3c466a629e34c9a9296ca158a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted a direct strike on Kharg Island and Iran threatens retaliation, indicating a direct military attack.",
-      "event_key": "us strike kharg island"
-    }
-  },
-  {
-    "title": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts - KQ2",
-    "summary": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts KQ2",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMThqdDllV0NIU0g4UVkzMDl5Q2dmeXhNWU1qclJWN05TQzJZX0pmQWtUekl6Z1pkNlprcEVfMUtVaEZjVEQxdUxoRnAzV1lqZ3NoRHUxVnRwM0RXTlV1NlJvM1E2SU44MFhlSUI4RkNwbno3eWRxYUxQdW5zSWxLeVdjeEh5WUdQS1NveENEc21ZWndjTy1wX3VjZlNJQkV5bWRGYnZtYU1JUGc1R2pLdW92UzFzaWdvdWhIMktkYw?oc=5",
-    "source": "KQ2",
-    "published_at": "2026-03-14T06:12:59+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 06:12:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "63e8dd6f4846019d42cba2de6a9fe9f7ef70ab04",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.3,
-      "reason": "Article centers on military strikes and retaliatory actions between US/Israel and Iran, not diplomacy or ceasefire.",
-      "event_key": "us israel iran retaliation visualization"
-    }
-  },
-  {
-    "title": "The Latest: Trump threatens Iran's oil infrastructure after US bombs island military sites - KSAT",
-    "summary": "The Latest: Trump threatens Iran's oil infrastructure after US bombs island military sites KSAT",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkthbkRPYlNudTg0NlVOaE5uVW4zemtES0NKdVFFcUJNZU9rQ2VYMWRCOUczVkVPbi0zMGQxMmZ6TjR3bDRZc195MHZhTUdpVk1rcmt3dWQzcm1IcElvU2ppMEFjTkU3NTZxRjVfNHZJemU3M3gwM2NxbDVQSGoxV2xsNDJua0pDUi1qOXk4MUlxWHdIdzVZMDJRenk0S3kwYkdFdXhXeWVCVGpPQWRweDlXNGUwekZXVlB2LTdEc0E1ZWhM?oc=5",
-    "source": "KSAT",
-    "published_at": "2026-03-14T06:22:11+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 06:22:11 GMT",
+    "title": "Iran’s War With Israel and the United States | Global Conflict Tracker - Council on Foreign Relations",
+    "summary": "Iran’s War With Israel and the United States | Global Conflict Tracker Council on Foreign Relations",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+    "source": "Council on Foreign Relations",
+    "published_at": "2026-03-14T08:36:12+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 08:36:12 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5174d70519cb39ea57c1ca2e0f93641646ca1f49",
+    "article_id": "564d36c95413e9fe894255df879e8e85e8aad227",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.8,
+      "reason": "Background/overview tracker page, not reporting a specific Iran–US diplomatic or military development.",
+      "event_key": "iran us conflict overview"
+    }
+  },
+  {
+    "title": "Iran continues intensified attacks across Gulf in US-Israel war fallout - Al Jazeera",
+    "summary": "Iran continues intensified attacks across Gulf in US-Israel war fallout Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFFnQWxuWXAxZEpRU0diTXRpeDVWMUpsUjNNb21nU194WVdWeWtHYkNvaHFoX25LY0JCWTZVdXRPb1dQaE9aanl2dmRKM3A4V2FMNWxFcVNuektFaVVmbGFGM3RZVno2NHZ0U2tkeTVZMVh4UFdsSUQwbVdOX3JPeVZMQjVUR0p1aW9wcFhiQ0RqczRmNkJLcFd1X2Q3MlRLSUp1bGtWaU9zU1hjNEtoVTVR0gG3AUFVX3lxTFAteFV5UTRsWmk0eTFjZUZZWlZDa1dseDhhMjFQaE1HM3RqazNfS2pUMlpxajJoOXF2dFJNaE12UmNnZThpdElGalZYcUN1cm1GX2tUbWxrRFhRT3JEUjdlXzVYc0Z0cTFkSlJJNmNDamdLYXJUbm1DUDd2NUZSNWRoNWNQVUJCZktuTnZoZXFaSjFRb2dSMEI1dGtWMXMzOHNHTHBMeFpIMW9tMXNZWF8yTUVoV0dYNA?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-14T09:16:26+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 09:16:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "786b102e9ddd83c93a0d9e1043ddfec6c269cae1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "US bombed island military sites and Trump threatened Iran's oil infrastructure — direct military strikes and retaliatory threats.",
-      "event_key": "us bombs island sites trump threatens iran oil"
+      "reason": "Article reports Iran conducting intensified attacks across the Gulf—active military strikes/retaliation.",
+      "event_key": "iran gulf attacks intensify"
     }
   },
   {
-    "title": "Iran war: What is happening on day 15 of US-Israel attacks? - Al Jazeera",
-    "summary": "Iran war: What is happening on day 15 of US-Israel attacks? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQempZYXZOZXBHVzRTMENFaF9ZTUJwaG44NHU4anE0TUh0UW5IaS1nMDNmTmNaZUdsX0VZT3ZHS05tNjBQYi1GR2JCeDlGbGU5QzQtSnY3MEFNcmVfRzR1djZteTBpNmd6SHo0d0lRN2ljRDhLSGZfZXRETHNLLUpSTDZZNGEwbUZ2NndkNUFzcmxCdDlMWmtKbFRBQTRtMGvSAaQBQVVfeXFMTkNTemktVnR6SkF6LTFXTGEyWTlaWTN2clRXakVEWmlvay1KUHVOcGU2M0x3bFRqSVNsNHVxV1J4TXFCcGNuN2tKeWI3U253aEpYRVktV3EtOGF1cXhyUFdHVnNlTmpadFdaLXcyOGZkOUtRZU9VM0NHaW9WMGpmQ3dUSmZhUG5RMzBWbjJqSjZuNVVYX3R4MUdXemluS2tUX0JqUFY?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-14T05:46:59+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 05:46:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9b763dc3b9292c9c326b9c3b4ba4ec89ffecf1d4",
+    "title": "Iran threatens strikes on US-linked oil targets, raising fears of a fresh supply shock - Nation Thailand",
+    "summary": "Iran threatens strikes on US-linked oil targets, raising fears of a fresh supply shock Nation Thailand",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03MGh2LXhpa2dVOXhoTEVVc2JDcWhfUlFnVEl3QXNtYjdRc1FFTFV4TEdONkpkd05ZMjQza1A2bmpncC1SaEVpRGZCN210bzdselJhdUdzaEpyTGxRWW44?oc=5",
+    "source": "Nation Thailand",
+    "published_at": "2026-03-14T08:37:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 08:37:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "820e359599946755f866c6029c8e47f285409032",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Coverage of ongoing US-Israel military attacks on Iran (day 15), indicating direct strikes/retaliation.",
-      "event_key": "us israel attacks day15"
-    }
-  },
-  {
-    "title": "US bombs military sites on Iranian island as Trump threatens its oil infrastructure - AP News",
-    "summary": "US bombs military sites on Iranian island as Trump threatens its oil infrastructure AP News",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjZuR25oazhiV0ZmTkVXZVVLTGpUQWxpSWEzLWV6c0wxSlRZZHZYSVFvdjNTZk5LT2I4LTdPZ0lpNndSYUpRYUg0Rm1UYUVXSjEwZHJOb0RuU0FGaGtPLUJyb3cxQ3ZCVldPdEQ1dlZfWnlTdkJROEoxMk9YMVNudmJkX084VjhISWJ0cm50V3RUb3Iwa0ZDTzAzYU9HZzI2NGFMbXdR?oc=5",
-    "source": "AP News",
-    "published_at": "2026-03-14T07:14:00+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 07:14:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "df2b4de44f1cb5e1b32f50effbd37bb75a3a9740",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted a direct bombing of Iranian military sites on an Iranian island.",
-      "event_key": "us bombs iran island"
-    }
-  },
-  {
-    "title": "Trump adviser David Sacks urges US to ‘declare victory and get out’ of Iran war, warns escalation risk - ynetnews",
-    "summary": "Trump adviser David Sacks urges US to ‘declare victory and get out’ of Iran war, warns escalation risk ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15UVpERjJBM2UtcG5EdlFwZFB1VHltM3BBNEFncklkSjg3VDQyaE1HOVY2ekxfb2ZUNFFVOUVoS3JMTzQwNktuVDhrcnVvZ2diZllzWUMyYw?oc=5",
-    "source": "ynetnews",
-    "published_at": "2026-03-14T06:20:06+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 06:20:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8df83cb502a2b1f76f42c7720f3d1f697b95c2e6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Adviser urges US withdrawal and warns against escalation—advocates de-escalatory policy rather than military action.",
-      "event_key": "us adviser urges withdrawal from iran conflict"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran's explicit threats of strikes constitute hostile escalation and raise tensions absent an actual attack.",
+      "event_key": "iran threatens strikes us linked oil targets"
     }
   }
 ]
