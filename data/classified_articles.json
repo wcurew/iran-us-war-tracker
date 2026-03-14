@@ -1,53 +1,308 @@
 [
   {
-    "title": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
-    "summary": "Hegseth vows thorough probe of school strike that Trump blamed on Iran The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWRFMTBBWmR3S1BTV3h0WS11SGtMM05hbURRc1ZsNE4yeUpGMkE?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-03-13T20:59:10+00:00",
-    "raw_pub_date": "Fri, 13 Mar 2026 20:59:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0b0eb858d804fa599f25c6682d0ccd76831b068e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.1,
-      "reason": "Domestic probe of a school strike; not about Iran-US diplomatic or military developments.",
-      "event_key": "school strike probe"
-    }
-  },
-  {
-    "title": "Hegseth announces Pentagon probe into deadly strike on Iranian school - Fox News",
-    "summary": "Hegseth announces Pentagon probe into deadly strike on Iranian school Fox News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcF9RYVQ4UjR3bW9WTW1KQmsxc1dCUGRaYTBsUHRHZi1aYjQzVFJKY0lYSkpFZWltaTAtTHBOM3E1N0dwLUxmR243b1JMM3UwcEE3RGpfaTk0YTNqMkhVbUtkVjN2MVBVSVY1SnIzTUswUnd6MGd4a3Rnb2VQaUFnNHJPaTNGU1Fielc0WG9BY281TFhWeDlqZWxn0gGfAUFVX3lxTFBVUzBlaFY1TFFUX24tcV9pOEZTNU9FdHgwN0FCZEdDUEwxUEtxUkVYUG9zZTNoaUJpVXBIQWRlSGJZdUdleFFXSmFHMnlNOTBqUzVzaENJV29KUEZPV0V2d09WZk5SYVNIVWFQa29mX2RKM2plQ3pfWWo0dVBwdTdfOUZYdGRMTTJtTGYxRFdUdTRTTm1RZ2h3V2VCLXVRSQ?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-03-13T20:00:31+00:00",
-    "raw_pub_date": "Fri, 13 Mar 2026 20:00:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ee2f5e759793befbb315af11eef1957c7f1a2dea",
+    "title": "Trump says US bombed military sites on an island vital to Iran's oil network - fox23.com",
+    "summary": "Trump says US bombed military sites on an island vital to Iran's oil network fox23.com",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcnVZODcxMF9UOTFwV0hoZXFjU18yUkJsTGFqRHNxdXB4bmotUFhfZFlhbm1Zb00yaENpTDVZTThGWWNoNEJiNF96ZzU2VXVSbWk1LUhBVGxMZW9yQXBmYzYxZ3lZS010TEV1NkdLQjhUSXotTEs0TEVYbUx5bzBoNVJkU2ZPM0dNZ1d4VFdWQ2lqWFp5b1I4TlAzSXVmMWMzemVSYXRETmFGX1lkaEZCN3JpU2JPcEJWaXh6OEJFcDR6c3Q1ZXI4X2dKWDNXMUEzemhfNHdKSnh1UjhGbzJDZ1VSTi1mT1k?oc=5",
+    "source": "fox23.com",
+    "published_at": "2026-03-14T01:29:09+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 01:29:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4adf4e98c3be51b45c3dede85b2f61bc5f046706",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Pentagon probe announced into a deadly strike on an Iranian school, indicating a direct military strike incident.",
-      "event_key": "pentagon probe deadly strike iran school"
+      "strength": 0.9,
+      "reason": "Reports that the US bombed military sites on an island tied to Iran's oil network.",
+      "event_key": "us bombing island vital to iran oil"
     }
   },
   {
-    "title": "These American Service Members Died in the Iran Conflict - The New York Times",
-    "summary": "These American Service Members Died in the Iran Conflict The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ZU40cTJWaEFMR19GRE9vMG5ob0o1Z0JLdmFBZ2luRnFKTnE4QjVKM21yZW5NS0tCUS1DOW1pbnVoNkNPSkVWZllBZFdaRkVpWFZacFFnSWJTYU5FWEpVNUw5WXlIN3BSbEFvbmp4bXJXZw?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-03-13T21:07:37+00:00",
-    "raw_pub_date": "Fri, 13 Mar 2026 21:07:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7423cdcc051ac28e9600f564f1b865241b40c105",
+    "title": "U.S.-Israel War on Iran at the Crossroads - Modern Diplomacy",
+    "summary": "U.S.-Israel War on Iran at the Crossroads Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02ajQyMC16M01hQmVoOWZ3dUpLcU9SMm9zV1FFczZheTQwZnNoaVBjVGtVbTBOZ3MwdFg4MVFUbVR0a0o3VU13OTZBNA?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-03-13T23:00:27+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 23:00:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5cba4abceae18e4cf79f92b36933ac2b356e8564",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.25,
+      "reason": "Title implies rising conflict/tensions between U.S., Israel and Iran rather than talks or specific strikes.",
+      "event_key": "u s israel iran escalation"
+    }
+  },
+  {
+    "title": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts - KRDO",
+    "summary": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts KRDO",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDU0Rnp5MlhMOW92RzVIVVBRSnBNNUhMb3lZY21MakZreFlpRzE0MDZDMlIzT3duOG4tTFlDTk0waWJ3MEg2SDhZbEwtV3lkb1J0c3lIRkJocXJ3b3hnb19XTlJMdjBTcjFaclBzVF96US1ZVWRwbXF3RnZkY1FlNlFmaW5wRGhLT3BQNGF0bk41MGJQekxwS09TNWdNZ3FNb0xoNmhPWW9DQjFEWkgw?oc=5",
+    "source": "KRDO",
+    "published_at": "2026-03-14T01:46:44+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 01:46:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f7368b54e930e72c060733dd63ad752d65f4f91e",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.45,
-      "reason": "Lists American service members killed in the Iran conflict, implying lethal military strikes or attacks.",
-      "event_key": "us service member deaths iran conflict"
+      "reason": "Article visualizes US-Israeli conflict with Iran and retaliatory attacks, focusing on strikes/retaliation rather than diplomatic talks.",
+      "event_key": "us israel iran retaliation visualization"
+    }
+  },
+  {
+    "title": "Iran warns of retaliation against US-linked oil sites if energy sector attacked - Middle East Eye",
+    "summary": "Iran warns of retaliation against US-linked oil sites if energy sector attacked Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2pkaUxfQndEdUhLUWx3M3ozVDR4Vmt6VkJHTHFXV21JbnIxMzZ3UkNmemc1aWxyTzRmNjg2cTM5c0dJR2Y5dHR0NXNOTGVET05qZWNaOE51S08teldwNUh4aGtYZ3ZnWFRkVGt1TkZlelRQQzVPMzZZVVdDdk02NlpFa0JDQUNGTEtobG43akFLdW9icHhpNmZvb3VoS1VOZU1lM25kd3J3dF9YRnIxWWRTN2ZmYlBDUHNxZ3NBa2pFZw?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-03-14T03:01:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 03:01:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d82f72aa57d3fee3280b7ac22c79ff351d9c17b1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's public threat of retaliatory strikes against US-linked oil sites raises tensions and signals potential escalation.",
+      "event_key": "iran warns retaliation us linked oil sites"
+    }
+  },
+  {
+    "title": "More Marines heading to Middle East as U.S. continues relentless strikes on Iran - PBS",
+    "summary": "More Marines heading to Middle East as U.S. continues relentless strikes on Iran PBS",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy1RZkVhX0NxZmRSZURTRHhKb3ZNZTVTeGwxeF80TGRQME5CUjV1QUl2VGN3ZDRyZzVBYU9EN3REakRockVuOU9pdHFBazJkYlhkYlZreUlJTnF2UVozdExpdGEyOGN1RlNFaG5TMFdmY0R3eDM2UGhNQ2l0M1MtaTcxdjNvMGtwMDA4Z1NMTTg4S24tU056dmpibVUzVFRSTnhRUVY0S3Q0V1BpV1l5NG0zMA?oc=5",
+    "source": "PBS",
+    "published_at": "2026-03-13T22:55:59+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 22:55:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dd9756e5025ef7cb578f337b7281b5ec0034397d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.86,
+      "reason": "U.S. conducting direct strikes on Iran and deploying more Marines to the Middle East.",
+      "event_key": "us strikes iran marine deployment"
+    }
+  },
+  {
+    "title": "U.S. conducts massive bombing of strategic Iran Island, Trump says - Axios",
+    "summary": "U.S. conducts massive bombing of strategic Iran Island, Trump says Axios",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FNjh1UzdoVnpmSGZERmZJZFdvbVBsTnY1SEdpeF9qSDNPUnpuRWhBazRuYndMRlQyTklueDZoWmVDNHppRHBtbDdiT3QyS0dZQWpDYmVnd0E5a0xJaHZtSUtlYw?oc=5",
+    "source": "Axios",
+    "published_at": "2026-03-14T00:19:07+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 00:19:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fc9214fd6823959d826e69d16b8e7a7cf72ff5a8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reports describe a large US bombing of an Iranian island—direct military strike/retaliation.",
+      "event_key": "us bombing iran island"
+    }
+  },
+  {
+    "title": "Trump says US ‘obliterated’ targets in strike on key Iranian oil hub - Fox News",
+    "summary": "Trump says US ‘obliterated’ targets in strike on key Iranian oil hub Fox News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY3N4RGtrcWlKbGVyMkFacVB4dWRCemZiSUkyUHZEMGVzV3NuLTR1d2hhYWRMS0hvdkRKY1VoWDVfZVFSSHE5b0FNcFhpNk9uR2pDWU5iZmdFVGR0OEZNMWtMWXhMVGtlSkRDVlRfUDhOMW4zWnpaTVA3OGF5U0tLcXJKc2YtWi1IWFRNYUo5R1M4Qk9lUkxnYy1R0gGfAUFVX3lxTE5EdVFLbnVqbEgtOXlXbFJ5eEFsVHM5V3RBZC1pZVE2U2o3dno2aFhlc3BwcXZZWDc0dUFEWUtYdTlWUk1rWm5HbWVseXBiRjNUbXVERVBpOGZjMDBhamdqcEptT2hQQUpIWmxLTE1SdnRtNTV2b3lxN2NreVM2NGVtN3ZWYm5hczFLc2duOFdycFJkT2VkQndjV1NCQlRBNA?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-03-13T23:14:31+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 23:14:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ba98b681ce9edc2f1072168edea4e5287682e632",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US claimed it obliterated targets in a strike on an Iranian oil hub—direct military action/retaliation.",
+      "event_key": "us strike on iran oil hub"
+    }
+  },
+  {
+    "title": "Trump says US bombed military sites on an island vital to Iran’s oil network - AP News",
+    "summary": "Trump says US bombed military sites on an island vital to Iran’s oil network AP News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1ZyWWNyMkRuOVFadUc2N25nTjdhS1h2SVNLSGhIUDJXeUFkcG1wMVFsOTBzM0VudHRvbFlVb1FCNzFuTUI1aEV3UEpJM3QxYzNJNk9sdEdZdzR3X0JEY19IYnJhaURHZWlYd0FmQUp2aWt4LU1qdlpxN1VfLXdkRkoyNXJtM0Y2LVI2NFVYNTM2Y3JtSnRtRnY3TDNPSE56?oc=5",
+    "source": "AP News",
+    "published_at": "2026-03-14T03:43:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 03:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a472787d4f77011befeaf0fbbf1f1fbf5f7270b2",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.93,
+      "reason": "AP reports US bombed military sites tied to Iran's oil network—a direct military strike.",
+      "event_key": "us bombing island related to iran oil network"
+    }
+  },
+  {
+    "title": "Trump announces massive US strike on Iran’s 'crown jewel,' says all military targets 'totally obliterated' - ynetnews",
+    "summary": "Trump announces massive US strike on Iran’s 'crown jewel,' says all military targets 'totally obliterated' ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jcGN6aW12SXZGNm4wZ2ZTYXlLZG00MF9FT3NORU9FRzA2VlJ3Qm90T1NOdG02Z0Z3SnlBQVpOeE9SSlRQRjl3dTJPVkN3NjhydHNoU2Z3?oc=5",
+    "source": "ynetnews",
+    "published_at": "2026-03-13T23:16:00+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 23:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d4c744e0b93cc15106745381e1c5f010ee8a4f8d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Announcement of a direct, massive US military strike on Iran and claims of targets 'totally obliterated'.",
+      "event_key": "us massive strike on iran crown jewel"
+    }
+  },
+  {
+    "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law - Al Jazeera",
+    "summary": "Analysts say US threat of ‘no quarter’ for Iran violates international law Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjJRVllsa0xFa2w1R0U3cGhVVXB3U0gtMGxac2QtYW1NME44ZmQ1TDdfYmtNN0NmLUFnbzNGUk9nTWJrX3JCajJmTVNWZmFobzlHRU1xb2NJaFpIWjlUNG5mRHJLaHQ5Qmh4ek9tU0QzcDl2akJxS1l2b0d1ZUJOZHJ4QzFYOGcyNm5IZWl3dHVsMGFLckZNcXVqcXdrbnBQQWtPNFBBTGQ0NHBRUmRGRnlPZ9IBuAFBVV95cUxPQ2h2MDlaRzlwZERDZzEzV1BOZEZBYlpYMTV0R3RNSVpNdHMzYXh6RGZiRndqRW5OTEF2TWN5SmJOYW1hRnljTXc3Nkh6ZkUxdnlGcTBQYWlmbXM5YTU1bHNYc3lYUHhDM2Fvbk8xZUpkeXlyd0MxUXlQTi1XbHNwSjZlSnpBd2ctQjU5a28tUGN0a3g1dDE3Yl9ZcGhQRVp3SUxEME1fTE1YOUVsZnQ1RWd0SmFxMm5a?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-14T00:31:24+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 00:31:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "512379bfbb0c46201535300207cf2466c9394bf2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US 'no quarter' threat is hostile rhetoric indicating escalation and legal violations.",
+      "event_key": "us no quarter threat"
+    }
+  },
+  {
+    "title": "U.S. hits military targets on Iran’s Kharg Island as war escalates - Fortune",
+    "summary": "U.S. hits military targets on Iran’s Kharg Island as war escalates Fortune",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE1fSXk5VWpKc0xGcUtETkhQaHlBaGRQTXJKTDNCbmkzbWp4YVFVVG02WXFoRm1lNXotUDV2cEM3MFUtUVdQbWFtWFpXSlFkdnRQaVozT0N4bURfd2s4N3dMM09uVW1GdkZ3bDNCX0VBX1RWOTJmdHdabG9wc2xpdDdVTzhDU25SbUhDUXJWNjdNRy1kYThn?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-03-14T01:37:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 01:37:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b6573219e0f0d0312025d2e93a019da745aefeaf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct U.S. military strike on Iran’s Kharg Island, indicating immediate military action.",
+      "event_key": "us strike kharg island"
+    }
+  },
+  {
+    "title": "Five US planes damaged in Iranian missile attack - The Jerusalem Post",
+    "summary": "Five US planes damaged in Iranian missile attack The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQNzBQWnhCUHFmd29KaTNhNlNjREpFUHVEVlE1a2hnNVo4allyMHVaaUdybUtQczQyLURJeGIySDFHbElnMW5yemJ1eHBlaFd1NmxCaWlBNFI1WHl6UDMw?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-14T00:04:55+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 00:04:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fa5963cfe8405906da3358f09866cf4eb5cb448e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct Iranian missile attack that damaged five US aircraft indicates a military strike/retaliation.",
+      "event_key": "iran missile attack damage us planes"
+    }
+  },
+  {
+    "title": "HUGE ESCALATION: U.S. Crosses Iran's 'RED LINE' By 'Obliterating' Kharg Island Military Targets - The Times of India",
+    "summary": "HUGE ESCALATION: U.S. Crosses Iran's 'RED LINE' By 'Obliterating' Kharg Island Military Targets The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZEhKY1dTMjFsbkxwUkN4SG5vRktvZFBVQTBHdE1LYU9Ud2p1dGx2aW9uYnBfV000YzFKVndlSmlEazhzQU9rOEtZU2lMeU9FN2lzY2NmdDZ1RWQxZE9pQnhMcGhWamROdjZnQjRLc0RTWTVoV3dfX1daVC1UU1J2LW1OQzRrOU9zdTJ5bkxjT2ozMVRhZGR5ZHNxckc3WXZIRkFEczVZb3Nob2RIUlZkLU1SUHZlM2dyMGp0REhmZ0VsUEMtNXd4dnU4am1vcTlKVmswUVJ5QkVqaFcxbDVXNzRUUVl3RUFDb0s2MV9TbWRqLU43QlZBa0ZKNVR2QdIBgwJBVV95cUxPZFJQaUpUTFZwSnRsZTI5TDFPSVBZbDZfMXBGSHJ2UVNoaGdITDlmaEFjdE9DN3hybnBUNFM4djZ2cThoejVJbUsycGtYLWRfT2RHQjBPQ3FjdjJwdDBvZld5U2k2RkZQcUU5aWVoR1drODhyUFplTTlvT0pSMHFmNnh3T3RxUTd1WFlRVEx1cGRTME9aRzk0M3I2aGl1NXUzYm84cnBQVEwtTEgtcU5ZX2NDVFJEN05nZi1Hd3g4bGJLTGRrUUszOFpISW1GRUVKZjhJbXQ1bW1VTkhwTUhDcGtNa0toWTNSMVdlc0hYVngwaHBKdWhEWEV5b01YZHJGV19j?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-03-14T04:17:55+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 04:17:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a732903770433c470558e54425857b10698567e9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports claim the US carried out direct strikes on Iran's Kharg Island military targets.",
+      "event_key": "us strike kharg island"
+    }
+  },
+  {
+    "title": "Iran war puts many in US on high alert, but synagogue attack shows limits - Reuters",
+    "summary": "Iran war puts many in US on high alert, but synagogue attack shows limits Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXAzOHc4ZUlGU2N4eGtyem94Q2pUYmpYbjhYdGt1OTlrQ3ZlVml4WGQyemR1bkJXQkpCV0FMY3Btb2JtS3duNnFKbUNVZTRlRFZsc1lsTTVkNWhVcDdUUXRWS2RhSVBuZm5uQ1VTb1E0cVJvalJEME1uSW1QTlF6aFBfZ0Y4UG9CREJYVHBkT3N3Y2xRNEFiWTNJZXZxVnJoZ2ZTZGE4ODVVMldMeGFSYkhQNUlLUjA?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-03-13T22:21:51+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 22:21:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "46c486c543de490e4e74289685fc9668e00fdad6",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.85,
+      "reason": "Focuses on US domestic high alerts and a synagogue attack, not direct Iran–US diplomatic or military developments.",
+      "event_key": "us high alert synagogue attack"
+    }
+  },
+  {
+    "title": "Iran war puts many in US on high alert, but synagogue attack shows limits - AL-Monitor",
+    "summary": "Iran war puts many in US on high alert, but synagogue attack shows limits AL-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckxOT2ZxR0QtLTFrMmZFVF9fMjlZM0h2R2lGYWh5MVRQTzBxYmt6eG9WYWxua0l3eVA4Z2dJWDFFMlNnZl84aVdXeVNWeUNoVHVfSWdIUENZQmZtLXJFYVRUVHdYRHdfMlo0WnY2RDJmSzVvM2dWRjJhV1VRdE5KRTdYUllwdF9FcVBWQjlxQkVmT3RSQk5iZHE4ZG4xVm95OFM4c0EwWWRScWs?oc=5",
+    "source": "AL-Monitor",
+    "published_at": "2026-03-13T22:28:44+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 22:28:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6c0c72db451618a6593580181da70e7c3ff6f24c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Discusses US domestic alertness and a synagogue attack, not direct Iran–US diplomatic or military developments.",
+      "event_key": "us domestic alert synagogue attack"
+    }
+  },
+  {
+    "title": "US President Donald Trump's warning that the Iran team's \"life and safety\" might be at risk at the World Cup came after he told FIFA chief Gianni Infantino that Iran would be welcome - themercury.com",
+    "summary": "US President Donald Trump's warning that the Iran team's \"life and safety\" might be at risk at the World Cup came after he told FIFA chief Gianni Infantino that Iran would be welcome themercury.com",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOS0tCai1CMVNvTnZFT25aVXdWUE0yM25jS1NBRkVQTEg0R0hONEpkeHdoM09IQ19uQ1Q3eHYyNXRseUlzOUo1WlVINDVZZkg4TDJmMDJMTGs3ZmhjSGhCeFNOMjBmU0FVZm1XZllnSnNUSC03bkJ1TG1uWFZFeTVWemxHWWs0NzhDWmRBR2xzZy15LUM0ZE9ZcmJ6UHJNZlRLQnRUNnRMV2FCb3JhRm5jQ3lhVFlIWUJkbHU2TTB2VEM5dG1Ia3M0VzhWUmpqR0NkVFlJMlowcUZXZV9LMzYtU1hZWWhpbFBoWnJrOG8wN2lhQS1NeFVsT3ZWNA?oc=5",
+    "source": "themercury.com",
+    "published_at": "2026-03-13T22:04:40+00:00",
+    "raw_pub_date": "Fri, 13 Mar 2026 22:04:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "72388ad6d29d498d6e5bd75f79a79a15240e2cd3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Comments about Iran team's World Cup safety, not about Iran–US diplomatic or military developments.",
+      "event_key": "trump worldcup iran safety comment"
+    }
+  },
+  {
+    "title": "US bombs military sites on Iranian island as Trump threatens its oil infrastructure - CityNews Halifax",
+    "summary": "US bombs military sites on Iranian island as Trump threatens its oil infrastructure CityNews Halifax",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVpzcFg5S1hrcUoxbVFRWXJGVmo2aWdGTjdhdEhnOXpmcHRBR2xzR1pJeTZSNm9lLV9nLUhwRDMwelhDclpaTm1zZElzZUZYeURBdElOTERtNXg2QzREV1ZCTDFMbFdzRVAxbEFzVEVUbGlMazcyVE0wQVJPX2x3bUhKYzI0cVRYYWpSQ0JuaUw0bmVFc1k5eW1BRGRjN3l0NEU3bkIzNndxSTA3bktwTVZpc1A5Y2s0dFNJUlRsM0l5WklkWF9sNC1KNzctX1BuRGc?oc=5",
+    "source": "CityNews Halifax",
+    "published_at": "2026-03-14T04:41:15+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 04:41:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ed02c7723aab4519aec7a55ef0ae179f04d28eb0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted airstrikes on Iranian island military sites; direct military action following threats.",
+      "event_key": "us bombs iran island"
+    }
+  },
+  {
+    "title": "Trump says US ‘obliterated every military target’ on island key to Iran’s oil industry - The Times of Israel",
+    "summary": "Trump says US ‘obliterated every military target’ on island key to Iran’s oil industry The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WdHIxdVRqamZBZmdZRzlEbGpJazB6WVh3YW5GS3R0VmIyb01KYTlIOWNPTV9zaS1tTmFIRi11ZmNzSG5YZVVKUksxOXRCU0JkSmFsUFpQS1o5RTVMNGFBSHMxZ9IBaEFVX3lxTE45UFBWTWR1M2VqSzhRSGlqWjVSZWk2cGlGam81NG9BcG9FWVBaa3MteWdnNGNCUG8tc2NVSjgycHNjZ1ptbG1WMklkWml1WHprWHRGZVdlWTJjT0pQRGN0UVRSMDE5V2Va?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-14T02:12:53+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 02:12:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "523b58a337fa7e9c6e9f474e9110cd3125126892",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US claimed it destroyed military targets on an island key to Iran's oil industry.",
+      "event_key": "us strikes island key to iran oil"
     }
   }
 ]
