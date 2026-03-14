@@ -1,70 +1,121 @@
 [
   {
-    "title": "Fire at UAE oil hub as Iran vows retaliation for US attack on Kharg Island - Reuters",
-    "summary": "Fire at UAE oil hub as Iran vows retaliation for US attack on Kharg Island Reuters",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRW1mNms0NWp5clJ0VVQyUDk3dDVfTXEwUUxpWDhNQUFtb0wyNVZ6WXM0MVhrd2NJanVtZUxsQTFrQ2xxcWxSUldqQUZLQm9MWTVRR2ZJOEpmQ2JkaEFNYS04Q0N5WlFTUXFOc0VhMGlicFFKMlRiSlU5eENvRDRJZWVMblZ4ekNPYkhYamVhTHZtMl93QkhEQVlEVVJ2WHQxMnlzQW1ob05QczNiNTVTdlpoQThCbmEwNkNzYnlwYnhwRExWOF9Ta000VVI?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-14T15:04:05+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 15:04:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fa59b398f208f8180cef65acdc51f05b5fb1a1ba",
-    "source_weight": 1.15,
+    "title": "US-Iran ceasefire hopes vanish following rejected talks - شفق نيوز",
+    "summary": "US-Iran ceasefire hopes vanish following rejected talks شفق نيوز",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTl9BYVpXT195UEhYWmRCQkRJMWdKLTYxSUZaSExPMjJ5TzQxV2hpUW9TdjlKYTFDUHJ6MEFaR3l1cVpmSTVJRDBZeTJkNDV3enN0cUNLdldmaTVQUTdtX0FNMVp2WVJ4NjFwX0hIbjRRY21OYXhzaXpjY1N3SXp2VjRIaWl5eUVqWUJPT19fR3lWcGs?oc=5",
+    "source": "شفق نيوز",
+    "published_at": "2026-03-14T18:22:30+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 18:22:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4ad9ac7602331e7b56ecadb70301a17195a1772e",
+    "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran vows retaliation after US attack on Kharg Island, signaling rising tensions and threats.",
-      "event_key": "iran vows retaliation for us attack on kharg island"
+      "reason": "Breakdown of talks and rejection leading to vanished ceasefire hopes indicates rising tensions and diplomatic failure.",
+      "event_key": "rejected talks ceasefire hopes vanish"
     }
   },
   {
-    "title": "U.S. strikes Iran’s major oil export island - MS NOW",
-    "summary": "U.S. strikes Iran’s major oil export island MS NOW",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pQTlTT0s3MnY0ck84QjF6WDBDUmtGTVltVXNJUHBCWExKS1hidnF5bmNyNWVkS3pvRXhabWgtSVlocFdYZG5VRXpNY1VmaEhDaGdkN3pRNE9lYTdTWDJqbnJfTGlRVXlUd3Ntakl4a1dtS00?oc=5",
-    "source": "MS NOW",
-    "published_at": "2026-03-14T15:14:27+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 15:14:27 GMT",
+    "title": "Kharg Island is 'main node' of Iran economy, and US takeover would be leverage in talks, expert says - Fortune",
+    "summary": "Kharg Island is 'main node' of Iran economy, and US takeover would be leverage in talks, expert says Fortune",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekNOaEtkSnM0LWlmRUl1WDE2d0c2RFR5Q0p0LTZGMUd3anpUMHZTY1Z6YUFVcm5NSHNoSDB2MjdPdGFNQWZ4ZHVoRks2TFFfU01qLWYzRVgydmd2bkdxR0lrUnE3MVlKemJJZDJVYVUzeGx6eXMxTjg3cmZLd2MxUXJYemtPeU9TWlMySkZtZ2hZRF9Ceno1R19FLVpZejlrWHFJ?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-03-14T15:56:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 15:56:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "63582de1d3c9186f2a1d870a8258c982bc24c1c7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Op-ed/speculation about seizing Kharg Island for leverage, not an active Iran–US diplomatic or military development.",
+      "event_key": "kharg island takeover speculation"
+    }
+  },
+  {
+    "title": "UK Diplomacy Tested: Cooper's Iran Stance Risks Alliance with Trump's America - impactpolicies.org",
+    "summary": "UK Diplomacy Tested: Cooper's Iran Stance Risks Alliance with Trump's America impactpolicies.org",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVlh6UEJ3TnFBb04zY0Rsd1kzQUNGOTczNC02UzI1R1ExQjlFZmxEYnhHaEZNT3lTOWNQUmlwMkdLeUExMHRjVjZIeEVGZGJNTjVHeUdleGtmQnl5Uk1jbGU5cExsNDNGRzlUYjZ3bk1KRGR0OXlCNjdrclliU3NraUtfeEcweGlTcG9nTXU5QVRwRWlIZjFlMXEyakRxdE45aE1sREZQRWpTTVRyU1pz?oc=5",
+    "source": "impactpolicies.org",
+    "published_at": "2026-03-14T17:45:33+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 17:45:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e4374eaacbc8b055aa7402aa10477a302da5ccf6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Opinion piece on UK foreign policy stance, not a direct Iran–US diplomatic or military development.",
+      "event_key": "uk cooper iran alignment risk"
+    }
+  },
+  {
+    "title": "Iran vows retaliation for U.S. attack on Kharg Island oil hub as war enters 3rd week - CBC",
+    "summary": "Iran vows retaliation for U.S. attack on Kharg Island oil hub as war enters 3rd week CBC",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GOFpMenlpU0xTaG5JZDFRNnh1THdHRlRhU3F5VFp2XzJzNmRlWjFNVERQWmFXZmpEcUlUWjJvejZzRDk1dHdQMk0yN1hUOUlENFczcEZvTWNLQWRQRG5od1ZIMnZPUklET0RwSGwzWnlfZw?oc=5",
+    "source": "CBC",
+    "published_at": "2026-03-14T16:48:58+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 16:48:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d9e12de7d39d2b97fec574a2fb22ea67ced040c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran threatens retaliation after a U.S. strike on Kharg Island oil hub.",
+      "event_key": "iran vows retaliation after us attack kharg island"
+    }
+  },
+  {
+    "title": "Iran hits UAE oil hub, vows retaliation for US strike on Kharg Island - Middle East Eye",
+    "summary": "Iran hits UAE oil hub, vows retaliation for US strike on Kharg Island Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTVHVXZsS19Dd3E1N21pOVRkQ3VvZnhWNy1FQUdyUVJLazBnejROeXhnVVp6b29WZWpBMTBfZWgtY3IycHlBSW40dTBZaUktei1pM0I2ZFZ5SHhIVU53NWtJVmxxUkFZUlJkRmsxN25sdklzcUlJTHVvUjNLZXhHdW5rSFJuc09GSzlZZVNaMVFmR0FxNEpDRUZpcmQ?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-03-14T17:14:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 17:14:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b28d251051cd215603a2d3a7f4fda31138a197d8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.87,
+      "reason": "Iran struck a UAE oil hub and vowed retaliation for a US strike on Kharg Island.",
+      "event_key": "iran strike uae oil hub retaliation for us kharg island"
+    }
+  },
+  {
+    "title": "After the U.S. strike on Kharg Island, here's what to know about Iran's islands - PBS",
+    "summary": "After the U.S. strike on Kharg Island, here's what to know about Iran's islands PBS",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObG5WX2RlTWg0YVQydFRONDRrbk1mMXhrRUt0alhMXzZYbVpPeDd6bUVtSThBMGJCT1FJOERhMWpnaWdNOW9fYjlMdEFER1RaNFJRY204WWk1UlcyRmxoZGNwalV3OWFfMVBNaG9rZmFBTUdwM0pfdWoweWRXTHZQTjZtbktaT0FzUm8yTUgyUTlLcnVkZVpmQk9oNDVXTEt1OU9SVzRKUnZhMzh2SUdV0gG0AUFVX3lxTE1tVy1hOE1hU1dSdWZJWk5fbWhobmg0OW5GYi00Rlcwc2xGTXN3c1hEUUxsVWZLbEhORFBsTlQ5MHUyeVQyMDlpRnQtbm9nT2VyRDNjSFlaOWxJRDhsaDkySGFfZ3Uyd2FrLVBrRTViYUp6X3R5MmNqMUFJNy11UjNwSFdyRW04SVhFV0Y5T3VYUDlDWEhlUm51V3FHdGNnSXpuSmxZempZZ1hRMGdtMWQ1YVRhaw?oc=5",
+    "source": "PBS",
+    "published_at": "2026-03-14T16:18:01+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 16:18:01 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b57935fafbae63581dfb5c9057d5db65c742ceaf",
+    "article_id": "afaed884dc90d8b4f7eddf12b966dbc68ff58706",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "U.S. carried out direct strikes on Iran's major oil export island, a direct military attack/retaliation.",
-      "event_key": "us strike iran oil export island"
+      "reason": "Article follows a U.S. strike on Iran's Kharg Island — a direct military attack.",
+      "event_key": "us strike kharg island"
     }
   },
   {
-    "title": "A missile hit the US embassy in Baghdad, with no reports of injuries. The embassy had warned of threats from Iran-backed militia in Iraq. The US has been striking Tehran-aligned groups operating in Iraq since the start of its war on Iran. - facebook.com",
-    "summary": "A missile hit the US embassy in Baghdad, with no reports of injuries. The embassy had warned of threats from Iran-backed militia in Iraq. The US has been striking Tehran-aligned groups operating in Iraq since the start of its war on Iran. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaEpReVVtSllFYWRfZEM3MUhCbXl6dTAzSDc2MmdTNkRpWWRySWFNZWN4dGhrUW1PTGN6M0dTaUJTNlJfVEdCdEcwSXMycV9kT1Jselh5S0JSYmFoWHE1NWZ3bGxKWEV0MXU3WjJERmsyTzVkek1tSjNmWDRhOTcyMm9Ga2pDRFl2cW12d21za21WSzZUbmo1cmxoRjNqQWcySlE2OUFxeFhpXzd2TnYyQkFUcEVhYXJXd1lEcEZrVnliQUVHRVowMGtfRko1SWhYOHJ5dkVnRzR1UW4tY3dUbQ?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-03-14T15:18:57+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 15:18:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4b190703dfb55391bace80e364bf73020e67b10a",
+    "title": "U.S. strike signals Iran’s oil lifeline is no longer untouchable - CTech",
+    "summary": "U.S. strike signals Iran’s oil lifeline is no longer untouchable CTech",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OWmVkUldrbW81U1lUalc0bUI2TE1JUkN6Y0czRmhoYlNhd2tpaldqckQ5ZVMzQmpkNzE1SzRIdjFGTy1WZkpBS2dXcGhUNDZxVzJSSGFadzRrdTQxTU1uaUd2QXZfZ29xbHc?oc=5",
+    "source": "CTech",
+    "published_at": "2026-03-14T19:10:00+00:00",
+    "raw_pub_date": "Sat, 14 Mar 2026 19:10:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "82ddf3740b8588ce754f6d3531c44bac19003fac",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.9,
-      "reason": "Missile strike tied to Iran-backed militias against US embassy, indicating proxy escalation.",
-      "event_key": "missile hit us embassy baghdad"
-    }
-  },
-  {
-    "title": "Tehran threatens Middle East's busiest port as Iran war enters its third week - The Washington Post",
-    "summary": "Tehran threatens Middle East's busiest port as Iran war enters its third week The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWNqTDczd3pNemx4T25jVmh6Q1FvUGtTcmtZZXNkS282UE5CeVI0QTlTeEJqbHg0ZjRiVFQzZHdfN000dzVmQnZSd19GV0N4RXU3MzdCTmpubmh0bHV6cjR5aXZFWGNROUZyTGY0S1VvcEhVNFBOd2s3OTFkLWFjV0UxWFhZSHVHVk1HUEMyVHZ5aGk3RW5uSGdSR19XR0RkU3pxTTJEcHp1c1pEbE5vV3FadFZ1STl5c25kU3k5bnJBWDFZMFNBRERfSGxBUVpFVlVBakZR?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-03-14T15:30:41+00:00",
-    "raw_pub_date": "Sat, 14 Mar 2026 15:30:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f59f5fe33856171870048b31903d104af4a0e76d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Tehran issuing threats against a major port signals rising tensions and hostile rhetoric, not an actual ceasefire or strike.",
-      "event_key": "tehran threatens port"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports a U.S. strike targeting Iran's oil lifeline, indicating direct military action.",
+      "event_key": "us strike on iran oil lifeline"
     }
   }
 ]
