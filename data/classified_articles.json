@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "Iran war: What is happening on day 16 of US-Israel attacks? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 16 of US-Israel attacks? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGdPZVJlRFlpaEJoeXgyWGZnVEthWHBJZzY0X3RVRUZtV1UzLTVwbmhrLUh4TENLZlRqaDIzbC1wLTlUNUpNbVVMZzR5blNKWUpzVnhBQV9fV000T1FYT1J5STZNSUt6MFdSQUNjbkdxcHV5OVV5U1AxRngyT0ZrNWRNLTFLSDU4TlJ4blYwRTh4akpQQlRmVGJCZW1wMFHSAaQBQVVfeXFMTTRyaHg3TTBxbnhsMVpzclNZVGx5Y1pDeHVxQzdNSFB4MTZYZEZXRVVvclJRNlQyV0dvNnllVkNqYkhiU0ZSMHVJZ2kwYWRmd090ZGN6R0MtWU9wYkdNeWhLVjl6UVJlMHFJN01QZFVUeVM2clZIc1lDaXRic2FLSkRfRV9yX0NiM1ZqTzk4TkktYXEzWFZ0MXV6NjNCNlRkZUctN0Q?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-15T09:04:30+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 09:04:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8c3ea28d2a0226bdcc9d2266674d24ad93019319",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Describes ongoing day-16 US-Israel military attacks and related strikes.",
+      "event_key": "us israel attacks day16"
+    }
+  },
+  {
+    "title": "Iran-Israel War Latest Update: Did the US Strike Iran’s Kharg Island From UAE Territory? Tehran Claims Rockets Were Fired From UAE Soil - The Sunday Guardian",
+    "summary": "Iran-Israel War Latest Update: Did the US Strike Iran’s Kharg Island From UAE Territory? Tehran Claims Rockets Were Fired From UAE Soil The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdGRUWkZBQmQ5akF1QTZRcE9DQnRVa2dDRVRsZmNCallnRlJIRGlWV0JXMENhZ1JZV0tMang4MVdJUkpTOHJtd0dkT2RzeHlNU3R2dlFsU3ROYW1PVHNFRGpLdWpmUVVuMVBRR1NiXzRsNUZOSGxTYlRxSzZjTkVrM0R1OFFOU2RCX1l3bzVLeG5LLXh3VF9VU200ZUxiQWNUSDJNRHVNYmlhSWczYnRmZnYwdE9aai1vQWpPOEJKR2ZxN2tTZkRIRWI5cVM2N2VsdHlIZnRwTXZZZTFPWkJJWWR2dVdjV3JDWUROZFJWSnU5eXN2R2VRejdxVVVDMmlqNE9KSTc5R1A?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-03-15T08:20:07+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 08:20:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5a67a07497d32690c88bf9b0dfb61a199f08c02e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Focuses on alleged US strike on Iran's Kharg Island and claims rockets fired from UAE territory.",
+      "event_key": "alleged us strike kharg island from uae"
+    }
+  }
+]
