@@ -1,155 +1,104 @@
 [
   {
-    "title": "US reportedly rebuffs efforts for ceasefire talks with Iran - nhk.or.jp",
-    "summary": "US reportedly rebuffs efforts for ceasefire talks with Iran nhk.or.jp",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTDlTc2NIRnpJZ0x1Wl95cnhTNklMSkpMblcta195ZkhFQ0h5S2dyaU1aTHNRdllCV0xSLTVSODVJN1I2bUEyQUhYeTV6bXA5NlZpcjBkQ0RIeHlsUzQ3Qnd3?oc=5",
-    "source": "nhk.or.jp",
-    "published_at": "2026-03-15T10:37:24+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 10:37:24 GMT",
+    "title": "Iranian FM: Tehran ‘never’ asked US for ceasefire, is ‘ready to defend as long as it takes’ - The Times of Israel",
+    "summary": "Iranian FM: Tehran ‘never’ asked US for ceasefire, is ‘ready to defend as long as it takes’ The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFE5Qjhmdm5hdzRuaUxqeFlWMTREcDlTMktEMmIzMUdfbm1Wc3R4MGNnX0wySmh5bEFfaGl4LUlDV1puSHBDbXdFNUpfcGozOWtLak9NWkc1WlRac2Z2bG4wQ3RFb0dqZ0xaV29XVGtleEphdm0yYVRQZVlGSE1VbTRjdVQtSmp2ZWdXenpxM21jTFFJbnk0NEl4YmNiZ3FXUl9CYmY5YVR3MU9sQ2VlMG1DczZqVkY5TmYxTjg2QzhsOW00eUEyWFNPYw?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-15T15:06:41+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 15:06:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "10d1537598598daafa180472ad5bf33f94c12f03",
+    "article_id": "7d77032729af471c155b0f49dd1a710c98d6a929",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iranian FM rejects seeking a ceasefire and vows to 'defend as long as it takes' — escalatory rhetoric.",
+      "event_key": "iran rejects ceasefire vows defense"
+    }
+  },
+  {
+    "title": "Iran rejects talks with US after Trump claims it wants deal | Daily Sabah - Daily Sabah",
+    "summary": "Iran rejects talks with US after Trump claims it wants deal | Daily Sabah Daily Sabah",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDg0REJjSlNucFRuZjlJWU1TZTZrMGxfd3R4ZUhCMFJmcmJCb3FjSXIzMVZhV3gxY3l4cmIyREpCdFJ1azlsLXhwb2xxQ243WnVZZ0k3cXEyME1SLUFyTmNibWszQlZRbmhrWDJGZXRFN0FzODh5Vmx4ellJYVhMdUUxRkZBQWNMdjg3a0lPY1pUaEV6VHRTejVnRm1HeHhnOVdj0gGoAUFVX3lxTE5JZkRNdlFGaUNjd3FnczVPNkt6dTRjdHdKQUZlVTh6UFlyNjR1dHlMUmhabmdVR1AtWkhBUFNDclNSYy1LWHZoOHRqTDBNQktWSDJ1RE9CcmJMVmY4b0tzN3FUcnBLQWdoTURBaTY2OE5NTklxbEtNcHh3YWo1NEl1aV9qQWxnWmgtMVNMVFl0YjVxcjh6am43eXhQdC1vNDlqVnRVZ0t3cg?oc=5",
+    "source": "Daily Sabah",
+    "published_at": "2026-03-15T15:34:00+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 15:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "54743751ba3b2fd5cab540b5f5e90e62aa5d17a6",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US rejection of ceasefire talks indicates breakdown of diplomacy and rising tensions.",
-      "event_key": "us rebuffs ceasefire talks with iran"
+      "reason": "Iran publicly rejected US talks after Trump claimed a deal, indicating diplomatic breakdown and rising tensions.",
+      "event_key": "iran rejects us talks"
     }
   },
   {
-    "title": "Conflicting US statements in the second week of the war on Iran – a timeline - The Guardian",
-    "summary": "Conflicting US statements in the second week of the war on Iran – a timeline The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSl9QdmVLNnAtVDdNdmZjd2dqQ2FUQ2FwOWIyUTZlQXFFVGw1a3J1aFVJODhsbEFmTzVPVG5SYTRsZDZfN2dCcmJlQ3JSbkRmNzJDazlYRVh0ZlE0RFFKZXVydTlNNmNGNEo4cVRJQ1dCQkt6LUlqTE1nNEl4ckNfUnFwYnloNTdfR2hmX2lGSGRzdUk?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-03-15T12:02:00+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 12:02:00 GMT",
+    "title": "Bessent leads U.S. talks with China ahead of Trump-Xi summit as Iran and trade war loom over 'big year' for bilateral ties - Fortune",
+    "summary": "Bessent leads U.S. talks with China ahead of Trump-Xi summit as Iran and trade war loom over 'big year' for bilateral ties Fortune",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUm15VndzNnFHUE50ZDZTbDVBZnk2VmFleXdVeVFaLURfZmZjaXhPbkJncGFIMXpmbEh2NEdIOFhtRnA4SDBSbWMyMVRmRUJhMnNPM3I4Z090WWZ5UHg5LWEzVGRreUtJdzNSTm9TMmtYR0hfOHlFMkhEYXRNZFZxVnBVeFZBYThZaWt4c014ODJMY2Y2di1LSWl0azQwOHVj?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-03-15T15:18:40+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 15:18:40 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "10e20b4c062c94cb6cfbcc23c83ddab332ebb11f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Documents conflicting US statements during an active war, indicating rising tensions and policy breakdown.",
-      "event_key": "us conflicting statements wk2 iran war"
-    }
-  },
-  {
-    "title": "U.S. military names six killed in plane crash as Iran war enters third week - NPR",
-    "summary": "U.S. military names six killed in plane crash as Iran war enters third week NPR",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUlPUzlqMXVIeldBRVdicUxOLVRrVWpIWFRGMVdUS0s2RE5WRzg5N2pOaG9HRWVucTBxRGNyN3BXY0JrX05oS1ZfTGJ4UWhZYzlMaGJMXzVwM2xadXpETVdjOTFXQW9RRnJXZDdOQndVUE90aUh5YmIxdTJmcTVFQ2NB?oc=5",
-    "source": "NPR",
-    "published_at": "2026-03-15T11:00:08+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 11:00:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb1144da67399325142c8ad20941c222ff43cd85",
+    "article_id": "bf3b095f340e4d37a8207810941495b925a3eb73",
     "source_weight": 1.0,
     "classification": {
       "label": "irrelevant",
-      "strength": 0.6,
-      "reason": "Reports a U.S. military plane crash and fatalities, not a diplomatic, strike, or proxy development in Iran-US conflict.",
-      "event_key": "us plane crash casualties"
+      "strength": 0.1,
+      "reason": "Focuses on US-China summit preparations; mentions Iran tangentially, not on direct Iran‑US conflict developments.",
+      "event_key": "us china talks before trump xi summit"
     }
   },
   {
-    "title": "Iranian missile fragment hits US consul residence building in Israel, Israeli media reports - Reuters",
-    "summary": "Iranian missile fragment hits US consul residence building in Israel, Israeli media reports Reuters",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0hIVzdNUFprdVRNTkx2Smdhb2lyUjBwcUZQZmFmWjkzLWFYUy1nUGVOV3REMDVEVkQ0aFBQUVY3YklKZkpneC1yQUtjQjFrZDNodjBhelRZZGpWazJ4djZ4WkdEY2JzbnVKUVM1aXNaQUZwaG1HYXB6aHlta1U1M1ZYUTBvQUhnaFh6MkZveHpXdkdxMS1Ldzg1S2JLVTdZMk52WElKd1hWR0ZTTUdHb3NoS3Y5ZktwWENLRXhCbk8zTnE5b1Vnd04tbGhqQQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-15T11:32:07+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 11:32:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cc56ceb854762615fc14f561da7ea6d294b68a2b",
-    "source_weight": 1.15,
+    "title": "How the U.S.- Israel War against Iran Undermines Global Economic Prospects - Modern Diplomacy",
+    "summary": "How the U.S.- Israel War against Iran Undermines Global Economic Prospects Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHpJaW5Gc05UdkR6bHM1ZUE2RXI2T0NWOVZDWkVhRGtOb1Z0TFlPaG9MUWRybzRuQmJuWVhlVmJ2M280RlAxSDlfN0NiQjVLaGZkQzhUNWZWU1VJVGlxNjc1Ungzb1FLUkV2MThCSTJhbXFtaGJteGY3TTNfMmxRT0NKdDg4MVY2bmFJUkc4RHJrWnBZVEhIQThwWUpma1FxQ1JQQ3ltTmQ4NTZTbHJRTw?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-03-15T14:37:54+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 14:37:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "913e0d71206172d1147480c625a6c122c946ccee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "Analysis framing a U.S.-Israel war with Iran, indicating heightened conflict rather than diplomacy or de-escalation.",
+      "event_key": "us israel war against iran analysis"
+    }
+  },
+  {
+    "title": "Explosions reported across Iran amid US B-52 strikes - The Jerusalem Post",
+    "summary": "Explosions reported across Iran amid US B-52 strikes The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMDRDajJXS1A4MzRPdE83VkNma1ZmcklYTTdlbm45SnJWa0hxR2tfYzFJaVl1dXhLelBXY2Y4OGQ1MEFYTVh2aDJHQ2tiWi1NM1Zzcndrb2xPY092dUVMOGRuWGJzQ0EzQkE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-15T14:48:53+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 14:48:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "edebaf425c42323d614df54368dbca26af9eead6",
+    "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iranian missile fragment struck a US diplomatic residence in Israel, a direct attack affecting US property.",
-      "event_key": "iran missile fragment hits us consulate residence israel"
+      "reason": "US B-52 strikes causing explosions across Iran indicate direct military strikes/retaliation.",
+      "event_key": "us b52 strikes in iran"
     }
   },
   {
-    "title": "Live - Strikes pound cities and checkpoints as US says Iran missile threat down 90% | Iran International - ایران اینترنشنال",
-    "summary": "Live - Strikes pound cities and checkpoints as US says Iran missile threat down 90% | Iran International ایران اینترنشنال",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxYjM4R20yZmp4UXFMbXdzMWRpLUhtM25wMEt1X0RTZnBYMk9mS3hSMFZHVFpiR0NzaEZob01GemU2SnByZ01aaDZ0SGVFejhYZmFqQmNTdzUzTVZVQXc?oc=5",
-    "source": "ایران اینترنشنال",
-    "published_at": "2026-03-15T12:39:47+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 12:39:47 GMT",
+    "title": "LIVE BLOG – Missile Waves Hit Israeli Cities as US-Israeli Strikes Pound Iran – Day 16 - Palestine Chronicle",
+    "summary": "LIVE BLOG – Missile Waves Hit Israeli Cities as US-Israeli Strikes Pound Iran – Day 16 Palestine Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTBuNlE1bUVCcVAtN09fRzRDTmZ6ZUlhajBEeWhjbTdTU2pNdTRHdFBadmg0bHI3MW9JdkNOTVZzTk1wRThKNTdscmhkbjhZWWc0UzJUbklaNHNFZ1A4TGdhc0pHTi1iN0kwWDRFU3IwRTlwN2hseXlBcFFEVlhEZmtuVHFtZjJOUXgzMFRTSFdoVVhISlhteWlxa1pHLTN5S3NRMkRSZDhsdVhjTWJGSnFOTnFfM0h3QUE?oc=5",
+    "source": "Palestine Chronicle",
+    "published_at": "2026-03-15T14:48:45+00:00",
+    "raw_pub_date": "Sun, 15 Mar 2026 14:48:45 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d4ec113727398300d2600a51e1ffbbc23a1871a",
+    "article_id": "5df0017f993ee72df511ab820bd01109cc141ff3",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports of strikes pounding cities and checkpoints indicate active military attacks; US comments on reduced Iran missile threat.",
-      "event_key": "strikes on cities and checkpoints"
-    }
-  },
-  {
-    "title": "Iranian missile debris hits US consul's residence in Jerusalem: Report - Türkiye Today",
-    "summary": "Iranian missile debris hits US consul's residence in Jerusalem: Report Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ293NnNrY3dvTGJ3XzQtakRtREE2MUpzSXZjOW01QXBsSUV3LUVpRDFPRVNVNzRMU200bkdfMWg3WnFsOHdUM0tnLXVGbEZsNDY1bE1xbEU2QlFaNVVib1k3MDc5di1yeFB6c3Qxd1hiNmstdEphaERacFJPV0VGZGtXcGl5SVY0bU8tTHRRU3ktVmdNbWo0RDRuZDNkVTFLVjRmRlUyV1BWaUtyYmsyYVFB?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-03-15T11:44:54+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 11:44:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "53830383505667ae8fff2c2883918eca31199097",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "Iranian missile debris struck a US consul's residence in Jerusalem, direct physical impact from an Iranian strike.",
-      "event_key": "iran missile debris hits us consulate residence"
-    }
-  },
-  {
-    "title": "'Geography favours Iran': US professor says Trump is caught in the 'escalation trap' - MSN",
-    "summary": "'Geography favours Iran': US professor says Trump is caught in the 'escalation trap' MSN",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjI4WDlMMlZ0dHZ2MW1YdTVsWnBkdVVWR3dkS1pnOWV1TkFpVEgzV3lFcHZoeE16T0tHcWZoUWN4ZlJRM0V4dkcyZXp0NkNES2RvVEM0UzNMdTlIZnNCV3BkZnBZZEhzaV9McnJsQUlxTU9DQ2Q4b1d3eXBFQ0JXNXZBTVlqY1lVYnZaYmpGdmI5Y19TZjZZckxSSnRjdGI1U0xkT2N2SnRsQXJoZW9NTUlDMXE3cDVIQjMtUEFBTXFpSm5WbFEtczdkWDNBQnM?oc=5",
-    "source": "MSN",
-    "published_at": "2026-03-15T11:58:44+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 11:58:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "800d0595f9c59c99eb92f48cdb537f3dbba989ef",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Opinion warns of rising tensions and an 'escalation trap' favoring Iran geographically, implying worsening conflict dynamics.",
-      "event_key": "escalation trap warning"
-    }
-  },
-  {
-    "title": "Iran threatens escalation, US puts oil hub in crosshairs - China Daily - Global Edition",
-    "summary": "Iran threatens escalation, US puts oil hub in crosshairs China Daily - Global Edition",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FBaXNzMkZwUkZZcGljUnp1d1gyWVk5Mk1OTWpMMWVBLUZYaXp1UkUwd2p5Z2FYUVdfc2hrbEVXd2VQRU1DQWdVaGdGdFJEZGpfekNCWDJsZnVIRkxiSDBBLUk3MHJjZEREMGNaQ19kUGQ3Nm1HdDNwNGUzdjYzTg?oc=5",
-    "source": "China Daily - Global Edition",
-    "published_at": "2026-03-15T11:55:11+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 11:55:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bda75fc4065009614aad4aa830129307e6832bcd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Mutual threats and targeting of an oil hub indicate rising tensions and hostile rhetoric, not an actual strike.",
-      "event_key": "iran us threats oil hub"
-    }
-  },
-  {
-    "title": "US call for Hormuz escort ships triggers Iran warning of wider war | Daily Sabah - Daily Sabah",
-    "summary": "US call for Hormuz escort ships triggers Iran warning of wider war | Daily Sabah Daily Sabah",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2ZXNkIzYkx1SmN0N3RzeThMOURwVGxWUVhzdXR4THJkMkdLVllkRXRoNEJjUDlCUW1GYVVOYWhPT1NUQVZiODF1LXpmR09BYjNyWXMyM25VaEZ2ZHRVbUNMeHk1Z1dpb0ZuaHZVOWZqbFhiTW51U1VHRldjNklmQ05ZRXJSMi16ZFV4ZEkyT0VTaU1taHN2dk1yMFM3NzZENWMyZ00yZmQyb0Nf0gGyAUFVX3lxTE5ZV0JlN1VwWFgzV1diY1FWUnpLU2k2RkVRRU1hTWlYdEJjcVFJdkQwS2toNkJvY3lJd2JYT0hfUzVfdncyVFEtYkNYQ0t3QlE3eHF4RVRDVDZWcTdxWjJOZTUzWDNDZGZxT2JjRTZPUmk0RXRDd2d2Y0VmQXVVSnkyTnB2RVIzQU0tM0JRc0VBVFhPUVNMZmNjMUhGbm5IaVJuUFR2b013cVZOcWtrYkRsOUE?oc=5",
-    "source": "Daily Sabah",
-    "published_at": "2026-03-15T13:35:00+00:00",
-    "raw_pub_date": "Sun, 15 Mar 2026 13:35:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1b611185f33af06ad62b115a9febc6bb8de4293",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "US escort call and Iran's warning of wider war signals rising tensions and hostile rhetoric.",
-      "event_key": "us call hormuz escort iran warning wider war"
+      "strength": 0.9,
+      "reason": "Describes missile attacks on Israeli cities and US-Israeli strikes hitting Iran—actual military strikes and retaliation.",
+      "event_key": "us israel strikes iran missiles hit israel"
     }
   }
 ]
