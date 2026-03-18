@@ -1,121 +1,36 @@
 [
   {
-    "title": "'The United States Must Be Held Accountable': Iran Rejects Cease-Fire Talks as War Rages On - Time Magazine",
-    "summary": "'The United States Must Be Held Accountable': Iran Rejects Cease-Fire Talks as War Rages On Time Magazine",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFB4M3UwYXFvb3RTYlVvaU5uRDk5a000clN6UDJBRkJUSWZ6djVSY2RMbEFqdzRiQXo2ZFZhSTJnNFdvamE2WXBocHNodVVmanhLQ1c5RlY0LUJ5WnBncUdINVNCV2VFcEdhVTN1Qi0xOUdkSVlWeUMxM0l6QkwxLWRNTHdZLUFxdWtoZjJyMHM5aDJ3TXJqVmdLZ2k?oc=5",
-    "source": "Time Magazine",
-    "published_at": "2026-03-18T17:36:55+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 17:36:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5e2065b800e3c898968db5c5072407187b60d83d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran's rejection of cease-fire talks signals breakdown in diplomacy and heightened tensions with the US.",
-      "event_key": "iran rejects ceasefire talks"
-    }
-  },
-  {
-    "title": "Will Gaza's ceasefire survive the US-Israeli war on Iran? - The New Arab",
-    "summary": "Will Gaza's ceasefire survive the US-Israeli war on Iran? The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3g4dkprZU5OdVY4by1qNjF4Z0JTR0N1TWREMGR3WDVJS3J6dUNXeDBGTHFpOFF4dkhsRm8tQi0waHdlQm94YmpiYjNwY2pSYURyVjVaNzN0a01IUlI0cG5qY25yRVJvUGgtbVVQR21tVS1Yd3EzQjFpdUlDNnNjYkk0UEJRNjht0gGOAUFVX3lxTE5YRjJRaVBQa3ktTXBJVWt6RktXWHkya3dDVlhXc0tLMlcwT2F6enY5SFBnbVR0MHlMUVNjandyd3RpWHZwVURnMTYzVDNGN2k3eE9PejFKckNQdGExdHBNclRNcDFYZUFNdmFiTXFqWkJSZnRZTG1BMVhIYlVnZFoyTThpNEFLX3dWdlRpNGc?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-03-18T18:44:39+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 18:44:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f744b015a0d5b309bc3993f301e234c594bee9b8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Article argues Gaza ceasefire could be threatened by a wider US-Israel war on Iran, implying rising tensions and escalation.",
-      "event_key": "gaza ceasefire at risk us israel iran tensions"
-    }
-  },
-  {
-    "title": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here - Yahoo",
-    "summary": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYnhEWmtJX240ODJ4dmRlYWNtM1liTnc2TVg1emdyOTFkYzQ3ODRWVWRWRnBGM05wdmk1T2lmQmh1TExsTmxqUDlMbUptMW5NcHJZM0hGeC1TdVlJUE1tQWloRkh1Znk4eV9jWk05bGxla25wSXhXRjZ3cWpkZ1gxWWFYWXJ4NlkteG5pTGVhSW1JSFRZZW1KU0dWYXlETGtXbHFFeUxkT3R2RGVQX3EzSThyRFdUUkY1di10c3ZsUXRCSHdramk3MkZYTkl3TDgzcm5aeTBWNzNhR2dhUjJTdk9PQXpwVEZtbk1BbUw5LVJTbExDajNiNTlxT2JGUktCVU5iWDFmemo4UmYxSjdKZWVIUTRYeTJLRkNwaGpMQ0U?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-03-18T16:28:40+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 16:28:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fe97e74ee18c72f69c34089b9c363eaf4e34b109",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports describe strikes on an Iranian energy site and killing of a senior Tehran official—direct attack/retaliation events.",
-      "event_key": "strike on iran energy site and tehran official killed"
-    }
-  },
-  {
-    "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War - The New York Times",
-    "summary": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0RuNTZFcnFwb05tc0lkTjZtZVJuOUJnLTVWN2ZySFk3M2hwWEtYQTNCVFBlSGZHZlhsZ2p6UW4wUW00N183VXRyMVJQRmRvZ1NlS0RQbnBCZEpIeVlSaHlfQTBuWU1DaDE2NW83X0xXZVRQYWhQTnRXWHMwaW9uMk9kUTZsM2dDYUFFWFhnVVpUdzZhT2VrTXNqNkg?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-03-18T18:47:30+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 18:47:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "22ae1c1ef066cf144ddcde94504c4d91af93ca9f",
-    "source_weight": 1.0,
+    "title": "US intel official says Iran's regime still intact but refuses to discuss talks with Trump about war - AP News",
+    "summary": "US intel official says Iran's regime still intact but refuses to discuss talks with Trump about war AP News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2VMakp5b1J4bzJxcGR2Y1ZOR2dDeE1ZZTRXN01EZnRrVWgyTW5fS3l3cWRfU0l6WVhOTER6VXg5TGFyTDhuZld0bkxfb05PaHZwYllKbVZSb181V0l3ODFLYUEwYTBJaE51VHVKX0FkNG9vMzZ0R1NaTzI0bUJRa3MzSnJfQWE0YXZZakZrNVd5clNRdmc5Smt0dzZRNmdvUHc?oc=5",
+    "source": "AP News",
+    "published_at": "2026-03-18T20:50:00+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 20:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3a0ecfd789222c917cefb8fc5694ec760523e2ae",
+    "source_weight": 1.1,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.2,
-      "reason": "U.S. intelligence reported no expansion of Iran's missile capabilities before the war, implying limited escalation rather than active attacks.",
-      "event_key": "intel no change iran missiles"
+      "strength": 0.25,
+      "reason": "US intel official declined to discuss alleged war talks, signaling restraint/non-engagement rather than active escalation or negotiations.",
+      "event_key": "intel official declines to discuss trump war talks"
     }
   },
   {
-    "title": "U.S. strikes Iranian missile sites near Strait of Hormuz as tensions escalate, Trump defends action - 41NBC News",
-    "summary": "U.S. strikes Iranian missile sites near Strait of Hormuz as tensions escalate, Trump defends action 41NBC News",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXFTRTgwYzNnUEF6bFpma01FWG8zOF9EcnlPdk9uc2laaF9RYXhXUm1qN0RpS0YzSzEyUGFsRzlsamlpWjBNRVF2R2xQOGN2UHpTcGFHUTU5QUZ1dXhJcmc2bG92SW1HdGV6dlQyMUNXTTlqdFJLczNWWno3N3p2VUNhYnFDZ0s3ZUd1NWxibkZnMWhqX3U0RTFRSmtoVGd2aDhRS0Y3TmxJSVNpTjhuZEVDRWJpZWpoT0hkSw?oc=5",
-    "source": "41NBC News",
-    "published_at": "2026-03-18T16:49:41+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 16:49:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4c277330e368672c8aa70958a94e3285252d50d7",
+    "title": "The Latest: US knew Israel would strike an Iranian gas field, AP source says - Yakima Herald-Republic",
+    "summary": "The Latest: US knew Israel would strike an Iranian gas field, AP source says Yakima Herald-Republic",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQ1BKellJbDU1NFY2eWoxLTVvM2tCSHBZTHRmNnVDNFYtX05lcVRKRUN5VEFCeF9Ncmt2Y253WWxmZ2R2d1YtZmxBWU80a0NLMlVqVUhGWXdxNkhPMkxDYmJ2WW5Nczh1akowTWFwOTZiY01ob0pPZ09sRGZPVVRieF9HTXlVNTRRdXpuWGd2c09naEp1MlppUVZDOG9uV0w3Z3BCeWJ3clg0bmRZdFRFX2pOYnUxSy1OWDBXVi1HcldqXzdtZFI1RFJaaEZMZ0F5MUZFbG53aU9UUmJrUFI5ZkdkWjZZMkhBaWpmMm1pVGF1aXNqZTVOM295anhRYzFjT1RhUkliSThsRmllN3R30gGUAkFVX3lxTFB5Q3FvWVFlMkxQb3g1MVRWR2FYTGE1cTBMc0JQSy1mVlh4ZUIwQjZfRzFNSl9vMVlyU1NDTkFJRzY2MEVFcEdTSlpIYUk1MlhkTVlja2ZyY3B2OS1VdVdCcVlpaVV3Y1B1MFVKWDRuRDJNaFcwUkYwZmRJSjBjRjVVZHlVWDN0MFFSLVFpYlFpdnZFMncwWXR5OER0cVVHd0dtbFFjSXFtelRuY1U1SG9BMjNhTXdDMUlqYkxUalJrTXdjODFhMVJkY196RlRBOGRkN3d2QTBEMGJRbTFzZ2xhaTZJLXhJUzdSWUQ2YU1qQk4wMDNEb3JIVVFmVGl6RHFQNW1fSWdOYXVKbFVIUzE0OHhpWA?oc=5",
+    "source": "Yakima Herald-Republic",
+    "published_at": "2026-03-18T21:18:24+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 21:18:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ad5faed3fe5ceb37a50baa45b11d5146375a71c4",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct U.S. military strikes on Iranian missile sites indicate immediate strike/retaliation.",
-      "event_key": "us strikes iran missile sites hormuz"
-    }
-  },
-  {
-    "title": "Despite FBI warnings, Iran likely can’t strike US homeland with military drones - The Times of Israel",
-    "summary": "Despite FBI warnings, Iran likely can’t strike US homeland with military drones The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmt2V0J4UUoteEpienhZWlFhYlpJazhLNmhfT3pjc1pZalo0YmNjek45dTNNRWhEQjZ3UFktd3dRX3huNjJKd1FuV3pOWFVXQlhKcklPdWZNUDBuU0xFVDVZeFVpVTE3Q09XMDlZcXVNczVjY2ZzLTdhZS1ZajBtaENkOGw1eHhCQ0JCRTFmOURnM3lWd1FsS1BfZlNGTG1TSzJKNlVlU3RuQVo50gGyAUFVX3lxTFA4QTE0Vm5XcHNmUVZWQ1ZGTkI2c0tJUHpmS2FIaV84ZVFYZ245UVAycUZPWVR6TU9CN0VMRlpYWWR5SUxJckJXdUowZ0hQNHlsX2dZcHZ6VXpJSVJReVlqTzU4dmxPbUFwNjFVaFNVZWgwN0ppMzBYakJxWG9ZYXkwbk5RNldQZWFwekwzOUZKUTA0bWE4VW1VZzBvU2t3bnpWajJPWXNjN244bl9jSTRjNFE?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-03-18T17:48:50+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 17:48:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f93054e803bb083265fede5ec6bc04a9e376025",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Discusses FBI warnings and threat perceptions about Iran's drone capability, signaling rising tensions.",
-      "event_key": "iran drone threat assessment"
-    }
-  },
-  {
-    "title": "Iran’s president condemns US-Israeli attacks on energy infrastructure, warns of ‘uncontrollable consequences’ - Anadolu Ajansı",
-    "summary": "Iran’s president condemns US-Israeli attacks on energy infrastructure, warns of ‘uncontrollable consequences’ Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWU1HSmtFdlpaSy1QNENMZVBRcGtvS0hhNFZ4RF9lcWtqaC0wTUsxOEwwVkZsa2l1VVJ1WVV3dXlEUVBaaWNmZHM0TWhDa2h3OHA2UHNHRW44d0xBcFJGcXFZWFo1aTdwMENlUE9iTmgwZVNIbkF4azFYRVozYktaWlYtRG9vcnVuTXBrbWJrQXVBUWJHOHFzdjRkUXA3bDJ5MHdIdUx0Wld5ME80b2VXTlBFTHM0TlltWEhwMW9vdjNmdlBtWDJJWDMxZExGeEFzS2d6ZXozRS1SbmdXZ1pmdmVtZFlIcEE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-03-18T19:08:55+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 19:08:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ec9d71431455ede207c4b1b971859dd0fc9cddea",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "President condemns attacks and warns of 'uncontrollable consequences' — escalatory rhetoric and threats.",
-      "event_key": "iran president warns after us israel energy attacks"
+      "strength": 0.7,
+      "reason": "Article reports an Israeli strike on an Iranian gas field with US awareness.",
+      "event_key": "israel strike iran gas field us knew"
     }
   }
 ]
