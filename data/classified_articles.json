@@ -1,206 +1,121 @@
 [
   {
-    "title": "UK security adviser was not part of final US-Iran talks, says Starmer's spokesperson - Reuters",
-    "summary": "UK security adviser was not part of final US-Iran talks, says Starmer's spokesperson Reuters",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONk1sZmNiaWVZUUtGNUxXdHhVMnZMNTNQak15WmllZ3U2a1RuVC1TcU1Ccmg0bnJRWlJkUDJrQl9iWTFDWFVWVC02QzR1Um40ZkhYU1RKZTVaWE9YNm50ZTBBc19PWjJYdFpaQnVfQlljNGtfWHg1UVV2dUZQSWE5MmxIT3ZnN2tvM0dHVVVpTlpiTUhhc0RkVG8yQTFuMlhxQVNsMTRVenBoRkctS2JMY0VDZmFSdWt4SFJrU09NdEoyR3kxRVJN?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-18T14:49:38+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 14:49:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d29d062f2525c6346997df2ac9f9fb3ddb0814b",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.5,
-      "reason": "Article concerns participation in diplomatic US-Iran talks, clarifying UK adviser was not involved.",
-      "event_key": "uk security adviser not in final us iran talks"
-    }
-  },
-  {
-    "title": "Which key Iranian figures have been killed in US-Israeli strikes? - Reuters",
-    "summary": "Which key Iranian figures have been killed in US-Israeli strikes? Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjVHVTloUVpqN29LZDhhV3VMem5rYlAzNENjUlFkNU1MOVlPeDJOQWFMVmFNbzFCaEllV3J4R3FValdraVpzSUhfTHd2UVpFSFlpbGJGN3hQLWNTUF9yVlUzOEVMZ3ZpNktsenBsLUVpT3NKdzZWVElYd1lvdkZLeG5LbkJTSnllWG51OVU2Y1RoSGt0bW90TlV4bWZ6R0VCQkRZQmpTQUhLd09HR1dpTHI2Q25zQQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-18T11:36:12+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 11:36:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a0ae575c4ccbdee0605688810b7fbd6c81b5b6da",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Article details Iranian figures killed in direct US-Israeli strikes — reporting on military attacks/retaliations.",
-      "event_key": "us israel strikes kill iranian figures"
-    }
-  },
-  {
-    "title": "Israel strikes Iran natural gas facility in coordination with U.S. - Axios",
-    "summary": "Israel strikes Iran natural gas facility in coordination with U.S. Axios",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDhZVlpwOUJPd2poWXREcjQ3dG9pSU9JU252Xzc2STVybVRLdmdpdzVxYXNMdUx4SFU5YzZldmNLSmtYMHJZZHFIU3ZoVHViZEluME15cmpHMUxFVGdjR0JiT3FMYmhYc1lPWWJJMFNEMkw0ZEVEbUVLWmlpOHNzNDBKdDN6UQ?oc=5",
-    "source": "Axios",
-    "published_at": "2026-03-18T12:29:34+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 12:29:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "af8bc3f8456e303f72219ca760133940d7178e07",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct coordinated military strike on an Iranian facility by Israel with U.S. coordination.",
-      "event_key": "israel strike iran gas facility"
-    }
-  },
-  {
-    "title": "US-Israeli strike hits gas tanks in southern Iran, halts output at 2 refineries: Iranian media - Anadolu Ajansı",
-    "summary": "US-Israeli strike hits gas tanks in southern Iran, halts output at 2 refineries: Iranian media Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTE1iMU8ydlI1SlQyRDV2aHFfMVhIemNTLVZaX3FRZVRwX1VYNENpeXVwVjl0eEhvcmZTSzZfbjBZOWNYMmVXMWd6RWVDQkJJTDItU1N6STgyLUcwLUdHRTRsQ0Rsd2dSV2tXcWJFUmJiN1p0MS1aN0FHV0NRX0FnaEprUUlGamhST295d3laMkpiTlU3eFBEOG4xdHNfc1hPY1JCaGNUaDNhY1d5dDJCRHdYTGxDUVpoY1UySF9XOWNoYzZtdEdxSFdtLVhFRkd6UXhR?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-03-18T13:14:04+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 13:14:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e1c4126d05ff2e4bb5c7e7905e38c748b79d69d3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports of a US-Israeli strike hitting gas tanks and halting refinery output in southern Iran.",
-      "event_key": "us israeli strike gas tanks southern iran"
-    }
-  },
-  {
-    "title": "Iran says Israel, US strike South Pars – world’s largest gas field - arabnews.jp",
-    "summary": "Iran says Israel, US strike South Pars – world’s largest gas field arabnews.jp",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9idFhBZVdZYTJJdTNKSWxtZmlUR2NnV1lJaTNUWnBSTzYya1NRNEFDSDQxelE4WUxQMVNnVHJUZDhSRFNDTm9ZbHduOUhYU0JXTk5sVmVLWjdLbUZhT0JqcERzcWc?oc=5",
-    "source": "arabnews.jp",
-    "published_at": "2026-03-18T15:38:07+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 15:38:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b48a5266afc94d33f27435ff710d8f61e152a9c3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran reported a direct strike on the South Pars gas field attributed to Israel and the US.",
-      "event_key": "south pars gas field strike by israel us"
-    }
-  },
-  {
-    "title": "US bunker-buster bombs hammer Iranian anti-ship missile sites near Strait of Hormuz - Fox News",
-    "summary": "US bunker-buster bombs hammer Iranian anti-ship missile sites near Strait of Hormuz Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmFIX2l5dTdyY1JYWUZSOVJkaDlZQ2UwSGVyVnNfeUQtdEFnQ01uMVBIVEgzeGRYMmZDSmlRU1BQUzltZ01iSHFod0hMcWFSaU1SM1VtWUZGUy10aGNSSnNIOVdHYVJOUHVhZWNzSmtfNGRuMmtMcmpHTHJCUVVmTU5FVDVjRFd2bW03SkNpX0x3dVNLN3EyVFowSnJ3b3RTaU5vR3F0TkJHT1hmTjNWTGJLSdIBuAFBVV95cUxQeDlmWkdJeHpFZTJfemdYUkNkMmQ0REl4QlJVZ3h3dk1QTC0yUlA4b1JHUnF0UHl5QU9lU2g2WVFZNmRmaUtHQkpiRTczUGZHR1A5Q2d2QmJGUnptYVg2YUdVNWxiaWFDaFFON18yYXRMMlJPNERIOXdsWG1CY3JtcmhENFo2cEhSWWdXMXJNS01sUE5CRU51a3RXM21UR1JlMW5kUG9jWjBfc0pUS0J6NTQzYjFialF1?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-03-18T12:43:24+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 12:43:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "084505ada2b3fcf84114192b5cead2eb73c91799",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted direct strikes with bunker-buster bombs on Iranian anti-ship missile sites near Strait of Hormuz.",
-      "event_key": "us strike on iranian missile sites"
-    }
-  },
-  {
-    "title": "Iranian missile sites along Strait of Hormuz targeted by US as shipping continues to stall - Stars and Stripes",
-    "summary": "Iranian missile sites along Strait of Hormuz targeted by US as shipping continues to stall Stars and Stripes",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMk01ZGFUQkpVWktPZFF1cmdIXzZ2ZHhRVmxJcGJFZWRJTlBfMThnbGdPVjg0bHpxNFNBYng1RDVtaXBkb19aNDh2Y2ZHcmd3S0t0Ynlubko1UlNrZmM4QnFIMlBFRlkydGRDU3o4NXE0Q0MyeE9NRml6T3Y0dVo2cndBRDZLQjYtclg3MUZJNGc5TDhSTUdVMGNBMnRXZGc?oc=5",
-    "source": "Stars and Stripes",
-    "published_at": "2026-03-18T13:46:15+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 13:46:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7836ff4b6dc1f6ee442dfc66dbd716c66a627710",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US targeted Iranian missile sites—direct military strikes on Iranian positions near the Strait of Hormuz.",
-      "event_key": "us targeted iran missile sites strait of hormuz"
-    }
-  },
-  {
-    "title": "North Korea watches and learns as US attacks Iran - DW.com",
-    "summary": "North Korea watches and learns as US attacks Iran DW.com",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWpvSWlOOTdyN09mb0Zpd21zX0tDaEdvMjBJazJiWTdLMzMzOHVpQnhHY1FqTnFQOGZQZ0ZBUEJ6cmNKNEVaVnkyUzF5S0trYzdqNzY1LV93RDQtNVZtZ0x0czZRZ09rWUthd0hzcWtTd1NILVZkSUFtNUp4SFd4OUZHblFFS2lqU0HSAYoBQVVfeXFMTkk2Y3NEdUtvRVdHYktOWFhCX2lvZFVKVUI4T0xic3VnU2VwY3V2eHpXcHlGaVVjZHRnVWlIS0ZXbzhxRlZoc1Z0RjlZTFFvTmt3WTRQLW1majVBcnBGd3NUM2VJT1dUWVQ1dWVFNmxJX00zeGFVVEVvSmljUVAtUmNXSG5nV2toRkFn?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-03-18T12:53:50+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 12:53:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f89ec9c959b99286efae5d95295461378aa0f495",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Article frames a US attack on Iran—direct military strike reported.",
-      "event_key": "us attack on iran"
-    }
-  },
-  {
-    "title": "U.S. bombs Iranian missile sites along Strait of Hormuz - CBS News",
-    "summary": "U.S. bombs Iranian missile sites along Strait of Hormuz CBS News",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY21qcnpwZ0RtUGZvV014WjdRZEowYkhwcEIwcVdVbXZtR2xNTkpyMC0yT1JZNS1aN0xrRXNxRTFjUWxSUlFwS0ZOSDJJMk5UT1UtVFJXUTZGNkJaYXlQTURZU0gta0NyNHhBUFk5VzhwNFBSUTQ2VmVRSDgyVWowNS01SDREMWhmUjZPa2VEUFlvbmMwN0owMg?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-03-18T13:01:00+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 13:01:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f1c4160c45af2ee9406c33a8f887136281d3d965",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "US conducted direct strikes on Iranian missile sites near the Strait of Hormuz; clear military retaliation/attack.",
-      "event_key": "us bombs iranian missile sites strait of hormuz"
-    }
-  },
-  {
-    "title": "US ROCKS Iran's missile sites with 5,000 pound bunker buster bombs - Fox News",
-    "summary": "US ROCKS Iran's missile sites with 5,000 pound bunker buster bombs Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01djg1TnRiWDlUU2Rvb2tsZFdUWVJtNTVEeGZtZEh5VjB5WVh0eFhSaGV5cW1xaFJzY2RXbVZlTUh5a1lhUjdKencxaU9QVnVOVkJNT3pB?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-03-18T11:51:40+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 11:51:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2533651f14e8c6a2483ab51e958540e1071cee2b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Reports US conducted direct strikes on Iranian missile sites using 5,000-pound bunker-busters.",
-      "event_key": "us strikes iran missile sites"
-    }
-  },
-  {
-    "title": "Trump weighs Iran escalation, suggests ending US role in Hormuz - شفق نيوز",
-    "summary": "Trump weighs Iran escalation, suggests ending US role in Hormuz شفق نيوز",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlZWaTVYSFRqYXJrQXZQcWNud3pDNmFXNS1WWkZnNkFuSjgxQXk4dnNsUFExTmNOeWw1Qy1fdF9MVE5KTEkwcDFpaTA5VW9kLVloYmlGNUVYOUFWOW5pMDJWdURCRUVOOWhwSUNqbVdCUlhuRk85SC1lNFdOZXNYTnZjb05oVS10Y1BrZGh2RWlXMW9S?oc=5",
-    "source": "شفق نيوز",
-    "published_at": "2026-03-18T13:54:09+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 13:54:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d38fb9a33a65135c7366ed20f5133bd637f5fb1",
+    "title": "'The United States Must Be Held Accountable': Iran Rejects Cease-Fire Talks as War Rages On - Time Magazine",
+    "summary": "'The United States Must Be Held Accountable': Iran Rejects Cease-Fire Talks as War Rages On Time Magazine",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFB4M3UwYXFvb3RTYlVvaU5uRDk5a000clN6UDJBRkJUSWZ6djVSY2RMbEFqdzRiQXo2ZFZhSTJnNFdvamE2WXBocHNodVVmanhLQ1c5RlY0LUJ5WnBncUdINVNCV2VFcEdhVTN1Qi0xOUdkSVlWeUMxM0l6QkwxLWRNTHdZLUFxdWtoZjJyMHM5aDJ3TXJqVmdLZ2k?oc=5",
+    "source": "Time Magazine",
+    "published_at": "2026-03-18T17:36:55+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 17:36:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5e2065b800e3c898968db5c5072407187b60d83d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "US leader weighing escalation and proposing withdrawal from Hormuz role signals rising tensions and threats.",
-      "event_key": "trump weighs escalation end us role hormuz"
+      "strength": 0.85,
+      "reason": "Iran's rejection of cease-fire talks signals breakdown in diplomacy and heightened tensions with the US.",
+      "event_key": "iran rejects ceasefire talks"
     }
   },
   {
-    "title": "Ex-NATO commander issues alarming warning to America over Iran conflict - tyla.com",
-    "summary": "Ex-NATO commander issues alarming warning to America over Iran conflict tyla.com",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm1BLVJlSDU0d2JqRGhCSk9acW5yV0x5RHhXaUpIYnB4TXprN0U4aGptQUlZMzVhLVBRckxmcUZ6MnpFS3VEbHBXVFkzLWwweDdfbEFKcms4aHVENVpPeHV1UzY4NHRoaVBIeXBSMzFOcnZyM1MxVXVQUjNrZVI4XzZBNVhoUDVZZU42MV9WeVRvSEpCLWc?oc=5",
-    "source": "tyla.com",
-    "published_at": "2026-03-18T14:32:48+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 14:32:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4e3732b6f1787ab46d8018c87f2eb3d01aaf6802",
+    "title": "Will Gaza's ceasefire survive the US-Israeli war on Iran? - The New Arab",
+    "summary": "Will Gaza's ceasefire survive the US-Israeli war on Iran? The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3g4dkprZU5OdVY4by1qNjF4Z0JTR0N1TWREMGR3WDVJS3J6dUNXeDBGTHFpOFF4dkhsRm8tQi0waHdlQm94YmpiYjNwY2pSYURyVjVaNzN0a01IUlI0cG5qY25yRVJvUGgtbVVQR21tVS1Yd3EzQjFpdUlDNnNjYkk0UEJRNjht0gGOAUFVX3lxTE5YRjJRaVBQa3ktTXBJVWt6RktXWHkya3dDVlhXc0tLMlcwT2F6enY5SFBnbVR0MHlMUVNjandyd3RpWHZwVURnMTYzVDNGN2k3eE9PejFKckNQdGExdHBNclRNcDFYZUFNdmFiTXFqWkJSZnRZTG1BMVhIYlVnZFoyTThpNEFLX3dWdlRpNGc?oc=5",
+    "source": "The New Arab",
+    "published_at": "2026-03-18T18:44:39+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 18:44:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f744b015a0d5b309bc3993f301e234c594bee9b8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Former NATO commander issues an alarming warning to the US, signaling rising tensions and hostile rhetoric.",
-      "event_key": "ex nato commander warning to us over iran"
+      "reason": "Article argues Gaza ceasefire could be threatened by a wider US-Israel war on Iran, implying rising tensions and escalation.",
+      "event_key": "gaza ceasefire at risk us israel iran tensions"
+    }
+  },
+  {
+    "title": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here - Yahoo",
+    "summary": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYnhEWmtJX240ODJ4dmRlYWNtM1liTnc2TVg1emdyOTFkYzQ3ODRWVWRWRnBGM05wdmk1T2lmQmh1TExsTmxqUDlMbUptMW5NcHJZM0hGeC1TdVlJUE1tQWloRkh1Znk4eV9jWk05bGxla25wSXhXRjZ3cWpkZ1gxWWFYWXJ4NlkteG5pTGVhSW1JSFRZZW1KU0dWYXlETGtXbHFFeUxkT3R2RGVQX3EzSThyRFdUUkY1di10c3ZsUXRCSHdramk3MkZYTkl3TDgzcm5aeTBWNzNhR2dhUjJTdk9PQXpwVEZtbk1BbUw5LVJTbExDajNiNTlxT2JGUktCVU5iWDFmemo4UmYxSjdKZWVIUTRYeTJLRkNwaGpMQ0U?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-03-18T16:28:40+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 16:28:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fe97e74ee18c72f69c34089b9c363eaf4e34b109",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports describe strikes on an Iranian energy site and killing of a senior Tehran official—direct attack/retaliation events.",
+      "event_key": "strike on iran energy site and tehran official killed"
+    }
+  },
+  {
+    "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War - The New York Times",
+    "summary": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0RuNTZFcnFwb05tc0lkTjZtZVJuOUJnLTVWN2ZySFk3M2hwWEtYQTNCVFBlSGZHZlhsZ2p6UW4wUW00N183VXRyMVJQRmRvZ1NlS0RQbnBCZEpIeVlSaHlfQTBuWU1DaDE2NW83X0xXZVRQYWhQTnRXWHMwaW9uMk9kUTZsM2dDYUFFWFhnVVpUdzZhT2VrTXNqNkg?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-03-18T18:47:30+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 18:47:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "22ae1c1ef066cf144ddcde94504c4d91af93ca9f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.2,
+      "reason": "U.S. intelligence reported no expansion of Iran's missile capabilities before the war, implying limited escalation rather than active attacks.",
+      "event_key": "intel no change iran missiles"
+    }
+  },
+  {
+    "title": "U.S. strikes Iranian missile sites near Strait of Hormuz as tensions escalate, Trump defends action - 41NBC News",
+    "summary": "U.S. strikes Iranian missile sites near Strait of Hormuz as tensions escalate, Trump defends action 41NBC News",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXFTRTgwYzNnUEF6bFpma01FWG8zOF9EcnlPdk9uc2laaF9RYXhXUm1qN0RpS0YzSzEyUGFsRzlsamlpWjBNRVF2R2xQOGN2UHpTcGFHUTU5QUZ1dXhJcmc2bG92SW1HdGV6dlQyMUNXTTlqdFJLczNWWno3N3p2VUNhYnFDZ0s3ZUd1NWxibkZnMWhqX3U0RTFRSmtoVGd2aDhRS0Y3TmxJSVNpTjhuZEVDRWJpZWpoT0hkSw?oc=5",
+    "source": "41NBC News",
+    "published_at": "2026-03-18T16:49:41+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 16:49:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4c277330e368672c8aa70958a94e3285252d50d7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct U.S. military strikes on Iranian missile sites indicate immediate strike/retaliation.",
+      "event_key": "us strikes iran missile sites hormuz"
+    }
+  },
+  {
+    "title": "Despite FBI warnings, Iran likely can’t strike US homeland with military drones - The Times of Israel",
+    "summary": "Despite FBI warnings, Iran likely can’t strike US homeland with military drones The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmt2V0J4UUoteEpienhZWlFhYlpJazhLNmhfT3pjc1pZalo0YmNjek45dTNNRWhEQjZ3UFktd3dRX3huNjJKd1FuV3pOWFVXQlhKcklPdWZNUDBuU0xFVDVZeFVpVTE3Q09XMDlZcXVNczVjY2ZzLTdhZS1ZajBtaENkOGw1eHhCQ0JCRTFmOURnM3lWd1FsS1BfZlNGTG1TSzJKNlVlU3RuQVo50gGyAUFVX3lxTFA4QTE0Vm5XcHNmUVZWQ1ZGTkI2c0tJUHpmS2FIaV84ZVFYZ245UVAycUZPWVR6TU9CN0VMRlpYWWR5SUxJckJXdUowZ0hQNHlsX2dZcHZ6VXpJSVJReVlqTzU4dmxPbUFwNjFVaFNVZWgwN0ppMzBYakJxWG9ZYXkwbk5RNldQZWFwekwzOUZKUTA0bWE4VW1VZzBvU2t3bnpWajJPWXNjN244bl9jSTRjNFE?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-18T17:48:50+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 17:48:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3f93054e803bb083265fede5ec6bc04a9e376025",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Discusses FBI warnings and threat perceptions about Iran's drone capability, signaling rising tensions.",
+      "event_key": "iran drone threat assessment"
+    }
+  },
+  {
+    "title": "Iran’s president condemns US-Israeli attacks on energy infrastructure, warns of ‘uncontrollable consequences’ - Anadolu Ajansı",
+    "summary": "Iran’s president condemns US-Israeli attacks on energy infrastructure, warns of ‘uncontrollable consequences’ Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWU1HSmtFdlpaSy1QNENMZVBRcGtvS0hhNFZ4RF9lcWtqaC0wTUsxOEwwVkZsa2l1VVJ1WVV3dXlEUVBaaWNmZHM0TWhDa2h3OHA2UHNHRW44d0xBcFJGcXFZWFo1aTdwMENlUE9iTmgwZVNIbkF4azFYRVozYktaWlYtRG9vcnVuTXBrbWJrQXVBUWJHOHFzdjRkUXA3bDJ5MHdIdUx0Wld5ME80b2VXTlBFTHM0TlltWEhwMW9vdjNmdlBtWDJJWDMxZExGeEFzS2d6ZXozRS1SbmdXZ1pmdmVtZFlIcEE?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-03-18T19:08:55+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 19:08:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec9d71431455ede207c4b1b971859dd0fc9cddea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "President condemns attacks and warns of 'uncontrollable consequences' — escalatory rhetoric and threats.",
+      "event_key": "iran president warns after us israel energy attacks"
     }
   }
 ]
