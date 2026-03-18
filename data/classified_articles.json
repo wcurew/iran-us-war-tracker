@@ -1,36 +1,70 @@
 [
   {
-    "title": "Japan’s Leader Walks Tightrope in Washington Over Iran War Pressure - Modern Diplomacy",
-    "summary": "Japan’s Leader Walks Tightrope in Washington Over Iran War Pressure Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHpBaXA2RFpNV3dsWEdPWVE2bk9ZYnFaVE9INWZ0b01ZNXFtZW1xU2F2WVo4OWFFNzZqRjJ6aHdURTZvYm1KekgxaUhLSWd3c3RhUnhoN0M4MWZoTWtldjFpakNzVW40M0t3XzZuSy1VNzhzM3lRTG5aVEJ1QlozMmRiR0t2WW5ET2NnRkY5Vzl2aW9pOW9JaHB5c1F2bENTT2p6cVdTUFk?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-03-18T06:10:49+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 06:10:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ead6bbd57c47dd98323f62d2efe0d7a66a035377",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Covers Japan leader balancing diplomatic pressure in Washington, signaling restraint to avoid wider Iran-US conflict.",
-      "event_key": "japan pm washington balances iran pressure"
-    }
-  },
-  {
-    "title": "Iran war: What is happening on day 19 of US-Israel attacks? - Al Jazeera",
-    "summary": "Iran war: What is happening on day 19 of US-Israel attacks? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnpxUm1tT1UtVDVMRG5XUEJkSjJIX1o0d1pjR3g1QVFrVW9DRlk5eGp3NC16QnhxbnRtaGtWX2lJWUxmWWx0ZGhzVF9KRGRKaTNXY0F2aGZpSnFjbC1HdDNXWGVIUFFjQzE0NjMtNmFTVklKX3JUemYybXNEMG9iZEs4MTd0SllHOGtQb3RHdEFwWjVQMWFwSGFlQzFCYXPSAaQBQVVfeXFMTmNDU2JNaDl2N3VXcXBmZ1VrYVVXVjhkV1h4X0RESTlsaEo3ejZReWJ1OHlRdVY0dUE0bXFfSDE4em1vZkFNM3pZQlljbnRDc1lpMC1mT0dNZnY1Y2NBakdTNGUtSG5zRHlBNTVHdzlnd25DdTZZbllTTWxVTDJwcEFEZEhwOW9vT1ZUM0g2c1hhV2lENndBbVhhVUxES0xlWFZQa2I?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-18T07:25:23+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 07:25:23 GMT",
+    "title": "Iran: Israel hits Beirut as US strikes Hormuz missile sites - dw.com",
+    "summary": "Iran: Israel hits Beirut as US strikes Hormuz missile sites dw.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0RpUjBMSlBYT0VxaFhDbVVRS2lpVmdMNHRkVUpfTERiN0Vna3ZxTFE3S1p6UW5hZkFmTU5VMEt3TUVlNy1XczVjSFc0ZFg2ZW12UjUycVIxZ3RkQndnYjJRd3Z4ZGtfeHN5akprRDg3Vy1sYWlxNE8ySmxkSHlHcDQzaUhlYW1GamtrR1lNYW9lVE1Jc2QwN2Nn?oc=5",
+    "source": "dw.com",
+    "published_at": "2026-03-18T10:38:17+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 10:38:17 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5627e20692ae82569cff2861e32269e7cd481879",
+    "article_id": "237db792644ff87d4687ee88a053e2bed6a12e75",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Coverage of ongoing US-Israel military attacks (day 19) indicating direct strikes and hostilities.",
-      "event_key": "us israel attacks day19"
+      "reason": "Reports of US strikes on Hormuz missile sites and Israeli strike on Beirut—direct military attacks/retaliation.",
+      "event_key": "us strikes hormuz missile sites"
+    }
+  },
+  {
+    "title": "US military strikes Iranian missile sites near Strait of Hormuz with bunker-buster bombs - Le Monde.fr",
+    "summary": "US military strikes Iranian missile sites near Strait of Hormuz with bunker-buster bombs Le Monde.fr",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM1hXdzJZYTZRVEdUaVVwUzdDRkRGT3VJTWdjZjFfbnRwNTJiYXI3TG9FLS1Mdi1vbVpzby1acm5Rd0Rodi1naUEzR2J3QktmNTFDNkVsMGhIVlNFRGNoZ3JhMmpfb3YyTVZLVW9Mc1FXMmMxZEN4Rlg3VlJQS0VNenA0QkRoMkY0RFMyOEs1NFgxTjZld2V2RzkzcnQ0eG9RU0ROa0gwcDRDbGsxNnI3aFlUdzh0YVVHZDE2dWRsQTRDOEpsTk9pYjJWY3BGS2hELWtKOG11aHJSMFNndmhBaUtzM3pOT01VdTYwMHdEQnpnZw?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-03-18T10:04:34+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 10:04:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9f7f249cbd3a80401c7489d8978a825230e0d8c5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iranian missile sites near the Strait of Hormuz.",
+      "event_key": "us strikes iran missile sites hormuz"
+    }
+  },
+  {
+    "title": "Top US intelligence officials set to testify about Iran war, threats confronting the homeland - WCTV",
+    "summary": "Top US intelligence officials set to testify about Iran war, threats confronting the homeland WCTV",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT3VWZzZ5TUlRTEtpeUgyTVlXYW9MYXUyMWRtVlA2cktUdERxcUYzdVZhQ0NES0RwYmhRNHB0YmlDejJLWFBqZEI3SVh2OFFaM1lUc2Y3TmFiRjBuOTlyODUyRkdJYjZHRjJGYXVfRVVhZm1qVkZEM3FQOXU0UkphYmFVVjkxNXFIWG9WMjNwN0d1UkNJTHhxa0Q5RE5GSm1uRE1fc3lRQTgzeUNLRXh0THFNRFdHeWw50gHMAUFVX3lxTE5xX1M3dmt3dmk2d3BTQWY1RXlnbUJiclZHUjBXZXFHUlBlX19ocUM2S0VkbE1DeE96ZnFBQl9JTnYyOXpTX3NoLXdXcXJNOGZEVENQS21rVGIwZkZHamZqWHU2aU5iWUxEZkhJbWtheEQ1UG8tTFBILVk1VWFJVGc5djJhRF9uUldYY0pSYzFjdm03NktvdnRpcWpMY2lxNjFsaG5ReWNFVnUzSWtYSmJEQzNHWF9zdUVtY3NGeUpQaUpOaG1lTDJSYjVGWQ?oc=5",
+    "source": "WCTV",
+    "published_at": "2026-03-18T11:03:00+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 11:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "92edbe2e77b6da3b47e6bb6d991788e4480605da",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Officials testifying on Iran war and homeland threats signals heightened tensions and warnings.",
+      "event_key": "us intel testimony iran threats"
+    }
+  },
+  {
+    "title": "Two killed in Tel Aviv as US targets Iran’s missile sites along Strait of Hormuz - Yahoo News New Zealand",
+    "summary": "Two killed in Tel Aviv as US targets Iran’s missile sites along Strait of Hormuz Yahoo News New Zealand",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90ckp0T09RSEJhN21oNE1pV2FiOVZFZlFGcE9zMVc0TTZhMWRkSWJZWE8yQlBENmFHbU9EOHR2X1hCYXpaaEtubkVyT0tmQjhUNXN3d2FwRFFMX1Eza3pjRWVGRU5XeTZyYWd6UlZta1g?oc=5",
+    "source": "Yahoo News New Zealand",
+    "published_at": "2026-03-18T10:17:20+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 10:17:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f1c42119512ca932dea489d193666304fb7b2e71",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US targeted Iran missile sites along the Strait of Hormuz—direct military strike/retaliation.",
+      "event_key": "us strikes iran missile sites strait of hormuz"
     }
   }
 ]
