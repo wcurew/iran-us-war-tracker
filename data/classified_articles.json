@@ -1,155 +1,36 @@
 [
   {
-    "title": "Iran denies rumors of contact with the US - Peoples Dispatch",
-    "summary": "Iran denies rumors of contact with the US Peoples Dispatch",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUExvQ0sxUjZDSHc3cVFZOXZ4S1NKcG50X05aeXh0TXNISFBaYmpNTUQ3SkpERldXUXEwWWRjdFFZcDJtdmhsUnBMeDUyM2xHT0Vrb3IxRkVqUWNlakpEUkFFRWx2ZUFseE11TlpoakdSRDNfRXQzczNES1Vnel82Z2UxRzg3ZHc2?oc=5",
-    "source": "Peoples Dispatch",
-    "published_at": "2026-03-18T04:31:42+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 04:31:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "79cec73f1451aacfdfd1f4a9a1361809830f3941",
+    "title": "Japan’s Leader Walks Tightrope in Washington Over Iran War Pressure - Modern Diplomacy",
+    "summary": "Japan’s Leader Walks Tightrope in Washington Over Iran War Pressure Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHpBaXA2RFpNV3dsWEdPWVE2bk9ZYnFaVE9INWZ0b01ZNXFtZW1xU2F2WVo4OWFFNzZqRjJ6aHdURTZvYm1KekgxaUhLSWd3c3RhUnhoN0M4MWZoTWtldjFpakNzVW40M0t3XzZuSy1VNzhzM3lRTG5aVEJ1QlozMmRiR0t2WW5ET2NnRkY5Vzl2aW9pOW9JaHB5c1F2bENTT2p6cVdTUFk?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-03-18T06:10:49+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 06:10:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ead6bbd57c47dd98323f62d2efe0d7a66a035377",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.2,
-      "reason": "Iran's public denial of contact implies rejection of diplomatic engagement, indicating a setback in diplomacy.",
-      "event_key": "iran denies contact with us"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Covers Japan leader balancing diplomatic pressure in Washington, signaling restraint to avoid wider Iran-US conflict.",
+      "event_key": "japan pm washington balances iran pressure"
     }
   },
   {
-    "title": "Iran launches retaliatory strikes on Israel and U.S. assets after security chief Larijani is killed - CNBC",
-    "summary": "Iran launches retaliatory strikes on Israel and U.S. assets after security chief Larijani is killed CNBC",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWlyMnMybjlySDRjbmtDcXRkRUQyY3hVOEVLdWg4cnFCTTRsOURzTGk0ZGpHQjV5QVVnMkU0N1RGOUJTbDVnVEhqdmpRSDJFQTQtWk1rZ3pEQ2Z3T2M3Nk5ZaU5KZzBodGEyRTVkNVBfZ1hVaWdFX1VUWGVRVzFoS3RJOG1mVVBVckpRZ2xVZDB1d9IBlwFBVV95cUxPMFByX2ZqQ2lKeUo5dkFRQnRrUHBzdGkxVWVLcXJyYXd4Z3FQTW9weDZ5RUxWcnUwNnB4UksxeUxWRnFwVlhWTDZtZ2ZJTjlMRzYzRFIxdVFlR3I5bV9RbVp5U1NkWGVYMURNOHB1d1dFajFQdm41YmNUR2FLWVl6aUptdjdzNU1ka29HNEF5TlhqYVBhdGtN?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-03-18T02:51:00+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 02:51:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ac591c040289b7ebc9340ead5eb4fe9c665d08d2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Iran conducted direct retaliatory strikes on Israeli and U.S. assets after Larijani's killing.",
-      "event_key": "iran retaliatory strikes on israel and us assets"
-    }
-  },
-  {
-    "title": "Israel says it killed Iran’s top security official, along with paramilitary boss - The Washington Post",
-    "summary": "Israel says it killed Iran’s top security official, along with paramilitary boss The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1pRdml5eWZ6ZnFSQjM2N2N3QkI4OThKcHpRaGtRMkNQRi1OcDVMeTRqMjh0U3M5Nk5pUHBfSXE2RGl3cEl4STFyczdpX0pMTE9yaVpUdzJ3MjJQV1RYMEZaNmY3UGl4UTVick4yMnIzUkFuYW1QSlBicVdNd1lxRGZmMWlxSlU?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-03-18T04:53:38+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 04:53:38 GMT",
+    "title": "Iran war: What is happening on day 19 of US-Israel attacks? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 19 of US-Israel attacks? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnpxUm1tT1UtVDVMRG5XUEJkSjJIX1o0d1pjR3g1QVFrVW9DRlk5eGp3NC16QnhxbnRtaGtWX2lJWUxmWWx0ZGhzVF9KRGRKaTNXY0F2aGZpSnFjbC1HdDNXWGVIUFFjQzE0NjMtNmFTVklKX3JUemYybXNEMG9iZEs4MTd0SllHOGtQb3RHdEFwWjVQMWFwSGFlQzFCYXPSAaQBQVVfeXFMTmNDU2JNaDl2N3VXcXBmZ1VrYVVXVjhkV1h4X0RESTlsaEo3ejZReWJ1OHlRdVY0dUE0bXFfSDE4em1vZkFNM3pZQlljbnRDc1lpMC1mT0dNZnY1Y2NBakdTNGUtSG5zRHlBNTVHdzlnd25DdTZZbllTTWxVTDJwcEFEZEhwOW9vT1ZUM0g2c1hhV2lENndBbVhhVUxES0xlWFZQa2I?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-18T07:25:23+00:00",
+    "raw_pub_date": "Wed, 18 Mar 2026 07:25:23 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6aef882d9822d8447a7788a1366e6db8ebceec75",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Report describes a direct lethal strike killing Iran's top security official and a paramilitary boss.",
-      "event_key": "israel kills iran top security official paramilitary boss"
-    }
-  },
-  {
-    "title": "U.S. Hits Iran's Antiship Missile Sites in the Strait of Hormuz - The Maritime Executive",
-    "summary": "U.S. Hits Iran's Antiship Missile Sites in the Strait of Hormuz The Maritime Executive",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHdrQ0lUckFxbjFDRGt1Tnd3LS05UFlLRFZIZHQ1ay14Ri1kcG50ZWhzcnVQSmZBeFdURGQ4blBmVVpuaklBOGQ0T3NkRUtHUmtxVGlwcmhZbkUwLW5DYWFDWWVjaW93d3JpN1JmNlh3M1pHbXpXNVBjSEVvdjc4Y1VuczFCbm1LZHc2Z0JkVWp5VFpQUDBBM0FLWnBKZmpEV2ww?oc=5",
-    "source": "The Maritime Executive",
-    "published_at": "2026-03-18T01:12:16+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 01:12:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "90ddfad1de1ae333ded217d79fe165e357ce7ece",
+    "article_id": "5627e20692ae82569cff2861e32269e7cd481879",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "U.S. conducted direct strikes on Iranian antiship missile sites in the Strait of Hormuz.",
-      "event_key": "us strikes iran antiship missile sites strait of hormuz"
-    }
-  },
-  {
-    "title": "US Military Issues Update on Iranian Missile Sites Near Strait of Hormuz - Newsweek",
-    "summary": "US Military Issues Update on Iranian Missile Sites Near Strait of Hormuz Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenZ5a2R2Z0pia2ZkaWwzVWlSSTY3ZE0zektKSFVBR0lwRmppc2luWXd1VTZCZTlEWlRKNktVdVdzNGJmODV6U1k0a3Z3dWlmVVVCY2tSVnc5THJTZHA5dXhXR1VwbDNfbFZMdVVQRzJpS3pSM1pvMFhoVGw4OEdiRUdzSjhhUmpjcGVoMTBYSVlGNUU0X3NZMGgyREdRcmVLNklMWlI2X010dw?oc=5",
-    "source": "Newsweek",
-    "published_at": "2026-03-18T01:13:00+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 01:13:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "99189db5408a2505cde6fb5532c17fc9f131c8f7",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.35,
-      "reason": "Military update about Iranian missile sites near a strategic chokepoint implies rising tensions and potential threat posture.",
-      "event_key": "iran missile sites update"
-    }
-  },
-  {
-    "title": "U.S. Strikes Iranian Missile Bases at Hormuz with Bunker Busters - 조선일보",
-    "summary": "U.S. Strikes Iranian Missile Bases at Hormuz with Bunker Busters 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTl83Q3MxM1hfeUc5VmlFWjB4VWdQTm03OURaU2M2S01mUUY0WENrelY2Rm1qMW56U0FJZUcxNWZsT3g4cmYwZGNTcFA4dW9YZFl3NWstb0tjcWtMYzRHZmdsTHFwRTl6M2c2bTV1M3UyUExraHFod0tmdHIyTWgzSkM2ZWE?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-03-18T04:41:15+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 04:41:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "beb2f8f27f80d9e703597376bfedde4d787f37a6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct U.S. military strike on Iranian missile bases using bunker-busting munitions.",
-      "event_key": "us strikes iran hormuz bunker busters"
-    }
-  },
-  {
-    "title": "US military says hit Iran missile sites near Strait of Hormuz with '5,000-pound bunker buster' bombs - The Economic Times",
-    "summary": "US military says hit Iran missile sites near Strait of Hormuz with '5,000-pound bunker buster' bombs The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0hEMDhtOTZva3BLX2YwQzlEczdFQXlVRTBNcVpKVTlhWmozSG1wellsQjcwS2Jvb291ZnpuRVFBVk9zVDVWWDJfeFFBRk0zdHdKOVFxNU1zVFVFR1N3Y3JnVlE5OUVZNHdSUmdWMTFaOGE1MHJVdkk4bVMxd1Y0NVZnU20ydVlneE5XWV9Xa1VqSzJONFNFek5KaDFLUjhlUnJGWVhJZENTQ21SdUdDMnZwOEQxZkwxNzNtc0Zqcmxjc1FWb1pXTUhNczdNOVhKMmxIZzJFcHhVbGJKdERhWTltRnFkWjhUYkl2Z3lDM0VBWTFpMHE00gH8AUFVX3lxTFBSeFViY0NyWlR5MVU3MFhpajdvbWNFQTBHaFdzOUhhQ0NrN1FmX1EzS0g4NzhNMlBZa0hBdWRHVUhkWFNCcS1DWWMwS0xDMTJxR0h0TlVLaTJxRUNCUW1TMmdZSTRiclJaMnU0c3Zsa3A1TUU4NmNXSUlUNkdLVGswUWR1a1lhVFpmWl9qdEFhZlJoMXg3YUp1V25IY1ZfRGU3bF9Ga3lBV2VEMVNRXzR0bVFpbGJ5M1diZGtKejlhTVNFemlXSEp5bFV5aGJvSUhMWUlvVVJwZk8zRTBuR0g0Ujl0dGJvTGo0VzlVNlQ3eXVCbDFEMjVZUlJJeQ?oc=5",
-    "source": "The Economic Times",
-    "published_at": "2026-03-18T00:55:52+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 00:55:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "71804b5c8d5c70f4874664bd4198d70d40d2e319",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted direct strikes on Iranian missile sites near the Strait of Hormuz.",
-      "event_key": "us strikes iran missile sites hormuz"
-    }
-  },
-  {
-    "title": "US forces bomb Iranian missile sites near Strait of Hormuz - China Daily",
-    "summary": "US forces bomb Iranian missile sites near Strait of Hormuz China Daily",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTGRET1h5VjF3S3lNMl9pSm9tVWg4R2I3S3NJNlJqM0x3UmtBMzdCMGU0VUFERmVxdmJNV0JCdlB0QnZZa3pES2ZYbWw2d0Z4cXhnVnhIR25xNnVRenE0dzF4YTlKMmZZMS1jeVAzTjc0V3dpZnpiTTI4WjlJUnBacmRn?oc=5",
-    "source": "China Daily",
-    "published_at": "2026-03-18T02:09:52+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 02:09:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b58c4b8a1e2dfe98e4596d30690dcbbb752f8f59",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted strikes on Iranian missile sites near the Strait of Hormuz.",
-      "event_key": "us strikes iran missile sites strait of hormuz"
-    }
-  },
-  {
-    "title": "Araghchi: US responsible for regional escalation, Iran defending itself - Middle East Eye",
-    "summary": "Araghchi: US responsible for regional escalation, Iran defending itself Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDBSM3hMTXBzczhBN0dNN04ta3d4ZFR0aVVjUFFONzhSS3pOVGw0ZHhjVVZHVS15Z3l3dW9iUkEybVI1NXR5b0NUaG9NNGtVTlJYVjJfeG5vdW15YkZFNUVZb0QwMEIyWDFjZHp4b29tVnBaeFh1bXhHdkJqdGhmc3dIWFlmQWtVcTVWU1hFZkVYT1B3RnprMmFuNTlmOW5JemIyYUV0YkNORVlFUlpJQ0E5UThQcXdFZTRQc1dXZw?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-03-18T01:50:00+00:00",
-    "raw_pub_date": "Wed, 18 Mar 2026 01:50:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "acfc24b8fdf04fe3e374a6d86c2189e153ee16ec",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian official blames the US for regional escalation and frames Iran as defending itself — hostile rhetoric raising tensions.",
-      "event_key": "iran official blames us for regional escalation"
+      "reason": "Coverage of ongoing US-Israel military attacks (day 19) indicating direct strikes and hostilities.",
+      "event_key": "us israel attacks day19"
     }
   }
 ]
