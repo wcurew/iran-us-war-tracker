@@ -1,104 +1,87 @@
 [
   {
-    "title": "Africa to Host BRICS Military Training, with Iran Involved – What is the US Response? - Modern Diplomacy",
-    "summary": "Africa to Host BRICS Military Training, with Iran Involved – What is the US Response? Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHVqZkN6ZGt2R1kxYmxHaGRIUFZMZ2Y3OXZYNktTald0MVRQYThYUDN3RGRZREMxOTR2UkRoVHppdVVWc0JXMU1TTUEwbjN5bm51UEdpVWlNd0JhOUhMYmhVcXVmR09ycGFNWE5zNUVvT3FIaEFYbDBTeU9nbFItcHB2MTRiZmlubWZ2UWxKclNSdVd0aWh5TWJYSmJOVndIY05ZVXAwQUJ0ZmxQamktWjNfSUl1RmlhNXBUdA?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-03-19T11:40:12+00:00",
-    "raw_pub_date": "Thu, 19 Mar 2026 11:40:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2e02ee4ce76786a4ee9cdc747c608dd6036c9b35",
+    "title": "UK Adviser Saw Iran Nuclear Deal Within Reach Before US-Israel Strikes - GV Wire",
+    "summary": "UK Adviser Saw Iran Nuclear Deal Within Reach Before US-Israel Strikes GV Wire",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRV8wUTNtbnhYTmRoUFF1UXN4Yi1Jb21KU1NvclRENkVjbk5TZDNLRmpxdGc1X0FNZ0pYejF4aE9JNEhDN1ZNOGN6Z2c5R0pRZHBYZ1J2OGhxVlUxWVhqSlh3Ykt5dFl6T1dEVE9sR19ZQXFtWjl0MmgzUW1GUVlrUlRXLThaTmdwQTdSVEJGVnhfWmF5OXZSckJTZGlMRE55czdN?oc=5",
+    "source": "GV Wire",
+    "published_at": "2026-03-19T16:06:19+00:00",
+    "raw_pub_date": "Thu, 19 Mar 2026 16:06:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "71dce6a1cba52e3bf19e581b39f42e69cebf570a",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.25,
-      "reason": "General geopolitics about BRICS-Africa military training with Iran; not a direct Iran–US diplomatic or military development.",
-      "event_key": "brics africa military training iran us response"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "UK adviser reported nuclear deal was close, indicating active diplomacy before US-Israel strikes.",
+      "event_key": "uk adviser nuclear deal within reach before us israel strikes"
     }
   },
   {
-    "title": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks - BBC",
-    "summary": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMMHE3NTFMZ0EzT3hseE5fZk0xQkl6c20xaFdlMHF0MTlmU0tnUXphbXdNOW9fUjMtOFFFTWNqU29Vak5icUFrWEJkcjBwU2l1bWQ5YU1nV2YwUQ?oc=5",
-    "source": "BBC",
-    "published_at": "2026-03-19T14:07:28+00:00",
-    "raw_pub_date": "Thu, 19 Mar 2026 14:07:28 GMT",
+    "title": "Israel Defies U.S., Attacks Iran's Energy Sites - 조선일보",
+    "summary": "Israel Defies U.S., Attacks Iran's Energy Sites 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQanZNbVhEQkc2d2pLR0JENjhDUk90TTZNRkE2ZkVUazVLc0tBeUJMR2xINjFOdHhJMVJkTkVHTUUtVDllLVFwYUdHMEhxaDVmQjM3SHlrSG41a1I4OVNXY2dQd2FXTThkZHFEbVd3Z3N4YkY0cUlBQkhodm9kSTdfSXljbUw?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-03-19T16:00:14+00:00",
+    "raw_pub_date": "Thu, 19 Mar 2026 16:00:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5e0c61903265731210b200f6d049388c87213ad2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Israeli attack on Iranian energy sites — a direct military strike, defying U.S. objections.",
+      "event_key": "israel attacks iran energy sites"
+    }
+  },
+  {
+    "title": "U.S. officials face growing concern about Iran war escalating amid energy facility attacks - Los Angeles Times",
+    "summary": "U.S. officials face growing concern about Iran war escalating amid energy facility attacks Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWhWdkdZZVdFUjdHcHR5MEdicXRmQ2h5ZzZQci12N1FZQmYxUzg5YmczUDJPeDhDTVlYaElJRTExNU1NWlBSN1FBdFJLakRGMjl4ZVc1MUtlcUV5YmRiUVFTdTU2NURaMGRzQmNQMFBPZHh1RXhHZndjTFdhRG1SenFfLWpKa3pWS2RUdHVXOHJINHVmc2tDcDVMMDc4X1V4M2dRU2tvZGt6RHhmM3FZN3J0eTBBV0pxRnZnMUVvUTRZYmtzb1hOOHR6SzlkWi16cXJ4YlQ1ejkxNFFKYWRv?oc=5",
+    "source": "Los Angeles Times",
+    "published_at": "2026-03-19T16:51:00+00:00",
+    "raw_pub_date": "Thu, 19 Mar 2026 16:51:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c28d32f24212a4b68d01dadea51df09885a08536",
+    "article_id": "e895d89a45692987d3af14096b3237afa59ef979",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Officials warn of rising tensions and risk of war after attacks on energy facilities.",
+      "event_key": "energy facility attacks escalation"
+    }
+  },
+  {
+    "title": "Operational gains against Iran continue, but threats to US forces persist - Foundation for Defense of Democracies",
+    "summary": "Operational gains against Iran continue, but threats to US forces persist Foundation for Defense of Democracies",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkQzeUVNTWdPZFlmUmN2c2pzTk1jdFYzT3VlQ2kyYXQzUFBSUHJaOUU2TFZZd2tSY1llVWxWZkRSZDVXc09DRHVlOXI4VHFNWEJtSVNQaDBOSTdxN1oxTGItZjNZbHpGVWZiekVOR0d5TUR6X2lpODJXMkdHQWdSb2Z1bHBCZVFVc3E3NXdPNllKbDRxN0t4dDVVRDRaNUVmeDVSWGpQMzV1aTNYTzhNYlA0SQ?oc=5",
+    "source": "Foundation for Defense of Democracies",
+    "published_at": "2026-03-19T14:45:36+00:00",
+    "raw_pub_date": "Thu, 19 Mar 2026 14:45:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3032895a517410c248423ad5ae295c884dadf41f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Analyzes rhetoric and US-Israel alignment after gas field attacks, indicating rising tensions and potential escalation.",
-      "event_key": "us israel alignment after gas field attacks"
+      "reason": "Describes ongoing operations against Iran and persistent threats to US forces, indicating rising tensions and conflict escalation.",
+      "event_key": "operational gains against iran threats to us forces"
     }
   },
   {
-    "title": "Congress can boost US trade and strike a blow to Iran with Azerbaijan’s help - The Hill",
-    "summary": "Congress can boost US trade and strike a blow to Iran with Azerbaijan’s help The Hill",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNW8tSG9xUFhnX1c5YXpkcDNGd0lzd2cxc1gxMGlRZkY5WUF2MXlvNEd1QU82NXFEdHNvc3lLbThHSG9PQ0pjR2dxeEN6VmZVbFR4eGdiSDJCR0VDaUxoZVhqOXg5cXFqeDgya1pNSDNnV25kdEx1LUM2VWN2c2htUnVaSE9DVjNHQ3lrYXYyX2bSAZYBQVVfeXFMUGhSdWtDSFZsd0p3RmJvb25qb1Y2bndtY2F6LXNnTkNZZjdId0prNG9mYjRSWWRtX1JnWkl0ak1sTkxVNEp1c3lVNng5OFdWNDdQanRvLWRNRjZ5c0trQ3NOZlFqUFlHSFFnRE5SVmlQSmJ4YUNjam54S2VuMGJjV0UwZDY5akJqSVMzN3E5OEZoRXJrTjBB?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-03-19T13:27:28+00:00",
-    "raw_pub_date": "Thu, 19 Mar 2026 13:27:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "452563c72b3d2b3644b6317a7c5eb0be4a5b1794",
+    "title": "Despite Trump remarks, Israeli officials say U.S. knew of strike on Iran gas field - The Detroit News",
+    "summary": "Despite Trump remarks, Israeli officials say U.S. knew of strike on Iran gas field The Detroit News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDdQRzRjV1lvaGc1aHVKVlc1MTJIcVdkSGJHWHVjSUhUd1NmM05ORkJ2TDcyb3VZUUFZZG9NS2kwcGtnRlVwS212OC1XTFZKWW9UbmVxNFlvQUR2NjlmTFI4aHdORmp6dGNkLXNVTkhlT1llWkNHTVVSVFA0ZENLVHpWNmkzblFZWXFZMXNZQV80N2FTTjNFSU1CWHR5SG9MWXc?oc=5",
+    "source": "The Detroit News",
+    "published_at": "2026-03-19T15:20:53+00:00",
+    "raw_pub_date": "Thu, 19 Mar 2026 15:20:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "88f968b8611f3edc73212eb2daec2cf20cbc0ced",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.3,
-      "reason": "Opinion on US-Azerbaijan trade strategy, not reporting direct Iran–US diplomatic or military developments.",
-      "event_key": "us azerbaijan trade opinion"
-    }
-  },
-  {
-    "title": "Analysis: Operational gains against Iran continue, but threats to US forces persist - Long War Journal",
-    "summary": "Analysis: Operational gains against Iran continue, but threats to US forces persist Long War Journal",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0dxYnI1bzd3b1hORThhTEl6QU85dWJ0VUYxNXp4WXpkN1NrNFFwc3BzemI1dmUwdHN6YTdVS2dHUjJVZzVNRThGMkJONTdQc1RXcHhxTy12R2M0NHIzWVRKaFVjQks5YlI5cEk5MmFTZU1aZnQ4M1JUeUJzX2tCMHQ4eFZpQ3FJZklDODdYRFpJU0hOeEk1amRoU2FXQVpSSmptNThFallJOVIzcVdNQ3JtUTlEdmR0UEsxWXNnWjZQanplQXZMQkwxWUViZw?oc=5",
-    "source": "Long War Journal",
-    "published_at": "2026-03-19T13:38:10+00:00",
-    "raw_pub_date": "Thu, 19 Mar 2026 13:38:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eb451790bce9841b98ef9c6efe5c0747a0b1168f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Describes ongoing operations against Iran and continuing threats to US forces, indicating rising tensions and hostility.",
-      "event_key": "operational gains and persistent threats"
-    }
-  },
-  {
-    "title": "Report to Congress on U.S. Munitions and Missile Defense Amid Iran Conflict - USNI News",
-    "summary": "Report to Congress on U.S. Munitions and Missile Defense Amid Iran Conflict USNI News",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3RncWZ5T25DenFBZThmdWhFUkNEdEdoNVN0OWdSMXpaeVFZZi1oNmhRcnpFUVJmQUpsZXBwOXI3OEdjRW83ZWpZVTdrd0hTczRmOVRsX3o2M0hKSGZSQzNhb3Jucmc4Z1pfcGUtbVFDb2VlRjZLemF4OWtHUHhKNmo3MFVZamNjYzhJczMxREVQdzBhSW0wNUVCRFFqOGRKM1RqSnZIeWE0MkE?oc=5",
-    "source": "USNI News",
-    "published_at": "2026-03-19T14:21:00+00:00",
-    "raw_pub_date": "Thu, 19 Mar 2026 14:21:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "707b1479ad34be94d6629da6356876d05ca07471",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Government report on munitions and missile defense signals heightened military preparedness amid Iran tensions.",
-      "event_key": "us munitions missile defense report"
-    }
-  },
-  {
-    "title": "Hegseth confirms he wants $200B to restock America's bombs, missiles post-Iran war: 'It takes money to kill bad guys' - New York Post",
-    "summary": "Hegseth confirms he wants $200B to restock America's bombs, missiles post-Iran war: 'It takes money to kill bad guys' New York Post",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN3prS3ZHczFWbVRPSEpWOWt5aG5lLXg3TFdTZjVGcXlxMHNhNWY0SDlpMGVEd09kQkRpdlZMUmVYb04yaG9sbmFBMVM2aExDazdIdjA1bzhMcDlWN1dNQVhNTl9RWkVuTHZrM2pJeWhzcWxtX3hsdkg3ZHNvdEFiNVlfSmpvMFZ1bmRJTHQtdk10NGNqb01GVUN2aXVZRmNaX3NyQ0M5c2dWMDZaS3hIM0tNb0pLc21KMU9XeEZvcw?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-03-19T14:23:24+00:00",
-    "raw_pub_date": "Thu, 19 Mar 2026 14:23:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "62a0485211f7ca946b42bd7400aef2e23826e2ee",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Public call to massively restock weapons and prepare for war increases tensions and militarized posture.",
-      "event_key": "hegseth calls for 200bn restock after iran war"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports that a strike hit an Iranian gas field, with US awareness per Israeli officials.",
+      "event_key": "israel strike iran gas field us informed"
     }
   }
 ]
