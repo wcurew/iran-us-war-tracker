@@ -1,19 +1,36 @@
 [
   {
-    "title": "Iran war: What is happening on day 21 of US-Israel attacks? - Al Jazeera",
-    "summary": "Iran war: What is happening on day 21 of US-Israel attacks? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVplSVdjTm4tbWcwdXNSODJvWXktek1xU1l1Q2tKUjA2TFhQcHRyMXA3OExpT0JtUmZzcjNXVHVtRGpvTGsyVVF0di1YS21qSFZuVTEzcGFLamlaaGNKaDBKamgyUVpFbGEyNzJRcEc5eFhzdDlJR2dRYUFRUFprOFRlTnRJOU8xZVNjTlVNMkpxdFhmeVlBSzNBMWJsWjTSAaQBQVVfeXFMTVloSGdjakNGam1xRmdsMmNwWkZqbzlkQnVUM3gyQjZsYWNOMXNualZBYjdOM0tIRi1DMTdLYXVqQnE3cjluU2lWdTVVNHYtNnlZbFNSNVF5azVJY2V2UXhIX3BLUGtoVU9MWFZpVXhUanJIUVk4ZmVuOWdjb0F2S2hHQzh3LUR5ejZ6N0N5RWdMRzRoV1dZUnZPd1pqaXY3YU1mM2E?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-20T07:33:06+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 07:33:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e6bca8df5b5ab4b172aa1120391fef31867bd099",
+    "title": "Dennis Jett: Donald Trump’s anti-diplomacy failed in Iran and fails America - Pittsburgh Post-Gazette",
+    "summary": "Dennis Jett: Donald Trump’s anti-diplomacy failed in Iran and fails America Pittsburgh Post-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFVZSFJrVGZtbi1tVmRfaW1KbFE0M0JXT0IyUmJqVHF6ZnRCaElQS1FsNFhodEpFNHFITW4weGRNNW8xeEF2ZDFTd1NfU3UzWG9KXzdwck5OelNsNEgtVHhXRGNldjY1Y2U5S3JyRlpJamNnRE0tUEJhZUZDYkctQlhBSU90QlBtWVRzeG8yMEFRNERDRnhuU19qbWFvNEY3U29iTm1ZOW9YWmh4Nm5Vb1oyRzZBaXlMbFZSZVRRVHVRZ1NERDQtQlJmSmlRNE1JSElZM193ZGlVQQ?oc=5",
+    "source": "Pittsburgh Post-Gazette",
+    "published_at": "2026-03-20T08:30:00+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 08:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "129830089133a6bf6fa88cc22a03c55d0c7729b8",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reporting ongoing US-Israel military attacks on Iran (day 21).",
-      "event_key": "us israel attacks day21"
+      "label": "negotiation",
+      "strength": 0.2,
+      "reason": "Opinion piece about failure of Trump's diplomacy toward Iran, focused on diplomatic/policy issues rather than attacks.",
+      "event_key": "trump anti diplomacy failure oped"
+    }
+  },
+  {
+    "title": "Iran warns UK allowing US to use military bases could be considered ‘aggression’ - The Independent",
+    "summary": "Iran warns UK allowing US to use military bases could be considered ‘aggression’ The Independent",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTThZZ2FVV29YXzVCLUNESmF6N0E1SHlzWVZIbk9sQ3B2Uy0yTGVOWXJJTDlzZ21ZbmNwQW51eGJrekJPM2tHYTd6d0N6NWJtZGkxSDVCS0d5YUlGQ2ZLVGZMVzRjUTM0Mk1Ed0lCSkdSeUdVbWVlYXczREpMd2tNUHJGWUFZQU5BcElWNDcxSzNaY1NfSnVn?oc=5",
+    "source": "The Independent",
+    "published_at": "2026-03-20T10:31:00+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 10:31:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "df7c607bec6edfaf0a977c4738bb04bb8f724128",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran issues warning that UK allowing US base use could be 'aggression' — hostile rhetoric raising tensions.",
+      "event_key": "iran warns uk against us base use"
     }
   }
 ]
