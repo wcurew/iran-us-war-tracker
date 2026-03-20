@@ -1,36 +1,70 @@
 [
   {
-    "title": "Dennis Jett: Donald Trump’s anti-diplomacy failed in Iran and fails America - Pittsburgh Post-Gazette",
-    "summary": "Dennis Jett: Donald Trump’s anti-diplomacy failed in Iran and fails America Pittsburgh Post-Gazette",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFVZSFJrVGZtbi1tVmRfaW1KbFE0M0JXT0IyUmJqVHF6ZnRCaElQS1FsNFhodEpFNHFITW4weGRNNW8xeEF2ZDFTd1NfU3UzWG9KXzdwck5OelNsNEgtVHhXRGNldjY1Y2U5S3JyRlpJamNnRE0tUEJhZUZDYkctQlhBSU90QlBtWVRzeG8yMEFRNERDRnhuU19qbWFvNEY3U29iTm1ZOW9YWmh4Nm5Vb1oyRzZBaXlMbFZSZVRRVHVRZ1NERDQtQlJmSmlRNE1JSElZM193ZGlVQQ?oc=5",
-    "source": "Pittsburgh Post-Gazette",
-    "published_at": "2026-03-20T08:30:00+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 08:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "129830089133a6bf6fa88cc22a03c55d0c7729b8",
+    "title": "Iran hits major energy production units in the Persian Gulf in retaliation to US-Israel strikes on its South Pars gas field - Peoples Dispatch",
+    "summary": "Iran hits major energy production units in the Persian Gulf in retaliation to US-Israel strikes on its South Pars gas field Peoples Dispatch",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZjVscE9TSTZhWlNMRFZaN0JzQmtxUTdKc0NRMktzX1RmejRHNTRvX3h5WERaX3hycXRsMVZ6UC1Jbl9aLVRzaEhMSW1xeGpNVmRNZ0dRZW1rcG52WHFjSWxwQjJBYmtKWkdnbHBFVzNvWjh4Q1dEX0hzRDVoaGhVU2VpcHhDTHBLN2Z0UGhrbW9tb2tWR1VBd0ZaVHVldjdoNjdQZFc4RWFsX3FEOGxycm1rVXE0a2RqQ1U5RlZMcWNYVWEyNnBRTFNFTlY2WlBCdE1VaG1ZcUNISEhnN3ZYZ1VWaXppa0xtSUlwMDZ0Z09wZzhmMnc?oc=5",
+    "source": "Peoples Dispatch",
+    "published_at": "2026-03-20T13:12:41+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 13:12:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aa82b3021011792da7d14bdd7dbca476995e4509",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.2,
-      "reason": "Opinion piece about failure of Trump's diplomacy toward Iran, focused on diplomatic/policy issues rather than attacks.",
-      "event_key": "trump anti diplomacy failure oped"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran conducted direct strikes on Persian Gulf energy production units in retaliation for US-Israel strikes on South Pars.",
+      "event_key": "iran strike energy units retaliation south pars"
     }
   },
   {
-    "title": "Iran warns UK allowing US to use military bases could be considered ‘aggression’ - The Independent",
-    "summary": "Iran warns UK allowing US to use military bases could be considered ‘aggression’ The Independent",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTThZZ2FVV29YXzVCLUNESmF6N0E1SHlzWVZIbk9sQ3B2Uy0yTGVOWXJJTDlzZ21ZbmNwQW51eGJrekJPM2tHYTd6d0N6NWJtZGkxSDVCS0d5YUlGQ2ZLVGZMVzRjUTM0Mk1Ed0lCSkdSeUdVbWVlYXczREpMd2tNUHJGWUFZQU5BcElWNDcxSzNaY1NfSnVn?oc=5",
-    "source": "The Independent",
-    "published_at": "2026-03-20T10:31:00+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 10:31:00 GMT",
+    "title": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack - Al Jazeera",
+    "summary": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0RPQ0JXcDVLRThVWWRQUzdiTFppNHpyUV9kQmdNTVp0RENZMGh1dHREMHk1OGtINktUNF9obzJJMy1kRWxLdHZqMGZONXZsajZXUjZldnhObXFNb1FlVWRtcnVsOG1JdzNaVnNiOEVzMTNGQ0NSVjRqR0hlMXdsbWJvcGo5ckZqOFQ0cnBMRTVrQWZvXzFfdXZYNE1zREh6UW85ZDBiTWhfUVdhVm9ZNFpRa9IBuAFBVV95cUxQS3otNnFlVHdfRXBsVFhDeVNrM3AyODQ0U1JPdXhRMHlBVWpFaktJMVNpU29jSDROLU1feks4Qk9tWW5wN2dENHhGTmloOXFnbFJSQ25mWFNhdS1GYS1lS01TMmExZTNFbW5YT1dWZENmZmllcEV6STFBX19ZZktOcG96T19WNGE5TXRfY0Z4ZzdJZENvTXhKZXFaRzYyWElZTW9sWTFiNkQ3RkNFZE9EYWw3WHRPaXdN?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-20T12:45:00+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 12:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f2aeffe99ea31fbd55b940051491ed37608f5975",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "IRGC spokesman reportedly killed in a US-Israeli attack—direct military strike/retaliation event.",
+      "event_key": "irgc spokesman killed us israeli strike"
+    }
+  },
+  {
+    "title": "Israel halts Iran strikes after U.S. warning - MSN",
+    "summary": "Israel halts Iran strikes after U.S. warning MSN",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeUY5dUp3QTZPSWRzcUkxTDdHSE15UDl2NmxlbHl2NjdkMGpRZlBhZzhQVzFJdW5Td3dIc0ItUHZvNXhBVWYwVUh1VERzcldGTjBZbU9rb3NmdGFtNy0tb19mMTJPQnBmNUNKSDNJYk5kUWN1bnFVLWlVWjBWblJPS0VwV0tYeUtzMWNCZHZZbHA2WVZfVVlObS1qalV6X2Y2d1c5UHRlLXZfa2RMd1VSLTNFQXZEcDQyNnYyQ3pHU3VjN2JRSlZxcDRRVWlEZ0VXcy1RR25uM05IYlFxbFE?oc=5",
+    "source": "MSN",
+    "published_at": "2026-03-20T13:26:11+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 13:26:11 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "df7c607bec6edfaf0a977c4738bb04bb8f724128",
+    "article_id": "9441d617fa85d40de13f65e2b69cd39d36e5edd8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Israel halted strikes after a U.S. warning, signaling restraint and reduced immediate escalation.",
+      "event_key": "israel halts strikes after us warning"
+    }
+  },
+  {
+    "title": "US allies warning to Iran, body of missing student found in Spain (Video) - New York Post",
+    "summary": "US allies warning to Iran, body of missing student found in Spain (Video) New York Post",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeElWRUZKcnA1NmgxeTdXdlZRMUFZM1ZHXzk2VEpkWUY4c2dlTEN5eE1MSWxuN1NMYjdMcWo4M1FScFZmb3dDdW9BSTh5NVZ5UzFlQ24zclBJUC16eU9MYVQwWnRfU2hRR1F1XzFpdGZzYlp6d1NjTVpKV1ZzYlQ2T3lBTGJ5elhqNEt5SWliUWNRMnds?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-03-20T13:14:57+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 13:14:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dc4b89a0216c1d8246c0e0d1ce04a85e8228dfd3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran issues warning that UK allowing US base use could be 'aggression' — hostile rhetoric raising tensions.",
-      "event_key": "iran warns uk against us base use"
+      "reason": "Allies issuing warnings to Iran signals rising tensions and hostile rhetoric rather than diplomacy or a strike.",
+      "event_key": "allies warning to iran"
     }
   }
 ]
