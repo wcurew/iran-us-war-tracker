@@ -1,121 +1,206 @@
 [
   {
-    "title": "Trump Says US Considering ‘Winding Down’ Iran Military Campaign - Bloomberg.com",
-    "summary": "Trump Says US Considering ‘Winding Down’ Iran Military Campaign Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1JRUnJBSWJaMS1rRXk3M1M3MHhPUkI2N3ZLYjFMRTFWenZza0J6VHd4NzlOOTJ1SlZxel9kbjRFQ2EzZ21rejNyblI1UlFubUVlWWVZbkpSdERMbW5YckpUYWU5enBsS2VYSHRvbmlEcUtoR0loeXdMazRYQ1VueTI0MHVCQUdqWjl4NmRnUjN6RHhsODdOdHl1X0p0OThUSXhTSlUwQQ?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-03-20T21:23:12+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 21:23:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "98c1ce3fea166bf2579f184bd46b17d1614d27b6",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "President says US is considering winding down Iran military campaign, signaling restraint but no formal ceasefire.",
-      "event_key": "us winding down iran military campaign"
-    }
-  },
-  {
     "title": "Trump Rules Out Ceasefire With Iran, Says US Is 'Obliterating' the Enemy - Kurdistan24",
     "summary": "Trump Rules Out Ceasefire With Iran, Says US Is 'Obliterating' the Enemy Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjBNSDluSHAxbjZSTFhMSFdhVklLVU5DUTR0WTI4TXQ0eVNZel95UEhxdk0taEtvaW1haWVnQ1I0WHFWYWFTRWlZOVc0VHJWZThlSUlrMEtGVmZWdzdtTmtXQmtBaWNRUVFyVmw5N3Z2cjdJRklzeDZPc2JDWWhHNU1vdzJ3SXVLM0hQeEkzTnB0d3RuZ1hIUXRqazlvQ3U2bXpYc0NhcUlXQ1llV0h1blQxSQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xSkp0aW5MZTBFYXg5SThmTV9kZVBGQTlUMHhEYnY0RHYxTnAwUmxYVVpzc2hOWjk0bDI0RXFFNmJkRjR5SWpkMXNwTDVJaFpvZ19xSTFB?oc=5",
     "source": "Kurdistan24",
-    "published_at": "2026-03-20T20:20:24+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 20:20:24 GMT",
+    "published_at": "2026-03-20T23:14:07+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 23:14:07 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a8a3abe6d664777e5ffbde2ec68bc134e102c0f",
+    "article_id": "9779bde782330902533b5e4b748df6837d49308d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "US leader rejects ceasefire and uses aggressive rhetoric, signaling increased tensions and hostile posture.",
-      "event_key": "trump rules out ceasefire obliterating enemy"
+      "reason": "US leader explicitly rules out a ceasefire and uses aggressive rhetoric, signalling heightened tensions and hostility.",
+      "event_key": "trump rules out ceasefire aggressive rhetoric"
     }
   },
   {
-    "title": "Trump rules out Iran ceasefire, says US ‘obliterating other side' - Türkiye Today",
-    "summary": "Trump rules out Iran ceasefire, says US ‘obliterating other side' Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVJwWjktMFdLNUhRWk5HbjljWDhmcHQ1NWNmNkhCYnRodnFtb0stQ25WZkh5T3U4YkxVb2dvR0s2N0JkZjRreEs2MnBBbmNOOG1OQnFraVJKYjB0VnliRVpoRF8zeUF1Sm5Ld1lPcEpRSUNibWxtOXdQX3FJVXNkMFlXNmp4MmlBY0xKS3ZMMzdmb1ZoRThaTWxlSUNUdHA3ckF2SzZ2eUx6QQ?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-03-20T20:05:17+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 20:05:17 GMT",
+    "title": "Sky News Australia. . US President Donald Trump says he is open to talks with Iran but will not agree to a ceasefire. - Facebook",
+    "summary": "Sky News Australia. . US President Donald Trump says he is open to talks with Iran but will not agree to a ceasefire. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3JtWjcxcmFINGFZbGFtUFpjaWw2bE1tbVBiaUxnVFJ2Sy1PbUdpWEpOOTI3NFdTWllsYTZueFFadTNZYnlreWVxbTVUbWl2TTlOdFg5d0pHTTBOY0gtNG03ZUhrNjFVb2c2YkUwTUVxMHd0X2RBM3czcDBTZmJFdWRsYTZRei1KOUF5dGlEMmhleHl1Y0hqYnZzU3d1NFhiQ3dZRW5kdWpOX2twWmlNTkxRUFBKTDlFX2RlQ1Z6SF9fXzQyN1E?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-03-21T01:00:01+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 01:00:01 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0cef90507ce06e8c9b0e36c8e137501324c94d0b",
+    "article_id": "381dd545fd83593614b41ef1e34d9c661832a0d9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "President Trump signals willingness to engage in talks with Iran, indicating active diplomatic engagement despite rejecting a ceasefire.",
+      "event_key": "trump open to talks rejects ceasefire"
+    }
+  },
+  {
+    "title": "Middle East crisis: Trump says US 'close to meeting objectives', opposes ceasefire with Iran - The Times of India",
+    "summary": "Middle East crisis: Trump says US 'close to meeting objectives', opposes ceasefire with Iran The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlFJb280enFHRDBiOUxsY0NwbHVlVmh2a0JyWDZ1QXlabTI4VHUzWllGbERzREZRUGFlWFVxSkRMZmpLd2lGeXJQVmFnNkJEbVpsUG1KaHNGVWxzbDdLVDh1Y1JkdnQtZHFweHJTVWMzUHRJQ3R2Z0hRem0wN21nUVQ3cmNzNGJid0tXQTZoOGZreFBIVXE4V3did0RfN0M1M3Fqa1dlU252TGFlRjFjSWFiYm5fVEJ4R05HZjlFNkRlbHVfVi01SkFoLU5kdDVMbnNTZDBJSERTRGMyWVpJckRrRHNjOGlHa1c5WTkySETSAfYBQVVfeXFMT2Z4TFhuYS1yRVRSQU5lUHkwc0VCTjdXYUdVQnItSlRpRHN3OFRKMElncUU1cElKeGZOeW0xVUE1ek5hbXk2cE9YOFpsTk53RGRnSVhxNFAtRndUUjhQMGRhQmlkUlVfMnVjdXEzanJ6Y0xScTQtZnphMjFwUUk0cS1IMDlwcDNvMnBGLUZrRWdTdUR5OHJwTHRaQUVFb2hlV0VIVVZRVlN0eW14c1hXLTV4NDFjR1hGOFA3TkZaMGh4alZLTlRQSEhGTGZfMWJlRnpLVDlpNFVxSWpxMHdhVXE2M2d1UVJNQVdDZkFXanpXZEJkdzVB?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-03-20T22:11:00+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 22:11:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "704339098c5b4ce7313060ab9ee930e3017e6f77",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Trump rejects ceasefire and threatens 'obliterating other side,' heightening tensions.",
-      "event_key": "trump rejects iran ceasefire"
+      "reason": "Trump rejects a ceasefire and says US is 'close to meeting objectives,' signaling a harder, escalatory posture toward Iran.",
+      "event_key": "trump rejects ceasefire us close to objectives"
     }
   },
   {
-    "title": "UK allows US to use British bases to strike Iranian sites targeting Strait of Hormuz - The Hill",
-    "summary": "UK allows US to use British bases to strike Iranian sites targeting Strait of Hormuz The Hill",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ODd4SjBxdS1lSmZUbnBjWmNCcWRXYnlGQzRjTnVjNEF0VUlxdC1DRVNtc2N3RDI1dmZSU2tQTF9PdVdwam5JdnV1cFoxTTE0RTlZcHp6M0FqQlpLZzJId19lc0p1NmpwUkZDQnBEbzJKTkkzLVNF0gF8QVVfeXFMTmVYRjQtaTNNYS1DQ2JuLWpRdEVsVURYLW5JUnkyOXkxWnkwTjNqVEQwQ3RVbTh4VHpibmQ2bVoxRnVfZkp3THJJZnc4NzI2bl9LUmxCNzdWZFU5TmM1NUFYbElKRjJGVmtzamlrWGVuRm90dUM2NGhROVd0VQ?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-03-20T20:30:30+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 20:30:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5e78df48fad6aa48d49c57b448951a417116621e",
+    "title": "Trump Says US Is 'Considering Winding Down' Iran War But Rejects Ceasefire As Khamenei Claims Enemies Are 'Defeated' - Benzinga",
+    "summary": "Trump Says US Is 'Considering Winding Down' Iran War But Rejects Ceasefire As Khamenei Claims Enemies Are 'Defeated' Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZlpkMTVOS2cyc2hOTFZBNG52R0xHSVBtWXNuSFhHWXFIRmNubEh1RTVKZ0JNY2tiOEdFdXVMUXNTTlg4NHo3Z3dDMjd1TE9nMURSNDR5M0tPNHhlWF95cjZNaEEzVWdGV0NLNWFSTEVjMmJlZ0podGs5MHgzOUl1UnptVWRHMzh6SDVfbk9VaTItWE5aMEpYbFV0aEx0c1dxOXA3cTA3bHVEUGRlVVA0Nm5TcEItcjQ0X21EdVN0VWhjRlQwNmVUSXhOQVdqYmNSUjlaMVdCSmtmTUxnV2pQTVdvVWxIR1dFVWRCM1lKMnFrRVkyc0JNT0dB?oc=5",
+    "source": "Benzinga",
+    "published_at": "2026-03-21T03:07:00+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 03:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "feb750612301da954509bc6c5bf248edd60617e4",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "US saying it's 'considering winding down' signals restraint and de-escalation despite rejecting a formal ceasefire.",
+      "event_key": "us considering winding down rejects ceasefire"
+    }
+  },
+  {
+    "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows - BBC",
+    "summary": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xa3VLREpwbERQMkNXSUZHUWhjanA0ODlOZXhoVThsMTFJOXFWRFFrX0p4bnZUXzVWQ3BEY2N1OGpPRnItT3FEa0xXeVBfd18wTGd6SUlyQjF4dw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-03-20T22:34:05+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 22:34:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "69fb8a7a0bbfee3b4110dfaa0d7645e822441574",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "UK permitting US to use bases to strike Iranian sites raises military posture and risk of direct action.",
-      "event_key": "uk permits us bases for strikes on iranian sites"
+      "reason": "Iran carried out strikes on bases used by US, causing significant damage estimated at $800M.",
+      "event_key": "iran strikes us bases 800m damage"
     }
   },
   {
-    "title": "UK approves US use of British bases to strike Iran missile sites targeting ships - Military Times",
-    "summary": "UK approves US use of British bases to strike Iran missile sites targeting ships Military Times",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVnVKS2Nic0o2Vlp1a1RVVHZkVGdLVFF1enJERzhrZzdLTnlBYVlYdmhNbFdZV1l2NGZwaDJkVmJ5MHV2ZDBiaDlza3JrenkwTWZTOTVjQkZQLVBGTUx5TjhGYlF6bE9uVktNQ09BNHF2em4zcDRGWm53bVNKSlMtbV90ZTBTY2w3VHNRZ1lXLVNtTjZ2MFFmdEt5ZXB1cDNuLUhId1R5U0FkWWlyU0dpbUhjRzNTejBzeUEwVjJvRG4tOElWRVNWMW8wMElaME5RRm1zMDVDb1U?oc=5",
-    "source": "Military Times",
-    "published_at": "2026-03-20T20:14:36+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 20:14:36 GMT",
+    "title": "U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz - The New York Times",
+    "summary": "U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXJlNnBsWTFxbmpXTUdlREpvaDlsb3JtMzZaUnhTYWVLZ0t4T2JVX0pPVjRVU1lCOHFvWDcxN0hYNUFxV285WWhIcXFjYXJJYlZxTmZmdlBlSDlvNlJaYmU5YXBOOW4waEl0UUU3WGNqVnpJczdpYVJWSk9tOGZoWHhTTWc?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-03-20T22:17:33+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 22:17:33 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "01e23edb5dbb4eb00dc6b24beda2f0555cbf75c2",
+    "article_id": "96ec7cfb5dad1bd36c2dac6df5cc5be029daac51",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.78,
-      "reason": "UK permission enables direct US strikes against Iran missile sites, increasing risk of military confrontation.",
-      "event_key": "uk approve us use of bases to strike iran"
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "U.S. carried out direct attacks on Iranian targets aimed at reopening the Strait of Hormuz.",
+      "event_key": "us attack iran open hormuz"
     }
   },
   {
-    "title": "A Belligerent Iran Has the U.S. Rushing Missile and Drone Defenses to the Gulf - WSJ",
-    "summary": "A Belligerent Iran Has the U.S. Rushing Missile and Drone Defenses to the Gulf WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQekY0alg4T2RVdGtZeG04eENHZ3h3eG1NeU5CMFB1RmxfaFVNWHFydWgxZ3RZR3d1Vkd6M2o0dGk4TmtyNmhiZkFxTl91VDdSQ1d2bmxWZmd6d2RvRVBBa09tWnNFZWNpQkR5US1CQV9IX3o3b2VtbDEtdzBPZFVRajhQUkl0MDR1WDJkX3RfWG5GUWd0bFdDZUcxZ0VnYWkwMWNGX0l3aHpORlVIMHNlZG9lN3RVR3hQWUduSkk2VmFHUnpzQXQyV2RFZGgtS1FmU1A0amx2UDd6QndvRGcyc3ZfaXJNTnBrVzcwSWt2YkNiek83Mml2N292Y2d3b2JOTnhTak9USVNhYmJEblUyenU5M2N3a2dfaFhkSU4wazZLbm5jYXR6RHBSNGY3ZHNyVjJVWnhxUnAzcFA0VElnUnA0QlU2dVJucnVFaUtuemY0ZGZjRVVwaWE0Z3Yxa1RNY2pqNFBXeU91MDk3RUlVdHUxXzNHMzdzcjJONlpxTzdPVlJqMW9PMg?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-03-20T21:22:00+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 21:22:00 GMT",
+    "title": "Iran fires ballistic missiles at US-UK Diego Garcia military base, does not hit it — report - The Times of Israel",
+    "summary": "Iran fires ballistic missiles at US-UK Diego Garcia military base, does not hit it — report The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13V0h0NzJYaW1vdXRJdlNnU09raWVNQ3FrcXhHM0lmZVc3TklpTHM0VTRoNmhKUmVTQ0RTSnl3dVlLaDhEMktHcV9lTTBkaFpjZXVUSzZpemhCejBndjhKOXJ0RQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-21T02:35:50+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 02:35:50 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a0da76bbed455c0f08ddb40b9dc2ecd8b1c1672e",
-    "source_weight": 1.0,
+    "article_id": "f61d694cb08c6cffb475c2ee5d4ba01cb89d3d09",
+    "source_weight": 0.95,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US rushing missile and drone defenses to the Gulf amid Iran's belligerence, signaling military mobilization.",
-      "event_key": "us rushes missile and drone defenses to gulf"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct ballistic missile attack on a US-UK military base constitutes an actual strike/retaliation event.",
+      "event_key": "iran ballistic missiles diego garcia"
     }
   },
   {
-    "title": "Iran-linked cyberattack prompts Microsoft Intune warnings - American Banker",
-    "summary": "Iran-linked cyberattack prompts Microsoft Intune warnings American Banker",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV056Y245ZzJCYmpzTUw4dGpDdk1iLU5lbGcxNDFnaU5XSUVkT21IcHlYTDhrUzdVb2JxUWkwU3pTUHJsYzh3NjNBRm1fRDc4M29vM2N0ekNZcUtfSENGV0ZlMGduWEI3Y0hQdkpKQWZwWXF6REw1cElCWEsta2hVdlNUNGNxb3NfYWE1NXhBTG44M3Bta2Zhcg?oc=5",
-    "source": "American Banker",
-    "published_at": "2026-03-20T19:58:00+00:00",
-    "raw_pub_date": "Fri, 20 Mar 2026 19:58:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d8751965bfe0603250d87ffe2aded4b193da8db0",
+    "title": "Iran fired ballistic missiles at US-UK base in Indian Ocean: Report - Anadolu Ajansı",
+    "summary": "Iran fired ballistic missiles at US-UK base in Indian Ocean: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzJlMF9KZjBwR01MVUlsbExaWi1LV3F0Nm5RSHdLU2RCMnV5dFpCTTc3dlZVSjZqUFV4WW9zSURfbEM4bGJ6dWNYSEs2US1vUy10dUktYndzb0lWMl9yTlZ5VnRkQkkyTHFVcXZMX1VCeGZRZzJROWpJUWFSSVAydHF6NmlLZnNKSDBFY2NpRlplbkY0cWZxM1RVWUdvYUdTY0N5X3pVdjY0OTU3dVI2eA?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-03-21T01:36:18+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 01:36:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d397ca79d74e6b3144b3327d2d26680004855425",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct Iranian ballistic missile attack on a US-UK base in the Indian Ocean.",
+      "event_key": "iran ballistic missile attack us uk indian ocean base"
+    }
+  },
+  {
+    "title": "Taiwan concerned by depletion of US missile stocks during Iran war - Financial Times",
+    "summary": "Taiwan concerned by depletion of US missile stocks during Iran war Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzQtNjhyVmxFb3FnalR3Zkl5XzFNQzBxdzRIX3l6ZzQ3OFVMYUNKdXQ2QU5DLTBaRjRuc2RRM2g4NHhGd0JDdk5VVzZzQi1zbVZCUHdLMHJqdjNjTjZYV0tNb0xnNWZvUGxQRENvd195bUtnb1RocDkyREdHNUdZRldkTWc?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-03-21T01:00:17+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 01:00:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "06981e1d9be138ce642e71e5979beed6e201f3bf",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Reports US missile stock depletion tied to ongoing Iran war, indicating sustained military engagement and rising tensions.",
+      "event_key": "us missile stock depletion iran war"
+    }
+  },
+  {
+    "title": "Iran War Puts U.S. Diplomatic Missions in the Crosshairs - WSJ",
+    "summary": "Iran War Puts U.S. Diplomatic Missions in the Crosshairs WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUlBuTm9qME1Vc1lNa0ZqU1FUTXdKU1ZDb21oNXdSTThNWHhvN1E0cjFwQkZucWFkTHZNalNMTjJGZWJQUzRnSFZyaHBKZWJvbWN6b2V3OVFzV2ljcmZQdHBGbmdaaVNoLUR6ZzI5dnBOYXh4cmtSbG1vNEV1TWMyZmNySTZ4RzZXMW5lcEgwdHFKNHBhdmtWU3dsSE5kOFBCUWJrajdKTUZzUnZoZVFPRVpBTjJtVEUtbUpUbXJmMGhTZll5YmpqZmtWNlhwVUgwUW9LbUpDSV9kYS1iLTMxR3lyVnZwQzh1UTBiUFNCRm5nQ0c2cWtIS2QyOGZIVmc4TXJYT2VISVNzM3VUS1JmS2l2Rm1kakxhZlJZWjFsbnVVUm03ZUNjZmtESU1qU3pCSnJCcXJsTG5oOUJHWF9teFJjR2RTWG5CbkcyRksxb1JrZTZIMjNPUXlyS1FYUjJ6NHlZX21weUdMcUNEb1hIczlQNVE2TlZ4R2M3VmRZLVZKRGM0YUw4R0lIalNmT1QyLWc?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-03-21T03:00:00+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 03:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e503851421ebe77f5ae958f9912288af22e28691",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran-linked cyberattack on Microsoft Intune is a hostile action that escalates tensions with the US.",
-      "event_key": "iran linked cyberattack microsoft intune"
+      "reason": "Title signals increased threats and rising tensions targeting U.S. diplomatic missions.",
+      "event_key": "threats to us diplomatic missions"
+    }
+  },
+  {
+    "title": "Baris Kesgin offers insight on U.S.–Iran tensions in Le Devoir - Elon University",
+    "summary": "Baris Kesgin offers insight on U.S.–Iran tensions in Le Devoir Elon University",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanVxaVd4VTdCREgxNFE1QnQ4MkFMOGJ3VHlHZUl4SkI0dDNBY0t0TFQxVm4tVTJwZWtQYXVYOE94azkwdE8zd0lIMzdYWDVHZjRJZVEtVG5iSkN3bnJFY01NckQxSGZXWkFQUkh3c3NxTGFtdEtaM0tZUDhlaUh2dHo0bkdYd0JidVZOUUJSUEVxalVuNlZLQTkzM2VaenhQVDlj?oc=5",
+    "source": "Elon University",
+    "published_at": "2026-03-20T22:21:15+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 22:21:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cac72bdee6b7563e8888b769e66841e77da6a8fe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Opinion/insight piece, not reporting an actual diplomatic or military development.",
+      "event_key": "commentary us iran tensions"
+    }
+  },
+  {
+    "title": "Iran makes chilling threat to tourist hotspots worldwide ahead of spring holidays after sleeper cell terror plot warning - The US Sun",
+    "summary": "Iran makes chilling threat to tourist hotspots worldwide ahead of spring holidays after sleeper cell terror plot warning The US Sun",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2JTMlVkMlhrRk5NaEd2b1l1RG12WVJPUlhURUhJT0xHYTlZZjNocjBISGdfQjBGNU4yN08wZzAwb3Q2UURfYW5SS2hhcjZHbEhXS2lOSDU4MGNfS3RvZ19KbXNYNFlhbnJLOGJoQkhjWmFyMXAybGhGRF9YdFoyOTMtSThsY2cybU51ODV4NHAxdw?oc=5",
+    "source": "The US Sun",
+    "published_at": "2026-03-20T23:49:59+00:00",
+    "raw_pub_date": "Fri, 20 Mar 2026 23:49:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d33d46c47db58338fd1e23a56c39e0b35e419a9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran issues threats against tourist hotspots and sleeper-cell warnings, hostile rhetoric increasing tensions.",
+      "event_key": "iran threats tourist hotspots"
     }
   }
 ]
