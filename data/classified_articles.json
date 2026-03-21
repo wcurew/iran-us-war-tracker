@@ -1,70 +1,53 @@
 [
   {
-    "title": "US-Iran latest: Trump says US considering 'winding down' operations but rules out ceasefire - thenationalnews.com",
-    "summary": "US-Iran latest: Trump says US considering 'winding down' operations but rules out ceasefire thenationalnews.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnZ5Z0hra2tMeG9FZ1pNV2pOODgzV0RlS2xHTUNLUmdrRzFFUy0teUlyN0tvbk5yZ0piZ2otWXFrX19jenNfMlpZbmhWSGlZblVsZVNCTnJuNkdzSm90eWExVC03SVNCeFFGYU9WRXFtS0RyRjBvMF9FNlpyQ0pwSVdtQl9wdW5G?oc=5",
-    "source": "thenationalnews.com",
-    "published_at": "2026-03-21T06:10:15+00:00",
-    "raw_pub_date": "Sat, 21 Mar 2026 06:10:15 GMT",
+    "title": "Iran war: What’s happening on day 22 of US-Israel attacks? - Al Jazeera",
+    "summary": "Iran war: What’s happening on day 22 of US-Israel attacks? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3ZNV3EtM18yTjlzZDNUYlU3YXljZGRUY0o1N1ZXQ1FvXzVOWG45VUJ6SW1kNTRhU1hEQUpGMzVRVE5pUnNMazZ3VGxHc0lsZE1YRnFudndka255bTVEMFJnM2ZhdkZNdDdLbDIxWGxpbnBzRjlKQ05TWEJoR0JOekFncXpucVFHd1A4UVNnak0xd0lHMmxFemU2Ti1TTkHSAaQBQVVfeXFMT3V5aERRUlAxQmFnYk5NQXZ5ek9OaXhRdlVJTXVfbm9teTRsWDBPNmJxTG1hUW1kTkd4YXZaZHlSdTdlWFdWVGN0ZDB0QkdoOWhGbkRyZzQxRm1GN2pVMEJoWE9xWlRrcmRjYWNOY3NhX0d4REtuR1I2dUtEamJkMVJfZmdURHllNmRnb05qbTRUOWVqR1NxSTR1RmFhRnc5UWpwVlg?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-21T09:11:10+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 09:11:10 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b45ca7a65a9d415c9eeeb37e8cfae03cec7137c9",
+    "article_id": "91ba59d40fb13fb961f80a2eb4867c76f7c7d962",
     "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "US leader signals winding down operations but explicitly rejects a formal ceasefire.",
-      "event_key": "trump winding down operations rules out ceasefire"
-    }
-  },
-  {
-    "title": "Iran fires missiles toward US-UK base in Indian ocean, Iran's Mehr says - Reuters",
-    "summary": "Iran fires missiles toward US-UK base in Indian ocean, Iran's Mehr says Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDdzWGxaNkhhVkFYME5DOHZObVZvc29QSG1iRFBFa0JfbUZJaFZTdWhGX1JqTE9yN1hERDZ6eFQwamJyV1JkamlSRHVzTXlLQ0pELWRxTU9jSFlXMno2dVVOTlNoUHBHbWppWk5PdFpYZzk4OE1ielNRRnd5TUpHekMzeEdzX2JxcEZqcjZwcnJJQWItS3d2bDJyUVpIQ3hLc3hiQ1NkT01Kb1BvUTJ1N3d2bjZKUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-21T07:05:24+00:00",
-    "raw_pub_date": "Sat, 21 Mar 2026 07:05:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "400f9426b776366dcda00363fc56223c21bb6c61",
-    "source_weight": 1.15,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missiles toward a US-UK base in the Indian Ocean, constituting a direct military strike.",
-      "event_key": "iran missiles toward us uk base indian ocean"
+      "strength": 0.85,
+      "reason": "Reports on ongoing US-Israel military attacks and battlefield actions on day 22 of the conflict.",
+      "event_key": "us israel attacks day 22"
     }
   },
   {
-    "title": "Trump signals Iran war de-escalation as US nears military objectives: Asks nations ‘who use it’ to secure - The Economic Times",
-    "summary": "Trump signals Iran war de-escalation as US nears military objectives: Asks nations ‘who use it’ to secure The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNzduS0xSUjJhWVowQ2FVTlFsaWo2dU5yd3BHUjFKU0swNWp2bXNNOTlJVmFrbTlyVnEwelpaSFZfVnVhS2pXMk9CdXVEUUNoSG5DRnFoRWRCZlRWYTYxeVl2UlcybEEwRE9PeXBpcXplcXNjeHVfUU9WY0g0bGFOTGZhZU9iZEtiNEJqOTQxV3lQUzZGd284azQ0WllmRWRLOEtZY3hJQ0lleTc3MmhpclVVd0Z0OHQ5RUNxaGNSTXQ4WTVIOFVtQTRxNC10SkhPVEp1SHJGZ0x6cUhNbXRiZlA5YXBiWVhSdDJ2Y1NVUXktZW5qNzlFMXFVal9CT3I4OU9GTHJieEZKYzBVUWfSAZMCQVVfeXFMTnJQMmlLcDc2WElJazE3czgzODg3UzBWd2NvNzFhaE1xUmJ2WDhpcklYa3dwZDVmQjZySWJOUHlPQWtKc2NlcUNaZC1JaWs1LXBwWXpwYnlfNlZFOFZ5eDNzaG5yQ2dZNFdjLVYzRHdRZXU1YTJDNHc1UjNFU0puUnA3Qkx3M0xqMS1kcjJkeU5LNzNvekNZMUxKQll6X3Y1TnF3dW9HYnpGWGtPOWhlSGRBQVh0b0E3LVZud0NoZXZJc3djVWhjdHhDM1dSUlQ1cVlyNXF0QVlVb2tiTm9VdUNtSXk4Z2JMQU4ycVlyRXRXbWNuWkVCMF9YU3Zrd2hZbUt1aUdITjNFUm1MNkRrODRRZmc?oc=5",
-    "source": "The Economic Times",
-    "published_at": "2026-03-21T06:13:14+00:00",
-    "raw_pub_date": "Sat, 21 Mar 2026 06:13:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d4f503536cf3157c971a143f1a07939baee74a2",
+    "title": "Iran fires 2 ballistic missiles at US-UK base on Diego in first long-range strike attempt - report - i24NEWS",
+    "summary": "Iran fires 2 ballistic missiles at US-UK base on Diego in first long-range strike attempt - report i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVEFhcnFNLTlJQVNmZ04tNjNmaF92VW5BLWRIRmZ3SVRkd3piX084eGlMRUN6YWtXQjg3OEM5M0pQSVUzM0QzRnY1MUxjRVFDVVJHRjQ5N1hvZjdFckVqaDN0czFuVzdsdHMwYVhGMHhlbkFCWTZBQTUtUDdCcS1EZnIyXzRsZHYxYlVIRjg4MHk0Q3NyYjMzSi1CWmhRVzY0Tktsdk56SmFINjg5Zmgwd1pfemN3MUZSSDZnZjRPS1V4aHRhMFpjNHBWUzRNckhPMEZSMDVHbEoyRC1GVWI3a1NoNmV4b2o4SmlN?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-03-21T07:57:52+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 07:57:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2ceed97dc160dc35a696fc109361d207509f472e",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Trump signals de-escalation while saying US nears objectives and urging others to secure assets.",
-      "event_key": "trump signals deescalation us nearing objectives"
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Iran launched two ballistic missiles at a US-UK base on Diego Garcia — a direct military strike.",
+      "event_key": "iran ballistic missiles diego garcia strike"
     }
   },
   {
-    "title": "'Putting British lives at risk': Iran issues chilling warning to Downing Street over US base access - WION",
-    "summary": "'Putting British lives at risk': Iran issues chilling warning to Downing Street over US base access WION",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVdVSDlvTHFOaVRpaFA4ZmpGZXJLNTh4VE9LTGlfLVhuN2ZVVUpMT01ZbnQ1RV9GWXlSQlBvWnJTVXFYTEliZUF4TzFFazlXdkE2YjlKN2Yta0hpUGNiX1B0aWllR3lkdGM1dzF6OVpjbWhBTkJzNEpZNmNZeVlqU1dtWkhtMlJ2LXV0OGplSUFJbF9xbGpGVE9WQlVfdEdNSUxhLXNEM3prZlRnYnY4cGlvUjRvZkNDeUlvMjJMV3J3bHlDWW9HNkhGVmJPbmNVdWJaNGNzMkHSAd4BQVVfeXFMUFdxVVJWQ3NXX28ydEJZMUh6UUVkU0d5YmhSR0RNNWt5QUZTVlo1aXhua2ZKSTlsRF85VVBjQ0VMblNTaktZSFdEenNUU1hxVEIyM3QyaGJmalB0VndBWFlGU3dmZkt0a0ExNjVNX29lUjRxSWswTGpEQ29pTDJKczVUclY3RkdEbm9rdGdHbDh3R1NtRTc2Qjg5YWV0UG5zUDk0VDdCQUNyR3F5NVplSFRZb2J0aW1uOXhLZVpvck1Fb1MwQUs5XzhlZXVrNkROWTdCb1IwVHZfU2dfbm9B?oc=5",
-    "source": "WION",
-    "published_at": "2026-03-21T05:57:00+00:00",
-    "raw_pub_date": "Sat, 21 Mar 2026 05:57:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "58065c9ed58cf2c41a6c326707d6243e4c17029e",
+    "title": "UK clears US strikes from its bases as Iran tensions escalate | Daily Sabah - Daily Sabah",
+    "summary": "UK clears US strikes from its bases as Iran tensions escalate | Daily Sabah Daily Sabah",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelhqaEdhb2pfQllfalpMa01QVFY3T1pkOHVKNjhjMkQ5T0pFUWJwdUFiTjhPRW1WbnhFTFdIdGtkdVhMRzlaQXAyZFF6UWJxRzJRSUNtSXBELTYyZjBPYmlPMlF0Mnp0RV9WY3JBeVJnb2NHZ3ZzN25qQ0U4ZFYwbFZyd2Fsal8ycWoweE9zUWZkU2RqTlZETklnSUZuWFdiR2FR0gGoAUFVX3lxTE45NjVGdW84dEJGNjZ3dzNMYVV3TUJzbUUwQmNGM3lnenFmQzJfS0tpZWVCbUFQekl2S1VIM3FCOUwzSXNDa0xyajF2b1Jtd29zTGlzOFp3S0pndkppUkRjVTJud21rQ0pmank2cnRNUHFnTkJwbXVvcjR5TVBLN3BoTUJKQ1V2c3ZDWUdJVVRDZExISmxhby1xV1ZrMDFQbEtMZlZ1R2h6LQ?oc=5",
+    "source": "Daily Sabah",
+    "published_at": "2026-03-21T08:32:00+00:00",
+    "raw_pub_date": "Sat, 21 Mar 2026 08:32:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c935ac3ff0e77b19e5767091f3cdc27e09fcc05f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran warned the UK over US base access, issuing a direct threatening warning that raises tensions.",
-      "event_key": "iran warns uk over us base access"
+      "strength": 0.85,
+      "reason": "UK authorizes US use of its bases for strikes, enabling military action and raising Iran-US tensions.",
+      "event_key": "uk authorizes us base use for strikes"
     }
   }
 ]
