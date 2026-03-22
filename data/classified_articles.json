@@ -1,36 +1,138 @@
 [
   {
-    "title": "US and Iran threaten to expand the war to the region’s power plants - AP News",
-    "summary": "US and Iran threaten to expand the war to the region’s power plants AP News",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklRRlJocUJXejUtLXl4U3M4WGQycThnVnF1S1V0QnRldE5Ud1MwYklKNEQ2VGx1VnBIWEZGMkJ3T19UTHliLWJzQ2xmMGRxRWM2SVFfeTNwaEhaaHJ5SV9zNW9xdmgyQ01HbGtIWlZCZmdDMk02OG5NU1h2ekZDR1Ryci1fek9UUU9ROC16Sm1KM0tMTDBxd080NWhKTE02bTFEXw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-03-22T15:11:00+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 15:11:00 GMT",
+    "title": "US said to strike Iran’s Natanz enrichment site, IDF hits missile production sites - The Times of Israel",
+    "summary": "US said to strike Iran’s Natanz enrichment site, IDF hits missile production sites The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenB5SlRRNUV6NHphaFY0R0lraWlzNVVJMTU5UVRlZGlGZnJMTnRuQkthQTljUkZ5ZDRxbDNJanJ2Y19LWUJqdjV2WXUxdXpoc09HcTU4NmZhS1dqc2ZnTlFiaFBjanRmZlNoZzlybjJKNGxQVHRCOHdXWHNkdUFyUGdDenkteUF0dXgtM24xcnBTd0NZZnY5RVJmXzIzN1ZxN2xGNklUNktzMmJMcUhrYtIBtgFBVV95cUxNR1RCUHlVcnJ5R1ptMFBMMWtxa2l2SERnR016ZEJBY0xXZENsSWoxcXowRmVLNTZ6MVg4UjNQR2FfUUlQdXBYWmZFQ2NjdUZ2WmFEaUdGSjJYSng3SGRiN3JYSFdvMHhvMjJOdGQ3YXhNcEo1SzBsbDFZZ3pNOUlUTVViQ1J3WFlPTjZ6ZWg4UVBTRFRZWTVVSFdxWXh4amVMMWxZRk1NOHZIVk1KQjVCMG41ckROQQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-22T16:04:32+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 16:04:32 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "81c108ce02e0baccbe886b7953a709f08ee510f2",
-    "source_weight": 1.1,
+    "article_id": "4afd136ab784aea8d73d8cb169bd68bea7a7b82a",
+    "source_weight": 0.95,
     "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Mutual threats to expand attacks to regional power plants indicate rising tensions and hostile rhetoric.",
-      "event_key": "threats target power plants escalation"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe direct US strike on Natanz and IDF strikes on missile production sites—direct military attacks.",
+      "event_key": "us strike natanz idf missile sites"
     }
   },
   {
-    "title": "Iran says it will ‘irreversibly destroy’ Middle East infrastructure if US attacks energy sites - The Guardian",
-    "summary": "Iran says it will ‘irreversibly destroy’ Middle East infrastructure if US attacks energy sites The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2VNek9TaWN3Z2wwc0RnTVNBUFRqQllzd3cyTU43TS1YOHpjV0szU3huTTlhdlVDV09lY1lwZWFtRUhLYXF6WnhhMVRVNVQ1bmdfbUhZcDZHUFFHdUZObEVpVWN5TkhaUmpJR2w5RjhDWk9VM2tNSW0wTm5JZHVST053LUNRMEE5ZEFwTVZWMlBLc0llVkZadUVMazBoZGJmblNuZUVENnJPUQ?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-03-22T14:55:00+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 14:55:00 GMT",
+    "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran - Al Jazeera",
+    "summary": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3ZYYkRDdDAyMEVUNExLandydGVmeEdzV1J6RzQ3UHV3RUhiNFNzMHVXS1FBWEp2WldULW5aNjlGSE9ZbW9zT1lzTVc1V0tsaExxSzlJVWVMVFNzVWJ3UUpxWHZoQ29yZ1VaTWZTQTkybjN2Vm5mTkk3V2JuaXlXTlZldzRUdDZPVm4tYzNUQnhkUVpFWUgtLXkzQ3J2c3JjZ0tpTEMzalkweVFETE9QR0FtbFIzVlRQ0gG-AUFVX3lxTE1zMTNYM05wcURGMDNXS3dpUzU5cEN0bTF6YkpwS0pyTW81cG5ZMDF5Znh4eGhmR1psTktYUExCWkhVVzBIUHBUem9ac2ZEQnVTaFJpYzZFZVdUWGI4VWhrUkJxMmhtU1BLV2FHT1p5Z0k1d2J0ajdpYkN4RFNNZFZZb19qTUxkUWhiSk93YnBadEl5QnlHNE56NTBGaFpwUjQ4YkRYLUUtVWtENGRRNC1WUlVyYzFBbFg4UExvM2c?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-22T17:28:06+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 17:28:06 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4b2dcdc462e3a3bcba46a6b943b9ab8d60ac7607",
+    "article_id": "4ec89bcd09361fef27b30392c42a683e7d012e71",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.7,
+      "reason": "Netanyahu publicly endorses US strikes on Iran, heightening tensions and hostile rhetoric.",
+      "event_key": "netanyahu endorses us strikes on iran"
+    }
+  },
+  {
+    "title": "US Treasury Secretary backs Iran escalation as Democrats warn war is 'out of control' - Türkiye Today",
+    "summary": "US Treasury Secretary backs Iran escalation as Democrats warn war is 'out of control' Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHN4Rl9iX2d1X2ZoRElOX0JmMC1NMUw2bl91ekxwZ0VvbFJUdzV6X3RZYlRBWHVnZDZNZ1FZU3duNGRvZmVaSUIwQXYzdmpRUXRvM2JOWWVZNi00eVk0b1ZwZndGek1ZT3Q2MklnLVl5d0xBeFRXTUllM1djdHFhVTBlT05WVXdXbEQ2dzlTam9JeGhIVFNpVjlQWU5sUUl1V0x2emttWUJ2V2xDNmY3NmlSQ1dXQlFkRXlqS3duOVJYQmV2?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-03-22T15:53:53+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 15:53:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fc489cc3857a8c3190527707c0dabe06ba7eb2f6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US official backing escalation and lawmakers warning the war is spiraling, indicating rising tensions and push for tougher action.",
+      "event_key": "us treasury backing escalation"
+    }
+  },
+  {
+    "title": "Escalation of energy war feared as Iran issues counter threats to US - The Irish Times",
+    "summary": "Escalation of energy war feared as Iran issues counter threats to US The Irish Times",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFR6Xy1kSExSc0pFbDhqQ0pTZWVzVm1hWVY4UFZWcExXSGItcnJkeXhmVGctakJlRFdTYzlNVTdnU3l4QzJCNFdZUUFRdG1FV0dOYTVHbHN0dThUMmpFcW5PUVZ2TnBwd0dqREZTMjVNMTg2a1J4c21vcU5CYlNrZUQ1a2tBMzdjaDhrNm5rXy1FeGZVcy1HeEl0V3hMTGlqS0p6cHFsRjIzbWUtelU3UUhQZGhqYzNFOG9YUXI3SlJ4Rzg?oc=5",
+    "source": "The Irish Times",
+    "published_at": "2026-03-22T19:08:57+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 19:08:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f79527eebd02af2b505f0d7f0cbb6736b4f2dd91",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issued counter-threats to the US, raising fears of an energy-sector escalation and rising tensions.",
+      "event_key": "iran counter threats energy war escalation"
+    }
+  },
+  {
+    "title": "Threat to shipping escalates as Iran and US trade threats over Strait of Hormuz - Lloyd's List",
+    "summary": "Threat to shipping escalates as Iran and US trade threats over Strait of Hormuz Lloyd's List",
+    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObW1OVDc2OUYyMGZnckdZS0VvbDVHTXV1b0pBN3ZOX0laWlhHVW5VMGgyYnFIcDhvU0JYNHVYY216d2VPS3BuS1VhZklIVHNNa0VUczlINUlWeFVFZUpBVlhITXJ2U1RoQUZhMTIwS0xCWk45dGNWOWpxNUFsMkNlbWxKSE5aY05YVFA5b2ktVTBDbVFnTXgtRjF2MmZRU2pMZmdnNEhpTlQtLTFsZEpuUkNESFYyMU9Kdm5GMGRZSXppMm5wOTRWMExENzJ5enQ2dUtFQXRsNVkxM0RLMDNkQUJQZUFIaVRlMEd3WXN3TUVqcmJtUVJ5anV2UXJrb3gxUmJkQ0hqZ01udGl2MmxHclRXRE5ZeE1xQjJWYndWSjVPVWM1b25XcF9PZjlrUlQ0QUpj?oc=5",
+    "source": "Lloyd's List",
+    "published_at": "2026-03-22T17:34:04+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 17:34:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bcfdf8e924b64306d3b172c09f09be0275343ae1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran and US exchanging threats over Strait of Hormuz indicates rising tensions and hostile rhetoric.",
+      "event_key": "threats over strait of hormuz"
+    }
+  },
+  {
+    "title": "Iranian Official Issues Stark Warning Targeting US Financial Assets - Newsweek",
+    "summary": "Iranian Official Issues Stark Warning Targeting US Financial Assets Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUc2UThwdlNXdUt6V1I1QkFRV3ZENHhyaWdDcjdqcUlsaDR1WWd4QTZJSDdxeHlJMmMyWTVDUkx2SnA5dUlIOUoxWHRGWTlOandVUHFiV1Q3Zkt5dmRuWG96QjFXYTlTMzJkempiNHZMdmpWUllnZ0sxZkl0Vm5OM214SV9PQ3BUNWtiV2kybEZWT0hqREtZVVA2ek00UTlCdENF?oc=5",
+    "source": "Newsweek",
+    "published_at": "2026-03-22T18:33:00+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 18:33:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "07314b25848038974e47da36c84cd9875664298e",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
       "strength": 0.75,
-      "reason": "Iran's explicit threat to 'irreversibly destroy' regional infrastructure if US attacks signals escalatory rhetoric and heightened tensions.",
-      "event_key": "iran threat destroy middle east infrastructure"
+      "reason": "Iranian official issued a direct warning targeting U.S. financial assets, increasing tensions through threats.",
+      "event_key": "iran official warning us financial assets"
+    }
+  },
+  {
+    "title": "Iran's attack on US-UK Diego Garcia base is not a turning point, but a warning - analysis - The Jerusalem Post",
+    "summary": "Iran's attack on US-UK Diego Garcia base is not a turning point, but a warning - analysis The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jaF9aRy1iV0ZlNG5lVlFMMmpaWmkwTW5vcldheGtqQkpzdmpHZUp5WnYwWGU5azByaGhlT1dydEpGaXR5bjI0OEVlOHZGUi1lY3RvaW1GQkE2ZWdzbU13?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-22T17:51:45+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 17:51:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9cc1ff40758b82f7832cafbf26546d158fb31f8e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Direct Iranian attack on the US-UK Diego Garcia military base.",
+      "event_key": "iran attack diego garcia"
+    }
+  },
+  {
+    "title": "Houthi Group Warns of Regional Escalation Amid US-Israel Strikes on Iran - Kurdistan24",
+    "summary": "Houthi Group Warns of Regional Escalation Amid US-Israel Strikes on Iran Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EcTZKTlNGM0thZDg1elVxUTB2UWlVQnlqUWFTXy0tU3FlQ1dnQ2JZVE96bnpnemRMSkVyRVpEOThpeUhmRVNWNGI2MWdQcW9ZNGloeFhR?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-03-22T16:38:47+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 16:38:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c2538dc98872e9fc092bc535f76f36f76c14a6dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Houthi warning of regional escalation amid US-Israel strikes signals proxy-driven escalation risk.",
+      "event_key": "houthi warning after us israel strikes on iran"
     }
   }
 ]
