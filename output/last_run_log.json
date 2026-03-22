@@ -1,16 +1,15 @@
 {
-  "started_at_utc": "2026-03-22T19:15:26+00:00",
+  "started_at_utc": "2026-03-22T21:52:33+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-03-22T15:51:00.242232+00:00",
-  "window_end_utc": "2026-03-22T19:15:26.330320+00:00",
+  "window_start_utc": "2026-03-22T19:15:26.330320+00:00",
+  "window_end_utc": "2026-03-22T21:52:33.590484+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 46,
-    "keyword_filtered": 15,
-    "deduped": 10,
-    "after_seen_filter": 8,
-    "classified": 8
+    "time_filtered": 16,
+    "keyword_filtered": 1,
+    "deduped": 1,
+    "after_seen_filter": 0
   },
-  "finished_at_utc": "2026-03-22T19:16:15+00:00",
-  "summary": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
+  "finished_at_utc": "2026-03-22T21:52:41+00:00",
+  "summary": "이번 실행 구간에는 새로 올라온 관련 기사가 거의 없었다."
 }
