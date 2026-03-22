@@ -1,104 +1,36 @@
 [
   {
-    "title": "Iran threatens US-linked Gulf energy sites after Trump gives deadline to reopen Strait of Hormuz - BBC",
-    "summary": "Iran threatens US-linked Gulf energy sites after Trump gives deadline to reopen Strait of Hormuz BBC",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5",
-    "source": "BBC",
-    "published_at": "2026-03-22T13:50:28+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 13:50:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "15bc0ea602fc72eae1c3e9f9d5b390070c3acc8c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issues threats to US-linked Gulf energy sites after a US deadline, signaling rising tensions.",
-      "event_key": "iran threatens us linked gulf energy sites after hormuz deadline"
-    }
-  },
-  {
-    "title": "Your Morning: Iran promises retaliation if US strikes power plants - NewsNation",
-    "summary": "Your Morning: Iran promises retaliation if US strikes power plants NewsNation",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXVBR0FoRjBTdEtQclNBZFk2aW1faEtMaS1PS3pvb1Y4aVZYYU81WnJDeS1qbnN6SE10emszRmJSR2h0cmFUMGdiQUJpZHBKZF9jYUhUcWtpM0szeEd1cnZ4SDV1NUtIQlZaRGNYdUk3QWdwcnlhaS1mVnI5MDBWRHE0d25mMEJiMXZuOFdhTlVlcWI5OXRIRmdwVkgwRkwxQnBVMHlud0k0NmFwMUHSAbMBQVVfeXFMUFNMbUZueFBzbUxWdGw5MHlTbFIzczB2ZmFKeW50VzY2eUtBT2xMbDhaYlgxSzVXMDFhUEdmT3FnbWYzWGd1aU04ZTVVcmthbnp2WVpIYVFCNGxNU2Z2MVdKMHlJUGc2N1R3MkdsMUhUem9fR2JRMHRQVEl1Zkg1d3ZhbFM5QmdPbDFDRU1TOEE5WGlEb3dDdEpUVTZVVjdEbVVkUExvMFdNYlFwcGFlbmVreHc?oc=5",
-    "source": "NewsNation",
-    "published_at": "2026-03-22T12:28:14+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 12:28:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a94dc8e45cbc96045518639373cae3c8f7876561",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran threatens retaliation if the US strikes power plants, increasing tensions and signaling potential confrontation.",
-      "event_key": "iran threat retaliation if us strikes power plants"
-    }
-  },
-  {
-    "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know - Al Jazeera",
-    "summary": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclpXV0tqN3l4dmxLZFBuS3IwUTFteTFSeGlxYUE3aENPSGdub0IyaEptN01JSnJudmZUaGlvUzktS19XOV9KTW9NVVFoWUdqRzdscjdTQUd3WWJLUTFxMWZtcTUwTXNiaExNYlFXLWpPcFEyQko1eXVHTENrQjlWYWczX1FBWDJlSHRnNjlwMXdOanBuSi1zMlZaVkk5N0lKUVR6cGE5ZDFsREdsRl9jRUp6UW7SAboBQVVfeXFMTmg3a1lwZFU0VElmREJJaUh5UjE5ekZTLTYwLUZuNU9Dci1rcDVRbXJrcWhBZUN1ck1kRWpLdldobDRqZUVnOFVDaEQtRjNoaVVNTVFoN0FlODdjNnE5dmR6TlZfNjh3Z0YwSmVsYlVYODQ0MlRMRXN2M1lVRVJabi1tbHNJRGtDX1g3YXpRV0tadXZweklUTmdlbEJTRzd1WUhGM1JxLXZVN3NvalN5ZUJKYjcyeV9mODRR?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-22T13:08:19+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 13:08:19 GMT",
+    "title": "US and Iran threaten to expand the war to the region’s power plants - AP News",
+    "summary": "US and Iran threaten to expand the war to the region’s power plants AP News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklRRlJocUJXejUtLXl4U3M4WGQycThnVnF1S1V0QnRldE5Ud1MwYklKNEQ2VGx1VnBIWEZGMkJ3T19UTHliLWJzQ2xmMGRxRWM2SVFfeTNwaEhaaHJ5SV9zNW9xdmgyQ01HbGtIWlZCZmdDMk02OG5NU1h2ekZDR1Ryci1fek9UUU9ROC16Sm1KM0tMTDBxd080NWhKTE02bTFEXw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-03-22T15:11:00+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 15:11:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0d42b6821f5488188f070f127afae9f44aa21775",
-    "source_weight": 1.0,
+    "article_id": "81c108ce02e0baccbe886b7953a709f08ee510f2",
+    "source_weight": 1.1,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Article examines alleged Iranian missile attack on US-UK base at Diego Garcia.",
-      "event_key": "iran missile attack diego garcia"
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Mutual threats to expand attacks to regional power plants indicate rising tensions and hostile rhetoric.",
+      "event_key": "threats target power plants escalation"
     }
   },
   {
-    "title": "US and Iran trade threats of expanding war after strikes near sites tied to nuclear programs - KGET.com",
-    "summary": "US and Iran trade threats of expanding war after strikes near sites tied to nuclear programs KGET.com",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQllUQ1hzT0xaMzNzOEFvN096a0V0YmNWd0czYWllaUYtY0pGNWYtOUtHTnRCWkJmUXNLNktHRzI5TXlUUEI1NGFiZEsyVlJlSzlrODdVMTVHM2ZoMURsMWZtUzhPdTM3OVFOVXRBUEFCNTJXWEJET0VoZzBKVWFmbGJRajQ2QmNHOFN6a1daRjJjQUdNU3Z2UHdrMThhLWphWUhneVJLV0tqbHpSa21LRExTbnZvRnfSAbwBQVVfeXFMUEE2NWlQN0RkRU5jT3JKUTBDSnhTQmtUT1JuMm81akgtMWxCRmo2WkxjaGJ0RmFscmF2dHJGVFlNVzhfR0RydU1WM3dYSGNVaGlVV2xTOFB2M0E0R0w3dnFlR1FrckM2eEt3UXdOQ0x4QkdWQjVzOW9UcXUwQk5sc1pHeUhpb254QjNTZE02TDlNSkdmMjZlQzBqVlExR0xpUllNY2dsTlpoVTYxUFdQV09aMXRxWUxCY3UzWXA?oc=5",
-    "source": "KGET.com",
-    "published_at": "2026-03-22T12:57:26+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 12:57:26 GMT",
+    "title": "Iran says it will ‘irreversibly destroy’ Middle East infrastructure if US attacks energy sites - The Guardian",
+    "summary": "Iran says it will ‘irreversibly destroy’ Middle East infrastructure if US attacks energy sites The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2VNek9TaWN3Z2wwc0RnTVNBUFRqQllzd3cyTU43TS1YOHpjV0szU3huTTlhdlVDV09lY1lwZWFtRUhLYXF6WnhhMVRVNVQ1bmdfbUhZcDZHUFFHdUZObEVpVWN5TkhaUmpJR2w5RjhDWk9VM2tNSW0wTm5JZHVST053LUNRMEE5ZEFwTVZWMlBLc0llVkZadUVMazBoZGJmblNuZUVENnJPUQ?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-03-22T14:55:00+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 14:55:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "27da5c57d4ea24a014e9b4c668493bf0581d4f30",
+    "article_id": "4b2dcdc462e3a3bcba46a6b943b9ab8d60ac7607",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Mutual threats of expanding war after strikes near nuclear-related sites indicate rising tensions.",
-      "event_key": "us iran threats after strikes near nuclear sites"
-    }
-  },
-  {
-    "title": "U.K. confirms Iran fired two missiles at British-American base in Indian Ocean which failed to reach their target - CNBC",
-    "summary": "U.K. confirms Iran fired two missiles at British-American base in Indian Ocean which failed to reach their target CNBC",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXRkeXdSYW1jYVNjbmpsM0Z6UE9USVVFQTBwcDZnX0dqN0ZGYWh6YkpHaDBuZFlQMnl6Q1R3cENVWFBaSmx3SmJkM0V2blJwWjNIc0d3TFhGYndlazlnejBkOHNqVk4xY0FMdlVNLTl0Z05ONDhBeEEtcm41QS1CaWhfbWJPYmhmWmVaYnhvbVAyZmdHaFdTNGpTaldTd9IBowFBVV95cUxNM3FaOHM1bFNsUnNiYko5OFBVTVNMR1NaM1g1cFF4ZTRURXRqNzVEMVdqdjZvbmhzZENGVjBlUzA5ZWNPMFZHNk9kdmc4d1lXRlFzeTVBekR2aGlLOXpXR2h3ZVNycjZMTnhubEVDcWVpVW9QS0V6WENDTDE3UFpndlh6WWZPTmV4aUhIQ2JCd0tPeDE3cHpFcDJLUnBDcmp0SldN?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-03-22T11:11:16+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 11:11:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1bd7f44ecc2a7ac9af725fa1235a0e7888ada9e2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct Iranian missile attack on a British-American base in the Indian Ocean.",
-      "event_key": "iran missiles attack indian ocean"
-    }
-  },
-  {
-    "title": "TRUMP’S ULTIMATUM TO IRAN: The US president issued a strong warning to Tehran, here’s what he said! - Serbiantimes.info",
-    "summary": "TRUMP’S ULTIMATUM TO IRAN: The US president issued a strong warning to Tehran, here’s what he said! Serbiantimes.info",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGZ0UXZZeVhWNW16ZktYY2VBczBJbjNiS1UyeC1YX0N4eFVGa2xGTXBZWG05YVBvem92bUVPZkJwYjZHZEZPUzZnc1ZUME9ZOU5oWDNzbThvZjZYanFrcGtOTkRDY3J2VnZYaXAtWng5b1k5cVRrNXpqSVYtNnhCelZnMU1GcFNlZHpEc1BpdzREVzdUTEs5OG56MHVhdmJjRzB6RXFIMUpHMHFWLUJOQkhBQndXRmYyMGg5MkYzbDR3dw?oc=5",
-    "source": "Serbiantimes.info",
-    "published_at": "2026-03-22T12:34:47+00:00",
-    "raw_pub_date": "Sun, 22 Mar 2026 12:34:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f22709e9d4e4dc3e8cec9f0683bbce362f43398",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US president issued a strong ultimatum/warning to Tehran, signaling hostile rhetoric and rising tensions.",
-      "event_key": "trump ultimatum warning to iran"
+      "strength": 0.75,
+      "reason": "Iran's explicit threat to 'irreversibly destroy' regional infrastructure if US attacks signals escalatory rhetoric and heightened tensions.",
+      "event_key": "iran threat destroy middle east infrastructure"
     }
   }
 ]
