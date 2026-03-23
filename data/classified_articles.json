@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "title": "Polymarket Sees Coordinated Buying on Early US-Iran Ceasefire Contracts - Bitcoin.com News",
+    "summary": "Polymarket Sees Coordinated Buying on Early US-Iran Ceasefire Contracts Bitcoin.com News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSEd5WXd5R2c0ZWF3RHF4Y1M5d0pFd1VTX25MbC1DZUs2bW9mNGM1cXJielFNaU1xQzV5X0VMTkt6MGRYYjZfTUsyczBiQlFaQlBMUUswYm1uWFR2RFVrRmctdk9ETnkwM05IY2Y0TlZsZWpjdEdhR25YTFZTWjg3Z2dhYk50NWxCSC1tTXFMYXRoX2FPRVMzTzNwckxtQQ?oc=5",
+    "source": "Bitcoin.com News",
+    "published_at": "2026-03-23T01:33:33+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 01:33:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "12fadc604ea4314d38fa66c7e5dfc5ae9265b7ca",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.2,
+      "reason": "Prediction-market coordinated buying implies expectations of an early ceasefire, an indirect signal of de-escalation.",
+      "event_key": "polymarket early ceasefire bets"
+    }
+  },
+  {
+    "title": "On The Brink: The Risks Of U.S. Military Escalation In Iran - The Organization for World Peace",
+    "summary": "On The Brink: The Risks Of U.S. Military Escalation In Iran The Organization for World Peace",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkxOWDZFb3RXaGhRd18wQzlLNWIyc1hHNmdhRkd4dk1xTVVzNGQ3Nkxfc3NhdFBqTVNLb0hLU0tqSXp1T1VSaXVlYmVYalg2N085MmwyaHJkZ0RoYWRjYW8yRTQ2dkgyaTN1aHdISVV2ZnZUWW5ya2xqTHdtYnNzOXNLWQ?oc=5",
+    "source": "The Organization for World Peace",
+    "published_at": "2026-03-23T04:54:20+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 04:54:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "892ae53e2c8b2c25eb57919489aab52566d8aeb8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article analyzes and warns about potential U.S. military escalation and rising tensions with Iran.",
+      "event_key": "us iran escalation risks"
+    }
+  },
+  {
+    "title": "Sky News Australia. . Iranian Foreign Minister Abbas Araghchi has responded to US President Donald Trump’s threats to reopen the Strait of Hormuz. - Facebook",
+    "summary": "Sky News Australia. . Iranian Foreign Minister Abbas Araghchi has responded to US President Donald Trump’s threats to reopen the Strait of Hormuz. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObGEtdy1FOEYyaGtfY21QdzF6LXg3M2lPRmdVUXZkdE8zSjVRdEVUdV9WRjVQNlFuN1YzMDRFOVVRTlZjQ2Z4a0x3S0VETVIwZXlWT0RHdmhTV3hxaU9nNTNySVJBSW9nYTUxcTJPWUZiMEJLWTBNZVNYTXNlX2Y5ZUFPQVcwUkc2OVlEYnl2Ml9sanNHVHVFS2VacW1YQVdWNkNwbzFBdzFOckRETzlBVkJiQU1iODhMOXN6S1A0NFVWR0xIa1Z1WWh2dmFuck1MX2ZUR0RuenJGdFQwbU5Zcw?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-03-23T02:05:01+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 02:05:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d0ffba80367707cc8d8ffad0b6c6608c7069739e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US threats to reopen the Strait of Hormuz and Iran's rebuttal signify rising tensions and hostile rhetoric.",
+      "event_key": "threats reopen hormuz iran response"
+    }
+  },
+  {
+    "title": "Iranian forces warn of broader retaliation if US targets its power facilities - China Daily",
+    "summary": "Iranian forces warn of broader retaliation if US targets its power facilities China Daily",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hQWtPR1hnWmMtVE53UW9jc1BJeWF0NThIMVBLcEYyeWNmWDkyMTBKVUtOcDQzUVUzVUpXZ3JNakFjN0NpbS1wc3lNYXFXTExmSnZ2UHpiWkVCanVwTkFFclg1c2JaWGdqVGdIR2UwWnJpRkljc3ZGbDdkSk1aUQ?oc=5",
+    "source": "China Daily",
+    "published_at": "2026-03-23T01:18:00+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 01:18:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0dbff2bea6b9f638310beab73e93f56bd60fe2a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iranian forces threaten broader retaliation if US targets power infrastructure, increasing tensions.",
+      "event_key": "iran warn retaliation power facilities"
+    }
+  },
+  {
+    "title": "Iran warns of wider retaliation if US strikes its power facilities - National Herald",
+    "summary": "Iran warns of wider retaliation if US strikes its power facilities National Herald",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0p2UzhvNjZKYUNtdkktS3I3cnREM3dyaEpYOF8wMmJPT2ttYWRFTndnSXRkRm56Tzd0d3NEUXNSdmRwV0xIOV9Ra1RfUjY4aG1SelVubDI3cW5uVVl4bUNLLUFkbkpEYkl1WEs2eW4xVkZIZEhVTWR6cFoydnZVUFRuY3V4RHhjM2ZjNEdOT0MtMy1laEhTalBLRU83RnlUZjdGYVB1ODFUdlowWkx2TUp3SzJPYlXSAcQBQVVfeXFMTUx6S1FXSk12dkk5OTdzUzlyTFh6S0I0MFpLbFN1T0xmRVZLQWl0Ny14QnY0WU1CWEpjc2hpZEI1d2FleWQ1N0RVVVhJQmlVVFp0RzRGajR6OGFyaU9meU9oaUxJWUhCbU9VM2JXTFIydktXb0ZRZUVHSXNYZmM5OHkzWi1WRFFWNDk0eVhiS2lqOUp1enZ0QXVCMTVBUWNteHpBd1BISTFsQy1LUVpldXhlV2prN2FuVG52X3A3Yl92b0JRTg?oc=5",
+    "source": "National Herald",
+    "published_at": "2026-03-23T03:29:20+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 03:29:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6274c828f2c6ef264ad4582ccb373d4e3528de85",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran warns of broader retaliation if the US strikes its power facilities, a clear threat raising tensions.",
+      "event_key": "iran warns wider retaliation power facilities"
+    }
+  },
+  {
+    "title": "Oil prices rise, gold tanks as the US and Iran trade threats - Business Insider",
+    "summary": "Oil prices rise, gold tanks as the US and Iran trade threats Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXRoUGZmOXJ0LV9xY1ljamdQY3A4dlROVEZnbE9Lc19IekFsbHFmcUJoVUdGakd3WUlIaXZnV2VUQ0ZUbVlzTFRPNmp5bFNjUTcwR1pCTG9YR2FKS0h2RkNvREhEZzJpeHAtemV1d2VuZE9YVHpjR1JHNGtCR0lPX3VMQ3V5ZEgtdl9KNQ?oc=5",
+    "source": "Business Insider",
+    "published_at": "2026-03-23T04:31:56+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 04:31:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "68b1dce8328f3fadb37c4cd273f59256c891c2db",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article reports mutual threats and rising tensions between the US and Iran, not strikes or talks.",
+      "event_key": "us iran threats escalation"
+    }
+  },
+  {
+    "title": "Asia stocks slide as US and Iran threaten to intensify war - BBC",
+    "summary": "Asia stocks slide as US and Iran threaten to intensify war BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweFJsRVRtMVBmVnhGZXBCUzNSbU9QNWJYdHlicEd2aHQyY250YXg5ZGVNR3NQZnNVUms0azI4Z2FVNWZFQmFXRm5Wd2pTbXdXOTRnQlJTSXF5Zw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-03-23T03:00:32+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 03:00:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f1eae92529aa6a86d2c88834277288ad4facb1f0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Reports of US and Iran threatening to intensify war indicate rising tensions and hostile rhetoric.",
+      "event_key": "us iran threats intensification"
+    }
+  },
+  {
+    "title": "U.S. and Iran threaten escalation, and Robert Mueller dies: Weekend Rundown - NBC News",
+    "summary": "U.S. and Iran threaten escalation, and Robert Mueller dies: Weekend Rundown NBC News",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VYmcxUFJYYkNIZGJPRkgxTFBId1Q5dUVCUnJMUU5sdjd4bjBHNmRwMDFsQnZKLTRpNjdVdXhOckctQ1FLRWo5MHgxcGlfeVVwWnRqUGJjMVhYaGVmZ203VHNjdm1BbndoVDRWbHdVM2FyNHBydklDZkpSTjI?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-03-22T22:00:40+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 22:00:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "16ac7e9e03584823e402e9b3399dc8ad13ac032c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Headline describes threats between the U.S. and Iran indicating rising tensions and potential breakdown toward conflict.",
+      "event_key": "us iran threats escalation"
+    }
+  },
+  {
+    "title": "U.S., Iran trade escalation threats over power plants, Strait of Hormuz - Washington Times",
+    "summary": "U.S., Iran trade escalation threats over power plants, Strait of Hormuz Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTBIeTNNNHplZGZDVkFQd1ZMRjkzbHpNaU1zdWM2ZGNMQ3pVTWthNlpheTJoSDVWOU50bVhqU1oyc2kzNUZsVHBSV0pJUENnYlljdEZTR0VabTFoSWxLem5iWS1MRW1HbmxBVVVvSzN6OWdJeXZONzR3REhESlR2ZUd0dk12UjFUZzl4N0NWMVV1UU5iQm5QUWltU2M3TlJoT3BYOUgwLTJwd3NCWlE?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-03-22T22:51:55+00:00",
+    "raw_pub_date": "Sun, 22 Mar 2026 22:51:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3c1a1bd11bad2a4fcd3a91cc264a9fce8c19f975",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Mutual threats over power plants and the Strait of Hormuz indicate rising tensions and hostile rhetoric.",
+      "event_key": "us iran threats powerplants strait hormuz"
+    }
+  },
+  {
+    "title": "Bigger US strike on Iran today? Trump’s 'mild' warning as 48-hour deadline expires today - The Times of India",
+    "summary": "Bigger US strike on Iran today? Trump’s 'mild' warning as 48-hour deadline expires today The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTUphbjk5TU1WN01VTW8zeUNnMFFuTWw0MW54S2JaY2huZEhVOEc1WTNWS0tiZUZURWdOM0JJdndTd19GNzRRMmJBUDhRazRRV2lDbEx0NjJ3TjJVZVdxNzhCNHpEY2xwWmNnQmhHNDdqaVB5SHVvelFNc2pKOGVjdjNMeEE2WmIyZktiZmtMa2FOTDRmbUpYeTcxS3VxMmFrSW8zbXNwdEpKZG50aFFtWVh0YlVfakpvazdYdG5feGlsSk54QXNQemlzRmwwdHZrRURQWld1T205V0QyVnFBRHU4alBJVTFzdGQ4LVJ2VGhEcEowVXVj0gH8AUFVX3lxTFAxeXZqa0xST1I3cUFGOEpZMUVvbThjbEhoTXNfVnh5dk1ENVI4Tm5YZlJ6dmZrQVBwbTk1TmsybVVFNV96VDdxM2s0Z2hVTThtbFRCQ05zZGVVT3ZhX1JMYThpdjZWUG5ZXzZBcXFwM25Kb2QtT0NWMWl3SktrdFJ3MWRzOVVhQWRmRnFaUlJMWDc5MWJheHgzbWd3QWxIQlFsaWxmc0lpemExaTFnTHdtX09uNzZzcUJKYUhCVnBTQnFqN1NXNG9rUmNxZ2p4b1lpaUJycXhVVmZJbENnRUNqOHV3X0J5d3hNRThHbWdyU2RZYTRHd3luRHFWRw?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-03-23T04:36:00+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 04:36:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d97cc99c6692115a4389e7e9e0d3da80caa4315",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Trump issued a 48-hour deadline and warning implying potential US strike, increasing tensions.",
+      "event_key": "trump 48hr deadline warning"
+    }
+  },
+  {
+    "title": "Sky News Australia. . Donald Trump is not messing around with the strait of Hormuz. The US President has issued a chilling warning to Iran with an ultimatum to open the strait of Hormuz or face obliteration. - Facebook",
+    "summary": "Sky News Australia. . Donald Trump is not messing around with the strait of Hormuz. The US President has issued a chilling warning to Iran with an ultimatum to open the strait of Hormuz or face obliteration. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmQ0VGxfM3hrTE5mX1kwLVBkSllhbGpWeFBWTHpUMGRVblQ5bUVEbHV4SGRzOE55YnlqOUZndWc1Ul9XZklWWURLVVB1LUFXR2ZSWEg4RjNMQjRLTEhFT2N4MnBaQ29iUjRKOWU5ZTU0YmE5NGo0REE2TG5LR05ieEJYSHhiUHBnd0NINVVYaGFHOGFzX21YVEgzcVhsN29IcFJldUdXLXVvRmF6R09FTkx5QUR3ODNxUmJ0Nk11dVY1WXNvM2FhZ0xITjNMOEJyUEExaU9QbzNMcER0Y2Y4XzhR?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-03-23T01:37:05+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 01:37:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1287fdab9355c1322901c9168dd59cddd8dbba6a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US presidential ultimatum threatening 'obliteration' over Strait of Hormuz constitutes hostile escalation.",
+      "event_key": "us ultimatum open hormuz"
+    }
+  },
+  {
+    "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build - CNBC",
+    "summary": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build CNBC",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZqU1h4bzlUaE01THFNRjhZMnJSRDdQdC1xaVE4b3FzWUk0dURaRFNDT3RYSnl3WElJSzF4MWtLUDNtdEx2ZnVhTHFVNnYyWXJJZHZxNzFwQU43azhDQ1lVMXpUREo3cU9ERFhpYmNsbldXNXZRd0JBcGRMU1JFdkNJMlF5NVh0RkZScDZDQmV1UHZQeGpMcElKVdIBoAFBVV95cUxONjU1Nlpva0ZJTXlSZGhScTV1QzNjZW1FWWkzdEttNXhSZUZSM3ZxU3otSHpUZTEwdldkY0gwTll6THJlSXRxNzFWZGd6S1h2eXc0d3ZzMGVnWC1ldGhSSHc4dWkwcEV3ejVNMU9kVW5MWjVjMGNlVU9BRG9mc2RKVzNJdkJZdDN1cnNkdVFOOHV2NTFTLVNPNUlsVE94R1oy?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-03-23T04:28:54+00:00",
+    "raw_pub_date": "Mon, 23 Mar 2026 04:28:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "308d0f69c162223bce8a39f8f32191a24f12626f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Article reports parties raising the stakes and building tensions around the Strait of Hormuz.",
+      "event_key": "strait of hormuz tensions"
+    }
+  }
+]
