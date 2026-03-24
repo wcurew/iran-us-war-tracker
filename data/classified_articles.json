@@ -1,121 +1,240 @@
 [
   {
-    "title": "Iran Attacks Israel After Threat To 'Remove Any Hope Of Negotiation' - American Top 40",
-    "summary": "Iran Attacks Israel After Threat To 'Remove Any Hope Of Negotiation' American Top 40",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRi1fNnFkbjVnWHlaS28zVGFiMFpORmw3d2pXM1R2UUlmMTBVQmE0SVlNT3VwcGY3UkE4cFdob2N1YWRyZmcyZ0xWd2pwQ0hONFNpdFVmVU56WmJWRldMTHh0X3Z3dm44dnh0dTF6WER4VEpXZERNVnlZQ0RlN0cyUW1QdGpzaW5LdUhPUm1mOEFSc0ZjUmNWc2NDcWJIYzRtRnFyYS0xWS1fNzZkV2tYcEVCVUNRVkU?oc=5",
-    "source": "American Top 40",
-    "published_at": "2026-03-24T13:18:00+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 13:18:00 GMT",
+    "title": "U.S., Iran to Hold Critical Ceasefire Talks in Pakistan This Week - 조선일보",
+    "summary": "U.S., Iran to Hold Critical Ceasefire Talks in Pakistan This Week 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeS1sM2hmWXh1c1Vtdl9nWUlaVW9aXzVjNUR2YjFIa2lodU1oWUNuMHFlTTZlREd6UmVTTDZFSDhodm5iTGRfZXBUZlRYV1FqRXltZGZVWW1OZjh6ejNpb1JlTy1pWlBtWjFFdGsxbUdOYnJCS0hkanpOVkV0Rk5YVnl0Sk0?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-03-24T15:59:30+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 15:59:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3e93327ab3786e9b5c679a2143c874b9f60893b2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Scheduled diplomatic talks between the U.S. and Iran specifically to discuss a ceasefire.",
+      "event_key": "us iran ceasefire talks pakistan"
+    }
+  },
+  {
+    "title": "Pakistan offers to host US-Iran talks: what to know - ایران اینترنشنال",
+    "summary": "Pakistan offers to host US-Iran talks: what to know ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zS2k3UklSWUZhX1RZam9IUFZ1VWhnbXRiLUlxdjg4ek5tblppamJmalk3OHJJLTBGd2p6Snc2TWZOd2lPOXc3VWFHOXdtb1ZLTGc?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-03-24T16:53:00+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 16:53:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aa1578545b3f96b78ad121a6539c6ffff4137dfb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran carried out an attack on Israel following a threat to derail negotiations, indicating a direct military strike.",
-      "event_key": "iran strikes israel"
-    }
-  },
-  {
-    "title": "Trump says peace talks progressing as Iran officials deny negotiations - The Washington Post",
-    "summary": "Trump says peace talks progressing as Iran officials deny negotiations The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUt2aWJIRUluMnc1SGRORkZpT0hnaXpvcGZJbmFadlo5ZWlWUW0wTnVxV0VZZ09DazliOVlYVHRsb0Q5Z0h3d1Q5R1ZBbFpWN2hMS2Y5MzVXYUJqUlpMa1JTZVZvcG9MU1dFT3MxOXczZml3c01vSVhuN0ZWMHZadERIRE43NGxkT1ZsZG9xS3RDeWFHSEZCSHJHc194THZ3ZXEtUQ?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-03-24T15:02:08+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 15:02:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "493e1a02944578280b4822ca26f0d38aadd05455",
+    "article_id": "33ba35a847688fc13994638e480429698c5b8114",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.4,
-      "reason": "US claims peace talks progressing while Iran denies negotiations — centers on diplomatic talks/backchannel claims.",
-      "event_key": "trump claims peace talks iran denies"
+      "strength": 0.9,
+      "reason": "Pakistan offering to host US-Iran talks indicates active mediation and diplomatic engagement.",
+      "event_key": "pakistan offers hosting us iran talks"
     }
   },
   {
-    "title": "Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? - Al Jazeera",
-    "summary": "Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakhNVTZFQVJxQ0RoQ1VZdHpUV0pROVBfSXctWEZvSmdNRHhkOURqZ2ptb0NwWmZRVGtndjlSVm0wSWdCUF9VbnRJN0ZKcWhDTmxKUXh3MC1pakE0RFpyNjlBbUZSdDREcXZfOUF4MmhoU3F4dVY3YWFDV2lHNS1DYVF0VnZiTTEwQU5od0dORGZ1SE1wUl92ZE0tVmlDcjZLSU83OFhVQdIBrAFBVV95cUxOLU05aUl1ZlY4Rkl1S1cwalg0UXp6QkJRWmp2UURpR1BDMEEtWFhBbmhtWDVUUnZ4UWk4M0J2ZFNZdnF5SE1LWEEwZWZUdG9BVGJEV2JIN2l5NzNWLUp0bGdhMTVqNzlZSlhSRTF3OUdyTUJpZmxsRVU3eDJfTnM3QjdjcG5KbV8tLTVsd3hTZjRLaS01eEYzNlBuNWdMQXA5ajhJdlloWEpoa2dx?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-24T13:45:13+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 13:45:13 GMT",
+    "title": "Small window is open for US-Iran talks, but swift end to war still unlikely - BBC",
+    "summary": "Small window is open for US-Iran talks, but swift end to war still unlikely BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rV3o0SmJTUDdteEhjN1o1X2FDUC1Mbi1KN2RUZV9VVTZhUXRTU09mMkJyaFZzYzYyS0FVRmJXNEh2Sno5cndsM0pla0R4dDUxZlpzQlpBZUxEQQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-03-24T18:04:04+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 18:04:04 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0c12dafd1f0f8c5d8c7ce6317643bbb99cf70164",
+    "article_id": "b012f2f970804047a73a77c659a01654ee2d60a1",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Pakistan offering to host talks signals mediation and active diplomatic engagement between the US and Iran.",
-      "event_key": "pakistan offers host us iran talks"
-    }
-  },
-  {
-    "title": "US 'shifts' towards diplomacy with Iran ahead of midterms - France 24",
-    "summary": "US 'shifts' towards diplomacy with Iran ahead of midterms France 24",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTJmYXNLdFNzX3NuZGJGTDh4TTZfUE1UM3E0a1FJRFZZbEdEcUc0bzVrWGZvekFRR1dkMXBDbTE3U3lldVdoaFMtcEVkZ3VtRHFuX0h0N2o3WTBISG8yeDhyZ2NpVXEtVlZFa2pLRVdvRWVRbFZEMnlhTWp4LWdKcUFSVkZiNnpqU09J?oc=5",
-    "source": "France 24",
-    "published_at": "2026-03-24T13:37:24+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 13:37:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "50845c94a932894e4365dcd6f6cc7d84ff233cb5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Report describes a US shift toward diplomatic engagement—a calming policy signal rather than confirmed formal talks or ceasefire.",
-      "event_key": "us shift toward diplomacy with iran"
+      "reason": "Article reports a limited opening for US-Iran talks—active diplomatic engagement though outcome uncertain.",
+      "event_key": "us iran talks window open"
     }
   },
   {
-    "title": "Trump Cites 'Major Points of Agreement' as US Aims to End Iran Conflict - cbn.com",
-    "summary": "Trump Cites 'Major Points of Agreement' as US Aims to End Iran Conflict cbn.com",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3hFdWdjSVpUQTM2dkZYdUhZTDFhaFBmSjRlSXRNT2tvdGpkNkJxM3l0TkJqS3FvMy00eDZXbUt4V1B0LTN6RjU4SUZqMmVGTWxJeWFpclRDekJyeHRMTURVOWRoeTZ6R0ZRelRmRUVHaF9LUWViclNjMnAzdk1mYm5pTnBQNGpBZ1VydFdfNUNxZw?oc=5",
-    "source": "cbn.com",
-    "published_at": "2026-03-24T13:51:17+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 13:51:17 GMT",
+    "title": "Pakistan offers to facilitate U.S.-Iran war talks as Trump and Tehran give mixed signals - CNBC",
+    "summary": "Pakistan offers to facilitate U.S.-Iran war talks as Trump and Tehran give mixed signals CNBC",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFcU5fd2JSNHE1Tmk5MFozdTA0TGVvN3VycEpISkJFcURjcjdfcUdzOGROOW9qQkFQWDVSeFVnYXlnY3IwdDVRWWpIajVYTFhYeTBXVEMxR3VhZVdqMzBleW5rOHBUcWY0dU9UaTlsN09STzhZ0gF6QVVfeXFMUEZkdUdQN0VQOXoxakhjN3hXaHh4MGtGeE12ZDhndGpDS2UxLWt1b1BHU1VraW9iYXY0LTFrRXdFdWloVHVqRkYtVF9oa1ZVellMREEyanBoUkxtck9VUWlWT254TGV6Zlg0N3dCVFc5cEhsZEFfeHJNZ1E?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-03-24T16:28:30+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 16:28:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5b41e2f40f9b075b2cde1e465e4f1a961644cdf0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Pakistan offering to facilitate U.S.-Iran talks signals active diplomatic engagement despite mixed messages.",
+      "event_key": "pakistan offers facilitation us iran talks"
+    }
+  },
+  {
+    "title": "U.S. awaits Iran's response on peace summit as Israel watches warily - Axios",
+    "summary": "U.S. awaits Iran's response on peace summit as Israel watches warily Axios",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80cFpRQmE2c3p1N3JsY3drNW9zYmQ2RU1pRjR0Y1NVUzhaazY1U3JQbVo4Tjc3dTF5cEcwT2dCdFhUejdDRk53cnhwQUpuZUIwbHl5b2RPTmtQNE4za3BRNzhYTUNReTh4VlFhaEFpZmY3bDg?oc=5",
+    "source": "Axios",
+    "published_at": "2026-03-24T17:59:52+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 17:59:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5c9814ffd089066c41a6ff9d3591bc2e68ee5e92",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "U.S. awaiting Iran's response to a proposed peace summit indicates ongoing diplomatic outreach/negotiation efforts.",
+      "event_key": "us iran peace summit response"
+    }
+  },
+  {
+    "title": "Iran has offered US oil-and-gas ‘prize’ in talks, Trump says - ایران اینترنشنال",
+    "summary": "Iran has offered US oil-and-gas ‘prize’ in talks, Trump says ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BdVZHTHduTURxVXkyMC1XTWViZDF2QjUyYWVGUWpSMXZBQlNrbGZ3YmQ4X3JWdGpwQklJeFFYQUtTbmZjd2NoWFVxRE1ZY0ZzNHc?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-03-24T19:12:00+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 19:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c4985eddfd2415ce655b728d855cf864058e119",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Reports Iran offering oil-and-gas 'prize' in talks—indicates active diplomatic negotiations.",
+      "event_key": "iran offers oil gas in talks"
+    }
+  },
+  {
+    "title": "Prospect of US-Iran talks puts Netanyahu under pressure - BBC",
+    "summary": "Prospect of US-Iran talks puts Netanyahu under pressure BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMcWlBMEpiN0RUcklZeXpqaDdKaG41UWxxRHRvUHd2OHFFb0JhNVpZalh5c1lCLXJUYUc4V3FoZlBXWmVvU3V4MGpaZEhtcmlYWTBZOFJZWDUyZw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-03-24T18:00:11+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 18:00:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2b0b238c8c45305583594432ee232fa95f080879",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Article focuses on prospect of US-Iran talks and diplomatic discussions affecting Netanyahu.",
+      "event_key": "prospect us iran talks netanyahu pressure"
+    }
+  },
+  {
+    "title": "Discussing US Diplomacy with Iran: Rubin on The Michael Medved Show - American Enterprise Institute - AEI",
+    "summary": "Discussing US Diplomacy with Iran: Rubin on The Michael Medved Show American Enterprise Institute - AEI",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGJIdTRzQmgyX2YzMlZuWFN6aUZzekZ4dl9GUWRSc1EyRUR1YTRIc2RUenE5VkNxWGstWkRjSVNRdGxLa1ZhUWMwMEtFbW5LNG83LXpKTGNhcDdMdm1VaHp4aGpsRVlBRW5qRS1lYmRpcTZGaXZ6Q1hSWmhHalQ5OU1sSWh4dHk3OVdWSlAzQWM0MHhhQ2kzQw?oc=5",
+    "source": "American Enterprise Institute - AEI",
+    "published_at": "2026-03-24T18:42:23+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 18:42:23 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "238b167cd80888ec4bdf659ac0ecf149d0978ae8",
+    "article_id": "65f80acfa080b1cda5b35f9aafb9e61df0a1bc17",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "Media interview discussing US diplomacy with Iran, indicating diplomatic/negotiation-focused content rather than military action.",
+      "event_key": "diplomacy discussion rubin medved"
+    }
+  },
+  {
+    "title": "Iran's parliamentary speaker Qalibaf floated as possible U.S. contact in talks as war rages on - PBS",
+    "summary": "Iran's parliamentary speaker Qalibaf floated as possible U.S. contact in talks as war rages on PBS",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGxtbjdMcUpfNGp5cGdPWS1ZSmdHOFJUZ1RnOVMwWXpqNXo0TFRWcTIwNHdlRkJiOFJPS2FhU0VFdlBxSld6Rm1rbld3UXdrbmR2aF95SUlHM1NQaGdzOFd1X29UUElrV3dLSnR6RDNuWTdHMy1uT1BxaUNZRTBUVWVOT2h1TUhWYmJ6b0dleUxFTnF3Zk9oSHRkVFM3X0xsN2hDV2J2QWtyYk5QZnlYcFA3UG90UW54aHB5b0lxTldPQkpkUnfSAcsBQVVfeXFMT19CT2dQSW1xVE80aEVtNTl4Tkc1S01jR3E3TkczTnZlQjNvTTZXYlh4ZVBOOHl2Ym9QTllabkxXNzlzVUxYVlFMS054ZzVsV0lydXBaWl9pV1BtcFJ3QmM2RWw1NDNnYXFiOUxGRndEZHpvTW9fLTlIYllhVWdLY2plaUU3RVNxQVhsaExFcm9tdjViU0daT0dBRmdLeG05RUpwRll2anFrTEo1M1VfaUI0UDAwWlhickEzeFRON3lJMmJ1Nk5qdkVjak0?oc=5",
+    "source": "PBS",
+    "published_at": "2026-03-24T17:13:33+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 17:13:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9e8d05c8124d57c94d8bf9e92b477941af13749f",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.75,
-      "reason": "Claims of 'major points of agreement' and aiming to end conflict indicate active diplomatic progress or talks.",
-      "event_key": "trump major points of agreement pursuing end to iran conflict"
+      "reason": "A proposed contact (Qalibaf) for U.S.-Iran talks indicates active diplomatic engagement.",
+      "event_key": "qalibaf floated as us contact"
     }
   },
   {
-    "title": "Iran hardens stance on US talks as war reshapes diplomacy - middle-east-online.com",
-    "summary": "Iran hardens stance on US talks as war reshapes diplomacy middle-east-online.com",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWJRZWhTWmdUcnZzLVI3RGlpZWE4OUNvRTBVcUVJUFpqbWNZUkNxZjQzSE9mWF9MVEZ5V3pveFlkZDhoYkxRMGlaZzd6cTBHM3AwNERrNE5rQkhWVkpXWXlGWC1QREpqc2VUY0prblFHa3JrSlZGMklXVktTd3NoWTB5Y3ZMOFJrMUgzLXFR?oc=5",
-    "source": "middle-east-online.com",
-    "published_at": "2026-03-24T14:28:26+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 14:28:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "67e9275c6fba5ae03ec3b95cd1da0beac240d076",
+    "title": "Iran names successor to security chief killed in US-Israeli attack - Al Jazeera",
+    "summary": "Iran names successor to security chief killed in US-Israeli attack Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDBIdFRFVXUwaGRmSEF2OGlFc2ppN3g2bWFmbkRzMDJzcW9oamdyckZDYnJHek5JdHBNa3F2cUhrSkI4c0ozMHp4MGtDc1lYYXVEYXhFNm11dUEycTJuNW1fbjNpSFRXTmpFZmQ0Rm5OMXFtUU4zZDBuYkFVVW5sc1NlY0NzRVZpTTUwUWRWRmpDQjI0VXJXOUlBZDMzcHFXZ3V5VDVOSkd3WGs5QXBXM2p30gG3AUFVX3lxTFBjZDQxTGxTcTJZVDVuZmZJaWxDa3drOWpOR0ZhdXZqMXUyU0VYQ0xVUHE0Y2wwZ1Q4SmJpeGUzeG9GeVNrSHpBck50b3pGajJSXzY2R3JZMTAzVzNDa2FQMmpDZEFJeXAxQjY1dER3MHFHSGYyaHMtS1NLc2J6SHdnN1REVmZMeFlkX1JZS1Z6MFhkc243QU9LeDB0dE1wcmxRU1p2Y0wtaS1DN3BUZjIxUTkxUVZMQQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-24T18:19:11+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 18:19:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "42b563fbcda16d895d003dc6377560bd03d68795",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran hardening its stance signals breakdown of diplomacy and rising tensions with the US.",
-      "event_key": "iran hardens stance on us talks"
+      "reason": "Appointment follows US-Israeli strike that killed a security chief, indicating heightened tensions and potential retaliation.",
+      "event_key": "iran names successor after security chief killed"
     }
   },
   {
-    "title": "Iran targets Israel and Gulf Arab states even as Trump says US is in talks to end the war - KMBC",
-    "summary": "Iran targets Israel and Gulf Arab states even as Trump says US is in talks to end the war KMBC",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1dPNGpiOVR3Zi01ekVuNTVGVUVaUWxWcUs1UGFKOWhpeXNTQ0R1b0RrV0pua3ZpTVVBeXYtTDhMaHB5NnRuSGd6cWZyc1J2dTdNMGtOUE4wSGUzdGl2WkNHZ0FEQWtMcTcxQnF2bUFOREF6S3pQNHBueW9pUk9hVWNLa3h1TFR3S3c?oc=5",
-    "source": "KMBC",
-    "published_at": "2026-03-24T14:06:00+00:00",
-    "raw_pub_date": "Tue, 24 Mar 2026 14:06:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f161467ee7c4a6ccbc2b7999b57dcb0692e38fa7",
+    "title": "Deadly strikes in Iraq blamed on US and Iran - Courthouse News",
+    "summary": "Deadly strikes in Iraq blamed on US and Iran Courthouse News",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTlCNWRWaEdSYTlYOG1TcXpnbVpLSUo0RDhma3FIZFA5aTQybkMxM0p4UGY4WGFUS3licVVqVk5pcnRDLVl0d1lCMm1ocDRkYWNOSkI0MDRreEFLOWQxcktMTU1UMEh1QkdlUjNydjFGY2tEZV9uZ2NEb1pjdHhRSTB3?oc=5",
+    "source": "Courthouse News",
+    "published_at": "2026-03-24T17:37:30+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 17:37:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8a2f0a597fd442020dba160310ddadd9d2d7d7b2",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran actively targeting Israel and Gulf states indicates direct military strikes amid reported talks.",
-      "event_key": "iran targets israel gulf"
+      "strength": 0.6,
+      "reason": "Reports of deadly strikes in Iraq blamed on US and Iran, indicating direct attacks or retaliatory strikes.",
+      "event_key": "deadly strikes iraq us iran"
+    }
+  },
+  {
+    "title": "CVA Welcomes Signs of De-Escalation in Iran Conflict - Concerned Veterans for America",
+    "summary": "CVA Welcomes Signs of De-Escalation in Iran Conflict Concerned Veterans for America",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlZnd01wMHdLem5ScFF2MkZ6UndZN3lVdkRBY3dRajRsNTdnUWRSY09MSjJmSjM0c0xKNV80WEVSeTd2SHBzRW5rZVJ3NVNMbGJ4YXV5aEprSlg2WkRLY0ZWYXphY2oxYkFVVkxpaGdnOTJLT2xoRWlYOExwX0VUNXJjUUV1SW4y?oc=5",
+    "source": "Concerned Veterans for America",
+    "published_at": "2026-03-24T19:07:01+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 19:07:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4f26f87143850ea5768b3946bb9408cd3825e6b7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "CVA statement praises indications of reduced tensions and restraint, signaling de-escalation rather than a formal ceasefire.",
+      "event_key": "cva welcomes deescalation"
+    }
+  },
+  {
+    "title": "US-Iran war: dynamics of de-escalation - Tactical Report",
+    "summary": "US-Iran war: dynamics of de-escalation Tactical Report",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXpYekFDTmJmRlAzN2NmTXFfdWlrN19zOTQ3WC1ZMFpUY1M1amx5VFF5VkdRM3R1MTNWRW5uZS1vNm95anJhRWRfaUxqcjE3U3ZfTmVSeFJkc0RIdTU0X0pTcnhqVU9PNDJxZl9BUEFOVUhXMHpRYm9HUVpvaWIxMk9oeXBtWWs?oc=5",
+    "source": "Tactical Report",
+    "published_at": "2026-03-24T16:07:36+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 16:07:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f2235aee137351812bd7361a53845aea17ed1be3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Analysis focuses on de-escalation dynamics and signaling rather than explicit ceasefire or strikes.",
+      "event_key": "us iran deescalation dynamics"
+    }
+  },
+  {
+    "title": "Iran war leads to worldwide warning for U.S. travelers - Deseret News",
+    "summary": "Iran war leads to worldwide warning for U.S. travelers Deseret News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVy1TRWpEMks4UnV6WG52VzBRZWx3VWhxbnVVbE9WSEdFZkRUaGdOZkNXRkF2NFZCaTk1OHFsRGRQX29HSFBoT1BpVzFoejlmSUxlUzFZSGpnUjNKbkpENnFLWldNdk1MRktCQk5IWlFkUi1KUFpacFNiaTRWZ0pWcXJSVVVhY1dPdmF1c1lBemRfVHpNZFRkSEVqbTlFb0x3OHBVVUh4b3M1Tmw4a01jYzN0c2RQUHF2a2wtQzN0b1p0N1Vk?oc=5",
+    "source": "Deseret News",
+    "published_at": "2026-03-24T18:58:16+00:00",
+    "raw_pub_date": "Tue, 24 Mar 2026 18:58:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6c583913d08271deb3b8a28798a353b61b57d9f5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "U.S. issues a worldwide travel warning tied to the Iran war, signaling rising tensions and security concerns.",
+      "event_key": "us global travel warning iran conflict"
     }
   }
 ]
