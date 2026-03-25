@@ -1,223 +1,274 @@
 [
   {
-    "title": "US offers plan for a ceasefire but Iran's military says Washington is in no position to negotiate - AP News",
-    "summary": "US offers plan for a ceasefire but Iran's military says Washington is in no position to negotiate AP News",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVVzQjRTdGtHV0k2X0ZQYWRpRXJqMHhpUE80ZUFTZTFadFl3RGZjSWpjV1FTTEJYY1h5WTdwU2d3RWlmdEFGNV9QX3dpaEhFU3QtLVdKQldfUmdqY2JRUjY4SU5SY0NhNFY5WDBQaVlMOUQ4NTdsRXIxZHllOUsxclR4N3JmMTc5Z2NMR2IyZDJ0ZS02M3dzSjdCSFFULWFxeVNrYg?oc=5",
-    "source": "AP News",
-    "published_at": "2026-03-25T06:11:15+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 06:11:15 GMT",
+    "title": "U.S. offers plan for a ceasefire, but Iran says Washington in no position to negotiate - CBC",
+    "summary": "U.S. offers plan for a ceasefire, but Iran says Washington in no position to negotiate CBC",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CaEJzam1TTVRYaFNWbzRZaVBuWjU3ZGVINnprQ3VzUjFnaWtyb1lZWDJZUnBmX1YzcThuXzRROVFmTVY2ZlUtLTM5Z3Y5UmVGV1ZvbkpLaVhudEp5eWVrel9FMzlpeTZNdHI3aTdDb09FR3pudHJn?oc=5",
+    "source": "CBC",
+    "published_at": "2026-03-25T08:56:59+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 08:56:59 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5817ecb8170ace1e0e35ecb9e508e59577467993",
-    "source_weight": 1.1,
+    "article_id": "be48cca2d278f1b3eebd4ef4a719f833060faca6",
+    "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "US offered a ceasefire plan (diplomatic proposal) while Iran's military rejected negotiating with Washington.",
+      "reason": "U.S. proposed a ceasefire plan; Iran rejected U.S. as negotiating party.",
       "event_key": "us offers ceasefire plan iran rejects"
     }
   },
   {
-    "title": "Iranian military mocks US attempts at ceasefire deal - WISN",
-    "summary": "Iranian military mocks US attempts at ceasefire deal WISN",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83QlpIZE9DaHdFQmhoTkM2RC0xb2xRTjNveWhPZHk4SF9wNmFpQUo1NUdZaFBhX3k0UXc4d0JMOFhWN096REt4V2plcFlNd0p6VUZpTjhmYV9HcUQ1TGhSNVVJMHAxZW9Pakp3QndOUlVLN090bkk0eg?oc=5",
-    "source": "WISN",
-    "published_at": "2026-03-25T05:41:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 05:41:00 GMT",
+    "title": "Live updates: Iran says US negotiating with itself as it works toward ceasefire - NewsNation",
+    "summary": "Live updates: Iran says US negotiating with itself as it works toward ceasefire NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzhrTzYzbkprZC03SnhfSEdod1VfWEJoTU9VUzNoR3hzTWR3X0d6V0xqWVNhcjdraVBrYWZ3RmtmdWt5LU5VVHZjUFBPX2t5YWNnUmVTWTRudWdkX2lIR3JZa29IZDBTOGQ5aF85LXg1MFJqSGNIVldldWN1TUhqYjN0RkdyajkxdDYySy1WQdIBlAFBVV95cUxOTG05VGU2cmtrT3BfVnpxT0RaX1dCRXBMbTZTX21zdWtGdkVBMzYzaHdzOHZZT0FRTEhySnRXVVZUUG11VTI1N0xzOUp4OThZSHMxaTdHMGZoNk1TZXZiUklkOC1maTNnb3NVSjlvWjFwLWNxOEtQb1JiNHJRZlo5OFhlMjNmOXRzS2JfaElld3FJUWdE?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-03-25T10:01:53+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 10:01:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "257861dad00078d15b944e87372bbddb5ea5d193",
+    "article_id": "77048c15698544796c0cd6a613b35510bcb18e26",
     "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Article reports US working toward a ceasefire and Iran commenting on negotiations.",
+      "event_key": "us iran ceasefire talks"
+    }
+  },
+  {
+    "title": "Iran has received the 15-point US ceasefire proposal, 2 Pakistani officials say - WTOP",
+    "summary": "Iran has received the 15-point US ceasefire proposal, 2 Pakistani officials say WTOP",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2F1QWV3SmdMbXZmdG94dkE3QXBMSWdNLUdEYXZZTHctUWNRNExoTHZIWVdzS0ZlOGprbTVHN3dZRG91Nm84NVdEazJoQ2U3Uk95ZC1UUDVjTFM4bExUQVV1RGxWd2ozNmhvcmdJSzJlZHRDSXNsTHVmYy1RNGZaaFVpLXdzTmZ2Ni1VQTNQeFBJYXFjMkE?oc=5",
+    "source": "WTOP",
+    "published_at": "2026-03-25T08:49:51+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 08:49:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fb03ec2341ec2348c8bed7d4421b2b5fffc47386",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran received a US ceasefire proposal—active diplomatic proposal exchange indicative of talks.",
+      "event_key": "us 15pt ceasefire proposal received"
+    }
+  },
+  {
+    "title": "Iran received a ceasefire plan from the US but Tehran dismisses idea of negotiating with Washington - TelegraphHerald.com",
+    "summary": "Iran received a ceasefire plan from the US but Tehran dismisses idea of negotiating with Washington TelegraphHerald.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUU5mWUdsSFdJZ25JR1RZRXNHTDNBMm05Vm1vYU5oTFhQZjNZRlZtQk1pM1V1MkxRU1psazhwQnFRc0VnTEozRWt2RHdSa0libFNvS3Ewdm4wbDkxd0dYVEhGOG91VEFpYXZ5dW0zTmpRWFJqU2U5OFI3aVkzUXFQalRDMkd0X0pHc2xrWXBfOTA5OTVRd0dWeU13bFl3LTl4NElV?oc=5",
+    "source": "TelegraphHerald.com",
+    "published_at": "2026-03-25T10:00:00+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "07c3a139c1b2e6fa58aa9a05d1cfbad93bb0413a",
+    "source_weight": 1.1,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "Iranian military mocking US ceasefire attempts signals rejection of talks and rising tensions.",
-      "event_key": "iran mocks us ceasefire proposal"
+      "reason": "US ceasefire proposal was rejected by Iran, signaling a breakdown of diplomacy and increased tensions.",
+      "event_key": "us ceasefire plan iran rejects negotiations"
     }
   },
   {
-    "title": "Closure of American bases in Gulf, reparation for attacks: What Iran is demanding in potential truce deal - The Times of India",
-    "summary": "Closure of American bases in Gulf, reparation for attacks: What Iran is demanding in potential truce deal The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdmx2U3RtVmhiSzNyeE1qTnNGMWNNQ2FRdGxOUEJ3YTlFcmhDN2Y2bVBhblFaSkZqaXRNdXlFY29aa0VqWHBjTG1ESWJ0ckdCZ1FCYXY2Qk5KWHRuVmVyZlQ4RnZKWWRsWVliZzBiQXZQbFdueU04OGU4bm9za0pweGdvdmtPa1Y0WVBXeGhhU0o2S3BSWjIwbENkV3hZdzVrRXlkMElmaVBfTnFVNjA3aWtVZmZZTl9fV1Rtb2l2aDgtb2NTcm80Zlh2U1F2SnRhRjM3SHlqZVI1VUJZVXYyaEl2V0RJLVgwSC1UX3V5dF9SVDVKdlJQUlhxQUxTelE4ZVM5WUQ5X0Rmc25WWkxsVVpvRkt0aEc1UWFv0gGgAkFVX3lxTE9rQl9yWk9ELU4tOTJLWlBSRk0waExrOE5NODBldkwwT0h3anZYejlDS090NVN3aG1aWm1OQ2tqLWpWbUI4MzJLVE1uY3dTVC0tUl9WRFFzMTJSZVZULXJrUDM1WmJsUktYcWJYUlRPbk1JeFVtSFN5TF9HZlFhWUNFX21KX3BNS3JQR1Y2dlQ4SHNOalUtSGctcmVmMHpfVVU0TGRqOEpfQ25EcGxrTVlHU1Q4WDFUTEIzX2c3SjdDenJpN3dxakwzS0Nhdkw0QlphSGwwQ05PZkFPbmtiSU5HZzJ0VjVkQmo1eEtzSlVDMUJnSnFrWUxTR19valE0ZUJtdUxkSmtxR1R5TWNxeTFCZ3cyamlEUmdjQXE0TmFoRw?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-03-25T06:33:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 06:33:00 GMT",
+    "title": "Oil prices fall on reports of a U.S. ceasefire proposal with Iran - MarketWatch",
+    "summary": "Oil prices fall on reports of a U.S. ceasefire proposal with Iran MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOci1xbUVXZmN4Z3VrUE5sZjRmWUpBcmtPQm9pREh4LU5ENFJzMlJDWk1FUXJrVi04OHo1Y2lOQnkyY2N4VS1yZVdkZzJCTzJNamJsczZxMTMzajUxOGxrbS1BQmpmeFA3VlFUUXZEUHNjTHc4ZElKX3ZsVmpCVmVGdUtfTU9yTG9mUzBKNWZjR0tCR21fa2pHdmpPMlJmcXk3V0RuaktQS09Ca1M3Vkk1MUhNZUJxZGpENi1aTHQtM1d2WG13RjBadV84by10cWEwbXhlQklKNG1PYklpd2ctTkNJbkY2ZE5ta3B0VlBnSkZqcFZKYUtIOG9MblNHOE80bjNOTENZUmllMWs4Y3lBdWRzMTA1MU1LTnhDcFE1R1AwN3RHSDloQ29mMFZ1NDl6Vnh5dHlQSFZyVkFSNWFXY3lZQmZaZG95S29OdEJSSzhUcEtpNGNLVk41ZkNsMnJxVG9PUlcwaV8tWnNaYndleWxrMjRTd3oyZVN1Y0VsZGtTOGUxM2xJYnhRcWcxbGVoNEgxQ2VkaGJEaTBjdW5vY3NrVEVIUWd2NHh2aVpjTjQ?oc=5",
+    "source": "MarketWatch",
+    "published_at": "2026-03-25T09:39:00+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 09:39:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0b0767768ab3c0f5776f075ed54b1c0d0f13b4a1",
+    "article_id": "dedbac35cadb8508353c6608977ec9ee062c3de1",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Article outlines Iran's demands in a potential truce, indicating active negotiation over terms.",
-      "event_key": "iran truce demands"
+      "reason": "U.S. reportedly proposed a ceasefire—an active diplomatic initiative rather than an agreed truce or direct strike.",
+      "event_key": "us proposes ceasefire with iran"
     }
   },
   {
-    "title": "82nd Airborne troops heading to Middle East as Iran mocks US ceasefire plan - Idaho State Journal",
-    "summary": "82nd Airborne troops heading to Middle East as Iran mocks US ceasefire plan Idaho State Journal",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORHdRWHMyYXJrRVVFeXlVNnEzUDZWcURpaWloOEM4aWZOeFlWWGlHWkJSWTZmYklJVW04Zl9Va0JpdVVSRnhIZkk3NUh5aGNEMXctNWczQml3dF9VR1BTeDh3eGNHa0J5bHVWYXhMRHRhUnJLd2tSbjJaS3BjR3Q1ODFJNkg3YndtMExyTTA2bk5JM2Zic0djdk1Hb3NDVGE3d0FrczlkLUZYSXNoeUR4S1U4cURRUkdmcExNTWNHOWJHcUYwMDR1T2JHYjhDRkItWjFFX2ZJN0JaZU9SaFMtTDJ5bjRXYmRJTVQ3TTgzY1dUTUpKZ3dZaTctSkRhTkHSAYQCQVVfeXFMTm1GclBjejFPN0c0bzJveHd2bk95RHVlc0tRQXdtRmxwd1V1SHZCcXZ6OE5JSXVKSEFhVk8zdTlDRUNsMS1CNWNBcVVsSlpsSGpCbXVzTmdWYXZkMHRzRjAzTTd3VVloODRpazJYMjdSUzFVM1ZyWXVxTUw3LUtNaTNaUjFSb2IzbkhWa3NYME8wUEZaS05oS3poQlJTNkdIczVKT3ZQSlVpTVd4VUpnQ1JYcjllV1JYRUpsUlN2ejNtajZCZDR3NDhXQUpnUktXTHVEdnhBVldxZElwOFNjemU4YWpfaDlXYnlFOWNIMzlVV3d2Q3l0d3dEbmU1eUFrTnE4bjk?oc=5",
-    "source": "Idaho State Journal",
-    "published_at": "2026-03-25T06:08:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 06:08:00 GMT",
+    "title": "US Offers Iran 15-Point Ceasefire Plan as Fighting Rages On, Pakistani Officials Report - The Media Line",
+    "summary": "US Offers Iran 15-Point Ceasefire Plan as Fighting Rages On, Pakistani Officials Report The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2ZKVWxWRFV2dE84cnExd1R0Z1ZhQmJSQ3JRTnhnU2hMVzhOQlJ3RlhqbjZKbzg2WEhUUE1NRUQ3YUpkRVoySlNGM3BfNWdYR0JIaDFmcFY5VWJla2lGUkJXZnMxajY3NTNBMVYyY2NNcG0tWmVRQnh0Wm1SVmR5ck12bjNEMjlFWGcybFRPdnFEeEJ5YjdWdEcwdFhJZkF1X3ExU1ZmcVByUlljWTYtQmhaak0zQXFxeFFjME5YOA?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-03-25T10:43:56+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 10:43:56 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d20dc1dd32fb28b948205156d127de9226ce4408",
+    "article_id": "0df1b06c718f9b8e686fff24ab63fce0bd85567d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "U.S. has proposed a 15-point ceasefire plan to Iran—an active diplomatic proposal, not an agreed truce.",
+      "event_key": "us offers 15 point ceasefire plan"
+    }
+  },
+  {
+    "title": "Iran has received the 15-point US ceasefire proposal, 2 Pakistani officials say - Northeast Mississippi Daily Journal",
+    "summary": "Iran has received the 15-point US ceasefire proposal, 2 Pakistani officials say Northeast Mississippi Daily Journal",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQlRKS1RfWTljc1VCN3BDVlNtT1k3U3BNV2RiYU0zRnNnZTNMa20yZ3JQaDF3ME53anFiTThlQzZ5ekpubjdtZ3hFX0RQcDY0N1doZGh5SDZpTkE2YVdZel9nV09fYkdCZ2l6aDdTYTZLMy1ZVE1odTFZNDJwZ2R4QjdNOFM2RERBRTBUcmhrX2V4R3hoOXRSX2hIcVJGaldZT2dOQUtQTmRtMGRxbS10QkRHRlN5a3cxcHl1cURiQ2tZUnFlZjRvOTlwRDVqT0w3VWJVU2RsYXQ4aUYxUTl2ZTZDUHlmZkI4OUNIZlJBSTl0WDdKdWx3Q3BWRmJKMDM1?oc=5",
+    "source": "Northeast Mississippi Daily Journal",
+    "published_at": "2026-03-25T08:29:37+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 08:29:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dfe45d421a98f809dca0dccca52644f3b930d55b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US 15-point ceasefire proposal received by Iran, indicating active diplomatic engagement and proposal exchange.",
+      "event_key": "us 15pt ceasefire proposal received by iran"
+    }
+  },
+  {
+    "title": "Iran received a ceasefire plan from the US but Tehran dismisses idea of negotiating with Washington - Northeast Mississippi Daily Journal",
+    "summary": "Iran received a ceasefire plan from the US but Tehran dismisses idea of negotiating with Washington Northeast Mississippi Daily Journal",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUTJXZ0NkYlFRT29ueDd5UDVkZWwycGNFeTB6a1RiYWVwN1VUckc0S2JEaTlPeDMtVjc5OW9sTFFSVmNHQTFEaDk2YkR3WWdsYzhEQVpRV2p3RHNkcGl1ekNoaVBZeFJhQzdTZHloTDNKUFRzdGlsVFMyc3dxTENwNElDSW5QNnRkSnVIenh6UFk0TU1hUHBZNkZmYS1GdUJxRjZ3UUN2d0N0cUdEVU9IOXpFMmdPRko0VXltam14UDBuT0JiSjNPVXk5OEpNQms5T2JYalpfUWRwUzI5SmRrYWNUN0xqY2k1b1E3c01lZjRaLUt5enNzVFlhMVdFUHpQemI1bE9UUm1xeTR6SHc?oc=5",
+    "source": "Northeast Mississippi Daily Journal",
+    "published_at": "2026-03-25T09:43:09+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 09:43:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b531cce5b33eb91f3c8d8a6d3ed2d53c64487744",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US 82nd Airborne deployment and Iran mocking US ceasefire plan indicates mobilization and rising tensions.",
-      "event_key": "us 82nd airborne deployment iran mocks ceasefire"
+      "reason": "US offered a ceasefire plan but Iran dismissed negotiating with Washington, signaling a breakdown of talks.",
+      "event_key": "us ceasefire offer iran rejects negotiation"
     }
   },
   {
-    "title": "US offers plan for a ceasefire but Iran's military says Washington is in no position to negotiate - Northeast Mississippi Daily Journal",
-    "summary": "US offers plan for a ceasefire but Iran's military says Washington is in no position to negotiate Northeast Mississippi Daily Journal",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVlRWOFgtR1ZuYUozMWpsOFZqcU1QMEhONVNTYThqVWFzWDQyY1RJbkpxUnBhSmJEMHpGd25jV05Ha2liU1d6LVhrWlFCSkxuZTQzMkRhT3hNUTNuX1FKeXdldldITU1saDFGUFNSdHBwajRQRmxGa3l1M05hN0k2Rjlqb1hoQXZWN1d5VHNhLXZRX2V1ZFJvaXFublFSYXZ3ekFiY1pNVExILUllU2dyQWtlbWZOTGx5ejVzT18ydjIyVkZ1TElpWE9BOTU2QTFWRG1CbVEyQTlCVnRNbktXT015d3pKQWhBcF9IT0lENWJ5XzBqSU5HUm9SeGpuZXBxd3pzQjI4MA?oc=5",
-    "source": "Northeast Mississippi Daily Journal",
-    "published_at": "2026-03-25T07:20:40+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 07:20:40 GMT",
+    "title": "US issues 15-point ceasefire plan but Iran still insists they are not in talks - ITVX",
+    "summary": "US issues 15-point ceasefire plan but Iran still insists they are not in talks ITVX",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHdxMHBCcV9uTEt6UndGRXRYMHBwSjFLME50cVlyVlpsaldsOFR2cVkwVkx2ZzFmSEZDU3lGM0xYN3Q1dXptTlRWN19OQjlUT2U4QUd3QVRxaUNMWDhxOVJ2NU4yckwyUG1qQjFZYzhsODF1UjJsaFBKNUN4X1dJLTM0NHNUc3oxZHEwVUhjVmFoZ2Q3aFFtRnZidVN2eTkwRExvMFV0X0NPdDN5MTZfcHZzSG8?oc=5",
+    "source": "ITVX",
+    "published_at": "2026-03-25T08:41:12+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 08:41:12 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cc198f8f0a6de77ebd12bcfd1bc6cf7d660c4861",
+    "article_id": "a5b01a9255b889e7b49a158798cd2d42196f5304",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.6,
+      "reason": "US issued a 15-point ceasefire plan while Iran says it is not engaging in talks.",
+      "event_key": "us 15 point ceasefire plan iran denies talks"
+    }
+  },
+  {
+    "title": "US talking to itself, says Iran as Trump claims wheels of diplomacy turning - Al Jazeera",
+    "summary": "US talking to itself, says Iran as Trump claims wheels of diplomacy turning Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUlIQlllTmg0eDFSNWF5ZHVNWkczRGVSMVBTa3BtM2JxMmpMam1JTFVqeTJJQldWT1lwOXg4YlBwd3NrR2xtb1pPSWJTVWdPVEZjZl9mMHluNzJtVlI1SXpBenc4Zl9OUEhNd0x0ZkRXUzdxVTMxMHlFYUtYVkhKWlZ5enJ2QlV5TkZIa0l0LWV2NkVwc2FoRkg1RHZ0MlEwbmVCOVVZbkN3bmtwODdlUE5ZQlZld9IBuwFBVV95cUxQb3RCenRPMkZuRGxZcW90R1B5dGJVZ3R1VGZtb2xua1NXWlBjU0NheVVJNDMxWmdHOFl5Qm05UV95b0I1bURLcjE2dVlkSmpFV004ZDZIaVR2ZDg2VUVmdnZHckJVVTZrLWxoRlFlZ1BqSDlpa0d5b1I5SjZfaXp3SzlWbEdKSFJqdFFORGNCLS1YblJCWi1HWDg3S3hTanpWZ3lYcEhYOEVZSW42SHJ0UTREWHBQRFFvTFpV?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-25T08:12:02+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 08:12:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "88b8c263d71774f75763a49e951de71b722ed402",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Discusses diplomatic exchanges and claims about resumed or ongoing diplomacy between the US and Iran.",
+      "event_key": "us iran diplomatic exchanges"
+    }
+  },
+  {
+    "title": "US 15-point plan reaches Tehran as Iran publicly scoffs at diplomacy - ایران اینترنشنال",
+    "summary": "US 15-point plan reaches Tehran as Iran publicly scoffs at diplomacy ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jMUhEZEZKeEpUZWlDUWZ4bjZuZVRIQWc4cE40ejJwVlRhX19mZUkyWUk1YWdYa1lCRnNMcGxWQ2Vib2FLbUE4T2lUd05jbTF6Z1E?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-03-25T10:48:12+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 10:48:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "94776084f37dbf68f5fc1584e4687fab0194ab64",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US sent a 15-point diplomatic proposal and Iran publicly scoffed, indicating rejection and breakdown of talks.",
+      "event_key": "us 15 point plan rejected by iran"
+    }
+  },
+  {
+    "title": "Iran wary of US motives as talks to end war intensify, officials tell 'Post' - The Jerusalem Post",
+    "summary": "Iran wary of US motives as talks to end war intensify, officials tell 'Post' The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oVmM2UHFITmpwRkp2MVlvN2FnMzR1VE9kM2cyRTNHU2taaV9fMHMwU1IzbktkLXF0RzdWM1lFQ1lnQ0hMRnhxVGc3WVRSSFFQQV80Zy1jWm9wRlZ0QlJTbU92dmY1UURKd0E?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-25T10:07:40+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 10:07:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bda02593dcd7252bad2033e2480616abb63d9424",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Article reports intensified talks to end the war—active diplomatic engagement despite Iranian wariness of US motives.",
+      "event_key": "iran us talks end war"
+    }
+  },
+  {
+    "title": "Iran receives a US ceasefire plan, officials say, as strikes batter the Middle East - Union-Bulletin",
+    "summary": "Iran receives a US ceasefire plan, officials say, as strikes batter the Middle East Union-Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHY5bWdVYzNtWnFFRGtIZVBHNXRWUlItQkl6OEVQYzVKS1h5dkJuRTFIdTlvcGpZU2ZtcmxhaERhcjdlaDRNRnMtZ3RWamxQblg3dW5ISU1hMEE0Si1UNXpBTTVUeDRaNjRaNl9peGFDNWh5WVU0VTVWYTRjaWhZb05TREstVkUwTEI0RHk3azVzOTQyRGZzODAtLVJOYWN1UjRNZUstdmdiTTI5eGdPLXdyb250U2NSMXRiMXRkenFZcHRYTXIxQ2tpSUxlZmU5SnBQdmo2b2R2aHNJa3VLUnZNRENkNVdrbmFoZ01yaTBFTVpnVnhhVHZUVC1kQW9CS0FV?oc=5",
+    "source": "Union-Bulletin",
+    "published_at": "2026-03-25T11:21:37+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 11:21:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "efb88483ebe51f911bbdf0eccf56425a1532c375",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "US offered a ceasefire plan (proposal/negotiation) while Iran's military rejected negotiating with Washington.",
-      "event_key": "us ceasefire offer iran rejects"
+      "reason": "US sent a ceasefire plan to Iran — an active diplomatic proposal amid regional strikes.",
+      "event_key": "us sent ceasefire plan to iran"
     }
   },
   {
-    "title": "MIDEAST STOCK UAE equities gain as reports of US-Iran ceasefire plan lift sentiment - Reuters",
-    "summary": "MIDEAST STOCK UAE equities gain as reports of US-Iran ceasefire plan lift sentiment Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXZLRkhrTmIwLWt5WDRqdHJTRWptalN0RGJ3WUp2X2tVcVBzcXlxZGVsaXk5OHpBUExzWHJwdno3UjYyTVZnaHdRN1pBN3VlVXBKWlRNajNMUEtidG5zNlJHUGVtZFlVLXFDSWpjMW5JMWxNYldzeWtqRlNaNDBMYW5SWnlvcXpENE5vZW85eGgwYkVQUzRCUXVDWUF6cS1JM25Ra1k5SG1Mai1IV1cxNHpNZk9KOW93eWlMU21VSE5lQ1Rqdm9tekJHTQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-25T06:54:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 06:54:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6f53919065bccc200afa26de6cbcdac0cc4b3da9",
-    "source_weight": 1.15,
+    "title": "Iran’s missiles pierce Israel’s defenses, raising doubts about interceptors - The Washington Post",
+    "summary": "Iran’s missiles pierce Israel’s defenses, raising doubts about interceptors The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczBqcmpQYUxQR0l6a0l1dUlkcGNQbnRyd3VZdENWaWRRU2ExNXNaUXNjOEVpLTNmd0VjaC1hVFBkVFAzTWlJai1kNDNxbTRiUHlDU1dGRVJ4SjYycmNwZXhqSjRrR0h1bDFPbTdBUmZtWEQyR3JwZ2Zxd211VFN3eDJsTi1tZWxM?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-03-25T11:13:21+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 11:13:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "50b75c02c1fa57d29d24721361897d43e171212c",
+    "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.6,
-      "reason": "Reports of a US-Iran ceasefire plan boosting markets indicate an expected pause in hostilities.",
-      "event_key": "us iran ceasefire plan report"
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Covers Iran-Israel missile strikes, not direct Iran–US diplomatic or military developments.",
+      "event_key": "iran missile strike israel"
     }
   },
   {
-    "title": "Shutdown of US bases, Hormuz transit fees: Iran sets tough terms for ceasefire - India Today",
-    "summary": "Shutdown of US bases, Hormuz transit fees: Iran sets tough terms for ceasefire India Today",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS1JKbnQ1bkxmZXdZaTdHMWU2QkFjT2wwOWJFSmNQdkIzQ1dKUERCbl9HdVFyaDhXV25HQjlES1pJVnh0V3AyMzZVTnNRQ0M3ZGZjaElKekRYSjA1UDVGQkprenVvVkc1WkFOb1UtX3lKanJXSXBGY2t1RjdsY3lmeE5yS1haWTNZSm5lelNVSDRaSVFnWGhIREdxN2t4UEhNOFdFSnFMbVZTSzlFLU1WNmFTSl93MG1TNlozU25XN2Z2b2xTMWVkR0N4UUVERDJXbTNGMnJXTDB5UkM5LVFZTmozcGo0U0tUajZGc3AyNlp1MVBYUENCWUd6OEZmbU94NHc2akFkLURTZlQ4d0VMUtIBlgJBVV95cUxOSTdOM3ZKQjNrRlZjMndLRXl1cHlJVEhNOWpoQ2FQT1VMZ183eFhfQUNiMkhOWTJNYkZfdlYwYkxfeUlJcVBzZlVzbC0wbG16Y05od3B6UTl1aE1MbldvWEVBbE5kRjkwemdJNWRGaWE2cEIyWlhOR0VGZ3JpNjJnV1Q3US0tM3lyVXNJMm1GQ2QwUkdGS2dzb2tKaUp1VC00UFI2SklnMkZ0LWEzeGV1dXBDMVdtQzEtdjFIejgweXQ4cWJadnpXVkdHQ3BXY3hnWmdiRUdnR2JVdWV3dmxHWWtsRnpMakFFdW1abDZtR3VBMTBNWEpIN2M5R3M3WUJwcFdIb1NObEF1MkZSTXFGczNCVmVYdw?oc=5",
-    "source": "India Today",
-    "published_at": "2026-03-25T05:36:40+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 05:36:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9afcc830002d22c00b41fef889dd6a694bb81afb",
+    "title": "Turkey Emerges as Quiet Broker Between Iran and US Amid Escalating War - moderndiplomacy.eu",
+    "summary": "Turkey Emerges as Quiet Broker Between Iran and US Amid Escalating War moderndiplomacy.eu",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzVKS0dSaWNEakhfQWUwamVqS0p3ZTREdzhTSmVxWkpzcWtHZXpWMzJXTHVDcjBOdlRUSlJJYlduS2hVeXRCM0lqVXEwNXpocHB2M1RqTm5rQ2FmZWgtd0VSSnpjYUlXOHJ1ckJ3MllCSmZjUFFiMFVzeVdnS1Y0am9vTTJOUXNjV0R1ZU1tM1dzbmNscE1zNzhqcVkyVGk0alhmRWQxa3lrdndoWXc?oc=5",
+    "source": "moderndiplomacy.eu",
+    "published_at": "2026-03-25T09:58:18+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 09:58:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "af8d3730caf4936d8a392615fa2c8251b393aee9",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Iran sets demands (US base shutdown, Hormuz transit fees) as conditions for a ceasefire — part of ceasefire negotiation positions.",
-      "event_key": "iran sets ceasefire terms"
+      "reason": "Turkey acting as a quiet broker indicates active mediation/backchannel contacts between Iran and the US.",
+      "event_key": "turkey brokerage iran us"
     }
   },
   {
-    "title": "Iran Dismisses US Ceasefire Bid, Says No Room for Talks - Jakarta Globe",
-    "summary": "Iran Dismisses US Ceasefire Bid, Says No Room for Talks Jakarta Globe",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0d2OWxUZGROSEVTMGVYVkVwcUtsSlMtM2FwNzJEbS1OWlpjMzhNREpCdmFIbjIxd0ZPTTJZMWxyWmFJbzM2VVIxUFR6UjlnSjRQSlcyTEVIYkkxN2VtNmFyZ3prVzZmNV9kR1lrTy02YkV1RC1XRHJqNE5Qc0RjSmZIWmdYSkpxT2lB?oc=5",
-    "source": "Jakarta Globe",
-    "published_at": "2026-03-25T06:30:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 06:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ce70e085448acaf5bbd6652a5bbac578d99aa81a",
+    "title": "Iran Counters Trump’s Ceasefire Claim, Issues Chilling Warning To US Military | Watch - The Times of India",
+    "summary": "Iran Counters Trump’s Ceasefire Claim, Issues Chilling Warning To US Military | Watch The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2piSlNVNUxkVWdHU2MzbkM5TUU4TVNRTHpsU29Hd3BGQWdhU21MZmlIWXRZNXFTODh3dnR0dWQwZUd6ZlA4RHR0MVdwdEJHTmhiZ2hLa01tYWtmMGMxWTh6SHNReXBrODRkOVlkMFNyR3ZpUFp1NnpJSW43TXYyRms5MzhHVUlBemE3OHdkZUtzcTJMUkk4YWNmZnBoQUNISGJOTUlKMTNNMTJfTEJ2c3p3QXoxOWZueGNrTGhqcWZzbG5McEhGbXcyV1JHc2l1Q1M4WVRxcnpqclVMNlZWa3dIVUJhdmNIbjJrbzctZVM3bXJE0gH6AUFVX3lxTFA1c0xPdWF5WjRGMnJpbjRsczJIYWt3Y2Y3UUY1UVNpeVBLbWtSODZnMmJBMmVSV1FnMHh5eHNGU21iX2ZTTThISnhMMjA4ZDBidUk0Y19zWHNjMGtvU1lrOHJIdS1oaHFYVDQySnUxQzNqM0xCWE5Yd0xyenRBU0JDRGxuaHFxU09mSVdFSXVwZmNnejB0VFNiWFdXekJCYVBQYlBIaEo1QzBmeXl3eDNmcERfSjU0OGNCX2pacGdNeGlvVFBKcDIwZ2xfMzAxWEt0VU1zRTVINGU4T3BZWVZ0enVvclpuSnVVeTAxdlAzZmM4X0JMZVNaM3c?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-03-25T10:11:19+00:00",
+    "raw_pub_date": "Wed, 25 Mar 2026 10:11:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7d601f41ba1e655c4883b5936b0f0b4dac2a0a88",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran rejected a US ceasefire proposal and refused talks, signaling a diplomatic breakdown.",
-      "event_key": "iran dismisses us ceasefire rejects talks"
-    }
-  },
-  {
-    "title": "US Floats 15-Point Plan for Iran Ceasefire, Israel Expresses Concern Over ‘Framework’ Push - Open Magazine",
-    "summary": "US Floats 15-Point Plan for Iran Ceasefire, Israel Expresses Concern Over ‘Framework’ Push Open Magazine",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2hZU3BRYjctWWNHMG16X1VqUXlXUFV5TnZuamNCUlBERjlKb3BCbmtqSTFHOHJsN2RoelBQaF82MUNZV2twOExFRWZ5X1JhMVlxUTlDTEd0OWJUa3Q2Y0V5ejMxOUdOMWhSck9fN2lMM1NWbDZ5RjJBWlVId1lLak1pcWw0UjZoY0JZNFZIUjBzdEtNWE5jVzRIa3FmX0VDdzhWd295RFYwdkNWc1JZM01ZcnEwZTBHbVI4WnZn?oc=5",
-    "source": "Open Magazine",
-    "published_at": "2026-03-25T07:12:54+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 07:12:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4933b020ac123edb6e8c75e87b0774e3cb1f630a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "US floated a 15-point ceasefire plan—diplomatic proposal/mediated framework, with reactions from Israel.",
-      "event_key": "us floats 15 point ceasefire plan for iran"
-    }
-  },
-  {
-    "title": "Iran military spokesperson says US is negotiating with itself - Reuters",
-    "summary": "Iran military spokesperson says US is negotiating with itself Reuters",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFVPSndONXhnbTZvR2g0MV9uTXI2ejB0TUx0YzVsTWthYzZlaThHZ2pPR0xPY19qNThNMlVzdWJnWUUxdElDNlh3UWJiOEVNbHZpNnZHdlhrd05iZUdiUVA3d0lRbGd1cTIyVDB2Y3FyQlhJeWxLZkRMeTFTWERuOGlpQU5uQi1KbVNicDA2UDl6ZjVHMWxLdTd4Zkk3b0dMVlVOTnFHdGlhMlRqQWdFQzJ2SlpQaHpHSW41dE5kZ3VRWk5IeEE?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-03-25T05:24:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 05:24:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "275d6eb669289e9985c31c0ac3e1857e3ac75ed3",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "Iran military spokesperson's dismissive rhetoric signals hostile tone and diplomatic breakdown.",
-      "event_key": "iran spokesperson dismisses us talks"
-    }
-  },
-  {
-    "title": "Israel strikes Tehran as Trump says US negotiating to end war - Al Arabiya English",
-    "summary": "Israel strikes Tehran as Trump says US negotiating to end war Al Arabiya English",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXpYR0N2b2ljREZTMlp0UUN3SDhIaGtwalpZVVhaYy1URFlFZGViYnp2aUY5NnRFWU1RTXhmZVlKNFY2czRiNnd3MEkyN1hla0duQjk5MlFoZ29LYWE4bUZ3aUJ3LXNrMjhmcERHckVPNVJ1U1h3ZmRDZm1MbVVPd3BHVWo5OFpIYU9KN09RZFdBUFFPYkZiR1hJTk5vZEhmQ1hZX0dyd2xPWURNYVhLZzdOTnUxcU5VQWR1NNIBwgFBVV95cUxQaEJQOW1WNEVidXk5S0FxbmZMVl85OE5qYllxV2dzNmV4UWlqeG1IN2t1NUE3ZGd3aFpKakI1bV94SzM0UHFyVXZXQnFuWlVZWm1tcnBDQTdLSEMxZERZMlRpenU4cUE5cWtUN09ITnRVWUV5ZmViMldjRFU1aFJIRGZlMURMYjlZNW5INHFYakhUcklPTEQ1S1FlTk9oWGlpSGtTUDlhWEJMVENBUjd6dUljMlllMXRNSHhTX3VTZDFlZw?oc=5",
-    "source": "Al Arabiya English",
-    "published_at": "2026-03-25T05:48:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 05:48:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ca34d3d3efc8290163597d7014ba49a70543a433",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports of an Israeli strike on Tehran constitute a direct military attack, despite US negotiating comments.",
-      "event_key": "israel strikes tehran"
-    }
-  },
-  {
-    "title": "Oil Drops on Reports of US Diplomatic Push to End War With Iran - Bloomberg.com",
-    "summary": "Oil Drops on Reports of US Diplomatic Push to End War With Iran Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2tlR2o5dTgwT2NiUWU4V19SdnFOYV9aOEREMVhJMFhOUklJb0ZuOFhEYXBCM3JTRjJMVTNLazBmaGZWV1lXempySkRGcHNoSDVXRnNXZFNLd1VyaVJDXzQ0MU84XzhxQnBpRGJxWXVQZTZjcTRvWnd1N2VNWWVzM19tQmdnQTdXSDU0bm9QY285SU93V0txYl9RNTVBNllv?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-03-25T06:30:00+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 06:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8c39dcbba26aefe5de2f23c00b0f19dc97b54cff",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports describe a US diplomatic push to end the war with Iran—active diplomacy/mediation.",
-      "event_key": "us diplomatic push to end war with iran"
-    }
-  },
-  {
-    "title": "US-Israel war on Iran: What’s happening on day 26 of attacks? - Al Jazeera",
-    "summary": "US-Israel war on Iran: What’s happening on day 26 of attacks? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUtCdTFreDRwM3dONWtPQmFoZF9UNEdUMHhJejF1eUcxZEhHVUQ4XzFJdVZ6OUdkckZ2eDNpODJRSHBYYmxpbC1CS2dSOXgxclR4REhmRWlITjFUS2VnVVE1RXRKa2xtODRTeTlhN2dyWXNMejNmYVE0ZlU4R1RmVjREZGZ3TnFxNXNIYV94Sk92VG44aDZvVnFnUW1iQkdo0gGmAUFVX3lxTE54eGZkajBCaklCOElMT1k5TkVMbXlCUWw2Y2pwbUFvYmlEUTZFb05rejhuRXREajA3UXVqYWRzTlZ0QjhObTlMdkZzMHJieGJnVlF2aUFjM0xUY0pHdEY4TnQ1SE44ZW5tc3R2TlJnc29CYjVwa0lDRk14T3dWY1lZd3YxZnlPeDBkOG5ETWNab194NFAtamJjWGloWjh1Wm8xR1RYUGc?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-25T07:01:52+00:00",
-    "raw_pub_date": "Wed, 25 Mar 2026 07:01:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "39e560f0bb2e107a1c2f3bb75bb30ebd58e2a2b7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Headline describes ongoing daily attacks in a US-Israel war on Iran, indicating active strikes/retaliation.",
-      "event_key": "us israel attacks day26"
+      "strength": 0.75,
+      "reason": "Iran rebuts ceasefire claim and issues a warning to US forces—hostile rhetoric indicating rising tensions.",
+      "event_key": "iran rejects ceasefire claim warns us military"
     }
   }
 ]
