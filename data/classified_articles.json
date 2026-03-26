@@ -1,87 +1,189 @@
 [
   {
-    "title": "The Latest: US and Iran make no diplomatic headway as more missiles fired at Israel - WRAL",
-    "summary": "The Latest: US and Iran make no diplomatic headway as more missiles fired at Israel WRAL",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVEtMlFqZnE2ZFl2MjBheEk2THdPX0lSM2pCSWpZWGczaGh3eGJ0U2JEa3ZTNzRZWDgzeF9HdXpZeWVRQ3piZEJFNzBfVGtwUF9fX3JwRE9pQnNCdmttcXR4SG5GajVGWGtucUdCODJXejhhQzNPOEZ5c2Y2ZHNQa3E2Q2NxYWFYek1UY0d3enNHMkxwb1N5NjJtZFFWdG9CblRfcnctcnd0TVdxUklLQmU4SjZWYXkxbDVZLXBvQzNiNWxT?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-03-26T09:56:15+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 09:56:15 GMT",
+    "title": "Iran counters US ceasefire proposal, denies talks - The Week",
+    "summary": "Iran counters US ceasefire proposal, denies talks The Week",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42TlJDN2gtUXNfMkNEVFpsQnRQbTZ6TkowbFpGdTlkVzNPNXQ3Z2ZSSjRLMVQwaHdvN005cnJLWnJzWXFENTZMZFR3VUtzMm10MHZ4ZU5XREZQZ3VFSHVhcFJTenc4bEE2ZmJuejJqZXI?oc=5",
+    "source": "The Week",
+    "published_at": "2026-03-26T14:40:14+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 14:40:14 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "139bc57284f034ea13d09a88fe91f403491a9f3a",
+    "article_id": "75f09b049862ce0d8af3aff21b2d16fba8cc9d88",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Diplomatic talks stalled while missiles are fired at Israel, indicating rising tensions and breakdown of diplomacy.",
-      "event_key": "diplomacy stalls missiles to israel"
+      "strength": 0.7,
+      "reason": "Iran rejects US ceasefire proposal and denies talks, signaling breakdown of diplomacy.",
+      "event_key": "iran rejects us ceasefire proposal"
     }
   },
   {
-    "title": "First Thing: Iran rejects US ceasefire plan and submits its own - The Guardian",
-    "summary": "First Thing: Iran rejects US ceasefire plan and submits its own The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGFFNGVWSzdQeGFTTDdPZHcySTdMS0RCUXpPVl9vUzNHVFBqM3k1dGYwZTc3YkxmYkpaZmctamx6ZXdVMkx4OVNTa1c4bW54YlVKUDA1LTROVWtadWlSMmNFdFRlQUpKMDhtUWJvdWJRc3VpUW9XV2YwRGdsbWtRb1VCdk1GN2RSY3FLS0R3T3lxdzNuWTlkdU1MNWxTVmdkT016WTZtQmh2c0hFaW1V?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-03-26T11:25:00+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 11:25:00 GMT",
+    "title": "The US is delaying a ceasefire in Iran for one key reason - analysis - The Jerusalem Post",
+    "summary": "The US is delaying a ceasefire in Iran for one key reason - analysis The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NFd0VnljbTNtQklhbEJHVHFkb1lWS19hcXgyRUoxWVVFS1lPOExrS2JNTDIwUHh1UDRaOXctWTFVS3VEanlnZUlFUzRmWlBEZkYzZHU4U3I3VWt5U2RWZ2JzdFl3VDByVGc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-26T12:26:08+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 12:26:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bfcb4b9fcebb868bd3947fd5a4066564dc06d927",
+    "article_id": "ea412c67c8fd26a9a5797bcc2508fcef0cf5ac81",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US delaying a proposed ceasefire signals rejection of a halt and increases tensions.",
+      "event_key": "us delays ceasefire in iran"
+    }
+  },
+  {
+    "title": "Ceasefire Talk, Hormuz Pressure, and Daily Strikes: The US-Israel–Iran War Enters a More Dangerous Political Phase - The Media Line",
+    "summary": "Ceasefire Talk, Hormuz Pressure, and Daily Strikes: The US-Israel–Iran War Enters a More Dangerous Political Phase The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUhxX1cwVzFJMkFpVkt2a3VDMkJ2RW95WUFyeDcwWTk3LWREdS04QWJMNzl1Z003TlIxZzI0c3d5djJxaDIybXk5eGRVNWs0MFZxRmJoNkwzQmowbThOM2lVS29pcG56S0dXWlVTXzBpVGFaRU5HNV9DamdQLWljZjYxUm5QQ3JORE4xbVMwMWRWU1F3N0VPU0ZXZllIeUJybi16SzNmSWRvZkZ0cjFuTnc1S2pSa2tpQ0U2T181TTN5bGNaaFZGRWRpdlk4dDZaNUsxb0tQTzZYeG5ubGV4Qm1lai05QVJpZ3lKSw?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-03-26T13:23:03+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 13:23:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9c76112a336bb15d76b398451b58d4435b4b6a69",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Iran rejected a US ceasefire proposal and submitted its own — active proposal exchange in diplomacy.",
-      "event_key": "iran rejects us ceasefire submits own"
+      "strength": 0.7,
+      "reason": "Article highlights active 'ceasefire talk' and diplomatic efforts amid strikes and regional pressure.",
+      "event_key": "ceasefire talks us israel iran"
     }
   },
   {
-    "title": "No Talks, Just Strikes: Iran Defies U.S. Ceasefire Push - Modern Diplomacy",
-    "summary": "No Talks, Just Strikes: Iran Defies U.S. Ceasefire Push Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSERoMURoRTFSNEdyZ2Fwa1ZFUUJCeWNjZk9YUjlUZ2pfWk90d1V6alc5Q1JBVGtTTWZtcGFYVFNiMHZIdDUyTTJHS3B4Y05ORDducmZqeGtqU3A5a205T0tjbkhvOGg5YVR4aURBaWxQb3VJV3ZUQThNZEl3ZDJLRGU5b05FQVRwZk13NVRQWnhCcmxkbXkwTjd5XzNKTHQxRVpncDE3UQ?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-03-26T11:00:40+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 11:00:40 GMT",
+    "title": "Iran says U.S. ceasefire plan under review but there are no negotiations - The Detroit News",
+    "summary": "Iran says U.S. ceasefire plan under review but there are no negotiations The Detroit News",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1ZXZVJscHVoVlRZSWN0ZzNCNVdnWnpBNVVwclc0bWg5M0QwYUJhazVmTU9abXhVOEZzVFpLREM2QmtSRGlocVNLanZXekNONUwxSnBsd2xSbFZ2ejdsVE1KeXF3YUROLUxkLTdpTndjMUxhaUN1akdodG9fR1ZEbDByQ2dhZVRNenJabU5CbjlxNkdCYy16ZTZSdDZnY0ZrZFlaalR2T0Jxa0hFMld3Mm4xM0t3cEdEd0NHcA?oc=5",
+    "source": "The Detroit News",
+    "published_at": "2026-03-26T12:15:45+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 12:15:45 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "28fdb9afd627f14bab1f8b88ad0c20f1197541d5",
+    "article_id": "48f310b4f4070185b675f07fdba371cc82d1f1b9",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Article reports Iran continuing strikes and defying a U.S. push for a ceasefire.",
-      "event_key": "iran continues strikes defies us ceasefire"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Iran reviewing a US ceasefire plan signals restraint but explicitly denies negotiations.",
+      "event_key": "iran review us ceasefire plan denies negotiations"
     }
   },
   {
-    "title": "Iran Reviews U.S. Ceasefire as Energy Crisis Deepens - Modern Diplomacy",
-    "summary": "Iran Reviews U.S. Ceasefire as Energy Crisis Deepens Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekZOTWxValJKQnFTQTQyUDhNanpucTFnSTRnbF9wYWdYUVQ4X2dhclVVUm5XOXVVV2hNYVNmZlRTbnM0UUZveFdnVG10cnY0YjlKeGNlckdSUjBZZTg5djFlSjRwMjVmTGktVGl5T0ZXREwyTVFrZGdpSlEyZi04T3IwMC1YVXpYVFhMRVZhR1FHbG1O?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-03-26T08:42:45+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 08:42:45 GMT",
+    "title": "Stocks fall, oil prices surge again amid doubts over potential U.S.-Iran talks - NBC News",
+    "summary": "Stocks fall, oil prices surge again amid doubts over potential U.S.-Iran talks NBC News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzUxd0ZSemNfZ210SDRCRm1YdXFXemhGNXduY29oSk9GR1QzZnkxb0tHeGgtQW5YR1k1N1BiVjhPbG1HWU1jdThvSzdxTWd2UnBnWGdEVWNmYmJVc055bzRhN0RCOGxoaGhjcXpkeThMdDlOYnpIbXVCRWw0cUVTSno4dkgyYVg3MDNBUDBHUkNZYnc?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-03-26T15:17:05+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 15:17:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f80b052fdd645a8ba82ed1e88ed1d828580153d2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.4,
+      "reason": "Doubts about potential U.S.-Iran talks signal weakening diplomacy and rising tensions, sparking market and oil price moves.",
+      "event_key": "doubts over potential us iran talks"
+    }
+  },
+  {
+    "title": "US proposal to end war is 'one-sided', door to diplomacy still open, Iranian official says - Reuters",
+    "summary": "US proposal to end war is 'one-sided', door to diplomacy still open, Iranian official says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDdsek91SGEzM3RIV09PelBrOFpoaWg2X0Q4WWw5azVEYVJ6bUowbDJWTmxFU0tnNmZpU1dpZG1FLWJObjlyZE1wOVZ6dmNlUkZGRTkySmVuWkxYdDdWbWJPOVliYy05bUFWYnZ4TDdzUmdLNVI1cll6c29iQU9WODFTdGUwVW96WVpoclJ4VjFKTTllNXFzRnRXZmc0aTV3eVdlWEh6MVdJMlFSSkVLbmQ5bFlBYmJTVENfUWhZek9qcnVCbXZuTEZoSDlUbkE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-03-26T14:24:32+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 14:24:32 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8f5f2ca4ce30e74208591139775c0512ca795276",
-    "source_weight": 1.0,
+    "article_id": "120be7f1ba46a1ba9252fe0dd28a7fa74832511c",
+    "source_weight": 1.15,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.78,
-      "reason": "Article discusses Iran reviewing a U.S. ceasefire proposal amid an energy crisis.",
-      "event_key": "iran considers us ceasefire"
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Iran rejects US proposal as one-sided but explicitly keeps diplomacy and talks possible.",
+      "event_key": "iran rejects us proposal but opens door to diplomacy"
     }
   },
   {
-    "title": "Israel strikes Iran as Tehran denies Trump's alleged US-Iran talks - Le Monde.fr",
-    "summary": "Israel strikes Iran as Tehran denies Trump's alleged US-Iran talks Le Monde.fr",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXJLcUtVc0l3WGd6WmpidU9MVGE5X1B2NnVXRk1Ha202eGFZeEdVbk1nUnllcEk3UmNxazh6dmpnWWV2OEM5cXFGbmNKTk5XNFdzd1IzazFlYVYycUNycWs0bjJMNERhRnlGdWduWHJJUmNyamY0bVAtYUMxMUplSE12V21zRG1mU0Rpb1NZOEtXSVpubWZSSV9ITFRfVUY5LUNzODZxTDY4MTNOQkUtcTBKRlE5bzF1QUYxM2Z0bHpGSFpkTlYzdy1XX2VlYTZDRjZFeFdFcw?oc=5",
-    "source": "Le Monde.fr",
-    "published_at": "2026-03-26T10:09:07+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 10:09:07 GMT",
+    "title": "'One-sided, unfair': Iran formally conveys its response to US 15-point proposal for de-escalation, leaves diplomacy door open - The Times of India",
+    "summary": "'One-sided, unfair': Iran formally conveys its response to US 15-point proposal for de-escalation, leaves diplomacy door open The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOY1pQQmR1RGZTVEUxbXBZTWlvWFNOcXhEejNtenNEWmZhbldRNVUxTEdEclZua0FyYjRSSVU0eHI1ZmYyOTgzMXhIRS00UHBybUxCcjJZbDNQMzlzR2luTU1JUFVYSmhCRDFySVV1MlhKcElvSk02ZTRtZTMzSHRtMVF4VWRzYmR0WEZOU0ZuV0Y5MWlWTDlNVk9HZEJKRG1zZVVxcFRJc0g0NXh6Ym5ZS2dEejJDcjF5X0JmblR4NHVPVlhLUUoxaEFYbzhOakZfUkR2SlVvbTZiajVva0NKd0lheEVtSUtVa0dseTU1Mm5DUE81eXdvUlpPTm9wYUxLR0tIZ1ZWWUtMOHRoZXVpN1BiMERCdGQzR2RHNGNhMlFtdWs0VGdr?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-03-26T14:34:00+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 14:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d404e607d566a46951fcc05f6ff08c4ecce8c2cf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran replied to US 15-point de-escalation proposal, called it one-sided but left diplomacy door open.",
+      "event_key": "iran response us 15pt proposal"
+    }
+  },
+  {
+    "title": "Benjamin Netanyahu aide: Israel doubts US-Iran diplomacy, warns Iran can’t be trusted - The Jerusalem Post",
+    "summary": "Benjamin Netanyahu aide: Israel doubts US-Iran diplomacy, warns Iran can’t be trusted The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xd25XUG5BaGNUQ2FOUWF3dnpLQnJhNVlZaERqaVY4dXJ4UXpYenlKWGNRaVluVXlDZ3BCbVlHdmp3ZnoxYll5YW9IMDVCMnlOOGQ1WkoxaUR3T29x?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-26T12:19:20+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 12:19:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "29332b05d9c925e3361605b1d96f8d0890e493ee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Israeli aide's skeptical, warning rhetoric undermines diplomacy and signals rising tensions.",
+      "event_key": "israel aide warns against us iran diplomacy"
+    }
+  },
+  {
+    "title": "Iran Continues Attacks on Gulf Nations as Baghdad Blames U.S. for Strike That Killed Iraqi Soldiers - Democracy Now!",
+    "summary": "Iran Continues Attacks on Gulf Nations as Baghdad Blames U.S. for Strike That Killed Iraqi Soldiers Democracy Now!",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTNpVXJaVzhTc19iQTZwY0s0OFlZTmxCanJvVGlnV3ZieWM4cjRJRWJOUl9jODRRVDIyblVNZUFtREJTU1J3aHROMUx0OWh5OVJuUzhrMGNZYjVnNW52RjdOWmpMLTZGaXVnazhJRjg1S3B1aWs5SUVfU2JjY29td1VBYVdGV0M2SkFRN3ozZGRIamxXbzIwbGdycDd3MTF1T2V4TkdNaDk0NFQxTHl6UFhIR0wwa1VQOVRlSlJNZHBVUGFnbFZNd1dxMFU0bWNtZ05EUks2WVVLSlNfUzRV?oc=5",
+    "source": "Democracy Now!",
+    "published_at": "2026-03-26T14:22:24+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 14:22:24 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "026732383b72c515e990e21e291b545047742169",
+    "article_id": "7d48842612f217b72a5cc1555e046302fd202be6",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Israel carried out a military strike on Iran; Tehran denies alleged US-Iran talks.",
-      "event_key": "israel strikes iran"
+      "strength": 0.85,
+      "reason": "Describes ongoing Iranian attacks on Gulf states and a lethal strike blamed on the U.S., i.e., direct military strikes.",
+      "event_key": "iran attacks gulf us strike kills iraqi soldiers"
+    }
+  },
+  {
+    "title": "Israel-Iran War Day 27 Report: Iran Responded to U.S. Proposal, Demands Strait of Hormuz Control - Haaretz",
+    "summary": "Israel-Iran War Day 27 Report: Iran Responded to U.S. Proposal, Demands Strait of Hormuz Control Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTWRFeUNCSF9JX3BNUjRpUHZMZ2xvNWRqXzlOSExDaUx4UnIzdHVrZTlZaHQyUzNXdFU0RENmZkdmWXRlX3NCV2xJSFFILXdnLV8wOWZIODMyVlhHYnE4TWpsLThyNW4xb29yMzNhS3AzUjB2dFh5X1VrcHRVOElXQUthXzdvdUZiRFVvV3YwVVYxako4ZDFKWUpHQ2JvTzdRR1BhVWlzR2p2clpvamtOV1MteU5RVloyUHg5bUpValB1WC0zY0I4cFM0OWJveG1hN2hFT0JJd05WT0c1VHF0SGkwRzBuNU1WYUJFZjRLQXNXRW95Nm5Tb3NqRm5VNzBFSkhqWEphSmprS3p4TkpBRUpKaWZUaHE3LThpUnVFMA?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-03-26T15:16:00+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 15:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1318345143c972ea7e8830bf9d096df538f22bfe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Iran responded to a U.S. proposal — active diplomatic exchange despite hardline demands over the Strait of Hormuz.",
+      "event_key": "iran response to us proposal strait demands"
+    }
+  },
+  {
+    "title": "UAE envoy to US says ‘ceasefire not enough’ and calls for escalation in Iran war - Middle East Eye",
+    "summary": "UAE envoy to US says ‘ceasefire not enough’ and calls for escalation in Iran war Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0paNFlHUnVRSzFqa1pDQXEwS2R4c1RrRTQ2SGV1WWdSZDlVcG56eDVuRGZiWHJDUmtHUk9kOTUtaUdrcm04emk2cXAzWnFJMjU1WFotdVpVMTR2WHlBNUdGWlNaTHZuWXdLME84VXZUbE1xTlZyT1NJSEY3U1FXUmNmODJmdklxMHRNQXFnZk1EY1o2LUVDdW4taEluOERaMlFkLVRRelgxQQ?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-03-26T14:48:00+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 14:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1c663adfdeae8ec991ebd804e64a9f49af67a54f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "UAE envoy rejects ceasefire and calls for escalation in Iran-related war, increasing tensions.",
+      "event_key": "uae envoy calls for escalation rejects ceasefire"
     }
   }
 ]
