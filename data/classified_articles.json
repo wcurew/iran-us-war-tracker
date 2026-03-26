@@ -1,121 +1,87 @@
 [
   {
-    "title": "Are US-Iran peace talks actually happening? Everything we know so far - Sky News",
-    "summary": "Are US-Iran peace talks actually happening? Everything we know so far Sky News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemFXdm5HUUcyd2pCLVFqNE5ENExiTG9WR3Z6VjFORlZMSGVraVJHUEJMWWVxWWdWbnQ1UFpkM2FrdGtQbVBobXpITXNrRm8zV3Z4OXdHbDk1VlU4N3NWLUpxRkE1ZFlyaDE4OE9oZDZhTkR1cmY1ajJ6MVNRUU9TR3lHRjlWWlZOeGJVYXpsQ1UyTl9mTFNrdXJ3YlM3cHpxNXI5OE0wbw?oc=5",
-    "source": "Sky News",
-    "published_at": "2026-03-26T07:34:12+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 07:34:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "42806cd50fa753d81c286674c31cbe29c4cbe536",
+    "title": "The Latest: US and Iran make no diplomatic headway as more missiles fired at Israel - WRAL",
+    "summary": "The Latest: US and Iran make no diplomatic headway as more missiles fired at Israel WRAL",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVEtMlFqZnE2ZFl2MjBheEk2THdPX0lSM2pCSWpZWGczaGh3eGJ0U2JEa3ZTNzRZWDgzeF9HdXpZeWVRQ3piZEJFNzBfVGtwUF9fX3JwRE9pQnNCdmttcXR4SG5GajVGWGtucUdCODJXejhhQzNPOEZ5c2Y2ZHNQa3E2Q2NxYWFYek1UY0d3enNHMkxwb1N5NjJtZFFWdG9CblRfcnctcnd0TVdxUklLQmU4SjZWYXkxbDVZLXBvQzNiNWxT?oc=5",
+    "source": "WRAL",
+    "published_at": "2026-03-26T09:56:15+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 09:56:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "139bc57284f034ea13d09a88fe91f403491a9f3a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Diplomatic talks stalled while missiles are fired at Israel, indicating rising tensions and breakdown of diplomacy.",
+      "event_key": "diplomacy stalls missiles to israel"
+    }
+  },
+  {
+    "title": "First Thing: Iran rejects US ceasefire plan and submits its own - The Guardian",
+    "summary": "First Thing: Iran rejects US ceasefire plan and submits its own The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGFFNGVWSzdQeGFTTDdPZHcySTdMS0RCUXpPVl9vUzNHVFBqM3k1dGYwZTc3YkxmYkpaZmctamx6ZXdVMkx4OVNTa1c4bW54YlVKUDA1LTROVWtadWlSMmNFdFRlQUpKMDhtUWJvdWJRc3VpUW9XV2YwRGdsbWtRb1VCdk1GN2RSY3FLS0R3T3lxdzNuWTlkdU1MNWxTVmdkT016WTZtQmh2c0hFaW1V?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-03-26T11:25:00+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 11:25:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bfcb4b9fcebb868bd3947fd5a4066564dc06d927",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Article examines reports and evidence about US‑Iran peace talks and backchannel diplomacy.",
-      "event_key": "us iran peace talks report"
+      "reason": "Iran rejected a US ceasefire proposal and submitted its own — active proposal exchange in diplomacy.",
+      "event_key": "iran rejects us ceasefire submits own"
     }
   },
   {
-    "title": "US-Israel war on Iran: What’s happening on day 27 of attacks? - Al Jazeera",
-    "summary": "US-Israel war on Iran: What’s happening on day 27 of attacks? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0VmSGpzRDhTcG1XSUtta1lYRm9SNjJWQUVmclhlQ2otdFBDemJ3T0hoMENmUTZXLTdTUDVkZEtQNzhMSW1WSU4wbVNhTEtGcU1tMXZyUDFRbHdYa09NZkpNbF8wcTZBNW1SSzluSWRBZGNMWWw0WkI0SjZuTkh0bTNsX2twVnY2bUpUMkJRblZoT0VoUWlEUnZPMUphUHBs0gGmAUFVX3lxTE8zNnpyRTRKeGQ5MmNET0ZLYVNYQ3Fpek5NTmpvVmJqY290TjBHTXFPaEh5R01UcFNZSmhtUVBjcXVOUi10RkZyUVNySXRvTEwteFRKaFVlclZ1a3I4Z1pUUWlkWkFuWWFFdy1BbllkTGpTNmtSMWp0bVpKVElLYUxMNG9lX3IzVWdQeFY0YnFmTjhIYmJtekF0d0Z5RGs1MU1RVVZuLVE?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-26T06:56:03+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 06:56:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6e412d96c9a81650bab5f9ac828115ec9756e450",
+    "title": "No Talks, Just Strikes: Iran Defies U.S. Ceasefire Push - Modern Diplomacy",
+    "summary": "No Talks, Just Strikes: Iran Defies U.S. Ceasefire Push Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSERoMURoRTFSNEdyZ2Fwa1ZFUUJCeWNjZk9YUjlUZ2pfWk90d1V6alc5Q1JBVGtTTWZtcGFYVFNiMHZIdDUyTTJHS3B4Y05ORDducmZqeGtqU3A5a205T0tjbkhvOGg5YVR4aURBaWxQb3VJV3ZUQThNZEl3ZDJLRGU5b05FQVRwZk13NVRQWnhCcmxkbXkwTjd5XzNKTHQxRVpncDE3UQ?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-03-26T11:00:40+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 11:00:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "28fdb9afd627f14bab1f8b88ad0c20f1197541d5",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Report describes ongoing direct military attacks between US/Israel and Iran on day 27.",
-      "event_key": "us israel attacks on iran day27"
+      "strength": 0.8,
+      "reason": "Article reports Iran continuing strikes and defying a U.S. push for a ceasefire.",
+      "event_key": "iran continues strikes defies us ceasefire"
     }
   },
   {
-    "title": "Ceasefire or Illusion: US and Iran at Odds - Modern Diplomacy",
-    "summary": "Ceasefire or Illusion: US and Iran at Odds Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalpBMERIa3BoYXg4eVBNeGxELUdabHNIV2VzZ2pnMGlRa2FuREtEQXZ0aXpiYlh2YktJbmhfOUpTMVYwVThpTDRBelNFUzJDNnZCRWxOZ3VTdnA2RlpXaTh3aWljZ3Zic1lWLUlrdUtmaUJ2enFDNDVtNFdsUk9TM0dBYnM2SlE?oc=5",
+    "title": "Iran Reviews U.S. Ceasefire as Energy Crisis Deepens - Modern Diplomacy",
+    "summary": "Iran Reviews U.S. Ceasefire as Energy Crisis Deepens Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekZOTWxValJKQnFTQTQyUDhNanpucTFnSTRnbF9wYWdYUVQ4X2dhclVVUm5XOXVVV2hNYVNmZlRTbnM0UUZveFdnVG10cnY0YjlKeGNlckdSUjBZZTg5djFlSjRwMjVmTGktVGl5T0ZXREwyTVFrZGdpSlEyZi04T3IwMC1YVXpYVFhMRVZhR1FHbG1O?oc=5",
     "source": "Modern Diplomacy",
-    "published_at": "2026-03-26T06:56:48+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 06:56:48 GMT",
+    "published_at": "2026-03-26T08:42:45+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 08:42:45 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3393ca59e594bc3886a5a99dc900b3d256d73f4a",
+    "article_id": "8f5f2ca4ce30e74208591139775c0512ca795276",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.3,
-      "reason": "Article centers on a proposed ceasefire between US and Iran, though outcome appears contested or uncertain.",
-      "event_key": "ceasefire debate us iran"
+      "strength": 0.78,
+      "reason": "Article discusses Iran reviewing a U.S. ceasefire proposal amid an energy crisis.",
+      "event_key": "iran considers us ceasefire"
     }
   },
   {
-    "title": "The Latest: US and Iran make no diplomatic headway as more missiles fired at Israel - InformNNY.com",
-    "summary": "The Latest: US and Iran make no diplomatic headway as more missiles fired at Israel InformNNY.com",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVB0Rnk1RnA4YXZQVEF0Vmc3RVNzQjhUX2xPTjNsWXJWbk9hUDl4TThJWGNWNkZfSkZqcU9sd1JRNHZKaC1HU2ZIWU1fNk1sY0liamQ3TXVoMzg1c1ZDbzJ2dWlqSldXTnBSVU9sb0R1WFlIWWZYOTNuLVJtMzFycXYwRzNJQkU4b3NmTFdxUHhINVdLQWNsMHB2Q29WYmQyYjFEZU1CLXpWbzRWQ19idjc3eEF6cnVNNnBfUHRvVlBRMnkxV0FoNG1lZW5XbmNYclHSAdcBQVVfeXFMTjJaUTN3M3ZnWHN3SG11d01JUURWMlR2ZnBpX0JtMG4zeHlPS1c1MlZkWldxUG5Fd3BabVJIZnpsRVB1aV92ZXY4cEVsUlJucGV5dEdFVE5ITzVYcER0MTRxRXJGN19kZG43NDVwbHpIOFVSRWdTZVpEYXZnMHdodmhnR0VBRmtDakxQZVNjeEJiOXdpYXZSd0ZkeElxOWFuM0tjdVZKR016S1VjOElIeVBJV0p0SFhyNTZqMXVIMmRWSkpqVFZOYTFEbDNZY0ZQanFvVy1pUEE?oc=5",
-    "source": "InformNNY.com",
-    "published_at": "2026-03-26T07:59:50+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 07:59:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bf34a947bb71007e202e8a4ce02fe72a976d596e",
+    "title": "Israel strikes Iran as Tehran denies Trump's alleged US-Iran talks - Le Monde.fr",
+    "summary": "Israel strikes Iran as Tehran denies Trump's alleged US-Iran talks Le Monde.fr",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXJLcUtVc0l3WGd6WmpidU9MVGE5X1B2NnVXRk1Ha202eGFZeEdVbk1nUnllcEk3UmNxazh6dmpnWWV2OEM5cXFGbmNKTk5XNFdzd1IzazFlYVYycUNycWs0bjJMNERhRnlGdWduWHJJUmNyamY0bVAtYUMxMUplSE12V21zRG1mU0Rpb1NZOEtXSVpubWZSSV9ITFRfVUY5LUNzODZxTDY4MTNOQkUtcTBKRlE5bzF1QUYxM2Z0bHpGSFpkTlYzdy1XX2VlYTZDRjZFeFdFcw?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-03-26T10:09:07+00:00",
+    "raw_pub_date": "Thu, 26 Mar 2026 10:09:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "026732383b72c515e990e21e291b545047742169",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Diplomatic talks stalled while missiles were fired at Israel, signaling rising tensions and breakdown of diplomacy.",
-      "event_key": "diplomatic stalemate missiles fired at israel"
-    }
-  },
-  {
-    "title": "As Trump pushes for talks, US troop moves signal potential Iran war escalation - South China Morning Post",
-    "summary": "As Trump pushes for talks, US troop moves signal potential Iran war escalation South China Morning Post",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTc0X1NYV3drNG1jcU1aRjBfZ2pseVhhbmFjX3M4Sk1rd0g1REphMzVUMklKLTJIbU91d1c2U3NOQnc2d3IwYmFubTgyeTJONFZYcGl5OWRJaDNYUkJMOHdjRDloREpWWExMNXZfTU5DWlZqdkxBQUUxTnVZeFRaYkRyVkxiSnNGckhTTmd3aWwwdUk0X3AyRHpoa3J4cEFTRXp1X1lQLUtDaTJQekJPODFkTjZZaHZ4eXBQOXV3WTdKLXFPSWQxQ0NR0gHKAUFVX3lxTE95LTc4Z3E1TWJRRkMwbUtwNGdJUDMwV0dkZUozNGtZLUlPVi1nVk5WZXVHYTBiWjRwZ1FfZzQtZHZsalkzVFZoUHNpYmtEdVNLU3liQklIbkd3SW9uSXNSWks1czQ0MnlJZ245Z0tMTHNxQW5iT1Z6dHpxYVlPemREYjB2UGFjWVZaMGdDbWplTVlVYTdOdXJBeC1tM0hwNUhOeEgzSHBsT1JrN04yYnJ6LXdEbmx6ZWpjd3lTZkx0bWRBS2dDeVhaN1E?oc=5",
-    "source": "South China Morning Post",
-    "published_at": "2026-03-26T07:12:19+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 07:12:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0544964ea94d9007abbaf2b6e871f41bb8bc5f6e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US troop movements and mobilization point to rising tensions and potential military escalation despite calls for talks.",
-      "event_key": "us troop moves potential escalation"
-    }
-  },
-  {
-    "title": "US Dollar Firms as US–Iran De-Escalation Remains Uncertain. Forecast as of 26.03.2026 - LiteFinance",
-    "summary": "US Dollar Firms as US–Iran De-Escalation Remains Uncertain. Forecast as of 26.03.2026 LiteFinance",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUW84QmtUdWd2VlU3ZUVnb3M1c1lBZXRaalY3MlNPMTJ5cm9IcHROM0tkb0Nuc0JoeGJuUlZNUDJTdmVELWh4VGhFRVRoOE9wV0IzYVN5Z3ZGME9zTTZJS1VNU3lkUFpnc1dHLWFBeE9GQl9VU0pkWkdiMDhJOXByUVBfbkhIeUQwX0lyVTJ0bnBpUXpHTmk4aHFJd0VnVkhVcGxmYlBSOGItano0MVliWXA0TWlJeXhwQXhGS1REaWZucXpwR3ljYUcwc3V6VTBJZDM1bzljN1RqSDNOUi1CZ0JmM2ZFUTZacFh6MEV5QWptY0VmTng4bmtVMjVqZXpf?oc=5",
-    "source": "LiteFinance",
-    "published_at": "2026-03-26T06:52:35+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 06:52:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "983878f599ffb42f24c98592eef203023de1acb8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.3,
-      "reason": "Market commentary about uncertainty, not reporting specific diplomatic or military Iran–US developments.",
-      "event_key": "market commentary deescalation uncertain"
-    }
-  },
-  {
-    "title": "US-Iran Conflict: Donald Trump Pushes Peace Timeline as Tehran Issues Stark Warning - Open Magazine",
-    "summary": "US-Iran Conflict: Donald Trump Pushes Peace Timeline as Tehran Issues Stark Warning Open Magazine",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2FGaHpRSXRaQjVQZXJhRmRUeW94WDc2UEM4aHNXeldxQXdsWXlfbTBhSEI3RU9zOE1lQU00MHpJTUE3emJkWlhrYXlpdG1tTmszLVpaR0IxQkVzVTl5UEhtM2Jsd3d4alhPNzdPaHZMaFBEdXVFSENjSFo3MFU4T18xR3FZdGtldUxIVmZ5cldKNElRdlRWWlBrTlJrWUZSQ1gzdkZsRDVyQW1uUnlGWU83X3I4Y0k?oc=5",
-    "source": "Open Magazine",
-    "published_at": "2026-03-26T06:48:13+00:00",
-    "raw_pub_date": "Thu, 26 Mar 2026 06:48:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "016632d8dc2e13a971098cc25d96c4e605a6db94",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.4,
-      "reason": "Tehran's 'stark warning' raises tensions despite Trump's push for a peace timeline.",
-      "event_key": "trump peace timeline tehran warning"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Israel carried out a military strike on Iran; Tehran denies alleged US-Iran talks.",
+      "event_key": "israel strikes iran"
     }
   }
 ]
