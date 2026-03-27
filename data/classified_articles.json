@@ -1,87 +1,87 @@
 [
   {
-    "title": "As Trump feels pressure to end war, allies fear what Iran may do next - The Washington Post",
-    "summary": "As Trump feels pressure to end war, allies fear what Iran may do next The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHo4M2Q3VVd2UjRoUGxJTkJrMjd0dmFjZy02VjE3bWxwajlwaFdmVWp6SVpyS0FTX1VSM1BqVS1WZnRpcWZKaTAxREdvS29IejBaNWZMUTRDOEF4UHY4WHVBQmZNNUVaeUZ6dElfWTJ2OGhnV0g3aDF3WkR6M0MzX0hDblUxaVNMbm9n?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-03-27T19:31:27+00:00",
-    "raw_pub_date": "Fri, 27 Mar 2026 19:31:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2411ab50232299d2fe3fbf21749194ee3b5ca9e5",
+    "title": "A month of war has destroyed a third of Iran's missiles, per U.S. intelligence - NPR",
+    "summary": "A month of war has destroyed a third of Iran's missiles, per U.S. intelligence NPR",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZU0teGhJamhGS0RQVDlib0JfdkZKOElHTWhhY2daSklaX1RvbU9lZkhJZXBLdjhjNnBJV25ldlFXV1czN1FiTW1DWlg0d0lDYWNvVnB6ZGNrMmQ3UDZ3ckVuNkdKWmdYZ24tTTJONEx2NU81Q3g0bWNYX0VBd0dkYV9R?oc=5",
+    "source": "NPR",
+    "published_at": "2026-03-27T21:17:57+00:00",
+    "raw_pub_date": "Fri, 27 Mar 2026 21:17:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9b539794e5d2bf3b0f9c15d76f4a04946625392b",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Allies fear potential Iranian actions as Trump faces pressure to end the war, signaling rising tensions rather than deescalation.",
-      "event_key": "trump end war allies fear iran reaction"
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "U.S. intelligence reports destruction of Iranian missiles during a month of war, indicating direct strikes/damage.",
+      "event_key": "iran missiles destroyed report"
     }
   },
   {
-    "title": "Iran says attacks on its largest steel factories contradict US deadline for diplomacy - Anadolu Ajansı",
-    "summary": "Iran says attacks on its largest steel factories contradict US deadline for diplomacy Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDJIVlEwcGF1b2t3UDhOMlVRRlNMZ0tjQS1xSmNrTVVYdGh2UGZhS2VTNDBIdDROdUJVcXJSR2p0bm5rQ005QU4zRVdxckVwX2Q4RVd3bTdwbmdnaFBmc3N2c0pBNmhEbHltWEgyT1owbGd0Rl9GbUFxSGlheHZiT1ZOcEFpd1J6clZWQWd3LVRuU1d1eEd6dnRYVXNqcjB2RVB5QnRvTG9rRDNHc0pBUkVFX3dpaGJhVWE4UEo1S0VtVEtIdEl0MjVn?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-03-27T18:59:53+00:00",
-    "raw_pub_date": "Fri, 27 Mar 2026 18:59:53 GMT",
+    "title": "Live - US says Iran talks likely this week, Tehran undecided after latest strikes - ایران اینترنشنال",
+    "summary": "Live - US says Iran talks likely this week, Tehran undecided after latest strikes ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfR1BERVdWMDV2R2dQMl9qV1NVY09xZ3JaOEhEV0JsNHhja1lLc1BVY0xfT19TR1k2U3F4QlBCY09MUFV1cUVIazc3YkRSdmp1c3BXMUZiZVl5U0czMmc?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-03-27T20:39:38+00:00",
+    "raw_pub_date": "Fri, 27 Mar 2026 20:39:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6334ba2c0235add4d3c6b918a053d11769bc609f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "US says talks likely this week—active diplomatic engagement despite recent strikes.",
+      "event_key": "us iran talks likely after strikes"
+    }
+  },
+  {
+    "title": "US reportedly fired 850+ Tomahawk missiles on Iran, alarming some at Pentagon over fast burn rate - TRT World",
+    "summary": "US reportedly fired 850+ Tomahawk missiles on Iran, alarming some at Pentagon over fast burn rate TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81YTd6V0dpU0kwbGNkWWtGTkg2eXhIX0U1OC1sYjRGbTcwVC1XRVpOV1hOcnpaQXZUZk95MFhibk8yYVY1dlIxcm5TdWNNNUFRWmtfM01SSWnSAV5BVV95cUxNTUZ5UUVFQy1pbEVVS1FWeDFjN2NTX1o3N3FtSjlZQ1Z3ZjVjR1F5aDdmd2VNeFBJSmh3SXdDc1FGcllqbHRqcHpLNDJLMkJ2U0drdS00OFc4T0ZEUmVR?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-03-27T20:14:04+00:00",
+    "raw_pub_date": "Fri, 27 Mar 2026 20:14:04 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2cdd31ca575a0d2ef7328bcf881fcca673be926d",
+    "article_id": "ddb9b6eb4382e9e40162878e0a81c4535dab5037",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "Reports of attacks on Iran's largest steel factories—direct strikes undermining diplomatic timeline.",
-      "event_key": "attacks on iran steel factories"
-    }
-  },
-  {
-    "title": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon - Military Times",
-    "summary": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon Military Times",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSFg2UXZwdVRwOEhnb3Y1cHpYc3F4QXF4N3ktRFhrNXl1Q0k2UFVFSGlKMFViTC1LU05MRHJYcUYxWEk1XzhxaUpjQzhLZnl1ZUZzcHU1aHdTeWZxUmEyMldoaFNHVTJ6Qk5RbXU4c25sOFQyU2hCdmJfM1NHU3QxdXdHVE9wRTQ5LWJyNDgxNU8yRWI0UGpneGxpalptQ2I4SnhPdU5SNWEzUWJTX2RfbDNJUEVzUk9VbkthTkdMbGtjZldoOXpoZDNtM0M?oc=5",
-    "source": "Military Times",
-    "published_at": "2026-03-27T15:19:36+00:00",
-    "raw_pub_date": "Fri, 27 Mar 2026 15:19:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1ee51b01d6855face2c74a68dd7b94f5e73f4bf9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US launched hundreds of Tomahawk missiles against Iran, indicating a direct military strike/retaliation.",
+      "strength": 0.95,
+      "reason": "Report of US firing 850+ Tomahawk missiles at Iran constitutes a direct military strike.",
       "event_key": "us tomahawk strike on iran"
     }
   },
   {
-    "title": "U.S. missile supply stressed by Iran war - Cronkite News",
-    "summary": "U.S. missile supply stressed by Iran war Cronkite News",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbS1aZnpXYjhFRHlKNGxCV09tWjB3SUlidFFZeERPNm5fcEtmSWEyX1Fsd0FOOFVmY24yMmQ0Zll4OHUtc3ExWUVwQ2ViUUxrYnNaeWpONzg4MkhiSTFqOEg3NVFMaXdDWHB3Rm5HQWxtQkNVTWNLZ3JjMUFhbTJLTFVGNEQ?oc=5",
-    "source": "Cronkite News",
-    "published_at": "2026-03-27T18:50:42+00:00",
-    "raw_pub_date": "Fri, 27 Mar 2026 18:50:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2764d852730e411fa612b147daffa09f64da566b",
+    "title": "Houthis warn they will join war if US-Israeli escalation against Iran continues - thenationalnews.com",
+    "summary": "Houthis warn they will join war if US-Israeli escalation against Iran continues thenationalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU25WNF9iclVUb0RDb2tzTnJkc2hfdWxKLXd0TmJpMVVWV2dEdzdGb0ZweG4wUFc0Yk10Y0N1M0JzVXhsbWFuaTBKOUNRb3ZDLTJYZUtxczRKSGhQTDY1bndjQVF3ZkVxcG54WHBPT3hrMjBrZDZlVWFiOHR2dDNjTmJnaF9sRU1aZ0RzaTEyTHBMVDM1MVp3eFlncGEyY1VCMnE4Mjc5OEhSVnFKYWNvNmxSRXBOb21mRENPQmkxTFptTUdqbDl5QXF2UGQyMEZYTDh0V3RJT0wxeG8yUEE?oc=5",
+    "source": "thenationalnews.com",
+    "published_at": "2026-03-27T21:18:25+00:00",
+    "raw_pub_date": "Fri, 27 Mar 2026 21:18:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5ef9d5904dcf178ada10543d37c9b2dc9b7fbb4",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Reports U.S. missile stocks strained by an ongoing Iran war, signaling intensifying military engagement and resource pressure.",
-      "event_key": "us missile supply strain iran war"
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Houthi threat to join war amid US-Israel-Iran escalation is an Iran-backed proxy escalatory warning.",
+      "event_key": "houthi warning join war if escalation continues"
     }
   },
   {
-    "title": "Trump’s Hormuz deadline delay fails to soothe markets amid signs of US and Iranian escalation - Sherwood News",
-    "summary": "Trump’s Hormuz deadline delay fails to soothe markets amid signs of US and Iranian escalation Sherwood News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajhYUzJONUNEZmZpeFBKRktrcTdjazk1ZW5rbklwRnY0SEhLc0JfeWpNZmVzNV92eDRUeW40QmQ3YzZMY3ZnaWltWXA2aHdneXlEd01SWGR2WWpoYjM3WDBSSFdkUkNJZU9Sd1dzbzd6RHFGWUhPQ1Z0em5MQTFJRHdJVk9MYWtiS3k2bWJJclJtYUN4dHFWaEpMd0szSWZ4S1lTTHE0Zw?oc=5",
-    "source": "Sherwood News",
-    "published_at": "2026-03-27T15:33:30+00:00",
-    "raw_pub_date": "Fri, 27 Mar 2026 15:33:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "81034ef6eb07a51fb12fafc5a3db4b5c775dfac3",
+    "title": "Houthis threaten direct military entry if US-Israel-Iran war widens - شفق نيوز",
+    "summary": "Houthis threaten direct military entry if US-Israel-Iran war widens شفق نيوز",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYU5YSHplQnNoX21fTWxmcUtyMk1yRkYyVUhjLVU5eW9FVEQtQVEyVEZfaENLZkNRckdfN0UtNHoxeGdHdGNlMmx2MUNEY3lyR1F4STJ4ZnF3cVJ0OXp2WjJEZ1Y3RlJLRnpuSWFseFhTSmRneW8xWHNVZENWdkJpNzVhVllMeTNVTERjdk1hY3pWY2VoM0NTTnhBMS0xZENicVZJ?oc=5",
+    "source": "شفق نيوز",
+    "published_at": "2026-03-27T21:49:54+00:00",
+    "raw_pub_date": "Fri, 27 Mar 2026 21:49:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "07195d60f58decc3c97ee0c8465f794397460cf1",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Title cites signs of US and Iranian escalation despite deadline delay.",
-      "event_key": "hormuz deadline delay escalation"
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Houthi threat to directly enter conflict if US-Israel-Iran war widens, signaling proxy escalation.",
+      "event_key": "houthi threat direct entry"
     }
   }
 ]
