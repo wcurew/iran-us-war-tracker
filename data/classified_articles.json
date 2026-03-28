@@ -1,19 +1,104 @@
 [
   {
-    "title": "US-Israel war on Iran: What’s happening on day 29 of attacks? - Al Jazeera",
-    "summary": "US-Israel war on Iran: What’s happening on day 29 of attacks? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEVPemt6ZDc1Nk96TFl3MFpPN0ozWDBIUUxoNS1OeFFSUWtTdnFCTGc3aVBCR0lKczZJRzRlazgzRUFoOHA1NTJtT3pXckNhMTMwa2ltZV8zbS1YYWxBb0JQUjFnWTA3M1R0RE5NVVNZTllPekdiWUZ2VU5rM25VV0V6OUVianFTbUhlOTdvNXVpdnFVSFNOQjJlQVlScW_SAaQBQVVfeXFMTzVKMk9od1FpZ1l1ZGFBcFF3VlpHSTQxdkh3WmdSQmlHNHVFN3VPZjRhVnZOTVNsQkp5eVNkakZVdUZZTTJSNThBX0JUVTNlLS0ySjNEa3NVZmN4U0t5ZVg4alpfZzJjMVE1MU1QRTBJeHJwV0NaT1gxWkRfdjhqUFdoNGxmZnRPZ29JX2RVVXVxcHozZkpCbkl0MWVYMHlYSHNmbGk?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-28T08:20:51+00:00",
-    "raw_pub_date": "Sat, 28 Mar 2026 08:20:51 GMT",
+    "title": "Trump’s two paths for Iran war — Negotiation or escalation - washingtonexaminer.com",
+    "summary": "Trump’s two paths for Iran war — Negotiation or escalation washingtonexaminer.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZU1tSVkycVl2U3BCM1ZpTElQc1R5cFRyeG1RYkt0TGFhVnYtWkZTWWw3MzJIX3JwUWc2bEN2UDZCM2JRV0w1c21ZdlNVWEhremJiXzJ4czc5Y3NxRmE2THgwd1drVXRvZ0l0c2NKMmRWWEM1M3RSRi1Kc1pyeEtXc0k3N3UydFdDYWJ2TmRMNnd4dWZPLUhYVzEtN1NUSVRqV25yc3BMMFpxQQ?oc=5",
+    "source": "washingtonexaminer.com",
+    "published_at": "2026-03-28T11:00:00+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 11:00:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4f40a8de675fabdb1788dd945e1fc3ab75e46393",
+    "article_id": "06b5c812dbdb06f880433fdf54dae631be38fdbd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.45,
+      "reason": "Opinion frames Trump presenting negotiation versus the risk of military escalation toward war with Iran.",
+      "event_key": "trump choices negotiation vs escalation"
+    }
+  },
+  {
+    "title": "Iran War: US bases in Africa under growing threat of retaliation campaign - The Africa Report",
+    "summary": "Iran War: US bases in Africa under growing threat of retaliation campaign The Africa Report",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTJYRXdNX0xjd3ZLMDQxek02bTJkZGgxVURVc2ljNGczVUwyQkxubC1LTVR0UlRjT0lZMzh1c3ZBcU45NXJ5bDZUcGZyNXFiVVJma1J1ZG4yVWIzcVhqRUpKRm1OalJlcVRvczZsWlRZSzN0LUhGbVRmUGV6UzRIdDh0NlFyVG1Mb19adVhsUnpUT2hqcHNyYlc1WDFYRFd3RFV6eFpUS0pfUjhEQ1hIZjd3?oc=5",
+    "source": "The Africa Report",
+    "published_at": "2026-03-28T11:30:19+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 11:30:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "90a7903c0ddd67f7efcf3ef943cfc89b04d88851",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Threat of Iran-linked retaliation against US bases in Africa by proxies.",
+      "event_key": "iran proxy threat us bases africa"
+    }
+  },
+  {
+    "title": "Iran live updates: More US troops wounded by missile attack as war enters 29th day - LiveNOW from FOX",
+    "summary": "Iran live updates: More US troops wounded by missile attack as war enters 29th day LiveNOW from FOX",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWhmajZzU0VrSW0yQzhnSWlXcmRhaS1vRVJnWERBNFRkQ3F6aTFpWk9hMmdKcmN6aGNxRG13cUtVdmZscUU3ZVJWcFRWZWFUQ3ZiWG5lbXNJalRwUS1nbDNFMGhCNldsdnR0ei1peVY2Z1ZiaWhfS3gwcE5wREgtUk1QQ3BzaF9KbGJ3dlQ5Ty02SHcxdWJaSnBNQmhZRzlyVVdtMTNuZTc2c2_SAbABQVVfeXFMT2ktY1NZQmtiUlF6T2tlS1FSTktkRzF1WlozQkR0Y2hwX0xWZUpVYWtOZTRQRk5RXzNmSFlCcDVjRTJ0TzZKVGdBYm9xQm1KZ3lnVk1ySFZnQUxzbjdhLXdLSXdtdnFVUG1rTXhtQlBMaWtUUG5uTGRpajllNlpyS3JEcjdET3YzS01HNGdiZ0NLUFppeTdzNTdfU0pRWmF2clo4RlBfQ0t5cEV4UnZRNXQ?oc=5",
+    "source": "LiveNOW from FOX",
+    "published_at": "2026-03-28T12:08:37+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 12:08:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b0a2d6daa3c2c9f3bf22b33cd38bba4a3a5aa296",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Missile attack wounded US troops—direct military strike in ongoing conflict.",
+      "event_key": "missile attack wounds us troops"
+    }
+  },
+  {
+    "title": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war - The Washington Post",
+    "summary": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2LW9fUjBuQ1haQUdiQzRBSDBVNkFWazR3dDZsbDBJZE5yeDRUQjFBN0RaS0dzWjNCSm1TdW85anFXNno3V3p4OXFEUEgwRVJNOC1LcUhRN3p6X21FRm5uaFZwTUFxeDVmR2pZYm9iem4wOHBzUGpyOWRLSEg?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-03-28T13:48:45+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 13:48:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9af08490a8e784351d3f359e90b915f5847e3f1c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.9,
+      "reason": "Iran-backed Houthis launched a direct attack on Israel, representing proxy escalation tied to Iran-US regional tensions.",
+      "event_key": "houthis attack on israel"
+    }
+  },
+  {
+    "title": "\"Welcome To Hell\": Iran Daily's \"Coffin\" Warning For Potential US Ground Invasion - NDTV",
+    "summary": "\"Welcome To Hell\": Iran Daily's \"Coffin\" Warning For Potential US Ground Invasion NDTV",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnlnaUJBX2RMXzRuTzRHbVhwYnVEd2FwenE3MWZSeEtEeE5VMlAxUnRTV0l6ZGYwa1V6UVJoV0R0U3hRNFhzNFp1Nmdrcl9LNjcxQU02Rm1Vb0NQNWE5TWJSNGdHYzBLbk0xdGNGbk5DZWI2M2MtT25ENlRuMDU5VUVMZzBEajB6cEI5b2ZwYS1NT0ZHTEE1NGlSSXJpMjNqdGRZRTdOUEVDdkh2WHROanJvQnFvRzRQQ1FWYzdFekEza28yRUQ1WlB6SE5sVFFNX0xzam9NYTRjMVJPdEg2aXB4eTdNZGvSAe8BQVVfeXFMTktOUFc4cnZYNjBFZXoyTl9HTmlvVy03ZTRKR2ZrVGtQcVVMeWxUOHpVaEt5RmhZOUpuMzFMbEtqZmd4N2FqTlNQczdGTWxDaEhqbmtvbHBtMU55SWc3amdnX0wyd2lkS0xoTUQ2SkYyUnJZcWtBRHZjb3hUaWR3WVFYVnFhOW9DODZ6QjRYMG5iMTA2cl8yVG00Z3JMU2ZsZzl3ZHIyYzlGRXVsRjVySUxQbmYtMnI4dFE4aVprcEJxb0xOamhwVHdzLXZDeExGTXVfeFZKOTRQZlRjVWlScHBfcTNkdHVqNm1WMEloZTA?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-03-28T13:52:52+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 13:52:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dfee51a073462d3878f611cefb7f635d9c9a81bb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iranian state media issues a 'coffin' warning against a potential US ground invasion — hostile rhetoric and threat escalation.",
+      "event_key": "iran daily coffin warning ground invasion"
+    }
+  },
+  {
+    "title": "Iran issues warning to Israel and US following air strikes on nuclear sites - UNILAD",
+    "summary": "Iran issues warning to Israel and US following air strikes on nuclear sites UNILAD",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHgyNHdHNU1XeWY0RHpQbXdZY2QzbmJUOENHaUFMMjJ2UkU1OTVVeUJvYmpXdkljR3BKY1liQmtweTQ3ZWRFaTM3emcyTzF2a0owa05jSmhZaGxmWWY3aVBPN2lWQmJ2Wi1OalhzRkhfeXFoUzZ6S241d0hUUUhrMC0xNjdHMDNo?oc=5",
+    "source": "UNILAD",
+    "published_at": "2026-03-28T10:19:28+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 10:19:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c3d3c28c1c23abd2a4fbdeb1cefcb91a50b205d5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "Reports cover ongoing day-29 attacks in a US-Israel campaign against Iran, indicating active strikes/assaults.",
-      "event_key": "us israel attacks day29 iran"
+      "reason": "Iran issued warnings to Israel and the US after air strikes, indicating rising tensions and hostile rhetoric.",
+      "event_key": "iran warning after air strikes"
     }
   }
 ]
