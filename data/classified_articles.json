@@ -1,36 +1,172 @@
 [
   {
-    "title": "US rejects Iran's ceasefire request - www.israelhayom.com",
-    "summary": "US rejects Iran's ceasefire request www.israelhayom.com",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJaWtudVRSX2l1NjZ3emRXS1VPZzdsQ2lYcTFLaXI0MEYzTFprTDhkMy12UzVjUWgwYllYdVp5Y1pCUkRlUk1hdkhrY0k2SzlxVzlsZmxST3d0aUFUTlJLTEFaaW1FejlDV1VSQWw0ckF3X080djRjTHNFVy1OQlU?oc=5",
-    "source": "www.israelhayom.com",
-    "published_at": "2026-03-28T20:32:48+00:00",
-    "raw_pub_date": "Sat, 28 Mar 2026 20:32:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b64c57f60897a4cd17f6405ac882da45406911a5",
+    "title": "Pakistan steps up mediation efforts between Iran, US to end conflict as war enters second month - The Jerusalem Post",
+    "summary": "Pakistan steps up mediation efforts between Iran, US to end conflict as war enters second month The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvaUtGLWhRa2UwUE5WYTRCekkyLVdYQnNpOHNUV1IteUxyLVN6Q2poRERPeEkyUjkwdHozRFFzUC02czlveE5oZjlobjdfUFptdGh3X2VnSzNJWWhTcV96MU53OWhDUlQyTWc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-03-28T22:45:56+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 22:45:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7bc4768e9e2992e924c0eaa8b2bae9e406990b10",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Pakistan mediating between Iran and the US to end the conflict indicates active diplomatic talks.",
+      "event_key": "pakistan mediation iran us"
+    }
+  },
+  {
+    "title": "Iran threatens to hit US universities in region as retaliation for alleged strike on two universities - The Times of Israel",
+    "summary": "Iran threatens to hit US universities in region as retaliation for alleged strike on two universities The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5seU9XWkotLWdNYkk0TE8zeGlMLVlvRmstWnRZVk5lcEhSUElKYkNaakpOeGZ3OGFpeG1NVTRQU0dVUmVwY2drS2tPUUN6aExPbU41Zl9ub1RoQ29QY2lmX1gyRdIBaEFVX3lxTFAzT3N4MVVqS09oZGFlVVgxdVViLVZRajhycWg2b3ByaXVhVXItTk1MSlpfNVh5R2hhYW9wSWM1RHZJTTc3UGdPbEFFeWFfVHFuLWl3ajhxaGhNQXUxeFdrZlg1NjQtcndU?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-29T02:02:39+00:00",
+    "raw_pub_date": "Sun, 29 Mar 2026 02:02:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9f945734744de981dc7f7001b58b94e6701ba115",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran threatens strikes on US regional universities in retaliation for alleged strikes—hostile rhetoric signaling escalation.",
+      "event_key": "iran threatens strike us universities"
+    }
+  },
+  {
+    "title": "Iran Guards threaten US campuses in Middle East after strikes on Iranian universities - Middle East Eye",
+    "summary": "Iran Guards threaten US campuses in Middle East after strikes on Iranian universities Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzAxdjR2UVluYUJPWGZyOFE5Y1VEYWw5MWd1cHZicC1UemxXX1MtZXFxUHFHcUNiNWZDb1I4d3hJZkZEY1dybWZkUFJ3WkF0S2xGa2dOVWdhUGptUWJib1BEdXVyT3d6eF83UVpDRmtfVllyNWxOTkoxaXV6cG1jdDhVM0NuWXdyc3p4dmdlT0JqcWhXNlB3R3M3S0xITW5RS2kyc0lRV1NibFlPYmpyLUYzQ2Z1ZXRxZEZUSjBNckE?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-03-28T23:46:00+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 23:46:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1c000d885486a2cc88827c63174bafad425677de",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "IRGC threats against US campuses after strikes are hostile rhetoric signaling rising tensions.",
+      "event_key": "irgc threats us campuses after strikes on iranian universities"
+    }
+  },
+  {
+    "title": "Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region - Reuters",
+    "summary": "Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbGZJMUdyVUtHd0VTaE5QTnhITmJGNE5EMDdwMVZsV2h5UFdDenF6bGpMdVBPdUN0MkZMM1RwOThuVTgxV1dLY0Zsbmdyck5oUUZYd3JSVExjNy1lR0dMZE5KVTdBTjJXeVhWS0J1RlVBOGlReTdpUmJlTThLaEdmVld5S2JYOHB1eTkxSEU0aVNneWlBaVg5RkNFUlprR1I3em41bWtDdXFWUDJZV3czX1hZSktrRDhMWHE5OW03N0pWYUtSX0sxblZPM0lvakZS?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-03-28T23:14:00+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 23:14:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a6b000c2cab9317b00428c70d347360476bfb56",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.9,
+      "reason": "Houthi attacks on Israel and US Marines deployment indicate Iran-backed proxy escalation in the Iran-US regional conflict.",
+      "event_key": "houthis attacks israel us marines arrival"
+    }
+  },
+  {
+    "title": "Pentagon preparing weeks-long ground operations in Iran amid escalation debate - Anadolu Ajansı",
+    "summary": "Pentagon preparing weeks-long ground operations in Iran amid escalation debate Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORVEzbkRxbU5OR3UtU1c4WUVGdTJseVAtRG0xMVJnQkRxMjB1anFpV1NXMDJMeHc4eDFpMzVfRkdYVUFzMUZxemhwdDQ2R3I0ZWRsdmxMRmZGeEQwa3Q4eXNKSW83ek44Zl9mN1hhMGx2elJZa2JJRjh0eEktMkUwazdkazZrcUF5LU1hU0VpSGtLODJjYzNVd25DVGk5cDZEeUo1cUhkbXRtQ3hRandESXhvWVhXc0FUMEJIZA?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-03-29T01:00:35+00:00",
+    "raw_pub_date": "Sun, 29 Mar 2026 01:00:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3a33f2b6c29b1faafb3266bac8635d48bd1a0fdc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Pentagon preparing weeks-long ground operations signals mobilization and rising tensions rather than an executed strike.",
+      "event_key": "pentagon preparing ground operations in iran"
+    }
+  },
+  {
+    "title": "Pentagon prepares for major escalation in Iran war with ground operations set to last for weeks - MSN",
+    "summary": "Pentagon prepares for major escalation in Iran war with ground operations set to last for weeks MSN",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQV0VybnNaZE1LbldVbGhud2RoVk5GT1BndG1TUzRSeWtSQWd0YndKTFJfTnY3Q3ctbnN6STNoU05rSDBVYlBEdlFaVWlyV190b2g1MUpwWndqdVVaRkdpa01FeXpkQWtVbk5GN1RucnhmMWY3MzVqWUJfTUIwMVVETnJYRHdXc2VrMUo2dDhpVXR4OVBKNWVWVm9yUzhlZm8tTTVPQWRuUkNHak9mYUpMT3BsTE5sRTJYeVRFVEpBbWFQbW5KaG5mOE5NdXhGS3Q5RmdHVE00NmhzeEQwSGtNWndVRXUzNHU4V1dzQnNMU0JZWEdqY2VXcWFjZzdKVTZVQXozLW52ZXFiWjJaa0RrV3N2VFVOaDgyTEh5cEZR?oc=5",
+    "source": "MSN",
+    "published_at": "2026-03-29T05:17:24+00:00",
+    "raw_pub_date": "Sun, 29 Mar 2026 05:17:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6b22df812ee77e181dbc96188af6fdf2bd6c1494",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "Pentagon preparing for major escalation and prolonged ground operations indicates rising tensions and mobilization, not an executed strike.",
+      "event_key": "pentagon prepares ground ops"
+    }
+  },
+  {
+    "title": "Iran's Revolutionary Guard threatens US universities in the Middle East - Le Monde.fr",
+    "summary": "Iran's Revolutionary Guard threatens US universities in the Middle East Le Monde.fr",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNek5nLWF0R0RRVW9oUVpwcm92V3pTZjNZbkdnUUR4WUFkSWNxakx4cmhkOHU5QmhfYV9RNXZPa2dnN2tpS011REVzLUQ0RnhiMUlqeTI3NThUUUZrNmpLUWtLWjMwSWx4Q1FCVEI1Si1NTDVOWkNYel9SSEhLaHFUMmF4N3VjWXNEcXZsNTc4TlNRWmFJSXcweVd1M1FiWHJNdG5JVU5JYVlfM0std2Y5QjZGY2tVeS1SSVBBUGNKVXoxRnNRSWlWNG9hZnRCUnRGVWZRaXVNLUh1OG9VOEE?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-03-28T23:25:33+00:00",
+    "raw_pub_date": "Sat, 28 Mar 2026 23:25:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "82741d516a9dccbdcfb4f85174b7d586f388ad93",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "IRGC threats toward US universities are hostile rhetoric raising tensions between Iran and the US.",
+      "event_key": "irgc threatens us universities"
+    }
+  },
+  {
+    "title": "'Welcome to Hell': Iranian daily's chilling 'coffin' warning to Washington amid US troop buildup - The Times of India",
+    "summary": "'Welcome to Hell': Iranian daily's chilling 'coffin' warning to Washington amid US troop buildup The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcjdQTVVNZUtkbEl1Qlc4dU9FTXA5TERFZ0U2bno3WU1GLTRJd0pZbkwyVnJzUHd2WXRmRXpFLUdkRmZsTUpYOXhOczZHR2Z3WnVkQkpVMDlYTUFId3dvbEdNR09VZ2hvYnY4Y0NtVlh5R202RTExM0dJTW9fcHdVNnV5cTRuejlZakkxdWZKVjBUeW1yVW5jSHA3ZEJldUpmREM4czlzazYzNGtUSlFyRS1DRTN3VTBmaHhsaDhmYTJ6OHJlUmlyQ2h4MjRIR1ZzaDVJYlh2Y1JYeFJpT1A3bWEwYl82TlB5aFpEeFozNVhndnMzZGlDeEFyaU1fSEHSAYQCQVVfeXFMUFc4SFlMLXVkcFZaUkd4dDVzbkNWRUFycWVfSWVvZVY5c1o3WF9IWURYZ3dWaHBXb1Jwb29ob0Ryb2Z5blJTcURndGdIMWxJTjVkNkFobWZUQmRmdUN6Mm5BaUNRdERma1BWRmZsZWJVSlpuenk2NXNRdUt0RjJtX04yd3RnalJaNGNScDR4bzJEYkd5QnRqTUdpcmx3Z1lIWklmbloxb3BwbGNXaVJaM1B6bGx4S0pYNWlkWXpqNXhKRlg3Q1pvVGx6RDk1MC1kSVpsNzdFNGNGbldibGZtSi1VX3FBZVFBLVB6eWNsM0hGS204aEtwMUEtckhONHgtREROSG4?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-03-29T02:43:00+00:00",
+    "raw_pub_date": "Sun, 29 Mar 2026 02:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d008c1a56140819663801a3dd9e85ea46570c4db",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iranian newspaper's threatening rhetoric amid US troop buildup signals rising tensions and hostile rhetoric.",
+      "event_key": "iranian media threat us troop buildup"
+    }
+  },
+  {
+    "title": "'By 12 noon...': Iran issues ultimatum to US universities in West Asia after attack on campuses in Tehran - WION",
+    "summary": "'By 12 noon...': Iran issues ultimatum to US universities in West Asia after attack on campuses in Tehran WION",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNEJEUXJKMWxaRGtmb2E2NEFJQ2JMNkNYcGVZNW9wV1gyRElxWUJWSi1NOUZOZko1SFJFX1hGcDhmY1BTT3B1bkdHb2thRzZycklEMDhoTVh0TFVwYkR5VzZuQmpuNzhLV1o3dDE2UU05bTgzb1NmaVVkTjJEXzZuWXlOQW1DRU10eXZsSHBjTTdqMTJXX0NUbm1hNW5iZExEcHQteld3eW1maXNuU1lRV2FuNk1sTkc2WHhvcDQ1eTN2b2kwdHgzb3RIMWNtWF9NVHFz0gHYAUFVX3lxTE5JVWUwc2RIeWN4RFZ3WDdtTG5xUFdUcUxSaXRyaWJQWXdYY2VIbGlNc3BVVE1oUmN0aG1mWjJhTGhDdTNfamRSOEstR0FZR1pNOExheFh6ald0czVOVXp0WWQ0YUhaOFNYN2xKQUt3cVZFVFVLSGFfRlJlSnIwT1gxYlMyM2RFQ1ZfMU1lTFB3VWMwZnJCSUJESlFTMFhNUlpkR2toZWhKazE5RUJLN19vdk9QYnpReEM2ZkNMbUhvMUdwNExzSnllbExZSGNUd25MUlJDTndYeA?oc=5",
+    "source": "WION",
+    "published_at": "2026-03-29T00:27:00+00:00",
+    "raw_pub_date": "Sun, 29 Mar 2026 00:27:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "403b84d7141f99b386624c6071c27a03fa166726",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "US refusal of Iran's ceasefire request signals rejection of diplomatic proposal and rising tensions.",
-      "event_key": "us rejects iran ceasefire request"
+      "reason": "Iran issuing an ultimatum/threat to US institutions signals heightened hostility and rising tensions.",
+      "event_key": "iran ultimatum us universities west asia"
     }
   },
   {
-    "title": "Over a dozen U.S. soldiers injured in attack on Saudi base as Iran-backed Houthis enter war - NPR",
-    "summary": "Over a dozen U.S. soldiers injured in attack on Saudi base as Iran-backed Houthis enter war NPR",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWTFJV1pZMDF5aERWWUUzU2hmaFFxN1FXS0R2S2puYTZubXhpTTdEeEk5WVRRY0xEZmY3bHJkdlI0ZElPWXc1aEl1LTlWdWRHY3FadGlCbnJMSFppbG5CNEZZcFAzVnhtMkdnRGJBMVQ?oc=5",
-    "source": "NPR",
-    "published_at": "2026-03-28T21:23:24+00:00",
-    "raw_pub_date": "Sat, 28 Mar 2026 21:23:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ef7331ad46f2c357f7b633e0666417cdc9a4906d",
+    "title": "‘War is going to go on longer than…’: Ex- Trump adviser's ominous warning as Houthis join US-Iran conflict - Mint",
+    "summary": "‘War is going to go on longer than…’: Ex- Trump adviser's ominous warning as Houthis join US-Iran conflict Mint",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR0tPeVBaaGxFMl9CU0xMNU1pUTJMRXhhOUVCbE1HUVR0ZDBOVkllYm9WRUhOclJfTlBwdmtkVGw2U1h3RWtUZkdTY3h3dmV0LWhMdzlYcGROMExKdld2RzhFWWtPVEtpSzdEd0tJM2d6VWRRZEp0eEFPUGhpanF0SUxHNWtDV2JnR3JSYVR0QjFDTUI0R2czdnNnS0hrTWtHVEluUzVaMVc3M1VDOXZUbzl5WU1nSzVaNUluUFB0dTN6U0dsekF1aHdQbDJNYjdLQXZWQUR6SXpKX083b3A1TFczRlBaYjNkLVo4Q3V2WdIB9AFBVV95cUxPT3B3T0ctUTI4SHNKb09JSFBKbjRueU15aTlMenRnUUhMSXpxUk55MWVWOVRLaFBmajBlNUUwYVV5QXBlQkNGaTg0cWh1Mk5McEUxbEIySEpDQlVaV2ZMNzhnUVN5ZnkyY1p5Z0ZWZXlZRGVFeWRfaG5yaTJtM2lvYm9oY0c5czYyOG1odmZhVEFkaVVobndRNHNwXy1GUzJUZzJpbTNYeEV0cmhIcVFETmpQYS1HcWY3NzZZTEg3bURvVDdEUE9wd004QzZ2emNETXMyeVRwbk5mM1V5ekJnVUJvM19TTWhXYy1IdmU0VjZNTzRv?oc=5",
+    "source": "Mint",
+    "published_at": "2026-03-29T00:23:57+00:00",
+    "raw_pub_date": "Sun, 29 Mar 2026 00:23:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec1fd5594be73f8e3886728a3dd1b5a4f49e7a41",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "Iran-backed Houthi attack injured U.S. soldiers at a Saudi base, signaling proxy-driven escalation in Iran-US tensions.",
-      "event_key": "houthi attack us soldiers injured"
+      "strength": 0.8,
+      "reason": "Houthis, an Iran-backed proxy, joining the US-Iran conflict signals proxy-led escalation and widening hostilities.",
+      "event_key": "houthis join conflict"
     }
   }
 ]
