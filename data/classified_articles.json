@@ -1,155 +1,240 @@
 [
   {
-    "title": "What to know as U.S. and Iran consider peace talks - Yahoo",
-    "summary": "What to know as U.S. and Iran consider peace talks Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmctZ0JPeFhtUUNHS0NaMHpYcWNMOGZxZ2hMcUVFQWZTTjhUajZVTGJvMXhKenBBTm5nUi1EVWFNX2dhZE9mV2xfeUVQWE9jZkVYenJlWjJQMHhwWFEyTk1nNFVJQXkyNGlvT3hHa1FNeFVpUFMtQXdNZTZtXzk5V1ZB?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-03-30T12:17:08+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 12:17:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7538bb5d63924529b77660ecb37206c794dba2fb",
+    "title": "As Trump touts diplomacy, Iran notes the U.S. has attacked twice in 9 months in the middle of negotiations - WDEF",
+    "summary": "As Trump touts diplomacy, Iran notes the U.S. has attacked twice in 9 months in the middle of negotiations WDEF",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDltdW1xUVRfdVRtYXljYTBOeXU2TnhVNklCSHJrM3MyWFZMa2N1djh0eG9TQXFNal90RXBLMXJfM2Y5Ung3SW5rUGtTR294OWZXMGVzRkI4UWFDZHJ5SldlemtSdjNldWR5a0NaRDFKVXlVb3hfSzZlMU00OVMwR1R1dGxDcVNTdFdDdVVleXlxaWhwYVhuN0tRZERFZ1ZhZWZlQWdZSUtiNkVOQ3ZYX1FCcUZra2xIbjkzTUNEb3JKX1pp?oc=5",
+    "source": "WDEF",
+    "published_at": "2026-03-30T14:58:49+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 14:58:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0576f33e8e66fe5aad000e9b3c35b0ee1a943554",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.65,
+      "reason": "Discusses ongoing diplomacy/negotiations while Iran notes U.S. attacks occurred during talks.",
+      "event_key": "attacks during negotiations"
+    }
+  },
+  {
+    "title": "Pakistan under pressure to host successful US-Iran talks - dw.com",
+    "summary": "Pakistan under pressure to host successful US-Iran talks dw.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFZTTnRjQkRtNWR6cTdVSW1JRXoyWkt3LUVWLWNOTURNYk1LNXQzaTFFaVdiX0NhSndPWTZmN1RLQk54T2JVR3o0bXg3SE50V3U1VHFLOXctZjFwZTVFeXZXcXRiNlhPX205YTltNzdTbWdaVWVqSFhIUzNYQk16WGV6ejlURWNySlIyamN3cl9UZ0HSAZMBQVVfeXFMTm1oaHBfY2llVndoN19ZaTVraVNKUUF3WHlrQS1aR0RJRno4Q09BYldmRVZRajlFTld4Y1Q2dWZmZXVRMTVwT2tTWFVsYmtkVFV1bGtMWEtxOWNJNDZTRXdmRlA5MDMxc05EdXFDcFlVUVN2aWZXeDFfX1NnZFl3RjNYb3NYUUlDYkV0Y0VIQmVoTXpN?oc=5",
+    "source": "dw.com",
+    "published_at": "2026-03-30T15:10:54+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:10:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8292f2a07281913d2bbd09c7dc9f31fcc63b9574",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.9,
-      "reason": "Article discusses U.S. and Iran considering peace talks and diplomatic negotiations.",
-      "event_key": "us iran consider peace talks"
+      "reason": "Article about Pakistan hosting and facilitating US-Iran talks—active diplomatic engagement.",
+      "event_key": "pakistan hosting us iran negotiations"
     }
   },
   {
-    "title": "Trump touts Iran talks progress as report suggests possible U.S. ground operations - FOX 32 Chicago",
-    "summary": "Trump touts Iran talks progress as report suggests possible U.S. ground operations FOX 32 Chicago",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjQTZNUUdkTHJXVENleVZFRkFsUnJmeENNNnN2VXJtYUNIWHV2dHNUaTlZNmpHY1Y5emlPVEtpdVg0N3ZuVXJRLVllZklOb2ZVcjlxNVBkRndLWEM3Y0g3bmo1cDU4QdIBa0FVX3lxTE9ma05LRTdmU3QwRFRUMUFMRlN2V2xESW9Fb2xCaGJYMHBHZDVoUy1TM0FaNWlZRF83T2xOWmNseVVIWXp0UW56dmxXV0swYVBQV3ZzZ2JxUlFKa20yaEFhU2ROelQwb1hDSVlV?oc=5",
-    "source": "FOX 32 Chicago",
-    "published_at": "2026-03-30T11:17:37+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 11:17:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "62c6a1c36e6c5cd84b3fe93f7f9b873eeb35a52d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Talks touted but report of possible U.S. ground operations signals rising tensions and potential mobilization.",
-      "event_key": "trump iran talks possible us ground ops"
-    }
-  },
-  {
-    "title": "Iran accuses US of plotting ground assault while publicly seeking talks | First Thing - The Guardian",
-    "summary": "Iran accuses US of plotting ground assault while publicly seeking talks | First Thing The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVy1wUWZwWGE2SVM4cHB4WGF2T2kxZ1c5YTFqbGo1Z1kzcDFuSjhvYzJXUjRVNjRhVnNtUVM2cWwybHVERnQ3LVQ2NTZsSTNNa1k2RzVQcW1fVDBGdzdvaHhiek1lcVo2S2pjdlFOZm5aRFB5OS1VMXRxX2l4ZkhxdFg2ZENPclZxWmRqazI1ck42V3ExdDVTLXVfUFM4aTFPeW5SM3gxNjRnM2IzWW5pelZXVnV3cDhwQi0tQ09vVUZOb3F2bTM0?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-03-30T12:01:00+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 12:01:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f2d228dcc0475ed119761ebfdfde062d03e10810",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Accusation of US plotting a ground assault signals rising tensions and hostile rhetoric, indicating escalation.",
-      "event_key": "iran accuses us plotting ground assault"
-    }
-  },
-  {
-    "title": "Iran warns U.S. against ground invasion as diplomatic talks begin - cbs19.tv",
-    "summary": "Iran warns U.S. against ground invasion as diplomatic talks begin cbs19.tv",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMVpkZU8tbW0wOHdxNkgtTlpLVWZGTWdBdW1sZy13TUNoa1pNUHFRc3JwVERYek5FTmlIaVlSRkRLemd2TVY1MU5zU0FpTlU1dUYzeGREelAxQ0xfY1FHWEU5R05fX0hPUXhZRUhDbUJDNjhEUlR6aGdoOV9pa2d3Vk16b1RLSnlicDRCWUF6cG43al9fcWlPOUdZdTEwcTY4M1lrangxem1BM1o0U3VENWVra2FBN09jd2hPUXI2b1laczFqUGdfeEpyWE5IRmt5RG9pZ29wQ2FfZw?oc=5",
-    "source": "cbs19.tv",
-    "published_at": "2026-03-30T11:46:00+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 11:46:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ab3ad9ad6ff59ec053f4bdf59aac5bf4ab766e5b",
+    "title": "Iran Rejects U.S. Narrative on 'Disingenuous' Negotiation Framework - National Today",
+    "summary": "Iran Rejects U.S. Narrative on 'Disingenuous' Negotiation Framework National Today",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2c3N2pJbGJvUUNpYWR5MTIwRnBVMjB1aHRwTzhPWS1JTTJldDlvSWd2V0h4Z1ZqZE1pZFBrY1N6c2tzMXhkdDdXTlNrRG8ySGp5MmRJZ2JXQkszS0JJM2tMbWx4QUlMRml1RkY0QkI3eWdIQlprbFdBSFdrSUVxRGQybGthN1R3ZkxiRWhuVEJiNmVoVTlYMXBNRGtNN01KdG9mY2h5aVg4Qk9KMWhhanYzNF93X0FZQjZj?oc=5",
+    "source": "National Today",
+    "published_at": "2026-03-30T15:33:41+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:33:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c2ecac11fabea334c64690e518a277dbf551f30d",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.5,
-      "reason": "Diplomatic talks have begun between Iran and the U.S., though Iran issued a warning against a ground invasion.",
-      "event_key": "iran warning diplomatic talks begin"
+      "strength": 0.75,
+      "reason": "Iran rejecting U.S. narrative concerns a negotiation framework and diplomatic talks.",
+      "event_key": "iran rejects us negotiation framework"
     }
   },
   {
-    "title": "Iran and Israel trade strikes as US mulls Gulf ground assaults - cbs19news.com",
-    "summary": "Iran and Israel trade strikes as US mulls Gulf ground assaults cbs19news.com",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkdvUG8xeGRlQjlYRnp1RWZXN0hnYVd1MkhCVlYzMjdHWXBLcm9IOG5nUm9QQy1ocUh6cTJ3dkl4eDBYYnJkMDNNLVZFYjhmWjlTNzM0OVpXdXZTVnQ5Z0g4bWxUSG9GTlBrX0dFM2x1MV9mZVlPS3lPSTZZQTZJby1feUd3SGFaZVpnVUkxQnY2ZnVzZ3Q5Qjd0U0x6NnZNbV9CVDdHcFVYaW9fRVk2Q2lTRWhSVjBKTmpENDg1NzNIemRSc21mOU5hcnB6UmVfSGpINTJIa0o?oc=5",
-    "source": "cbs19news.com",
-    "published_at": "2026-03-30T11:15:22+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 11:15:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a7c3eb3c0b2d069b8b4940d27bc7bf0dc514bb8a",
+    "title": "Pakistan says it will host US-Iran talks - The Hill",
+    "summary": "Pakistan says it will host US-Iran talks The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWdvV2tPRU02VFlTTGl5VHdwWUFLWkRFR1d2NGZlZGdDbXpQOTRSZEFLZEh3S0Z6Xy1RT0hJZm1ranVLYnNWREVGZlg2NUFyc0lnbFpqaTlKbnQyMUtBcF9IaC1xN3BEdHJtVDZTakpNeVZkQkdabFNqMFdDZ243S2xBT2TSAYoBQVVfeXFMT3BBbjB4RVNTTzltV2xHdTNyYTJ5YXB3eXRyZndHVGUzYWZ4STVvODhqeDc0emR4Y1QyWUY5MTNoTDVSeGdrT0VXUEgxRWVRUFlKLVBQaDV3WE1zTlJ0MUJNMk42SlhsbVVjUGZMRDdRdTl5emJ3d0lfRnV3dWVDc2sxUmlGM2RmRWpn?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-03-30T13:17:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 13:17:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9e662232138534eb7dfbb50af16e7e8d40e8e8bc",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran and Israel exchanging strikes while the US considers Gulf ground assaults signals rising tensions and potential military escalation.",
-      "event_key": "iran israel strikes us mulls gulf ground assaults"
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Pakistan hosting talks indicates active diplomatic engagement between the US and Iran.",
+      "event_key": "pakistan hosts us iran talks"
     }
   },
   {
-    "title": "Sustained Iran Missile Attacks Add Pressure on US to Defend Gulf - Bloomberg.com",
-    "summary": "Sustained Iran Missile Attacks Add Pressure on US to Defend Gulf Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEFXci0xcEZIdU4yOG42NHBldU1ZTzFsdFpKNmxkNmtTUmpNZXVnM2kzY05odmU0Y19UME9RQk9EVlZ3dGpVNnJzVjg2ck5iU1hfaTNrRDF4NVFEclBtUUVYdFBCdUN0Ui1nNlZuR29pbGdQVjE0S0lBcHk5S3hhbnJhZmljVzM3X3FqMFozem5SNDVzaHRSTFA4c3VibjVNSDlaelV3WnlZMHZtOXM3dmtBTTFHdw?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-03-30T12:34:23+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 12:34:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "14a43e11e8e6aa59ec7e22fe763b1c9927835e22",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Sustained Iranian missile attacks in the Gulf constitute direct strikes pressuring the US to defend.",
-      "event_key": "iran sustained missile attacks gulf"
-    }
-  },
-  {
-    "title": "Trump Warns Iran of Escalation as US Troops Arrive in Region (1) - Bloomberg Government News",
-    "summary": "Trump Warns Iran of Escalation as US Troops Arrive in Region (1) Bloomberg Government News",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9HTmJraHR4eDRUSGJSclpXMVZmLUhUcS1OZFJjVnFrUlYwd1FURXZlT2RTT3VSajI0WmM4bUVFajdOcUVIc2lXdXZMcHBnVS05aEZ4R2NMVmRfYWpNV3FOV3lUSjNFTUtDOEZiS1J5Mko3ZEloaVNoaGpYdDkxQ3BSb2FMTHpfQmEyTVY1MmZ0VHp2UGN5aFEwZ1FVZ25rS0kxd3NtR1lQS0JBUXMtRQ?oc=5",
-    "source": "Bloomberg Government News",
-    "published_at": "2026-03-30T12:03:00+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 12:03:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0ecdb86fc2c757cf7d922cbcc810ca35ab25cca1",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Presidential warning plus US troop arrivals indicate rising tensions and mobilization toward conflict.",
-      "event_key": "trump warns iran us troop deploy"
-    }
-  },
-  {
-    "title": "US signals escalation on Iran as regional mediation efforts intensify - سانا",
-    "summary": "US signals escalation on Iran as regional mediation efforts intensify سانا",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NcFNubmFwblItSkhzOVNHTnI1NDdVQmM1TDB5RHQ2aGRlalBJb0RNbzNLT2toazJOSTlnMnM5bUE5WU1vTTYwWnM4UkU4dHZoYnQ0?oc=5",
-    "source": "سانا",
-    "published_at": "2026-03-30T11:22:04+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 11:22:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "311d591adc15e48c800a6ba52188662ec80f019c",
+    "title": "‘Loyalty campaign’: Iraqi armed groups in Iran as US talks of ground war - Al Jazeera",
+    "summary": "‘Loyalty campaign’: Iraqi armed groups in Iran as US talks of ground war Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVhvT0x6ZDUyal85YU9UWkhxMm5oUlBBdFM1VDNLVDdGMWV0UUxrX25pX1VadkZ0a2lLWW9WTXVoV1ZiYk82SjltV3JkVjRSdTRNS2lVUjI3N05XQ1kxNWxmeEstemN0eXpjMG5mY3hWT0tEZEdnS001ZmI4Y3FrdEExcXdPMkZQTUhvdE4yTmlXY0tNaUJKdnRLZGctcFZfZmxrZnNnNGl1Z9IBrwFBVV95cUxPSUJVWEF1Qm11bmNYS3N1YzQyWklDQkpZdURodVEtSTdhcnA1cFJKVzQ4cW9FcnpQNkJ1QlVRZElfZUdvNkttamlsTXZJZUxpbXVkUHV0eDJQRnZhWV83cUYydDJBa3RMVG1YbmlvVTZVV0FjWi16c1NxTnRjWU5hcWFMSmRha1dsRG5hLTlhajRRT01tbFdMQmtWQ0RPQUNsZUFGTF94UzhpWVEyUjBz?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-30T15:44:35+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:44:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "19f8ec55fce28d5ecdacba6dd9e8a2b58cca60e7",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "proxy_escalation",
       "strength": 0.8,
-      "reason": "Article reports US signaling escalation against Iran despite increasing regional mediation efforts.",
-      "event_key": "us signals escalation on iran"
+      "reason": "Iraqi armed groups (Iran-backed proxies) mobilizing in Iran amid US talks of a ground war, signaling proxy-driven escalation.",
+      "event_key": "iraqi militias in iran us ground war"
     }
   },
   {
-    "title": "Iran issues eerie warning to US as they prepare to invade country - tyla.com",
-    "summary": "Iran issues eerie warning to US as they prepare to invade country tyla.com",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxwNVJ6M2g2c1RITzVWeHRpcmNlZlhsUVdIQzZpakpHUHhMeGphU1BaaVU1UlZ6bm1PY3UxWTN2d2xmSkNYYUxpNGhlNEJTN2w3ajdNMXphUU5mal95bC1tMjZCck13ZXpvbFh1MlAtc2x2cENyb1puQ0EyRTN6b3ZfYkh1N09rd3JV?oc=5",
-    "source": "tyla.com",
-    "published_at": "2026-03-30T11:34:36+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 11:34:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "be04037e0fb006ee1a6afdde65ff858da7954ea9",
+    "title": "U.S., Iran clash over Trump’s claims of peace talks - The Week",
+    "summary": "U.S., Iran clash over Trump’s claims of peace talks The Week",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tajNoc2wzaXlLblA2SWhvY1FfTWZqSFdMbTBUaVVNWHZUbC1DdTZ1bkhiNWZnWmktSS1qU2t6SlB0OGRLclBfbWpXMEJqY1F3SlU5OHF1d21KR1Y2VUwyRVlKa3licUt6Smh2Yg?oc=5",
+    "source": "The Week",
+    "published_at": "2026-03-30T15:17:54+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:17:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c6ced3de8b43b27d3e2ef88e8e27c333fed08c77",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran issued a warning to the US amid reported invasion preparations, indicating threatening rhetoric and rising tensions.",
-      "event_key": "iran warning to us"
+      "reason": "Public dispute over Trump’s claims undermines diplomacy and signals rising tensions.",
+      "event_key": "us iran clash over trump peace talks"
+    }
+  },
+  {
+    "title": "Rubio: US must be prepared for ‘probability’ Iran will reject American diplomacy - The Times of Israel",
+    "summary": "Rubio: US must be prepared for ‘probability’ Iran will reject American diplomacy The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFNMeTA3MzNBaU5RcDJTZEh1VGZ4djNpQThpM1BnbHZmN0ZlR3ppUHM1R29STFV5ZjNabXpIRm1rejhZWFJlNERHdW1QTGhDVE1DYjBPTlNxZklVLThwcmZSS005MnVLYjdyYm5TV1Baa0ZpM1IzSDREMl9wZ29wTDA4TE9YREc1cjlQa25mMm10YU5TMHhIWWxLUXBRd3FwYzVqTGpBRWFLTzgteVlUeE0tXzhaYU5Eb1JFX1pxZE4?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-03-30T13:42:46+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 13:42:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "37d8e1ebd82475b791fd705f5440a60ccc24212c",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "US senator warns Iran likely to reject diplomacy, signaling tougher posture and rising tensions.",
+      "event_key": "rubio warns iran may reject diplomacy"
+    }
+  },
+  {
+    "title": "Iran rejects US peace plan as ‘unrealistic’; Trump warns Tehran - Modern Diplomacy",
+    "summary": "Iran rejects US peace plan as ‘unrealistic’; Trump warns Tehran Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeEVFZXE5UHlxcVRmbFJNazJZWjJ5Nk5sbVJESlluREdxMmR2STdCdmJab1RTczR2anJDclpfQmVMcTRvdi05TF9XbG1xX0JIOGF2Zl9Bd0E4UG95Y1R4NEw1TEduaEVvdDhoNE5UbFo3QU14aC1hSWhUR1pVUXBhRTZfb0VQT01tSHF0cno3ZXFBRmlVcTF4VDRJdnBYandp?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-03-30T15:11:43+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:11:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b8a12b04cb1292e93da58a274db02b79d93b0bf5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran rejects US peace plan and US president issues warning — rejection plus threats increases tensions.",
+      "event_key": "iran rejects us peace plan trump warning"
+    }
+  },
+  {
+    "title": "Pakistan As Peace Broker In Third Gulf War: An Assessment Of Islamabad’s Mediation Diplomacy In 2026 Iran–United States Conflict - eurasiareview.com",
+    "summary": "Pakistan As Peace Broker In Third Gulf War: An Assessment Of Islamabad’s Mediation Diplomacy In 2026 Iran–United States Conflict eurasiareview.com",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcFFzckhVaDJiWjg2SWgtRVo5VXJtMWgwUkdmUWlBbTZNRHJJN3dzSFFyTGtVczRHUkdjLVJvMnMzWGp1YjAyOGFIOUQ5V3hJU1oyVTVSUmJEcE9SQUlXZWJ3ZlQtNUxrVGZLQ3FkWTN2VmxHeTFHLVZKb2FLTEJtNl93bUUweW9CbGZoSUNVLXgwVk1CYURGVXJPMmdNUTlMdVlGeG9JLVlyU0pJVkM0OVNWYU4zcHJ5S3N6YnhlSGV2enI0clhIWlZUUnNtYzRTNGNBV3Q4Yk9tUTdfdEdZNlM3djJTZF95ZHdPbGFoUWRYamU5WGNlOG53?oc=5",
+    "source": "eurasiareview.com",
+    "published_at": "2026-03-30T15:39:42+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:39:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9fd7d86d4ce7e3c587863f0365582589b4f2f6bc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Discusses Pakistan acting as peace broker and mediation diplomacy between Iran and the United States.",
+      "event_key": "pakistan mediation 2026 iran us"
+    }
+  },
+  {
+    "title": "In the U.S. Strike on an Iranian School, What a Serious Military Investigation Should Look Like - Just Security",
+    "summary": "In the U.S. Strike on an Iranian School, What a Serious Military Investigation Should Look Like Just Security",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5UVdZQUhTRWFoMXpWdDg0UDZuYnJGczJsMThka2hpck9XdlNOX2U1VGRBOWZxTzFzdmkzOUpMazJEcG81YjRkRDdwZlJkTG9GNm9QcTU3VGdYSmtzNmtTbnVDSXY1dWJvcWlPcVVtYUtuU0RjZ2pZN2JCNTE?oc=5",
+    "source": "Just Security",
+    "published_at": "2026-03-30T13:32:38+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 13:32:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0afe6cbcc220e31e9cc01a67de8a196437c44757",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Discusses a U.S. strike on an Iranian school and calls for a military investigation into the attack.",
+      "event_key": "us strike on iranian school investigation"
+    }
+  },
+  {
+    "title": "Report: U.S. fired untested ballistic missile at Iranian school, killing 21 - Haaretz",
+    "summary": "Report: U.S. fired untested ballistic missile at Iranian school, killing 21 Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUkR1X0RXWFlsdkxKTmZDa01PUjhEdjNkcWRCRmxOeU5qM2dydjVUUzN3WEdMMFAzSDhGMUpiMU5SZnk2ZzNZMzdKbUszcF85UEdiUk4zN1A5NXR2Z1NueWF2Y1BIcXdOUVZIb0ZkN0ZFMU1WcTAxdXlUVzVuc09JdTJURGNqRUcyemVsN0daTU9lalFsbXNsVXM1Q1RDeDFqV2FneW1wZGYtbnY3ZU5GcmotWnVRbXlWUTRycmNXYzFUa3FSRGJKRzVaODJzZ1FpaDdpM3EybGtTaUc5cldEUWpQVnNfWEdjSWZLeW91STA0OXlqb2RNaGQ3cFQxTDJkRC02Rkg2RG5SeUs4bVJnMjE1bXY?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-03-30T15:17:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:17:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "17eb341818466f57ed7181fab3beeb557fd686df",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Allegation of a direct U.S. ballistic missile strike on an Iranian school causing fatalities.",
+      "event_key": "us ballistic missile strike iran school kills 21"
+    }
+  },
+  {
+    "title": "What we know on Day 31 of the US and Israel’s war with Iran: Trump threatens escalation if no deal reached - KTVZ",
+    "summary": "What we know on Day 31 of the US and Israel’s war with Iran: Trump threatens escalation if no deal reached KTVZ",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUTQxb2YzX3oxYXFrSFFQMXEybVZjWG1lLWJZSThRQ2JiNE01ZlJEQUg0SHdFU2IydnM5WFJQVC1EYThPeDdoV2RFRVZjR295WTVVS3JDZmJndGF1bENCRldpTUtNN1J4Y0ZjZTBZM01uTVo1YzljRlNzZVBEeVh5R3k5ZnF5RkNtZUJkWk9MYkpBbGYyT0lwMmdzYVVFM2xVaUpMdHdDQTdwT3lfYlJOMjV4NUhySTRFdlpIRlZHQ0Q5dGFqdkFfYzcyU1h1Mi15RlBjbWFRYW1JWUhFLVNHV3ZXZENkNnc?oc=5",
+    "source": "KTVZ",
+    "published_at": "2026-03-30T15:54:03+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:54:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "df9fc5797e5e21bbf345c9e1bd624be7bb5a3ec2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Article highlights Trump's threat of escalation if no deal is reached, indicating rising tensions.",
+      "event_key": "trump threatens escalation no deal day31"
+    }
+  },
+  {
+    "title": "Iran Issues Grim Warning to Any U.S. Troops Deployed For War - International Business Times",
+    "summary": "Iran Issues Grim Warning to Any U.S. Troops Deployed For War International Business Times",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlZFQUJUSDR3ZUhNalZTNVVLVG1mZV9kcDl6b3ZFSC1OVGRVRmU3OGlYYTVPeGxkMWdxSEFZeTg4YnBMeDRsMVpXUnlfblNzYUdWdVJsVzZKdDlOUG1DRWVBeGJmdGlxWmhuZUxxSWZEWmY2ZE9TNXYyN3lzbDFoZDEzWS1SNHUzeXdN?oc=5",
+    "source": "International Business Times",
+    "published_at": "2026-03-30T13:35:59+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 13:35:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6653ce928f72cdeca070546b7b6b96709d50b7e1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's explicit warning to US troops is hostile rhetoric raising tensions and threatening possible conflict.",
+      "event_key": "iran warning to us troops"
+    }
+  },
+  {
+    "title": "Bab al-Mandeb Under Threat: Yemen’s Houthis Escalate Amid US-Israeli War on Iran - Kashmir Life",
+    "summary": "Bab al-Mandeb Under Threat: Yemen’s Houthis Escalate Amid US-Israeli War on Iran Kashmir Life",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGtsQ09JSVRLRlhrUTRYOHBKTkkxVG5hNkVTTENSSnRYSGZfTlo4OW5Eem1XTjlOQ2JHRndCV1FHNUNEUkNTQXNGRjJDMjNFaWkzRlh3UEpDTW5hUWptUXpIQWJNZWpIUjc4cFZ2YkFWWkVNOEZyTUcwenlXTms2ZEFsNVF5MUhjdXRZS1N1SThWYjRaZXVLcGJtM1pZNlpfRmF2NXpTVWJRNnhfcmZF?oc=5",
+    "source": "Kashmir Life",
+    "published_at": "2026-03-30T15:20:40+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 15:20:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6b507bb34ff1dc0d7afda7569471fe4909e2790a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.9,
+      "reason": "Iran-backed Houthi escalation threatening Bab al-Mandeb, implying proxy-driven escalation amid wider Iran-US tensions.",
+      "event_key": "houthi escalation bab al mandeb"
     }
   }
 ]
