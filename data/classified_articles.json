@@ -1,121 +1,155 @@
 [
   {
-    "title": "Fire seen near Israeli oil refinery after Iranian missile attack - The Washington Post",
-    "summary": "Fire seen near Israeli oil refinery after Iranian missile attack The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblR3a2pXVU1xa0h3ZFg2SkZDODdQMGUzT2U2RUtjUk5Kc2ZBSklFWmdCTHhibGNGbHh6d3NQSzVlUmoxQ3JwaW81YlRnU1U1SUVtMHdxcV9sUnpxLWRLZ0JLZkVHNHVaMmh1djRHN1FXLTNqZlJIYnoydUxnSjdaWTdBcUZtV1c5dTc2QUkwQ05QRHd2NzlCSG43N0xNVlNDUzctV1ZNOEgyOUd6dXVUT3ZCOXdXZzFWWXZKNzdNelZoSnBsLWZBOUQtYUREUTVSaVUyR1VOajk?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-03-30T09:18:51+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 09:18:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "027bd6d5873b599d6b3442c4c63ede16988b5ad8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missiles causing fire near an Israeli oil refinery — a direct military strike.",
-      "event_key": "iran missile attack near israeli oil refinery"
-    }
-  },
-  {
-    "title": "Iran threatens to ‘rain fire’ on US troops as possible ground war looms - egyptindependent.com",
-    "summary": "Iran threatens to ‘rain fire’ on US troops as possible ground war looms egyptindependent.com",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemxvNTkxeTRFVWR1OXhPc3dwM2FVSmVxWlp2X3A3bWxnQ0k4R2V2Tk91eXpSZTY5bE84MUFoeTNRVjlYZUJvV3pjNDY5aWlSUGxBQmp6NUZyR0pOQk5FOUxPUUxldGwtVUtpZjZieVkwOWlRV21SeDM1Rnp5VVZGU0cxczJzM1hVWi1zZF82Wlg1Q0sxSnNPRVdoV3ZhWmItLTRwZEZn?oc=5",
-    "source": "egyptindependent.com",
-    "published_at": "2026-03-30T08:47:22+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 08:47:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a6be08fbecc939d89982296fa34626f1fabcf43b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Direct threats of violence and talk of a possible ground war signal rising tensions and hostile rhetoric.",
-      "event_key": "iran threatens rain fire on us troops"
-    }
-  },
-  {
-    "title": "Pakistan seeks to host US-Iran talks, Trump predicts deal could be ‘soon’ - The Arab Weekly",
-    "summary": "Pakistan seeks to host US-Iran talks, Trump predicts deal could be ‘soon’ The Arab Weekly",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2VtX3BwaVVwTTZUY3h4ek1ZV2Z0TnJteHZPdlBRRXJGTjNDQnFtUXZvcmswekRuckRIaDJWcU05am04MG1wMTVjNzBKa3V3MlJYRDhhSXNMSWtxUU1ydDZSb2lWMDM5SjRNeG0xX294Ql8zeGdPSlhXZG9HZEUxdHJoQnhUbE5aeWszU1k2M3JlMzgxcW1PMg?oc=5",
-    "source": "The Arab Weekly",
-    "published_at": "2026-03-30T08:14:13+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 08:14:13 GMT",
+    "title": "What to know as U.S. and Iran consider peace talks - Yahoo",
+    "summary": "What to know as U.S. and Iran consider peace talks Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmctZ0JPeFhtUUNHS0NaMHpYcWNMOGZxZ2hMcUVFQWZTTjhUajZVTGJvMXhKenBBTm5nUi1EVWFNX2dhZE9mV2xfeUVQWE9jZkVYenJlWjJQMHhwWFEyTk1nNFVJQXkyNGlvT3hHa1FNeFVpUFMtQXdNZTZtXzk5V1ZB?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-03-30T12:17:08+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 12:17:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "74323fd6a6bbfa8bf4fcabfba276f0b06bdd014d",
+    "article_id": "7538bb5d63924529b77660ecb37206c794dba2fb",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Pakistan offering to host talks and Trump predicting a deal indicates active diplomatic engagement.",
-      "event_key": "pakistan offers hosting us iran talks"
+      "strength": 0.9,
+      "reason": "Article discusses U.S. and Iran considering peace talks and diplomatic negotiations.",
+      "event_key": "us iran consider peace talks"
     }
   },
   {
-    "title": "US-Israel war on Iran: What’s happening on day 31 of attacks - Al Jazeera",
-    "summary": "US-Israel war on Iran: What’s happening on day 31 of attacks Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVlKMjdQbVBSa3lsd013QVIxcmhEdEpLN25UQjlpNWVJSXcwUVdxc2NPMkoxNWlkM0g0MHJvVzAtLU5VM3B2RkctRUx2TGdUV1BQWWJGenU2ZmFxVk5naHkwRkVTWG5RYThKNnh4U2ZVMGN3dnFPbUg3OVlHNmlZQW9SREQ5cWg3aWRpVFk1OWFFdkE5NHhwLW1KUC03RGFyYjVHZtIBqgFBVV95cUxNY0d3eEFGVzc4cVYxZU1wNDZ4X2RBeVJ1azg2MklVVzZ4aTFUdUJnbDFFNElxdndqWmlrUW9HV2J5LUVWb0xMNEhBRld2UEFQR2oxUFNJU0Y4Q0tLRGxvSUxkSDVEem5KR1hiV0xGQVZjSnI4Z2JLTmwwc3hqOF9EaTFEaEszYnhRRHNVcXhDdVNWc0J4cVhoa0c0ZGRieE1rNjVERlF6MU9qQQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-03-30T07:18:10+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 07:18:10 GMT",
+    "title": "Trump touts Iran talks progress as report suggests possible U.S. ground operations - FOX 32 Chicago",
+    "summary": "Trump touts Iran talks progress as report suggests possible U.S. ground operations FOX 32 Chicago",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjQTZNUUdkTHJXVENleVZFRkFsUnJmeENNNnN2VXJtYUNIWHV2dHNUaTlZNmpHY1Y5emlPVEtpdVg0N3ZuVXJRLVllZklOb2ZVcjlxNVBkRndLWEM3Y0g3bmo1cDU4QdIBa0FVX3lxTE9ma05LRTdmU3QwRFRUMUFMRlN2V2xESW9Fb2xCaGJYMHBHZDVoUy1TM0FaNWlZRF83T2xOWmNseVVIWXp0UW56dmxXV0swYVBQV3ZzZ2JxUlFKa20yaEFhU2ROelQwb1hDSVlV?oc=5",
+    "source": "FOX 32 Chicago",
+    "published_at": "2026-03-30T11:17:37+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 11:17:37 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9f30f7949d4652fb830abf44510b16cb4a113922",
+    "article_id": "62c6a1c36e6c5cd84b3fe93f7f9b873eeb35a52d",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Coverage of day 31 of ongoing US-Israel attacks on Iran indicates active military strikes/retaliation.",
-      "event_key": "us israel attacks day31"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Talks touted but report of possible U.S. ground operations signals rising tensions and potential mobilization.",
+      "event_key": "trump iran talks possible us ground ops"
     }
   },
   {
-    "title": "Trump Suggests US May Control Iran's Kharg Island as US Marine Strike Force Arrives in Region - cbn.com",
-    "summary": "Trump Suggests US May Control Iran's Kharg Island as US Marine Strike Force Arrives in Region cbn.com",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUJGbkxUdEFqU0Y3MC1Oa05ZUy03UXk3MFpFVHJBajZhNTVIVWVGMVZ5QjZzQTRuTmNFZS1lZVJTM0dkWm94M21CU25FT18wTEkyalVQVlpLUzRYRHlTQnpObmw4OTZxaFl1NkdudVFmN0VHaGw3SXBibzJ3MzZNdUl5UGl3RTVYOW1uOUFFcmpTT3N3SDVhcWJTVGtRbDFYaGx0ek1UcC14VjZFSm4wckhmNU4?oc=5",
-    "source": "cbn.com",
-    "published_at": "2026-03-30T09:22:32+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 09:22:32 GMT",
+    "title": "Iran accuses US of plotting ground assault while publicly seeking talks | First Thing - The Guardian",
+    "summary": "Iran accuses US of plotting ground assault while publicly seeking talks | First Thing The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVy1wUWZwWGE2SVM4cHB4WGF2T2kxZ1c5YTFqbGo1Z1kzcDFuSjhvYzJXUjRVNjRhVnNtUVM2cWwybHVERnQ3LVQ2NTZsSTNNa1k2RzVQcW1fVDBGdzdvaHhiek1lcVo2S2pjdlFOZm5aRFB5OS1VMXRxX2l4ZkhxdFg2ZENPclZxWmRqazI1ck42V3ExdDVTLXVfUFM4aTFPeW5SM3gxNjRnM2IzWW5pelZXVnV3cDhwQi0tQ09vVUZOb3F2bTM0?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-03-30T12:01:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 12:01:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f2d228dcc0475ed119761ebfdfde062d03e10810",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Accusation of US plotting a ground assault signals rising tensions and hostile rhetoric, indicating escalation.",
+      "event_key": "iran accuses us plotting ground assault"
+    }
+  },
+  {
+    "title": "Iran warns U.S. against ground invasion as diplomatic talks begin - cbs19.tv",
+    "summary": "Iran warns U.S. against ground invasion as diplomatic talks begin cbs19.tv",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMVpkZU8tbW0wOHdxNkgtTlpLVWZGTWdBdW1sZy13TUNoa1pNUHFRc3JwVERYek5FTmlIaVlSRkRLemd2TVY1MU5zU0FpTlU1dUYzeGREelAxQ0xfY1FHWEU5R05fX0hPUXhZRUhDbUJDNjhEUlR6aGdoOV9pa2d3Vk16b1RLSnlicDRCWUF6cG43al9fcWlPOUdZdTEwcTY4M1lrangxem1BM1o0U3VENWVra2FBN09jd2hPUXI2b1laczFqUGdfeEpyWE5IRmt5RG9pZ29wQ2FfZw?oc=5",
+    "source": "cbs19.tv",
+    "published_at": "2026-03-30T11:46:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 11:46:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ab3ad9ad6ff59ec053f4bdf59aac5bf4ab766e5b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Diplomatic talks have begun between Iran and the U.S., though Iran issued a warning against a ground invasion.",
+      "event_key": "iran warning diplomatic talks begin"
+    }
+  },
+  {
+    "title": "Iran and Israel trade strikes as US mulls Gulf ground assaults - cbs19news.com",
+    "summary": "Iran and Israel trade strikes as US mulls Gulf ground assaults cbs19news.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkdvUG8xeGRlQjlYRnp1RWZXN0hnYVd1MkhCVlYzMjdHWXBLcm9IOG5nUm9QQy1ocUh6cTJ3dkl4eDBYYnJkMDNNLVZFYjhmWjlTNzM0OVpXdXZTVnQ5Z0g4bWxUSG9GTlBrX0dFM2x1MV9mZVlPS3lPSTZZQTZJby1feUd3SGFaZVpnVUkxQnY2ZnVzZ3Q5Qjd0U0x6NnZNbV9CVDdHcFVYaW9fRVk2Q2lTRWhSVjBKTmpENDg1NzNIemRSc21mOU5hcnB6UmVfSGpINTJIa0o?oc=5",
+    "source": "cbs19news.com",
+    "published_at": "2026-03-30T11:15:22+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 11:15:22 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aa8d7dba793b1a21df8511a6170add8260bf12bf",
+    "article_id": "a7c3eb3c0b2d069b8b4940d27bc7bf0dc514bb8a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.78,
-      "reason": "US president suggesting control of Iranian island plus arrival of Marine strike force signals threats and military mobilization.",
-      "event_key": "trump suggests control kharg island marine strike force arrival"
+      "strength": 0.8,
+      "reason": "Iran and Israel exchanging strikes while the US considers Gulf ground assaults signals rising tensions and potential military escalation.",
+      "event_key": "iran israel strikes us mulls gulf ground assaults"
     }
   },
   {
-    "title": "Trump's Kharg Island warning: Former US envoy says Iran will do 'everything it can' in response - cnbc.com",
-    "summary": "Trump's Kharg Island warning: Former US envoy says Iran will do 'everything it can' in response cnbc.com",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xNEtxZXoxblZRVENVclcyenBYRkppeWVKNGstOHlLVzZPbmlVWnlXVFFsUGdiemdzdXd1WVNRYk9iQjRfT2E2MHJLWDVldWZmTzhEU2NjNTQ0Yi1nQW5qeVlncjU?oc=5",
-    "source": "cnbc.com",
-    "published_at": "2026-03-30T07:10:54+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 07:10:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9e67de90a52d0e079eabb03bbdf2d415888da082",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US warning and Iranian vow to respond signal rising tensions and hostile rhetoric.",
-      "event_key": "kharg island warning"
-    }
-  },
-  {
-    "title": "Destruction of vital US radar aircraft could hamper ability to spot Iran threats, analysts say - CNN",
-    "summary": "Destruction of vital US radar aircraft could hamper ability to spot Iran threats, analysts say CNN",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGRfYzl3c0xhbGpCMTlPd1ZGU1pWbW1KS2dXbkYwQlRVMU5vTjlvLTl2dnQyTGFoVEhwMTRfakVLOGt6UzNXRFRvWW9OZnVWVlRtV0FNaUdWcThyUS1WUWJoRTBKQ3M4RVkzNzQ4elpHZDhySHdhQ21PNHh1UnpSWjNoWDE5aWtpQm1RbkdZTF84T1FYSnhnOEZWUUZ2TXFo?oc=5",
-    "source": "CNN",
-    "published_at": "2026-03-30T06:19:17+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 06:19:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "23e69f83196a3b720ed6a352a51241a00c511b8f",
-    "source_weight": 1.0,
+    "title": "Sustained Iran Missile Attacks Add Pressure on US to Defend Gulf - Bloomberg.com",
+    "summary": "Sustained Iran Missile Attacks Add Pressure on US to Defend Gulf Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEFXci0xcEZIdU4yOG42NHBldU1ZTzFsdFpKNmxkNmtTUmpNZXVnM2kzY05odmU0Y19UME9RQk9EVlZ3dGpVNnJzVjg2ck5iU1hfaTNrRDF4NVFEclBtUUVYdFBCdUN0Ui1nNlZuR29pbGdQVjE0S0lBcHk5S3hhbnJhZmljVzM3X3FqMFozem5SNDVzaHRSTFA4c3VibjVNSDlaelV3WnlZMHZtOXM3dmtBTTFHdw?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-03-30T12:34:23+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 12:34:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "14a43e11e8e6aa59ec7e22fe763b1c9927835e22",
+    "source_weight": 1.1,
     "classification": {
       "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Sustained Iranian missile attacks in the Gulf constitute direct strikes pressuring the US to defend.",
+      "event_key": "iran sustained missile attacks gulf"
+    }
+  },
+  {
+    "title": "Trump Warns Iran of Escalation as US Troops Arrive in Region (1) - Bloomberg Government News",
+    "summary": "Trump Warns Iran of Escalation as US Troops Arrive in Region (1) Bloomberg Government News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9HTmJraHR4eDRUSGJSclpXMVZmLUhUcS1OZFJjVnFrUlYwd1FURXZlT2RTT3VSajI0WmM4bUVFajdOcUVIc2lXdXZMcHBnVS05aEZ4R2NMVmRfYWpNV3FOV3lUSjNFTUtDOEZiS1J5Mko3ZEloaVNoaGpYdDkxQ3BSb2FMTHpfQmEyTVY1MmZ0VHp2UGN5aFEwZ1FVZ25rS0kxd3NtR1lQS0JBUXMtRQ?oc=5",
+    "source": "Bloomberg Government News",
+    "published_at": "2026-03-30T12:03:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 12:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0ecdb86fc2c757cf7d922cbcc810ca35ab25cca1",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Presidential warning plus US troop arrivals indicate rising tensions and mobilization toward conflict.",
+      "event_key": "trump warns iran us troop deploy"
+    }
+  },
+  {
+    "title": "US signals escalation on Iran as regional mediation efforts intensify - سانا",
+    "summary": "US signals escalation on Iran as regional mediation efforts intensify سانا",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NcFNubmFwblItSkhzOVNHTnI1NDdVQmM1TDB5RHQ2aGRlalBJb0RNbzNLT2toazJOSTlnMnM5bUE5WU1vTTYwWnM4UkU4dHZoYnQ0?oc=5",
+    "source": "سانا",
+    "published_at": "2026-03-30T11:22:04+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 11:22:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "311d591adc15e48c800a6ba52188662ec80f019c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Article reports US signaling escalation against Iran despite increasing regional mediation efforts.",
+      "event_key": "us signals escalation on iran"
+    }
+  },
+  {
+    "title": "Iran issues eerie warning to US as they prepare to invade country - tyla.com",
+    "summary": "Iran issues eerie warning to US as they prepare to invade country tyla.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxwNVJ6M2g2c1RITzVWeHRpcmNlZlhsUVdIQzZpakpHUHhMeGphU1BaaVU1UlZ6bm1PY3UxWTN2d2xmSkNYYUxpNGhlNEJTN2w3ajdNMXphUU5mal95bC1tMjZCck13ZXpvbFh1MlAtc2x2cENyb1puQ0EyRTN6b3ZfYkh1N09rd3JV?oc=5",
+    "source": "tyla.com",
+    "published_at": "2026-03-30T11:34:36+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 11:34:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "be04037e0fb006ee1a6afdde65ff858da7954ea9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "Destruction of a US radar aircraft is a direct loss reducing surveillance of Iran threats, implying a strike impacting military capabilities.",
-      "event_key": "us radar aircraft destroyed impairs iran threat detection"
+      "reason": "Iran issued a warning to the US amid reported invasion preparations, indicating threatening rhetoric and rising tensions.",
+      "event_key": "iran warning to us"
     }
   }
 ]
