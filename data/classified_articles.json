@@ -1,86 +1,137 @@
 [
   {
-    "title": "Iran War: US Expands Threats to Iran Energy, Water as It Hails Talks - Bloomberg.com",
-    "summary": "Iran War: US Expands Threats to Iran Energy, Water as It Hails Talks Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUTFXdXdyR1dYWi0yR0dKVk1qS1JPNE16cUMteXB3XzNKZE5vUWREWHFWZzlCdk5QeG5pU2hEdFhrXy1sZTlObFVsVnl1UFB0R1ctdTNtZU0yZHB4MGQ0bFd1c1V3M2plYWtsc3hKLVRaeDd1S1h2alpXVFlrT1NBTzFBeWZKSzB4NnlvbjNOQ190MjRWaEoxYXloT3BHZm80UTRwTWpYTnZZVUY3cmhYOC1WSQ?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-03-30T20:10:45+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 20:10:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1107caa291a3f0391ae4b28042c81ed6d29247c0",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US expanding threats to Iran's energy and water infrastructure while praising talks signals rising tensions and pressure.",
-      "event_key": "us threats to iran energy water"
-    }
-  },
-  {
-    "title": "IDF and U.S. strike Iran as Tehran, proxies lash out across region - Foundation for Defense of Democracies",
-    "summary": "IDF and U.S. strike Iran as Tehran, proxies lash out across region Foundation for Defense of Democracies",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3NrUlNBY1JmZTc0aDBpMGtlQmlNR0REQWJlVFlPcTg3cnJSVzFyU1lXZ1BYMWhGMGVITWRVWTNjdzNXbzFKWUpyaFZ2dGlZMHhVUFJBWkRiVGcyVjdXTmdBX2w2WUpSdjY5YWh6N0dzWEhFSkctdkEzRk5veHJCTEpldVlPYVhyel9zZTJzT2JPRFc3NUNLNG03WDU5OVN4U0lPcTJkcUVJamlE?oc=5",
-    "source": "Foundation for Defense of Democracies",
-    "published_at": "2026-03-30T20:51:58+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 20:51:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5cd41419c0c62960cbc40d083cb216f04f06a2f6",
+    "title": "Iran’s foreign ministry rejects US ceasefire demands - Al Jazeera",
+    "summary": "Iran’s foreign ministry rejects US ceasefire demands Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcDBxenh3TnZwMnZDME12WTlTeWUyR3JyUzNuRHpqMzJJVkM0Y0RQQjhVRFR0aEJVaU5fT3dnWG5leWFhdTlYVy1mN19QTWttaDd1WlVUYWtGbTc3MWctTXNza1pHV0tFcVpjYVVPX0E2Y3d2Tm9EWmR3MDRSWjVWdkQ1NnlkcWNjckNWVmdzTjJRcURkMmdsYzFhOTcwMGNFbElJX9IBqgFBVV95cUxNbC1ZQ2pLZWtFd1VoSV95bFYzSXEtOXpYZHJLcWFVTE5zVVhaWkp4RWJnRzJkTEY1bWFSUEZlRzF6N0RiTUIwMWFrSHA5OW1NQXBHMVl2cGNWZ3Ftd0RuaVV3ZUdxcGZZbURoandjUVhjejZYT2xUNVBnak0tcVZYeUVLN1NzT0x3VlpoUkQwT2V1dEFwUFhwVEs2MFRyajlxUmtGQm5VZWxwZw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-30T23:14:37+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 23:14:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7e203184c2b06a8a7420aaa820e9c65277a09e37",
     "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "IDF and U.S. conducted strikes on Iran while Iran-backed proxies lashed out regionally.",
-      "event_key": "idf us strike on iran"
-    }
-  },
-  {
-    "title": "US used new ballistic missile in strike that killed teens in Iran sports hall: Report - Middle East Eye",
-    "summary": "US used new ballistic missile in strike that killed teens in Iran sports hall: Report Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1M2NXpWWVI3QkFSd2MxQjdNMnl5ZmNrZ0xZdFhqT0pVb1ctd1EybVFyamtObzBmNGd3Z0Nucnl6aDRYUjZYRTR2RkdoTzQwUE5ra2ctV1RJQWVRRXMzN2plamhUSzU2TjRPQnFYaHg2WHltTEdLNVY5UEdzSWZsMFF4eDRXNnItWk1QdlpxSW5VZ250R3NlMEtFaXNkanlrVUlZR3c4WWNTUQ?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-03-30T20:38:12+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 20:38:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fe575180f0efd1a2902e430230e967b133292241",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe a direct US ballistic missile strike inside Iran that killed civilians at a sports hall.",
-      "event_key": "us ballistic missile strike iran sports hall"
-    }
-  },
-  {
-    "title": "Trump’s Delusional Escalations in Iran - The American Prospect",
-    "summary": "Trump’s Delusional Escalations in Iran The American Prospect",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM3NOSXhhSXd1cDVvWGtUZW5jenBLZE9YbWhQRy1zR2NCaEV5emdVOEV3M1dlakRzX3ZJTklWaVIzSUtxRC10WjZVd2IyZmdxU1E5aFpYVUFzbm1MUU5kYi1SVUJWVVg4M2ZOaE5kLXlvNXFzQnppRUxRTGE2T0dwYkx4M1N3NHlRUUpHX0FKMS1nNW8?oc=5",
-    "source": "The American Prospect",
-    "published_at": "2026-03-30T19:00:00+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 19:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9a286c35c4f6d517ebfddd22c07fc3347b8e1ea9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Opinion piece criticizing Trump's hostile escalatory actions and rhetoric toward Iran.",
-      "event_key": "trump escalation iran"
-    }
-  },
-  {
-    "title": "Trump issues new warning to Tehran; Iran calls U.S. peace proposals 'unrealistic' - Japan Today",
-    "summary": "Trump issues new warning to Tehran; Iran calls U.S. peace proposals 'unrealistic' Japan Today",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlo2WlRLRnNQTlZRWEY3UzBGQ01TYkd0bjFSSXZFdEFYOERkWWF1QjFTenotZFQ3ZUJtVWw0U2FsLURCaURHODFFdG9VWktoM2lia1hhbnVnTEZKM0hYekRDSmp3blJQZTFMX25SamNRVldROFNVbFNiV2JtdFlqWXpKOV9mcVhHUTg2RDEtQUtRUndsLUhrUnlNem1qZ2FxenpUZXM0U3l3MXNSWGxxeGp4d2NVNkx5?oc=5",
-    "source": "Japan Today",
-    "published_at": "2026-03-30T21:05:00+00:00",
-    "raw_pub_date": "Mon, 30 Mar 2026 21:05:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a76ed226af61e0f39bbcccd8a6b7a1380756f14",
-    "source_weight": 1.1,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "U.S. warning and Iran rejecting peace proposals indicate rising tensions and breakdown in diplomacy.",
+      "reason": "Iran's foreign ministry publicly rejects US ceasefire demands, signaling rising tensions and breakdown of diplomatic proposal.",
+      "event_key": "iran rejects us ceasefire demands"
+    }
+  },
+  {
+    "title": "Iran denies talks with US but confirms a ‘negotiation request’ - The Hill",
+    "summary": "Iran denies talks with US but confirms a ‘negotiation request’ The Hill",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHEtS09hNnpua1FOWXdKSTJ6QU5DMDIydG16UFp5XzFWVHZFSE51cG1PN2l4enBBUXh0UVI2d25xaFJQRERZdmw1ZWpBR0dQNExCTTNWT1pwbG1CU3hiR3g5cmNPOFZjOFpIVTM4elRJTTNDQTcyU0F6WHZ3U1hXbm5Da9IBiAFBVV95cUxQcVlaWUdURTMwRFY1cXFpT2NrNXRnblF1MFBPMTF0cDJXTTlyeHFMR0MxRFVIZmNfSzZHRnVSTU5YRlZWUWlrQ0lmTzk5OWhDN3hQUW9NOG9nWWxJMWh4d0NfWWJpaFdhTGI0Um9SMW95V254TDZYYnotR0FGWGhvcWM4Vi1iSUFV?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-03-30T21:53:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 21:53:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4caf3691b2534b77cf9159f8895e6c137d324912",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran confirms a negotiation request despite denying direct talks—active diplomatic engagement reported.",
+      "event_key": "iran negotiation request denied talks"
+    }
+  },
+  {
+    "title": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' - Reuters",
+    "summary": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHlrYWItR0JXcENnOEtGYkd4Uk1FRkdNN3BlVEN5bTRkbEd2VjF3YjNZMWlPTkp2Q21lSGM5TDVwbFJLQmp2aDRva3hxSUQ4U0JtYVYwTDlRdHhpQ0RXSkpGSDVjeUo0TFY5dmNJY0NuS1RmT3lPTEt3YVRQUHFSYWRQb3diZGlqMG9VeExPeUlaTXF0UU0zQU1Cc1FhUUlkZnhscXlZRUhVWkMtR285ZmhBWkZJV2M4c05DXzJ3U3JnTmI5eXVnbHl3NFhrZw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-03-30T23:44:07+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 23:44:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0afac994282c146dfa6afd8159f3c140c44b2d9d",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US warning and Iran's rejection of peace proposals signal rising tensions and diplomatic breakdown.",
+      "event_key": "us warning iran rejects peace proposals"
+    }
+  },
+  {
+    "title": "How Pakistan Became a Major Player in Peace Negotiations Between the U.S. and Iran - The New Yorker",
+    "summary": "How Pakistan Became a Major Player in Peace Negotiations Between the U.S. and Iran The New Yorker",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnBRNVVBczA1RUcyczhJOTRPckpWMklnRzlZVDZxNzgzSGxTdGRHN3FSQjZET1p1eFlEaXdlTENDYjFoR3dlbDRpVmlwQXRQUi1WY3EwMkc4R2ZiRDdCb2dLS1VXcnBPNDBRYzU2d2p1YjVfazRZMzdlUVVweHBtMXZTdkRCUUhWaHpnQ2NNYS1XSGYzX2N3bnJCM1ZSZTRKajlucVJ1R1RQa2ZYZzhPa0c4eUtwYWRPNEhF?oc=5",
+    "source": "The New Yorker",
+    "published_at": "2026-03-30T23:40:23+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 23:40:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a75d8ed2f49f4904e67aca654a79ebe7b0c085c3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Article describes Pakistan's role mediating peace talks between the U.S. and Iran.",
+      "event_key": "pakistan mediation us iran"
+    }
+  },
+  {
+    "title": "Gold Edges Lower Amid Divergent Signals on U.S.-Iran Talks - WSJ",
+    "summary": "Gold Edges Lower Amid Divergent Signals on U.S.-Iran Talks WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOemd4SzRIZ2xVTFhyT0tBdTlzMG1XLUNmaGNKR1VNTXROdS1SUEdsa2hzNGlocGJHbWcyUmtGNFpXenp5b3NSX19DYTRJSE8tUS1PY3hjbmVNenlEOVlDSWpBNmRFSm1GeDZiT0NfeG1YQ3JLRTZJZTdad0pHN3FnSlNzWkNaTHpxYV9udTg3Q21veDZEUWRFTERSSnBjLWxaNEVRVmtmREpNdEYwaU15Rm12MDNNRTBZUUMxSzVidWRfUnF1ZV8zd2pHc295cE5OdUoxNlZWeURNb1NSZ0VJNXliR08yTnVlckZNS1ZQa28tSERMSXVTY0U3U0NoM0FROHlTZkVLSUtxM19uMW9BS2dPclZWZjN3dkFyTUtFNnV1bUJqQlp5eF9iejI2YU5nQU5ybGdmMGpBM19JcFQ3c2w4NHN1MXE3dXB4MUZKN19ja2FNVUJtblpUaHMzcGNFNk9WVEQxcDUtNGljbEt1anZQQ1F3U3JySm4xeWtUaEhPTHI3T0lhb1otZmp0UGdGMjVnNlAweURaMDVZUW5ZWklEYjYwWjdySXNzVXI3clR0X0RoUGVWUmx3?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-03-30T23:43:00+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 23:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "78c50a9eb957a3e19c43c5505b2af770017e381a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "Discusses mixed signals around U.S.-Iran diplomatic talks influencing markets.",
+      "event_key": "us iran talks divergent signals"
+    }
+  },
+  {
+    "title": "Why Pakistan has emerged as key mediator in US-Iran war - The Christian Science Monitor",
+    "summary": "Why Pakistan has emerged as key mediator in US-Iran war The Christian Science Monitor",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY185UlZUTkRhNVZMd1MtRnFJSmItQ2F4UXMxV0ZPVnk2UXhYcHpBMjg0X1phaG56NUl3UTN0djNSLThlRGVRckFmSlctSzBlclNfUUVrY2J3TUdydFhwQk9JTTNNRUdSRjJGdVB2TmdldTlzWTNiZlR0MW96M2NRcWkwakNzWVJLX1VWQjNZQW56UVZRYmwwNEVQQ0RrMXRO0gGuAUFVX3lxTE43Z3dvWXk3Y2pGLUd5U0Z1UHNiVXZWMHZncncxcEtkZDg0NXZoVlR0dXh5NjdDcnpmbERkMlFzWUZ1NXUzOWktWkhQbkRLSUd6UUNzcGxjMlNSTTZVa2ZUS0E3T1NCb3NNRDF0RjhrX2tyd2tNV1NiWnQ2VDJHTm5wVzJlZmlsbGl4TXpKYTJINXBDbVlNcGpRR05yeWlfUkdidHVmTnRPWVNNdXg0Zw?oc=5",
+    "source": "The Christian Science Monitor",
+    "published_at": "2026-03-30T21:41:57+00:00",
+    "raw_pub_date": "Mon, 30 Mar 2026 21:41:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "633d428aacd32e2a89a968b54a7422412242120f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Discusses Pakistan emerging as a mediator facilitating diplomatic talks between the US and Iran.",
+      "event_key": "pakistan mediation us iran"
+    }
+  },
+  {
+    "title": "A New U.S. Missile Hit a Sports Hall in Iran. Here’s What We Know About It. - The New York Times",
+    "summary": "A New U.S. Missile Hit a Sports Hall in Iran. Here’s What We Know About It. The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcC14NzZtVFZLcmltcVE4bnZ4dHVhUzhPV3Zwd2NrSDZRNlFWWmVHUkhPZnJla1JNWWxsMzkyZUxxZ3ExMzBiNDE3WnUwQmN2U21vOE9VdzBuMWY1QnNOVE1wZDdRaDNsUFloR0x2bm5VRTBlU1BZcnpEM01hVGhtX1FlWHZBNWp5NHlDMkNseUZUMzBsZkJqeQ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-03-31T01:22:16+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 01:22:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "183ef5dc48d976c1499d0df929035a1ca18d2031",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Reports describe a new U.S. missile strike hitting a sports hall in Iran—direct military action.",
+      "event_key": "us missile strike iran sports hall"
+    }
+  },
+  {
+    "title": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' - Red Lake Nation News",
+    "summary": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' Red Lake Nation News",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkctcHQ2YUh5REVfVThzcEZaTXhIWWJCWkN0YVBfZV9uUUNuRnNXZzFKUWlJYWNYbGhqQU1oUTNqdWxxSXB4WlB5MGVwMjhFT2FWdlk1SFNyYkxYVnRabkVTcTVKZ2t4QVkwa2JKSHFkMTdDZTZ0NDJDMFpkcy1QVHpfUFN6dEo5TDVLbnlOT2F6N256YWZjclowY18wdVBjem10bHM2UjhkMmQ5Z1BCS3VuY3M1cnNsLW5CSTg4TDNTRjJwMUtPMmN4T2JRTEwzX0doOHVmRk9XNWx3?oc=5",
+    "source": "Red Lake Nation News",
+    "published_at": "2026-03-31T01:56:35+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 01:56:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0ab53ee34caef5ce2b54cfd2cb3e931b0cdedd7b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US warning plus Iran calling US peace proposals 'unrealistic' signals rising tensions and diplomatic breakdown.",
       "event_key": "us warning iran rejects peace proposals"
     }
   }
