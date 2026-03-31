@@ -1,19 +1,87 @@
 [
   {
-    "title": "U.S. attacks Iranian nuclear site while Tehran hits oil tanker off the Dubai coast - MS NOW",
-    "summary": "U.S. attacks Iranian nuclear site while Tehran hits oil tanker off the Dubai coast MS NOW",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUd0aDZNcGNEbzhXSWRDQlJaRkxmRGp5N2JKeW1sSFNYMk5Yc09UdGt3SjZVcFFMUFJDa2NYTTN6LUJURXVHZnlucDAtTjFZclpFa1ZDNTY5dTByWW9jaEVheV8wSFFoZTh3dVI3SmZoVnBSMnZHUHdBNG56a0hVTg?oc=5",
-    "source": "MS NOW",
-    "published_at": "2026-03-31T05:59:59+00:00",
-    "raw_pub_date": "Tue, 31 Mar 2026 05:59:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "58bf4c93dc412a960638c7ddaee28a84cf58f5bd",
+    "title": "Vice President Vance to Join Iran Talks When Progress Is Made, U.S. Source Says - Haaretz",
+    "summary": "Vice President Vance to Join Iran Talks When Progress Is Made, U.S. Source Says Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSnZwTENfckFnQXVhdURVOXpHaU1BWWtBMnhQUkV1RlYwa1owVmV6eTdrTmMyeTI5TmlHZ0F4MlByeWM4T1ZOVzdkRGM0d3BpZFJsei14UldnOTl2TVprN2p5UGQwM3BtQkF1WDd5TXNPRkRHcU9oZnJIOFVKc00teVNQd3JtUlhodVRVaVVmbVViMWtMRndWdjJWQXZoOFY0eUNzV2F3RUZtak5FVHFRN1pRWGQ5Q21NWkZZSmgtazFHM2d5TGZmc0RWYjRNRllRMjFvWGhmemhJUUJsaS02Z05LcV9BcGxOZGxMQlNVLUY4eVVUa2ZzTVdqLVdCZmhfd1RoX3BEUl8?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-03-31T09:55:00+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 09:55:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "76cc29ce1a308e1945338594c47dc884e8725c48",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "VP to join Iran talks indicates active diplomatic engagement and negotiations.",
+      "event_key": "us vp vance join iran talks"
+    }
+  },
+  {
+    "title": "Iran war: What is happening on day 32 of US-Israel attacks? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 32 of US-Israel attacks? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcXQwbWZoNUNIU0N6U0k2TkdKT0JNNGJWYmx0Q3VuOUphVTMydVF5M3FzXzF5S1JfVFZrYW9TWUpvai1rNExxbjMxMmZmUHBIeXR3RnRwek1rYzN2YjlPUlhxUW5RdXNiUkh6b0ZsYWU3QWFLRlBLNVk0b3NxbHNUQ3ptQlhMSmt3RzVuVEZXVG5UQndjam1kREU2WEFQWGfSAaQBQVVfeXFMT1NheS1GUXBONTlhWVdpN3VzazcxenpkRk9QNWFhQXJLeTF0ZnlMeFVzT0E3eGtyeGdmbF9MSkJKV01wbmhLUDI1SVBBalZFY3JtY3BLSndLVzd1QS14WERPbm9VdG81MERldUhudnRFWlZaa25yNE53U0hTZ0l0X1dVR3A2Qmlud0Z4WXlvd3ZaNGJ4bmprS3dfLUZKcGF1aUdIbDM?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-03-31T07:57:27+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 07:57:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "beb9195d18130edd3dfb1c8519623e3bfdeecf94",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Describes direct military strikes: U.S. attack on Iranian nuclear site and Tehran hitting an oil tanker.",
-      "event_key": "us attack iran nuclear site iran tanker strike"
+      "reason": "Describes ongoing US-Israel military attacks on Iran, indicating direct strikes/retaliation.",
+      "event_key": "us israel attacks day 32"
+    }
+  },
+  {
+    "title": "US-Iran War: What Has Happened in 31 Days of Conflict? - Open Magazine",
+    "summary": "US-Iran War: What Has Happened in 31 Days of Conflict? Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnVNeHBWdzdXT1NMd3dxS28wbEZlMjhqRUE1RGwyemRERHlKYmotaVhTVVpvTmpYajRoamNoUDNuMF9kdnhjTFo2M24tRUhiZlFteGl1SUtEaE0zcjU4aUExWTFsazZyb2NCU0U3Y1FDbHI1OVJJMHlLWkNhSkF3OEs0RjJZUUVOekdZekpTRQ?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-03-31T08:07:43+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 08:07:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8ed458b80c82a7dda1f2d3322e1e298ce78237e8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "Overview of a month-long US‑Iran conflict implies ongoing hostilities and rising tensions rather than diplomacy or ceasefire.",
+      "event_key": "31 day conflict timeline"
+    }
+  },
+  {
+    "title": "U.S. attacks Iranian nuclear site as Tehran strikes fully-loaded Kuwaiti oil tanker off Dubai coast - CBC",
+    "summary": "U.S. attacks Iranian nuclear site as Tehran strikes fully-loaded Kuwaiti oil tanker off Dubai coast CBC",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbzgwblVRT0l6d3k0UEhUa0w3WmdVb3dMUEVEVDVhVVhuWEJTallCMk9EMmdodUxFZjJJR05VaEhjT3FvbjdaanJveUdIYTNKTk8za0J6X2p2cFNWRzU4aWlIa0FpdWRp?oc=5",
+    "source": "CBC",
+    "published_at": "2026-03-31T08:55:14+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 08:55:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dc994bdad983f0669226a7c575174462cb517890",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Direct U.S. attack on Iranian nuclear site and Iranian strike on a tanker indicate military strikes/retaliation.",
+      "event_key": "us strike iran nuclear site iran tanker strike"
+    }
+  },
+  {
+    "title": "Oil prices mixed on possible US de-escalation in Iran conflict - Anadolu Ajansı",
+    "summary": "Oil prices mixed on possible US de-escalation in Iran conflict Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblBRT0tkcThTNHlBZ0FhSEJpWGhvbFRfZ1FCN0VoMjdycWxWOENkZjdiV01ISjRzckY4cElsTXVtVzJXZFFFRmZRRFFncFRXanpXTV94eVh5dy1EMGNFRVJ0OVBYMVRFTmlnR1dHSjI5LThxOUJsT0RodDhHakJsVmhNbkZsdU5NR2hBNTZVRGdjMFhxT0VmaGwxT0gyNXlmbnJEYVZTdw?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-03-31T08:50:14+00:00",
+    "raw_pub_date": "Tue, 31 Mar 2026 08:50:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7484cd94e48f11d32d67dd4e6a1004477e11dcfb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Article links oil-market moves to a possible U.S. de-escalation — a calming signal, not an agreed ceasefire or direct strike.",
+      "event_key": "us possible deescalation iran conflict"
     }
   }
 ]
