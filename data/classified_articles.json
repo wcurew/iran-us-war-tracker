@@ -1,104 +1,70 @@
 [
   {
-    "title": "Trump: 'I consider US withdrawal from Nato. Iran calls for ceasefire\". Tehran denies: 'False and unfounded words' - Il Sole 24 ORE",
-    "summary": "Trump: 'I consider US withdrawal from Nato. Iran calls for ceasefire\". Tehran denies: 'False and unfounded words' Il Sole 24 ORE",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDhCdS1JQ0VvSHlvZmJUbXZ5Yk1ZTW5EeEZrVEpuLTlESmRBX05tRjY4cFFHRjRoUjQ3cHN6cWduNlhXQXN1Z1d1a3lzMnlMZG5wbVJ4clFCZVoxd1BWX0cxc19aX3dtSmlLT01WeGNrdlluc21IZDJ1ZHN2YWdpbHdrUXJsZzJOcXF2Vkpn?oc=5",
-    "source": "Il Sole 24 ORE",
-    "published_at": "2026-04-01T17:57:24+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 17:57:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f063d73c5a58c70e7f01e395616ace52e6a2dffb",
+    "title": "Iran’s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public - The New York Times",
+    "summary": "Iran’s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMklMRTBWb0V3eWNGMWQ1YWljUXNnZmFHSGp1WkxxWHptZlJjNHN0ZFRpOE1mZjdZa2dCdlY1cVFxVElVQWxkcVg5b1M0QmFCZXZqTkFuUWYxTFFfcnVXdHZUazVJZG5sanRtVnloNHVOLVZFVHVPYmNxTDVVN0NPSncwaFEyR0RCOFVLX1pQZ29vTlIzamVWMzVPV2JRWEZj?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-01T19:16:11+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 19:16:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8001b7778b8f53679eef2577bdec60fe78185463",
     "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.6,
-      "reason": "Article centers on a reported Iranian call for a ceasefire, which Tehran subsequently denies.",
-      "event_key": "iran ceasefire claim denial"
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "President signals openness to diplomatic engagement to U.S. public, an indirect calming overture rather than active talks.",
+      "event_key": "iran president public letter offers diplomatic engagement"
     }
   },
   {
-    "title": "Houthis Launch Third Missile Attack On Israel As US Strikes Continue On Iran - Radio Free Europe/Radio Liberty",
-    "summary": "Houthis Launch Third Missile Attack On Israel As US Strikes Continue On Iran Radio Free Europe/Radio Liberty",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmIzYmVlX0tJTU8tSUZkNVY5YnlaX2U1Y0VZNnpnX05yYnk2c3RFQ21FQ3NHNDZXS3FMU1paMTdvTFlsdldVYnFuTE5GX3pzWnplMzliQ2JUSzhKNDVFOERYMlpmVzdTZW1iQUVoV1lWRHJORnR6aGM2QjhDbVRzR3ZJWnNMLUZ0S01jb1NSYjBTZWfSAZYBQVVfeXFMTnZMcjViaElva3BkV2VIS3diZEFBa3pzblV5UlFrd2xfdDZ5S1VwV3h2Qk9mczl6XzJPLXduSWJncXdHYzlOckktUVZubjkxWDY0dEVTU1ZQNFFhMTVDQWUtWGNvRVJqdXRlaWJqVjV6NXZQYU5fdzAycnk3LXYwZFE5blVRSF9aRzlNUlR4VlVGT3Z2bzF3?oc=5",
-    "source": "Radio Free Europe/Radio Liberty",
-    "published_at": "2026-04-01T16:16:19+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 16:16:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a382183af0f00e3b46390c257c5fa40ca5737047",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "Iran-backed Houthis launched missile attacks on Israel, signaling proxy escalation amid ongoing US strikes on Iran.",
-      "event_key": "houthis missile attack on israel"
-    }
-  },
-  {
-    "title": "Iran Launches New Wave of Missile and Drone Attacks Targeting Israel, US Bases - Kurdistan24",
-    "summary": "Iran Launches New Wave of Missile and Drone Attacks Targeting Israel, US Bases Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDJUTzRlaWU0TFVZaHBwOXlzQnBtemYxVU9JaTFqeVZqY2lfcVcxWEdqdEplSlRaRlFFV2c2NGJRbjhsRFhhUkljUlFpTWpoUmN3cmtLNTRMR0JTZmZnRVV4eXJPMGl6UUhMLWRBX3hpVGx1UzRvUm5mdnhpSGRZZFpqVFBzUFRORkItdF9lcWpzc25TZFZ2YUFXQnVoR0hJcGJlQ0E4S0J5VFFickt6LXNPREZaMEsyM1JBTVVB?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-04-01T18:54:09+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 18:54:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "37d955444cfd75b224dccbca0f90f03a72bcf701",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran carried out missile and drone attacks against Israel and US bases, indicating direct military strikes.",
-      "event_key": "iran missile drone attacks on israel us bases"
-    }
-  },
-  {
-    "title": "Iran says US-Israeli attacks 'amount to genocide' - Anadolu Ajansı",
-    "summary": "Iran says US-Israeli attacks 'amount to genocide' Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWk5yUFJkcVVQQ1FHMkZzaWtQWlFXWjBnYUgxRTJkRzBfMWtROUR5U2lvRlJFOXBQWmtrVTJkNUNPdVphSHEtYjRTajRUODdTNHU2eHV0T2hzcE9hSm5Jbl9WUGZfNmV5cjNKb2ZfQXlKNXVueG5sOHdYUnBtTzFocWdKTU8wQmxjd3g4NXNaN3d3MGFNb0Nv?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-01T17:26:04+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 17:26:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e758808e7dd1a00dd157b3568cb7e9742a0d770d",
+    "title": "Iran Is Skeptical About Diplomacy for Now, U.S. Intelligence Says - The New York Times",
+    "summary": "Iran Is Skeptical About Diplomacy for Now, U.S. Intelligence Says The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nTlZJNTV0Qkt3MTdGZlA3ejhnSXdMd2Y1bDZ0SFAxbWl5Sjl1SHJkNTF5S2RBNkJxbWc2VHY1eEdHaTVTeHJJVVFRWTcxT1BQLXNvSGlWaW9jQ214ZEFUeHBfSHFld29SYkNyRGtmUHo2Z0hZ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-01T21:18:09+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 21:18:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9d46c1c3ec0787a353996fabcc1df1e2c3fe7d55",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran's condemnation calling US-Israeli attacks 'genocide' is hostile rhetoric increasing tensions.",
-      "event_key": "iran labels us israel attacks genocide"
+      "reason": "Iran's stated skepticism signals a stall or breakdown in diplomacy, increasing tensions with the United States.",
+      "event_key": "iran skeptical of diplomacy us intel"
     }
   },
   {
-    "title": "AUD/USD rises as risk sentiment improves on US-Iran de-escalation hopes - FXStreet",
-    "summary": "AUD/USD rises as risk sentiment improves on US-Iran de-escalation hopes FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVRHWkRfRXdsbUpDVWJhQzRUSHdldkptWk10RFZObi1neW9kSENvc1RZajhwcG5SZ2loTk5TYmJYV0VaY3V0YTNxa0lITmN6ZG9fYnJiSlpsWmFZYnhyWjNzVmpHVVNYaFBDVWRqdnlDM3ZhdmQxRlhMeWJ2MTBTYU56UEVyS2tVWThqY3h1NjZibElyMkY2YXR4ZzdpOUkwZG5jTmF0OTFNd01SRWs2am5HQXQ?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-04-01T16:33:06+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 16:33:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "78e983ca2f0a47e95736b299328b7944dc48ee25",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.3,
-      "reason": "Markets rose on hopes of US-Iran de-escalation, signaling restraint but no formal ceasefire.",
-      "event_key": "us iran deescalation hopes"
-    }
-  },
-  {
-    "title": "Use of AI, espionage: Why Iran threatened to target 18 US firms in the Gulf region | World News - Hindustan Times",
-    "summary": "Use of AI, espionage: Why Iran threatened to target 18 US firms in the Gulf region | World News Hindustan Times",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPczZLVEhLZmJMMXg4YTBRLWFNX2x4QUI3Q0dmWk1LZnJnZmtUMmMtS1pRZV80eDE3eTdJTG1qcXNzNG1PZHd6RGd4N1JzNXJBWldpNkp3bjY3akFDcTJjXzJxZG1Sa1BNNkxxV1JrY2syTkMzZWxTeDBOaUZ5RUttc3VrTGxPWEowTHFkUGk5dy16TGhld0lVSVMyNjhaY0ZTbUFVXzBNN185elU3bVFHOHRYa28wekVsQUpDRl9xdnVMYmVFNGNMQTE3X0hDTkIwSDk0b0pGVlZ2SknSAeABQVVfeXFMTnBuemVCNjd2OFJrZXUwNEliM016NTh1T2R4clVIUDlwalFsZHJlWk1uQzhCSHFNUktxemR1dkpJWnhhMDhzYnFTN1d1Qi1aOUZYRnpkRF84Wi1nRGhERHZWYnlzU2xIcjVtZUlKdzJPRlQ3cVFXTnZZREdFemxBelpGRFBTRDRhdy1ILTY3R3hOcExWV2ZYa1FpVXdFRjF2R3EzU0Q3LTBmNDhFaUtnVTF1bDNiRldpS3Zwc011WGQyamd2N3Jrb3lxQ1QtOEpPd2I0LUw5c3ZnLXZGSGJ3aTk?oc=5",
-    "source": "Hindustan Times",
-    "published_at": "2026-04-01T17:20:06+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 17:20:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb55aad96d94648c5f9df7892a89f3bfd8d282a1",
+    "title": "Deterrence or escalation? What the surge of US troops might mean in Iran. - csmonitor.com",
+    "summary": "Deterrence or escalation? What the surge of US troops might mean in Iran. csmonitor.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkIxU2I3dnI2MEtycVdOMVdUci0xVjZBcXFlcGZUejliTzdYUFFOMnZMN1kzR0Z5aERrMjlENGpqNG5rTUZVcHA3VWtGdUY5ZDVBTHhBZkYtN1hFZDJUc3Zmc3ZQbV9xUFNqa3lJSlEySkpfb1NSWTNHWDlvWlNaX1RNbE9KdXBObjBFZGdR0gGbAUFVX3lxTFBzSjlsaHJaNndxRmhXbDY1X3V3dG1xaHFCVld0T2VxbmdaWXBuSVdVS3JYdDZmM3JudmNHZUpScHlJU2JwWWd1WGVheEhLeWlsSFFPQzVYams3WjJwcC1UUGY4bGRyWkJFd25tZ0tpQS03VkgtRldfUFdvcllGR0R1R3Q3NXVPVFpreVRyT3ZlMnp2RXI3UUVUR1Aw?oc=5",
+    "source": "csmonitor.com",
+    "published_at": "2026-04-01T20:49:20+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 20:49:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dfb3faa8a2d57c046f39373c98e222187b4f56b1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran threatened to target 18 US firms in Gulf, indicating hostile rhetoric and escalation rather than direct attacks.",
-      "event_key": "iran threats 18 us firms gulf"
+      "reason": "US troop surge signals mobilization and rising tensions, increasing risk of escalation with Iran.",
+      "event_key": "us troop surge near iran"
+    }
+  },
+  {
+    "title": "This is what Trump said on Iran's strike warning to US tech firms - MSN",
+    "summary": "This is what Trump said on Iran's strike warning to US tech firms MSN",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ3BTelNySFMtYko0TXJNUkVBYmRyeTVZdERyNlAtRWxwdmlkbDk1eUkxTFMwbWJ5TUdKVkZxdmMtbmVfS1RQaFhrY1VYeVB2WTAyU1lsT0tycF9RTWlkdy1neWMxNkN0bUlOaGNyOXR6VUh2S3FvWkhXYWdTZ2d4ZVZEUjJ5a2hnTzVkalFaQWxHc1RKdVVKREpzUFVNZVdNQnQ2cnF3VUlJYmVpT0VMLXk0RS1IRms0c2szVHE3ZDFmOWZOOUxfVVBxR08yRFVWTkotQlBUNHVwMmtBMHJaLWJMbXhyN3hHYUhEeGY3R1otdDVDZXB4OTRzNA?oc=5",
+    "source": "MSN",
+    "published_at": "2026-04-01T20:00:09+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 20:00:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5302aff26b4915ce9c724c37e3982b4574e3f941",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran issued strike warnings to US tech firms and Trump commented, reflecting heightened threats and rising tensions.",
+      "event_key": "iran warning us tech firms trump comments"
     }
   }
 ]
