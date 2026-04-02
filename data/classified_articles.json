@@ -1,53 +1,104 @@
 [
   {
-    "title": "China Signals Support for Diplomacy in US-Israel Iran War - Politics Today",
-    "summary": "China Signals Support for Diplomacy in US-Israel Iran War Politics Today",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnp3RGNRbmk1RW10cFVHcVFPcWpOZDhEV2dUOERwMEtHLVVNVEp6Y0dXZE01TElwY1BVRTlGTEpDXzRxdk9mWWxRMnRraTNqMVYwT09XMmc1eTdJSEF0ejg5WjEyQU5XU3BOVnVaeU9jLXdtNEZZajA2RzROWG1NOWx1bElIWEY4QzhXZw?oc=5",
-    "source": "Politics Today",
-    "published_at": "2026-04-02T06:57:31+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 06:57:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7249c9a719a174b684b1c56fb2e4e39bc1e6f9bc",
+    "title": "Iran war: What is happening on day 34 of US-Israel attacks? - aljazeera.com",
+    "summary": "Iran war: What is happening on day 34 of US-Israel attacks? aljazeera.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmNEZGNMeXNjcFdWVUxSaUE0T2p6R0g4ZHZlc1FJNTlCNlNmbkdMVFJkU3hLdmdXS1BPRXRZMFZrUFU5Vzl0ems1UHEtTEt5RlVYTWFEZUhkZ3Fyc0pOSW9xdHhvVU5hYkZGVXA1V2s4SHBjSXBuUkV5eG1lUkRQR0tfaVhCOEk4YTN5eUhBdFg5UG5MX1R1Q3g3REpvUdIBowFBVV95cUxOTlBzYk9UQnEybXlrTTh6WVZjTkJya1FhYmh2RFEtakpGVVNtSXhaSjc1cEo2T2xaU0lfSTNjdE5JczV3cFVzU2pFbXZEOF84T1VrdTR4OTFuZ0ExakhjR2JRWEh4ZGdvYVdsU0NrbldwQVlsdVBDdjBWV2xDN3NpUHJ3VFVXel9SbXJ1ZGJpZEJNUUZTU1NNQ0F4MlMtVEo0ZGlJ?oc=5",
+    "source": "aljazeera.com",
+    "published_at": "2026-04-02T07:52:40+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 07:52:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a87abc972d82fe9b9511db5e4b49288900641590",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Describes ongoing day 34 of US-Israel attacks—direct military strikes/hostilities.",
+      "event_key": "us israel attacks day 34"
+    }
+  },
+  {
+    "title": "Retired US General on Iran ground invasion: ‘I smell a ceasefire’ - Al Arabiya English",
+    "summary": "Retired US General on Iran ground invasion: ‘I smell a ceasefire’ Al Arabiya English",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemFDdVFfcXIwU1NrYmZlOFpjLTV4Uk54ZGpyMktPSDl6ZDZtZDdqV3Rqc1F3UnE3VVJEOWlteXBtWnRRaHNWSnFFZ1YzckFlYmR2TkhFXzVodUU2TEtjNEN4UUhOS1pIc1dsVHFWaVBpVmFQZzZCTGk4MmY3ZkpQV0p4SDVDN20wN2JndkJRTEpBczdCVWRzVkhVbm1CMnV5WkF3MFlDWjVBNTkzODY0OG5oRDFWTVpTdkdpUkhuMHnSAcYBQVVfeXFMTU1TOVRGd2tPR0taQ3RHN0lNYkZONHhuNUdDSDZPdV9DQS1rYndNQkh6T2pNaHVWTFQybFVMeWlUdjBkOXNsT1BDQW9iekxtZlR3RExOS1hKT2NUMUtnd3Jta0I0SjNseUNxWEVXMGlzYWo0VGlYaFZqOFBuNzRLdkt3R1YyVm54eUQ5YXNLZDN1bkxSbmRyYVpFaVVaTXpxV000bG5TMy1PR0VPS0YzdW9fLV9lS3hRZFFmdEtqQzlTa2twLW9R?oc=5",
+    "source": "Al Arabiya English",
+    "published_at": "2026-04-02T08:59:00+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 08:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0941c90a713ef9dda8e39c38ad0ea4add2d62695",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "China backing diplomacy signals restraint and desire to calm tensions rather than active negotiations or military action.",
-      "event_key": "china supports diplomacy us israel iran conflict"
+      "strength": 0.6,
+      "reason": "Retired US general expresses expectation of a ceasefire—an indirect signal of de-escalation rather than an actual truce.",
+      "event_key": "retired general predicts ceasefire"
     }
   },
   {
-    "title": "Trump’s threat to hit Iran 'extremely hard' jolts Asian stocks, U.S. futures and oil first - CNBC",
-    "summary": "Trump’s threat to hit Iran 'extremely hard' jolts Asian stocks, U.S. futures and oil first CNBC",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWRhclpLVlRKZXFrRHFaYVI1QWtjMWFqYmNNX01wbXdYZnRNZl9SN2d3UEQ1czh3ZXpQTDBuR1h3cEV6WDdTZGE3d1l3NmJza3JYaXAwalJCVTV1WjF1eFpSeVpNUmxQT1BBaUZFWXlQSXFLSU1WaW9aa0pwTnBWZUVjRlFWaFFFYnlwQXdTNDNTbVlf0gGaAUFVX3lxTE1XTUFXVDNBbGk4V3NXM2tUMkpOaWlDUmhFUllOYy13cXpEelZsczlicWJJbW9rdkZGV1ZzcWNidlZfdFZ2bE4zMF9KbTcyYk5vQXEzZWI4VjFWMUlKWEhtMnRqc0dGLXBkMlZMd1YzYTRJbWxxazhMbERPd1FVMmVSMXJyMGZjR3hENHhfdnVFTFJWS1lFbzZWX3c?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-04-02T05:31:35+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 05:31:35 GMT",
+    "title": "Iran says deadly US missile attack on sports hall killed 21 civilians, including teenagers - Anadolu Ajansı",
+    "summary": "Iran says deadly US missile attack on sports hall killed 21 civilians, including teenagers Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkR5a29pWGZOQjhJNGVRMTJDa1JpMzVnNDJXTlJXV0wxT3VzbkJjZlFHNTJhMHFENFZoaWo4YjJTb0NTbHFDcDdwWHRWUzJRUFJ6S283bDYyN3VvbFVjQnJGWENlTzBOekpIV2lKdEswTHBBUWVob0FFU0ZuYnh1SDJ0akpRejRiYUQ5M05sMENFbmxNMXBidFI0YzVOcDBZWVhyaEVWZFBlS2pLalpXSkhXeElwWmNTTDFLZkpXUUpGeWY5SGpDMHFMc3I4ZG8?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-04-02T09:33:56+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 09:33:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2f7091a2ed54368d9ef4e86df3a5fee49c87ddc1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports a US missile attack on an Iranian sports hall killing civilians, indicating a direct military strike.",
+      "event_key": "us missile attack sports hall iran"
+    }
+  },
+  {
+    "title": "How do you prevent Iran-Israel escalation even after the US exits? Fmr NSA of Pakistan evaluates - cnbc.com",
+    "summary": "How do you prevent Iran-Israel escalation even after the US exits? Fmr NSA of Pakistan evaluates cnbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmxOWjhFRWJJRUp5U3U4czV4YlhkWEZaNWczb1FvemRzN1pCSTA1SFJXazFRTUpDYlFvQlF5QXAtWEk1ZHlaYnRpd3lMeVdQSjBBa3RsZHBqYXkyQ0g2WW5adXFKS0E2a01zNHlUZHdSUDZmSUpsWFkxR19pYlhBRWN6bXpOQTlKazZaZkd6T3N0b0lSLVhBd242NEVsQ0VURFY5bFIzTUFCczg?oc=5",
+    "source": "cnbc.com",
+    "published_at": "2026-04-02T07:50:45+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 07:50:45 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c0358a2479093c90e67ac1772b0e21a0d0056e24",
+    "article_id": "4e0ad0df8db24f3ce49dc6c6c622d2584982148f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.0,
+      "reason": "Discusses Iran-Israel dynamics, not Iran-US conflict developments.",
+      "event_key": "iran israel prevent escalation cnbc oped"
+    }
+  },
+  {
+    "title": "After Escalation, Washington Turns to Diplomacy: What It Means for Iran and the Region - Countercurrents",
+    "summary": "After Escalation, Washington Turns to Diplomacy: What It Means for Iran and the Region Countercurrents",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDNSSmp1SmhCR0sxVGhTTldidnlPOG1pRFloZ0ZTVzRHVDhPOHpzYnlQNVdXN1FNcExIWmQ2YTJXbno0TUdadHozRVRUck52MXp2Ymx6SXZMX0pGcVRIYlRhX2IyZWlDRmdFYldnVHV0SERJNEYyV3lZNGo0bVkzVXctNGtrTHpMZFJLZ29ZQUZFcmhKeGpsUVNHZDllRHA3NUlKYnhJWmVveW9aT0tZLUNaS19pbWV3RUg0Y0pR?oc=5",
+    "source": "Countercurrents",
+    "published_at": "2026-04-02T09:17:45+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 09:17:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a4b8c0adb0ef3f7128a37d1d17897c3ad4c3bb2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "US shifts from escalation to diplomatic engagement regarding Iran and the region.",
+      "event_key": "us turns to diplomacy after escalation"
+    }
+  },
+  {
+    "title": "Trump speech on Iran war: Key takeaways from Trump primetime speech as Tehran cut warning give US - BBC",
+    "summary": "Trump speech on Iran war: Key takeaways from Trump primetime speech as Tehran cut warning give US BBC",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5ZllOZ3oyMnVWazhpN0RVMXJHVDd4dXVtOWRyV3ktQjRIRmIwY25YVWxZcV9sSWJfMkpJb251UllDUk1pMWZzeFRlbWFJMjhHcWFBSWNPRnlTcXBY0gFiQVVfeXFMTTRVcGlFNDNxdTIteEVaMUd1RXhQSmlUb0prRThkN3lCSjNlak1EWUlDSGdla0JwdS1PMzlGODZkakR5V3g3NEZHcDRyZEI0bGdZc2FLTHdfaVQyX1NvYTl3dkE?oc=5",
+    "source": "BBC",
+    "published_at": "2026-04-02T09:52:21+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 09:52:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec207534ae50185cb0aead81dc81fd8374855f68",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "Trump's threat to 'hit Iran extremely hard' is hostile rhetoric increasing tensions.",
-      "event_key": "trump threatens iran"
-    }
-  },
-  {
-    "title": "U.S. Warns Iran-Aligned Militias May Plan Attacks in Central Baghdad Within 24 to 48 Hours - kurdistan24.net",
-    "summary": "U.S. Warns Iran-Aligned Militias May Plan Attacks in Central Baghdad Within 24 to 48 Hours kurdistan24.net",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3loWWxUc1l5cWpucUd3Z2tiRzZCTWFSZDlQRVcyWWIxUkVhTlpkUUVvTDh4MXRtN2dfMXo0Um9lOWFTZGhFUV84QkdPQjRiUVNGX29fTGpUQXpTTGZkSC0tNG1ITHVIQnFUcWV5d19CbXlyODBxdTFpV3lUSDNwc1pVNzNac3NYb2p6Mm1Sa3BmdGxMaUI3cjVUWk9LM2xDRzFUYlhaX2NVc0Rid3FkdC1ZN1BCQUVnakxjcS13U2ppejQ?oc=5",
-    "source": "kurdistan24.net",
-    "published_at": "2026-04-02T06:03:26+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 06:03:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2902909e88a2a973f12ec9cd1fc39fb198c74787",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "US warning about planned attacks by Iran-aligned militias in Baghdad signals proxy-driven escalation.",
-      "event_key": "iran aligned militia attack warning baghdad"
+      "strength": 0.7,
+      "reason": "Prime-time Trump speech and Tehran warnings indicate rising tensions and hostile rhetoric, not diplomacy or de-escalation.",
+      "event_key": "trump primetime speech tehran warning"
     }
   }
 ]
