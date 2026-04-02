@@ -1,70 +1,155 @@
 [
   {
-    "title": "Iran’s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public - The New York Times",
-    "summary": "Iran’s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMklMRTBWb0V3eWNGMWQ1YWljUXNnZmFHSGp1WkxxWHptZlJjNHN0ZFRpOE1mZjdZa2dCdlY1cVFxVElVQWxkcVg5b1M0QmFCZXZqTkFuUWYxTFFfcnVXdHZUazVJZG5sanRtVnloNHVOLVZFVHVPYmNxTDVVN0NPSncwaFEyR0RCOFVLX1pQZ29vTlIzamVWMzVPV2JRWEZj?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-04-01T19:16:11+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 19:16:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8001b7778b8f53679eef2577bdec60fe78185463",
+    "title": "US stock futures steady with Trump address, Iran ceasefire in focus - Investing.com",
+    "summary": "US stock futures steady with Trump address, Iran ceasefire in focus Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkRQRDh1VGtRRV8tX18xa04talZVcU1TbEpCTkpVT1V4NHFFSEdiYWhXeV9OaC1xcjZScjAyVXdIdWoxeHNaTlNMVUhnQllBZVhQaVRDMmpGOHFNRm5ySm82eThzbl9YUUwyOHloOEFzcFhodF9VNklmN2t1WEJQMzVUVng3ZUdxcFdSX2RNYVVPZ3BEeThKWlZ3clZiM0pJVWM1X1E3RlBUYk40UDdLYmxGVXJUTkJneWMtR0Q4T2Q?oc=5",
+    "source": "Investing.com",
+    "published_at": "2026-04-02T00:19:54+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 00:19:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ce3ea7d3ae5500e481671ced22efc0f58bbffbb6",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "President signals openness to diplomatic engagement to U.S. public, an indirect calming overture rather than active talks.",
-      "event_key": "iran president public letter offers diplomatic engagement"
+      "strength": 0.35,
+      "reason": "Markets watching a possible Iran ceasefire; no clear confirmation of an agreed truce.",
+      "event_key": "iran ceasefire in focus"
     }
   },
   {
-    "title": "Iran Is Skeptical About Diplomacy for Now, U.S. Intelligence Says - The New York Times",
-    "summary": "Iran Is Skeptical About Diplomacy for Now, U.S. Intelligence Says The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nTlZJNTV0Qkt3MTdGZlA3ejhnSXdMd2Y1bDZ0SFAxbWl5Sjl1SHJkNTF5S2RBNkJxbWc2VHY1eEdHaTVTeHJJVVFRWTcxT1BQLXNvSGlWaW9jQ214ZEFUeHBfSHFld29SYkNyRGtmUHo2Z0hZ?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-04-01T21:18:09+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 21:18:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9d46c1c3ec0787a353996fabcc1df1e2c3fe7d55",
+    "title": "US intelligence agencies: “Iran shows little willingness to negotiate a ceasefire”…diplomatic solution faces headwinds - bloomingbit",
+    "summary": "US intelligence agencies: “Iran shows little willingness to negotiate a ceasefire”…diplomatic solution faces headwinds bloomingbit",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xTndkRDduU1gzY1dHT2pKUm5DUVRRbWUxNlZCcVNLWjlHZDlNMjg1dEQ2QWJKUFgwelRhaHV3M3cyWnpfcEFySVJCc1pVTDBDbjJVRg?oc=5",
+    "source": "bloomingbit",
+    "published_at": "2026-04-01T21:48:42+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 21:48:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a6069ab87464aba219e487d009c5ad7a757d36d7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US intelligence says Iran shows little willingness to negotiate a ceasefire, signaling diplomatic breakdown and rising tensions.",
+      "event_key": "iran refuses ceasefire negotiations"
+    }
+  },
+  {
+    "title": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran - Arms Control Association",
+    "summary": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran Arms Control Association",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2NCQ3VVY041VlRIbTBONlpIZDJGeDRHLWYtM0RzNkF0eTZWUmp1UTJpQlNTZDRpUDJjblEwZHYxTFZqNzFKckQ4NVRXeEN2NmhYTjVpcS1uY0ljdEM1LUI2UzMyRVZ3Zzc4RjhSVjFpT2k2VWFIb3JHSWJ0MTN0NnUweWZfZHhQOHplMHA4ekVESExYNnJnMF9adWtoX3pueUduWW5ZcFpPYjU1R0NONFViNU9obGF3?oc=5",
+    "source": "Arms Control Association",
+    "published_at": "2026-04-01T21:40:58+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 21:40:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f62ab747c9af089df828346891f525a9e7d58e70",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Analysis criticizing U.S. negotiators' readiness for nuclear talks with Iran.",
+      "event_key": "us negotiators unprepared nuclear talks iran"
+    }
+  },
+  {
+    "title": "US intel agencies reportedly believe Iran unwilling to hold serious talks on ending war - The Times of Israel",
+    "summary": "US intel agencies reportedly believe Iran unwilling to hold serious talks on ending war The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IdWtBQkpmODNMaDdWVzJKTVBfMjFOS21Yc1h4Nktjd3NPMm9oaU84NjFQZnVnRjlfcWxrTFJIVzNYSVZRd25yeXNxbFBKdjJQMTZfcTY5SWNIU3hJMDNvUk8tRdIBaEFVX3lxTE9SdERVUlhBRG1fYm1DcW55dm5BRzlfM2ZYc21nZnA4bzVyeUc5ZW9oWWItTkgzdjdTMndhUDVDTnZaMHotV0FQUTI2NDVZS19YZEh4QWtwQ3VjeUktR1JMMThhZjJQdE9v?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-04-01T22:24:00+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 22:24:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b089382bdd36be1d0f384fd74729d8681d345bb8",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.72,
+      "reason": "US intelligence assesses Iran unwilling to engage in serious talks, indicating breakdown of diplomatic prospects and rising tensions.",
+      "event_key": "iran unwilling serious talks us intel"
+    }
+  },
+  {
+    "title": "Iran says there is no honesty in US offers for talks, seeks credible guarantees against future aggressions - peoplesdispatch.org",
+    "summary": "Iran says there is no honesty in US offers for talks, seeks credible guarantees against future aggressions peoplesdispatch.org",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3NHSHdTc3hleFh1RHdjNVd3WEF4THpNR0hJbVRSTDFYLVEtc3ZJQlQzMUloanNLQ3BjYXFUZ0hKUThONXFZZ2RHS0lrVVhXTFFXaDNuNnNrNFhzWTQ2c1E3SzhQRC10T3Y4WndCOFRRR2JLdmxRcUNxbGI1aUZCSEdHczI5M3RNX3lpUFFPTWt0MUo3QThtU1pfTGQxcEpWdEItcjRpQUl6OEpBeW1kUkZDbkZzdXhrSTJyeVRLcV9FNUszSEJhM0x4WmdBREhDMFlzNWtvVlZFS2RldVE?oc=5",
+    "source": "peoplesdispatch.org",
+    "published_at": "2026-04-02T01:10:42+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 01:10:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "586c2b7c3d32629a56a7dc359bf47f657411e10b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran's stated skepticism signals a stall or breakdown in diplomacy, increasing tensions with the United States.",
-      "event_key": "iran skeptical of diplomacy us intel"
+      "reason": "Iran rejects US offers for talks as dishonest and demands guarantees, signaling a diplomatic breakdown and rising tensions.",
+      "event_key": "iran rejects us talks seeks guarantees"
     }
   },
   {
-    "title": "Deterrence or escalation? What the surge of US troops might mean in Iran. - csmonitor.com",
-    "summary": "Deterrence or escalation? What the surge of US troops might mean in Iran. csmonitor.com",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkIxU2I3dnI2MEtycVdOMVdUci0xVjZBcXFlcGZUejliTzdYUFFOMnZMN1kzR0Z5aERrMjlENGpqNG5rTUZVcHA3VWtGdUY5ZDVBTHhBZkYtN1hFZDJUc3Zmc3ZQbV9xUFNqa3lJSlEySkpfb1NSWTNHWDlvWlNaX1RNbE9KdXBObjBFZGdR0gGbAUFVX3lxTFBzSjlsaHJaNndxRmhXbDY1X3V3dG1xaHFCVld0T2VxbmdaWXBuSVdVS3JYdDZmM3JudmNHZUpScHlJU2JwWWd1WGVheEhLeWlsSFFPQzVYams3WjJwcC1UUGY4bGRyWkJFd25tZ0tpQS03VkgtRldfUFdvcllGR0R1R3Q3NXVPVFpreVRyT3ZlMnp2RXI3UUVUR1Aw?oc=5",
-    "source": "csmonitor.com",
-    "published_at": "2026-04-01T20:49:20+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 20:49:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dfb3faa8a2d57c046f39373c98e222187b4f56b1",
+    "title": "Iranian president leaves door open to diplomacy in open letter to US - The Hill",
+    "summary": "Iranian president leaves door open to diplomacy in open letter to US The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWxNalI4ekRZbkhyTzNHei1Qc3JqRE5BWk90a3prc0pSMnl1OF9vY2RJbjF0dG14ZGNlaWdaLVg0eVpoTFg5dGZWcXVJZkh2LU43VV9HWE1oWmdFTWU4R0hiek45MW1mUGRESkRHR3JsVXg5cXJORnRpTWZnbFh6OXhMWGs5Rm_SAYwBQVVfeXFMTWMxS0I3RHNVQ1dXeWhmdmlObXFGNHlhbldzeEN3Q0RpMWJVTjFUSDdkSVRRMThHUndiM3YtVEJ3TEN3NE1mRHYxbWJxeldwRGFkOXpzLUJVM2FtSmVVMS01VHBQWHk0SjUxSHZxcVI5MUU4STJjRl8tMGJZQVV3cUZOc0VCOTk3NHhYems?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-04-01T22:29:00+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 22:29:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "91d8f160ffd5823b1f15f204f828885056fb7676",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US troop surge signals mobilization and rising tensions, increasing risk of escalation with Iran.",
-      "event_key": "us troop surge near iran"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "President signals willingness to pursue diplomacy but no active talks or agreements announced.",
+      "event_key": "iran president offers diplomacy open letter"
     }
   },
   {
-    "title": "This is what Trump said on Iran's strike warning to US tech firms - MSN",
-    "summary": "This is what Trump said on Iran's strike warning to US tech firms MSN",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ3BTelNySFMtYko0TXJNUkVBYmRyeTVZdERyNlAtRWxwdmlkbDk1eUkxTFMwbWJ5TUdKVkZxdmMtbmVfS1RQaFhrY1VYeVB2WTAyU1lsT0tycF9RTWlkdy1neWMxNkN0bUlOaGNyOXR6VUh2S3FvWkhXYWdTZ2d4ZVZEUjJ5a2hnTzVkalFaQWxHc1RKdVVKREpzUFVNZVdNQnQ2cnF3VUlJYmVpT0VMLXk0RS1IRms0c2szVHE3ZDFmOWZOOUxfVVBxR08yRFVWTkotQlBUNHVwMmtBMHJaLWJMbXhyN3hHYUhEeGY3R1otdDVDZXB4OTRzNA?oc=5",
-    "source": "MSN",
-    "published_at": "2026-04-01T20:00:09+00:00",
-    "raw_pub_date": "Wed, 01 Apr 2026 20:00:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5302aff26b4915ce9c724c37e3982b4574e3f941",
+    "title": "U.S. pressures Gulf allies to ‘back it’… Iran threatens retaliation if they join the war - bloomingbit",
+    "summary": "U.S. pressures Gulf allies to ‘back it’… Iran threatens retaliation if they join the war bloomingbit",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhWFVFUUI5QTg2aEVPUS1SQTdfcHZsQ2d3dVFiVVZXY2hRZm5nc2pGcC1MaEktRnRleXZ6d1RuTlJoSmdoTFpJc0FUYXc4TFptY0trMQ?oc=5",
+    "source": "bloomingbit",
+    "published_at": "2026-04-01T22:08:32+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 22:08:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a3e7869e36cca2796db9e244cc9e6340c99550a8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran issued strike warnings to US tech firms and Trump commented, reflecting heightened threats and rising tensions.",
-      "event_key": "iran warning us tech firms trump comments"
+      "strength": 0.8,
+      "reason": "US urging Gulf support and Iran threatening retaliation signals rising tensions and hostile rhetoric.",
+      "event_key": "us pressures gulf allies iran threatens retaliation"
+    }
+  },
+  {
+    "title": "Senior Iranian official seriously injured in US-Israeli attack - TRT World",
+    "summary": "Senior Iranian official seriously injured in US-Israeli attack TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GLVFCMy03dmp5d1lLcHF1MlJhbDJPLWNSbWNWV2FBSDd4Q0MzcXV6NkROVDdGZ3dvNUtrUkNTRXd3M2lvUTZESEpfazRCSkpuWGRVR2pSWWbSAV5BVV95cUxOdEJQMzlZV3QzMGZvdXU4c3dISm9HalRydHdiOUR5VkQtSkJ1bV9IN0RXczFDTnY5T0xnMTlmWjFqMS1fY0VfTC1wN3EteEoxd29lTG44STNaOXVlTWRR?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-04-01T21:56:34+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 21:56:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "adb98c93612af338323f0d816ff39539bc40e560",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Report describes a direct US-Israeli attack injuring a senior Iranian official.",
+      "event_key": "senior iranian official injured us israeli attack"
+    }
+  },
+  {
+    "title": "Market Rally on U.S.-Iran De-escalation Reports: Nasdaq, Upland, SoundHound AI Gain - News and Statistics - IndexBox",
+    "summary": "Market Rally on U.S.-Iran De-escalation Reports: Nasdaq, Upland, SoundHound AI Gain - News and Statistics IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXhYSEs1RXZDTjcyTU9PVkxJcFliQ1l5MkN3RmZBYlMwekJNNnZ3dXFfWDRmQ0hYSU9od01EbDdOclVad1kya1pvbDgwYmdMR3VsSUFlLVB6bHNxbUxOdE9URUFyenAwS052VFdBTW5uQ3p2X1Vhd1U5RU1CZk9KYlIyaWtvUlNma0dnWjlqMGRzV0FjUlo1aUpNOWxPVjY3S1FNRnZB?oc=5",
+    "source": "IndexBox",
+    "published_at": "2026-04-01T23:30:00+00:00",
+    "raw_pub_date": "Wed, 01 Apr 2026 23:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "81d3cf846a801fbb976bfca6d40e220b56dc31e1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Markets rallied on reports of U.S.-Iran de-escalation (indirect calming signals rather than formal ceasefire)",
+      "event_key": "deescalation reports market reaction"
     }
   }
 ]
