@@ -1,19 +1,53 @@
 [
   {
-    "title": "Iran says there are no active negotiations for a ceasefire, despite claims from Washington. | via PhilSTAR Life - facebook.com",
-    "summary": "Iran says there are no active negotiations for a ceasefire, despite claims from Washington. | via PhilSTAR Life facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkFBbGMyTXZtRE1jMS13YXdDOEdlTlY4NFEyQlRCSG8wNXRCQzQxbklFWVYyM2lKWGYzZ002QWt0NEl3TEI2VDl2NnRvR2ZJQjlIdndXNXZJRG4tSXBEVlZ2UFp1RENwbGI0TkhJN0NCLTBEUzN6SUUxSXZXMkM0dHlrVWplN2VPd3hzbE5TTm9GMGRSV1UxRGF3Ujh5VmFtWUprU0RDcjJ4RUFrZFo4d2JtdTNuY0ptUEFJY3Z5WF9IdTNPZmFibjBiY3ZkdklUS0hSdnltOFY3Z3Nh?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-04-02T02:25:02+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 02:25:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "79ac7d21d06339f2364be2f89b169eb22ccc419c",
+    "title": "China Signals Support for Diplomacy in US-Israel Iran War - Politics Today",
+    "summary": "China Signals Support for Diplomacy in US-Israel Iran War Politics Today",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnp3RGNRbmk1RW10cFVHcVFPcWpOZDhEV2dUOERwMEtHLVVNVEp6Y0dXZE01TElwY1BVRTlGTEpDXzRxdk9mWWxRMnRraTNqMVYwT09XMmc1eTdJSEF0ejg5WjEyQU5XU3BOVnVaeU9jLXdtNEZZajA2RzROWG1NOWx1bElIWEY4QzhXZw?oc=5",
+    "source": "Politics Today",
+    "published_at": "2026-04-02T06:57:31+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 06:57:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7249c9a719a174b684b1c56fb2e4e39bc1e6f9bc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "China backing diplomacy signals restraint and desire to calm tensions rather than active negotiations or military action.",
+      "event_key": "china supports diplomacy us israel iran conflict"
+    }
+  },
+  {
+    "title": "Trump’s threat to hit Iran 'extremely hard' jolts Asian stocks, U.S. futures and oil first - CNBC",
+    "summary": "Trump’s threat to hit Iran 'extremely hard' jolts Asian stocks, U.S. futures and oil first CNBC",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWRhclpLVlRKZXFrRHFaYVI1QWtjMWFqYmNNX01wbXdYZnRNZl9SN2d3UEQ1czh3ZXpQTDBuR1h3cEV6WDdTZGE3d1l3NmJza3JYaXAwalJCVTV1WjF1eFpSeVpNUmxQT1BBaUZFWXlQSXFLSU1WaW9aa0pwTnBWZUVjRlFWaFFFYnlwQXdTNDNTbVlf0gGaAUFVX3lxTE1XTUFXVDNBbGk4V3NXM2tUMkpOaWlDUmhFUllOYy13cXpEelZsczlicWJJbW9rdkZGV1ZzcWNidlZfdFZ2bE4zMF9KbTcyYk5vQXEzZWI4VjFWMUlKWEhtMnRqc0dGLXBkMlZMd1YzYTRJbWxxazhMbERPd1FVMmVSMXJyMGZjR3hENHhfdnVFTFJWS1lFbzZWX3c?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-04-02T05:31:35+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 05:31:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c0358a2479093c90e67ac1772b0e21a0d0056e24",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran's denial of active ceasefire talks contradicts US claims, signaling diplomatic breakdown and rising tensions.",
-      "event_key": "iran denies ceasefire negotiations"
+      "strength": 0.85,
+      "reason": "Trump's threat to 'hit Iran extremely hard' is hostile rhetoric increasing tensions.",
+      "event_key": "trump threatens iran"
+    }
+  },
+  {
+    "title": "U.S. Warns Iran-Aligned Militias May Plan Attacks in Central Baghdad Within 24 to 48 Hours - kurdistan24.net",
+    "summary": "U.S. Warns Iran-Aligned Militias May Plan Attacks in Central Baghdad Within 24 to 48 Hours kurdistan24.net",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3loWWxUc1l5cWpucUd3Z2tiRzZCTWFSZDlQRVcyWWIxUkVhTlpkUUVvTDh4MXRtN2dfMXo0Um9lOWFTZGhFUV84QkdPQjRiUVNGX29fTGpUQXpTTGZkSC0tNG1ITHVIQnFUcWV5d19CbXlyODBxdTFpV3lUSDNwc1pVNzNac3NYb2p6Mm1Sa3BmdGxMaUI3cjVUWk9LM2xDRzFUYlhaX2NVc0Rid3FkdC1ZN1BCQUVnakxjcS13U2ppejQ?oc=5",
+    "source": "kurdistan24.net",
+    "published_at": "2026-04-02T06:03:26+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 06:03:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2902909e88a2a973f12ec9cd1fc39fb198c74787",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "US warning about planned attacks by Iran-aligned militias in Baghdad signals proxy-driven escalation.",
+      "event_key": "iran aligned militia attack warning baghdad"
     }
   }
 ]
