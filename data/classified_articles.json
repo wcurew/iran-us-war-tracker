@@ -1,70 +1,189 @@
 [
   {
-    "title": "As war drags on, US reiterates Trump open to diplomacy with Iran - Al Jazeera",
-    "summary": "As war drags on, US reiterates Trump open to diplomacy with Iran Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzA1bjJPc1hvQXQ1dnVJdkRTc195X0pQeXBpSmpUYnlZR01VRTBiTTNDbTI2S1UwMVdIYXd2ZTF5RnA0OV9EQmdFVk96MXFzWUYxTDRmSjV5aEJ0WkZzRm8teldhZU15V282V1FqRmVTSFljQ29sYlVIeWpfS1NFYkxkYVF1dDdPdUZoZ2VOaTJEcHlCRTlJb0JEanBySnllaThzQTJ30gGrAUFVX3lxTFBzVW1rTW00U05DNGkyMHhfNHBkUXdFUkNmTUZhR0VvQVNITWgzOC00N2tOVVZpcnFKTmJXQ3paUmowX2ppNm9nUFpMYU5JOVkxbFVDeDVnSDZLX3JSMVVFNXRJcnhwb0g4azV4c1JRSzBXTXQzLW44RTF6bTR0aTZuS3hUdkQ1a2NycEJscUdaTzZ2aVNaMERMWThUa1B3REVuaUVkRDRkNXhGcw?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-04-02T20:30:22+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 20:30:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "31efe092b6dd8f2a44cdd6abf56dcdf0af2f621a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.5,
-      "reason": "US reiterating openness to diplomacy signals a de-escalatory stance rather than active negotiations.",
-      "event_key": "us reiterates openness to diplomacy with iran"
-    }
-  },
-  {
-    "title": "Iran publishes lists of regional bridges in possible ‘tit-for-tat’ retaliation after US-Israeli attack - Anadolu Ajansı",
-    "summary": "Iran publishes lists of regional bridges in possible ‘tit-for-tat’ retaliation after US-Israeli attack Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSjZGZllsX09HRFp2M1BUa19iVGxRRDRpdDFKZGg5V1hqeHZ0MGlMTzJ1R3MwS3gtMmhNVl9idjFWY0JjVk14aWpYN2FiMjBHSkpQOGpLZmdJMldHRlo4c2ZlNWlyMWVmTmpXd1ExdUFRRnVuODRxOUQ0ZmstRnpmcWVwTUhwOWJnaTZreEdSVFNHQ3NpM1F3R2R4Rm5Wb3lQQ01ON3JuSHVXT21FZXRIN1U2Y083R1duN0FHUmNNSXNudjJTWGJ5Qld2NXFveHJzM3hNanY0TDkyOG1GWFE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-02T20:41:16+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 20:41:16 GMT",
+    "title": "Iran’s tallest bridge collapses after reported US airstrikes; Iran threatens American allies in retaliation - 930 WFMD Free Talk",
+    "summary": "Iran’s tallest bridge collapses after reported US airstrikes; Iran threatens American allies in retaliation 930 WFMD Free Talk",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXFEVUJ3Vnc2azBoSGpWNDFzNzVuT1FhS0VuaU1VODVfV3duUDZwNS0tNVJCdkdYNUl1MFR2cnktcUVvS3RVSnl5bmhmTFBoQjY4ZHlSWHBRR29ZdnQyaVQ2MmtYR2hTRE9maWd6a1NrSUdLVVZvcXR1TWdhTWFXSUtGdGNwYjJVd1VJQ1BWenFLam5EWTE2SUdKQzNHY3B6a2hEZ3l2UUEwSFU4Y09RNF9zSmFtN0JubVZzYXRUdjQ0R3Fod3NNMjN0SVQzWjVIQlhKbg?oc=5",
+    "source": "930 WFMD Free Talk",
+    "published_at": "2026-04-02T22:07:40+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 22:07:40 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bc7f02a4d184b4131dce886dca1be9b87e4e8641",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Publishing lists of regional bridges signals threatened retaliation and rising tensions after a US-Israeli attack.",
-      "event_key": "iran bridge targets list retaliation"
-    }
-  },
-  {
-    "title": "U.S. bombs Iran's civilian infrastructure for first time after \"stone ages\" threat - Axios",
-    "summary": "U.S. bombs Iran's civilian infrastructure for first time after \"stone ages\" threat Axios",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MM296d3ZtemxLbVFzTmkwaVV5YXFZcFJxTFVPYXJBM3lOYWw5RElSeklTVWNaaVFHd1VQQmxCWFdRSWJOU2VZYjBwZnlaeWc0MmhVQ29Ja2l1RGdyLUVNVXkwVkJjekZLUU5lRA?oc=5",
-    "source": "Axios",
-    "published_at": "2026-04-02T19:02:32+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 19:02:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f18492fb76d222faff30a6bf9a581bfb87b6a96",
+    "article_id": "755b75f6a10cddfb5f0d98a0876e635b24822d1c",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct U.S. bombing of Iranian civilian infrastructure constitutes a military strike/retaliation.",
-      "event_key": "us bombs iran civilian infrastructure"
+      "reason": "Reported US airstrikes caused bridge collapse and Iran threatened retaliation.",
+      "event_key": "us airstrike bridge collapse and iran threats"
     }
   },
   {
-    "title": "US military vs Iran's 'arch defence': Dangerous new phase of war looms - Australian Broadcasting Corporation",
-    "summary": "US military vs Iran's 'arch defence': Dangerous new phase of war looms Australian Broadcasting Corporation",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjE1WGZvSEpMVUlnZ1VCdWtCWUtkalBRbHhhSHNVN0dKM3J2S0w4aU5GTWthT242RElkTzF2RnhMcnBwcHpMTVVuQXgzMmwtOENqNlZOeTNRUlFraFNnQU9jRHQ3LXg5MGppUjFlUzNpSGpXOHFpNkdwWTltZWd0TTM4cUFzaHk3MVhqYjRGWWJEUkZDZWtSZG9Qa3JNU2VEYnBBcUVESzh5YThwMnA2b0NB?oc=5",
-    "source": "Australian Broadcasting Corporation",
-    "published_at": "2026-04-02T18:57:42+00:00",
-    "raw_pub_date": "Thu, 02 Apr 2026 18:57:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4598565ca281ebabbaa5611ada0322fc3f46fe81",
+    "title": "US experts say American strikes on Iran may amount to war crimes - reuters.com",
+    "summary": "US experts say American strikes on Iran may amount to war crimes reuters.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjVNem01Ujl1TGY5aGhPdXM0QkdJbDFxbWdOb2s4QUVvRFYyT2d2WGlPTkpyYnB0LTc0Qy1GVEhPYlZaem5pNWF1ei1WcU9SZDc4Y3NyNFZmdnR2Vjh1ckVOcDZxQmpnSW9hMVFaMTdjMjk0MzRIRi1Ic1FsVEtTVWxQY2VFc0ZrWmpKSkNVY05OUXhxRkxYUm11QWl6T1hqWFB2dkhkeFBFOWpiNnpqVlN3?oc=5",
+    "source": "reuters.com",
+    "published_at": "2026-04-02T23:51:41+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 23:51:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a6803c27f749ebbd162dd96a3d877d5249946d6c",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Article discusses U.S. military strikes on Iran and allegations they may amount to war crimes.",
+      "event_key": "us strikes iran war crime allegations"
+    }
+  },
+  {
+    "title": "U.S. strikes bridge after Trump vows to take Iran to the 'Stone Ages' - upi.com",
+    "summary": "U.S. strikes bridge after Trump vows to take Iran to the 'Stone Ages' upi.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ELWtYTU5GUXBEOE9ZVGRGRDRUUWR6REZIX2RrOW0za0liWnlBUnRkdkN6Mnh2ekV1dEVPak15MklvYmtybi1ucFBJaHlDTHlLSndfWmNXOVo0bk1kd1R1T2RuQloxLXNtUkFxRWtxakJIRWxCbkE4StIBfkFVX3lxTE01ZEtiTEdCTlZJQVpvWkxfODBCaTlETWFTWTJsMTFOUUFFdEpmNlYzNkZPT3dtak1Wbld4R2N4dUpUdlpGVW1RbzZqU2IyVlliWEhRaWFYOG5KR3h2MFV3TTdZZjZUdk1MVXV3Y1JraGFFeEJfZjhYMVlhdDI0QQ?oc=5",
+    "source": "upi.com",
+    "published_at": "2026-04-02T22:53:35+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 22:53:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bfb2fdc033a76654ac612b51dccfe6dfc622fcf8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "U.S. carried out a direct strike on an Iranian bridge following hawkish threats.",
+      "event_key": "us bridge strike against iran"
+    }
+  },
+  {
+    "title": "Exclusive: US intelligence assesses Iran maintains significant missile launching capability, sources say - CNN",
+    "summary": "Exclusive: US intelligence assesses Iran maintains significant missile launching capability, sources say CNN",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjQ4eVF0c1VLSnRmd0p3ZFEwOEEyVW10X0RtUnhhWWQ0NTVTOVRrZmN6TEoyZV9PVVFoUUtCUEpyTWJ3cEFQc1ZyUlkyZ1Q0eFYtcGJnR0doMHVHZjg0LVdoalRRT3JJSTJnVURSeFZZY25vaXdqY0lUOTZZaURGUzFyajZpUQ?oc=5",
+    "source": "CNN",
+    "published_at": "2026-04-02T23:16:35+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 23:16:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d19117b31bafa974523a3074d6d858931961283b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US intelligence warning that Iran retains substantial missile-launch capability signals heightened military threat and tensions.",
+      "event_key": "iran missile capability assessment"
+    }
+  },
+  {
+    "title": "Iran’s tallest bridge destroyed in US airstrikes as Trump warns of more destruction - New York Post",
+    "summary": "Iran’s tallest bridge destroyed in US airstrikes as Trump warns of more destruction New York Post",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUdjcGlVaENIRnJLYTY0SkVkcU1pOXZlMnU1NWhjWHltMFp4NjlNQUxRZF8xOXg3bjZ4WWctUHZDa0o1bi15TDdsZHVYVEkybGlheTdaWWhERGVWWjZJUVdrU184Z09zaEdzeW03YnZGOWxOaTZBU0w5SE12cjktUEhJWGlucXR0end0VGlkYUJOV2cyVlVzQk0yaXdXeXAxYWpVeUlpaWVOdllHZ29qV3lPTFRDLTIzMHFMQW5zbWF4d3NST09oU1BVODY?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-04-02T22:12:00+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 22:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6b0f21b9c41aba60c6aa06f6b579c7d065d6d6a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "US airstrikes destroyed Iran's bridge and Trump threatened more destruction—direct military strikes.",
+      "event_key": "us airstrikes destroy iran bridge"
+    }
+  },
+  {
+    "title": "Iranian Foreign Ministry official: US using new ballistic missiles - The Hill",
+    "summary": "Iranian Foreign Ministry official: US using new ballistic missiles The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1c3TE4wMDBTaDF0NDZOVkpCTWlobFhiYWdBWmNmNDR1Q2xjekJJVzJhUUV1X1FlSHpIckRuVEdJYWxGbGxURUF0bnUzTm04WkczaHpCWGMzaWVDVXZSYnd1b1FMQ2I5QkJqTFNfWEpKVFd2WE9HT2FIQW1DOWZBMEhrdUVCU1XSAYwBQVVfeXFMTWlJaXFEa1RZTzBDeFQtZ2YxWDFzLU05UlBxdU1HMWtYb1N5cFYwU1FQT0dqWG9Mb0R5WTlNc0xsS00zQnJMd2xTUEh1V3F2Y1hnekhCczJUTzdFdWM3TVR4ekd1Y1piVk5HbUM3WF9kbmg4TFdvcDNYYTdad0RIMTE2eGxhNXk5Y2Z4WWc?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-04-02T23:12:00+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 23:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1868e01e3b62df0f8f03a0053c914bc2cfbcfcbf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran accuses the US of using new ballistic missiles, signaling heightened tensions and hostile rhetoric.",
+      "event_key": "iran accuses us new ballistic missiles"
+    }
+  },
+  {
+    "title": "Exclusive: US intelligence assesses Iran maintains significant missile launching capability, sources say - CNN",
+    "summary": "Exclusive: US intelligence assesses Iran maintains significant missile launching capability, sources say CNN",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekV1QkhJU3VUNVktQU5kQkJDbml6LW9PTFY5M0U4NHg5Q19OcFFwZk1tQnNnbG5OeWlHZV84T1FnUEJwOUh2ekpPVGRYbmhQQ1NiVlpYWHdjSklsQnAtV1dENVBvenRGR3RsTXZNSGJHeVZXYWtuU1R1dTR1YlJBejQwV2VtY21aUUJ1b2I5QUhWd01ZU1htNU5FUTZaSWx5MzNDVmxIRUQ?oc=5",
+    "source": "CNN",
+    "published_at": "2026-04-02T23:43:11+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 23:43:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bea579eec52de8a001bf7a5a2784cdf56c8cd6b9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US assessment of Iran's missile capability signals heightened military threat and increased tensions.",
+      "event_key": "iran missile capability assessment"
+    }
+  },
+  {
+    "title": "Iran warns of 'crushing' attacks on US after Trump threats - Le Monde.fr",
+    "summary": "Iran warns of 'crushing' attacks on US after Trump threats Le Monde.fr",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzJNQ3E3c2gwLTdoRlpUeElRQ01rc1pockI0VEV0Uy05M2ZnSnhJc0w0WW1zeDE1R3ZnMENVMHk3RTRxanBpVWxIRHdWTWV4MFVtclJLOENHZW8zS0NOLUg4ZnAzUl9Fcy1qUDM3VHJYbGtUSTFDZ0lJdjVfaExxeWJnQ3o5blZrLWNSRDg2d0pwUzNsME9PS1BETTZJa3hnLTFkZjJscFVRd2EteUs0STZTV0RtR3JNV0xCQ3FDakMxTk03?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-04-02T22:05:07+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 22:05:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3648f45fade5a2ec8f58ebf405e06c24becca488",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Headline warns of a dangerous new phase and rising tensions between the US and Iran.",
-      "event_key": "us iran dangerous new phase"
+      "reason": "Iran's direct threats of 'crushing' attacks in response to US threats indicate rising tensions and hostile rhetoric.",
+      "event_key": "iran threatens crushing attacks after us threats"
+    }
+  },
+  {
+    "title": "Sky News Australia. . Iran has responded to US President Donald Trump's threat to bomb the country “back to the Stone Age” with new missile attacks on Israel and the Gulf nations. - facebook.com",
+    "summary": "Sky News Australia. . Iran has responded to US President Donald Trump's threat to bomb the country “back to the Stone Age” with new missile attacks on Israel and the Gulf nations. facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQejhlWG93WHAyeUlsOFhvUHA0clBGblNnWG5YOXFNekVuVE1nNmZwM1NiTTdrQ1hRU0pfTlNnV2Q2d2FmU1d0TnU5NmhsblpMOUVKSEo5WmppRmJTNG5Ib01NaFJpdnhtUzQ3dmhfdk9fUDF4MVpiWnhRTVVNRHFteWE4MEc3V1lHODJzYkJUOW5wNnNpX2lvX0dOT01QRE9aRTJfYWJ3N2NuNzVmWFZZSWtEWmlxQWNSTk1od2VPdFN5M0U1b2d6SGtVWDlqbHJNaWJ5UjNLVGFYRm50Q2JR?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-04-03T01:43:54+00:00",
+    "raw_pub_date": "Fri, 03 Apr 2026 01:43:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9aedc44d6aab19ec199669c6710a4c5af27950e2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched missile attacks on Israel and Gulf states in response to US threats, constituting direct military strikes.",
+      "event_key": "iran missile attacks on israel and gulf"
+    }
+  },
+  {
+    "title": "US strike on Iranian bridge signals military escalation, ceasefire odds plummet - Crypto Briefing",
+    "summary": "US strike on Iranian bridge signals military escalation, ceasefire odds plummet Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHFoM2pzSHdhdV9HZ1piaUo0N3FsRW1hRlBiNi0tQ3BnLXdXUTNxazBDNlowTlNlclo4WHlNWnNuV2I5TFd3WVpUenJnUzFyeXlQWE5zZFpRQ0l0MnFZTnVRU0JWSExGUjVoSFh0SHVVTnFySUJnSUtES0NNVEZLLVZDTjNXQzNaOENJSU9lM2kzUHZaS0h0aHFjbmgyaC1CZk1ReGRiOUlsQQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-02T22:51:20+00:00",
+    "raw_pub_date": "Thu, 02 Apr 2026 22:51:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "920142b013861adb587175637214128a4d6811f6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct US strike on an Iranian bridge constitutes a military attack and signals escalation.",
+      "event_key": "us strike on iranian bridge"
+    }
+  },
+  {
+    "title": "Over 100 international experts warn US strikes on Iran may amount to war crimes - TRT World",
+    "summary": "Over 100 international experts warn US strikes on Iran may amount to war crimes TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80YktzY2FUaWJmS0RVRXRJSXVNV1M2VWRqb3J4bDgxOGlMREkzUXNrMm5qQ3lCOHduOG1vWjFzUDRKVkRQMVN1TTlRQnFRWFk5X3JaVC1GMUXSAV5BVV95cUxQTTZwdkhrUWJCUXBCOHFRR1pMTmVfZEZSSkJwZlc1UktFUk1TLTUxMWszTGlkTFR1RFdSREhuQm1kcWtrclJ0dm1oVjZ0LXhwYUZyZ0xRc3Zlam9PYWV3?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-04-03T01:30:39+00:00",
+    "raw_pub_date": "Fri, 03 Apr 2026 01:30:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "79b1ce0ce24f027962a7642004c8e9ada0e23384",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Experts warn US strikes on Iran may amount to war crimes, centering on direct military action.",
+      "event_key": "us strikes war crimes warning"
     }
   }
 ]
