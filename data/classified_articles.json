@@ -1,121 +1,36 @@
 [
   {
-    "title": "The Latest: US and Iran race to find missing crew member from downed military plane - WRAL",
-    "summary": "The Latest: US and Iran race to find missing crew member from downed military plane WRAL",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkdFM2FnSm03YW1GVm51aFZqRlk5ZlVsTHpGWWhUUHU3UkhDdUR5WmhiN1UtamlYZTlLWGRxTzBHajRWZmkwMUJpZ0toUzl3S19Zb3o5bHNDNVhucm40ZXBhbFFUQXZOTG1zY09UVkx0UVpSSENkaG13US1WQWpCdzhuMDM3TlFQbkZoQ0lHazlodm50OEJSMzd5WHd5QkhKeFFkbUFvUFZoRDRLSUtuOGJ6eXl2d3hPWHBieldB?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-04-04T16:00:40+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 16:00:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6b7f2aa728f2e6507e8eb710d02ce1cdeec3ebe3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.4,
-      "reason": "Downed military plane involving US and Iran indicates a direct incident raising tensions, without clear ceasefire or cooperation details.",
-      "event_key": "downed military plane search"
-    }
-  },
-  {
-    "title": "Iran rejects US media claims of breakdown of talks facilitated by Pakistan but seeks ‘conclusive’ end to war - Anadolu Ajansı",
-    "summary": "Iran rejects US media claims of breakdown of talks facilitated by Pakistan but seeks ‘conclusive’ end to war Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTjg0UmYyd3h2UmJVcFU1eWdNOG5LUm1WQ3o1bVA1ZlRVNnQ4a2NJM1BLVFM0UXB3YnhDamlyYXZFY3BuX2RKTklQeU5PZHlsMkIwel8ta1lFSmxYdE5BSWtVNU54SjhDV2c4OTBzWHFlMVJrNkhkdndxaTY4OHh0eHBadFFvQk5RVVJ6dXlJeWdQSDE5U3FMbzVSOFZTbGQ3VUdVRlpza3FFT2xLc2FsdjFQUHh4T0JNQWxWQnZ4Y1FnWjJYX09VNUJUcXp1V1hLams3OC1GRUtFblVTMGRReWNUOEs2UQ?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-04T16:17:39+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 16:17:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f1d09cc4191c3dcc47cbcc31fd8639cd4f94c3c9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Discusses mediated talks via Pakistan and Iran seeking a conclusive end to the war.",
-      "event_key": "iran pakistan mediated talks"
-    }
-  },
-  {
-    "title": "Iran Expected to Keep Tight Control of Hormuz Strait, US Intel Warns - Modern Diplomacy",
-    "summary": "Iran Expected to Keep Tight Control of Hormuz Strait, US Intel Warns Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdU1oRTRUcWMzZk82ZmoxMldyaHhqZndiZ3lPZ2ZzTnhKSlp5MlNfa2tnNllWcW8tVkQ3eUo0TzdfbUJIU05MWEhTbXZrWjNmRVRpWXBhWGNxam0wM2xqOTlBdXVPZnpCNVZxekxkY3dfcFFjckRJX1YxdDlwV2hOUlgwdXlwOGVGM1ZGeURMUXFqYzVZNWR2aUV4SG1WNUJYTUExVWozdGxxQQ?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-04-04T16:06:03+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 16:06:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1dd29f92e3c1bb41cab3def441122cc1c9c63148",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US intelligence warns Iran will maintain tight control of the Strait of Hormuz, signaling rising tensions and potential confrontation.",
-      "event_key": "us intel warns iran control hormuz"
-    }
-  },
-  {
-    "title": "US Deploys Bulk of Stealthy Long-Range Missile for Iran War - Bloomberg.com",
-    "summary": "US Deploys Bulk of Stealthy Long-Range Missile for Iran War Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnNONnlxOENUVEJIREE1S2tKUlpSUzMwQ3ZZMlR3a0N3MGlXSlEwQklUM1JnUUthN0N2ZDU4UUFBSG82d1B5ZElfRklOVG5MekI3dnVySnk4SHhUck1QRmxyZXg3R28weEhzX2J6YVdOUjlJcFFicWdCa0xQSjNlSF9Xd3hQRVNrLVF2OG5mRlFHLXBGWURoYkI1WTZ1MlJ0M1VyZU85Z3FXY3U3VzRN?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-04-04T16:29:07+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 16:29:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d4ece7b52ad7ac9b27ac8e8795cb99f97c741441",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Deployment of stealthy long-range missiles signals military buildup and rising tensions toward Iran, not an actual strike or diplomacy.",
-      "event_key": "us deploys stealth long range missiles for iran"
-    }
-  },
-  {
-    "title": "Iran rehabilitates missile sites within hours of strikes, US intelligence says - Dailynewsegypt",
-    "summary": "Iran rehabilitates missile sites within hours of strikes, US intelligence says Dailynewsegypt",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejd2TnhsVGtHS2VSZDNWZE83TmJaODRvYWtCSVNzUUI4eU5qN0pXMUp6RUQxNEJPdjczb1hKaEQ4MnZSWjE0bDgwSjJ1UDRfd19BbTI1SWNSWkhkX3liZzBOMUpxYmFrSDN1OTVObFNXR0Vvd1MtZjdzSl8xdVpPMTdvVkFMTk8xV1lrNGp0ZldRYUhJX2owOHpMUU5uRlFkLVVCSzlvSmdBcnM2bU5qdmVGQVJXV0hwYl9GMQ?oc=5",
-    "source": "Dailynewsegypt",
-    "published_at": "2026-04-04T17:57:55+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 17:57:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f50436cf368546f1c294c6c7b03ca4e6b38c03de",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "Rapid rehabilitation of missile sites after strikes indicates ongoing hostilities and heightened Iran-US tensions.",
-      "event_key": "iran rehabilitates missile sites after strikes"
-    }
-  },
-  {
-    "title": "US Intelligence: Iran Rapidly Restores Missile Shelters After Airstrikes - Мілітарний",
-    "summary": "US Intelligence: Iran Rapidly Restores Missile Shelters After Airstrikes Мілітарний",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xVkctbFFCWW9vczdQcEpINmpzYlpEVVlEM1lNWG9FNW1fXzBaTk1MNk9Oc0J1S0NCSldiZENocDViZl9Xb1NGWGY3Zm9GdEt6OG92ZjE5dVpreEJoU29NYnZkTl9qVmc4djhiLThtVFJQSTNKdVlhTnhn?oc=5",
-    "source": "Мілітарний",
-    "published_at": "2026-04-04T17:37:16+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 17:37:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cfd07fda5a2dec6b6fff20035b0a3fa09b41c7c8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran rebuilding missile shelters after airstrikes signals mobilization and rising tensions.",
-      "event_key": "iran restores missile shelters after airstrikes"
-    }
-  },
-  {
-    "title": "IAEA Sounds Alarm on US-Israeli Strike Near Iran Nuclear Plant - Truthout",
-    "summary": "IAEA Sounds Alarm on US-Israeli Strike Near Iran Nuclear Plant Truthout",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1FxZHNWRFZjNUxueXBxSFNPald5RTQ4bWdfb0hPbXBEWl9CVUZLNTk5dC1YRG13cEZPOWFEZm9XQmJINjFrX1p0aFY3RTA3MTM0M0syaS10QkJtdWF6dC1saEw0RTR4UndOcHVmN0NQVmZWbTZtRTdPNG9yVkNiMGFHRVczMVZSWExPRVVWSWtRbmx3d21RVw?oc=5",
-    "source": "Truthout",
-    "published_at": "2026-04-04T15:32:50+00:00",
-    "raw_pub_date": "Sat, 04 Apr 2026 15:32:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "672f73fa1c7d0dbe281b144f9fdd275deadebe2f",
+    "title": "Iranian drone attack on US embassy in Riyadh more destructive than initially revealed - report - The Jerusalem Post",
+    "summary": "Iranian drone attack on US embassy in Riyadh more destructive than initially revealed - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YTmtkVlFUT3V6QlhMUnpicENuZmVrell1Yld6QzU4ZFlNMGx1bXBoeWwwN0VfNHhteGdBcFJ4M2xWdkExMWZXR0g1TXFaQnpXQjdfVGVncmRoWHA2NTBmWk53QTNlT1dLT2c?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-04-04T19:43:53+00:00",
+    "raw_pub_date": "Sat, 04 Apr 2026 19:43:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b9bd71b8aad4bd25a8414749bda9ed7fffe2ad6e",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports a US-Israeli strike near an Iranian nuclear plant, an actual direct military action.",
-      "event_key": "us israel strike near iran nuclear plant"
+      "strength": 0.85,
+      "reason": "Reports describe a direct Iranian drone attack on the US embassy in Riyadh, an actual military strike.",
+      "event_key": "iran drone attack us embassy riyadh"
+    }
+  },
+  {
+    "title": "The Latest: US and Iran race to find missing crew member from downed military plane - WJTV",
+    "summary": "The Latest: US and Iran race to find missing crew member from downed military plane WJTV",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm1nTG1Mbnd2ZF94TENfSkV3T3Z6MXFXZ3R3ME1uZFhPeE1qa19YdTJWNndUbTNlT2l6TU9fS3MtRTV2c2VMY2FuZU5tVkZnMHRZbkpscTBBMllDT0w4OUZra3hjTHRjZWtoS2diVi1hYVFFaEdmRXJNTlFjVXF1UFpZbkpsU1M0RExCRURwMXo1MHVTUnVlbXRmZ3dsUGNYaXBsd2VKcHQ1UUNBSENFa21XQWM5UdIBuwFBVV95cUxNTVdBQ0daWmpveHpMLWthMTFxZ1UtWExENHZKTWFpT0M4SUJzaUlUQXNJZHhoY2NZNVl0Y3hfeUxLdlI5bGo5R3M4S3VoaXdNNWJwMkpjX2p4ZkVOaThZanpyam5MZmthVi1EbUhrdkxsbG44UWNGZmkzWGQ5WFAtVDk2aEZzTnZjSjdTR01YYjkteWNlTENTeE1UX244QkE3U3hSZ3ZQQlRVRlB2YVVnN1Y5U2M1WHpWOTlv?oc=5",
+    "source": "WJTV",
+    "published_at": "2026-04-04T20:43:53+00:00",
+    "raw_pub_date": "Sat, 04 Apr 2026 20:43:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7b73195cbf46e0999561e6ae055a47fa0f7e1224",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "US and Iran cooperating to find a missing crew member signals restraint and reduced tensions.",
+      "event_key": "us iran joint search missing crew"
     }
   }
 ]
