@@ -1,155 +1,138 @@
 [
   {
-    "title": "U.S., Iran and mediators make push for 45-day ceasefire, Axios reports - The Hindu",
-    "summary": "U.S., Iran and mediators make push for 45-day ceasefire, Axios reports The Hindu",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc01vaVJJbUVXR3NhYjZpQnA0eDVsRnlOdnR0Vy1Na3AyYkxOb2l1cnkybmtmMkFFaG5mLUZqSWhRRTA1dW56VTdCY0syZGtFSXhuQ3AtZmt1aDctOFpVdnpwVG5TRkZOYXVhVnBhWmZ2eXE3bmlOa0hLX2hfek00cFB0eUlIQWlxRThUWHVEczROZXF1b0p0cERBNkNPWGtMcFV0QVMyWEpuWlZjdnE3ckVnZjhnSzlwSzFvSEJEalB6TnNvbFpJNTdR0gHQAUFVX3lxTE1kQzNHZ0dVbVk2Rlk0Tmk1dk5vMmRFZkpJN0Y0NGZmbXZORHNZWVN5WE5fWmV2VTQ1OVZMd25Tem51dHRUN0x6a0UyYjlucy10dHg1WjNabXJlLVJVb3JlU0NrU1RqY1QzUU9uR3RfdWREcEkxekluZ3NQV2JJY0E1VzBPWE11UUEzWFk0d1lXQXJfZkRsLWVXdEhSaXdiWEswbWtWazkySV9ENXlyOXZzQm1uSFc1eG5RalNmaHJyQUJnVC1wTmJPM0c1empRaDQ?oc=5",
-    "source": "The Hindu",
-    "published_at": "2026-04-06T03:48:46+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 03:48:46 GMT",
+    "title": "Iran, US receive plan to end hostilities, immediate ceasefire, source says - Reuters",
+    "summary": "Iran, US receive plan to end hostilities, immediate ceasefire, source says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEhONXJNZUExZ05kcUZvU0F4SmhCYm1IQjJGeXNmUlY1ZUdOaTZ2czA1d2lpTndlOHBKRTMwdEEzWl9FQ2dLeHVCcDFWaW1fVUx2V1h6TlVZeVV1TFdSZnhsU1A4cWl4Z3g1YVU4NDJPQ194TnBQMWVCUWh1clBVZkJ0LU9EVjA3Wm01WHhiOU9pTWIyeHNwX01YZ3JRajRNNE5XMVVFdUE4SERGWXFkMnBma0kxNXc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-06T07:04:14+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 07:04:14 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0c19fd8c29ffec9a9288716d1f6097cf716cb714",
+    "article_id": "ad7ca6c978e7acf554f336ba697963262487ac79",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "A plan proposing an immediate ceasefire was delivered to both Iran and the US.",
+      "event_key": "plan received for immediate ceasefire"
+    }
+  },
+  {
+    "title": "Iran, US receive plan to end hostilities, immediate ceasefire, source says - The Times of Israel",
+    "summary": "Iran, US receive plan to end hostilities, immediate ceasefire, source says The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTRMTU1YZUg1aTNjVGdPNUVlMDU1eWtueW05cDBpdFV1RDNXZEtMSHFJWU1WUF9QdEFDcWR4cG5pc1VlQlMyU1FyWldJRnFrTnNEVzZsWWNzc2RxeXA1RDNwNGJvRnpVeGswU000Zm5saXpNd3VzaktfMXdpSndiRDVMUDlDTUt6YkoyOURrMFd2aXdLUWpMU0FEQm5uMldDYXJ1dmhZN0dkVXFPUTg2NUtxdXdTSDVX?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-04-06T07:18:19+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 07:18:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bea48b8aa9b15120308871735d0078dcf177780b",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Both Iran and the US received a plan proposing an immediate ceasefire to end hostilities.",
+      "event_key": "immediate ceasefire plan received"
+    }
+  },
+  {
+    "title": "45-day US-Israel-Iran 'ceasefire' in the works: What we know so far - Gulf News",
+    "summary": "45-day US-Israel-Iran 'ceasefire' in the works: What we know so far Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1FzTm5UT3FQbkxoZE5nRWRKWUkzT2VSdzlBM2xwLTFtdVpoRlVmZlJ3V2dRNVRnYkNXNWJOMC1YZHQwcjFDSUEwdTFhUnNPcld6OTJ5OHl6SjFSRnBTVU1XUUc1dlRldXRnaDhzRFRRS3hRM1N2X3BhTjlhWnI0dXlWUHZwT3V3dnVZTWF2QzlpWF9pLXFraXU1V3htdFQzaXQ5clJxa0ZWSFdW0gG_AUFVX3lxTFBsM09VdEJpY3ZjWFpiYmJTU3J0TVRfUmlpbERlNFlvNnE5Q0toc2wwdF9xRTVCTjA1MV9jc3g0VFFoZXMtMXhpcWxSM0UyUG1Td1lRNGkyTzUtQm5zMVdKZEVlYTBiMF8yaDJ3dmZZTy1jY1NLbFZPUDFsdVJJZ21xZW93U1dTRmJBTHp3SURnMjlZQWg5eVFJc0ZwX0NCRjFJWV96TE1ocnFPckswQm5IWWF5Z2dRYmdpZ0hZakJn?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-04-06T05:46:56+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 05:46:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cebc550719bcfa5108c7edbf8b54ab11b6ab9ece",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.9,
-      "reason": "Report that U.S., Iran and mediators are pushing for a 45-day ceasefire.",
-      "event_key": "push for 45 day ceasefire"
+      "reason": "Reports detail a proposed 45-day ceasefire involving the US, Israel, and Iran.",
+      "event_key": "us israel iran 45day ceasefire proposal"
     }
   },
   {
-    "title": "US-Iran mediators push for potential 45-day ceasefire, Axios reports - Investing.com",
-    "summary": "US-Iran mediators push for potential 45-day ceasefire, Axios reports Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWpNMXpmSmY4OWxwU0dNSElOelJ0ODRPd203MUF5c3hqcTNlMzdzdmVFTTBVRTlmZG5jUUhPWmp5U29qY1Q1LU1sQnZISzBLbHZwcS0yX0hkX1JlcjBpcU9xWDlVbTB2WEEyZlJDSlRqSk43MjlZS3JRMEFTalo0N1ZyRVcyVVlGcFBURkdSUDJsTkU1bjZ1YWNVWmMzVnBBSjlWU1Bic2NHejdBd1lUXzVHQWZ4Y1Z3?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-04-06T03:07:02+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 03:07:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "94e73789aa9307cd457ccdffcded3f88182d4c11",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.86,
-      "reason": "Mediators are pushing diplomatic talks toward a proposed 45‑day ceasefire, indicating active negotiations.",
-      "event_key": "mediators push 45d ceasefire"
-    }
-  },
-  {
-    "title": "Race Against Time: US-Iran Ceasefire Talks Intensify as Deadline Approaches - Devdiscourse",
-    "summary": "Race Against Time: US-Iran Ceasefire Talks Intensify as Deadline Approaches Devdiscourse",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVhBRTI2UnJNN3oyTXNQaEhqamU0OEljUTg2RmV6Wkl3eF9uYWFCYXdYX1FoYWpWY1dpdHI5T2RyY0xwMElxVndxclVhR3VqU3NadWJBc0drWFJDUkhZcHo5NkNpb2RyWWFHWWFaaGE5b1VDbHp5NU1vOGF2aHlLNWxJbFNFNktRd08xTmxQNFFpSER3RGlNQV9RaHdSZmtDd2o1SU1DRU9PZUpaV1FRcnZzS0syZFB4cjVEaEoyc1NYdE5jaTZteWRuclVyd9IB0wFBVV95cUxNOWNlRm5HU1NYanlkQl91RE9fYnMweGloN2U0UXloQjdKaUdualpTVm14VW5aSGZUN3hNc1VxdGJ2QTVFUEYxcFV3SUdacWNTUDVVT3BrVEtaZWNDQ1RBUHRUSEJCUTFuQmNkejRjbDR6d0dQdGRXaEF2emt5Z3dxb1VLNnJhWjF6VTVlcG5rLU9xUTBacFJZRTJKa3BfQ1lrbEw5TXQzd3lsaFlocWJZcWxpZXlrajV1bV9WRlpCdndXeGlPMU5RX0Zzc1lPNzZEMkRV?oc=5",
-    "source": "Devdiscourse",
-    "published_at": "2026-04-06T04:57:50+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 04:57:50 GMT",
+    "title": "U.S., Iran Negotiate 45-Day Ceasefire Plan - 조선일보",
+    "summary": "U.S., Iran Negotiate 45-Day Ceasefire Plan 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHdZLTEzd2NBQ3EtTWpUbGJQSGhrbzVuZWN4YlZiN3M4d0xVcFpCZHNUUTJKVGp0TWtSem5WYlhvZHlYMlBiZ3RncVJCb0ZqMkJiQWNUVDB6YVREYzNtMHRoSTJ6RHdGZkZlNFJSOHFtOV9wSWpQZmtRZ3FENUJLZzNGSGo?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-04-06T05:59:38+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 05:59:38 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "49e7a264e9eb30e50549768b745f0606524ea594",
+    "article_id": "79376906c41946dbc3691dd1ac7b17dd8f29f220",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.92,
-      "reason": "Active diplomatic talks intensifying ahead of a ceasefire deadline.",
-      "event_key": "us iran ceasefire talks deadline"
-    }
-  },
-  {
-    "title": "Gold falls as Trump threatens escalation of US attacks on Iran - MSN",
-    "summary": "Gold falls as Trump threatens escalation of US attacks on Iran MSN",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3l6UGZSd2RUb0hvWTZXdVNpSHltd3N5YWgxVU9QX0N3cHhtRmpSYTNoQlJsLXc3TjZUQU5EWFU3blpvLXhSX1pOVm1IOUFnc3ZGWmhBVGpOeEZzMzgzU2Q4Z0hJQ1hES0wyNWRsWC1wSk1qRFNqUDR0c3R3enpiTktES3NJY09pemtISmJWdHIyUC1XdG1FV1U2YW9PMWVGYkJQUDlLWlo2WkZTV0J3bndMZDlYY00?oc=5",
-    "source": "MSN",
-    "published_at": "2026-04-06T04:28:23+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 04:28:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cc9170471d9db0530f020ce0bd97dbaf2213c938",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
       "strength": 0.9,
-      "reason": "US president threatens escalation of attacks on Iran, signaling rising tensions and hostile intent.",
-      "event_key": "trump threatens escalation us attacks iran"
+      "reason": "Active talks between the U.S. and Iran over a proposed 45-day ceasefire plan.",
+      "event_key": "us iran 45day ceasefire negotiation"
     }
   },
   {
-    "title": "High-Stakes Diplomacy: Potential Ceasefire Among U.S., Iran, and Regional Mediators - Devdiscourse",
-    "summary": "High-Stakes Diplomacy: Potential Ceasefire Among U.S., Iran, and Regional Mediators Devdiscourse",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzRkWm1zM3BLVEhINDlHbURCd3RsY0I1RENzM0tmZnI5VGJ0VHp2M0Z4ajFrd0pURnVpSlRDN3hDa2s5R2RMbkRmOUFBMkEtZ0ZfdGt1TTVqcGdEOGdBSWlvaDlvU0d2OHpHeEJ4eThmaFQ1aklmNXctMGdIaW1IZFFzcGMzRHdvc3g3a0VqaE5RRkJ3M24xZUVlbTU3Mkg3dE9fbHRkSXo2bW9YNGxnWlNxc1pJYnRwNTByUDN5OXVLOXRtTnhPLWplb1TSAdIBQVVfeXFMUFlWMURsQUtXNzlBeWxHbGNQcGJNNDhveWZBbVJ1aFlGLU1aRDlKNl9VX3Zlczh1ek1IWi1MdmpDTnhmZDhEMktmbkRfZ0w1c0d5OXFncTFJS01oc19fNWRROVZGcUdpaEc2SEgyWUphS2NOQkFjdHM0aWZNbU1CSWsybDRxcFQyUnJ6bi1CdmJsSHRNaGlOQmpkcFVGdFhTLW9oTEtlQkNaLTZNMXhnN2I0VW9ybmVSeG4za3JfUkE5elVQcFFCd09vbGwxZWNKLUxR?oc=5",
-    "source": "Devdiscourse",
-    "published_at": "2026-04-06T02:28:06+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 02:28:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c45141ebb48f3d376d5e371bb72af38ed5f4c9c2",
+    "title": "US Iran Ceasefire: Critical 45-Day Negotiations Intensify as Deadline Looms - MEXC",
+    "summary": "US Iran Ceasefire: Critical 45-Day Negotiations Intensify as Deadline Looms MEXC",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IY1cyZFlsa1RxQUhNWUtFc3Y4eTNUTWx5WlpYUFROMmREN0RteUVxS2xpbVJwd3NvX1pqdlhHVTc0UGVxRC1EQQ?oc=5",
+    "source": "MEXC",
+    "published_at": "2026-04-06T06:54:41+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 06:54:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8fd74f9c1c9f810e1e9f3b74a6c92b27fd54c47e",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Diplomatic talks with regional mediators aiming to secure a ceasefire between the U.S. and Iran.",
-      "event_key": "us iran mediated ceasefire talks"
-    }
-  },
-  {
-    "title": "News - U.S. Continues Strikes into Iran After Successful Rescue of F-15E Aircrew - DVIDS",
-    "summary": "News - U.S. Continues Strikes into Iran After Successful Rescue of F-15E Aircrew DVIDS",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnFJN0dOVzZGcWlycVp4bzYtVUh1VEdSNFFZd2M4SlFFblZNRzJHb083ZmxmVlAybllRbXk1UU1MZ1dNOFNyanhTS0QzREx0NVJPbnZWNHpZUC1PRE1DTUdmNGRIZmtUVlpST1QydnR1NU1VVU9hZzZIZXVTWm5BdVZNTHV2NWxWREJvSV9iMVI2ZnkyQ2ZBcG9Od2Z1Wm5uNGJha0RKY2Q?oc=5",
-    "source": "DVIDS",
-    "published_at": "2026-04-06T03:27:31+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 03:27:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c2639f3da495713c0b532b9f1404062afa587f2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports of US conducting strikes into Iran after rescue of an F-15E aircrew.",
-      "event_key": "us strikes into iran after f15e rescue"
+      "reason": "Intensifying 45-day ceasefire negotiations between US and Iran ahead of a looming deadline.",
+      "event_key": "45 day ceasefire negotiations"
     }
   },
   {
-    "title": "Trump's Aggressive Threats Signal U.S. Escalation in Iran, but May Backfire - Haaretz",
-    "summary": "Trump's Aggressive Threats Signal U.S. Escalation in Iran, but May Backfire Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUXA1cGhEOEhKVGxoYzNVU1M4aUNyVVJzMktnNFFtU1M2d2pSSTA5SEpxYVNWTWZyaUFJeVVfQVEyWmxMajJUbERZR296OVJZWTNMNUd5RncwNVY2UzRjLWtldjg4ZHE1cjlHcHUzV29PTjhMRDV4cmN2SnNRQmRKTGRISU9oYy1DbVZNNk8zQWR0Si1iTlF2QkdyalpwM2Zlb2RQZFgyalpWQ1phYW11dDE0OVJORExRZVRsYXJncG1ZSVN4Y3kxc3Z4aVVtQ19IbEpOVHk4RHFFb0RuSVhPYXRMWFQ2Q2RNNlBqRWVsdHlESzlQSTd4YnJCRVp0YlBqVkE?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-04-06T03:01:00+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 03:01:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "661f8e568481940e3bc7386d08e05f3ca21a9d66",
+    "title": "Iran warns US of ‘much more devastating’ retaliation if civilian targets hit - The Indian Express",
+    "summary": "Iran warns US of ‘much more devastating’ retaliation if civilian targets hit The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanZHd0xKTkFGLXdyc1NnVzJqcmRfdUZTRlZHWi11c1VEZkliazlORV9ZbjFsTUFhTlBmeDlReTczNU1fZjBPM1lpaC14bVZIcklhd3B5c3E1eWFQQWtpQXFKOTlBeHRsSE5RNXRYSVNYVlg4dzRKSHdEeVJOQ0toQk9NREx5QXBMZVlwZ0JkaDRHQnQwSjl1V25sa1d0Vmo10gGnAUFVX3lxTE5HREoyU1hDbUVReDA1T1JfM3BiRHU3SkJhd3NHSXB3aTZDYW1uSDV1RHJPLUsteUVxY25NQWs1UlNHSzVfNGJxdWg2T3F4Ny1jdlYyMFVsakRiQ1pGRXRldnNVZ0tsaWFTenpGNDBibGQ1czd2YU0xR2RxTXBaWE5xLWUwTHJWRE5ieFJVQjItVFBVbm5vdFJRN2dyOXF3cEhNUnBuZS1z?oc=5",
+    "source": "The Indian Express",
+    "published_at": "2026-04-06T06:41:16+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 06:41:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "942b50803c8b1263c116d835e4f5e8fda6222dd6",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Trump's aggressive threats indicate rising U.S.-Iran tensions and escalatory posture.",
-      "event_key": "us threats to iran escalation trump"
+      "reason": "Iran issues explicit warning of 'much more devastating' retaliation against US if civilian targets hit.",
+      "event_key": "iran warns retaliation if civilians hit"
     }
   },
   {
-    "title": "Gold falls as Trump threatens escalation of US attacks on Iran - MSN",
-    "summary": "Gold falls as Trump threatens escalation of US attacks on Iran MSN",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnF1S242YVdaOVpDUlpRUl80ZzZNN3VOQzRLeTc0aGliazFmcFdzX2t3X1NxZVMxOXBpTmlJWjJUZVZOZkV5TFExX2VBQnBIMFlQdldWRVZORi0zeW1RWDhVckZ0TG8yekEtNVlEdzdZX20tb2wtb3c3Wm5tTjlrcnJaM3BwNzYzOUJmNHFtcVc2MWthMGowTVRSMVNvazZRZlJybGRrM3dPQm80VGNsWDYwRlNXUQ?oc=5",
-    "source": "MSN",
-    "published_at": "2026-04-06T02:58:40+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 02:58:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ce87c7aa12a75707048c58f67a8f4c361f27d6ad",
+    "title": "Video | US Iran War Latest News | Iran Vows Retaliation If US Targets Infrastructure - NDTV",
+    "summary": "Video | US Iran War Latest News | Iran Vows Retaliation If US Targets Infrastructure NDTV",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTBCcGJKVE51eHN0QVlRRENXa3Zqem11RmJWMVJqMGhUQXlJblNvYmlkWU5nazFXWGFQNVZnZkc4bl9obmJqQ3p0NXEzeXVHNGx6b09pb3hnM0hmNHBweFpDT2JIRTBIWEJBODdhcWlJdHZXM1ZERVlIWXNQZG1rTHpidGFBYVFlOXl5LTFQOHFwS2p0TE8zU1VJS05RX094V3NjaHFNRk1ReWJZQ1E?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-04-06T05:38:52+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 05:38:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7610fc854c9cf102be36d884e6a5d1241ca67512",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. president threatens escalation of attacks on Iran—hostile rhetoric and threat of increased military action.",
-      "event_key": "trump threatens escalation us attacks on iran"
+      "strength": 0.75,
+      "reason": "Iran issues conditional threat to retaliate if US targets infrastructure, raising tensions.",
+      "event_key": "iran vows retaliation if us targets infrastructure"
     }
   },
   {
-    "title": "US lawmakers condemn Trump's threats, warn of legal risks in Iran conflict - Middle East Eye",
-    "summary": "US lawmakers condemn Trump's threats, warn of legal risks in Iran conflict Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2ZrVmZZMzZHLUdMUGU5dkZDTlZFNUItU1libEc5X3lQcUJzX1dLVEhJLWJPd2N6U2NTUS1YSnFYZlExemFZejhlS01lQ0JPcnJDb2VBS0lvZG9tQ0Y1bDl6Q3hRWDFoNEtZcGhqM1BVcWFMMW1UeEVxREpDX1VYRTgtYlpNczhlRnozMWp5aWVENXRfZTEweGRORjBrTmNsRGF0VEotWjdSUGsxdWpVQmtzSzlVV1FzWTl2WXVQYXc?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-04-06T02:57:00+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 02:57:00 GMT",
+    "title": "'War Will Hit U.S. Soil': Iran's Chilling Warning After Trump's Hormuz Threat, Abusive Rant - The Times of India",
+    "summary": "'War Will Hit U.S. Soil': Iran's Chilling Warning After Trump's Hormuz Threat, Abusive Rant The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN0RpU01DajVJcDlzTnY5cTI4d1J2N2NLTHRncUk2WENfTzF0WFFUV19qVnJfYTR3MktlRnkwSHJaVHktdXJtcWVBNWdJX3hwdWxLcHdNSUd6MkpERm1OOWpWQTlILVdyaDBnREw0cUtuUDhjek4xalprcHZTQ21sVG9VelVEcmgtZlFobmdwemtUSElaSVNEWWRXNWwxYktEdnZMaGs5QTlFQVg1MVB5emEwbW91ZENReEJCMDdPUXpHbkUwUExVRXZ0bDdQOEYyYk1EY0tXVnlMcXZDMjE2VTFPQVVQV2VzbkVNWHFTd0tENm9RaTVFNtIB_gFBVV95cUxPZWlROWt6RnhOczNzaVRHN05UNGRzUmdPUExlT2NuakhVdEJoVGstOWM0WFM0bnQ5MjV4MU9VOFd4VnJZVklqUnoyV3MxcjJ6YlRTeTB5US1PSW4tU0htRnNobjR6U3NTX0Y0ZWpnRGNiMnBrcnlwMzBlSU80d0NBWU9DSmRFYmZkQ3dVbTdydU52aWtEQV94TUJ1dk9rU1B2UVRaSW40QVNhQk5mY0ZCeW8yR3VRQU5YNzF4clBUWHFNc3lmZ2hpYmEzSlE5LUZMOUJOZU1RTzdob0R4Z0dMV2VQd0VnNUdZNzhCdmJ4bnVhaF9PUE9jTDFma3VPZw?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-04-06T06:18:59+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 06:18:59 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d93e802e2550ca4d1e6e6b57da1e15baa7d05f66",
+    "article_id": "05eba69d1c9a49d8347a31e318d7b1911775a4f9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Covers threats by Trump and hostile rhetoric prompting lawmakers' warnings, indicating rising tensions and legal risk.",
-      "event_key": "lawmakers warn trump threats escalation"
+      "strength": 0.8,
+      "reason": "Iran's direct threat to hit U.S. soil after Trump's Hormuz remark—hostile rhetoric escalating tensions.",
+      "event_key": "iran threat us soil after hormuz"
     }
   }
 ]
