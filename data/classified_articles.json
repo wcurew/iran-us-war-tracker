@@ -1,70 +1,189 @@
 [
   {
-    "title": "Iran vows retaliation against US attacks, reducing ceasefire odds significantly: FT - Crypto Briefing",
-    "summary": "Iran vows retaliation against US attacks, reducing ceasefire odds significantly: FT Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGpnVTN5ZTh0NTFsUVlkS29wcUtJbWZaT3NkeVY2V3ZMQmJJN1o5Zk1PdEtMUDdIeXVvZUlsMnM1VHp4S2FqTmpqcTdaTHpnV0VqRTBDTkY1WDFDQ3lZbVYwQnFWODVRZ0JvU19scFI5aDNqOUgzNVR1dnh4MW9lVF9RQ0kxWjhSRHB0ek9aQWxtSTl1cW9sazFlTHdOWGs3azZxWXBhcmlGdw?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-05T20:29:58+00:00",
-    "raw_pub_date": "Sun, 05 Apr 2026 20:29:58 GMT",
+    "title": "Israel Doubts U.S.-Iran Talks, Prepares for Extensive Strikes, Source Says - Haaretz",
+    "summary": "Israel Doubts U.S.-Iran Talks, Prepares for Extensive Strikes, Source Says Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZHdZWEFNbUQ5ekVSbXk5dGJ3SUJLLXhwVkhMNnpmdmNyX29wNXFjRXN3V1otSW5wU0FNdnBvYkJmeVU3clBURnA2VlV6QUp6MlAzaUZPUC1mbmM3dDlPNE15UU1JZTZEUHlsbVZQWTRIUHIyeFJNWFpQNmdjVm1qTC13V1Q4VTVfRzRWNjFoaUNyNVpFZXdZc1dmZ1RYMDI3NEZES3hYUC1mNy14a2x2czU1U3pBaUJPTjhGQVoxVldmdnhDRVM5dDFiUWdqVGlzQUNaeVdWUlJNcHJlbFhtbS03VjN4RE9ydUF4Sm1ObDhfNUlYekhzeEdwNm11cVZnQU9VY29NSEdHWllrLUUybFQ0Q25fUktIVEo0?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-04-05T21:50:00+00:00",
+    "raw_pub_date": "Sun, 05 Apr 2026 21:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0ab90c65ab50b7817fddbe242014c78e9d73d6db",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Israel preparing extensive strikes and doubting U.S.-Iran talks indicates rising tensions and potential breakdown of diplomacy.",
+      "event_key": "israel prepares strikes doubts us iran talks"
+    }
+  },
+  {
+    "title": "The Unwarranted Iran War: US-China Stakes, Regional Costs, Global Losses - moderndiplomacy.eu",
+    "summary": "The Unwarranted Iran War: US-China Stakes, Regional Costs, Global Losses moderndiplomacy.eu",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS09xNy1FX3Q1aHVZc3dETGEzY1dQeTREYlkzdzdHQ0t4SDZqTHNFbGdLck9lTVFLdy1seTRKdU5mdk16bjZZUEFJZGlKLXlpRnFla0E5NGt1UkRwRHBZQ1liYW1ReWlBRFVHeGs2RlVXbmJtMi1CLWFDM2FzamUxVjk4bUtJSFdoSzZqS1ZlLVo1ZzlHNjFhRDRZMXVQYkd6LTZIOTE4ZlY4MzJn?oc=5",
+    "source": "moderndiplomacy.eu",
+    "published_at": "2026-04-06T02:00:58+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 02:00:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1e8f22355e950ca64fccf4ff34cb7613862918e4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.85,
+      "reason": "Opinion/analysis about potential Iran-US war costs and stakes, not reporting specific diplomatic or military developments.",
+      "event_key": "analysis unwarranted iran war"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War: After Trump's 'Tuesday 8:00 pm' deadline, Iran threatens 'in kind' retaliation - DNA India",
+    "summary": "US-Israel-Iran War: After Trump's 'Tuesday 8:00 pm' deadline, Iran threatens 'in kind' retaliation DNA India",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSmxkc3EyMjNPOHhiZHFnVjF3cVZ4amZFQkxjaFhsRlFIamw3RlgtaVk0ZDd0Tm45WUJETXlwTGRZMW9mSGpfQ3hENGNmSVNLS2N5Vld5OWlZUEI0bTMyNm9iM1g3SVZVY2NxZ1lQTjg1Q0tLLXdVdlFhaWNSSGliY3ZrbU5uaDJRWG1aTDJzM215MVhZTzJkdE9NTVRDTktHYXFvQmdjQVRDZHROZm1oMHhqZmszT0xPMkJYWXJOellOZllaanhBRXl6TllDakllYzMw0gHYAUFVX3lxTE4zRWZLQm9DYTIwRnQ3OVZ6V0ViTGdOMm8ydGJxWDZ6emxjTWpvT29kN0pHeWs3eXAzMWljTXNWNXJwMXhxTm5nSHRRakpkWnMzUVlFZ0l0X1dUNzhDQXJCeEJEc2VzN0M4b0tpclBCM2xZUWlDcXNNWTM1VURDU2JzVGNCVUVtRkt1VnB4LU5FNFMzRUdEcGRlT2RPUk5BQl8xQmh1bVVxZ09SSUxnOUxUNVQ0aGczQS1nLWlwbFJEcWsyLTJqbW10X3lZMXJRelFseVdKZWhseA?oc=5",
+    "source": "DNA India",
+    "published_at": "2026-04-06T01:41:00+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 01:41:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "20e9325406fc3debdd6e72f0453b235ed12d238c",
+    "article_id": "6094f72f2b3a5649e08cf53ed6db5b184cb04b54",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's vow to retaliate after US attacks raises tensions and undermines ceasefire prospects.",
-      "event_key": "iran vows retaliation reducing ceasefire odds"
+      "reason": "Iran threatens 'in kind' retaliation after a set deadline, signaling heightened tensions and potential hostile action.",
+      "event_key": "iran threat retaliation after deadline"
     }
   },
   {
-    "title": "‘Unhinged madman’: US politicians react to Trump’s expletive-laden threat to Iran - The Guardian",
-    "summary": "‘Unhinged madman’: US politicians react to Trump’s expletive-laden threat to Iran The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM21KeVdhWVNZVVA4amJrNTZkN2l1TktQTnBLalZtMGNXVGdvbC03ZnhFM0RtejVXdlZQYlY0WUVTbjZfR0FlbGFzYmJVSU9nNEpqODlJNmg1QkJmdWtXS2ZRNEx3MDVKRUo5X3JpcEcwZ094T3BQVDNvbXNSOFNyQnpUZTlpdmNvel9UQ2EzZnc?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-04-05T18:45:00+00:00",
-    "raw_pub_date": "Sun, 05 Apr 2026 18:45:00 GMT",
+    "title": "Trump declares victory after rescue but threats to US operation in Iran still loom - bbc.com",
+    "summary": "Trump declares victory after rescue but threats to US operation in Iran still loom bbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkt4YlVRMk9yRkpNcXlYMThERlBOZGV1U29NVHpudTFseUdwXzBNNGZvZkNmeTdaUjR1YWRkVVI0Y2lwQ29PaGFMYXNPaGo5cDFhc0NfMTlBZw?oc=5",
+    "source": "bbc.com",
+    "published_at": "2026-04-06T00:23:16+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 00:23:16 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ddd49ffcdb9b6b49a7ef2e380c5af07c84c569c0",
+    "article_id": "447c5018bf5f71ab7475480c70ef9dfb1497809a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Coverage centers on Trump's expletive threat to Iran and hostile political reactions, indicating escalatory rhetoric and rising tensions.",
-      "event_key": "trump threat to iran reactions"
+      "strength": 0.7,
+      "reason": "Threats to a US operation in Iran after a rescue indicate rising tensions and potential retaliation.",
+      "event_key": "us rescue tensions in iran"
     }
   },
   {
-    "title": "Trump threatens massive escalation as he claims U.S., Iran in ‘deep’ negotiations - MS NOW",
-    "summary": "Trump threatens massive escalation as he claims U.S., Iran in ‘deep’ negotiations MS NOW",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTZXcldtNFBpMjI4WDJTQnEtQzJ1NVRMZmx1WTRHcFdJVjBIcjFkYmJkS08zUmZTUjl1NE0wZ09aN0l6QS1YRGY0ZkVDcmxFOHppM0VyVi13Z0xwSkpQSy1PUXE5bWtZRjk3cllnTzczOGxLUEZPdGZQckgtVTBHT2JMUklFc0lzQ2ZxTHJiamNaQVdKZ0RVV1l2U3Z4NHNNMWRrbW1VckJ5UXQ3SzZFLXFfd1daYXN0ZHd1Ty0tTmdKSTBodGt4cmlWU2Z5VUhoVWdWMUxXVQ?oc=5",
-    "source": "MS NOW",
-    "published_at": "2026-04-05T20:49:08+00:00",
-    "raw_pub_date": "Sun, 05 Apr 2026 20:49:08 GMT",
+    "title": "Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge - AP News",
+    "summary": "Trump issues an expletive-filled threat against Iran as details of US aviator’s rescue emerge AP News",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDQxbDJQYjV3d0pqUjZBRUdHTmRFOW5DNnZNR29kcTVnMFBiQ2VNUEk1VnE3ZW9hbENTb3B2dENnSTg2blZZR3RtQlBDSEIySmRwTDZ1TWZERFY3N3I3ZDJNd2NBa2pOTElQQS1tenpENGYzaUJOelRjZUNBWmYyWmpSRWUzc3FwUEtyY3Q4bV9DeDlSY2I0dGRHM2J2dUhvamtGS09rMERYMHc?oc=5",
+    "source": "AP News",
+    "published_at": "2026-04-06T02:06:00+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 02:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d94af831c62d638956606eca86b07180ee5c8a0",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Expletive-filled threat by Trump toward Iran increases hostile rhetoric and tensions.",
+      "event_key": "trump threat against iran"
+    }
+  },
+  {
+    "title": "A timeline of the two US military jets shot down by Iran forces - The Guardian",
+    "summary": "A timeline of the two US military jets shot down by Iran forces The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlBFSWIxVnBucldFZnZ6NkNOSmNUSGFiTk9JUDdHcndaeDNoV1c5c2ZLLXd0X0lqaTQtYlJjWmtyemJnRmZhMzFlT1Fia3pCdnVlLWhkT0ZXc0ZMT0RiZVRJcFFFcXhudGx1QmZ0R0VLOWlTY1BGRXRUdHlNcUlRN1ppVmN4M3RH?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-04-05T22:56:00+00:00",
+    "raw_pub_date": "Sun, 05 Apr 2026 22:56:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6d0095bfbb182d045e26aa1e9202d6cd13df18aa",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran forces shot down two US military jets — a direct military attack.",
+      "event_key": "iran shootdown us jets"
+    }
+  },
+  {
+    "title": "US Bases TARGETED After Iran Missile Stockpile Revealed Visit The Up Coming Site (kQTfJNijq6) - Mshale",
+    "summary": "US Bases TARGETED After Iran Missile Stockpile Revealed Visit The Up Coming Site (kQTfJNijq6) Mshale",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMmFSOWk3WkQ1UTJiOUIyMTZCcmFWU1Z2S3U2aTlDekhpMWlIWEhOVl9jZnN4ZGdsOUF6XzJwNVZJd0lXRVBPVjg2NHZiWXRLOWt4dXNWRzNkM0NMTjl2VlQwSQ?oc=5",
+    "source": "Mshale",
+    "published_at": "2026-04-06T00:05:31+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 00:05:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e12d8c6affebf67ea5130afcaeb5d0d69aa99472",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article alleges US bases being targeted after Iran missile stockpile revealed—indicates threats and rising tensions.",
+      "event_key": "iran missile stockpile us bases targeted"
+    }
+  },
+  {
+    "title": "Gold falls as Trump threatens escalation of US attacks on Iran - MSN",
+    "summary": "Gold falls as Trump threatens escalation of US attacks on Iran MSN",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeTRKZDlsNTdzbzdJR3JsdlNqZXRrQjhucWNRSW00YnlXVUp0ZDFGaDlFb29vSm9uSzREZ1RiUWZrT2dURWY5amFWVXRHdHhfOWtaM2ljcTlDcnBMRzlBcU8wRWtIRk1lSzAyR0FKUVNCRHB5blRPRl93NS1jeDhhOVpuSTlQVVJoZ3NRbVowU2Z2elBYTkxDNzRoVlJxVVplYWNuZXZlZ0s3bHQ4MkRmekNtN2hacXd4bDZrZWVlX2VJSHZOc3hhdzMwMTBOdWhUUmZNWQ?oc=5",
+    "source": "MSN",
+    "published_at": "2026-04-05T23:53:24+00:00",
+    "raw_pub_date": "Sun, 05 Apr 2026 23:53:24 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c15ab45c6ebdd3cb001f9a67d5359c822d5b9feb",
+    "article_id": "9e0bbade9173be28678385574e5082c08d67f226",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Trump threatens massive escalation despite claiming 'deep' talks, signaling rising tensions and hostile rhetoric.",
-      "event_key": "trump threatens escalation iran us"
+      "reason": "Trump threatens escalation of US attacks on Iran, signaling rising tensions and hostile rhetoric.",
+      "event_key": "trump threatens escalation attacks on iran"
     }
   },
   {
-    "title": "‘Whole region is going to burn’: Iran's ‘living hell’ warning to US amid Donald Trump's threats of striking power plants | World News - Hindustan Times",
-    "summary": "‘Whole region is going to burn’: Iran's ‘living hell’ warning to US amid Donald Trump's threats of striking power plants | World News Hindustan Times",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLXZtNkpGWUhjZG1RN3AxRjNWZnhFZ2NfbnpjTXlyNUF0RHlTbjJTUTAwb2ZFanB6LUFPZW1WcU1ZaWhqSExtQjdDRlpVSGJxdmVYb1FwcW1BaWdzcnRzNDFBcmZfNWN4N2dDTUFUTlZ6UzZnNFhIeV9oUGx6NmROMXNGRUMxSGxWWEVIckUwa2VMa2YyZFhoTF9TVDdHd3ByS0hFLWZ4RjN0THhkSGpleVN0VUg3bV9rN3VCWGdVR0FFS0UyN2JMMFc2b25MSm5TQjdFbmJ0X3pDWlBwUkJQUTZSWXBWVjU5Y2E2ZkpyYTREQndaeXpHTVRGTUN4eVlTd1FZNnRSRdIBjAJBVV95cUxPeUFrZTBBcEN5c0VmVkhRaXB6T2N6cmpxa1hSYTJoeUZlTktua2pZLVFVMWRvZDRudjJ6TjNqdGhLcVBTM05pTnQ5S0xaSGEtUzhVdXRkZ3JKXzUtN0x6RzN6WlhfYTJJNGR4aFFha2xYc2ZYblN4QjhqNGdvX1NSeE5vM0tFWW1YYXI0WV9vNzhxeTBVcW5peU1lbTFPbHZfbzlUQ1hNdU83LWFDUHBKUUZRVGpKUEFZNlRkV2lVVUVjd284OHVzN281MUJEdzVpajJLaXlxakNsWGFvUXRlVlV4di15NW1HUGlMZXJLSGVfb29lWnpKOXhJcXljcUcwVExERGQyb05peGtz?oc=5",
-    "source": "Hindustan Times",
-    "published_at": "2026-04-05T19:11:39+00:00",
-    "raw_pub_date": "Sun, 05 Apr 2026 19:11:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ebb76182b5f8525a4e3c5df08b9070cdedb684be",
+    "title": "Gold Falls as Trump Threatens Escalation of US Attacks on Iran - Bloomberg.com",
+    "summary": "Gold Falls as Trump Threatens Escalation of US Attacks on Iran Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHMtbmNKekNjZUw3c0tVOFQ2b1doSTEyanYxMWhsRGhSdU50WWJlOFRjc1ZXdlJ4SmZEMmlhMWIxRmtJMHlEZjNpS1hrNmFma0hJSFNpdUcwaWdRT1pJTFN5Tlc1WGQ4S0pGN1gzdG5OZUJzTWpoX3VOQUZYX21mUldHWk90X0pocWVpazZzZUVjZklidVE1bzl1WV9DdFJMdVZDTXFiNVFXUDZ5c2x4VlBEYw?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-04-06T01:57:00+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 01:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b759cbc3d50f6f0d422c6371bea12269762472d5",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Trump threatening to escalate US attacks on Iran constitutes rising tensions and hostile rhetoric.",
+      "event_key": "trump threatens escalation against iran"
+    }
+  },
+  {
+    "title": "Gold Falls As Trump Threatens Escalation Of US Attacks On Iran - NDTV Profit",
+    "summary": "Gold Falls As Trump Threatens Escalation Of US Attacks On Iran NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3N1SXh2bVFtOUdtbDVOT2QxUk13QWlZRXlPOTJYQ040T1hKZ3NFRXBWM25fUG5zOGpjbkVHSDRzeTVTMXRrd0t5UTJqYTM3OTVpalhDclVmZnVzQVpsZEM5TElNYkVSVTUyWlR4T01OeVVIeVFzaGxfWGdjWVFMWS10bkloQ1BpN25OM0IzRWwwa25BOVNISW9aUHI2Z0dYTkRPemR4QdIBrwFBVV95cUxPTmdYblRGTmlvUzMtUHFON1YzelFtY0llcnhjXzh5TW1jZkRTT0JKbnpLQ3JkUFRQWWZoQV9Yb1V2dkdqcUQ3dnBlTzhHbHVlcWowUVUtcGh0SWFFNjR3dWRvWDRESl8wRjRZOFkwSHdrTjU5YlB3bVZJeVFWQkdqZjdpeVM4MFV1M2xMcEYtcHduMi1nY3hNblhpSVY3d3Jxd2pUQ0ZzcElZdjJHNnNR?oc=5",
+    "source": "NDTV Profit",
+    "published_at": "2026-04-06T01:36:45+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 01:36:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6d880b77275efdbbe8e7eb227bb85b5a262169ff",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issued fierce warnings after Trump's threats to strike power plants—escalatory rhetoric and rising tensions.",
-      "event_key": "iran warning after us threats"
+      "strength": 0.9,
+      "reason": "Headline reports Trump threatening to escalate US attacks on Iran—threats/warnings indicate escalation.",
+      "event_key": "trump threatens escalation us attacks on iran"
+    }
+  },
+  {
+    "title": "Iran issues strict warning to Trump, says will respond 'in kind' to any US attacks - The Economic Times",
+    "summary": "Iran issues strict warning to Trump, says will respond 'in kind' to any US attacks The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZkJoMUtmS0FSM0Jyci1SeVlrM1RLQ1lLYm4tcTVuTDhzYUhoMk8zLVEtWHBzVnRGWmtXS0o2T1c2c2x5TWJBRUx0VWlQT1d5QlFCTk9PRE8tNldSM0JxeXFRLXRDVkpIU3V1VkNlWTRxbFRvazdLT2ZpVnZWb0JfU2h0WXdWRHE2OWxCS0h6OUppVWIzM3lDVThuRDFuRDdPLTZ4a3JodzVyc2c0SmU4RnFkbjJ4M1hFUVFTb3R6NE9yUDNxcUo3b2w5cXRPU1kzZVN2aXFmMWdqak9JSGk00gHkAUFVX3lxTFBPX2hXdld4a1NlV2FWNUpqUGtfT1BsQ1lFOFVIeE52dGNQcHppTXJlNnlxTnhRY0lSTnVReWdTSktsOHdLWkQ2bUtkYWFTZ3ZiV3NrTUpSdS1la3JaVVo3NUtUajUwU2FXbVRDdTVnU0wyaXBzOUR2YVZ4WWhvUWpHQm5FaFBTVVBkMWEwYlVrTFlGd2F6Q1N2Q21WekFkZEZETFhMMzZvSE5iaHFGS3YwSl9mczhUVG9qWjM1VDcxeFVMdWVJWWVkYlhWVml4MHZtenJoLWJ4cmN5R2FHUEtJQlowaw?oc=5",
+    "source": "The Economic Times",
+    "published_at": "2026-04-06T00:47:57+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 00:47:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2fd2f1e2453f3e744cea835fc2ddde612a4912fe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran issues direct warning to retaliate 'in kind' to any US attack, signaling heightened tensions.",
+      "event_key": "iran warns retaliation in kind to us attacks"
     }
   }
 ]
