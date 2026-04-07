@@ -1,53 +1,104 @@
 [
   {
-    "title": "Iran, U.S. Reject Cease-Fire Proposals as Trump Issues New Deadline to Reopen Hormuz - Foreign Policy",
-    "summary": "Iran, U.S. Reject Cease-Fire Proposals as Trump Issues New Deadline to Reopen Hormuz Foreign Policy",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeklVdXkwS0syVzdmN25CSWJBR29lbUFSR1hTbHQ0ZTMwSEcxaVN1cnlKVzJPOHVwNFVlbTBOZ1kyWnYxY1owSjNQQVFFNXlTNEZDUU9nVXdGVi1xNlVORzBPYWJ1ei1ScHotVE1lTnhtMzIzX1VQTWlNYlQtSXlXZVJqYXVKZU56WjZrcWFndnRuVFhkZnI0TFBxUWRTRTk3bG9KRHVwZUxPV1JNbVJjYWFFSVRnY3JWSVF2bmVWS2YzVVpYY3B3cVFMdmFVdw?oc=5",
-    "source": "Foreign Policy",
-    "published_at": "2026-04-06T20:58:30+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 20:58:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9b33d49309abddf511429c98d8f13fa59381ab81",
+    "title": "Trump claims ‘active’ peace talks with Iran as bombing deadline approaches - The Washington Post",
+    "summary": "Trump claims ‘active’ peace talks with Iran as bombing deadline approaches The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkVmSFRjbzNxMENDbkNwQjY3Q3BwellKOUdLRGlfOXliaWctS3Zta3l5cmRlVjFhb19qelRSZzg4RmNmcDJ4QXZEZjdIUzNJTG5pXzNSbFRWMHpRZF9RemM3LVU4QTNtME1jWDVTZGZGLVdETXJIYll3UWFkYmVHWGlmeFZIeGhQSWlPRW0xRFBVQ1c1OTRmbDE5eVg?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-04-07T01:06:52+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 01:06:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "246a46d38afd7f2c79e9509b8aa3bd18351bbe6e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Reports of active peace talks/diplomatic engagement between Trump administration and Iran as bombing deadline looms.",
+      "event_key": "trump active peace talks iran"
+    }
+  },
+  {
+    "title": "Negotiation Dynamics in the U.S.–Israeli–Iran War - Modern Ghana",
+    "summary": "Negotiation Dynamics in the U.S.–Israeli–Iran War Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnptMWZDdTk1ems1MnlVWjdOM284Q0h5SjZUM1VpcU5EQXZWczZOLUVKQ1ZHLVFCNmFhY1JYb3pzUHJhc3FPTkhHTHQ4SXp6dHI5R3pKekJRLXdxc3ZDYVpQWVI2M0xMb29paVJPeXVrZDBiYV9rRk4yLXV2RW5FV3pYWnNtOEswT042RUxhQ1_SAY8BQVVfeXFMTnJNQmtTN0ZlN2ZzQ0dCS0RjVzVLM0R2M19Gdk1Ic2w4WHFCVXV3dHdSaUMwNFRhT0ZXVm5vZmRTcFN5eDk4aFU0cWdWSkVwZnUzc0ltZ3RGVm9DYmNhVGs0NXY5X3RnZHY2cVRjeUlrSXVQaFpRenQ3RGpmaTREdlhEOENxVkNzLW44U0ZkazA?oc=5",
+    "source": "Modern Ghana",
+    "published_at": "2026-04-07T00:07:24+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 00:07:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97add35e981905a1412ab39528ec14f33b6e2b86",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Title indicates focus on negotiation dynamics among US, Israel, and Iran in the conflict.",
+      "event_key": "us israel iran negotiation dynamics"
+    }
+  },
+  {
+    "title": "WATCH LIVE: Hegseth and Caine hold Pentagon briefing as Trump threatens Iran's infrastructure - PBS",
+    "summary": "WATCH LIVE: Hegseth and Caine hold Pentagon briefing as Trump threatens Iran's infrastructure PBS",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMzNDUDl2OWR4elE1WmlEdVNEYTFhSFpDeUJBNTFsa2dYZkFUSTNsbUszaEpJR0VhV1UwWng3MTVreElZVlhFakZDaW5UazNhU1lNZ2xBeWJ4UDM0aHpoeHp5UnkzVE9TY01GWjB4Zl82aUluSWQ0VjU1VDZNLVQ3anpvMXg3S0ZvUUlrR0kwRWVyQ041bFU5RFNYNE5RUGYzSGhkNG8wdjR5MFNjd3NtcTlGeGR5ZTJfN3FuSnlNWThBT0xFQXJLaNIBzgFBVV95cUxOYmVTYTNNTzVBR2xpRmk5Z3dFb21Qa3NPUXZsRWV5c1M4RUlNZzQ5UFJxQU1DUk1Id3kwdmIxTzZNRllIMkF2U2Q1UER6XzdfV2Y1Y19tQ3FfVVBDbzFRaGQxLVh5c3JxVEM3T09PUE9SV19UZlhMZ0NsQWVoSjY1cnA3alFyX0tWZ19XQ0dHUkQ0ZVFrYk9PY2djbnhFblA5NjN0dDBtQnBLeWtWWlRaTE9NX0NVN25uZXNqVDNPQmkzU1VJb251eVZhaEktUQ?oc=5",
+    "source": "PBS",
+    "published_at": "2026-04-06T23:47:19+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 23:47:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "91e07bab5a6f03e8d282b8398011fb422b954af9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.7,
+      "reason": "US leader threatening Iran's infrastructure and a Pentagon briefing signals rising tensions and hostile rhetoric.",
+      "event_key": "trump threatens iran infrastructure"
+    }
+  },
+  {
+    "title": "As Trump Deadline Looms, Iran and U.S. Mix Threats With Hints of Deal - The New York Times",
+    "summary": "As Trump Deadline Looms, Iran and U.S. Mix Threats With Hints of Deal The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1dNckNDTDJMRnplZ2lieG1CVjZWS0VWYlNOTUYwMHZrbXQxdWJtaEkyUkhpb0dRbTBHNEttXzJRYldZcEhxS1lzMm5KWGpOSUI3YmZSWWVLMHNTQlpFVk16ODJZSElYa2Q3OWc5dURtX1dTeFpCNWlDMDFWcXNsekp3?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-06T21:37:19+00:00",
+    "raw_pub_date": "Mon, 06 Apr 2026 21:37:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f04014a49a02409ed461f25728b0072e4851aec8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Active diplomatic engagement with proposals and deal hints despite accompanying threats.",
+      "event_key": "trump deadline mixed threats hints of deal"
+    }
+  },
+  {
+    "title": "The U.S. fighter jet was downed in Iran by a shoulder-fired missile - NBC News",
+    "summary": "The U.S. fighter jet was downed in Iran by a shoulder-fired missile NBC News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVR1amZ6SUdKSmN0b1dTTUJxZk9EQkpUaEdWWnFtMmVZR1Bwd2R1ODBFOEJYekw3RThUTTk2VGFxOWdHNzcxLWxnS2UzX2RsNHdZTXBWQmE3SXVUZ1p6TDZEYXB1UVp3N2d6bWUwTW9ha3FlN0N2cXJkTzNDaEUzZFZ6YklUdk1xaERmUW5wcVgzdDdfX0I4Vm9oNzZOeW4zaWFpYlRlelM1MkVMS1E?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-04-07T01:15:00+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 01:15:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d4a30e6b2d29a85afa2c7a68a7a33dcdf8843451",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Both sides rejected cease-fire proposals and Trump set a deadline to reopen the Strait of Hormuz, signaling rising tensions.",
-      "event_key": "reject ceasefire trump hormuz deadline"
+      "reason": "Direct downing of a U.S. fighter jet by a shoulder-fired missile constitutes a military strike/attack.",
+      "event_key": "us fighter jet downed by shoulder fired missile in iran"
     }
   },
   {
-    "title": "U.S. stock futures rise on hopes of de-escalation in Iran conflict - The American Bazaar",
-    "summary": "U.S. stock futures rise on hopes of de-escalation in Iran conflict The American Bazaar",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM25LT2w3SVdjeS1vRkx4WVlTVkpJU0NxVlVXZnVXRnBkZHkxcFdyTmZSeWo3TTJjLXFBdzRGVUdjMFBFSzBpNHE5WVROeEF6VWVkck9mTTl5UHpDS3RmRnFGNm5kRHRpTlJYQnhLWXVWOUdRY0dCR2k1VXBNMWxTNUs1RGdwMm5zQmlVUTR3N2VKUkJXdkZEN0hTLU1ZRVRVTENPbW1FRjRaSjBGNHY1YktMWTNEVzQ?oc=5",
-    "source": "The American Bazaar",
-    "published_at": "2026-04-06T21:20:26+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 21:20:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a883df7067f21e22a8a163da2e7c3d28d60ccda",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Markets rose on hopes of de-escalation, signaling reduced tensions rather than an explicit ceasefire.",
-      "event_key": "markets hopes deescalation iran"
-    }
-  },
-  {
-    "title": "Sky News Australia. . US President Donald Trump is warning strikes on Iran will escalate despite good-faith negotiations being ongoing. - Facebook",
-    "summary": "Sky News Australia. . US President Donald Trump is warning strikes on Iran will escalate despite good-faith negotiations being ongoing. Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFdabE5aQmh4VHVBV1RwZUV6dlBKMkQ4Sk1lSmRyWWlOSTFLWWRyb2hnM2k0SFc5MTBQbFNPYkZya2hnTndzTkI4eVFhNFFDSkpmMmVUSTRUNmFOWUhjY0NQUG96Skx6VUdUbWJkQnZwSnJXazJ3RzFoaVBKdlFXcXl2c29qdExhVkJHeTBkX19Hc3lwWTEyLXhfbWNONjNWbVpRcnJjT2FVUi1fUW5tZExNeEFQR21uX2VEMUwxaU92WkFnTHAwR0hlR1U3dkFjaFpFZXo5S3l2V1lZVGhDMg?oc=5",
-    "source": "Facebook",
-    "published_at": "2026-04-06T20:10:33+00:00",
-    "raw_pub_date": "Mon, 06 Apr 2026 20:10:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb250f3b9f7f64da4a95a80f1fbbfb28eeff546d",
+    "title": "Trump threatens new rampage as Iran deal deadline nears - The Washington Post",
+    "summary": "Trump threatens new rampage as Iran deal deadline nears The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblhFUEFiTDhvdnEzaEV6Ym9rMF9yXzFmVEwydXc0LXRYblNnM0lBbnphaUUtV1BJOFB1YmVlV0RnRGlKUzJ3QVVYSnRmVGs4VUxpME93azhJREhhLWVmVnNiNnhXWlNiaEFrUkNGTmNnZEs0MkRUZXpiZy0wdDFrcENYRkhsMjNNN05QNDNkb0t2YW1fUDFj?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-04-07T01:32:26+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 01:32:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c38e0b25b6900aa2d4c62fdebe509f81bfe995e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Presidential warning that strikes would escalate despite talks — hostile rhetoric increasing tensions.",
-      "event_key": "trump warning strikes would escalate"
+      "strength": 0.8,
+      "reason": "US president issues threats as Iran deal deadline approaches, increasing tensions.",
+      "event_key": "us threats over iran deal deadline"
     }
   }
 ]
