@@ -1,172 +1,342 @@
 [
   {
-    "title": "U.S. Markets, Oil Prices Sway on Iran Talks Deadline - chosun.com",
-    "summary": "U.S. Markets, Oil Prices Sway on Iran Talks Deadline chosun.com",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmlpeUtkZ1RWTmJ0cXMxVXJCMHM2eXZzV2ZHcHBGRnIyMFRRbVVaTGlnSm1JXzVkSFEyQy1qeUJsUzl6a1Q0TGpxWW4xU0tNMEgyUWc5dGdvX0l4MklFZmEtTlNuOWZWYjhacks2Yko5S3ozUHZsQk1MWjVqbEl0V19LdDU?oc=5",
-    "source": "chosun.com",
-    "published_at": "2026-04-07T20:25:14+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 20:25:14 GMT",
+    "title": "U.S. AND IRAN AGREE TO 2-WEEK CEASEFIRE - Axios",
+    "summary": "U.S. AND IRAN AGREE TO 2-WEEK CEASEFIRE Axios",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVaDVsT0NWNW1CM19fQUVXR1Z3SXhpdWpxUGRzQ1dDLW8zWjVNdzNLTmtfRUh6U1NQVkF3dFc0emhKaGgxV01sZXpmTVBsOFZhanpMbTd1Q1hCRDZKbXNwbGI0V3prNTJUeEVwamxON0xodE9Id01r?oc=5",
+    "source": "Axios",
+    "published_at": "2026-04-07T23:44:09+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 23:44:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "71e56b0a383576dfd75749bad6050aa1ee30b884",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "U.S. and Iran agreed to a two-week ceasefire.",
+      "event_key": "us iran two week ceasefire agreement"
+    }
+  },
+  {
+    "title": "US and Iran agree to provisional ceasefire with Tehran saying it will reopen strait of Hormuz - The Guardian",
+    "summary": "US and Iran agree to provisional ceasefire with Tehran saying it will reopen strait of Hormuz The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82eXBXaDR1azBTUC1nYW81Y3pHak5JVG5PcmtJaHd0aG5xSkpWRXVzUUVBRTZZT1o5RUlUSVE5RFBjUXhLeHJUakV2QmNwV1ZMMU1TLW1VUFZUa2JuWTkwRkZ4ZWZ5Q1Y3cUl4cTZqLWhLTHlUaktCb2tnYUs?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-04-07T22:47:00+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 22:47:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d6033e48dcc40bc93fe359248d49fcb907a31ad0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.95,
+      "reason": "Article reports an agreed provisional ceasefire and reopening of the Strait of Hormuz.",
+      "event_key": "us iran provisional ceasefire reopen hormuz"
+    }
+  },
+  {
+    "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire - Al Jazeera",
+    "summary": "Iran agrees to open Strait of Hormuz for two-week US ceasefire Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1pGZ3dad3B2a2hHQ0x1MXVnYTBnT0pvN3BVOGJaZVo5d2xIRm5SMGIwSmMyOFJFVnUxbWVoTkE1a3JWNy1xRlFwRld2VlZYLXRURmdsY29jeC1VQUFZZVZWNEk3LWVvU3IyeEQ2SUgyZzFkWHk0Z21CeTRiOWpUYXhpeGZFdjhwN0NfMjlHejhrN2RNOFBsVkFLNkRXUll1dTJIcW9UdmVsd2tHV2lVM1lB0gG3AUFVX3lxTE5XMU9iSzlnZk9QMk5SVGU2cFpyVWlReGk4NzZ3RHlZMFBxU1lnMEJ0d3FzV2pfYWoxNE9wdDVfY3NoREV0RmVhVEVyeEdhN053M0NlaWx4RmNGbWUtNHE3RlBOQ2QyYkJTbFI0SEJiTmVDd3piN3FnU1g3NnlTSDUwdFdiR0tmTnJsOUZFSllGcHFIUjg3RWtRWTRWNWFkTnBCVmpJOGxVS0lUbm01WlNNNWxrMzVjOA?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-08T01:25:25+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 01:25:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9bfd498c805970090462f989c706102c22ace567",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Iran agrees to open the Strait of Hormuz in return for a two-week US ceasefire.",
+      "event_key": "iran open strait two week us ceasefire"
+    }
+  },
+  {
+    "title": "US and Iran agree to 2-week ceasefire as Trump seizes diplomatic offramp - AP News",
+    "summary": "US and Iran agree to 2-week ceasefire as Trump seizes diplomatic offramp AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXBFdy0zMGlQWDZGMFltS19ibFltTkltaWI4QnZrWlN2VGxpMUNWRWVLamI5Y2JDUlpOQXg3U01KenFwQ1hhVE1majhvLWVOQVlJSHFUNF9UYVg0dmhHYzVZcUtGcC1RaTlVVnZwclR3TmhXS2FTbEJjTFVaRE1DTVFUQnluUDVnUS1WMjd4ZGRjZW1udDVycV85Wl9OX0JEWmY4?oc=5",
+    "source": "AP News",
+    "published_at": "2026-04-08T01:59:00+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 01:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0b51f7e60a86781dbe2afbd146b7192ca27d4d67",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.95,
+      "reason": "US and Iran agreed to a two-week ceasefire.",
+      "event_key": "us iran two week ceasefire agreement"
+    }
+  },
+  {
+    "title": "Iran says US accepts 10-point peace proposal 'in principle' - TRT World",
+    "summary": "Iran says US accepts 10-point peace proposal 'in principle' TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ZTJYU1VvbUFRR1BmZkJ4dER3UGxMRHhtVXRHdzR4SlVWVXFjUmFVWEhqTHJkbmJKeXRfVWg5VlBWOE5VSXFqczBDZGlyVklkeGJ2cUVBUkzSAV5BVV95cUxOLUlaaWt5TmNPSUdBcERhQ0M3RHdZSHY3eURTem9vSVFIcVRfME1PbE1LaDI5SXBEWXI2R2djN1AwMXNUbnhaSTYtZ2E3aUhnMUFSeXh5a1ZUSGJuazBB?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-04-08T00:47:18+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 00:47:18 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "baeeb2b369c6bb43f0cc1c914fa83c66e924091e",
+    "article_id": "e2bcf47e6b5cd72780ed56c3cad8538c839670cb",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Markets reacting to an Iran talks deadline indicates active diplomatic negotiations affecting markets.",
-      "event_key": "iran talks deadline market reaction"
+      "strength": 0.9,
+      "reason": "US acceptance in principle of Iran's 10-point peace proposal indicates active diplomatic engagement.",
+      "event_key": "iran us 10 point peace proposal accepted in principle"
     }
   },
   {
-    "title": "As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide - The New York Times",
-    "summary": "As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmRIZHlUV0s4dmItdHlhNjRud2pRVTJmX2hSSmtKa2tCLXI3RldVVUdKdVlVOHBOYTMxa1BxU2I4VE5wVkZEWGF2UVNKTU1Ib1BRZUk4TWxqNmdHSUFqX3lvTGRmRF9wc0tCd3p4OEpoUFRrUWZ0M0ZvS1E4VWdSeQ?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-04-07T20:36:53+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 20:36:53 GMT",
+    "title": "Key points of Iran's official statement on ceasefire with U.S. - Xinhua",
+    "summary": "Key points of Iran's official statement on ceasefire with U.S. Xinhua",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GcnF0REVmTlRPcVJOUkxsVzJjSW5VR2FFZkZLdG5vNjVNT24tTllGY0hxSEpCdEdYZ055eDNXTFBmcEQ0UktVYm1JbWh5Ym9lNXZPR3dRY0FqZ0xSQTZUT0xlclJ0U2Ftc2FCOUlXeFdJLS1vZC0xTzVaQS0?oc=5",
+    "source": "Xinhua",
+    "published_at": "2026-04-08T00:57:15+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 00:57:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e7234d0a04eeeff973c67be9fab785b9cf3b9b8e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.95,
+      "reason": "Iran issued an official statement announcing a ceasefire with the U.S.",
+      "event_key": "iran us ceasefire statement"
+    }
+  },
+  {
+    "title": "Iran claims ‘historic victory,’ says US accepted terms ahead of talks - Middle East Eye",
+    "summary": "Iran claims ‘historic victory,’ says US accepted terms ahead of talks Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcElqekFFWXdEcDJtbXAtTnVjWmZiYXBVM0w4dXJleDdBUGtObEFmbTFVSm1mN1lHRFduOTdPNkRrdEI3enRxMlBmOUJIdEhiZnF6eFJwOUdCMDdLa0lKcm52dk5XdjVOX1ZHeW9SRmlabjdnS1lnQkgxLTQ0VmpHODVZSEZBRUJpOXVpa1dQbWgzck5EdFF3aWx6Zy1FUGs?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-04-08T01:42:04+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 01:42:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "888e7b874e9723552ded55cd254e5213ca7b8b87",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran says US accepted terms ahead of talks, indicating active diplomatic negotiations resuming.",
+      "event_key": "iran claims us accepted terms pre talks"
+    }
+  },
+  {
+    "title": "Trump: US to ‘suspend bombing’ of Iran for 2 weeks as talks held on ‘longterm peace’ deal - The Times of Israel",
+    "summary": "Trump: US to ‘suspend bombing’ of Iran for 2 weeks as talks held on ‘longterm peace’ deal The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MHptcDBGVjN0NUd1UjBKRXFVZ0ItblhONnBFcWpCVnJkclF5a0RTUGxHZGM0ODA2REZKb3YzMjNvVjRFa0lkU0thY00zZ0hwNzBwZEVUT0FMNEpqYXgxMWJUSdIBaEFVX3lxTE9DaHl4b3B0amFuOHoyVU5WMUZaZlZkNVU3MnRyWTRtZnRSeXI5MS13dE8yVTNkc3lEeTNQQVUzOWlHNXVrd29WeWpEMHU3bEJqVUtXZ1hYYVlRQXlEa2lnbXNVc2I1TWg3?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-04-07T22:45:00+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 22:45:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "56c732cb48e595ae212ca0cf9eee9d529bd0f7e9",
-    "source_weight": 1.0,
+    "article_id": "9cddbf660fe52f3c2082fb91871b3751c5c13a3a",
+    "source_weight": 0.95,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Discusses confusion and developments around a nearing deadline for U.S.-Iran talks.",
-      "event_key": "us iran talks deadline confusion"
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "US to suspend bombing for two weeks while talks on a long-term peace deal occur.",
+      "event_key": "us suspend bombing 2week"
     }
   },
   {
-    "title": "Trump says US in 'heated' negotiations with Iran as Pakistan asks prez for two-week delay on deadline - New York Post",
-    "summary": "Trump says US in 'heated' negotiations with Iran as Pakistan asks prez for two-week delay on deadline New York Post",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRy14QVhTNUlHbmU1aGNXMHY5VTl0cFVWNExGczJiNlhweEtVQ01KRDJxSVdZU3I2aHM4X2lDTGktNkRwVmRCaWN6N2FScE1ETVZiVDd6N1lwSGdGUkV6OWVCZEl3NWhyMF9mbjhYS0s2SXhfMElDeE05SEJzcmw1NDNET3RaUDBzOTZ1cDkwRGlWOWxDOGNqbEI0MDBMYUJVNGQwa2tzWWx0cmw5SXZpUEhxb3l0X2pacDY0?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-04-07T19:54:00+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 19:54:00 GMT",
+    "title": "U.S.-Iran peace talks expected Friday in Pakistan, sources say - Axios",
+    "summary": "U.S.-Iran peace talks expected Friday in Pakistan, sources say Axios",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UMjFTb2NZT3UxRG9XS1pGdTBfcG9SaDMwVnhHX0VKTHJtOVlUbzBKVlpMY29GeE1vRFUxc3J6VHFGY2pFMk5LMWkxa1gzelVyQ20zWDBmLTRUQTBKdmNnb3dqYlFQWnlPNXZJ?oc=5",
+    "source": "Axios",
+    "published_at": "2026-04-07T23:48:45+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 23:48:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d3a71374305dd74574dd06edd35ccad621087708",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports of expected U.S.-Iran peace talks in Pakistan indicate active diplomatic engagement.",
+      "event_key": "us iran peace talks pakistan"
+    }
+  },
+  {
+    "title": "US and Iran agree to 2-week ceasefire as Trump seizes diplomatic offramp - news8000.com",
+    "summary": "US and Iran agree to 2-week ceasefire as Trump seizes diplomatic offramp news8000.com",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeHdyTnFKbWlaa2VETjE4QUE2QmFRYzVUc2w3Tl9GcGpySU9vWTUyLWV5OXJyQWNGNFQteDVQN2JhdWxDbk53dHFSUDhBQjYyem5Rdjd4WG54X3htT09YaHNmTmJfTURnYWlXak1yZDVzRno1M0ZUYm16Z3dObGpscjVXRWF4MEU4V3YxZ3dLOFZadWN2elpBNG9Lb2lGc05GbjBSLTBTLWswa28tSmFGVWZ2eG5HSXVNVEpGYnlRRkg0RnFScWZLRUxRRTU4aU9BWEY2TEVnLVlkRmUzX2hSNEtsLUpfN2Vjb2h4c1hkYzZiZnZSa1YyUWZSRQ?oc=5",
+    "source": "news8000.com",
+    "published_at": "2026-04-08T00:38:00+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 00:38:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "15e2ea561d43a5b634e9d7564f7a2d6ab90bd1ea",
+    "article_id": "fee351b9caa1458901f075d0bddceba9c858e309",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports of active, 'heated' negotiations between the US and Iran.",
-      "event_key": "us iran heated negotiations"
+      "label": "ceasefire",
+      "strength": 0.95,
+      "reason": "Explicit two-week ceasefire agreement between the US and Iran.",
+      "event_key": "us iran 2 week ceasefire"
     }
   },
   {
-    "title": "Iran warns retaliation could cut off U.S. and allies from Persian Gulf oil and gas for years - Tehran Times",
-    "summary": "Iran warns retaliation could cut off U.S. and allies from Persian Gulf oil and gas for years Tehran Times",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWJ1dFU5YXpzV2JoZklEb3NaamdUZzBPbnd4cy1oLTAzWmdSSkp4amFEenl2YW8wM3NZZWpuTmZFNnZCQUhjTlNmRTg2Y1o0ZjY3VEowWU93ZFpGSXI3UmNXa1dTcEV4RkhEeUJfQlQ5T0VmanFSYkJpSUd3N3d1amRfRFRBUVpaNnAyLXF4eGVCSXRwMGJnaGplaXJHR1MweDVnUzkyQQ?oc=5",
-    "source": "Tehran Times",
-    "published_at": "2026-04-07T20:15:01+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 20:15:01 GMT",
+    "title": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts - KRDO",
+    "summary": "Visualizing the US-Israeli war with Iran and retaliation in maps and charts KRDO",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkl3MGFuUEUyd0ttMUozQUNVMGRfQmszeVVGNWdXbUVKY0oybm1iWnhORTEzOTJDQUtiYzl5YjNHV1JCU016bnlpMWxDVzdkbjR2dUhiLV9FaEJQMEtCNlZQNHBwOXdyUVMwZmpTdFdwcjRXcENhY1Z4OXZLbUxrdjdGclFjN3N2Rlp6RUZ6dTdoN0pkX0ZQNXdvQTh0X3hTcUVhaDBEdHhGdUQwRFNv?oc=5",
+    "source": "KRDO",
+    "published_at": "2026-04-07T22:20:01+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 22:20:01 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "504182c3a1d51ba4894806674cb9dacdef0aaa0b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Explicit Iranian threat of long-term retaliation targeting Gulf oil supplies, increasing tensions and hostile rhetoric.",
-      "event_key": "iran warns cut off gulf oil retaliation"
-    }
-  },
-  {
-    "title": "Trump’s apocalyptic Iran warning raises stakes for sweeping US strike threat - WFIN",
-    "summary": "Trump’s apocalyptic Iran warning raises stakes for sweeping US strike threat WFIN",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0tMVGtrRmFYak02QWFBMU1YZTJvbUs0M0tnbjVseV95SFlrYUw5dS11ajJReWRmN1dOYnM4Ui1PZXBBZmtpQ2xiYjlhUWctLUN6SnNJNmNKeEpLbmdmeTluUjBpTkxQTmt1Q3U0MkFzNE1kU0NzWnBiOU5jeXA4Zjl4WFZXdm5VOUpqOW10V0VhRE9qSW5oUUNlTUxaVVpYbHcwMVJQOTE0MFhjc0JIcDFB?oc=5",
-    "source": "WFIN",
-    "published_at": "2026-04-07T21:08:33+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 21:08:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "386091f794428532cc0b3dd35c12328302ee1c66",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Presidential apocalyptic warning and sweeping strike threats signal rising tensions and hostile rhetoric.",
-      "event_key": "trump apocalyptic warning us strike threats"
-    }
-  },
-  {
-    "title": "The Iran War: Is Trump Looking for Exit Ramps or Escalation? - Arab Center Washington DC",
-    "summary": "The Iran War: Is Trump Looking for Exit Ramps or Escalation? Arab Center Washington DC",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnFaeENqVktKVndvZjZJR2NJdnZXWDd2eVJqV3JjR3VfTUNvSW9nUkhGcFNPRmVySEdzN0dhWEd4LW5vWUZ5NklsU3dya2IyeTBjaHRBV1I4X2cxeEdCX2FpUnRHS3c5Qk40MHNHeGhQM1ZueFMyV193Q09Ka2c2QjFRdEpzYTNwVm9FYnJCb0NBb1NJOFM2SA?oc=5",
-    "source": "Arab Center Washington DC",
-    "published_at": "2026-04-07T21:11:15+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 21:11:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a8d55cd837278b00f6ca5c2c177ae70de4601f43",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Analyzes potential for increased hostilities and Trump's choices between escalation and exit ramps, indicating rising tensions.",
-      "event_key": "trump exit ramps vs escalation"
-    }
-  },
-  {
-    "title": "Trump’s threats to “end” Iran in one night spark backlash across the US - Peoples Dispatch",
-    "summary": "Trump’s threats to “end” Iran in one night spark backlash across the US Peoples Dispatch",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM21CSFhtdXlXdmRiRG5Ic1BRc05SbWdCcnVoelVfQVpFT3cyLVRydFV6Rnp6R1g4QjltSHctUUlKMmY2WTdPWDVYb1FZM3cwajB6WGRtM2NUcVRpYkZqSWRsNDI2U1VPMGpRclplc1FRblRHcUtKVjNyU2laZ0NLWERVM2x3ajRucmFzMFplZlJMS2tSQ3NfMEVsVE5WSWh2a0s3SWJRZzYzTE9i?oc=5",
-    "source": "Peoples Dispatch",
-    "published_at": "2026-04-07T20:18:32+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 20:18:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6cdfbda05f2d1cf88ee91c5c30419e7ffbb691aa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Hostile threats by a U.S. political leader signal rising tensions and escalatory rhetoric toward Iran.",
-      "event_key": "trump threats end iran one night"
-    }
-  },
-  {
-    "title": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems - The New York Times",
-    "summary": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVm53YzZjUGdqUmM4S1N0SWY1cmlmZzZKU2pURUlYeGU4RVB0ejU1cVFJT2xXV1VBM244UWNIaGJrdzZQVVhBN3RFbnFqbGNVS25MZUxrVFMyQ2pmZU1VMjg3d3I0bUI1bjVNbWtHd1BXcW5VcGJmRjNwSWV2UzNFMUxEbw?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-04-07T19:01:23+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 19:01:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5b8ad331ab256c57ae45aac8a5f8a326e1403942",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "U.S. warning of Iran-linked cyberattacks on water and energy infrastructure signals hostile actions and rising tensions.",
-      "event_key": "us warns iran cyberattacks water energy"
-    }
-  },
-  {
-    "title": "The Latest: US and Israel strike Iran's oil, rail and bridges ahead of Trump deadline - expressnews.com",
-    "summary": "The Latest: US and Israel strike Iran's oil, rail and bridges ahead of Trump deadline expressnews.com",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzBQclktQUtESDdhQ1JRYWJvWXdUakJYUVN4RklHU0oyLWFHR1RlV3FrVjF0cnJkWi02ZVJwelJWbncwNXNkSEE3VmdWa0RGUjJnZnFocVVqM2RVcGV4SFhHRWVIQzNHNmNFX3lpcmM0VjhZSWpVUkhscDZ5MzZDVlkxZlN3enZPTUVsZ0Q0aE52THhHVUlkNjlMMA?oc=5",
-    "source": "expressnews.com",
-    "published_at": "2026-04-07T19:47:31+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 19:47:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b4d01ed0c0d4ca46424f9c2ebfcad92a01c2b3c9",
+    "article_id": "adf5fe1137ab0747907f02526f1d19ab2d2b728f",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "US and Israel conducted strikes on Iranian oil, rail, and bridges—direct military attacks.",
+      "strength": 0.4,
+      "reason": "Visualization focuses on war and retaliatory strikes between US/Israel and Iran rather than diplomacy.",
+      "event_key": "us israel iran retaliation visualization"
+    }
+  },
+  {
+    "title": "Retired military intelligence officer says US might have underestimated Iran's retaliation capability - fox8live.com",
+    "summary": "Retired military intelligence officer says US might have underestimated Iran's retaliation capability fox8live.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb3UwWXFKNm1oUmhkLUxsMW5OUVZ2SVlvZWxLVXFYUGJnWlBkaUd2NkNCSUtWaGxLU0Q0MlBaclVZSXh4aW9RbDFpOXJLZW1FazdGMHZwbHFGOHJBWGRuNDNMM3NEUVhITHZnOEVQd3lHSE92V2pZTDhMZEk2QUhmampFTFcxOXhjbzE4NWRqYVlkMjVaUWIwN0tHbHZUSkYtM0dRSHpSaDRRVVdaemQxeVdJXy03aWtpWDlmSFI5U1RrRnY2anRadlFRSmZ5a2Vqc1V5UnRmYklvSHM?oc=5",
+    "source": "fox8live.com",
+    "published_at": "2026-04-07T21:48:20+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 21:48:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "45a59782f2841aee370e9757ca3e1225c76c79a9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Retired officer warns US may have underestimated Iran's retaliation capability, signaling rising tensions and potential escalation.",
+      "event_key": "warning us underestimated iran retaliation capability"
+    }
+  },
+  {
+    "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
+    "summary": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXFpUFJXSmRYZEpGTUFyZXdRZ3BKMldQMmI5TmVJWGdTY3V0TE1DZ2g0UnlUU2JZWTJjZkpRODdUdzVBU1hQVFMxeUNLR2xVMnZld0lkVFdRVElSek9mV3FpckZxcnFtX2RGdTM0Y2dMUWdCektqdVJWWDZWZ0J4ek1xeWdWMzVTbERTdmJtRHJuMWRrY1FlZXgyVnhWVjNRbWFwdw?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-07T23:15:21+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 23:15:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca9083ed86e1afee53dd107e670353c6e318fef3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Timeline centered on attacks and military actions in the U.S. and Israel campaign related to Iran.",
+      "event_key": "us israel attacks against iran timeline"
+    }
+  },
+  {
+    "title": "The Latest: US and Israel strike Iran’s oil, rail and bridges ahead of Trump deadline - IPM Newsroom",
+    "summary": "The Latest: US and Israel strike Iran’s oil, rail and bridges ahead of Trump deadline IPM Newsroom",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWm9LR0dTRm1GQ2M0MGJYcmdQYTlmQjVWRHgwcnhyVk5yMEtQaWVDcjVGcm5VTWJaVGVveEVxMXhadXYza2I2ME5EVTFjb25HY0hWQnFxUDNCeWU3QkRjcGN4RFp3dngxWk5rMXJEUGJvOTBCU2dQWm1jR1M3bEdBbUdmaGlXYXAwLU5FNHFKdWRqTTBURHcyY1hFVjdmMVNJRVZCYUhqR0h6dnM?oc=5",
+    "source": "IPM Newsroom",
+    "published_at": "2026-04-07T22:00:00+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 22:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "742b1d38d47830b72b12adfd660c2269b092f1a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US and Israeli strikes on Iranian oil, rail and bridges indicate direct military attacks.",
       "event_key": "us israel strike iran infrastructure"
     }
   },
   {
-    "title": "Houston Iranian-Americans react to Trump’s “civilization will die” warning to Iran - Click2Houston",
-    "summary": "Houston Iranian-Americans react to Trump’s “civilization will die” warning to Iran Click2Houston",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3R2dkVoNmNiNnllWkNQajI4a0M0NmZwQWd0REFCQ2xYeE9oYkJiYndMTklTRTZ0RjZtN1pFeFRLOTRZMjdqb3JSUVpjLWJXREZSVGZNQTVtVkFSdDY0MEUtR21xRjU5R1FlcTQwTVdWQWd1SldBYmY5TTRLcDEtWXFLc3VUVVk1dko2Tm4tSGJPbDhYSWpjMUd1TzZTVmVYQ3duSlB0UjRjMWUtZlNLSGF5eV9XX0JVMWxjZzd2QjVzUUJyMEltRUk3VWY?oc=5",
-    "source": "Click2Houston",
-    "published_at": "2026-04-07T21:20:41+00:00",
-    "raw_pub_date": "Tue, 07 Apr 2026 21:20:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72b8a261fc6e44119f9b6107e66b579a9a882c1a",
+    "title": "Pentagon Stays Mum on School Strike, Even as Trump Boasts of Iran Rescue - The New York Times",
+    "summary": "Pentagon Stays Mum on School Strike, Even as Trump Boasts of Iran Rescue The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTRySUZDYVV3NURoWUtSR1BNcHI4OU1LelRnU3pPUkY1Y1JQdnNsSjZKVUZHUGJpQXlRWGN0by1ib2FCYmJ2MFkzeWR1UFMyWnZqeUhBSGhESnNqQmxUUVRLSGFLb2ZJcTdiU0pRWHJpVXM3bnNuZ3pvYkdJY3NjUkRFRVNDUzdMdFhCaQ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-07T23:52:21+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 23:52:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "45bc3db76943d522db667676bf08e3839b27fb46",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reports on a U.S. strike (school) with presidential comments and Pentagon silence — direct military action.",
+      "event_key": "us school strike iran"
+    }
+  },
+  {
+    "title": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran - The New York Times",
+    "summary": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXdlX0ZnczRiekt1V19adEhaNFZONEVfaEplX1lxT1JObmtvc2FYd1Ytai1MYmxLMW1TY3dieGVYYjF0a0JmTlFiU0tyMjU3bnVyZ1Q2THdvQTI3dlE3aVJlR3dSZUcyMXNYY0dqS3ZVajZVMXl2SGJmcUhWWWlwdQ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-07T22:21:01+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 22:21:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "93ab198bc5bfca090a755c6fa7738d0547423299",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "UK barred US use of its bases for strikes on Iran, signaling restraint and limiting escalation.",
+      "event_key": "uk bars us base use against iran"
+    }
+  },
+  {
+    "title": "Iranian Americans weigh in on the escalating conflict in the Middle East - WTVR.com",
+    "summary": "Iranian Americans weigh in on the escalating conflict in the Middle East WTVR.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekI3UEJpMFR6YkE4MENtd2hXNy1jd2loOXo5MW1jTWpWV0llTlFnZGhJWWFtNnVtVF9heGNqd3V4eU5JM2hmVUpQMG10RzRkM1BOa1p5VW1paV9oeExoaTA4XzVFSGxlN1Rxbk1oNGxiaEtDcFUwU2VjYk90S2ZfdHRyWFV3eGwxc1I4?oc=5",
+    "source": "WTVR.com",
+    "published_at": "2026-04-07T22:04:30+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 22:04:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1ecb9dd13d507ad7bdd87332dd19117206d4d051",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Opinion piece on Iranian Americans' views, not a specific Iran–US diplomatic or military development.",
+      "event_key": "iranian americans comments"
+    }
+  },
+  {
+    "title": "Iran confirms US talks, says ceasefire hinges on finalising 10-point deal - investingLive",
+    "summary": "Iran confirms US talks, says ceasefire hinges on finalising 10-point deal investingLive",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUEwUC1qSEFsWE56Uk1CeWxiQm5vMnpEQmpldWtKN2JOZWYwN0syY2FSb1ZRVXppM21CWGpZWnhCMktndjY0U2ZsdHQ2QjBCTUNCUHNaRGlEeWNSZmE0cWF4QWJJSHVWdFd5eHVjcDZ1bXpHcXJzMTc1cURwVTdNRHY4M2QzNmp5cWJlbF92UWF1S3FnQjgyQXh0QzdfaGRLOF9PNHpfNjFhWklMWVZpQjROYngxQmZueHk1ZdIBwgFBVV95cUxQcTlUQ1FiUmM0UWllSTR2ZUYxOURyNzRraXRmNjZvbVdhRDIxNGVocV9sWHI0VENrMEpVMHM0aTJiWG44eVFaZS1sckNNWTY1Z1AtcXRWZkJKQWE5dU02aUptU2x0Yzh1dmpOeFJmcHpYY1J4V0hpWWR6T3NlWHk0UUZibjdnQkx4RnR5eVJOcUFCMnRBZ3VWVWdteUZ0c2lBcFJOeC04VTBSTG5sTEJ4dXJSZXI0dXhEaW12SE9nMW5pZw?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-04-07T23:24:19+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 23:24:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d3fd728e7a5415d51731bc1d42a6d56edf9d66f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran confirms talks with the US; ceasefire contingent on finalizing a 10-point deal indicating active diplomacy.",
+      "event_key": "iran us 10 point ceasefire talks"
+    }
+  },
+  {
+    "title": "Gold, silver rates today: Gold prices climb to $4,800, silver prices surge 7% to $76 after de-escalation in US-Iran war - livemint.com",
+    "summary": "Gold, silver rates today: Gold prices climb to $4,800, silver prices surge 7% to $76 after de-escalation in US-Iran war livemint.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMG9WRVgxLUF2RU85STBnejZmdk9Fd2RrOEtwczhBaXphYnlzMjBlaXZ2SHV5Y09wYjFCb25XbkxrUDVzS1VlYVhacE55c3h0Z3ZGazFaWURyV2had1Q2YW9vQTlSVWtHcEZkYUJFeWxRT2ZKSlNsUDg1ZzZmQnlIS1oxaWktdlU2c204T0RwR1YwRmRuOW1rUFJLMTFZSG84UndicERaVENhWHBoc3g0bFdsMTFVblRBTnNwOUs2dE52dFdZOHYxR1NqRnFERnJRZm1VdGRlcjZaT04yR1J6UEluZ2hodTRHTjRITTRmZTEzX0lXbEFTem9WdHNiSzNRa1VnRFl2WU_SAY4CQVVfeXFMTnFXalkzOVNzMjdvUlN3MnIyeFA2MUxZZjc1UEgweXNISjhsUUltTU1HTWhTQlE3aXE4aWRpS1F6S2RmeDlYem5OYU83SXFYWThjeHVlTVZDSjdSS3BWdkk3QmNiOS1KYUw0c2h0SDFtcV9jRzFxdnRTMmRQYzM2QVpya28tY1RJN3JLcGRwQkh1Rl9PSU9wbXp4X3JLYzJEaGQxTEppeU1DaEdqaV9Mel90YlJjMnhmck1TX0FLenlRMS1jaExOcEhCSkw4ZDRteVRUTmdWbl9CNVVtLTFNNlpZeDBELVhIRUUzNHhiZUVIZ0FWd2hENVB2NFplLUFmTm9JRGQxeU5IRGVZYUF3?oc=5",
+    "source": "livemint.com",
+    "published_at": "2026-04-08T01:17:12+00:00",
+    "raw_pub_date": "Wed, 08 Apr 2026 01:17:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aa649dcf6fb210d68e23d19fe10f281fcab6115f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Covers Trump's hostile warning to Iran and reactions—threatening rhetoric increasing tensions.",
-      "event_key": "trump warning to iran reactions"
+      "reason": "Article links metals rally to reported de-escalation, not an explicit ceasefire or military action.",
+      "event_key": "us iran deescalation market reaction"
+    }
+  },
+  {
+    "title": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say - Los Angeles Times",
+    "summary": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDlra2pVUGR1aUpyTE95cWtmUVdqaGk4eVZsMmZubW5ITldoWk8yelJTb0FnYUJIVzVYVmlkOThrOUFYbFhEbFZkOXhLd2lYSEZ3TmN0MHp2VmNwS2lESkN1Yy1hMGgzaDdtWlhCVFNqODNWRExRU1hZeWRfMTdrbDg4YXNab3JkVTFBdnBjaGNUZjN1M016MlJlekJDVVp4akFnR0R4WS1qclNxNDcxYUwtMlFWN3NEVlphVnFXNm5PYUtVY2s1Yg?oc=5",
+    "source": "Los Angeles Times",
+    "published_at": "2026-04-07T21:46:00+00:00",
+    "raw_pub_date": "Tue, 07 Apr 2026 21:46:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "91ff95dd52ea75f91f28af5698dd94c6b2b5836d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reported Iranian cyberattacks on US critical infrastructure are direct hostile actions.",
+      "event_key": "iran cyberattacks us infrastructure"
     }
   }
 ]
