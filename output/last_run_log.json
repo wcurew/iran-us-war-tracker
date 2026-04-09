@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-04-09T02:04:12+00:00",
+  "started_at_utc": "2026-04-09T05:07:33+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-04-08T21:39:34.714035+00:00",
-  "window_end_utc": "2026-04-09T02:04:12.688752+00:00",
+  "window_start_utc": "2026-04-09T02:04:12.688752+00:00",
+  "window_end_utc": "2026-04-09T05:07:33.800126+00:00",
   "steps": {
-    "raw_fetched": 360,
-    "time_filtered": 55,
-    "keyword_filtered": 24,
-    "deduped": 17,
-    "after_seen_filter": 11,
-    "classified": 11
+    "raw_fetched": 330,
+    "time_filtered": 21,
+    "keyword_filtered": 12,
+    "deduped": 8,
+    "after_seen_filter": 4,
+    "classified": 4
   },
-  "finished_at_utc": "2026-04-09T02:05:16+00:00",
+  "finished_at_utc": "2026-04-09T05:08:09+00:00",
   "summary": "협상·완화 신호가 일부 보이지만 아직 중립권이다. 확전과 완화 신호가 혼재한다."
 }
