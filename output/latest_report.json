@@ -1,38 +1,38 @@
 {
   "date_utc": "2026-04-10",
-  "generated_at_utc": "2026-04-10T10:08:12+00:00",
-  "window_start_utc": "2026-04-10T07:25:00.288945+00:00",
-  "window_end_utc": "2026-04-10T10:07:10.078583+00:00",
-  "total_articles_classified": 9,
-  "relevant_articles": 9,
-  "negotiation_count": 6,
-  "ceasefire_count": 1,
+  "generated_at_utc": "2026-04-10T13:06:56+00:00",
+  "window_start_utc": "2026-04-10T10:07:10.078583+00:00",
+  "window_end_utc": "2026-04-10T13:05:25.344089+00:00",
+  "total_articles_classified": 13,
+  "relevant_articles": 13,
+  "negotiation_count": 8,
+  "ceasefire_count": 0,
   "deescalation_count": 0,
   "escalation_count": 2,
-  "proxy_escalation_count": 0,
-  "strike_count": 0,
+  "proxy_escalation_count": 1,
+  "strike_count": 2,
   "irrelevant_count": 0,
-  "negotiation_ratio": 0.7778,
-  "war_ratio": 0.2222,
+  "negotiation_ratio": 0.6154,
+  "war_ratio": 0.3846,
   "avg_strength": 0.75,
   "median_strength": 0.8,
-  "avg_positive_strength": 0.8071,
-  "avg_negative_strength": 0.55,
+  "avg_positive_strength": 0.8125,
+  "avg_negative_strength": 0.65,
   "avg_source_weight": 1.0,
-  "article_raw_score": -5.9066,
-  "event_raw_score": -5.5805,
-  "batch_raw_score": -5.5807,
-  "war_batch_score": 38.37,
-  "negotiation_events": 6,
-  "ceasefire_events": 1,
+  "article_raw_score": 0.8639,
+  "event_raw_score": 0.8628,
+  "batch_raw_score": 0.8628,
+  "war_batch_score": 51.8,
+  "negotiation_events": 8,
+  "ceasefire_events": 0,
   "deescalation_events": 0,
   "escalation_events": 2,
-  "proxy_events": 0,
-  "strike_events": 0,
-  "war_smoothed_score": 41.28,
-  "trend_delta": -2.87,
-  "trend_label": "flat",
-  "trend_label_ko": "보합",
+  "proxy_events": 1,
+  "strike_events": 2,
+  "war_smoothed_score": 49.0,
+  "trend_delta": 6.51,
+  "trend_label": "up",
+  "trend_label_ko": "상승",
   "oil_signal": "약한 강세",
   "defense_signal": "약한 강세",
   "airline_signal": "중립",
@@ -42,90 +42,111 @@
   "summary_ko": "협상·완화 신호가 일부 보이지만 아직 중립권이다. 확전과 완화 신호가 혼재한다.",
   "top_negotiation_articles": [
     {
-      "title": "US-Iran Talks in Islamabad: Five Things to Know About High-Stakes Negotiations - Kurdistan24",
-      "source": "Kurdistan24",
-      "published_at": "2026-04-10T08:26:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZUw3d01fcU1NZngyVW9MTHdhUnRvRWs5NzZHZkdRclBWaEJfaGlMMkt4azR0UkVyenFJLUtzUU9mNWZYWGhqTjVGZS1OcWFrQ1c2RDVZelB1QVdiTmhXWlpFZzBEZzRrX2k5RElPOUdYSlBRdWo2NXRyVjc5Vjk4Z3VCOWNPcUFDbXlHeWd3eld3bWFoR1Z5R29TMTJWdVBqbzc3UDY4X1ZRTFU0VHhnZmZjRm0tbkt2SWlrYTNR?oc=5",
+      "title": "US and Iran prepare for ceasefire talks as Netanyahu authorizes negotiations with Lebanon - The Denver Post",
+      "source": "The Denver Post",
+      "published_at": "2026-04-10T11:04:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUTdRNXFVcVl3Z2s0QWlaVW5JMmtQOVMyQl9jbkZaUVNHN2x0aWREM1YybkFaM2JRdk5xVlVpVzlxWUhUZ2dVeWpKOVFFRVJabmxVNU81bVFqXzFieXZScDFreGhyNlotQjUxNXZDTmlrODBK?oc=5",
       "strength": 0.9,
       "source_weight": 1.0,
-      "reason": "Reports active US-Iran diplomatic talks taking place in Islamabad.",
-      "event_key": "us iran talks islamabad"
+      "reason": "US and Iran preparing for talks to negotiate a ceasefire; active diplomatic engagement.",
+      "event_key": "us iran preparing ceasefire talks"
     },
     {
-      "title": "Video: Pakistan Prepares for U.S.-Iran Peace Talks - The New York Times",
-      "source": "The New York Times",
-      "published_at": "2026-04-10T08:17:33+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFOUHA2SUhKSUZQTldJZUhIUVhzMWxYdkZobjFBaTZjMVQwd0ctNV9ubHlDLVJDbElhdTZ5eWQtY0tjdkJXbE1ibDFkeVZOWnBDeG1ackR0WGtFMTgta3ZHVmFjMXV4MkpSQzlMZVc5VmpSMV92WlgyOVV1amtrZXFjZ1hKUUhDQVZJQWVkOHE0Rkl4MnVxOUt1dE10OHlUOFE?oc=5",
-      "strength": 0.85,
-      "source_weight": 1.0,
-      "reason": "Pakistan preparing for peace talks indicates active mediation and diplomacy between the US and Iran.",
-      "event_key": "pakistan prepares us iran peace talks"
-    },
-    {
-      "title": "US and Iran prepare for ceasefire talks as Netanyahu authorizes negotiations with Lebanon - NewsNation",
-      "source": "NewsNation",
-      "published_at": "2026-04-10T08:21:52+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcWRjSGtFRGlxZ09IX0xCT1BvU0pWSC0xRUFyOC1fdHhvNGxCQzFlNWdmeEktXzBFVTNwaUxlMHl1TjRqdldmbm9GaFZlbFk1SHRCVWZ4bVVabTlsQ2gwLWExTEpLd01fSm80OW1ZM21KWVNzN2dFaE5hUjNxV2xaZEpIRnk0cF9NOWZMM1ZxeW5yVU83ZzdLSWd1eHdYQUQ2TzlfSmVUQy1EdHlDRG5NVzlaQk1SSUV3bS1va0dLVFhGNmowRTV5Q3lUT19wd0cwTWVBbHFxZ0ZjU3dNV3dtNllMdTctTTEzS0HSAe8BQVVfeXFMTnFOQkRyZS1ON1F0Ulk0aVpqSmVydU40REZ2T0Z2bVlrNHFhSG1zMm1SSGFOcDdCZmJHd2JmQnMxYTZFYi1PRmpVLUhYclJNYVhqODJ1NlFRNzBONDJvaVhSQWJtLUY5TW5saVZpcEhLNkpudTVxYnB3bUN2RmVVckZoUE5yZGpCY0NTZ3VDRFBIam9GUVotU2hnVUNQREFnZUlOUmFTLWhOLTE2ZFdMdi1zel9hSzVaakk3cVh6RkxOejZ5QTVJdDY2ODJlLUtwMm1ORklOc0RnRUdZYjRDM0JiZERvNm5pV3RuV1FIbHc?oc=5",
-      "strength": 0.8,
-      "source_weight": 1.0,
-      "reason": "US and Iran preparing for ceasefire talks, indicating active diplomatic engagement.",
-      "event_key": "us iran ceasefire talks prep"
-    },
-    {
-      "title": "Pakistan prepares to host US-Iran talks as ceasefire remains shaky - Euronews.com",
-      "source": "Euronews.com",
-      "published_at": "2026-04-10T09:41:47+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEtQTnJaRDFsRm9Iek5pUTF4TFdLaHFKOHNVYWlhS1BmQXU4ZUROZzBkVTBOSmF2U1hIMzN6SnJ4ZmltTEI5OG90VmdXS09SN1JnYkdwZzJRb29DWm95bU9yZVZ0enhpNGhvM1FOaVB4WDVYSzNZNWhTNjVFVzNlSFNVa3o5UjNQcUctTWVRLVFOQzFzS2N5Q2l2bk5GaTd5RkRNdg?oc=5",
-      "strength": 0.8,
-      "source_weight": 1.0,
-      "reason": "Pakistan preparing to host US-Iran talks signals active diplomatic negotiations despite a shaky ceasefire.",
-      "event_key": "pakistan hosting us iran talks"
-    },
-    {
-      "title": "Putting Fuel on a Ceasefire: Israel Tries to Kill U.S.–Iran Talks - theintercept.com",
-      "source": "theintercept.com",
-      "published_at": "2026-04-10T10:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRUFoay0tY0tVRVpyRGFfR202UThmSGprV2JOQVZMZmRkeHRzYXhocXhpT1M1VDYzVnFJSG5abUtqSG5IRW53SnBsZUF6eTkxUWRsUU5ZdlEtVjBCSFJKOUJRRGF0UmtIM0E?oc=5",
-      "strength": 0.7,
-      "source_weight": 1.0,
-      "reason": "Covers efforts by Israel to undermine active U.S.–Iran talks/ceasefire negotiations.",
-      "event_key": "us iran talks israel interference"
-    }
-  ],
-  "top_ceasefire_articles": [
-    {
-      "title": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat - Al Jazeera",
-      "source": "Al Jazeera",
-      "published_at": "2026-04-10T08:37:30+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjRRenVkZ0RJU2JCUzd3VVd0TWd1QkFYanN4UUpDbnR2RGxTUUNnVUlUZ0Y2Rzh1U2txejZBb2RkSGdpX1hfVVRkTzhEdUxWRmxsUVJfUTFzSUcybUE0TVVyN255WFczNXd4Y29IUExPV0VlcVoya2h1VUw5czd4WXQ4UXRtUVRjUjc0Rk01MThfaW92eWdjeFRJNU0tazRiUXpJYTJYX1d4WUhHOFVGdklIZ2gycnFMdnfSAb8BQVVfeXFMT1R1emlmTW1ubFRZREQ3cVNyeWdpZk9QTHFvWjFnUDNoZnRqWVAzTFdoMEE4TkRSb1VRUkVMekxvcF9mQnBpZFdmZlVOTktyZlFMRlhZOTA1Y0cyWS1xbEgxLTNVQnQzZ1ZnV3RsdERWSVBBTWVjd1dRSng0UlAzZm02MGhsbUpxcmF2U2tha0NrUmZDZVJ5OGlFRGpYUE1lcl94U0ZHSV9xaTNQVkdRcFFpX3hXWmhJWW5RbktxSEk?oc=5",
+      "title": "VP Vance to lead U.S. team in Iran peace talks. And, Artemis II to return to Earth - NPR",
+      "source": "NPR",
+      "published_at": "2026-04-10T12:02:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU5xWFpVMENaVjl5WEtkY25RN3pzd3FJQ3ZZWnV5eGJYa05kQkh2LTNONVA3WlpfdVJuTF9pb0llZFJoVzhTWGt0M01tOUJmYnhFTlFUdnBDOFl3NVhMOVJESUNBcG9ZckdzZDlNVGw4V1hPSVk4TUNkak9kWDRKcWtPVXF2T1p1SW81TjktQ2ZBVXR4RTRpZjlDaVZvZmZRdUpKY1dnMFlxRFdyS1FfdVhLMlo0bUJLUnNkLW43UFU?oc=5",
       "strength": 0.9,
       "source_weight": 1.0,
-      "reason": "Article explicitly discusses an Iran ceasefire, framing it as a life-saving measure rather than a US off-ramp.",
-      "event_key": "iran ceasefire analysis"
+      "reason": "U.S. VP leading a team in Iran peace talks indicates active diplomatic negotiations.",
+      "event_key": "us vp vance leads iran peace talks"
+    },
+    {
+      "title": "Could the Islamabad talks end 48 years of hostility between the US and Iran? - Middle East Eye",
+      "source": "Middle East Eye",
+      "published_at": "2026-04-10T11:45:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEg0X25XZk9iWjZJeUFZWklxVmZENmVNakNLYlg3VmdLamNpS2x5NlRZU0ZmaE5lclFsMVJuSEJFczZKMGRfVTExTU00QU5ma2xEMWRNX1ZaTlk4cXpQWVd3LVJkR0w2cmd1VUd1cnN3ZlkyUVFJUlNscXByNGEyYmtvLU43czNwSnMxeUk0Yi1XeEQ4bkZtYi1QQ2c?oc=5",
+      "strength": 0.9,
+      "source_weight": 1.0,
+      "reason": "Discusses Islamabad talks aimed at ending decades of US–Iran hostility, i.e., active diplomatic negotiations.",
+      "event_key": "islamabad talks us iran"
+    },
+    {
+      "title": "Vance warns Tehran not to 'play' the US as he departs for negotiations aimed at ending war with Iran - Union-Bulletin",
+      "source": "Union-Bulletin",
+      "published_at": "2026-04-10T12:54:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQblFtYkhZMFAwRGhab2FNd083R256eTFNUV80UVF6eDVKUlR6dzU5UURvWHBHVVI1WXZlUFc0TlFoMklpQnJsZ1J4MzNOSS1wRjZKb0YtdDR2MWM3RjVJRzZTUXd5MVNxc3RDXzdheFdEX09VRUdpbkxlMlFYOEFJMDRPa0JUSmNyOTFJNzNRRFFBUHJmRWJEdFRxaERTTUtjWkFpSXYxZ0NzdjhXMHZocXdhOV9MbFVqYnVRLUhieEtQZnlleDhYT21fRXdFRXY4VjRMR0VJNDNpd0RKV1ExcWluWVdrd3I2aEpWd29MYVFXSHZiOTlOQ1VFQTdWbko3LVE?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "U.S. envoy Vance departing for talks aimed at ending the war with Iran; active diplomatic negotiations.",
+      "event_key": "vance departs for iran negotiations"
+    },
+    {
+      "title": "Islamabad prepares to host US-Iran negotiations as Trump casts doubt on ceasefire | First Thing - The Guardian",
+      "source": "The Guardian",
+      "published_at": "2026-04-10T11:35:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWFpUGRlV2ZvaG94MXRsdjloZXUwSnJUWTZoS3psT2pydjFIZFM4X0o4RTdma1JsOHpWRjZiTmpIcnd0enRYV3M5cDBQUDMyYVBZcDRmMXFjWWtQNEN6ZHBYR3Mtand5S0MxRkQzRlhYem5fMjZiSFBtc3BSMURnSlIyM1RUSU9MSmluM1E3cVA3QXIwZWpIag?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "Islamabad preparing to host US-Iran talks; active diplomatic negotiations being arranged.",
+      "event_key": "us iran negotiations islamabad"
     }
   ],
+  "top_ceasefire_articles": [],
   "top_escalation_articles": [
     {
-      "title": "Iran Warns US Against Netanyahu's Efforts to Undermine Diplomacy - Caspian Post",
-      "source": "Caspian Post",
-      "published_at": "2026-04-10T07:53:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajR3MEJpbEZ4R002MUdaZTJqai1maVpHSERmaW00a3Y5d3FCM0RnXzRqYlA3bngyVmtEYlV0WmYyZTRuTkRuQ0tpYjVGMDFwdEdMOTdkNzF6MlNBV2puamJ4bEhFLXNsUWszNnMtd0luMk1wUDFCMWNneXNyRFlIZGszU0hjNmx1YWxfMXN6YlhEVnV5LVR6UQ?oc=5",
-      "strength": 0.6,
-      "source_weight": 1.0,
-      "reason": "Iran issues warnings to the US, signaling rising tensions and potential diplomatic breakdown.",
-      "event_key": "iran warns us netanyahu undermining diplomacy"
-    },
-    {
-      "title": "Taiwan can learn from Iran's horizontal escalation of the war with the US - Nikkei Asia",
-      "source": "Nikkei Asia",
-      "published_at": "2026-04-10T08:05:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG40azBzajgtei1JY2NXbk1IeGtNSTNyM204aEZWZHpRdDlkTDFoQl9CR3ZiVjNpY3d3X0hoX0xlYnlraTFjRE9qeHJwS1dYcUtaS1U2b3ctM3ZETk5tSWJyY3BWMVo3OUhrZWwwS05sLXh2YXpUTi1hTW9jTkxrZG9CSVV0ZXVEMWo5b3JLUHBJU3U1alFraTJqb3VSTHBlNUpnQ0VRa3M?oc=5",
+      "title": "Pete Hegseth’s holy war: the militant Christian theology animating the US attack on Iran - The Guardian",
+      "source": "The Guardian",
+      "published_at": "2026-04-10T12:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3lHNGJGQTFJSjNwbzlLMFZ0SGZCWUY0YURJNGFQbjZhSGZmVFJGbVFlSDBMMExyaXB3RzAtTlJwODRKalJfd3gxczlPdE50bmk5RDAySm94dWtWbHA0bGhRbDhKYVRoTnN4OElWa2VpcEZMek9EeWtneUo0MXVIenVqYmx4MXlGVGVRdFRJWmwxV0xfUVhZTDZHelZJQ1FGRkFPT0FWX28?oc=5",
       "strength": 0.5,
       "source_weight": 1.0,
-      "reason": "Opinion piece analyzing Iran's tactic of broadening conflict with the US, indicating escalation rather than strikes or talks.",
-      "event_key": "iran horizontal escalation analysis"
+      "reason": "Opinion piece analyzing militant Christian support for a US attack, promoting escalation and hostile rhetoric.",
+      "event_key": "hegseth promotes us attack on iran"
+    },
+    {
+      "title": "War has given Iran new leverage for nuclear programme, say US former envoys - The Guardian",
+      "source": "The Guardian",
+      "published_at": "2026-04-10T12:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkRFa2x0Z0VXT3ZNc2pfWnZWWmoxUkg0OFRvTkpCaGs0ald6a0hzR2FxYkx5WVcwa2J5YVE0R29zUlgwYlEwV2xyMTVxZ2NNN29pM0lkOU40bmJINHRGUkl0SFNrS2hheTBGaTBUNmEtY0VJbDJpX1pqVy1IeVUzcXpYMnJ4WnhlVWllQW0zeFY5S09XcWZzZEhSR2JkcmxzVDFOT0F5a2pncjZFV08xOEVTaTEzNjk1T2JSY0I0RWdOU2llemJ6clNQRGNiUzlzeFpsQw?oc=5",
+      "strength": 0.4,
+      "source_weight": 1.0,
+      "reason": "Former US envoys warn war enhances Iran's leverage over its nuclear program, signaling increased tensions and risky proliferation dynamics.",
+      "event_key": "iran nuclear leverage war"
     }
   ],
-  "top_proxy_articles": [],
-  "top_strike_articles": []
+  "top_proxy_articles": [
+    {
+      "title": "Iran ceasefire under pressure as strikes in Lebanon continue ahead of talks - The Washington Post",
+      "source": "The Washington Post",
+      "published_at": "2026-04-10T12:05:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2dGTGV0aXRnSU9rVDBzTFJMMGRIQm1RbTdDYU5HS2gyWE9nN2c3TFlFMjhrYjNjM2VPNVppYmFOR21OeFNBZUJ6bmx0UmZxUGR1UV9wakVwbElEVVVrdmhLdWJCRXlXZ2J6Z3VPV2pSanRrQ0tzNUl1LTA0dnNSQkVB?oc=5",
+      "strength": 0.7,
+      "source_weight": 1.0,
+      "reason": "Strikes in Lebanon by likely Iran-backed proxies are continuing, undermining a ceasefire ahead of talks.",
+      "event_key": "lebanon strikes pressure ceasefire"
+    }
+  ],
+  "top_strike_articles": [
+    {
+      "title": "By the numbers: US thrashed military targets in Iran, but some capabilities remain - Midland Daily News",
+      "source": "Midland Daily News",
+      "published_at": "2026-04-10T10:55:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZk1sQ0RLRjdHYmhVeUNfT0RPbnczV1ZvTFZhLXdVOTNtTGxYcDI0emZKVURTWkdyLXJROThSZGJqeG5XY1dsWEswQkhhZ2tvNHJEZWpWcE9UMG5FNUpOTC1ibWFDRkFVd3JVeVBCQnU0VHozbnhtLW5BdnlCc1BmSmY4a21zVGRoY1hZajdhY1lDS3JxcmI2Vml5RFpLWnh3?oc=5",
+      "strength": 0.9,
+      "source_weight": 1.0,
+      "reason": "U.S. carried out strikes on Iranian military targets; damage significant though some capabilities remain.",
+      "event_key": "us strikes iran military targets"
+    },
+    {
+      "title": "Opinion | U.S. missile burn rate in Iran leaves the Pacific cupboard bare - The Washington Post",
+      "source": "The Washington Post",
+      "published_at": "2026-04-10T12:29:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUZkSGVvbWVla1IzZHNCaG5rSUNKa1FmSTJOcDdYa3lrNU5MQjJ6aHpzTnVVSzg1S2pyTldVeFNyZFVpdjR6eDVqVlF6OXFDb0R5U2NwWlhhc011b2NrLXpFTkdCV0VSQXRIbDNMcDRLWE0ydC1sS3FQX1BvYUxoeWFHRnEteG1nN0dCdmo1LVFJQXFfTXdBRQ?oc=5",
+      "strength": 0.75,
+      "source_weight": 1.0,
+      "reason": "Opinion piece about U.S. missile use in strikes on Iran and resulting military resource strain.",
+      "event_key": "us missile burn rate iran"
+    }
+  ]
 }
