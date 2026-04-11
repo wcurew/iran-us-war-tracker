@@ -1,19 +1,121 @@
 [
   {
-    "title": "Concerns after satellite provider restricts Iran images following US pressure - BBC",
-    "summary": "Concerns after satellite provider restricts Iran images following US pressure BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Smdab3pnMmVRUXFxdFg0V1FJUnM0UVlia0FzakFYMW4tejJWWGdIanJFSVNrcUxheTlTNzhrbjM0dEloUmoxTVl3YWNyUGRIbXdaZWNiZnBhQQ?oc=5",
-    "source": "BBC",
-    "published_at": "2026-04-11T05:40:51+00:00",
-    "raw_pub_date": "Sat, 11 Apr 2026 05:40:51 GMT",
+    "title": "US to demand freeing of American detainees in Iran as part of Islamabad negotiations - report - The Jerusalem Post",
+    "summary": "US to demand freeing of American detainees in Iran as part of Islamabad negotiations - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VanUyOEE0akpPbFhpMDFlb081bVRGdXJEUzVhNjJUbUR5ZjJEaXloaTREbVdCUkJ0b21ZVkowZkhqQUZsaGxoLW55Q0xVZDN3b0FMZ2tSUWdBUEVnNUNQTk4tRk1LMnB2Z3c?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-04-11T08:30:59+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 08:30:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d641553f061f422f983b0b58bfd7e47ae5619fd4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US to press Iran for American detainee releases as part of Islamabad-mediated negotiations.",
+      "event_key": "us demands release of american detainees via islamabad negotiations"
+    }
+  },
+  {
+    "title": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy - NPR",
+    "summary": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy NPR",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUpaREc1blNnbGFqYXo3RDU0OV91TlExZHFTaG11OGZ6dnBiV3duQ3AwM0FJV05wejhLaGNvX0E1MUE4ZlRfNGhNQ1M0NlBpZFdOdDZMYTl4SU00clM5UXFia2JCd2RZM0dJOVJwQVVFMzRtX2hHZVlFdkg4VGdnNjlxMzk4dw?oc=5",
+    "source": "NPR",
+    "published_at": "2026-04-11T07:04:41+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 07:04:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d924f2cd50d81765f7410147e772eef80e52477e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Pakistan-hosted U.S.-Iran peace talks indicate active diplomatic negotiations.",
+      "event_key": "us iran peace talks pakistan"
+    }
+  },
+  {
+    "title": "What are the main talking points at the US-Iran negotiations in Pakistan? - Reuters",
+    "summary": "What are the main talking points at the US-Iran negotiations in Pakistan? Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEFzTC1aZ0xlbmwzT2xGZUdpaXRkVEE2aXk1akpEd2I0dy01c08xcFcxRFFZU0owbTI2WnJRZXk4ZTlOUVZIb2E4YzFxT0htUFBzVGZ4dEN2U2pVRDlSY1BTLU1FWlpsLTNEdXJrSVZyeld5WWhvVmkzU2RSbVIxMF9pZkhMRlZVTGdJV0JZLWg5dDZWX2c0eGRNN0hObzhNSWlWdnVJSVNlaWZrTnFiOFVHNA?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-11T08:15:50+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 08:15:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "31ee88fb546c19b69001fa252822bd2e027c726b",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Active diplomatic talks between the US and Iran held in Pakistan discussing main talking points.",
+      "event_key": "us iran talks in pakistan"
+    }
+  },
+  {
+    "title": "US-Israel War, Day 44: Trump-Iran Talks in Pakistan - EA WorldView",
+    "summary": "US-Israel War, Day 44: Trump-Iran Talks in Pakistan EA WorldView",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXctU2FPa0MtdGJlTTc3ZkhtODhNQzFKUlNqeFRkRmZYYXlKSnl2SzA0dGhKdEM4TlRTTTB0dXk1VGtfYU1nb0VIeU5MeHpEaEQ5UFRSU0s2S1JmX21vVnFVU084c0hrcVpJY0ZyVjhnWlp2UC1zMkQxbVpDM2lrcg?oc=5",
+    "source": "EA WorldView",
+    "published_at": "2026-04-11T07:00:47+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 07:00:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1fb25cb73af05ae1f861797dacea2321e9ff14cd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Reports of Trump-Iran talks in Pakistan indicate active diplomatic engagement.",
+      "event_key": "trump iran talks pakistan"
+    }
+  },
+  {
+    "title": "High-stakes diplomacy: What makes U.S.-Iran Islamabad talks distinct, difficult - Xinhua",
+    "summary": "High-stakes diplomacy: What makes U.S.-Iran Islamabad talks distinct, difficult Xinhua",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zajBQZHN3c3VKUV9sVHR0eHVGTFQ0ZG84SDN6MUNlbWZWdWpBaGFRV1BpQzJ2LXJIcDJ4YVo5OHl3b3pBSkJUa2FXTENZYVZrTFJZdlVJdjRtWC1uZkVyeUhvemYwMUdHSHhoUWE0R2VndmxXanl5b085X1k?oc=5",
+    "source": "Xinhua",
+    "published_at": "2026-04-11T08:17:16+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 08:17:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "773e2bcf63449bbdf53ac4494f0d83acefdcfaf0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Describes active U.S.-Iran diplomatic talks in Islamabad and their challenges.",
+      "event_key": "us iran islamabad talks"
+    }
+  },
+  {
+    "title": "Former US secretary of state says Netanyahu repeatedly pressed US presidents to strike Iran, only Trump agreed - Anadolu Ajansı",
+    "summary": "Former US secretary of state says Netanyahu repeatedly pressed US presidents to strike Iran, only Trump agreed Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdjZqTXEzeU9SR1hYaGREV3VjVWZwcnBDUndjcXZZWGVZZDYxZ3ZPN1JFWlZiQ0tUQVFONVkwYVZ5ZXk4R3VZMlQxSnFUc2lwbkV2UWpId0ttZ0otZnFBMlFjZHA5aUpKYURHQlFMUXZIODNHc29qem5DM1N6cDgyWGxpOTZyNEJ5TXRrQ2J2VzE2NkVnWlBTY01NQjZRR0gwUXZ3SUpOZkFaLS1wdlV5N0RIWEFjckNaZm5waVduZnZxX2FPeFpmS2FHT2hSUHFaR0RCNDlVYWNpYjVkQWRzTg?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-04-11T07:09:53+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 07:09:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d77ba8a7c4827aaf564155ec3e8eb250cd42ced5",
+    "article_id": "036875d84acd027c676dcfa9fc4b4abcc3881a08",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "US pressure prompted a satellite firm to restrict Iran imagery, reflecting rising tensions.",
-      "event_key": "satellite provider restricts iran images us pressure"
+      "reason": "Reports Netanyahu pressed US presidents to strike Iran, indicating pressure toward military action and rising tensions.",
+      "event_key": "netanyahu pressed us to strike iran"
+    }
+  },
+  {
+    "title": "US intel said to assess Iran can recover underground launchers, fire thousands of missiles - The Times of Israel",
+    "summary": "US intel said to assess Iran can recover underground launchers, fire thousands of missiles The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWU0xVGF4a1VsaUg3aGNmUUNPSDd2bGh0UDZkU2ZNOVVzU3haRDVVT3lfcWdaQktVZ1JVcWRiUzlPOWtObDVHalZIdjVTcmFxR3V1YklzaTliRVFGMG4zMWpybkIzOGpHNnBNVjlIVnpsaEpYUGY2YjFRNktaUUlhWEtJYkxWYmVFUEhObFc5NGJLcW81SmpUc3NaZnhHVnFsa0Q5WkJOQ3c5Q0RXWmJOazJ0Y0ZXV1RRZEtpZ9IBwgFBVV95cUxNanZhVUx4Y2d0dlFIV1FXNGRoQWp5Tks0UUtTRVJldjJlVWdYS1d6dVBMNDJrSnc2QTY2N2hiOGZoYmpaZ1FCc3FSY3pJMXRHMUp4amZaRnJ5cHBQTGVjckZQeUlWU2gyYzllUWdOZTVaTW1zRFUxcUc2eTBFanVYLWoyVHRQbGxuRDV6WUdMSC1nWkd0MkZGUnQ5OWlNZTE5UVlad3NiU3FyN0UxWDV1ejBXWkJpOEVwVEVvcm9CdHFrUQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-04-11T09:22:35+00:00",
+    "raw_pub_date": "Sat, 11 Apr 2026 09:22:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "43462f1330f01200ca9d1e27b226ba5725eaf78a",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US intelligence warns Iran can restore underground launchers and fire thousands of missiles, indicating increased strike capability and heightened threat.",
+      "event_key": "iran underground launcher missile capability assessment"
     }
   }
 ]
