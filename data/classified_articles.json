@@ -1,189 +1,121 @@
 [
   {
-    "title": "No Deal: U.S.-Iran peace talks in Islamabad fall through - NPR",
-    "summary": "No Deal: U.S.-Iran peace talks in Islamabad fall through NPR",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jTkpIcmNBQ1FVWVR2YVpEcERqZnFhNTFPTWxJNUNzSi1qUEl1WjViRnBseVRPbEFNWUNtamI2V3lYNThCdFZteDhZT0gyMWJoek1QYTdZU2FiR0JkZV9ZX0hjenFaVnBSTzBkR3RpaEtDQkl0NDhJMDBkdGQwdw?oc=5",
-    "source": "NPR",
-    "published_at": "2026-04-12T04:20:08+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 04:20:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8dc291db7972e31e17763be69f8c526e5282f372",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Diplomatic talks between the U.S. and Iran collapsed, indicating a breakdown of diplomacy and rising tensions.",
-      "event_key": "us iran talks failed islamabad"
-    }
-  },
-  {
-    "title": "US-Iran Talks End With No Deal, Bitcoin Slumps in Potential Stock Market Preview - Barron's",
-    "summary": "US-Iran Talks End With No Deal, Bitcoin Slumps in Potential Stock Market Preview Barron's",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ybDFvMnNqU3BaM2VJTzdIYkwyb3k3WTNkNHNzQTF0YkpTZ1NESGlDRjdWV3MyR2IyWWtfeUFFV19jT3FNcTUwOTRwbUhOd2lFZ1VfX2JMTFJVeHRQVjRiSm5lZ0UxTVhKbHFFS1Rrdzh6TjVvQnNSNGhiZW9aM1k?oc=5",
-    "source": "Barron's",
-    "published_at": "2026-04-12T04:17:00+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 04:17:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4b3482bd13e413c22e87dab04dc8b6c0a19e8cba",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.3,
-      "reason": "Diplomatic talks between US and Iran occurred but ended without an agreement, indicating ongoing negotiation context.",
-      "event_key": "us iran talks no deal"
-    }
-  },
-  {
-    "title": "Failure of US-Iran talks is a blow to hopes of finding an off-ramp to crisis - CNN",
-    "summary": "Failure of US-Iran talks is a blow to hopes of finding an off-ramp to crisis CNN",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjYteG5CSFZPci1JYnFEcUpnajBSbTRqMGlQemlSOXJoVXBjU0tGNUxJeHAyRUluMkNxOU1NMm5DX3lnaGdqRFRnMURCSDBoWFNzUWctenZTTjBtSEFtbVdLVk5kM3Aya2ZBcFFhZnBNbXQzQ2pfUEtnQXlpeU9ib1NuYlBCeENP?oc=5",
-    "source": "CNN",
-    "published_at": "2026-04-12T03:42:00+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 03:42:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f4d6774ed4cb44e8c00db4d056c13e78fbc5f88a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Failure of US-Iran talks signals breakdown of diplomacy and increased tensions.",
-      "event_key": "us iran talks failure"
-    }
-  },
-  {
-    "title": "Vance says US-Iran talks end without deal after 21 hours of negotiations - Fox News",
-    "summary": "Vance says US-Iran talks end without deal after 21 hours of negotiations Fox News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGxZTWt5TlRYZEswMEpaQWRIUllJMzZ4c3A0RnJjRWF6YW5ySGRUazZaRWd0RlJONVo1TF9NejcwWFpOZkMxXzhuazRrX2ZlcjNZYXcxd1N6SkF0SnhIUlUwT0M3am9rb09oM1lpcDgxbFZVdFFjX2JnMmR2Z2tQWmJyQXFOSTBNaGhvRWdWZkZvVEJKSEpqSVNLanPSAaIBQVVfeXFMTTVOXzZWbkhOVFdnYjNEM240Nk8zZFJWRHFiOVFmbUZGRGtOZlpRUG5oQ3NGb29QdE5nNHIyV1NzN240NWFodGZQOGQ2Z2ZTcDhMX2RrMmNLa3RrVmNMaWRUMERUbWVxVi1aczY3blJFclpicUZhYVpnNmdOWjQzeUZySWRiaE1KRWpaWElCMUtJOFMtTU5HcllQNlJUUjdPaEJ3?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-04-12T02:43:48+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 02:43:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8d700bf7aae1a7ec635ad47be637fccbc4c7f433",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "US-Iran diplomatic talks lasted 21 hours but concluded without a deal, indicating active negotiations occurred.",
-      "event_key": "us iran talks no deal"
-    }
-  },
-  {
-    "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal - Al Jazeera",
-    "summary": "Watch JD Vance’s full remarks after US-Iran talks end without deal Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbE5HcHNTeTNROVhCeWdlaTZ2LTdhTzVac2swTGwwc0RUSTRuLWJtVnJPMTNjMGdvb294SzFXZ1dfVnhrYzRBTlJONEYxc2RmT3RtaE91alBWYW11bUlLWUJUcVV0UmpsNlJiV3pwa19kaUV4S2M2dTYyYkJTUl8yaXI5ZjYwWnVuRFFaMkFtVmtSV1FJNGRTdk1oZGFSc3JPY2JtUm5abmpMZEZ1VTdNZHhKS0NCRlHSAbwBQVVfeXFMTkZSZVBRZ19oZEpiU084ZnlsZ3hlR2dnY0ZrYktLS3diUEZ1TXl3TUJjMllnOXhNTTdHMm5IWk9CU0szbjdGdjZzdXpNYkZRVDB4RGY2eXFzUDJfSUVnNU1Ca2hMRHUxRm5CVE9IUGk4Ukd6R3BFOTFnYzhLWktnQzJTdEhvanRLTHl4NnNtVEt3X2E5bDhjUS1oZ0RUME1kNWJ5S1JQczNRNDdzaW12XzloSXJCZTJETzJxRUk?oc=5",
+    "title": "US and Iran fail to reach peace deal after marathon talks in Pakistan - Al Jazeera",
+    "summary": "US and Iran fail to reach peace deal after marathon talks in Pakistan Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW52VVZvLVFodTctMl9ZX3JZQWM1V1RkNGhHMzhJXzdRMWdiYXJra2pHSkh5X2dtMmx1SUh5amtCVmMyM19FcWZZZzNwQUJQZmJUenotNm1YS2JmNUsteXZpenA5ZGY5UkNwbHdJUUlrSVg4b19zalRYWW9UZEdfbGZDUFZHajNOZkdweGk2TUxLdVBkUWtqbktpN1dzeGxyZlJUUVFSeUgyLWV5d0o40gG0AUFVX3lxTE5OQW11Q180MnJHSWk3MHhBVVYyNmJKU1M3LVFFdE56ZGRpcHRuWldmd1VFQUhwd0paNXVScFRXSnVGeHlGNk9pbG41UU5fajNMMTlfNVdlXzhteW5lMGlkTmp2eHo0ZDlmdEp4SUpna2FmZExTbXdmTkl2cmdXY05YSThpMGRfbVY2empxUjU5Y3ZqVTVXX0IyMVBLUmRrZmVMcjVidmd6U0Y2U25Wc0lvVGxvMA?oc=5",
     "source": "Al Jazeera",
-    "published_at": "2026-04-12T03:51:48+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 03:51:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a9c986163ce90506f671c50c98583d790e46dcae",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US-Iran talks ended without a deal, indicating a breakdown of diplomacy and rising tensions.",
-      "event_key": "us iran talks end no deal"
-    }
-  },
-  {
-    "title": "Developing | US-Iran talks end in failure as Vance cites nuclear arms as key sticking point - South China Morning Post",
-    "summary": "Developing | US-Iran talks end in failure as Vance cites nuclear arms as key sticking point South China Morning Post",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0JIT2pjdkdlVXZTb1RjWjNBUUZPbVlHX1JCRTZVV2NkUjVscGwwQ2x5R0JYTGZHMWN3UU0wRGVmRWRYNHVlemVIT1VNYWVUdjQzdlZSVXVpZnVsSkRUWlF0STB6blp5R3lXd3M1bFRmc2t1UGFOaTN6MjgxbGJfei1rcHlNNG5pVTdCZjQwWjJDVXpQdWVoQlhRSzBEdHhkMkQ2WEJHcFRZY05aYUpMV1o1NTYzNkJTdUxHVE54c3Azd9IBwgFBVV95cUxPYVFhYUY2Y0UtZWh2MnhSclFYWFFyN0F5VnZzOVFkSnBrZzBZUC1jcnFZRkQtVWdQcnFSOWprN0N6LUNQRXQ0RlhtNGhmdnNsY1Foc0o1bnJBR3g4ckM3MVAtb3lNajh2SXdseGMwZnZ3Zk1lcjU0UVl0VERpSlJGakl2N2tmdE5RVUdlcXVMenFsSk5tTmxNZGhQRTlLMG9BdVkwV0lXVnM3ZXBMQjRRMTc1YzV3OVNRNWxseHI2anl1QQ?oc=5",
-    "source": "South China Morning Post",
-    "published_at": "2026-04-12T05:07:56+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 05:07:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a0a1e51422567437689bd30bd11e693e83c5c20",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Diplomatic talks ended in failure over nuclear arms, indicating a breakdown in negotiations and rising tensions.",
-      "event_key": "us iran talks failed nuclear arms"
-    }
-  },
-  {
-    "title": "The Latest: US Vice President JD Vance says talks with Iran ended without an agreement - Oregon Public Broadcasting - OPB",
-    "summary": "The Latest: US Vice President JD Vance says talks with Iran ended without an agreement Oregon Public Broadcasting - OPB",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb0V6c0x3NUo0U1ZjXzN2enJEd1lzVFh0SGJDOFFTQzF2UFhhdURfTkxRTHFMd3RnTm5YT1dZU3lkUjVDbTdDRTFzd1B0VUFsTmtDRWxGLWUzY1VXaGFDOUZKLXhjVk1meG13NjFYbVQ1VDNiaTd2MERhX2hFTW56d1MxX0dlMlNVZGFqTUp2emVpM2JGQ2VnRE9fQlJaZGZfdm0ySTU5b2lDamloRk90d1U2RXl3dndoZXphQmZRcS1aQjA?oc=5",
-    "source": "Oregon Public Broadcasting - OPB",
-    "published_at": "2026-04-12T02:59:55+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 02:59:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bb9fe8305e545d760c04d09a7272d7b4e98f37aa",
+    "published_at": "2026-04-12T06:33:45+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 06:33:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "60c4bc7441af79a629d05b45f29d53ac37661a69",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Diplomatic talks ended without agreement, indicating a breakdown of negotiations and rising tensions.",
-      "event_key": "iran us talks failed"
+      "reason": "Marathon talks occurred but failed to produce a peace deal, indicating a diplomatic breakdown and heightened tensions.",
+      "event_key": "pakistan marathon talks no deal"
     }
   },
   {
-    "title": "U.S. leaves Iran peace talks without a deal - The Spokesman-Review",
-    "summary": "U.S. leaves Iran peace talks without a deal The Spokesman-Review",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb3R1OURPYXViNkNCUWZkamFPRDB0S3dfQ0lHU0kyWGFweXkxWjRFcnF4VmVUSlRHMlJwaWlrclhTN0llN1lFcS1nVzNPbXdzZlRIcGpKV2ZNc012TUNoVlMwMW1CZkdBZTNqQ1ByYVZ3d2taY3ZtNFFHM2lSRU9XNjQ1ejFycTJWMzVYY2xCbW5FeFJWeXBpcER5SVlUUQ?oc=5",
-    "source": "The Spokesman-Review",
-    "published_at": "2026-04-12T04:48:00+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 04:48:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "262c8463d8579319da83fe9104a9911fa2851dfa",
+    "title": "US and Iran end ceasefire talks and Vance heads home without an agreement - The Washington Post",
+    "summary": "US and Iran end ceasefire talks and Vance heads home without an agreement The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkZQb2ZYTFd2LTRHOWVqaHk0TjR1MTAxTXVGeDVEeTVsRFo1dWtUX2M3MG9BTVIweTFBTVZyTmkyd3lGUWdiQjZ0N1gtaWpZZlB2WXhvUTJobGw4b1hRb2VVT2owNGZEU3R6TXNpZVNWRG0yQkVPa3FZMkJORjVfRmhjNEZNdEJxejBtdWRZWlEtWGVraGIxU3k2T3d6aWJDRzBjWmpFOTFKd1pvdW5aZFE5d1ZwOTdUZGVpemoyUGkxQ0luRG9qQUlGbHY0VEJsZllUWg?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-04-12T05:58:19+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 05:58:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8cbd7bd2d1325564a767ca4f328f40578c1a907c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Breakdown of diplomacy as the U.S. departs Iran peace talks without reaching a deal.",
-      "event_key": "us leaves iran peace talks no deal"
+      "reason": "Ceasefire talks ended without agreement, signaling a breakdown of diplomacy and increased tensions.",
+      "event_key": "ceasefire talks breakdown"
     }
   },
   {
-    "title": "The historic Iranian palaces caught up in US-Israeli strikes - Financial Times",
-    "summary": "The historic Iranian palaces caught up in US-Israeli strikes Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ULURHcUMxVFh3SVpGZFlvbjB6UWxMaklKMkZ0OVI0XzhWWHA0cnlNZFBUZkZHZzhXMGhRMmpUNmRaalpsQURQblVwWmEwdW5yUkttVFlVQjZlTnJCeVFQbGZ3RkdZV2tDUlVJenZsRG0?oc=5",
-    "source": "Financial Times",
-    "published_at": "2026-04-12T04:00:12+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 04:00:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "09d99d1338546ce6a5481e03d3e911dc03185b73",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Describes US‑Israeli strikes hitting Iranian palaces — direct military attacks.",
-      "event_key": "us israel strikes iran palaces"
-    }
-  },
-  {
-    "title": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan - The Daily Reflector",
-    "summary": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan The Daily Reflector",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzJ6LVN0MWRDSnpSVGtoMFB1OS1pdG4zS0RPYnBKUkdtaWpuenNNMkw0eTZJaXV1SnlnUXgybHFuRUFvY0pfenhWdWZya1VpbFdvMFN3UEF4QnM5ZWlFd0otX1A2WGl6ME5HbmhBaW1tYWdsQ04xX1BmVzAtOExrb21kSWlqUEVaaXpVVTVER1pBYjA5MkpxRjJHQnF6SHI3YWxCMGdyMU1iQzZfUzc3T19oeDdHSXZrWmNtUFhhcFlBT0p0T3dhdi1PVHRWWnVITVBENThCZnA1UmZsMEExOXRNaXdpczRPa1Y1eWU4cTZTX1JfdnVKWnV5c2U3X3NQYlB6a2ZuSHI?oc=5",
-    "source": "The Daily Reflector",
-    "published_at": "2026-04-12T03:43:12+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 03:43:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "52291c9076902c82d53b57034dcc18e615c2b1a1",
+    "title": "Trump says United States in 'deep negotiations' with Iran, but 'we win' regardless of outcome - Korea JoongAng Daily",
+    "summary": "Trump says United States in 'deep negotiations' with Iran, but 'we win' regardless of outcome Korea JoongAng Daily",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeXpaWW5BVzZmUkpNVlBwdnVwcXVMSXMyU0hXdzFEMWRuUHZpWUxaOG1Za2FoczNwMVd0dXNZVWdMR3UxY0xXNTI4VVRfcWVUNDB5MlhTVHdlTDhjbU9LclFxSlhkZnRJVVJKOFNuazdlcWc1eE9KbU5DTFVFZndZdnNCbm56Wm1nbGtVMEVNenVCWDl3ZmQ3RjVUMHRPcm05Q2tHRllDLU1kYkxkVXVCczZ1dERyZWpSdzFsNW12YzgtNnVqaUpPeW4tTGtQYkN6MmRfV2YwSWdzME5qM3U3ZkdxaXAwd3lzelNISVBhd3ZlQkNNb1lnTjdORmg?oc=5",
+    "source": "Korea JoongAng Daily",
+    "published_at": "2026-04-12T05:25:03+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 05:25:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2f2370f38f57f842a883c0141971e06e09990e82",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "US and Iran conducted 21-hour ceasefire talks that ended without agreement, indicating active diplomacy albeit unsuccessful.",
-      "event_key": "us iran 21hr ceasefire talks fail"
+      "strength": 0.9,
+      "reason": "Article reports active diplomatic 'deep negotiations' between the US and Iran stated by Trump.",
+      "event_key": "us iran deep negotiations trump statement"
     }
   },
   {
-    "title": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader - KTAR News 92.3 FM",
-    "summary": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader KTAR News 92.3 FM",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXZKRGRZUGxpeEFUeWN4cHB1OExsTjFUVHoxZVh3b0ptanI0VUtBbEZIZUQ3d1ZycjBtckU1Wm03UXduSG1jS2lsTDdQYWg2ZXZSSU5GTzRueFM4aTlfZ2wtQkxObWhvNDhSU3Zac3lJNHdDWE1Kd0FnWkdRSTJZd3BfRV81RlRlaTdyV2ZCcXJRalpVVDNPM21tNi0xaGw2TDFuVFkwY1V0VkVPbFMtdnFyc2VYdzdyUXgxcENVZ0hNYjYzdjhFdndwZjc0REk?oc=5",
-    "source": "KTAR News 92.3 FM",
-    "published_at": "2026-04-12T04:02:17+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 04:02:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c2f2ebee862bc8c148ce155dd5fcf1e053142df6",
+    "title": "Key takeaways from the Islamabad peace talks between US and Iran - Australian Broadcasting Corporation",
+    "summary": "Key takeaways from the Islamabad peace talks between US and Iran Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2o5UXZhTnhUd2otZmJTNWVFWW5PZGlHbjVDZ3FiU1pYbndFLXk3WjhneFl3X2tMY0J5dFo2U1p5QVo5ZkVHOFVJbklHN3Jlb0tyOTE4TVRhbWxBbWh3YWtoZHRNYWhnMTh6bDRzaGhnQmR2OV9YTXNsZi1BSUpDLVB5aGg1N3V6QVRyMW5BQ0haRzdFSllYSnhrOURJNlFBTXFab09Daw?oc=5",
+    "source": "Australian Broadcasting Corporation",
+    "published_at": "2026-04-12T06:38:22+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 06:38:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "607f322c911179a5404f45484e64bc898fe56da7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Discusses outcomes and takeaways from Islamabad peace talks between the US and Iran—active diplomatic engagement.",
+      "event_key": "islamabad peace talks us iran"
+    }
+  },
+  {
+    "title": "US-Iran talks in Pakistan end after 21 hours with no deal; US negotiators leave - The Times of Israel",
+    "summary": "US-Iran talks in Pakistan end after 21 hours with no deal; US negotiators leave The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWxOdlRnRGtTRVgzQVBxY1diUTVyUU1nTWdMZjNZbWk3UjhqNTFTLXoyUEJLU2k2MVpVdWxqNzB5STFCdElIRGs3M1VqVGVha1dNcUh3bWR6LWtoXzl3MjZHaWxxektGUzIxMjVqcF9fbDhxaDR0a3FJckxOZDRETUhheVZlNE9pcF9XdldBYkdCbjdBWjVoT0FLMy1uSlc3dHhMempqU2NiRURMelHSAbMBQVVfeXFMUG81cGNVcDdJbVBzRUVJYnpPWXZReVE2N0l5YnVnczBHZzJvUVV5M3o0OGduNnFyQ0RlMHlCVGN6b2VZUzZJOTN1cWd4bjBvWnByOHd3aFllYlRjeVZZeFBmSmd5UlcxTTRzQkdKaGE1QWlpN0NkdkxpS1NZZ05qeTdOOVoybzl6ZnpMSnNLNm1XdmZQdkNwcmtuSjQzM1REa0lNTzY1NHFxLVdMTXd4cXNQbGc?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-04-12T06:31:12+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 06:31:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "38ab710788417a415bcc39ea8a952bd8a3687323",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Diplomatic talks occurred but ended without agreement; active negotiation process nonetheless.",
+      "event_key": "us iran pakistan talks no deal"
+    }
+  },
+  {
+    "title": "US Defense Secretary Announces Massive Iran Strike Package - National Today",
+    "summary": "US Defense Secretary Announces Massive Iran Strike Package National Today",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUtmQk9HNEFCaUVNV3lRU3B2Q1dyNjVqLWx5VmMtbDdYejFqMlFoQS1WdVI0Wl9WZXAzT3h0WXJBdENjUzV1WW0zMERZNHVLQ0Zpbk5FajNSNXpPQXRrYkZkamk4dU1vOThSd0tHTlNWcWJmQTZSOGU2SllHczZZaUxMV1JHS2xrUGg3NVVZOExGVjY4Ym1OM1pLeFVwbnJBT3hXdXpLVDN5cUl0MHNfVjJOWWM1VUU?oc=5",
+    "source": "National Today",
+    "published_at": "2026-04-12T06:34:04+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 06:34:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ef4e66b6c37064c850b6fbea7a0a55766e62a2f9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.5,
-      "reason": "Article describes US military diversion and rising tensions from the Iran war impacting regional focus.",
-      "event_key": "us military diversion iran conflict"
+      "strength": 0.8,
+      "reason": "Announcement of a massive strike package signals mobilization and heightened military threat rather than diplomatic deescalation.",
+      "event_key": "us announces iran strike package"
+    }
+  },
+  {
+    "title": "Chinese Missile Support to Iran Alleged by US Intelligence - 조선일보",
+    "summary": "Chinese Missile Support to Iran Alleged by US Intelligence 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkRHcU1DMGlOLWZQb0JIWDZOdHBaY09vbXloN1lTTDhqYXVuLUpoSzZWSG1ZZjZPM0NsM2twWTZFZHk2cEpUR3VhVjdZMjRlU01qTFVvdWJZazFZUURTdGZPY0NKcHkxTG5QamVmd1dGUmlSUXBvTzRwd2NHX19McmgxcUg?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-04-12T06:48:05+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 06:48:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cde41e28c8e728478fcb012a13cf0399c8da7758",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US allegation that China supplied missiles to Iran raises tensions and risks escalation.",
+      "event_key": "china missile support to iran alleged"
     }
   }
 ]
