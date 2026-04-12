@@ -1,121 +1,87 @@
 [
   {
-    "title": "US and Iran fail to reach peace deal after marathon talks in Pakistan - Al Jazeera",
-    "summary": "US and Iran fail to reach peace deal after marathon talks in Pakistan Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW52VVZvLVFodTctMl9ZX3JZQWM1V1RkNGhHMzhJXzdRMWdiYXJra2pHSkh5X2dtMmx1SUh5amtCVmMyM19FcWZZZzNwQUJQZmJUenotNm1YS2JmNUsteXZpenA5ZGY5UkNwbHdJUUlrSVg4b19zalRYWW9UZEdfbGZDUFZHajNOZkdweGk2TUxLdVBkUWtqbktpN1dzeGxyZlJUUVFSeUgyLWV5d0o40gG0AUFVX3lxTE5OQW11Q180MnJHSWk3MHhBVVYyNmJKU1M3LVFFdE56ZGRpcHRuWldmd1VFQUhwd0paNXVScFRXSnVGeHlGNk9pbG41UU5fajNMMTlfNVdlXzhteW5lMGlkTmp2eHo0ZDlmdEp4SUpna2FmZExTbXdmTkl2cmdXY05YSThpMGRfbVY2empxUjU5Y3ZqVTVXX0IyMVBLUmRrZmVMcjVidmd6U0Y2U25Wc0lvVGxvMA?oc=5",
+    "title": "Iran war: What is happening on day 44 of the US-Iran conflict? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 44 of the US-Iran conflict? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFPb2Y5SnJsdGxtNUpQVlZDcnpuaTExTUtNTnhfQllQemUzX3ZjNU1NYl9fOEZmTzFJTHppUm1tV1pXbk1tUzQwYU1zdTcwbXExQmc5Q3hEcDUzQkI4X242cnR6VDZzMjRoMkZJT0hWVjFoaU1FRV9oSzcyelFhamlhSGxTbkZtcVdBdkEwMWlMVlZhVTJtWko3Zk5LRkxxZXNB0gGoAUFVX3lxTE4xZVA0aFM2Vi1Qb2RIS3l2UDNqS3FHZFlqbTVRWmIzdGFOcU5DTFVnTERyZnRSalpFQUZ6R2Vjc0xGc01URVBQY0tPTkRWVnhILWYyN2wwZl9BdVpYNWpMMkpoNVlFMk0xRGE2WGpRdTZkVWtKeDRJazJHUllacGN1Y0dUMWpaaGJHaVR0ZklFSUtNT0dCZGluQTJvWmh2XzEzb2hfR2h0RA?oc=5",
     "source": "Al Jazeera",
-    "published_at": "2026-04-12T06:33:45+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 06:33:45 GMT",
+    "published_at": "2026-04-12T08:07:39+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 08:07:39 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "60c4bc7441af79a629d05b45f29d53ac37661a69",
+    "article_id": "b2cae549170100a8c6a56481c55ab0aaec3ae041",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.35,
+      "reason": "Daily conflict update implies ongoing tensions and hostile developments rather than diplomatic progress.",
+      "event_key": "us iran day44 update"
+    }
+  },
+  {
+    "title": "Gen. Wesley Clark: Iran has the advantage over US in negotiations - USA Today",
+    "summary": "Gen. Wesley Clark: Iran has the advantage over US in negotiations USA Today",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWRUcjlLQnM1WlExTGh6V0xGeHRSWGMxdS1ROVhxUmVLQ3NnT2pwbnVIZDNFT0VyYWRUQjcwWk9XWGNMenpHXzdkazI3blk0a3A0MzRzWVNuSFM5bE9vRVpqMGZZQ2RlQVpfaDFfNjZEeS1feUxrclVkZ254aVJ5cUxQTDFYX19mVWU2M01tMzFqTGZ5RmU5TWlON0ZadXFtOFhlNHFOZ2c4QQ?oc=5",
+    "source": "USA Today",
+    "published_at": "2026-04-12T09:06:00+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 09:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2d3b14443578e3a311801ada75d566f3df553c4b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
       "strength": 0.7,
-      "reason": "Marathon talks occurred but failed to produce a peace deal, indicating a diplomatic breakdown and heightened tensions.",
-      "event_key": "pakistan marathon talks no deal"
+      "reason": "Commentary noting Iran's advantage in diplomatic negotiations with the US.",
+      "event_key": "clark iran advantage in negotiations"
     }
   },
   {
-    "title": "US and Iran end ceasefire talks and Vance heads home without an agreement - The Washington Post",
-    "summary": "US and Iran end ceasefire talks and Vance heads home without an agreement The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkZQb2ZYTFd2LTRHOWVqaHk0TjR1MTAxTXVGeDVEeTVsRFo1dWtUX2M3MG9BTVIweTFBTVZyTmkyd3lGUWdiQjZ0N1gtaWpZZlB2WXhvUTJobGw4b1hRb2VVT2owNGZEU3R6TXNpZVNWRG0yQkVPa3FZMkJORjVfRmhjNEZNdEJxejBtdWRZWlEtWGVraGIxU3k2T3d6aWJDRzBjWmpFOTFKd1pvdW5aZFE5d1ZwOTdUZGVpemoyUGkxQ0luRG9qQUlGbHY0VEJsZllUWg?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-04-12T05:58:19+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 05:58:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8cbd7bd2d1325564a767ca4f328f40578c1a907c",
+    "title": "Iran continues diplomacy with US after Pakistan talks - Crypto Briefing",
+    "summary": "Iran continues diplomacy with US after Pakistan talks Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHBiM013aHlsdlNTQVFGZHZ0YklwbEhZbHdqR3Ftb2x6cVI4Z2xkVXVNcGNMNzhJeVhERUV4WWo3R2tJVlFXNXdSS3Y5T3FqSjhib2F6VWRoOGJKYzZELTBYYXBfU0hKYzM4MG5iMXczVWhYUHJ3aFl2YWhmQTNTSFBaTWNvRFRJ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-12T07:36:23+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 07:36:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5001790db73a4595c2867be0fc1f716569e46658",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "negotiation",
       "strength": 0.8,
-      "reason": "Ceasefire talks ended without agreement, signaling a breakdown of diplomacy and increased tensions.",
-      "event_key": "ceasefire talks breakdown"
+      "reason": "Ongoing diplomatic engagement between Iran and the US following talks in Pakistan.",
+      "event_key": "iran us diplomacy continues after pakistan talks"
     }
   },
   {
-    "title": "Trump says United States in 'deep negotiations' with Iran, but 'we win' regardless of outcome - Korea JoongAng Daily",
-    "summary": "Trump says United States in 'deep negotiations' with Iran, but 'we win' regardless of outcome Korea JoongAng Daily",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeXpaWW5BVzZmUkpNVlBwdnVwcXVMSXMyU0hXdzFEMWRuUHZpWUxaOG1Za2FoczNwMVd0dXNZVWdMR3UxY0xXNTI4VVRfcWVUNDB5MlhTVHdlTDhjbU9LclFxSlhkZnRJVVJKOFNuazdlcWc1eE9KbU5DTFVFZndZdnNCbm56Wm1nbGtVMEVNenVCWDl3ZmQ3RjVUMHRPcm05Q2tHRllDLU1kYkxkVXVCczZ1dERyZWpSdzFsNW12YzgtNnVqaUpPeW4tTGtQYkN6MmRfV2YwSWdzME5qM3U3ZkdxaXAwd3lzelNISVBhd3ZlQkNNb1lnTjdORmg?oc=5",
-    "source": "Korea JoongAng Daily",
-    "published_at": "2026-04-12T05:25:03+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 05:25:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f2370f38f57f842a883c0141971e06e09990e82",
+    "title": "The Latest: US and Iranian delegations leave Pakistan after talks end without agreement - Newsday",
+    "summary": "The Latest: US and Iranian delegations leave Pakistan after talks end without agreement Newsday",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hxaFV2dlFickJDbndCQk1FU0ZsNjdNcHpSTFJBTVhYTlR0Y2xlU1N6dEEtZFVRdzlMNXpyTklNR1dOWkJ3UDUteFJCcE5MUHEwa2tUaFA2M1NTYmp0RnRDcDVRZkJwNFphbTFSZnRPTXhDakhDZjc2RENlc2tWWmNqTXFTc3ZUeUlLQXRXOA?oc=5",
+    "source": "Newsday",
+    "published_at": "2026-04-12T07:45:45+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 07:45:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "95170ef129d0c7e6aacc3a29916bb53a2dce57b7",
     "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Article reports active diplomatic 'deep negotiations' between the US and Iran stated by Trump.",
-      "event_key": "us iran deep negotiations trump statement"
-    }
-  },
-  {
-    "title": "Key takeaways from the Islamabad peace talks between US and Iran - Australian Broadcasting Corporation",
-    "summary": "Key takeaways from the Islamabad peace talks between US and Iran Australian Broadcasting Corporation",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2o5UXZhTnhUd2otZmJTNWVFWW5PZGlHbjVDZ3FiU1pYbndFLXk3WjhneFl3X2tMY0J5dFo2U1p5QVo5ZkVHOFVJbklHN3Jlb0tyOTE4TVRhbWxBbWh3YWtoZHRNYWhnMTh6bDRzaGhnQmR2OV9YTXNsZi1BSUpDLVB5aGg1N3V6QVRyMW5BQ0haRzdFSllYSnhrOURJNlFBTXFab09Daw?oc=5",
-    "source": "Australian Broadcasting Corporation",
-    "published_at": "2026-04-12T06:38:22+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 06:38:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "607f322c911179a5404f45484e64bc898fe56da7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Discusses outcomes and takeaways from Islamabad peace talks between the US and Iran—active diplomatic engagement.",
-      "event_key": "islamabad peace talks us iran"
-    }
-  },
-  {
-    "title": "US-Iran talks in Pakistan end after 21 hours with no deal; US negotiators leave - The Times of Israel",
-    "summary": "US-Iran talks in Pakistan end after 21 hours with no deal; US negotiators leave The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWxOdlRnRGtTRVgzQVBxY1diUTVyUU1nTWdMZjNZbWk3UjhqNTFTLXoyUEJLU2k2MVpVdWxqNzB5STFCdElIRGs3M1VqVGVha1dNcUh3bWR6LWtoXzl3MjZHaWxxektGUzIxMjVqcF9fbDhxaDR0a3FJckxOZDRETUhheVZlNE9pcF9XdldBYkdCbjdBWjVoT0FLMy1uSlc3dHhMempqU2NiRURMelHSAbMBQVVfeXFMUG81cGNVcDdJbVBzRUVJYnpPWXZReVE2N0l5YnVnczBHZzJvUVV5M3o0OGduNnFyQ0RlMHlCVGN6b2VZUzZJOTN1cWd4bjBvWnByOHd3aFllYlRjeVZZeFBmSmd5UlcxTTRzQkdKaGE1QWlpN0NkdkxpS1NZZ05qeTdOOVoybzl6ZnpMSnNLNm1XdmZQdkNwcmtuSjQzM1REa0lNTzY1NHFxLVdMTXd4cXNQbGc?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-04-12T06:31:12+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 06:31:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "38ab710788417a415bcc39ea8a952bd8a3687323",
-    "source_weight": 0.95,
     "classification": {
       "label": "negotiation",
       "strength": 0.6,
-      "reason": "Diplomatic talks occurred but ended without agreement; active negotiation process nonetheless.",
-      "event_key": "us iran pakistan talks no deal"
+      "reason": "US and Iranian delegations held diplomatic talks in Pakistan that ended without agreement.",
+      "event_key": "pakistan us iran talks no agreement"
     }
   },
   {
-    "title": "US Defense Secretary Announces Massive Iran Strike Package - National Today",
-    "summary": "US Defense Secretary Announces Massive Iran Strike Package National Today",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUtmQk9HNEFCaUVNV3lRU3B2Q1dyNjVqLWx5VmMtbDdYejFqMlFoQS1WdVI0Wl9WZXAzT3h0WXJBdENjUzV1WW0zMERZNHVLQ0Zpbk5FajNSNXpPQXRrYkZkamk4dU1vOThSd0tHTlNWcWJmQTZSOGU2SllHczZZaUxMV1JHS2xrUGg3NVVZOExGVjY4Ym1OM1pLeFVwbnJBT3hXdXpLVDN5cUl0MHNfVjJOWWM1VUU?oc=5",
-    "source": "National Today",
-    "published_at": "2026-04-12T06:34:04+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 06:34:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ef4e66b6c37064c850b6fbea7a0a55766e62a2f9",
+    "title": "Moscow calls for de-escalation, while warnings are issued against escalation during Washington-Tehran negotiations - صوت الإمارات",
+    "summary": "Moscow calls for de-escalation, while warnings are issued against escalation during Washington-Tehran negotiations صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd2EyX3BPNjR0eWdyNmxFOEY5OFZNS084MXctSHRBRGN5YmxYRkV1RnIyRFVRX3U4a2RYRVNLYmV0WnB4YXBGZmpsa3EtSVVsS0FCbGFwMlU1Y2pLSnRKVzVORHJvVlhjYTlMTGZUNElFME1iRlZOOGk1dDNSZFdqOHJtbzlpQ05RM0RJTVA4TFhfUER6bVRhOGNyT29wekJBOEdaWk95WWtmODBWV3hYTk9ITk1rb1FsaDdBeUdjM1FTZzVqNU94WmxOTy1sdG03MDNNODJ4dEF0czZIbmotWTAwRkVIZHQxdFFDU2lGaUxzZmdGdFpHUA?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-04-12T07:44:18+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 07:44:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4e50c3e60aa40fb73dd7f0c71998edd6077773a9",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Announcement of a massive strike package signals mobilization and heightened military threat rather than diplomatic deescalation.",
-      "event_key": "us announces iran strike package"
-    }
-  },
-  {
-    "title": "Chinese Missile Support to Iran Alleged by US Intelligence - 조선일보",
-    "summary": "Chinese Missile Support to Iran Alleged by US Intelligence 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkRHcU1DMGlOLWZQb0JIWDZOdHBaY09vbXloN1lTTDhqYXVuLUpoSzZWSG1ZZjZPM0NsM2twWTZFZHk2cEpUR3VhVjdZMjRlU01qTFVvdWJZazFZUURTdGZPY0NKcHkxTG5QamVmd1dGUmlSUXBvTzRwd2NHX19McmgxcUg?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-04-12T06:48:05+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 06:48:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cde41e28c8e728478fcb012a13cf0399c8da7758",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
+      "label": "deescalation_signal",
       "strength": 0.7,
-      "reason": "US allegation that China supplied missiles to Iran raises tensions and risks escalation.",
-      "event_key": "china missile support to iran alleged"
+      "reason": "Moscow urges de-escalation and warnings against escalation amid Washington-Tehran negotiations, signaling restraint rather than direct action.",
+      "event_key": "moscow calls deescalation washington tehran negotiations"
     }
   }
 ]
