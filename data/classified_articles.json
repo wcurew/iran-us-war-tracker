@@ -1,138 +1,53 @@
 [
   {
-    "title": "Why the Iran-U.S. Peace Talks Failed - Time Magazine",
-    "summary": "Why the Iran-U.S. Peace Talks Failed Time Magazine",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXlxdXlHa3l6eWdxM3hlRzdjM2VEcmlWem5wMU4xR2VUUXhvVXJHQ0I0U2YzcmlUNGFoZ0ZlSTVwamVGRXRqMWVGY1UzY29xYS1pNzdQenFvaG1nd3NWLU9SV3JyREg4eE1uMktqRDhqLWoxOC05TE5KcTBwVV8tbG1Ld1Q?oc=5",
-    "source": "Time Magazine",
-    "published_at": "2026-04-13T04:32:00+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 04:32:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2fcbfa6bfb5e80e9113898cc5fe47b27526f9507",
+    "title": "US Moves to Choke Iran’s Oil Lifeline as Talks Collapse - Modern Diplomacy",
+    "summary": "US Moves to Choke Iran’s Oil Lifeline as Talks Collapse Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRzFrdGVQbkxacVZtTm9XQ1o2SXhIYjdZTEw5dmtCQ2JFQUJKN0RGQ3pmcHNnSG5kNlRZLTF4d3JTUi0wMmthcHhTaXdSNXJ5U3Jnd3lLX0pzck1PdU1IN0xhX1NmNUJHckhVRHQ2UllpUE4yaEY1dkdZcEVONzg2WVBhLW1YcnBXZ2JCdEljU183ekRiZlE1Mw?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-04-13T07:04:59+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 07:04:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a7312b3153614eed348e453ebf9f42c53ba0509e",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Article analyzes why diplomatic peace talks between Iran and the U.S. collapsed.",
-      "event_key": "iran us peace talks failed"
+      "label": "escalation",
+      "strength": 0.78,
+      "reason": "Diplomacy collapses while the US intensifies pressure on Iran's oil lifeline, indicating rising tensions.",
+      "event_key": "us moves to choke iran oil talks collapse"
     }
   },
   {
-    "title": "US to blockade Iran ports after talks fail to yield a deal - Reuters",
-    "summary": "US to blockade Iran ports after talks fail to yield a deal Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzI4N2RNd3Atb3R2R3E3WjlPUEhJeHlHd29YUEcxN0RWWUpqZ0FENVhxWWFSTGlZVTl1NjZzMnl1ZU5qM2dUZmRRZ3lBd1BtRWtIck8yWWFZVEV3aWVvMDJaRXo4dVZzemEzY1R2bDNEVHB6dFdhelpIYTRtc3FuZ1hkN05VdmNZZmFZY25LSWd5WnA3YWlFN051bkZZNjFRZXc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-04-13T05:21:16+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 05:21:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f7a95db796fe4c4063ada30737ca53124159aec6",
-    "source_weight": 1.15,
+    "title": "Iran Threatens U.S. Military Retaliation Over Strait of Hormuz Blockade - 조선일보",
+    "summary": "Iran Threatens U.S. Military Retaliation Over Strait of Hormuz Blockade 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWJqS2xnRE1iQ1BFZGttem1FTExYalUtUG1RbG1aLUZNTDhFcV81TFp2OHUzM3N2WGtXQ3I5TVE2alpjTlZQV0NpRUVVTXJ1b0doTTJscDdHY2pjR1p5TlY5X2s3T29RZXNfSkhNR1RyVmNYYTNuSTNPY29TeUNxUkt6MGw?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-04-13T06:07:21+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 06:07:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e3fbbf19358718aa9a18e87a516fb1aa13eb80cf",
+    "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US plans to blockade Iran ports after talks collapsed, a significant military escalation and breakdown of diplomacy.",
-      "event_key": "us blockade of iran ports"
+      "reason": "Iran threatens military retaliation against the U.S. over a Strait of Hormuz blockade, a direct hostile escalation.",
+      "event_key": "iran threatens retaliation hormuz blockade"
     }
   },
   {
-    "title": "Deep Dive: As diplomacy falters, US announces naval blockade of Iran - Amwaj.media",
-    "summary": "Deep Dive: As diplomacy falters, US announces naval blockade of Iran Amwaj.media",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlpYUXVDSEY0bGhXRFo1dDl3MkV3MWY4RFlhNFA3X05OakttdXR0Tk1MNUpRQV9tWWFBLXczdnpvTmt1WV9EZDA4RmxRaU5HVjVHZmM4OFJlYTYwU1dYY2p2eERpZk1wYTRrUWVfd0YxNk5aWXAxelFLUFN2WFZvV1R6Y2xmeTJLaTYtVFNwOElYVlVORHQyd2RRWlB4dHJTekZmSTNn?oc=5",
-    "source": "Amwaj.media",
-    "published_at": "2026-04-13T03:44:37+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 03:44:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "433f95c42780780c1625d9f1f07f792e87f5fde7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US announced a naval blockade—direct military action against Iran, indicating escalation and retaliation posture.",
-      "event_key": "us naval blockade of iran"
-    }
-  },
-  {
-    "title": "Hope for US-Iran diplomacy persists despite collapse of talks in Pakistan: Report - Anadolu Ajansı",
-    "summary": "Hope for US-Iran diplomacy persists despite collapse of talks in Pakistan: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVjSXpnMFA3N3FBMVhsZkFQRmFJczBBNnhsN2VFWW1JeFcyVWhqVTl1NXdyVjV1LWdBdWVpM1A4VzJHUE1sSm1vMEg5VzRIRjJVWm9wdC1tdnBlb0pRbTQyMWFEcnJmUUxhaDU2SldETjFJRktDVDR3ai1TRHlhMnpHYWZidTFwbW5KY3UtdTBmUjYwUXFOWGRxVXN5Zm9zYl9NdHhsV2w3M1ltcFZZX19sWmJEbTNEYm1naHh1TQ?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-13T05:12:02+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 05:12:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7fe47cbc00ad8fae9b03de08d7e4239a3dabee7c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.4,
-      "reason": "Discusses ongoing diplomatic efforts and hope for talks despite collapse of Pakistan meeting.",
-      "event_key": "diplomacy hopes after pakistan talks collapse"
-    }
-  },
-  {
-    "title": "China’s position after the failure of the US-Iran negotiations - Modern Diplomacy",
-    "summary": "China’s position after the failure of the US-Iran negotiations Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0tXNHgyU2tqeHlBTTI0SHF1U284Q1lETzl3NF9TeUFDVmlHYVhTc0Y1dHpaRlphb0RJaXNnVExNUWl2WXBGNFFfOGNEZkM2OUxEcnBjS0tiUWV6VDJLb0c3a3VZcVFaQlQ4TEdYcGFpXzJkOXVNN3pYdjhvN1FwOGo3OFE3TE4weE1BQklwbUJZRlhWZThDdmF4NXQ3ZllON3c?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-04-13T04:00:15+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 04:00:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "92978cf1b34d4c44a2f1ae5d2b777754bdcbc2f6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Reports on failure of US‑Iran negotiations, signaling breakdown of diplomacy and rising tensions.",
-      "event_key": "us iran negotiation failure"
-    }
-  },
-  {
-    "title": "U.S. Naval Blockade Of Iran Could Spark Retaliation, Experts Warn - StratNews Global",
-    "summary": "U.S. Naval Blockade Of Iran Could Spark Retaliation, Experts Warn StratNews Global",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXhNc1JvbmpzZElYQ3Z6NV9HOEl6bjhHRXl4NERzdktuX3kwYndnd0pPWGM0YXI0UllvOWRJMG1JeTM0Skw1S3U4cGlXdi1yZmFmM09YTExSVW1nV044aEdldUhNX0JVeTdnTGEyMWpKUHY4UFEtVmMwaGZzQ0NGZV9qMjJBSFZPSXJoNm9IUTJsc19DblloZ0hGN05hRHF3dElpaUp6b2NaUQ?oc=5",
-    "source": "StratNews Global",
-    "published_at": "2026-04-13T04:45:37+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 04:45:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "01decf3dcc56c028cd3eb9faeeebf4adb91d8619",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Warns U.S. naval blockade would provoke retaliation, signaling rising tensions and potential escalation.",
-      "event_key": "us naval blockade retaliation warning"
-    }
-  },
-  {
-    "title": "Trump says US-Iran ceasefire agreement is 'holding well.' Updates - USA Today",
-    "summary": "Trump says US-Iran ceasefire agreement is 'holding well.' Updates USA Today",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNteGw2NXVhMXFiQWtlTG5aUnFsWm03bm94VkpFVERkdWZKbHFyT18zcXNZcHgwMnVwQzM4OVFfZUhTRVdDbXFFRHNJRnBiejdqUDlxSy1iT3ZKT3lvd0ozaUZVTEtSR090VjVCdWx5R1B4SmdQQ0V5X1ZLaUhiYzRwQXZJSnBLR0JGR09sc1dvNnZyY2RTWlc0U0R4YXV4Q0JYag?oc=5",
-    "source": "USA Today",
-    "published_at": "2026-04-13T02:35:00+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 02:35:00 GMT",
+    "title": "Iran war: What is happening on day 45 of the US-Iran conflict? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 45 of the US-Iran conflict? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnB0M1VDUDJCOUpYTkNxVXJxTXI5OTlJU3daR2Z3NW81NDE1TlNLRUNYUVAxcVlObUtrT0h5R0Q4Tkk2cjcwdkV6Y2lMWFU4ckJ3QzZvUTZ2TEt1WnpUcTd1SlRhNjNaUVV3WWpjdGN2dDB0dVEzSTBVbWNoQ1VKVHFCTi1zTDJZajBkdmQ3UFY1c1VMU2dWdXloN04xQkR2SWFj0gGoAUFVX3lxTE1vWEhmcjEyR2hpeXJKcDhweWJaMmtFVGZXUmJQQ1N3alhJN1I0S2tQYWFiOG1PdFdiSVhKRk5VX0Y0clJMNnlYMTdPYWpXUlBMX3RKeC1QRUFKdmo1RXZUaWhva3ZUVEFhQWNYbkM0Mmk1Z05SZ3kwbnpTQ1c3X2VFcDY2b3lFUlhRQ0h6XzdVeTRqcHNBcGYzU2hOeVBMbTliMWYxemw1Vw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-13T07:34:53+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 07:34:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cd4af0035f80ac49172aa306109c8121f5b9b4e9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.92,
-      "reason": "Trump said the US-Iran ceasefire agreement is holding, indicating an agreed pause in hostilities.",
-      "event_key": "us iran ceasefire holding statement"
-    }
-  },
-  {
-    "title": "\"Last Warning\": Iran Releases Video Of Standoff With US Warship In Hormuz - NDTV",
-    "summary": "\"Last Warning\": Iran Releases Video Of Standoff With US Warship In Hormuz NDTV",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUZnS1NQOTg4bXEzdVhQTlRCbTE0Q1FQNVpybXpxcjFYbjA3MWJidW8zRjAwU04tc3NZLW9YQkIwQVp1WUtFQmVLek94RnBHT1d5Ty1TR2V2a3h5ZnFUdXhNUWViNzBSV0hzUDBSd3pHbFA5cUttTjM5R2dJTTJySHZCUHBTTDYzbE00dHRqTFVBLTZxQXk2YnF0NmlmMU02amlMZ0FEY0poM0ZlNlZ2aWxsb2NqTTF5eXVVOXNpb9IBxwFBVV95cUxNbnJnQ0V3c0ZDZTR3ZzhCVnlUYTRXZVBJdjl4dk1VNzkyMXFPLVhzY2J5YkF1aXFMeDN5N0x1LXhsSkNfbDNpblN3LUtXZkhGTDh0RFh3elVlTXFxbXNVX2FsZmo4TFMzRVRWSzF4QUoydUVyUDZOQkxqVm1xdnZ0T2RMaF9fOWxZekNlcE1xSFJ2MTUtaUlyN29kWVAzZTI1d1BFSktoTWs2UjB1MDllQXQ1MVZhZDlBbnU2WEJQQUhiVjFmWk0w?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-04-13T03:53:33+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 03:53:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "49c5a5af4f93f9f24da2d728974d0484e62f1f0d",
+    "article_id": "daa8dd66041475a5c30f73aa825133bc6f232459",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Direct confrontational standoff and threatening 'Last Warning' to a US warship, rising tensions without a strike.",
-      "event_key": "iran us hormuz standoff video"
+      "strength": 0.45,
+      "reason": "Daily update on an active US‑Iran conflict implies ongoing tensions and hostilities rather than diplomacy.",
+      "event_key": "day 45 conflict update"
     }
   }
 ]
