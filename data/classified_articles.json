@@ -1,87 +1,138 @@
 [
   {
-    "title": "Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks - The Washington Post",
-    "summary": "Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUQ5M3hXWEZSNC0teHdxd1hKRzc0RjVWSUF0b2ZrSUw5YWItc1lJN3VhTW5SVkZPNmo0U0FIajJ1QWJEdWtrNGdST2hYeWRpeU5RUU4xakhobDV1bElBVjhZMWJrS05HeFpHYjJZdUJCMTlpalBFWDBqNlRHQUpTbTh2endNZFJNTE9uRkF3?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-04-12T20:40:34+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 20:40:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0c7d8899bf36c591c578de96d2407fc835c878d",
+    "title": "U.S.-Iran Talks Timeline: Key Moments Between Two Adversaries - The New York Times",
+    "summary": "U.S.-Iran Talks Timeline: Key Moments Between Two Adversaries The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXoyOTBEMVRxOW5kbm1yNlJOMkYwWVN2QVByM3ZHRWs1eU1BTXZmdk94eDRfWmlVZUNmZTRfVkFjZzUxWUlxR3Vqdko1RTZtcExqM0Z0TkpZcXduaEhZY0JyQUtSYXVrZlA0ZXBZVWo3U283ZnJobTdxRGVLUkl0MVdqMHF6Y3QtV2Q5UGRDTGNKN1lpQmc?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-12T23:40:00+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 23:40:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5c774f06995fbac3bba3ef538390646511898b5e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Article is a timeline of diplomatic talks and key negotiation moments between the U.S. and Iran.",
+      "event_key": "us iran talks timeline"
+    }
+  },
+  {
+    "title": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust - The New York Times",
+    "summary": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0lva2J4ckZDLW5vUHZSc2FYLUFISG9oRTZGaUhmQkNfX1ZSLUVSQ1hRcGtKZWJxNnhNbFl4WlBMeXBaVVp0R3lOZ2xYS0lIcUgyNG1MMlZMNjhvX0MzNU1oM2FXdF84NmJ2RkYwdHp3OXd2Zjg4OEt6SDNOWjdMa1d1VQ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-04-12T22:55:24+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 22:55:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "74379b535bef8c5cf2613c50bc5a73f48d6b5167",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Reports on Vance-led diplomatic talks with Iran; friendly negotiations though no deal.",
-      "event_key": "vance iran negotiations"
+      "reason": "Report describes failed diplomatic talks, citing U.S. failure to win Iran's trust.",
+      "event_key": "iran us talks failed trust"
     }
   },
   {
-    "title": "Failure of US-Iran Talks Set to Weigh on Risk Assets Monday - Bloomberg.com",
-    "summary": "Failure of US-Iran Talks Set to Weigh on Risk Assets Monday Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUU5ak1PdWJjVnNCalNxeENsWUNQWHhpOXIzbzFmV1FOS0dTdXRLU29YbFlfcG5fSm1hUW9FeUlMbHRHcDNocFI0VGRqVW9qSW1UQW9BeUMzWVdtN1l6QnVzdHlaZFYzbkVtclRBVlBNZzNsZkVwQnZKMXZpekRDZWhkRVdud005dVRYczJvVWs1cC1rMzJzckNZS3pyWmlidFh2cE92QlA3SGtRSEow?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-04-12T19:28:10+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 19:28:10 GMT",
+    "title": "US military threatens to blockade all Iranian ports starting on Monday - Al Jazeera",
+    "summary": "US military threatens to blockade all Iranian ports starting on Monday Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnBIVmsyTlNIa0FSQzlST1hkX0lBVlcwNlVQTU51ejdGX3E2OTdvRmJXT3FhYlQyRDVhaFU5bm9PeVVtV2tsZFBYVVJZN29SVkJabGJvc2lfd3NTeWJGV2xHWnBIcDYxRkdlN2M5aXhwTmV4aUQ1Wm1DTlJiNHc1NUF1Ym9zbFlYcFVDVXVuY0F4RFViVHJHekZHVXFpU2YzUHlmNzhLaWYxRUUwclN6ZtIBtgFBVV95cUxNZjQ3dlBWRlJjVU40WkJrVUl3aDdyeTBkelNOelJDcnB2M1lmYWNHWEYtTDByam5yaHFhWTJYS1ZYNzRsX0tKa3ZtNHJmdmhhQm5QTWFEWndLTDRtV3FzT2s5aXptWmF1VWlaVnlVazBNQlVMTjdramhhUHFSZkxycWhlS0l3bEFhT1gwM1E3cHBhaWwtN3JvN25hYUswMEl3UkZCcHBydWRJTk85Q1l0X1MybTFtZw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-13T00:42:52+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 00:42:52 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b5da9aaca7265297cdf849d51a2808f21bdea37b",
-    "source_weight": 1.1,
+    "article_id": "3bbc278fbe68bafe1ce4a76d28e3026658ab9595",
+    "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Reported failure of US-Iran talks indicates a breakdown in diplomacy and rising tensions.",
-      "event_key": "us iran talks failure"
+      "strength": 0.9,
+      "reason": "US threat to blockade Iranian ports is a direct military threat and escalation.",
+      "event_key": "us threat blockade iran ports"
     }
   },
   {
-    "title": "Trump says US will blockade strait of Hormuz after Iran peace talks fail - The Guardian",
-    "summary": "Trump says US will blockade strait of Hormuz after Iran peace talks fail The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWRwNmRNWWNYV2pJMWZVSjNaZFVFMnRiLW5FSGtpUHhMR2h1aE1qa0t5UU5mSlRKdUJoZTR5Sk1PeC1KMnFacFZUcG9pSGZoMnFFRXJiSDFEYUt0eXRFek1zVlM4TEJ0bGtMeVZhc1otaHBKa1luSlBPSzZUTDRKekw3VElieEd1ZkJ3TFlybTBBcHg4V3U4OS1YWUp6U0x6Ymh2SDJlbmdxM2txTmFwQW1rak10UQ?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-04-12T18:53:00+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 18:53:00 GMT",
+    "title": "Oil jumps above $100 as US to blockade Iranian ports after peace talks fail - BBC",
+    "summary": "Oil jumps above $100 as US to blockade Iranian ports after peace talks fail BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EYlhRdTlzeWl3YWp6ZEo2eUJtdUJNeUI5YndBOThfRThxUUxOTGJKWTU5ZjQwT3l2SVpWRnVaZ3BBU3F0SFBkUkE3OFZtWHJJRk5yR2lDWkNiZw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-04-13T00:35:08+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 00:35:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9af7a9b346eb90d4df8da43a5e01745a1252f84d",
+    "article_id": "e5f32efc45db084867718da0a8dd10946fca484d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "U.S. threat to blockade the Strait of Hormuz after failed talks signals rising tensions and hostile rhetoric.",
-      "event_key": "us threat blockade hormuz"
+      "reason": "US to blockade Iranian ports after failed peace talks, a direct hostile military escalation.",
+      "event_key": "us blockade iranian ports"
     }
   },
   {
-    "title": "Iran Blames U.S. for Talks Breakdown, Keeps Diplomacy Door Open - 조선일보",
-    "summary": "Iran Blames U.S. for Talks Breakdown, Keeps Diplomacy Door Open 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHd1QWFJNHA1a2c3RnBRV3hEQXZRYVRXbE9ub2VoY2M3ZDlvQjQ4U2lOQ1pfc2VtTkdXN3FzdjlFWldFb2NudzViNFhSYlBKdllNVTBZOF8zR0k4aG95VmlyR3F6UG95cVFVeHhLTmNfbDFDWFM3ZnU3ZmFERV9IcUVoVnY?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-04-12T21:08:49+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 21:08:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "199c86730e9ce965480037986e6968b7699ea4b9",
+    "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail - CNBC",
+    "summary": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail CNBC",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTNYWUpHMzRsOFlrNlVuTjRxZWVrX3o5VGxRSVpfeFVpN2U3OXdsM08teFRnN2NyWDRQaktrUWZlenVZSzlQNE94QkJrdUU0bjQ3d2lZOEN1WDRqX053OUhtY3FxcmRiWEpMNVVzQWp2X3U1aUZlcUZKYm1hQlBQWS1IVHVBd9IBiwFBVV95cUxNUXRITzgxbTJ1a1VkRXBjMFJpVjUwLXhsZkNXQnpEcThuSE1lNVhBd2xLdXV5N3l2c3d4ZUl1R0JvZzAyNlhUSzhuRWFxM3d0d3Q2cDE0dUVsRTFBaEotNTZVYmxPX0hLaHQyMVk0WENiRWs0d2Q1SGp2NzJveGYxbi1aZEN0N3VSbjNn?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-04-12T22:04:16+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 22:04:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5ff591b139a92bf68bd82ac59b16402e830bdb0c",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.72,
-      "reason": "Talks reportedly broke down but Iran still signals willingness to keep diplomatic channels open.",
-      "event_key": "talks breakdown diplomacy door open"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "U.S. Navy to blockade Iran's ports after failed peace talks — direct military action against Iran.",
+      "event_key": "us navy blockade iran ports"
     }
   },
   {
-    "title": "The impact of the US-Israel-Iran crisis on Asia - Modern Diplomacy",
-    "summary": "The impact of the US-Israel-Iran crisis on Asia Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUndrNXNTcEtNbkI3bkhYWUt3eG43QlljYkcxQjZDaFRMdEtkWjNVMGU3bGd6YTdQcVVPV21qeTM4Z3doQjlQX0w4ZXJ6bEI3cmZnRTBQV2hLeTBLM1VTT1NtZENfWkRtc21SWDNfV3IwMUxlSkNPOHFkR2czbW1xN0VqUFJjY25sam5mLWIwUQ?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-04-12T19:00:00+00:00",
-    "raw_pub_date": "Sun, 12 Apr 2026 19:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b9eda4298a7c6c47e1ad46b99d1e3815e8d55e01",
+    "title": "The Latest: US military says it will blockade Iranian ports after ceasefire talks end - Boston Herald",
+    "summary": "The Latest: US military says it will blockade Iranian ports after ceasefire talks end Boston Herald",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEs3WTNQVGtiVUlDY0dHZGdQcGJJWnVlWFR4OG1yUzVwN1dqc21ZWldiWGlFQ0hvMjl2R3ZkRk1OMVAzd3hZc2dWOFExamgyQnNqVVVrLVd0NTNwNHJRbkJuM1JZbmIyNTh6Z3NsY1VENzBYWDN5SmtIcG9GRHBzZE52NF95b3l5TW9keHByWThTZkJGWk5YYVdCcHJjdDJfWWl2RjdNOGtodkE4UkNvZjJYV081V2VaRGh4SkNsWWxpdWs?oc=5",
+    "source": "Boston Herald",
+    "published_at": "2026-04-13T00:13:37+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 00:13:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4bd11853e45383542549c9a318fdbea1453bcf9e",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "General analysis of regional impact, not reporting active Iran–US diplomatic or military developments.",
-      "event_key": "impact on asia general"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US military announced plans to blockade Iranian ports after ceasefire talks ended — a direct military coercive action.",
+      "event_key": "us blockade iran ports"
+    }
+  },
+  {
+    "title": "‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz - Fox News",
+    "summary": "‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz Fox News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2I2TjFmSVNtOFVEZWVRZV9RTFNmdGFnSnQ0Z29HMmw4M1kyTzdZZGhyVW9ZVF8taVV2aF9CRTcwdkJtWFViNFN0MjNER083ZmlFUjNiTXdwWG9kRTVjb3ktQ1dObG5CYjh4OXJ0VWdzZkhmNzc5b2cxak1ma1dCY1VhTmRCdFNoV3N3dkszZTZYRVYzQm1lVlpXaFlVYThjTWMwVXY3ONIBrAFBVV95cUxNdk1UU2xRSlVEaGFFM0ZkUW9DQjhNZ2dEaG03aVFlcU1xNlZwLWdLdU01Um4wQi1xRHM3V0EwRkpLS3I2SEVXUXlWV3VVamlHTFYtRTFScVZ3ZVRaTDhnNzNuaFp3bU1wYlpqSVI1TzdQTFMtSEFqOXJrcU4tcEdIV2tiRTB1a1R1cFoxWlI3ZnpOZEJVajZIYkhNdUlURFhRdXFFeTNpaFJyR1dG?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-04-13T00:24:11+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 00:24:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "315b2b597be4477840b0fd2c94183bbcdc6b142b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issues threats to target a new maritime chokepoint if the US acts on Hormuz, signaling escalation and warnings.",
+      "event_key": "iran threatens new chokepoint hormuz"
+    }
+  },
+  {
+    "title": "US-Iran talks collapse, military escalation warning issued - Crypto Briefing",
+    "summary": "US-Iran talks collapse, military escalation warning issued Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZllLcldTVDZxNnA3VnJKb3hMckJ5ckdlQ2RqWkRMWm5jOV9aQlhTWHhyQUZfLU51bFdyRDl2dW94OGYyRllkdVJwZHc4MF9ZNU9xTU0wc3BmYzNMVEdZRjdsSlAzMGk1d05qZFNIS29ZbTJmc2liVUtSQXdoYThwTDFaTzgxVDhoYmxJNFV3?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-12T21:40:03+00:00",
+    "raw_pub_date": "Sun, 12 Apr 2026 21:40:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a4f24272d1726093cb22467a719c32a067c0e392",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Diplomatic talks collapsed and a military escalation warning was issued, indicating breakdown of talks and rising tensions.",
+      "event_key": "us iran talks collapse military warning"
     }
   }
 ]
