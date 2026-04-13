@@ -1,172 +1,223 @@
 [
   {
-    "title": "U.S. will begin blockading ships in Strait of Hormuz on Monday after Iran talks yield no deal - CBS News",
-    "summary": "U.S. will begin blockading ships in Strait of Hormuz on Monday after Iran talks yield no deal CBS News",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3BjbS0wbVNsakpHdDNKSDU3aGFWUFg4akhreGM0RVR4MHlneFlhM3kyWllUeWtnZXA2aERjRGZQZlluQlJBMHQ1ZnZGNE9BMER2Wmo2OV9tZW5NNHhHVmk0bHNoZTc5UWhLQlJnMGFxRlptQ0lQd2FEckV3SWhuYjlRZEJHWlQxWTczYnFkSjhGQnZlckMw0gGcAUFVX3lxTE9DVHRIbV92d1JUV1RLRU80S0hRYjREMkhnWkVmYUFub3BXRGwxb3lMdjhJdWxDZ0V6cHVrYnRENHpKWlAxYzdxMDVNZzN0Mk4tZUs3cFVfRW5LMC1OT0ktcE94T3RwaEszSGR0VHB0MlB4bW4yYk5kUk1pTUF5R2tiODFkX0I1cTRMYVc2UXZQQTUtRGhyWmpHTDdNeQ?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-04-13T08:17:00+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 08:17:00 GMT",
+    "title": "Failed US-Iran talks in Pakistan raise questions about fragile ceasefire - AP News",
+    "summary": "Failed US-Iran talks in Pakistan raise questions about fragile ceasefire AP News",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeU9PSmx6eVBjTUg2NXVHRzd5WjJqTXZTUnpCMWpSWHc1bHVQQ3lPdk5LS3BxdXlOWF9rMkpiUlFsaWdGaldvdFpROWR0bjVFeG16ektBeHdROVlxbTBsMDFaeC1FdjdrckhCd3R2djYyX3hQMm5IdEtWWFByUUpEazNXV1h3RXNmZnp3?oc=5",
+    "source": "AP News",
+    "published_at": "2026-04-13T11:42:00+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 11:42:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ad6302d6c1b0d99948076d0c178a872cf1338eae",
+    "article_id": "3d791ce4f8321410a16548de9d8b50eea968c84c",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Breakdown of diplomatic talks raises doubts about fragile ceasefire, increasing tensions between U.S. and Iran.",
+      "event_key": "failed us iran talks pakistan"
+    }
+  },
+  {
+    "title": "U.S. military to block ships from Iran’s ports after peace talks fail - NPR",
+    "summary": "U.S. military to block ships from Iran’s ports after peace talks fail NPR",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EcXlLNHR6bXRPRWZoMFJqTk44NXdKQ014MVZLbmwxRWktUGp0SlpfeDV2Q1E1bWpOWlowWDNrdktMOTZ3cS1GVmJHVDRRdk9SdlFRVFY1UE1iNVdGaXF1Y1M0TXlQVlBvMFZXRm9B?oc=5",
+    "source": "NPR",
+    "published_at": "2026-04-13T11:03:13+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 11:03:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "66b2e7be2b5ac9c4f2f29c830202740efa032ec0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "U.S. military to interdict/block ships from Iranian ports—direct military action after failed peace talks.",
+      "event_key": "us block ships from iran ports"
+    }
+  },
+  {
+    "title": "How the US-Iran talks in Islamabad unfolded - Al Jazeera",
+    "summary": "How the US-Iran talks in Islamabad unfolded Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0lOOGVhdlQ2bWlrN3p3TUZQc1ROX2pydDEydkU5X1g0WF9YWUlfd3JFR0p6XzdNeDF6Mzk0Vmc0VWxNdUh4R3BfcGZTQkYySnoxOUlmbFV3M1hlWWhwQ3VaYkRwcFBwd3Q5OHI5T1VQMlRvQWhGMzVpRHBjQnRhVU5TUDB3SnNlbm9zTtIBkgFBVV95cUxNcFJZdDctR1I5TkdleHI1VXdJSUlQb01YZHRjeHJRdWZULUd4aUFkUUczNWxhQkZXT1BfM3Y5MnM2TkNTaTJQeldPN3dYbkUxN09xOHJHRlhkN3FMN1RUM3N0d3lleXpWOHUwZE5rQTRKUTZyYjY0OEt3VmFJVnRXanlFcnlMamtIMHNmaFNkOV9KQQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-13T11:24:18+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 11:24:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a7ebddc5739ec07727892eeb664dadf92d788c41",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Detailed reporting on US–Iran diplomatic talks held in Islamabad.",
+      "event_key": "us iran talks islamabad"
+    }
+  },
+  {
+    "title": "First Thing: Trump says US will blockade strait of Hormuz after Iran peace talks fail - The Guardian",
+    "summary": "First Thing: Trump says US will blockade strait of Hormuz after Iran peace talks fail The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXdQSGNLMTNJTGNDV0UyWG11d3hMeGkyeUdfOFhhRWhFbDdsbVJLSlk3aVJFbE9TWVp1N1BlVkl4ZzdHSzRPY3RReXN2RF9oV3Y1NW1OVnk4SkZhZFBqeTRabmljTXQ0UndMUGtaQ3Q1eTN3ODcwLUY1VU56UXRWdU1IcXdubW5BaG9rTFRoNG85QVI0QV9seW5Da3ZoNzAwZ3NYamd5UWxFd3dHQjVwamI2ak5SWTA?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-04-13T11:28:00+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 11:28:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e7bc08bbf22d244bfee9e99366de5a2595b530e5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US threat to blockade the Strait of Hormuz after talks failed, raising tensions and signaling potential military action.",
+      "event_key": "us threat blockade hormuz"
+    }
+  },
+  {
+    "title": "After negotiations over the weekend between the U.S. and Iran ended without a breakthrough, the temporary cease-fire appears to be increasingly precarious. Listen to \"The Daily.\" - facebook.com",
+    "summary": "After negotiations over the weekend between the U.S. and Iran ended without a breakthrough, the temporary cease-fire appears to be increasingly precarious. Listen to \"The Daily.\" facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNW04ZVpJaDZKY1dYVlJuRlEwaU5Yai1BV3pRVjZGbzJKZ0R6NDZ4SFpjbURoV1Q0NExzVk42Vzg2bUhNR1NITUZCNUp3d1ZkT3pRRDM5SUpJWjkwVkJtd2pZQTNxVldhV1dVYTY4Y3dPTm1SeC1UQ2lzQ2VpMk1tTEZrSUR1Q3o0SjZtb0ctMm04UTBhTjB2bjJLMkZrYnNzdW9HNU84NmFsLXhOTzZEeC11N0JRVm9Qck96LXpQOGlVUl9oRVBQaVl0eXM0ck0yaUdZ?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-04-13T12:10:11+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 12:10:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "19a9a1b6cf8c06bcd92f1f1a4e0ad849eec37a2b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Weekend U.S.-Iran talks ended without breakthrough; discusses ongoing negotiations and precarious temporary cease-fire.",
+      "event_key": "us iran talks no breakthrough"
+    }
+  },
+  {
+    "title": "Why the US-Iran Talks in Pakistan Ended in a Deadlock - The Diplomat – Asia-Pacific",
+    "summary": "Why the US-Iran Talks in Pakistan Ended in a Deadlock The Diplomat – Asia-Pacific",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVp0WDM3OTdmQjVOMmVINHRBS29ySWpPWjNtcXVTQ0JrS3drbV9YVHVLZ3BDUXF4LXZPQktnUmFBRWxYQ2thNWVyXzVBRHNsWnhob0xMOFNCcnNKREtVYV9RQU9BRDlhZER0dWYzOEJSemV4amdrcm5iUWNOTXdxVE5fMTlqX1RXWXZnbmdSZw?oc=5",
+    "source": "The Diplomat – Asia-Pacific",
+    "published_at": "2026-04-13T11:56:55+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 11:56:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7b9d1ea3c289edd07c3a94da47df212203ba7f07",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Article discusses diplomatic talks between the US and Iran in Pakistan that ended in deadlock.",
+      "event_key": "us iran talks deadlock pakistan"
+    }
+  },
+  {
+    "title": "Iran vows retaliation over US blockade plan, threatens all Persian Gulf ports - MillenniumPost",
+    "summary": "Iran vows retaliation over US blockade plan, threatens all Persian Gulf ports MillenniumPost",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXpLaHhubkdmMU1UQkMwTUk3N3VOUkhmNXlGWFQ3cUVJUzNLM0dTeHlnV3F2R0MtSk40MDlqbE51N0N5WlBjNWMtR1lGM3Y4MmFiMTRCWjlVelhFY05IbXk3TlVJWlc5QzFjM1RiMVR6azBHMUwxc3VZX2Y0NTNpMWl2anpVOTFNNjVpWHJua0djdHhzN2t3ZjJYUUo0TUstX1AtZ3BTRjZCQWdWX1l4ZFpUUkdXMXdaTzB30gHAAUFVX3lxTE1wYWVkVHhlMTlnUEw4QTNDd2NJdjhRTlFMWTEtRXpjY0pJVGgwbGJLdVM1QnVjSF9LTWh1SU9rb0FQVktPUzh1WjllUHNLZTdQaUEtczNsSVNsa0wwZFlMSzMyUllja3daOEJEbENwWW1FcXN3X0ZwR0hLYjMtVURIQzZ3cEFsbDVGMm5hS1k5ZUh3dkltM0NsMVU4M09qbklqX0RBMENPc0ZkT2I2UEFQMlhqaHh1VlNUVDlZZlk5NQ?oc=5",
+    "source": "MillenniumPost",
+    "published_at": "2026-04-13T12:30:36+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 12:30:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "848ec3f3a7e47b7b2c2cda065da33f71284bbb11",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran's public threats of retaliation over a US blockade plan increase tensions and signal hostile posture.",
+      "event_key": "iran threat retaliation blockade plan"
+    }
+  },
+  {
+    "title": "Iran Warns of Retaliation if US Imposes Gulf Blockade - Khoj Samachar",
+    "summary": "Iran Warns of Retaliation if US Imposes Gulf Blockade Khoj Samachar",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cElrQ183X0RPekFXTU9OeF9SZXFzcF9PR0hON2VLaFo4WlVRNk9HYVlLeEZwS3NEbGROS0dTMTBYWXdsTnh4ZnFDdFFsbkQ2QVpfTHUzbFBXc2FERWtCV29XSzVXZw?oc=5",
+    "source": "Khoj Samachar",
+    "published_at": "2026-04-13T12:45:50+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 12:45:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0560db46200675b991c4eaf044f5fdb867fdb6b1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran's warning of retaliation over a potential US Gulf blockade is a direct threat that raises tensions.",
+      "event_key": "iran warns retaliation over gulf blockade"
+    }
+  },
+  {
+    "title": "Iran threatens to strike back against U.S. naval blockade - The Washington Post",
+    "summary": "Iran threatens to strike back against U.S. naval blockade The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFhoMDRaMTFyTy1BejgxRXhBYS1ZTDE3WUtwenNnQmZQN0o1NkpIYnZKNnNGN1Ewa1U1R3J5ZFotV04yV2hXS1JmaFdVOUVLYndKY0JEQTZabXkwLVdOeW1ZaVMtVFlzMUFjOWt3QWNrNkEtUWUybGFRVmZ6My1DVEdhT24?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-04-13T12:41:22+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 12:41:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0014a24f3e8fd28a57f621cf21762ebd18eb5508",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's threat to strike back is a direct warning increasing tensions over a U.S. naval blockade.",
+      "event_key": "iran threat strike us naval blockade"
+    }
+  },
+  {
+    "title": "US-Israeli Attacks on Iran Show a Pattern of ‘Double-Tap’ Strikes - New Lines Magazine",
+    "summary": "US-Israeli Attacks on Iran Show a Pattern of ‘Double-Tap’ Strikes New Lines Magazine",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNME5vczZqUnkxdnBjeExJdFNKVFVfNVN3VEVVN2hyeFV1QkRIUndHTktBbGNZbm9xNmk1dEx3Wjhzc2tnMGV0OXRvWHBDM1Myekw0RmNBM05wZW1TYzR3NWVkM3FBRXZkRlk1TlQ2QVhEbkY0UEFHcXpKWFk4WEloX0ZsU3NYSXJscUNZTEFUSVcxV1Nmc1dwNVR4UHc5aW8?oc=5",
+    "source": "New Lines Magazine",
+    "published_at": "2026-04-13T11:16:00+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 11:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1df1b2f27501d681577a51a1c626100afa6b2635",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US to begin a naval blockade in the Strait of Hormuz after talks failed—direct military action.",
-      "event_key": "us blockade strait of hormuz"
+      "reason": "Reports on US-Israeli attacks on Iran described as 'double-tap' strikes.",
+      "event_key": "us israel double tap attacks on iran"
     }
   },
   {
-    "title": "\"The door is not closed\": Mediators rush to revive U.S.-Iran talks - Axios",
-    "summary": "\"The door is not closed\": Mediators rush to revive U.S.-Iran talks Axios",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RcVA5QXZRZm5jMGpiU21kQ1VhemxlWWhNUUhQTVdGbzV6Z2M3X2dBSUJyN0cxS2V1SEk4NlVXVHBaVmRxbUVmMk9CTjR4MF9wMU56Q1kwOWlSVWVTcTlGWW1LcTBwTzBKeWRLUEZhUUkzcnZIZEpLdg?oc=5",
-    "source": "Axios",
-    "published_at": "2026-04-13T09:00:27+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 09:00:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dfc0d3181ed21a7150341c1e264186b7c7045859",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Mediators are actively working to revive U.S.-Iran diplomatic talks.",
-      "event_key": "mediators revive us iran talks"
-    }
-  },
-  {
-    "title": "Iran Military Denounces US Naval Blockade as ‘Illegal’ and ‘Piracy,’ Warns of Regional Maritime Retaliation - Kurdistan24",
-    "summary": "Iran Military Denounces US Naval Blockade as ‘Illegal’ and ‘Piracy,’ Warns of Regional Maritime Retaliation Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcE52ZV82UW1kODJrMk5mMVIwWUF3N1pNZ3BlbWV6dENzbjFfQ1Q2aG9sOUVmNU1XNjZSaERuM2tLYzlGcFRESzhGQk84QlFvNXRNcHpKTmRwVE0yV0syWWpPOE84dmdTT2NtanhzTGRKbmtZNlRCT1pHWXNOSXk1WklXV0l1VEJ0X0tRNmFnT01wek9rcE5HS0xJRDlyX2lvY2pBd0VqdDcyamFKWi1Hd0lYaEgycFpLS3V3ek1CdW85SW5sOUtRaXQ5QlFSVExDaTR3QS1wVk5xMENIdU1J?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-04-13T08:09:22+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 08:09:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "679da12088c65b3107c4d12e80726997881eab37",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran condemns US naval blockade and warns of maritime retaliation, signaling heightened tensions and threat of confrontation.",
-      "event_key": "iran warns maritime retaliation against us blockade"
-    }
-  },
-  {
-    "title": "US naval blockade of Iran represents a major military endeavor - Baird Maritime",
-    "summary": "US naval blockade of Iran represents a major military endeavor Baird Maritime",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW5RYXY5RWkzenBXOVRSTENvVE8yY0VFTko1NVo1akVmS3Npa3lYRXc1V2FiNnpQemNWUzZYQloxQjhEcnRXSjQyUE9KRWxtS29tWVFScXl0U3E1YUZiNElPa0J6d3lBNFlLSWViRHUwV0xhdVFSbWtXLUdjTGlrR01SNWlBOWtuVlpDQ1hWRmNtdWZFRjBuVy02MlZrUVhMOGgtd2pFZ1dKZW_SAbgBQVVfeXFMTVlqR1dubGJYWjR0TFNzeXQ5YWlROWJTdnRaUTU4STM1Y3dMeWR1TUZYVnFTUkdLQy1tS3dEbnBPUWV3M0ZZemkxSThLOVFpa1daeWZ4aThzS05FRzREQUlqQVVJMU9Ka1ctXzJCQVF0a1pJRW8xSWZFMi1uTTZpV2E3TE45X2p6cGpHMk13ZHBsN0RIdUZwN2tBODdXcVZ6LTFVZ0RXQWJ5azVZVzd6STlueWFBRW9WMw?oc=5",
-    "source": "Baird Maritime",
-    "published_at": "2026-04-13T09:01:58+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 09:01:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b80aa5c6cdf8e4921c2c779a3c1a0cfc5316fc95",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Discusses a US naval blockade, a significant military move raising tensions with Iran.",
-      "event_key": "us naval blockade of iran"
-    }
-  },
-  {
-    "title": "In new escalation, US to blockade Strait of Hormuz after failed Iran talks - The Arab Weekly",
-    "summary": "In new escalation, US to blockade Strait of Hormuz after failed Iran talks The Arab Weekly",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmItQS1RZmRqYzN0RFItQkg4clMteWlEd1RWMG85aHljOXc3dUwwN09teXllMC1tT0hGemlyOWc4WFBVdzE0MlhZTkdFZTFWd0VqTWVNUFBoUnFmaW5DOWxUUF9oMmZ6Q3B1eWYxZFFhQVcxQnVoaC1TYU9vV3dCaVlFMGlJa1VlQmE3UUF6RFNheklH?oc=5",
-    "source": "The Arab Weekly",
-    "published_at": "2026-04-13T08:08:11+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 08:08:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "97950af8767fa0e046fe6b708c942222db6aa889",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.87,
-      "reason": "US planning a blockade of the Strait of Hormuz after failed talks signals clear military escalation.",
-      "event_key": "us blockade strait of hormuz after failed talks"
-    }
-  },
-  {
-    "title": "US blockade of Iran in the Strait of Hormuz sends oil prices soaring and raises the risk of escalation - Atalayar",
-    "summary": "US blockade of Iran in the Strait of Hormuz sends oil prices soaring and raises the risk of escalation Atalayar",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOREJKZnNtZDRNdnRMeWVZVDdRQ1BUb0c1NU1XVUJOaTJYODRhMC1najAtaktYMF9aekMwdGRLLUdJTF9JZzlOVUxnRm1OYjE5aU1xRUdZVnZBTVh3OEVCU1J2d3lqdHAzaDFMaGlEZTFkYlNWUUhwUlN6R2QxWGxHdG1uSTczaUJ2Tl9jcjBNcTRkMGdCWFNjdldwX1k3LU0zVk53VFd3UlI1VHJFVGZPOU93WDl3ejk4bElTUUlPdFNJSlBUNUV4WHJDWldKd1RfdjdXendTcEh3X2c4d0I3aXgtX1NTRnRybGRiRFE5cjU0VEdzQnpJWjVORTN0RnE2OXBZaNIBigJBVV95cUxQR2duY1lwUi1rRy1hQzlQTnNCRkk0dDIxVXhkQ3dDYWVPRFp5Q3IyZ2t2Zlhfb2dmNkZ1eWNhNjJzSjNoU0QxLUVReEdnZkt2SmpzWXRaWkk3M0JKa1NQdWNBeWkzcXdwM2twODRIbGtSMXA4a29idWc4Uy1vUW1hMnhJWFhRZVZJNFBZb0JUSk1ieVI0TFJ5M1Ryc2ZGNHJubjk0c3gyNlAzakgyeVBRWDBid3lpRy1JOG5fcnh2RmtncjVIZnBRdkgwdk9aSVNyUW1uSnF3djBsaFd1Uzk1bExpUGNXTmpnU2Qwa1g4cDk4NEo3SUtYcVR1MXRKTFRHcC1IZEdmanNOZw?oc=5",
-    "source": "Atalayar",
-    "published_at": "2026-04-13T10:00:28+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 10:00:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c31b62efd380d2491e34eb590161fe65c0db5653",
+    "title": "Iranian passenger plane destroyed in US strikes on Mashhad International Airport - report - The Jerusalem Post",
+    "summary": "Iranian passenger plane destroyed in US strikes on Mashhad International Airport - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iQnREX216UzJVSTNRaVlHRzk1YlBhcWNsdGhBZjBNSGRXMHJkOElyWWZIdURIR3dDb3RjU2c4Y28yRWxoWWROZm4tbkdxeEQ1V01FYVp5N1N5cEJ0cUJnaVpYNGJ1a1lVYWc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-04-13T12:42:12+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 12:42:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "968b8739a0bdb84eebba0ffcca8c6ba1fd7ace84",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US strikes on Mashhad airport destroyed an Iranian passenger plane—direct military action.",
+      "event_key": "us strikes mashhad airport destroy plane"
+    }
+  },
+  {
+    "title": "US will begin its own blockade of the Strait of Hormuz as Iran threatens Gulf ports - KSDK",
+    "summary": "US will begin its own blockade of the Strait of Hormuz as Iran threatens Gulf ports KSDK",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmJ3SlBxSF9yeUU0WmNEdURFQlhzeDFqZkM3cjFhWUQ3T3dCVG1BSjFKeWFPcUhHSEg5NzE5SHF6aGdfVXY5TGlUNk1iMFNuYjVjak9CZmN4VUlSRHJDZHdfcUZMR1BvcW00ZjZ4TEowcktvbkxSemdBVmV0ektoTmNDcS1IdUJ4eUp5Qnc2MUhucWFPaWZRZjQ0OThsSVQ1SUlHMXZjdnpWUXZzUTlsMk5sakJnLWhmNXVKUFNaQ3pTN0E3NGlfMDlkMHBZRzRPNEp4VkNkUXp0VG42ME5OeWFheXBlNjBwWHZ5WEt3?oc=5",
+    "source": "KSDK",
+    "published_at": "2026-04-13T10:48:00+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 10:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e5dea42f31cf0ffcd8ee71e63f23af2e4180b925",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.85,
-      "reason": "US blockade is a direct military action against Iran in the Strait of Hormuz, implying immediate confrontation.",
+      "reason": "US blockade and Iranian threats represent a direct military escalation in the Strait of Hormuz.",
       "event_key": "us blockade strait of hormuz"
     }
   },
   {
-    "title": "Iran Sends Warning on Gulf Ports After US Threat to Block Hormuz - Bloomberg.com",
-    "summary": "Iran Sends Warning on Gulf Ports After US Threat to Block Hormuz Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSmV2WEVCNlh2U1FwRkROdWx0cEk0R0g2cXpBekg2Wmd3UEVlYklqNUZmNXhnTkVkWlQ2NDRGSVVtQVFSWC1CMEtlYnhFNGFsdE5xOWtNRWJBTWhrNU1XbURvNUxQTEZ3UVNRV0lDTGV4LTNXeURzckVVSTFfZDM3aWxzVF9xTXl3WWVGczlwTmVmM1B4ZE9EUFNMNGREUzBnOTFHZUh0VWkydHFUZHRqYm9BeVFTTlNzTXFQYThGeU1oSnhWWUVKa2p3LXVVYV9icnRhOA?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-04-13T10:27:45+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 10:27:45 GMT",
+    "title": "No Gulf port will be safe: Iran's big warning hours before US blockade begins - India Today",
+    "summary": "No Gulf port will be safe: Iran's big warning hours before US blockade begins India Today",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzl2M0Fmd1RCeVNIT3ZZenh1aEhxcHZtbGtBaGRfVS1WX3J1TV8tSTlWNEhidC1tQ05ndTBQd01mRExfYXlPbXVpektLX3RkdkJ5V3JJc2lFcXhVNzQ3WHlHbXBnRWZCdDd1TjQyVHQxY2tjdUpzUTBpczRpV09iZFZJejZJbnFxU0ZzREY1TUJjdDFtVnVrSzZDcnhBdXlzWnRJUEJzVVVRamJuZy0wcjdlTzZPdU9JVW5pYm43ZDdQUzNzRVZMaNIBzgFBVV95cUxPaWtfc3pfVDY4czUwZ19DaUZ4VXdfOXd4RmRUSXUwS3hEUHFubjFUVWk2ODEyNFl2MXptYzBzRV9hUXVqOEFTRDlIMURZeVZlMEZfOGRGd1dEcnpDWXcyd29ibVBOdmdiU2dfMkQyYXlIODZxZWxRdUdZTUJ1b1RxaS1OQ0toRG0zUXducUNLX3F5RnFhWTVfX2JzQzhHS1FGRHNEVkdRU0t3RmhjNEdZaUZYQXlEMEs5ZVN0eDhBdmJyZmlDNFFWc3B1Z3lWdw?oc=5",
+    "source": "India Today",
+    "published_at": "2026-04-13T10:44:50+00:00",
+    "raw_pub_date": "Mon, 13 Apr 2026 10:44:50 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0b511fcfde12aa667ef9117fb94d167840f46f79",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran warned Gulf ports in response to a US threat to block the Strait of Hormuz, signaling rising tensions.",
-      "event_key": "iran warning gulf ports after us hormuz threat"
-    }
-  },
-  {
-    "title": "Malacañang on Monday expressed concern over the failure of ceasefire talks between the United States (U.S.) and Iran, warning of continued risks to global oil supply and prices. #IntegratedStateMedia #ISM - facebook.com",
-    "summary": "Malacañang on Monday expressed concern over the failure of ceasefire talks between the United States (U.S.) and Iran, warning of continued risks to global oil supply and prices. #IntegratedStateMedia #ISM facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnZwWS0yZ3k1VHQyOXFJTDBLdzF3YWhMeks3S1ZEbHFoV1M4TC1lenVNeEJUYXlDdl9seUJnNWI5ZE5ZS1RoeGlILVRySzUxYkNmV2d3ek1wREoxcUhUS1hKTHlzUEJLd1k0NXJVZHZKYWRfNGlQOTFqNndVVmpMV1NseW1ScVNsZUZBcmUyb3FvUURoVzRVMUdqN1R4OWFPYzBQRlAyRElEOEVwQVZLNTN4dF9tY01Wd195a0g1QTRkVVoyWDBlZEJZMDc4OUFURkZfVENiaw?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-04-13T08:22:14+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 08:22:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1827768ac2af7c6c28d141ff11c4a95a09fb28b",
+    "article_id": "b54913d059e2f3c3e855e82ce5047e601a215533",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "Failure of ceasefire talks signals breakdown of diplomacy and increased tensions between the U.S. and Iran.",
-      "event_key": "failure of ceasefire talks us iran"
-    }
-  },
-  {
-    "title": "‘Go back to Indian Ocean immediately’: Iran issues stark warning to US warship in Strait of Hormuz - WION",
-    "summary": "‘Go back to Indian Ocean immediately’: Iran issues stark warning to US warship in Strait of Hormuz WION",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ3BlODJBVC1USDJkcDllZXdVWF9fb3RIWTBXcG9iZ0hKWGcwMXhGLUNDX0FOV3BkRk9VYkJXdUE5aHZMcHVRQjBsRHZNYWpDNG1pdXFyZzItdTJzUnRqVGZiNzFqVUpnbWIxSXdyTEh3SWpVQW9pMjZmczVtcGRNcXI0dnUwQWRjeFdpZVJGRnNYaE52OV9IU0hoUzZCa1VCZW5WdmxIUXpYejc5VkZLaFZBSlctbXdEOWh3bDdCNmM5T3g2TmhKcm9ta2lqMjY4U0RuM3ZmTdIB3AFBVV95cUxNUmkwd1NMSHk2LUExb0NwaER0ODA4VEV6MWJBN3E1N1dDQ3l2Z1NxRU03bDd4QVByOGpCb2Q4N0NscF9ydVJqWUsxcV9IYnBjLXM1VTY1WXF6bUtiYlFlX25fSFdNd29ReElZWlVYTnVJa0E1bkM3M1BiNlpsYXdvSUZvWi1tMElrLUhqNXl2WER6bWVOZk10Y3pMWVo0SjRkcXZuVW9QVDcxQkMtSEU0dDY2YVFrdklXbjB0NlJIUGwtY1RaeVVzS1psQzVNNlpJOTVXYlNLNDBGRV9B?oc=5",
-    "source": "WION",
-    "published_at": "2026-04-13T10:20:00+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 10:20:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "904581991d5dafee7e5e43a37efaf7f342ae701b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issued a stark warning to a US warship—hostile rhetoric and confrontation raising tensions.",
-      "event_key": "iran warns us warship strait of hormuz"
-    }
-  },
-  {
-    "title": "Iran calls US Hormuz blockade ‘piracy’ as tensions raise global oil fears - ynetnews",
-    "summary": "Iran calls US Hormuz blockade ‘piracy’ as tensions raise global oil fears ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RclhBeXlqQXpoU3c4bXdNaUYzVGl4dTJMMDFMeU9jaEc1dWl5NzNJQ2M1QUVuNGlON21SZkJuZ2hHVTFLNVNBUWRtSnRNU0c3Q3pNMmtn?oc=5",
-    "source": "ynetnews",
-    "published_at": "2026-04-13T08:36:53+00:00",
-    "raw_pub_date": "Mon, 13 Apr 2026 08:36:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8180cc3589de8df32e2e4d120353cd584944c06b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran condemns a US Hormuz blockade as 'piracy', heightening tensions and oil market fears.",
-      "event_key": "us blockade hormuz iran calls piracy"
+      "reason": "Iran issued explicit threats warning Gulf ports ahead of a looming US blockade, signaling rising tensions and hostile rhetoric.",
+      "event_key": "iran warning gulf ports before us blockade"
     }
   }
 ]
