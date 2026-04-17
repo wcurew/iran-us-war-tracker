@@ -1,36 +1,70 @@
 [
   {
-    "title": "Iran’s War With Israel and the United States | Global Conflict Tracker - Council on Foreign Relations",
-    "summary": "Iran’s War With Israel and the United States | Global Conflict Tracker Council on Foreign Relations",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-    "source": "Council on Foreign Relations",
-    "published_at": "2026-04-17T08:08:28+00:00",
-    "raw_pub_date": "Fri, 17 Apr 2026 08:08:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "564d36c95413e9fe894255df879e8e85e8aad227",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.0,
-      "reason": "Background overview/tracker piece, not reporting a specific Iran–US diplomatic or military development.",
-      "event_key": "background overview cfr"
-    }
-  },
-  {
-    "title": "Diplomatic momentum builds as Lebanon truce boosts prospects for renewed U.S.-Iran talks - Xinhua",
-    "summary": "Diplomatic momentum builds as Lebanon truce boosts prospects for renewed U.S.-Iran talks Xinhua",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41cktDbWx1V0lrY1U2aHRURmNKV2x6YzEzTURoekZPc29KakFOcHNBS2JBMmVkX2VyS0ZnXzJfOFZtYWJYRzJIclNaUENjRy1JZFRHdXAwNlJrQUlvOVJPYngybWRCenBMemhuZjRhVGJEbTZKWWZvMS1mZ20?oc=5",
-    "source": "Xinhua",
-    "published_at": "2026-04-17T08:38:16+00:00",
-    "raw_pub_date": "Fri, 17 Apr 2026 08:38:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "02c80d6633b7544e8bb5150c0768e62e09819fe4",
+    "title": "Could the Lebanon ceasefire lead to US-Iran talks breakthrough? - Al Jazeera",
+    "summary": "Could the Lebanon ceasefire lead to US-Iran talks breakthrough? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVZQajZLMnA5TzFOemU3dl9GYk9DaXlfY2NtT3pqY3FQRE54czNOY0RTMm83YWlfWml6NEtzZ2Q4YUhSWDA0OXlKQkRES1lESGNxSGN4RERlWENzbndpYWJ5YUF6bFowVkFOX0dkRlBJLTlvZy1wQWRBS21pOHk3LTAxS0hscFpfSEFsZWZlbzZxN01KNmpYWGZtWGJUZXJGNlNyWWVNVGtvTWhhTFZoUl80Z9IBuAFBVV95cUxPTURaakJFNFlyLTZiU04xRHVRZzBJZGtZMVc2bjRlMVhLLVJaT3UwNFc1QTNYUTQwbmdteG5Mdms0b005NG9COV9fSzBzZUtESXh2aFg1dGFsMzl4dnFoVnBlaTBvNXpOYkIyLVp6SFRHRUdBbEJCemotcnp0LXJiTTh0MHdlU2lUZVBNQjhIaVd5dVlkZzduR2J5NmM4cXIxMjJJTFJlanlyWEtjZWZGdk5OVzBxaDZz?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-17T11:45:58+00:00",
+    "raw_pub_date": "Fri, 17 Apr 2026 11:45:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cb72d50a2951407cbc0faab51c52748fba6e56d0",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Lebanon truce increases prospects for renewed U.S.-Iran talks, indicating active diplomatic engagement.",
-      "event_key": "lebanon truce boosts us iran talks"
+      "strength": 0.7,
+      "reason": "Article speculates whether Lebanon ceasefire could enable breakthrough in US-Iran diplomatic talks.",
+      "event_key": "lebanon ceasefire us iran talks breakthrough"
+    }
+  },
+  {
+    "title": "Oil Falls Further on U.S.-Iran Negotiation Hopes - WSJ",
+    "summary": "Oil Falls Further on U.S.-Iran Negotiation Hopes WSJ",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXV1NVFIU00tbi1DNU1xS1VDWjd2eWlQMnBVWWxGalMxNFlYejdnemhlSGJ4R3lBU29KMGRTX1JHOExfbklKVkpKOTZ3ZEdNSll0MXI0ZGU0eTdpS3ZFNVNiWmRiT2FKNmtGdXl1U3ZJV3NaWHNna3RxSFh1RElTaEhSWVVXZVJndEtET0VpSHlDWmR3RlZzMURuQjBmRlZoRklBYzdQbw?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-04-17T11:16:00+00:00",
+    "raw_pub_date": "Fri, 17 Apr 2026 11:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dd581964c6b60985dde0455a583cb9bc75b03963",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Markets reacting to hopes of U.S.-Iran negotiations to reduce tensions.",
+      "event_key": "us iran negotiation hopes"
+    }
+  },
+  {
+    "title": "Iran's arsenal still has teeth. US intelligence says it still has thousands of missiles and drones. - Business Insider",
+    "summary": "Iran's arsenal still has teeth. US intelligence says it still has thousands of missiles and drones. Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXBJTFdCQTF2QkJOa3ExcHBtSzV0SGpoOW5HYV9WRFZ2ZW16T3M1Vy0zQXpTMmQ5WEN4c2NTVFItdkVpdkNTSGF3ZGsyck9vRW1yWGxndWk2NWdBaFhlbUVjMF9ra2h3WXUtdGV6M2c1dktZZWI0Vmx6UGdZelJ4U2tuM2tOelVoVE1Oa3JJaFczbjRSRkU3WTNaY0N4TzVYRHhBQXVB?oc=5",
+    "source": "Business Insider",
+    "published_at": "2026-04-17T13:09:00+00:00",
+    "raw_pub_date": "Fri, 17 Apr 2026 13:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "62287eebabb7b4df6593758814555561bdda8224",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "US intelligence highlighting Iran's large missile and drone stockpiles signals heightened military threat potential.",
+      "event_key": "us intel iran missiles drones"
+    }
+  },
+  {
+    "title": "US equity funds extend inflows on Iran de-escalation hopes By Reuters - Investing.com",
+    "summary": "US equity funds extend inflows on Iran de-escalation hopes By Reuters Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmVldk5QN3Y4XzA0d2c5cmU1QWJUSkh2QWk1a0ZVeEUwdUoySXJBd25vM1pLYTN6UEFmVk92MkU3cG45emJaVWxkMU1IaWI4TlZoR3NmVVczcS1jTVNJUGVvWlFDQXd5MFZnRHZscEhzSFVEcUhaR2pNbVQ0VVMxTjdnckJvVENkMTZoc2pOTmZLd2xsZVpEQnpYZkYydV9HdlpBTUFQSDRwTU11SE5ScFFfcWY?oc=5",
+    "source": "Investing.com",
+    "published_at": "2026-04-17T11:35:47+00:00",
+    "raw_pub_date": "Fri, 17 Apr 2026 11:35:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1bbf410eab96210a6a553280341a4f9cf4aa36c6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Markets responding to hopes of reduced tensions rather than concrete ceasefire or strikes.",
+      "event_key": "market reaction deescalation hopes"
     }
   }
 ]
