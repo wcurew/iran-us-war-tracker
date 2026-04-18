@@ -1,104 +1,70 @@
 [
   {
-    "title": "Iran Did Not Agree to Hold a Second Round of Negotiations with the United States - Hasht-e Subh Daily",
-    "summary": "Iran Did Not Agree to Hold a Second Round of Negotiations with the United States Hasht-e Subh Daily",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNU00NGxRU0g3VU9LMk1WTVR2Nnl3UnppdmVLZUVhQjFjTk4wR3Jkd3BhTjhJM2J5MXRtVUo2U2g2M1RtUlBXdnN0V0hZNVJpdHNGenZENVhxTDR3QmlESVJjcVV6NkFpSlVwMUxnYkZEZw?oc=5",
-    "source": "Hasht-e Subh Daily",
-    "published_at": "2026-04-18T14:03:15+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 14:03:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cc31c4b638fc639b67e94fc3a27a3845d68dc7c7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.5,
-      "reason": "Iran refused to agree to a second round of negotiations with the United States.",
-      "event_key": "iran refuses second round us negotiations"
-    }
-  },
-  {
-    "title": "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed - Al Jazeera",
-    "summary": "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDJNNmtHclZnMjZzd3B2cFJJa0RWbktJWnI1MGI4cTh1d3l4REdOdWtNNFBoUENYSDFwSTUtSDJuZFNpOUZ0NGw3Q2hKQkpfZXJyTUItaE1fcEREa2s4WENLbW12Y1RZeHpGalpJY3BUQjA4YlVqZ285clgzdHd2SmtXZ3pucFNNdWtib1pPTlQ5dGo5bGNHd0RBUjVQZzRYR3gwQUx3UUg3cmhYTVR1TGlmeGhYVE9oYmNMZdIBwgFBVV95cUxNVjUwTlJQSnZaVC1leDd5MEExQ0F4cW1ZSlZ5M3dmRXBmTTFhNnR4THZfTjMtM0dPMVdrMlVocmFmYU9QLWw3bFRDa1Zabmx0NzBrdl9WMUI3blM0RWhscTRHZjdBMk4xLUZEZ0EzTUt2Njk3cllYN1l0Z0JHam5zQWNlSWhrT0ZlR1FZdVl6V2hWR0x2QTY1TXZNTlRHazRocGl6LVRoTHJvU3hZVDRVak9KakN5N2c3Uk4yRC1zN2hzUQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-04-18T13:05:47+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 13:05:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "98b5a0cc40acf25d5dd65f875877077b98ad29bb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Deputy FM says talks with the US are paused pending agreement on a framework, indicating active diplomatic negotiations.",
-      "event_key": "iran us talks framework delay"
-    }
-  },
-  {
-    "title": "Iranian official says US 'maximalist' demands stall face-to-face talks - San Francisco Chronicle",
-    "summary": "Iranian official says US 'maximalist' demands stall face-to-face talks San Francisco Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWNrVzE0aFdIQ2hzZHFHREpmZDBMVDBORzk0Y1F0TTFmLWdpbHlNekFtSHhDbFpmNmx6OXZlbEgtbjRuUjZWaHAxWUpBWE5PNWxFN0FQTzRCcWZJSWlndmdBWnZfSGxMSm9QZDlNbURJWXNJT3dBOTNuMW04SDlhQm9WY2dpMFp3Qnh4TnpIWnVCMUMxZmFGU0JHZ0xBUUdFN29MaE5R?oc=5",
-    "source": "San Francisco Chronicle",
-    "published_at": "2026-04-18T13:26:31+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 13:26:31 GMT",
+    "title": "Iranian official says excessive demands made by U.S. are barrier to in-person talks - PBS",
+    "summary": "Iranian official says excessive demands made by U.S. are barrier to in-person talks PBS",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk0xblhob3ZLR2FZZk80VHJHVlhMZG1LVnY5T25KeFBaclQ4YmdfUVRuQU9VdHJ4QUFuM0NZY3Jsa3NRYlFUZlI2eUkwdGtPRkxFSFk4WW15bmFTVDZZWjF2bnJDMXdYVmFpbnJqVGNWWU1PRGNIYy1mUHdBSUlIMkpETnFfRlhrYWVVTTJlbmtLakc5b0Z0N0tvazRxbjBYS3RtWDQtblY4R2x3NnJjOXhWQU1NYk5Y?oc=5",
+    "source": "PBS",
+    "published_at": "2026-04-18T17:56:38+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 17:56:38 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "96081151c646a88a92c8341c784edcd25152c346",
+    "article_id": "956f6846a0b39a40e6916d282c87c1e03139456f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iranian official says U.S. demands are preventing in-person talks, indicating diplomatic negotiation hurdles.",
+      "event_key": "us demands block in person talks"
+    }
+  },
+  {
+    "title": "Trump warns US may ‘drop bombs again’ if no Iran deal by ceasefire deadline - KRQE",
+    "summary": "Trump warns US may ‘drop bombs again’ if no Iran deal by ceasefire deadline KRQE",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkJOSG9KRm5GdEJES3E4bWJhSGhQRVN4M2MyZDJwRVRQeUM5Y1dFbC16c3pUd1NKcF9sa3hYY2JqVlNFdGg1aW5ZNE9TVnZWN2IzZTlBUlBwcjBkNGlaMzNJZUtKUUY2OGlTWmVaQU1ZQVhXa2R0R2VMWG5zS1dsb3d4VmJBcVotZE9oTnUzbkZ0X0lad24yVEpNbTYxREtLRXfSAacBQVVfeXFMTVlRbDZWOEZoTV90TmFfZ1ZlTUFxZThNOVRUM3pYSGZpdjBscTY5ZGdtaTl2Yy1ROEx5VzV4Tjh3akFqS0ZCWmJ4UW11ZTFwbzJoMzdsaS1ncnc4VE8zbVFDMkRzU1ZuazJiZk03NjFTUzZNTkxTMFVWY1UtTDJiTThYSlZNUUhQa19La3VxdUprU3pmblZTQlJEaXBJcGRhdGUyeGlYX28?oc=5",
+    "source": "KRQE",
+    "published_at": "2026-04-18T17:22:06+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 17:22:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4abd9aaf499852a849784765d3c43b6d8d9161c8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Direct threat by Trump to resume bombing if no Iran deal by ceasefire deadline indicates rising tensions.",
+      "event_key": "trump threat bombs if no iran deal"
+    }
+  },
+  {
+    "title": "Iran Reviews New U.S. Proposals as Strait of Hormuz Tensions Escalate - Kurdistan24",
+    "summary": "Iran Reviews New U.S. Proposals as Strait of Hormuz Tensions Escalate Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1J4dXg3ajJKTkpkdGU4QlZCZzMxQy1OdElSemVCVkVpTHhZc1Y4dmVQMVUxU3lkRkI5YklNeGlRcFAwQ1h0RHVtc0dUMmFmSXRMUnd3ejVING05MGJiZkpxTmJQaWtKUEh6aUE2UE5UQkFZdnB3V3AtaE1sUHdBeGlpWUljQXdka1ZORTZsVlMzNm1zdXlNc0wyVVNFaEpmOFVuakw3MWVEVnNILTA3TA?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-04-18T15:36:40+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 15:36:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "667e5c3e998455a04710fd8a340c7f8fbc8ff0ba",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Face-to-face talks stalled by U.S. 'maximalist' demands—diplomatic negotiations context.",
-      "event_key": "iran us talks stalled"
+      "reason": "Iran reviewing U.S. proposals indicates active diplomatic engagement despite rising Strait of Hormuz tensions.",
+      "event_key": "iran reviews us proposals strait of hormuz"
     }
   },
   {
-    "title": "Iran shuts Hormuz again amid US blockade, exposing fragile war diplomacy - Muslim Network TV",
-    "summary": "Iran shuts Hormuz again amid US blockade, exposing fragile war diplomacy Muslim Network TV",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmlnRjFSWjVSOHk4S1BnVVpodVhJN2RGZlZpZjBFSUJISFplX1FZanFFS2xwRmRpY1BHb3EtdmFVZXQzbF9OVk5LN09hWHRvY3dwZmRDV0U5UzVPam9lWGVQNzhJemVBNWZ5bEl4TEpwcmVBazFXTEc3b3pIM19QbTZQNkp2dS1ZUDNNbVppNy1hMDY4a1BQTGxhT3ZFdHdIY1Q4?oc=5",
-    "source": "Muslim Network TV",
-    "published_at": "2026-04-18T14:37:30+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 14:37:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "63f751c0c0c65b28bbc532261ff67d32c7825cad",
+    "title": "Iran says it is reviewing new US proposals as Pakistan army chief urges de-escalation - Arab News PK",
+    "summary": "Iran says it is reviewing new US proposals as Pakistan army chief urges de-escalation Arab News PK",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdTVMdGVHQUw2bEJ5ekE3WlVETC1nRE1UNmpQaUxRZkh0MnI0dmVjWG9Wb0FidktDaXlsTWJseTdLR0ptS1haa28ySEtSS2NzZkV5RENBTHM?oc=5",
+    "source": "Arab News PK",
+    "published_at": "2026-04-18T17:43:26+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 17:43:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a57acf0dc64e63d67496ad25ed47c0653aec465b",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's closure of the Strait of Hormuz amid a US blockade is a direct hostile act raising tensions.",
-      "event_key": "iran closes strait of hormuz"
-    }
-  },
-  {
-    "title": "Israel and US triumph over Iran’s nuclear and missile threat - The Jerusalem Post",
-    "summary": "Israel and US triumph over Iran’s nuclear and missile threat The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tekh2eUFJc0luQVFfbGdqN3VCRWFRQ2xuZ2xkTXJPZUhwcEhQWFUyNlpXU1NRek94RXNrXy1yOExMSGFydHRtS2RFb1lyeG1zQk9SclRmdw?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-04-18T13:07:38+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 13:07:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6b1349d0d3f3ff0d8e6c9dc83e673a96abb1bc1c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Headline/opinion piece without a specific Iran–US diplomatic or military development described.",
-      "event_key": "israel us triumph over iran threat"
-    }
-  },
-  {
-    "title": "Lesson for China? Iran’s low-cost 358 missile takes out million-dollar US assets - South China Morning Post",
-    "summary": "Lesson for China? Iran’s low-cost 358 missile takes out million-dollar US assets South China Morning Post",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYXpxQ1JteTZONkZkX2hCa0JJbDlEbVRsdlRCcmRvV2Z5eG9HSkxnRGxQbWxhZ1BYNE1HeFlSYTlwMUJFQ0NVT0dfTWVKZmVJSDVjak80b3IyNjdvcVJYbjI2YVIzQ3BaNnJoVmZXZmxwY2EwdENPS2otWGVxMUxZenJXTWlGYmRsNVZGSjhKREwyQkQxOXhYTW40VXNjeWs2MXdBSzRSLU5TR3Ruam9kNU1fcm5OeS1fcFBOSW1OcnA3WTR2WFRpdjVXRdIBywFBVV95cUxPejBuQzJVN3lHMEd6cFFZa2JsUG4zRk55U1E4TVF0RC1adHVtSFo1NDdvd0JlRm93Y1lVWGNRLUhKb3pod1JjYzg4OFhXX1AwNkFmekRNMzB1bTQydElNY25KSFY1VE1aUldLNFZtNnNiZGlkQ1dqOU1LTUpTZlhfQ25RUzB6ZDhGelRnQThHdlVJN3MxbV9fdmdoYVFPa2xrR3hZZ2RrQUpGS3lhb08xWmxyMFk2WWhZbHV4UXlBYkpjdnBrUThTUXFjWQ?oc=5",
-    "source": "South China Morning Post",
-    "published_at": "2026-04-18T13:30:09+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 13:30:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e5073742e5fbc5a9d73eec5d32adfd9d76614025",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports Iran's 358 missile destroyed U.S. assets, a direct military strike against U.S. equipment.",
-      "event_key": "iran 358 missile strike on us assets"
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran reviewing new US proposals indicates active diplomatic engagement; Pakistan's call for de-escalation supports talks.",
+      "event_key": "iran reviewing us proposals"
     }
   }
 ]
