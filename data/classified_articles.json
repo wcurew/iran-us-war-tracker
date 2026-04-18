@@ -1,36 +1,53 @@
 [
   {
-    "title": "U.S. and Iran Signal Easing of Tensions - WSJ",
-    "summary": "U.S. and Iran Signal Easing of Tensions WSJ",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmZKNS1TLVRTUl9EVzFySjRHLXVhYXk2dzZ3WVVzRUdobzFNOXRNUjFfUXZMaEl5UjhGNGRqT3FzLUFGbkZJVlRGSGxPeURoRzR4b1dLUmlSOHpCTTljWHQwUWFoZU1MNDItV0JHODM5UVNrc1BHUVpiX3YyYmxpQTB0UXJiMm9tUTFSWG93?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-04-18T02:53:00+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 02:53:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0070549aa90db408edd70e216e733a4ebae2da7f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.8,
-      "reason": "Signals of easing tensions without explicit ceasefire or formal talks.",
-      "event_key": "us iran easing signals"
-    }
-  },
-  {
-    "title": "US-Israel-Iran-War Latest Update: Iran Accuses Donald Trump of 'Seven Lies', Threatens Key Shipping Route - The Sunday Guardian",
-    "summary": "US-Israel-Iran-War Latest Update: Iran Accuses Donald Trump of 'Seven Lies', Threatens Key Shipping Route The Sunday Guardian",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTThveER1SUMzZUI1Zk40d0FrWDFRNHlTZXB4Vk53amZ2dVgzbVRUUlNlbEl5a3ptbnB2Z2dVRFhDUzd0UEZNWGFxeHR1T21HUXV1UVNkcHMwbGo0LXZaY2F1ZEwxR0VqVkEtSGFtVnlSeEE3WXhsOWx3ck45WHhjREVRNTJYUGc5Z0N5WC10NDBZTnhwVDlHRzBPSjNmR2JBSjFfelBBbEdxSXYzdEo0QmtWZm1JbTNoejBoNFdLakduMklNRzRKdzdONnR0WmRtRllWUzY4cFpydXlMWHRN?oc=5",
-    "source": "The Sunday Guardian",
-    "published_at": "2026-04-18T04:18:24+00:00",
-    "raw_pub_date": "Sat, 18 Apr 2026 04:18:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "210eafedf8c30e6eab3c1b307c489727b6eb88a5",
+    "title": "Iran war: What is happening on day 50 of the US-Iran conflict? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 50 of the US-Iran conflict? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjZha0xEUUJ3YTg4c2Y2UXotdGdsVE5VbHFRTExVMG8yZlNCV2gwY3NFWFdJMTEzRXotaUFCRWxVMzlkVU9TalZCcmtqb29QN1YzZ3djLW9ucFlMNnV6WVhGX0o5R2xETl9QcjhXMVdjSHYxSi01OFozN1phd2JlRHFQR1doMkM1ejJ3NEc5OHRoSU9pcm5kM0UteXpiQ3NUNjNn0gGoAUFVX3lxTE5Idk9hQ3pkcU1wNFZhcU9VdEtHYkpNaWhSOW1hWkotSUphU2NyWTBKdmR4aUlhSHZJQTlsc1RqYklacmYyQmtBdjJnNEtWWkJfYWNqcjJvaEtsMmxTTTR0MHhzZGhmTjhPc2ZScU05RzFZQ3E2ekI3SWhlZTJ6QmkzT0hnU0dLNlJoODdpSFFDV2hkSmd2eDJDelg4Q1ZCTVRoeUw3eXRZeA?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-18T06:10:55+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 06:10:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a45e2ee97e0e74514443c77877b489e0ba93c16e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran's threats over a key shipping route and hostile rhetoric raise tensions and signal worsening relations.",
-      "event_key": "iran threatens shipping route"
+      "strength": 0.3,
+      "reason": "General day-50 update likely covers ongoing hostilities and heightened tensions without specific ceasefire or talks.",
+      "event_key": "day50 conflict update"
+    }
+  },
+  {
+    "title": "Iranian and U.S. Negotiation Mediators Meet in Turkey to Review Peace Efforts - 8am.media",
+    "summary": "Iranian and U.S. Negotiation Mediators Meet in Turkey to Review Peace Efforts 8am.media",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idEk4dXVFWmp4NVUzRmNNdWFVY2FIMXZWQ1pYM3pJSWN1ZEJtajA4cHJSeFI4MTFBLUs3elVuQmVyMkFaWWpkN2ZfVVlwU2VQZmdCYzBibzc2UlVSTnBRcUxUZ2o0SDJ3RDlFSQ?oc=5",
+    "source": "8am.media",
+    "published_at": "2026-04-18T06:32:47+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 06:32:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8e3f86b7e4d269d1ab52dd3a8a1bd30f328d474c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Mediators from Iran and the U.S. meeting in Turkey to review peace efforts indicates active diplomatic talks.",
+      "event_key": "mediators meet turkey review peace efforts"
+    }
+  },
+  {
+    "title": "Iran Joins United States, Israel and Lebanon in Entering Fragile De-escalation Phase as Strait of Hormuz Reopens Reshaping Global Oil Flows and Middle East Travel Confidence — Key Updates Travelers Should Watch Now - Travel And Tour World",
+    "summary": "Iran Joins United States, Israel and Lebanon in Entering Fragile De-escalation Phase as Strait of Hormuz Reopens Reshaping Global Oil Flows and Middle East Travel Confidence — Key Updates Travelers Should Watch Now Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNdGpXWU9vdlhTaVdMSkRMQUJDQWNza3loTWdhR2J3elhHaGRjR1BpejZIQ1dvMVU2em0wM2NkeVpzSmtuQWxBcWFqZ0hSU1B6UmozazZpcUJTblFOc1ljcWJhaHNVWXZMSzFZSVpNdkNrSVE0bHZSSHBabTc1SDdiMENaSFZzQ1U0R0VMMmpMY1ZEN1NPQ2FIY1k0OVFab3ZuN3VGMWZuSVNmcGJ5b3g5QTB0ejV6Y0dOakEwcUc3bWt5MnRuZkZmeXZVdUlxMGNVVjh6OF9TQ09qWS1jSzNhZkRFSC1uZExUV0g3RDMzc0RlcjRwUlRET0Q0X0p4NW1SWm1sNnVjenJVRlBfNW02Y2QxQU5fdGlTREVvblQwWVo1SDNzV3hpUmxJUHJRQnc4Y25VaVF6SHh2eWtvNlBaZzg2QlUwOGwxM2pCRmFZV3dteU00M0JPOFdR?oc=5",
+    "source": "Travel And Tour World",
+    "published_at": "2026-04-18T05:48:45+00:00",
+    "raw_pub_date": "Sat, 18 Apr 2026 05:48:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ee90476791758fa826d987c85b55c859941af837",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Describes a fragile de-escalation and reopening of the Strait of Hormuz, signaling cooling tensions without a formal ceasefire.",
+      "event_key": "iran us deescalation strait of hormuz reopens"
     }
   }
 ]
