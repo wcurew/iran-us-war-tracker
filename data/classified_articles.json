@@ -1,665 +1,325 @@
 [
   {
-    "title": "Trump news at a glance: Oil price surges again as Iran accuses US of breaking ceasefire - The Guardian",
-    "summary": "Trump news at a glance: Oil price surges again as Iran accuses US of breaking ceasefire The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDFLWWxOWWRfT2RwV1ZjS3U5OUoxNVVYeDB1Um1sbEFsVmxNZFpBRDQ4MmJUV2huc1FSbk5mS3Y0ZllhbXRCLUpjLWQwbDNqUnQwczJxbDZHdGh1elBSSE9rMVM3dFFNdExfeGFsSWpOb3lXNTYwTVJuNk4tVWtnRkFEZ2o3VE9JMGZ0S21QRzM?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-04-20T00:41:30+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:41:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3542ce4dadce9247a7e6f5557e80bb4942623616",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran accuses the US of breaking a ceasefire, signaling breakdown of truce and rising tensions.",
-      "event_key": "iran accuses us breaking ceasefire"
-    }
-  },
-  {
-    "title": "US seizes Iranian cargo ship, Tehran vows to retaliate - Reuters",
-    "summary": "US seizes Iranian cargo ship, Tehran vows to retaliate Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFlSNGRjVmROeDJHeE80THl5bmJtaXk4YlhsY2hIOVVORUxab282Mk8tX2ZNRmx3SHFZUFppb3Rjd0Iwekt5SXZDcTRmY2Y3WnBGRlNnaWtTeWhQdWU3eUJVX3pnbHFVZll6XzdYVHV3XzBhLVdOYmItaER1ZWZmTU10d1M3MkZyQVhaaHJFM25NTWxFYmtTc01Rb3ByUlRja1lJUWV4ck9nWnR3Y2hUdVpmMnVqdw?oc=5",
+    "title": "World weighs fate of Mideast ceasefire after US seizes Iranian cargo ship - Reuters",
+    "summary": "World weighs fate of Mideast ceasefire after US seizes Iranian cargo ship Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVFA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U?oc=5",
     "source": "Reuters",
-    "published_at": "2026-04-19T22:51:25+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:51:25 GMT",
+    "published_at": "2026-04-20T02:47:19+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 02:47:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4f29ce982bb0463e3b93be3b9dea68e1b4b77a7d",
+    "article_id": "c3a7cfd2f848240319eb14463e9200528383d9b3",
     "source_weight": 1.15,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US directly seized an Iranian cargo ship; Tehran vowed retaliation, indicating direct bilateral military action.",
+      "strength": 0.85,
+      "reason": "US seizure of an Iranian cargo ship is a direct military action undermining ceasefire prospects.",
       "event_key": "us seizes iranian cargo ship"
     }
   },
   {
-    "title": "U.S. seizes Iranian ship amid tense ceasefire, and 8 kids killed in a mass shooting: Weekend Rundown - NBC News",
-    "summary": "U.S. seizes Iranian ship amid tense ceasefire, and 8 kids killed in a mass shooting: Weekend Rundown NBC News",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYVzlQQi1xNGJCaDVSZTZDeGxSZ0RyWWRZR2M3Qm84R21FMXpfMGdrVXlyYVR4T0dfMW81b0Fqek12TnlsRXNIZkZlVHZSeUxsclZlY3BOd19uRFpQekJjejljWjM4VHdoVkV6ei1LV1BOZmw1Vl9WNldCbUo?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-04-19T22:00:42+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:00:42 GMT",
+    "title": "Oil prices surge amid mixed signals on US-Iran peace talks - Al Jazeera",
+    "summary": "Oil prices surge amid mixed signals on US-Iran peace talks Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUcybmNFa1lzdDlrZlBZN18zUU9tM0RaMDA5eE1lMWRiVlBNRlJVa0RZczZaYjl2T3Vnc3FQdXlNb19HMUZTNjV2NGtCczFfSmtkWDBPdGcycmRuRTY1WGRmamZPNU5uamRUSjk0NjlpdG9pQnFDaGNzWnF1ZWdYMjVWSm5YcmZGSGdCSVlDTjExSFVmNEgwNEI3cWNzem1UZl9RVNIBqgFBVV95cUxPZ1pjc2dnSWRIeHhxVmFST0ZJMV84ZWZyUlowUWhURHFwVU9IY242YWx5OUgtNlR0MXh0eVNoM2RPNmxxNmZyc3dLbVFJR1h5OGZQaG9kVERtMTJrUEdIdzlVMmhGSG9VVXVoSkRxa2lnenpxWDN2U1lnUlozQTVGU2hXSjVGRWlpSnIzVm1BamtzMVlyUWo4aW1FUWdlVkg1SFM3dDVTRWtRZw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-20T02:49:26+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 02:49:26 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e64bd75c36bca3bc5a97ced433c7edb173d22758",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "U.S. seized an Iranian ship—direct coercive/military action amid a ceasefire.",
-      "event_key": "us seizes iranian ship"
-    }
-  },
-  {
-    "title": "Trump says U.S. seized Iranian vessel, Iran closes Strait of Hormuz, ceasefire winding down - CBS News",
-    "summary": "Trump says U.S. seized Iranian vessel, Iran closes Strait of Hormuz, ceasefire winding down CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnV6MGhFZ3BhNnJZZGVnTWxPclZ3dWwwbHdTdDVPbm05ekVxcVlqQ0hJLW9UZzN4d005WnlHSXZTSnB1bVZWYk1zV0lYUUtYVEV4eU9jaGhfbDY5UlIwc1Znc2ZOWjlUanRIZVZwUl9SVkd6LUtjblNtTGlfNHRPdHdpa21qTkZCRUsyanpIMkFSWHlSZVNPbFZfWTJoa05oZzFFalgtd2JKRnZOaDZaclYzdHZwSExqVkE?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-04-20T00:34:00+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:34:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d83c43430a8a07a75d307b0f151f9bf7288fb93b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "U.S. seizure of Iranian vessel and Iran closing the Strait of Hormuz while ceasefire winds down signals rising tensions.",
-      "event_key": "us seizes iranian vessel iran closes hormuz"
-    }
-  },
-  {
-    "title": "Iran’s parliament speaker says Tehran ready for ‘necessary measures’ despite talks with US - Anadolu Ajansı",
-    "summary": "Iran’s parliament speaker says Tehran ready for ‘necessary measures’ despite talks with US Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMm0zWjd3U2FTWHRjQXVlWmQ1NUxIbVFkUWMwXzlWcTZULU5jT3dQSlUwWmlEQ1VSRl9KbG5jWXo3YlVhODVHT3ZCUFR3UlA4UHVyN3R6RmhRYWVuSGh4N0s5SUE4dFFXQkxfOGpRbXJld2pxWGNPSmVZTE1yWkRyNVFrcHRhallJdm9DMjNfV3FpZlJ3MzRSc2Y4LURFSmdUclFmcjdBU2twWXd0Sks5SUhGTE1lSTRLOFcyZ1MweHl6QXQ2M09Uek5aY19vbVl6RDNxSWF4Zw?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-20T01:09:23+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:09:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f35cfdb144cbe3fd1c47a088c40f6c68141d81d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Parliament speaker's readiness for 'necessary measures' is a warning amid talks, signaling rising tensions.",
-      "event_key": "iran parliament speaker warning despite us talks"
-    }
-  },
-  {
-    "title": "U.S. seizes Iranian-flagged cargo ship near Strait of Hormuz as new talks are in question - Los Angeles Times",
-    "summary": "U.S. seizes Iranian-flagged cargo ship near Strait of Hormuz as new talks are in question Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFM5SVluY3pzdENOOFo1QUpCLUlNMy1pUm0zcXNYSFAzR1dLMXNheHgzYzJCZEJUVUFHc2hvcmd6TXA4U3RfRUpNWlhWQ3Z4MlloMzdvUk9yWkJmSExKRnByWVZZcFVoVHV0TWpnam1QZ1ZlZU5TWEdWbkZvQS1PYTVZY1duRE1EX0V5MnJybkdPaDNRUV90SVItY2QtM3ZYeXZNaXF4Zm01eW5WYzUwRGMwMGUxbTlYXzR5M1M4Zw?oc=5",
-    "source": "Los Angeles Times",
-    "published_at": "2026-04-19T21:34:00+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 21:34:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b298dad06f54822976c4243008f4b0e56897d7f8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "U.S. seized an Iranian-flagged cargo ship near Strait of Hormuz — a direct U.S. action against Iranian-linked vessel.",
-      "event_key": "us seizes iranian flagged cargo ship hormuz"
-    }
-  },
-  {
-    "title": "Iran says it will use ‘all capabilities’ to defend national interests against US threats - Anadolu Ajansı",
-    "summary": "Iran says it will use ‘all capabilities’ to defend national interests against US threats Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVjBiV1M4SzA1aUZsOFh2SG9zWkVhV01hc19HVGFXSWZGWU5PQmV1VjNXUVduQlR0WlNVOE1wek5QeDZTNTZ4V2JDbERHTW02ZDBBMmszOGp3T0d0Z1puU3VDb1JnRUdLWnN4YVVMZ1JBV1lPUUotQ1dkVFpaMjE0c3k3T2Ztc3VxMDUwdEV5dE9zenRuOVZ6ZUFCeDVubEZxVGRqOGVKYlNZbUYzMUlZdWthdXBYdkd2MmowYW96Mll6NHlfNi1rZG5hVjRqZDByc2J6Zg?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-19T22:32:57+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:32:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f6697480ed6bccabc016f5bc6f919b4ee728569e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran's public threat to use 'all capabilities' against US threats raises tensions and signals escalation.",
-      "event_key": "iran threatens use all capabilities against us"
-    }
-  },
-  {
-    "title": "Pakistan's military chief takes lead on US-Iran talks in diplomatic blitz - France 24",
-    "summary": "Pakistan's military chief takes lead on US-Iran talks in diplomatic blitz France 24",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXFOT01uUlBtZExfMlRsRnR5OThlMU1GZDlCVjdjay1DbVFiblNlUHdNRGdjY0Zob043UTUtSnVzQ1prdERNOGNTU3lmOThkYmI3LWxLaUlvdTRJd0xoWEpzUVNscWhib2ZxTkk1bzByMmI1Ums0SmVRZ2RXemxHZlBLcWV2LVJ5Qzh3eGNFcGdVMXlPQ01ZaUVRRmFjSlVLR1Nud2Y4UWZxeDdLelBSTGN6Um5QZjRxY0RtNQ?oc=5",
-    "source": "France 24",
-    "published_at": "2026-04-20T01:37:13+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:37:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c6597c08e9b6035129f5174405a2b93e8ff79462",
+    "article_id": "501af28c4d88c872c0b3ae0a1986df0a672d2a17",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Pakistan's military chief leading diplomatic talks between the US and Iran indicates active mediation/negotiations.",
-      "event_key": "pak military chief leads us iran talks"
+      "strength": 0.6,
+      "reason": "Article centers on mixed signals about active US-Iran peace talks affecting oil prices.",
+      "event_key": "us iran peace talks mixed signals"
     }
   },
   {
-    "title": "Iran accuses US of breaching commitments, ‘betraying diplomacy’ - Middle East Eye",
-    "summary": "Iran accuses US of breaching commitments, ‘betraying diplomacy’ Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnR0MGxnM3B5YklGQ2NuczBoV2FIQm9jcDBlZUphbFVxcEhJLVA1MXVkb1hoMmUxT09RM3BXaFVWLTkzWENBRnpRbE9Na2pWMkpCNC1tZTRoUUFpNVhsZWQ3X0tIeGtxcWlTSnlLZDFrQzdScVBNTS1rZEQ1NVJxaWlTbi1RWF9BbkthZXVXZ3dJck9NOGxheHdKeFJBQVlhXzJYdU01a1VEUW1aMXowal84LU8?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-04-20T00:16:00+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:16:00 GMT",
+    "title": "Pakistan's military chief takes lead on U.S.-Iran talks in diplomatic blitz - The Japan Times",
+    "summary": "Pakistan's military chief takes lead on U.S.-Iran talks in diplomatic blitz The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVBDWEZDN0FiR3NpTUQ1elF6WGF0Ny1KWWNqeVVEeUZmZUhseTRySk5qNVNvWFF2THEyOFRmX1ZIWTE3Ykowa3lRSnhZaXpVVFdmRFdIeVhldktCQmlsR2ZZQ3MwaS12ZjVjd3dBWGZCek0wb2dvX2o4RmFXSUtsMjdETno2aGUzTFhiZTNrNTlOZERRSkk4?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-04-20T03:01:00+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:01:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2fde3f267c88d2105983d51e2883b9fe15b93f0e",
-    "source_weight": 1.0,
+    "article_id": "4ea0dc66a418f60ef6b9b8809193d0310e067125",
+    "source_weight": 1.1,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran's public accusation of US betraying diplomacy signals breakdown and heightened tensions.",
-      "event_key": "iran accuses us breaching commitments"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Pakistan's military chief leading mediation and diplomatic outreach between the U.S. and Iran.",
+      "event_key": "pakistan military chief mediates us iran talks"
     }
   },
   {
-    "title": "US seizes Iranian vessel in Hormuz; Iran vows 'retaliation soon' — what we know - The Times of India",
-    "summary": "US seizes Iranian vessel in Hormuz; Iran vows 'retaliation soon' — what we know The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWMxVWVsSldjd2ZlUlIxRXhtSEdIZ2tVQzEtUEpqUHJEbTFRNVpqWnJGdjAwN21HcllzSFZOc19MYktoOFZZcXRpSVBtOWVHSFZtWnMyNWtUZlk1S3p1MjlhUzM0TWNwN2I2WkFTUVdxdU9qc2VQSlVQTWtWYlhBOXBRUE9yOUYxaFd5cFlJdWpra2dzR3Q0QVR3ZVdrLTA3TEo1c2ZwaXptQXlBTUd2RjYwTlpJbTRwVTVJdFdUUml4SnFUTUQ3bUUwVzBKSExHakhBYXJOSlNvakJ0LVZRVU9ZWDNOaFdobkpZ0gHwAUFVX3lxTFBfaXpMV3gyVkl4Vm5FTElOZTFLMGVzQnhlNF80QWRfei1xYnhCd2lrUGxWa282cmJ3amFpZlBjbVgxYUZ0c1FYUHE1bFhpZVZlT1l0X1F6cHhXWWcweW5aYzBtQzE1dnI0SUVya0VUcVVKMUo0N1F3ZG1mZnNqbDBiRlFJOWw0ZEVPcUxEY0tNRkJTbmNVQUlWUVMzYlloTUhkVGt3N19rNXNreWNzSkw5SkhBMkdULVl5ZnlYWC1wbzFnMmxxSHpvUkJoMk5kNF9lY29TaHg2bjlmUWNyNFpmSHZxdk5zT3d1bWU1TU12RQ?oc=5",
+    "title": "‘Betrayed diplomacy’: Iran President Pezeshkian flags US 'bullying' in call to Pak PM Sharif - The Times of India",
+    "summary": "‘Betrayed diplomacy’: Iran President Pezeshkian flags US 'bullying' in call to Pak PM Sharif The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVk9CVW1GLXdMRGFvbjBKOHZXeGUwUHVQTEVCdHZTQlZpdGxNU3hmdHVpSDB2Wm9mUG1qVl9DRUwwNklDV1luRmpZeDdaYXVHWHZXN3QxNjdfemp4TGhrNzZMb3R6bk1jZmVEb3dwVHZqMmI4M0N4U1psR1YxY1hqeVI5SURDN0xIRV9kNjZxU1dvNy1IQTRJUE4xZG0tRWQ4eGJ0NmtzYXEtN3lDOHdMWlpxWVlSSHVwNnFCZUVMZUg1N1NUOUNpclVFXzhCcl9QTDhtdHBadXlqdnpYQVV2TlFoTDMyM2cwV1N0NVVicGdqMW9YVXJDQm1VRdIBgAJBVV95cUxQaG1mSkdnbEdTQ25IN01pcnM0RzhuUE5yX3loQWJsdENQQWhQamdoQTBJckVNblZyMGhYZ09fbkZfWHY1dWctRTFVdG16Yzc0NUgwdEpXZmkwZmVKQXVZdVBOVkdJNVNFOUZ6eHJlZzRJaEpLWWQ2RkZWcFphbzlVZEhqVjZSTWVCTGxldEJyR1phaTM5V2JYdXdDVDJNcEU4eEllUXU5WkR4X2lfX0IxTlpna3BoeTQ4NHVrRXpDWXREeVBTNXJjMFFPYU4wM0MzUGNKMnd4bTNfM01oQ1pOVmd0RHNJQkQ4OWJjVE5hbXpXUFR6eVlrcS1welNZQnlO?oc=5",
     "source": "The Times of India",
-    "published_at": "2026-04-20T00:16:00+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:16:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "482a207546667d65c1ff6997cfe05ab8d39b8d7f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.75,
-      "reason": "US interdicted an Iranian vessel and Iran vowed imminent retaliation—direct military action with immediate retaliatory threat.",
-      "event_key": "us seizes iranian vessel hormuz"
-    }
-  },
-  {
-    "title": "Iran accuses US of ceasefire breach, vows retaliation over ship attack - Middle East Eye",
-    "summary": "Iran accuses US of ceasefire breach, vows retaliation over ship attack Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmhhWXNXZnpaX2VsQmtQNXl3ZU9Sanh2THFOOTRiaThQRTItdGg5UWZ0MUVKdjFyRnJaaXExVDF3N2ZpRXhBaFNPMFh5THpoMW1XQkhkZUdmcjNfREpGOTFWU3VSeUdsa2VIZ2NBc3FWWGlDT3FUbHJ2MTBEcTE4azBLMTVWX0FlNlI5S3hfYzhYTHphODhwNDlxUTdLQWNiV0F6SGhiYVJ3RUZfR19NakxFRTRaelJKR3dRalFEMFo?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-04-19T22:07:00+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ed897ab3667d98a984a7b8b7cebc3c85e5c42567",
+    "published_at": "2026-04-20T03:10:00+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:10:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c543d7bab359529a42dd6491f858aadfaa0b695b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's accusation and vow to retaliate signal heightened tensions and threatened retaliation rather than an actual strike or talks.",
-      "event_key": "iran accuses us ceasefire breach vows retaliation ship attack"
+      "strength": 0.6,
+      "reason": "Iranian president's public accusation of US 'bullying' signals hostile rhetoric and rising tensions.",
+      "event_key": "iran president accuses us bullying in call"
     }
   },
   {
-    "title": "Iran accuses US of ceasefire breach, vows retaliation over attack on ship - The Times of Israel",
-    "summary": "Iran accuses US of ceasefire breach, vows retaliation over attack on ship The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTk4SnZiT1IyVW5PdWplTzZMbHI3dVhsUllsSmxlVmVDSkVhc3ZsNmVxVzNXcFdlbjAteHI3cFZRcWxlNVNxMkEtdXczeVplYUJkTG52MUsxUmY4cHF5c3VtbjFRaXhKVjdZSVhPY1hYZE0wZkNCTG1DS2toTlhOUGJuQzU3U1ltdFRlbUFPSjI4MXhqWHVUNDdKWlQ5ODIyUG96c3BUTHhpcGs0Z2MyYzhBcWZMOWRvcnc?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-04-19T22:14:38+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:14:38 GMT",
+    "title": "Iran strikes US vessels in retaliation for cargo ship's seizure: Report - Anadolu Ajansı",
+    "summary": "Iran strikes US vessels in retaliation for cargo ship's seizure: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2tjU0FlS0ZydzlCOVozZU9tdkpZUEVrb3Y1T1V6U3VOb2FONGxsZDBzam50VThuS1ItRUNGVUloU2c1cjBKTXQyRUItcXloemRLOWdrLW1xUXJ2YzV3ak5mR3Z1T1dWZDhRcFB3M1BHb1hfeXFkSUM3MTM1UVZMMXQ1NTZKM1NzOGJZMUNWVS1XRFRIY1dlV0FITDF5VzBGY3lkZzN4bG5COFc1UVNVOWJZOHAwZjhGSFg5VEVR?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-04-20T04:01:24+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 04:01:24 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "36cc23855112e95e8855f8c5b7a6afb58761a841",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran accuses the US of breaching a ceasefire and vows retaliation after an attack on a ship—threatening escalation.",
-      "event_key": "iran accuses us ceasefire breach vows retaliation"
-    }
-  },
-  {
-    "title": "Iran accuses US of breaching truce after vessel seized, vows retaliation shortly - India Today",
-    "summary": "Iran accuses US of breaching truce after vessel seized, vows retaliation shortly India Today",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmljdTlTbnZabFVpb3gzVEtvdThYVEFELV90LUk1azVrNTBlYTVBSXUzcHN3ZEl6U1RiV0xYZ0NiaFRVRUJfVEh3Zld1QnlhakhhNU9NbHpDSFdtb3YzQlh1X2R3dVNZSmpPQU5YYmNlYkhYMWVXREZpeWJfbTl6UUtDSDR1NzdkQWRJVmF6bFFhSER6dHRhandrOTBya0o2OWhSNjN0VUY3SUJhMFh6TFUwTmhreDFqNUgydnp30gHDAUFVX3lxTE5YN0lSSDU4VXpraWZqVk5CWktHYjdKZk01N1dOYWRONU1EU3hmLWQ2c1BXc19relhHRFEzTlQxTFBENVVxZXhuVmxySXZwQTdOTHRRS05BT2xub3FILTlaMXJ5TlRrUHN0VHBqMVZuRmFKNnZnbTNsRFdzbVUxa0ZfZDkzSk9sMm9WeUtQM0wwNEtlVmRaZ21LZlViM2FLeEpvRU00TkRlSnBNSWJ4dmlEZVQxN24zYzZxU1VIWENtUWozRQ?oc=5",
-    "source": "India Today",
-    "published_at": "2026-04-19T23:23:01+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 23:23:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ab89a9250c02aea90370f99c4487c63f17573554",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran accuses US of breaking truce and vows imminent retaliation, signaling rising tensions.",
-      "event_key": "iran accuses us truce breach vows retaliation"
-    }
-  },
-  {
-    "title": "Iran Warns Retaliation After U.S. Fires on Merchant Ship - 조선일보",
-    "summary": "Iran Warns Retaliation After U.S. Fires on Merchant Ship 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXFOY3IzZXFUem96eWxWemtLX0JiRVViOWVIYXVHZ211TFVfSklRc0xJTHpqRlo0QUdlUW9yR0xkelN5LV9NVlIxRW1IU0laa20wZml6NXFlS0Ntb0Y2cm1NVm5XNkxoclBhZ05pQXRUNzBPTTdsaEY2X3o5XzI5VE1fbnc?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-04-20T02:15:00+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 02:15:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7e9b11774ad08460d3d6fd755c2881856d445edc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran warned retaliation after the U.S. fired on a merchant ship, a threat signaling rising tensions.",
-      "event_key": "iran warns retaliation after us fire on merchant ship"
-    }
-  },
-  {
-    "title": "Iran Claims Drone Attack on U.S. Warship in Retaliation - 조선일보",
-    "summary": "Iran Claims Drone Attack on U.S. Warship in Retaliation 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkVXVzBxSlVQNTJzaDg3dXlGNUU3SGs2ZDFuUkc3c0V3dzNTak02ZGRpaUdFQnBORkVzUGJfaC1rNmxPeUJYdXUxVzV4VGlSZTNSeWdFZ2RnczBjSDlPbmJaMWE2VGtGcEd2SjZ1SVdGcWxyTTZ6S0pEQUpEc3daUFc5NWk?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-04-20T01:52:30+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:52:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "47a8704486272ada62375d61d2c2e35ad6e2c274",
+    "article_id": "2db2cfbddf7bd0883b0ddba72bc0056405a9e068",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran claims it launched a drone attack on a U.S. warship as a retaliatory military action.",
-      "event_key": "iran drone attack on us warship retaliation"
+      "reason": "Reports describe Iran conducting direct strikes on US vessels in retaliation for a cargo ship's seizure.",
+      "event_key": "iran strikes us vessels retaliation cargo ship seizure"
     }
   },
   {
-    "title": "Iran's military warns of imminent retaliation after US naval seizure - FXStreet",
-    "summary": "Iran's military warns of imminent retaliation after US naval seizure FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNFo4TkZIX1V6U01hVDd2OHRJWFQxdHRCZHJsYWI0WFFKT04wVkl2MHQ1MEVUZVM2bEEwR2sxdDdOMEphbUFOZzNqWDR5aGlkdWloQ1FfZmp1RlBXanhsY1JBZGVOcGRiS0NKUVk0MEVIN0lDdnp6bXlhQmh1dVNxVGlOeXdrd2dNNmFSd09qNW9aU2N0a0FselVHNDhIS1dUOHpfb2E5aVRURDBBS2dn?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-04-20T01:01:55+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:01:55 GMT",
+    "title": "US Seizes Iranian Cargo Ship, Tehran Vows Retaliation - Marine News Magazine",
+    "summary": "US Seizes Iranian Cargo Ship, Tehran Vows Retaliation Marine News Magazine",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVA2TWsyUy1HRVlEUXNxajU1OWpMdlJIbzZoR0hoNFAxS2F1b2xGd21Qdzk2dG9QVHF4ZmRqSnRveFg5bWc3d3N1QWZmckJ6aHR5cDBHMUJjWXZyQ2VmZ3Q0U3NwVjVxblJmMUdJd3Jjb2tVdWdoUWtmWkRDdG5NbHhSMVlqUQ?oc=5",
+    "source": "Marine News Magazine",
+    "published_at": "2026-04-20T04:54:59+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 04:54:59 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "958a60609a5e9fa405296e053fbf7280529b4f08",
+    "article_id": "ab24313ca7a44b30021ffd61e3b89a64a0769fff",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran's military issues imminent retaliation warning after a U.S. naval seizure, constituting a threat and rising tensions.",
-      "event_key": "iran warns imminent retaliation after us naval seizure"
+      "strength": 0.85,
+      "reason": "US seizure of an Iranian vessel and Tehran's vow to retaliate signals rising tensions and hostile rhetoric.",
+      "event_key": "us seizes iranian cargo ship tehran vows retaliation"
     }
   },
   {
-    "title": "Iran closes Strait of Hormuz again, fires on ships in retaliation for US blockade - WLTX",
-    "summary": "Iran closes Strait of Hormuz again, fires on ships in retaliation for US blockade WLTX",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcVYzNzAxV2ZVUVg1Zkd6WnREQjhZYTFXOXR3dVNjNE1iLU5vcmJFYW5GVEtzNTIyZjhfamNHNkNkcFRDOXRPenoxUVdscGFRVktzdmpCY1p6c0NaaGhRSWd6Q2Q4cUNXSjVNU1UwQkgwcE9QR0hISllTcndUY010enQ3M0NlU2Zyd2F2WHNmcnE1TFo3dWRyMUN1ck5XZHppWktSTU9rR1AwVFd1SzRfY0R1a0Y3WUZ1dkw4UnFheEFnLWhsX1hlMjRyMUZJX0daRmM2S2VIQ0hnYzVsZ0pvRjNBejI4YlcyUjM4NkQ1dEYxQ2FuMHd3S1FhdG1UMW8xb3ZJbDlXektXNVFWMkE?oc=5",
-    "source": "WLTX",
-    "published_at": "2026-04-20T00:23:00+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:23:00 GMT",
+    "title": "US strikes Iranian ship in the Strait of Hormuz, Tehran says it won't participate in upcoming talks | LIVE BLOG - i24NEWS",
+    "summary": "US strikes Iranian ship in the Strait of Hormuz, Tehran says it won't participate in upcoming talks | LIVE BLOG i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbVVyU1lJN05tckRsS1p4NExoRVdlWmh4NEJ0ZjNIaUd0VkpaaUpVRHB2SXpRZzVKWmJlemduVE93cW5qcTQ5N1J1eFRWRWtXelVsSTVTSzdjYTMxbnQ4RmJFN3UtVGZ3dnhyRGkyamNxb3RFaEtXam9tbVpQOVBLNENvTzI5RjQyMG5ZdkNWZGtnWTBwYkVCb09zNWdmZ3dGTWF0U2p6UFZuSHY4YV84SFRMRERjT0FHTnlrWC1qcklFdVB6WU5MUm4yMy16UDRmMjhfQUhHSHAtSnN3anVFVTQ1RmhPWlZPbnk2NUNyR2E?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-04-20T03:39:00+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:39:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dd7ae690f194189a9c0292bda241f97ff017f022",
+    "article_id": "1da84d8e19c21d84dc0243b4c5fb7fc1c2cdbc05",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran closed Strait of Hormuz and fired on ships in direct retaliation for a US blockade — active military strikes.",
-      "event_key": "iran closes strait of hormuz fires on ships"
+      "reason": "US carried out a strike on an Iranian vessel; Tehran also refused to attend upcoming talks.",
+      "event_key": "us strikes iranian ship strait of hormuz"
     }
   },
   {
-    "title": "US seizes Iranian cargo ship; Tehran threatens retaliation - Onmanorama",
-    "summary": "US seizes Iranian cargo ship; Tehran threatens retaliation Onmanorama",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlRQb1lJQk5QX2tlelBDZ2JRY1h5SzRVYU5OUV9uaW8xRmw4VjdaMnNJT1hLVGdwYkFZamh4b3k0TkQxVGpmcndHUTJ6bHdSNHBUSjU2cm9EZmxaLVNWb3J2c1dtU2hQNC0yMkx6R3kxSXl2Y1p3Z3FKYVdidGlhdWdaSzdrek9QYXpJeEp3bUlhM0trck9tMVRqZV9zOVnSAZ8BQVVfeXFMUFpUUG9ZSUJOUF9rZXpQQ2diUWNYeUs0VWFOTlFfbmlvMUZsOFY3WjJzSU9YS1RncGJBWWpoeG95NE5EMVRqZnJ3R1Eyemx3UjRwVEo1NnJvRGZsWi1TVm9ydnNXbVNoUDQtMjJMekd5MUl5dmNad2dxSmFXYnRpYXVnWks3a3pPUGF6SXhKd21JYTNLa3JPbTFUamVfczlZ?oc=5",
-    "source": "Onmanorama",
-    "published_at": "2026-04-20T01:07:45+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:07:45 GMT",
+    "title": "US Seizes Iranian Cargo Ship As Ceasefire Strains, Tehran Rejects New Talks - i24NEWS",
+    "summary": "US Seizes Iranian Cargo Ship As Ceasefire Strains, Tehran Rejects New Talks i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLVBycFlXLTJXVzc5SW9Sa2g4anctTGhGX1Y1TzZGaFk4YThKVTRmT1o2NF9aU3c0dGtqbUN0V29KOGR4NmlmMk85dHFDcTVCdjh4clJRRWpxcFFfbl9aT1lETmNZbWxGeXlIME1Qb0diMVdxSVBoME1HZGxGeXVDbjBwREk2SlJmS21NVzR0RWlUUGNVUU5WZHJhRUgyRXFFaWd2M2kwSGVuMFRUREx3Z3pPSzBmTm9DMVJ4NWlHTng2dElQMm5BNWhtbUtBTlp5c3M3cDJaQW9uZw?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-04-20T05:20:00+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 05:20:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0e02a78d10258433764d70395cd52c1f6f954f75",
+    "article_id": "cec39cbb7e6c2dfa3b90c0a6fbfd06c091c7705a",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US seized an Iranian cargo ship and Tehran threatened retaliation, a direct hostile action with potential military response.",
-      "event_key": "us seizes iranian cargo ship threatened retaliation"
+      "strength": 0.9,
+      "reason": "US seized an Iranian cargo ship while ceasefire strains and Tehran rejected talks—direct US action against Iran.",
+      "event_key": "us seizes iranian cargo ship"
     }
   },
   {
-    "title": "Hormuz Tensions Critical: U.S. Seizes Iranian Ship - 조선일보",
-    "summary": "Hormuz Tensions Critical: U.S. Seizes Iranian Ship 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnRnTFAtV2JNQV9SMGVva1NRbXRJckdXN2JvUzhJT0IzUDFWaXdRSC15eXFPMkhvY09XOHFiWW1xUWZDTnZxSnZfcHp0Q0ktZm8xbVRkZFBlVklCbktzQkRRUi1sOFphUlVhVVp1bjBtRGdxZjRuR2FqeHVlLVg4Y2xjaEM?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-04-20T01:23:16+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:23:16 GMT",
+    "title": "US capture of Iranian cargo ship is escalation and retaliation, experts say - Australian Broadcasting Corporation",
+    "summary": "US capture of Iranian cargo ship is escalation and retaliation, experts say Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0xUakdTWkYyQ0xhNWpYLXVwTEo1TXJmVmVGUmZNVG9ZWmRXUnVkN0JybnBjcFROYVB6NVdKZnR1NzIxR0dTcG9HTVl4cHVBXzdoX2lmenZYSmlZY3V1OXI4THJ2b3ZPSDloOHFZTE9DaUpPVTg0VFBuM1g2UHZyN3JhZmhmOFBLVHBObG9ka3ZNRlU0YnFDWm5FeDVvT2w4TU9r?oc=5",
+    "source": "Australian Broadcasting Corporation",
+    "published_at": "2026-04-20T02:42:26+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 02:42:26 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "12dd512881f24f2885ff6781e2ef0f0b856107e9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "U.S. seized an Iranian vessel in the Strait of Hormuz—direct U.S. military action against Iran.",
-      "event_key": "us seizes iranian ship hormuz"
-    }
-  },
-  {
-    "title": "Iran strikes US warships with drones after cargo ship seizure - CHOSUNBIZ - Chosunbiz",
-    "summary": "Iran strikes US warships with drones after cargo ship seizure - CHOSUNBIZ Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbERSQUFQTDBZLTd0MG5QVktYMFNJY3o3NWdtN2hvV1lycVJUM1lHNmtoTFh1anBvNzdrbDViU0pRRkk1Z3AtZk1SeGFfa2pseWlBYy02MlZyaW5GSkIzbVZtdVBjeG5ZbFJsaFB0N21lSnRNODBGaE91NHFKQXVGMU0zZEhsd2NR0gGcAUFVX3lxTFBSMHI3SkFIcmlWMV9jME9Sdm5xN1k2SC1HLXVMT2lPSHItYlJHWGF2Zk5VYVZaNUpFSzl2SG12MVJvMFBycXY3M0V3QXNpLWJnT256NU1zZHZLcFN6Z01jTV9YVlBLZWFmR01zZnNOWm9lNTlIRm9YYmxySmdtWkRaR3dMZ1g4eUthUkJfUTk3cDZUcDM1N29NQzZnMw?oc=5",
-    "source": "Chosunbiz",
-    "published_at": "2026-04-20T00:31:00+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:31:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bd3b8dc7968722e5faf9d69ac09e1a2da8752d78",
+    "article_id": "a24dbb1444b0545501a8e3682c68607b7d791ec0",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.92,
-      "reason": "Direct Iranian drone strikes on US warships following a cargo ship seizure indicate immediate military attack/retaliation.",
-      "event_key": "iran drone attack on us warships after cargo ship seizure"
+      "reason": "US seizure of an Iranian cargo ship is a direct military action framed as retaliation.",
+      "event_key": "us seizure of iranian cargo ship"
     }
   },
   {
-    "title": "Tehran vows retaliation after us seizes vessel - شفق نيوز",
-    "summary": "Tehran vows retaliation after us seizes vessel شفق نيوز",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQm9xRGJGcFFMTFQ5SlY4MFlRQ1ZQTjVRc0lfb3hpM2xyOXpXOXk1bmhkMGxLVGNIaWxEdEkwOVVUZXJNNEZiUjd4czBBSDJWQnhpOGVkeEpzZnByU0NlZFlUQmxOcFd0ZGsyYzNnVGpnYXdRam1wN1dXY3JCd2FTbDNNcHFFNk42T010dg?oc=5",
-    "source": "شفق نيوز",
-    "published_at": "2026-04-19T22:36:49+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:36:49 GMT",
+    "title": "Iran accuses the U.S. of ceasefire breach, vows retaliation after ship seized in the Gulf of Oman - Monday 20 April - AnewZ",
+    "summary": "Iran accuses the U.S. of ceasefire breach, vows retaliation after ship seized in the Gulf of Oman - Monday 20 April AnewZ",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWW11NnR1SGJWV1pHWmZlSGVBNTRNSlEwRWpyVnc3Z05vakJ4ZzdRc1R3UDlXdkRmdHpJUUN6OXRza1hFV1M5NEhGQVJHZmIwMGExOHBEa3Bkcnk3eUxZZzVyVThYRDhFU3A5NmJTNGs0WUFjNEdKTVpPcFdvRnRQQ0NvMy1qTFotbGpPWXNsanZhbzNTbVcxakFyLXgxVkE?oc=5",
+    "source": "AnewZ",
+    "published_at": "2026-04-20T02:37:33+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 02:37:33 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4bc2b172015be6845034ff35d58721fc4acd45dc",
+    "article_id": "b41c69b9bde95a11b520f5c37bc8ed586db18d33",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Tehran's vow to retaliate after US seizure signals threats and rising tensions rather than an actual strike.",
-      "event_key": "iran vows retaliation after us seizes vessel"
+      "strength": 0.9,
+      "reason": "Iran accuses U.S. of breaching a ceasefire and vows retaliation after a ship seizure, signaling rising tensions.",
+      "event_key": "ceasefire breach ship seizure retaliation threat"
     }
   },
   {
-    "title": "US attacks Iranian vessel in Gulf of Oman for 'defying' naval blockade; Tehran vows retaliation - India TV News",
-    "summary": "US attacks Iranian vessel in Gulf of Oman for 'defying' naval blockade; Tehran vows retaliation India TV News",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWNFQ3RDak5FLW5QdXRIaGJfVndpY3FoTHNOYktiMzBzVUNrd1JnOGxJMGNGSnd6THpyMV9EOEZwYXVCZnlYME5xNXQxU1JwVTZSWFIxNm9STXpRRmVwUklLM0M0T2RrUTgtVml2V0w3Qm13d2tSSUFUWTV3czJqWldMVnlzVmF6LXRtYmxERWpaU1FlLW1kbkU3Yjk3ajZFOGpCSzNidGh4czhoVm04N1RSeXMwVmVLS2gzQW9TVmZlNWlfVmlUUXJId2lmS1BabmU2b2pFWEFNSFpFVGdIZVQ0S1XSAeoBQVVfeXFMUFhaLWpKel9odzRlMllnSmVmcG5vMlRJR3ZqMDlzcDR4NGN2SExzeWdfTEF3eWRsdi1Vd0t5MEp3UnBJY0lKdXZ2aDVKLVY3SEppYTQ0T3ozeUZGTXB5czlIVS1uQjh0cU1yRFJkX0NKWVVRREoyX2FFa0pGQzg0dkVsMVJGTlltOEQ2SGgzUWNlZmNsdU9HZkI4T0VhR0FQX29BVDdCYnp5VGxFSHd6RF9oMFBlZnY0bTM0TnRvdjh4N2pFZ3NMLVcxcExGRVJZWDJWdlk3ZzZKUmdSTlYwTWxhRkZZZW9EdzV3?oc=5",
-    "source": "India TV News",
-    "published_at": "2026-04-20T00:59:37+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:59:37 GMT",
+    "title": "Iran accuses the U.S. of ceasefire breach, vows retaliation after ship seized in the Gulf of Oman - Monday 20 April - AnewZ",
+    "summary": "Iran accuses the U.S. of ceasefire breach, vows retaliation after ship seized in the Gulf of Oman - Monday 20 April AnewZ",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWJvMlVVbUh6czRHZC1NbE9GdnpXY3hURGhJSC16Rnlpbi1BN1Z6T0YydGEwRWZYR0VWdEZkUDJta0RVV1JXQi16bzNsaXlGSE84WDRlVF9FVGFkQjBldndYbTEySHRvQ3lYRFJETkxQVEw4U2NSempnaGhnUFZZQVZwRHh2SDlBdG5uU2dHSmRRc3JrN296aHFhS184bXlCMUJxbjdn?oc=5",
+    "source": "AnewZ",
+    "published_at": "2026-04-20T02:37:33+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 02:37:33 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "74bd456d7615d47eb3aa554da87aedcf29a1b0aa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US attacked an Iranian vessel; Tehran vowed retaliation—direct military strike and likely immediate response.",
-      "event_key": "us strikes iranian vessel gulf of oman"
-    }
-  },
-  {
-    "title": "Bitcoin Slips Below $74K as US Navy Strikes on Iranian Ship - BeInCrypto",
-    "summary": "Bitcoin Slips Below $74K as US Navy Strikes on Iranian Ship BeInCrypto",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWZ6T29hUC13QXdZZXRRRHJwN0l3S2FWeF9nMndOX3oyWWlUZ0s1TlQtSWpwRVRzYWRjZGYtaDlQdy1UMHFHUTFBTEpuSUlBQ3RxU1RFNWdiMnY1WmZtMENYRWNOTTJYNWlkdmc3NlUxazdOSkZ4NUxTNk8wRE5NdEJqWnZMX1hBemc?oc=5",
-    "source": "BeInCrypto",
-    "published_at": "2026-04-19T23:43:00+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 23:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e62a41d37104640f886ce5ab68443199cb84a7ed",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports that the US Navy struck an Iranian ship—direct military action between US and Iran.",
-      "event_key": "us navy strike on iranian ship"
-    }
-  },
-  {
-    "title": "Pope Leo XIV condemns US missile strike on Iranian school, tensions rise - Crypto Briefing",
-    "summary": "Pope Leo XIV condemns US missile strike on Iranian school, tensions rise Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWFabUJINHlzS0FqNTZwa3NhX0lFWnd1WkNRWDBNMlVUM3d1d29abU1jVEUybHdtd0R0Vmh4ZThjNVFlRUU5RTI4UUdNMTNOcWpROGFRNVZBSm9ra0FCUXhzSTJRbmNMZnM3anpnOHNkVm55VmpuX0JRS0xFTEMyQ1dUS0JnMDNJenNVVG1SZ0NGMnhRNE92ZTRrLXZDMnF0?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-20T01:25:56+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:25:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e150628e705b52520c08958483ee1f503e6312aa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports of a US missile strike on an Iranian school and ensuing condemnation, indicating direct military action.",
-      "event_key": "us missile strike iranian school"
-    }
-  },
-  {
-    "title": "US Fires Upon, Seizes Iranian Ship, While Outlook For Peace Talks Uncertain - Radio Free Europe/Radio Liberty",
-    "summary": "US Fires Upon, Seizes Iranian Ship, While Outlook For Peace Talks Uncertain Radio Free Europe/Radio Liberty",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzE2OHFHaHVaOEpjaURtMkNOWUdwWWxjOG1fQklxSmVfUGNKT090NV80SFY4bmhnRmJBUUNDSHYtZ09ybjVXSDdZQ3pUNnFsNDdRQ3RtUkhwOTBRbHJoMlozeUVQNFRvRU9HNjlYOVZIZU9KWHlBQ3hFME9jQ2FyRlpsX2JMQllUZURVbGVQV3RNSng0U1NZ0gGaAUFVX3lxTE1uNWRYcWZkTTByckF1MFhhWkJrQ0NDTTFrcTNDeGV6dHpuLUhyaFJJUjBDQUJfYjBxSVVEUnNVSlF1cVFKNjZ5T3lCQ2ZVU0FsTlZRdW9xNHlJVFF3UUZlX2NTandXbE53cjRDdm50dE1NLUdfLW04RXN1azVFTXNCaUNqcWFScTMwN2wxWC1hQjJHal9jNElhdnc?oc=5",
-    "source": "Radio Free Europe/Radio Liberty",
-    "published_at": "2026-04-19T22:01:14+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:01:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "13766ec6d6b0f6fe133f3b7016b27ae53ad31879",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US fired upon and seized an Iranian ship — direct military action against an Iranian vessel.",
-      "event_key": "us seizes iranian ship"
-    }
-  },
-  {
-    "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz - Al Jazeera",
-    "summary": "US forces attack and seize Iranian ship Touska near Strait of Hormuz Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0J4VU9BNWEwaHdpbG1nal95aFN5SzRNOHVyamxmeVYzWURvbmxmeWVWVHdmd1ZEZzUtRmg1cUpjOGRtNVB5d19ueHVjTXhEbGhfbjQwNW5MSGZJOG12R2ZpbHF5eERXQXhCS1MwR1dibE5ZRXp3RDRZVkp2UElDVHRiOHAwc3FFWHgwaEh3aGhscTJvX20yMTBqT3BfNDVRRlJ5OEhvdGEtZVFSSkxGZF9lalJ2M0lUVEJZ0gHAAUFVX3lxTE9MOHNySXp2QWlNN2M5aXBrelZROWpmRTdiTGFCRFRMb3Z5b1BGQ054WW1uMEJjRmxrUzZCSkp2bGVtVl82RXpfOVdBUTJwWk5EZjJBTmptM3NKMWtmSWVBNDZtcFhxRFl5SEIxbWxra1B2ZDZJdF9ab0tEeXFKeE1CQmhqTlZHTVRlMDhYb1d0MVdfaTREUTFJUDhmR1dfUHVvTVA3RU4tSWJ2ZW1POTVBRVFxQVJGT1JGdEdVQUF3RA?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-04-19T22:21:40+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:21:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b1b59c29c4684b8cbf1143d76c1efe19707e4abf",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US forces attacked and seized an Iranian ship near the Strait of Hormuz—direct military action.",
-      "event_key": "us seizes touska near strait of hormuz"
-    }
-  },
-  {
-    "title": "NYT: US Officials Say Iran Retains Significant Drone, Missile Capability Despite Strikes - اسلام تايمز",
-    "summary": "NYT: US Officials Say Iran Retains Significant Drone, Missile Capability Despite Strikes اسلام تايمز",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2o1MnM1OXNVN2JuTzlnUFItZEVaQVZMbzdhTGJvcHFwRHBSUmpuNDg0TlREUm41RVczR1Z1V2ZlV0hWQ2p4amlSbGx3NTh5eVRzWFBnNE5XZzRLa3VOOWZza3ppQl9Tek92bnhRYjh2WkxnOG54bEdRckZzMlMxaGh5OV9Wd0plTUxvZUZSZ2Z6ek9SZFctamZsNDNmZHFkNGxYLXpMSXYxWUZWOE00b25jOHZma1JLYXZpTE5yRUFpNGJlSXFaMw?oc=5",
-    "source": "اسلام تايمز",
-    "published_at": "2026-04-20T00:18:05+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 00:18:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cad143a1bd140a2d68f71824a111d954fa1ccaf9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Assessment that Iran still possesses strike capabilities despite attacks indicates ongoing military threat and heightened tensions.",
-      "event_key": "iran retains drone missile capability after strikes"
-    }
-  },
-  {
-    "title": "Oil prices jump after Iran and U.S. attack commercial ships as tensions escalate over Strait of Hormuz - CNBC",
-    "summary": "Oil prices jump after Iran and U.S. attack commercial ships as tensions escalate over Strait of Hormuz CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlRGMC1MdHFSUm5aa0tZbDA1NDF6d3Rpb0RLNm1SNFF0eGl6YUY3WWJHM011bnFYZEdFX2ltay1yZzY5X0lSaENVM0M2bzUwUUhOZHd4VmEtaElwdndWa3J5cjc4MnRfTk53RUlhUGJyQ1NidEt5cVRFbGhkX0VLaUpn0gGHAUFVX3lxTFBWQUkyUERmREFYWGc2Yk5OSy11Rm9Ed3VZSlpIaEppTC1aVGZHdmJ5bHE3cU9hRzAtSjFPWEwtVWNMQjc2MWtwbWJadzZFaGNMOF9FRlVEeE1mbXdzZWpwbnEwSFdFZjJjYmwzQU1DSzRxTC1Kc2VzeUdKV25uVV9HWlZmTk5nWQ?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-04-19T22:07:43+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:07:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9611b8d5b23d788d176907422d1f91a6416b8495",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports of Iran and U.S. attacking commercial ships—actual strikes/attacks, not just rhetoric.",
-      "event_key": "iran us attack commercial ships"
-    }
-  },
-  {
-    "title": "US seizes Iranian ship as Trump announces escalation ahead of ceasefire deadline - WUSA9",
-    "summary": "US seizes Iranian ship as Trump announces escalation ahead of ceasefire deadline WUSA9",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORy1NUnAxc1RCcUxBQWp2c0dJTUl0MF94YmtGdXJLVXU2b1JTMFQzXzJhTTFsZjV2Q0pHUjkyT2JjRmxKUmFCZk5xYkpHUWU4QVo2QjZia2c1TXd5QmVDY3g0c3p6dS1GblFvdjFRRURqTTFDVlZtZmwwYkY1OWYwWl8zc1AtNWdLLU55MV90R2lhSmpFRTM5M2dHeEZpRDg1aW5EQ0pveVFoMmkweVNKUDNoaU9yYVF5aE52eExmdklCQ2dpd0pHOXpKMHRvTzhjQlYtVzJsMlkzRkgtX1dfQ011S05pQWRKaHduSW05MWJUcmRiR1I0d3hDcjhEYjZyY29tendqSjBvSXgwZFE?oc=5",
-    "source": "WUSA9",
-    "published_at": "2026-04-19T22:42:00+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:42:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7162ffbffac953e298ece8d7821d9b52276498d0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US seizure of an Iranian ship plus announced escalation indicates direct military/law-enforcement action.",
-      "event_key": "us seizes iranian ship"
-    }
-  },
-  {
-    "title": "US seizes Iranian cargo ship TOUSKA, analysts warn of potential escalation - Crypto Briefing",
-    "summary": "US seizes Iranian cargo ship TOUSKA, analysts warn of potential escalation Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVlfWUxZbFZKVU1NY2Qzb1N0NWE1S0lYb2dZRzliZFEwZTFDX3hlQ2oyMGNUYXhfVXBtaHZVUzBlXzVuam1qeWFONXBaNkp0WWpsY3lpSnRldEE5QTl1WFNqdHN6OEx1ZDhWUTVjT2twX1g4cFNrQWd1V05jUHQtOERiY1NHdmtUaTdSRVZqbElZN1haYkJQanVxbG1pNTZoNzdN?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-19T22:02:04+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:02:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ce8fe2710f498a4967b307e9e7a7160ef9d2a65f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US seized an Iranian cargo ship — a direct punitive action likely to prompt retaliation or escalation.",
-      "event_key": "us seizes iranian ship touska"
-    }
-  },
-  {
-    "title": "Asia markets set to open higher amid renewed Iran-U.S. tensions - CNBC",
-    "summary": "Asia markets set to open higher amid renewed Iran-U.S. tensions CNBC",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDFfWFI5WTdGRy1oSjlBQVRJbWhXUXIwcE93akxybndVbW9XMUdVanVzWnQ1VEZoVVJ0c2pwME1pVnRJZ0VVU25ZNmxfeVJSenZtdGNxV2FhZWpwd3EzN0xYX05NRXBCNDdSenFYNE5sbncyVGZuUDJHMWVfUE9BZ19fRVNacVMtMkxDZkFQeFVzNkF2VDBXNkVabTlkWGRC0gGmAUFVX3lxTE9tRVd6UEdFMzNNMHdGWWN2a1lOQzVKMTZpVGVOZDQzZ0ExcDBxRHBFT2pvbkZSdlFMdFRpRFNzTU1ZY3hHZm9XV1ZKT1lMWnEzR1NXa0cyUlhjVFRxckR6NDI3UWtLX3N3ZVljcFJ1RGMyMFlZM0RHV2VzeFdFdUM3MzlSTmlrV1NfVG44RlZGNmFMLUZqMWdNd2Y0UFA4M1JsOHNCM1E?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-04-19T23:48:06+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 23:48:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b03f8782471aa656cbd4fa7b5188ee84c878272e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Markets-focused piece referencing 'renewed tensions' without reporting specific Iran-US diplomatic or military developments.",
-      "event_key": "markets reaction to iran us tensions"
-    }
-  },
-  {
-    "title": "US keeps Iran pressure high, UN envoy Waltz says strikes remain option ahead of talks - investingLive",
-    "summary": "US keeps Iran pressure high, UN envoy Waltz says strikes remain option ahead of talks investingLive",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcm1uQTlRTW5pMU1oLVVSY3pKVVlfR1I4OU1iOHc4LUtwZnlPaW1kSng1RW1TOUYwYThsMGNwdDkxSVRHUkoxc3NOSHhMRVg5Y1FsN2otVDlDa3ZrOVpkRF9YVWxueXJRUUxLMjhqQ3JGa0YxT3dVUk56LVplaUFSXzV1Q1RWY0t0V1JiMXoyaVlHUUNYUGN6enJrRUJlNEtFekVWcFBna21JRnBsV2pNQ1ctb1VrV3ZtdzVBWEJTSGZIb2xHeVZPMUUzcl_SAdIBQVVfeXFMT2NiaW0tS0lNTmg1MzV5ZHBNeEhmN092YTladkh1cUJzN3hRdmVZY2wwZl84dEZIQ0FwV3BRQjVOWVo5WldGdVowNVFQM2xQeFZHdGxKUGFFV2RnYklVY18tMW5zYmZqaEw3OVpvQ0NkQ3ExUENJbzltdmQtNm9fNGJjNjhkeU5RQzg4RGgtTkVQZ2JYaDVWZXRYTW5ZdWZRU0lrOWowWWhvWTJzQmNtMTNnVDhLbWJZZWwxTEhWQ1MxMmJkenB6N0I3eG50cUlsOUhn?oc=5",
-    "source": "investingLive",
-    "published_at": "2026-04-20T01:48:08+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:48:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ec5d1eebd24bd1286af15ba0bbd75bd6a63e9767",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "UN envoy warns strikes remain an option while US keeps pressure high ahead of talks, signaling rising tensions.",
-      "event_key": "waltz warns strikes option before talks"
-    }
-  },
-  {
-    "title": "Tactical Pause: Trump’s Optimism Meets Rising Tensions as US-Iran Standoff Hangs Between Deal and Escalation - Outlook India",
-    "summary": "Tactical Pause: Trump’s Optimism Meets Rising Tensions as US-Iran Standoff Hangs Between Deal and Escalation Outlook India",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM0FqVldJa0VVVlBET3dRUFRKZWwtUUtza1J5NUl5U1YtdC1vNWlTajdRU2wyZHZpYm5wWnRpUEV0SnhoUllxb2RaWUhnNTRUWEJMbVh6SDBTb0d2SGN4eEZfOE1fWlB4X0w3dlZpNWttZG05SHM5a1VjRF9BRUpRNHp6VHB6R1RZSl9iMmJxQzV5WUhvYmh4QzJBcmc4aFlOWlZORENBNWVIVUpuVl9DV2FsanlnOTlrYWxURElYekFRMDdud2xSaFNZMVVaNkZNdHhKc25tdzB0VHRWaVFKTUZWSdIB8AFBVV95cUxQbEoyb1hrdFc1VzNKTkc2czRNSHVmaUhVVjJjaWRIaEVvQXpnQ3NVcnR0TmRCZ1pnVU1ENzJ3VXVDQUI3ZUNPN3VueklsQUJPa3dxTzgzZXFGOWU2N1FHeG5JalJuRnFra0xBSmlTWXZkV0lmd0p3OGpickVOcXFjSnVYVzlaZjN3OHU3bHA5TmZUa2hUOU1MeTNTaXlJelAzdG8wVUprbHp3MHh3Z2RxQ3gwbVNxTzVSczZaNExEN2ZkVXM0T1FvaDNYV0wxYlFQT3VxOTM4QXF1U1ZiRkpjVXFGMko0dUw2SWlsRlZFcTU?oc=5",
-    "source": "Outlook India",
-    "published_at": "2026-04-20T01:32:43+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:32:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "33c959c6084ab0addb9f4924e1a8dc3a2622c556",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Describes a tactical pause and optimism amid rising tensions—signal of restraint rather than explicit ceasefire or direct strikes.",
-      "event_key": "tactical pause trump optimism"
-    }
-  },
-  {
-    "title": "\"Clash in Oman Waters\": Washington Announces Interception of Iranian Ship Amid Rapid Naval Escalation - صوت الإمارات",
-    "summary": "\"Clash in Oman Waters\": Washington Announces Interception of Iranian Ship Amid Rapid Naval Escalation صوت الإمارات",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNzVEaVdoUVFBM1hTOHhhbUVIOHptX1FDdHYtY19rYWpaYXpHaUNRbVVIN01NMEdJY250WFZIdzRLZnhZNWJ4TFJCdVg2QnAybGZJZmlIbTVsM3BYM0YxSWZXUWFZRHdJaUFrMWowbGRHaG9hLWNKLS1PeURTNHRTbmQ3QzUwZHduQy1pSWNLX3VmQmxsZTA4bTQ4dUtsNkFETEs5ZmRSb0NXQk8wbTBDRW5FamdnMkF5VkhGamlPM3U5aTctOURqLXJsRkFrLUljN3YyRWRhamE1VktQRFpwbUY2dm8?oc=5",
-    "source": "صوت الإمارات",
-    "published_at": "2026-04-19T22:32:41+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:32:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f46349c69dde2ae1dc56d85a4401ebc88f3268f6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US intercepted an Iranian ship in Oman waters—direct naval military action amid rapidly escalating tensions.",
-      "event_key": "us intercepts iranian ship oman waters"
-    }
-  },
-  {
-    "title": "Iran warns of potential escalation, impacting US-Iran peace deal prospects - Crypto Briefing",
-    "summary": "Iran warns of potential escalation, impacting US-Iran peace deal prospects Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnZ2RVV6UkdxeFcwNE1NSUNjbVhCUmF5MWdRWHUyd19JU3YxaGU3eWdDTkdDVTlWenZzcGhfbkY5TGdPZEQzMVFORlJ4UUNNUTdGMHBKYk5PN3BaeHR0enJXekZGQ1lHT0dJNXBZam0tLXJLVk8yeHcyaURUMmNnc1ZXUFBIQnNKQWVJQUtyZTdxcXN3OXNGUC1LWFRRX3dhV1Rr?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-19T23:41:06+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 23:41:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e8e8375c3754728778a09a9d8da6323017d5bf5e",
+    "article_id": "68a2c7a5e51e162fddce56184372b141a3da6eb3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran issues warning of possible escalation, jeopardizing US‑Iran peace deal prospects.",
-      "event_key": "iran warning escalation impacting peace deal"
+      "reason": "Iran vows retaliation after accusing US of breaching a ceasefire following seizure of a ship in the Gulf of Oman.",
+      "event_key": "iran accuses us ceasefire breach ship seizure"
     }
   },
   {
-    "title": "Iran: US has violated ceasefire and we will respond - NZ Herald",
-    "summary": "Iran: US has violated ceasefire and we will respond NZ Herald",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcHRRZnpyTjd5eENGRmZabXRka2FNYlFpeHZWVkdkN3dTMjk3Rl9nZktnUDFHOS1aNGdzOVhsTEluRjVqMlUzZ2RzUEdsNnQzTlFkUFgyQmdtbW11YTFZdWxlUGc5cUYtTVprb2w1SGxjaUlVbml4ZHBnaGVvTEhzTk1Nc3lsd0hLQW1FQ2djc3hzeTdySmpCS2xwa2VCZDJnbERiSExyb1dIYVpiaWVYT1JMcTNtTXJoSDVxMGkyNVNSUTBnUHJTdnN0ZjA1MTQ0V0pPdHV0bkhGUXNGY3E0VWNXV3RvSlVmdDhYU21YYm92UExaaVRhRXhBVQ?oc=5",
-    "source": "NZ Herald",
-    "published_at": "2026-04-19T22:34:44+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 22:34:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1d55a512406b1e0eb35fb11e0328613caad45ff0",
+    "title": "Iran threatens retaliation after US seizes ship amid ceasefire tensions - Crypto Briefing",
+    "summary": "Iran threatens retaliation after US seizes ship amid ceasefire tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHBTdWx4WDdkTzc2ZmNxaUE2TXk1VnBJSUhPYXJQTWFrWXl0d212dWFxOUl1YnczVldpd0twbk9ZLU9iNTcxYWt1WUg4SWVxS0tpLV9vUXB6d1JVZENjcHE5UEo1TTZGNC0waFk3YTFPZmJpZkRlNFdpZDJfVUxFM3JUREM0cFNTczMyQ3lSLXhNZTRUdGQ4MTFXQ0JuWFFu?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-20T03:34:41+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:34:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "af7ecfe550c76988b1fa71311189528d3d277ae9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran accuses the US of breaching a ceasefire and threatens to respond, signaling increased tensions.",
-      "event_key": "iran accuses us ceasefire violation threatens response"
+      "reason": "Iran threatens retaliation after US seized a ship, signaling rising tensions and hostile rhetoric.",
+      "event_key": "us seizes ship iran threatens retaliation"
     }
   },
   {
-    "title": "UAE seeks US financial backstop amid rising Iran tensions - Crypto Briefing",
-    "summary": "UAE seeks US financial backstop amid rising Iran tensions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMThSYTBtTEtzU0xGejV2NXhEZnl3a2hJVGN1ZnhwMTljdEJCT3NUVmVsYkdPaXZvdHE2aWwxWnBPM3kzVUtSY0k1VzNoaDd5ZHBrV1RjWTVrTGRlSk4xUGs1N0RGMV9kV3gwZ0NlRmVVbzNuR2l1VENBc1NZZTRSMXllOUhOX2NjdDhPemJB?oc=5",
+    "title": "US Space Force aids in joint campaign, degrades Iranian missile capabilities by 90% - Crypto Briefing",
+    "summary": "US Space Force aids in joint campaign, degrades Iranian missile capabilities by 90% Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFF2LTFiR0FveFllZzJ1VWE3QWtWelF2emF3bldMNmF5c1lzZ1FydUV6R0lBR0E3ZmpUcGVfS0thTjl6X3FQT1hmem9UUHVVWTB2aVZIb2hHZ3ZYRzl5LUd3eDJFVzl5Zk5hZTdPWU5RbXlCRDkyaW1QcDQxTGFmN2ZGUl9LVnpCbDJ0OXRQNmVVS2I4cXNYa1ZRMHMzMUw3UXlEeVdsY0hTUQ?oc=5",
     "source": "Crypto Briefing",
-    "published_at": "2026-04-19T21:33:57+00:00",
-    "raw_pub_date": "Sun, 19 Apr 2026 21:33:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2abf0e5fb7711e94b02aeae03749ebe6e53b9c54",
+    "published_at": "2026-04-20T03:34:42+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:34:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fdd9833805af718ddb723a3beee32cba2294e3f3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "US Space Force aided a campaign that degraded Iranian missile capabilities, indicating direct military action.",
+      "event_key": "us space force degrades iran missiles"
+    }
+  },
+  {
+    "title": "Escalation in the Strait of Hormuz: US and Iran on the Verge of Breakdown in Talks - Азия-Плюс",
+    "summary": "Escalation in the Strait of Hormuz: US and Iran on the Verge of Breakdown in Talks Азия-Плюс",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnVVdzR0RnMwWmNoalNBMTFOOGVkbmx2dUY0c3dQbkFjTGN5Y0JuLWIyM2tBTjR5OElFUWRUdUVEMTdpX0ZLLU5jWjRQbzlvWGNNUFBpVHlKRGhkcXJwSGpPWmRLalpzQVVVam5RbVdWNnFyRE1UNHZuZkRHUWd3TXZLTEdjcHNYamx6LUY0em96am1ndjh2alE3N0ZaakNzNVZIUy16VW0yeGx0ci1ENFFIakZxYktCTlE?oc=5",
+    "source": "Азия-Плюс",
+    "published_at": "2026-04-20T05:12:25+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 05:12:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a4477f9c090198f7e3a907a1a81526dfd5ff68f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "UAE seeking US financial backstop due to rising Iran tensions signals increased risk and escalation rather than diplomacy.",
-      "event_key": "uae seeks us backstop rising iran tensions"
+      "strength": 0.8,
+      "reason": "Reports of talks breaking down and rising tensions in the Strait of Hormuz signal escalation between US and Iran.",
+      "event_key": "strait of hormuz talks breakdown"
     }
   },
   {
-    "title": "East Asia Securities: Expectations of a Gradual De-escalation in U.S.-Iran Tensions, Limited Downside Risk for Hong Kong Stocks; Support Expected at 25,000 to 25,500 Points - Moomoo",
-    "summary": "East Asia Securities: Expectations of a Gradual De-escalation in U.S.-Iran Tensions, Limited Downside Risk for Hong Kong Stocks; Support Expected at 25,000 to 25,500 Points Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUZxbG1iLUJLVkxhS29ObGdzeVVfNG5pX19fLVN6TUxpSXZWU1I3RVJMNWZIeG1kWTJKaUlUYlZwcEdmOXkxck1KV004MF9CTG12LTdXWDJEMElfTmIzbUtxSzB3bFRrT3ZtWkxqaGxoS3hwaEJ0VElhOUFpRFRVdlFZQVZEa0JkR3hldkJEaGJKVTBYSUlpNDk5YzBhU3lZSnhDVlpFcTU?oc=5",
-    "source": "Moomoo",
-    "published_at": "2026-04-20T02:23:51+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 02:23:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7f36579109ba7562ecfff8335a442d7bd0a75297",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.4,
-      "reason": "Analyst expectation of gradual de-escalation in U.S.-Iran tensions affecting markets.",
-      "event_key": "gradual deescalation expectation"
-    }
-  },
-  {
-    "title": "Sky News Australia. . US President Donald Trump has sent a chilling warning to Iran and accused the regime of violating the ceasefire agreement. - Facebook",
-    "summary": "Sky News Australia. . US President Donald Trump has sent a chilling warning to Iran and accused the regime of violating the ceasefire agreement. Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRmJyeC1FNExSVm5Sa0pmZ3lXXzdzclVWWHpSYkEyYnFfaFFoUGJUUDQzS21aSjZFbEFsbHdNZzZQdm54eEdJWV9IeVJMZHZpZEpsMXRfN2RfVDNkel9IQW9PZGhISFRVM0tqOU9wVWk1dWVaRDJqcldjVVJPaGF2MHFjaHoxSHk2b0l1d3hNTjg0WDVQS3BIRHJhOEM1clBfdmpUc0RVU0NCTk5JalZDY240VGRZUGZfekRHaGZZRUl3V0tuVG1YUUxEZ0lENTJLeXNWSjlleVRVWHhtYlVUdQ?oc=5",
+    "title": "Sky News Australia. . US President Donald Trump has issued a chilling warning that Iran could be \"blown up\" if it refuses to agree to a deal. - Facebook",
+    "summary": "Sky News Australia. . US President Donald Trump has issued a chilling warning that Iran could be \"blown up\" if it refuses to agree to a deal. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVFvNWdzc3J0TEVUT2FHN0hZcEZ5bVNFckxRVnRiamZ0elNkUUZmRFdVUVJLaTE0aG14V29ub3d3SEdjemZlWlJuVGJlaTNQaHA1aE9sdURHdTZfVjZ4bk5Nc09xeUs3bmRjNVhKRjQ2ZEZPbXBfTjNmY3cyT3d4SVduRHY5aElpeXoxYWdYbXdseHJUeVRVcWJBZTFMNkJRWkxlTndvanRqcFcxRDNaZ2o1TFBIcldYdlZ5alp5UnJaWGRxdHFnbXEtVjhXaWVkdzlvRUJ4bmNEUEtvSGs0?oc=5",
     "source": "Facebook",
-    "published_at": "2026-04-20T01:56:49+00:00",
-    "raw_pub_date": "Mon, 20 Apr 2026 01:56:49 GMT",
+    "published_at": "2026-04-20T05:32:06+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 05:32:06 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "34924c0885adacfd436d291912fd51a958d54092",
+    "article_id": "00eb196a50bcc602647c5dc8931e5e0153de1509",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US President Trump's explicit threat to 'blow up' Iran is hostile rhetoric increasing tensions.",
+      "event_key": "trump threatens iran"
+    }
+  },
+  {
+    "title": "Iran Not Planning to Attend Talks With US in Pakistan - The Defense Post",
+    "summary": "Iran Not Planning to Attend Talks With US in Pakistan The Defense Post",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11eFEyYWtrajFfWnRNZWVFWVNhaGN2VHRVSEZNNEY0R1hjZWsyUUdvdjRCYzRMM0VKTnFtMUw2UjdvMlM2VE8xek9sY3dGZ282NzZXSElEcUs2Znp4QjFEa3RVWkUteV96dDllZmFBSlRjaGhm0gF6QVVfeXFMTjVGQURMNy1Ba1ZUWkVSQ1M3aFhBbjZaWEhFX2h0d0JyeTdyZVo4S0NvMGljcHFiYlpSLWE0dUxTTlNKWHliRnhjeW4wRFZmNV9wZkY3bXNxWTJLcGNLcVZJemZ1MmJ5RlRNQWFuRm9vcUFqRThjQTZ3WFE?oc=5",
+    "source": "The Defense Post",
+    "published_at": "2026-04-20T04:52:20+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 04:52:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c6482b7266cd67cecbdb3f2d39934adc1eda5813",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "US president issues a warning and accuses Iran of violating a ceasefire—threatening rhetoric raising tensions.",
-      "event_key": "trump warning accuses iran ceasefire violation"
+      "reason": "Iran refuses to attend planned talks with the US in Pakistan, a rejection of diplomatic engagement.",
+      "event_key": "iran refuses us pakistan talks"
+    }
+  },
+  {
+    "title": "'Who knows what tomorrow...': Netanyahu's BIG warning as Iran pulls back from talks with US in Pakistan - WION",
+    "summary": "'Who knows what tomorrow...': Netanyahu's BIG warning as Iran pulls back from talks with US in Pakistan WION",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWTdGOGVXaUZmenJ5dDNXV2ZWZzUzcEZzMzcwS2tGcUU0VDlEc1lNeEpBSnRWRTRmeG9jZEpma0FrZmp6dl81R1JMOWdCekpSNGdvZHFjR1FZNUxXNm00SkdDZGJHN183R1hNTHozSmdCN0J2Ny04ZXBGVnRZeE56TjU3bHlRdFhqUm4tRzE1UGRRMnVSUXNhaG9zRFFEWGp1Q2FvLVZOZTl1X1QyTUtFNUUxM0U0UlVjeF8zMEFjcmNuV1UtOUZJcjRrRWVDX2hYOVJ4UE9oTHdWSElYaXowc3ZhcDRXeW9XdDNxb19xX080N1NaNmpHWGItOFlpRi1PMlh1TGI0OG1HRnEwbVNvdWxB?oc=5",
+    "source": "WION",
+    "published_at": "2026-04-20T03:00:00+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "43861b3b89eb563b3ba7b6efda57c1a2e2114285",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran pulled back from US talks in Pakistan and allied leader issued a warning, indicating breakdown and rising tensions.",
+      "event_key": "iran pulls back from us talks pakistan"
+    }
+  },
+  {
+    "title": "'Vibes all the way down': Iran’s swipe at US comes with oil market warning amid Hormuz tensions - The Times of India",
+    "summary": "'Vibes all the way down': Iran’s swipe at US comes with oil market warning amid Hormuz tensions The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeGw5R1hqcVdOcXdyZldDZ3planBLbFlUb3lickFiS19BX3pqWDZhSWFnSkswSWh1eU5NUmM0d202ZE11WU9ZbHVZams4WnR2Z192THlfRWhRQ3gwNUFCMEZqZGtCalBqenU5ZHQ4Y0h5bmc3YV9nOGpRcXY0Y3dkal9QM3BCczdhbWc4WUNFZU81Y192V2pBT1N3X2VpMkliX0tHc1N1TUx1OUFXaVRaTmhQdGxlcEVDQk4yMWk4bl9PRkFtcFY0czVhTGVFSUthSDVsVmZORDdHa016d09NVmd2VFV6LTAyZjZlcklqNVdzX0VOY3Q1MjE0Ukp1bDhZ0gGGAkFVX3lxTFB3REo0bUkydlJPZDFPLXRLQjRHSll2WWZmem5Vek0zdGl3b0tRbktHOFVsSURtcVZ3dURiamlXTm1aQ3dWNFgwWE5HTkpxTTRqdnFKVlVPVTRfSDgzcW45RUNaSWVYV3RCZ05oS0RrbVk3ZFhLaHBZOExLbXJ0NkVLMFdOWk1RUEZWdEJqSE1HU0I5RExzNm9jX0xOUFlIUk4xbzgxX0c5T010ME1rMWVzbnBkMTd3SFliclotRlVpNi10UXJnMWpKYVJXUm0zQUhIU1RGMXFhTVdXMjBTNFdHMVNZRmVmODVjRWxiZGZPRW9PRTZGUWs3bk9CVV9JWlpqOEVUWmc?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-04-20T03:57:00+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 03:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "816373cafd11f44bdb7eac2235d64c69bafd8865",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran's swipe and oil-market warning amid Hormuz tensions signals hostile rhetoric and rising tensions, not diplomacy or ceasefire.",
+      "event_key": "iran warning oil hormuz tensions"
+    }
+  },
+  {
+    "title": "Tehran vows revenge after US Marines seize Iranian cargo ship | Iran–US talks at risk, watch takeover footage - ynetnews",
+    "summary": "Tehran vows revenge after US Marines seize Iranian cargo ship | Iran–US talks at risk, watch takeover footage ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHWVhSRjhheTZwUFllTHBwSEV4UWJFVWtCbERVZEkzeWdzMkJxbHl3Wkl1enk1b1p3M0tLaUc1RklPRkpoTFIzT2dvelhQOU5NM2pCUnFPVQ?oc=5",
+    "source": "ynetnews",
+    "published_at": "2026-04-20T05:15:14+00:00",
+    "raw_pub_date": "Mon, 20 Apr 2026 05:15:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1cbdbe3641531cb16a2a60d2053ef3a378102cac",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US Marines' seizure of an Iranian cargo ship and Tehran's vow of revenge are direct military action and response.",
+      "event_key": "us marines seize iranian cargo ship"
     }
   }
 ]
