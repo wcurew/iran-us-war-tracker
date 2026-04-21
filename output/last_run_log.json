@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-04-21T05:25:20+00:00",
+  "started_at_utc": "2026-04-21T07:46:44+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-04-21T02:26:59.453897+00:00",
-  "window_end_utc": "2026-04-21T05:25:20.796251+00:00",
+  "window_start_utc": "2026-04-21T05:25:20.796251+00:00",
+  "window_end_utc": "2026-04-21T07:46:44.929488+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 24,
-    "keyword_filtered": 10,
-    "deduped": 6,
-    "after_seen_filter": 5,
-    "classified": 5
+    "time_filtered": 27,
+    "keyword_filtered": 16,
+    "deduped": 12,
+    "after_seen_filter": 12,
+    "classified": 12
   },
-  "finished_at_utc": "2026-04-21T05:25:48+00:00",
-  "summary": "협상·완화 신호가 일부 보이지만 아직 중립권이다. 확전과 완화 신호가 혼재한다."
+  "finished_at_utc": "2026-04-21T07:49:34+00:00",
+  "summary": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
 }

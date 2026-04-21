@@ -1,87 +1,206 @@
 [
   {
-    "title": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo - CNBC",
-    "summary": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEl4MGpKMFRhN0hUNlpqRllmTlBGZlI3N1hqb3I0U0dyQ0hwaFFPb2ZoVXcwM2dUbVlzdEQzMWRFanlnR2EzSml2MTY3V3pDVzhNdUV3SVR2YjJjeGxRZkFyNi0xcnN3Ukc1S0YwMU1ZQkpyNmZsRFMzZEpraEFPZFJ2TFBCOE1JOGthN3ZIendHRnlGN0VZS3owU1pQc2tqRXdIT0ViZU9ma25fdkhfRmxhejBfU0JwZDA00gHAAUFVX3lxTE5GVUlIN1ZIVzJJWktWSFl6UEZndlVBRElFRmV6MUViZy1ib0VSODY0ZWs2Q0I3LTNPZEdGdk9YOTFGWEpyU2pldmQwamF4eGVGa09rME9DcmVUclV5Qk1LaE03N1BuYy0wdHNCZUFUOTNINVF5akVOaV9uc0hVd202TUo3MlozQnlrcmIzVTV4a2JHWXk2N2hDWktKZGNnZFVWLThIWHZleVlRWXZPYXlBa0JNTWozT19tWm45VERvYQ?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-04-21T04:23:04+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 04:23:04 GMT",
+    "title": "Iran war: What is happening on day 53 of the US-Israel conflict? - Al Jazeera",
+    "summary": "Iran war: What is happening on day 53 of the US-Israel conflict? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFpLcWtkRW55aHlLLVpBQ0ZwUl9wemlpcngwTmFrbG9Lc1R6WXBVbHNjY1RkcW5lLWw5N1RlTUM3bUl1WkN5bS1wZ3lseHZ2ZXlZc1EzWWk4UHRjeWJpeUotNGR0bjQ0bG9tVmYtMTZZU1dzSmg1a3M2S1pnZ0ZGaTJaUm0yNWlRUGtmSjJlYWtOZ1NXME1oTlRqLTQ0QUw5S3RqQUFn0gGrAUFVX3lxTFB5R3hmZG1jZUwzUlhtM3B2Q2VGMjZ3d1UwcHFDT1g2U21IOWt5Zm1sU01zS2RJSlBueFhMd3NYVnk2Yk9zT1k0UWNqQ0F1YnpRdy1OaUpwMVRXdXZwb19GVWxIbEJ1eUhoRG1uam10MEgtTnM4dm1CZEZiWFAwd3Y2b0hkamZoUkF3TVB0Y2NWOTBGejhTZXJJaHFTRWxXVUFnc3hoTjlmTUpkcw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-21T07:16:43+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 07:16:43 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e9fd71da6bfacf05be530f22931020d5706a28e9",
+    "article_id": "2029e1c337a4b88cd34837ff381b15c022451c0c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Day 53 roundup implies ongoing intensifying hostilities and rising tensions in the US-Israel-Iran theatre.",
+      "event_key": "us israel iran conflict day53"
+    }
+  },
+  {
+    "title": "U.S., Iran Signal Readiness for War as Ceasefire Nears Expiry Amid Uncertain Pakistan Talks - kurdistan24.net",
+    "summary": "U.S., Iran Signal Readiness for War as Ceasefire Nears Expiry Amid Uncertain Pakistan Talks kurdistan24.net",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbk01Y1dDSmRGZnJDWlZjUmgzaHo3UDc0VjRHaGhIY1dreERzZm5HTldSMUdXY09rYm42UHB3Z292MERJOTJoSjBzVVhnV0RwZ2haRE03OWNoNTVKU3ExYXJHeVE5MFZYQzlZSUFtcF8wOXI4V1FHU0ZEOVJNa2RHclFMREJseVhSaEZJOW1USkdILUs0a01obGNJeTZ1Tk90R0pYOHl4azM1Yk5ZXzJUTTlaWTBHNFJ0RFA2ck9XMFdsQzlnVEpMangxd2c?oc=5",
+    "source": "kurdistan24.net",
+    "published_at": "2026-04-21T05:37:57+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:37:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7d3fbca1a5ca8bc85f85ab56ebf70f89180572ea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Both sides signaling readiness for war as a ceasefire nears expiry, indicating rising tensions and potential breakdown.",
+      "event_key": "us iran escalation ceasefire expiry"
+    }
+  },
+  {
+    "title": "From Ceasefire to Settlement? The Prospects of a U.S.–Iran Deal - Small Wars Journal",
+    "summary": "From Ceasefire to Settlement? The Prospects of a U.S.–Iran Deal Small Wars Journal",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXdJcmdLa01jZThnYi1iR3J4LXEtZXh5cVlYUmZlNGFYbGw1WGtRcG9xdUp2akMyZU9WX1Y4WXlsNS1wOEtRS2o5VC1FbzNvaDBFWmJFRm5jN3pBMUIxZnhGZGNDNlM0TUY4c1NJUktpTnFJZVJQckhUWjA1NldOWnByUUtvcS1ENVIxS0FCRkxHVzBzSzgwUjJLcTNOUS1raTBZbQ?oc=5",
+    "source": "Small Wars Journal",
+    "published_at": "2026-04-21T06:00:14+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 06:00:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "76e953945bc9765aa2a26f227cfce417fab7fab0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Discusses prospects of a U.S.–Iran deal and movement from ceasefire to settlement, implying diplomatic talks.",
+      "event_key": "us iran deal prospects"
+    }
+  },
+  {
+    "title": "US Officials Warn Trump's Public Statements Could Be Derailing Iran Talks - i24NEWS",
+    "summary": "US Officials Warn Trump's Public Statements Could Be Derailing Iran Talks i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUhHRFZJTGsxSktMb1VxN0JJaU5kVHBkZ3NDWVo1RjU3bzJTSE5RMkdUMk56bGxSTzQtaHZDMTlWSkxGS0xzVWlSXzZ1MEZtN3hvMWVOeGRyYlQ4LXNOMFJJMGFhQm1NNzBiUXdQYk5xWnp5TzZPcGhDV1RVT2w5QzlzbzBUdUEwR1dRNFJua0Rub0Y3eTlLeFMwd293VXNEeWFwY1h1ZWd1NmJQakNoMVdUMk1kQXo1T254blJMYnJ5dVBOVEFiNDVVV2k?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-04-21T05:37:00+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:37:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8b0d306a307e03cf3afac8aa46d2f6d7a10a1f9f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "US warnings that Trump's statements may be undermining ongoing diplomatic talks with Iran.",
+      "event_key": "trump statements undermining iran negotiations"
+    }
+  },
+  {
+    "title": "US Signals Optimism on Iran Talks as Ceasefire Deadline Looms and Tensions Simmer - Modern Diplomacy",
+    "summary": "US Signals Optimism on Iran Talks as Ceasefire Deadline Looms and Tensions Simmer Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1dUU3VkZnlHY3BPT3AtZl9WTW1vdmFBQ0FiTUNnNG9ZM0xYdjdrbWV4eGZVVFkwMElaTHpZX3RYd1BkdzYtNHg4RUJtb2Vsd1B5RkVFWTZNUWZCZHZVVDUtdHN2Tk5uYWdub1lReEJ1VUh1TTllS3dEd3o4anFTbG1xSWFpQ2NGSkJEUF9kZTdmVEd2M2xNajV3RzRGMUJOWXpfTTRPVVJwZ0xWNWtzQUlLRXVXandEeV9YeQ?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-04-21T05:30:09+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:30:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dfd6bf7b6d65a85d3cb5c96dbe81017205dd9fce",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US optimism about ongoing diplomatic talks as a ceasefire deadline approaches.",
+      "event_key": "us iran talks ceasefire deadline"
+    }
+  },
+  {
+    "title": "The key sticking points between US and Iran ahead of Pakistan peace talks - The Independent",
+    "summary": "The key sticking points between US and Iran ahead of Pakistan peace talks The Independent",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlBCdE04dXlWUTkxakRlNGhKZm5qSS1KWTdQaGlpN2NtbEdPdFFmaU85MTZ0NkdpaEt4Y280Ql9Bcl9WY1VoVnhWR1h1RUhTR0FMMFBWLWxhRkNXVmJWcmt5cDZFM2JuYi0yUVB0cU5zYmdWeThHUlI1YmRwQVZhaE5IdXVvRGlNMFMweEl4Mm9ZZURVNFdwUGI2dkNrcUhINWthZl9sUXlwQ05lNEdtVDA1VEVDdFppU0x0Y0lON2ZUbVEyT20wVHlKQ3BXcTQ?oc=5",
+    "source": "The Independent",
+    "published_at": "2026-04-21T05:54:00+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5f7cc57d85898bc326a5209c8f89a1caebfe208e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Discusses sticking points ahead of Pakistan-mediated peace talks between the US and Iran.",
+      "event_key": "us iran pakistan peace talks"
+    }
+  },
+  {
+    "title": "Driven by the pressures of war, Iran gives its field commanders more power over militias in Iraq - The Washington Post",
+    "summary": "Driven by the pressures of war, Iran gives its field commanders more power over militias in Iraq The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNalZSSUp2TzU2VXo0eHRhY1l5RUtOSEJfTTh0MVh2WXZXXzVpMzlpVUVoQkZPeGJXRF85MlBKbGt3M3owajlTZndCbU1lUTdqcFE4YjBISnR0dzZOSmo3MWNzLXRBbGx2a09Ka3JCbVVQUWRMRHVOMVFBamt6Sk5PSDNIRVc3OU1fUWNKdXc5SWJhdGx6VWZXSGV1T0pUck9uVEVlbHFUZUZZT1lIdFc4bWtnaFpFM2VvWkE?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-04-21T07:45:05+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 07:45:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "be05641e321cfe796114aa247109904a320c1fee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Iran is increasing field commanders' authority over Iraqi militias, suggesting expanded proxy influence and potential escalation.",
+      "event_key": "iran empowers iraqi militias"
+    }
+  },
+  {
+    "title": "Iran accuses US of war crimes amid escalating tensions and port blockade - Crypto Briefing",
+    "summary": "Iran accuses US of war crimes amid escalating tensions and port blockade Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzFhTjhvUGR6eFBDSld4UlJKdzE2MmVjMGxfS3JpbThaV05Qb3FWTWEtYWVvSXlfbUd5eXM5by1wQkY1MTY5Vlkyb1FZUFVYZ05wOThJSUpvN1RjUFVCUWhGcUt1RkNtbzB5S2tUcG5zbWV4azhsVWRSakkyR0VkbEZjeFVzLTFkaW1OZmdDS2lDVmJ3d0pnckppcy1JMVVzMFE?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-21T06:07:26+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 06:07:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "83bbe67f3b217d41c66818644dd52633fbeefcf3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Accusations and port blockade signal rising tensions and breakdown in relations rather than negotiation or direct strike.",
+      "event_key": "iran accuses us war crimes port blockade"
+    }
+  },
+  {
+    "title": "US and Iran warn they are ready for war as clock ticks on ceasefire end - South China Morning Post",
+    "summary": "US and Iran warn they are ready for war as clock ticks on ceasefire end South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamk1VDdOdG10NUo0WWg5a3Bnd0NnQjhyTGgzelprRU1RaTRGT1I4LUluRVctN3poV0c2YV9XaUdSVG5GbnFjTnRfNlk4emVzOHZQMlpWN0VRVHhJeHVqeVBzdkhaTE1NZlR2SVBNZXFtVVZUb0E4QnFPTk5oUndzMkNSSEp2SDktVkV0amp0QUJ1ZV84Z2ZpR2ZUQUdRUU00ZmdWWkNQOG5Db1ZNQXE4ek5Ua1p4Y3dZbmFTdkRjdDlYajlq0gHEAUFVX3lxTE9ZMHJ1T1VpdklIMmtOam5EMVphTEZDRjhPQWlaenZ1dHZjVWJkcTUwbGNFOHlFSDBaR0NBWkRTVU96YmdXTFZBeVhYeHhfSjdmdHIyTEExa0hyZVJMeEhoNHlXVEpxei1oLXI5NmlSWWhhN1FDWnEzV08zdzdNM1JTR0NoVVlkQ2RKQW5iY2VNYnA4VG9UMWlDZXpIcE13QzRQY1pjOWs5R2k5bWZHSjhLZ3JweUNQUllJQTFOa190LWFYdVY?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-04-21T07:13:32+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 07:13:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "86c3eca673ce113ee079f11a571e2ecc11d247b9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.87,
+      "reason": "Mutual warnings and readiness for war signal rising tensions and breakdown toward conflict.",
+      "event_key": "us iran ready for war warnings"
+    }
+  },
+  {
+    "title": "Iran hesitates on talks as US officials fault Trump’s public negotiating style amid fragile ceasefire - ynetnews",
+    "summary": "Iran hesitates on talks as US officials fault Trump’s public negotiating style amid fragile ceasefire ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WWpIbS1LVkcwTDBDRzZ2dW1ucVBYb3JZVExKN2hmOXlQOHNFY0w2TEEzcmc1Z1I4SXU4OVZ1TG5mNks5Wl9RRGhNTWo1VmhDMnBqODB3?oc=5",
+    "source": "ynetnews",
+    "published_at": "2026-04-21T05:36:04+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:36:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e31a91800a5dbcbd680677a43349f281c804ea69",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran hesitates on talks and US officials critique negotiating style amid a fragile ceasefire, indicating diplomatic engagement.",
+      "event_key": "iran hesitates on talks fragile ceasefire"
+    }
+  },
+  {
+    "title": "Sky News Australia. . The United States and Iran are both warning they are ready for war as peace talks hang in limbo. - Facebook",
+    "summary": "Sky News Australia. . The United States and Iran are both warning they are ready for war as peace talks hang in limbo. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkw5US1BOHZSTGZ1ZkNhc0txUHR6eFJEM3YyZktOWnpLcTJ5SFhiOU52VmlGWmtXRWw5dVR1M00tZDhRRXVDTXhMN0ZYOUpjZU1mTl8yQlVCanhXcjhGbXJsRE5CM2ctZVVZaFZFRUlJenc3ZWVvSUdOSUhDd19QbUpPbG9zb0w5bTRoU3NLcGg0Y0twd29mbW1QMm5tLUthcE02bTlfZmZ1UWNLbjh0UlMxX0RMdENsTE03ejFQMDBWWnVXTF9nRlFJc1RXQQ?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-04-21T05:51:50+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:51:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e8ffabdd4b207ba48c719dc116cb521150c9158e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Hostile rhetoric rising while peace talks are stalled, signaling growing tensions and diplomatic strain.",
-      "event_key": "rhetoric ratcheting up peace talks stalled"
+      "reason": "Both sides issuing war-ready warnings while peace talks stall, signaling rising tensions.",
+      "event_key": "us iran war warnings peace talks hang"
     }
   },
   {
-    "title": "Clock ticking on US-Iran ceasefire - FOX 13 Seattle",
-    "summary": "Clock ticking on US-Iran ceasefire FOX 13 Seattle",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84SWV4cEpiaS1nZUg3QVROTHczVklma0Vfa1UwTzJrLThZM29WUGJYam05RlB0bGIzLXBHWUxGRkZsMWs1SmE5WVg0VF9jYTJ5UVRRZnpLSmJncW5QTFFkVGJONVQtQdIBa0FVX3lxTE94STY5bUctbkZVQ2dvYkotQm9QSW05V3ZpWW44bklHMlB3RjgweHlxS3hxWFdsQllUazJhNHNsSHdCTGZsdGlXR1hSLXhhaXBXc2dNV1pfcDV1Tm45YzZpeUZRNDduMmQ1bGVn?oc=5",
-    "source": "FOX 13 Seattle",
-    "published_at": "2026-04-21T03:40:33+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 03:40:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6bb86be84352272c9ce86838388711cec49a7cf8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Headline explicitly references a US-Iran ceasefire and urgency about its timeframe.",
-      "event_key": "us iran ceasefire deadline"
-    }
-  },
-  {
-    "title": "Table for talks set as world awaits U.S., Iran meet halfway in Islamabad - Xinhua",
-    "summary": "Table for talks set as world awaits U.S., Iran meet halfway in Islamabad Xinhua",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMVBDcmIxM1hZYmdmS3NZNjVRanpxTUdGTHFFUVBXZUxlVmZfblYxS2hkX2tRem93QkhRVUFCLWlXWl9GRHg1TXNuQ19BN2lUbERSV1BTNkNPYlZETDFxdkJlTWFURUdDaGxsZG5WVnkyTmFncU91dGF6dkI?oc=5",
-    "source": "Xinhua",
-    "published_at": "2026-04-21T03:06:15+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 03:06:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dd9405a30600f3c67414f71fd539d87d32ba6b69",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Scheduled U.S.-Iran meeting in Islamabad signals active diplomatic talks.",
-      "event_key": "us iran meeting isl"
-    }
-  },
-  {
-    "title": "Sky News Australia. . US President Donald Trump has received a warning from Iran's parliamentary speaker over the current negotiations for a deal to end the war. - Facebook",
-    "summary": "Sky News Australia. . US President Donald Trump has received a warning from Iran's parliamentary speaker over the current negotiations for a deal to end the war. Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGtCVTFpdHd6NDNXcjB5VFpIOG5OcEwwZkJna1FkaFRydmx2RHZuLS11Y01YSENYdWlzT0hadmo5eENnU1NMSzZmYzIyei1zdWVWTWNxR2pDTmRiWFZyMUp3QW5PZ0l1QnhNVFBEeXdnckh0aUJIMjhCWDA2d3NOaWduMUJDUGtPTC16Q1BtWFRyNlZKZExjR2w1VWNETGx5LXlUOHl1RlpUNkdXUzluQURCVEVUeklBT0YzT0syUXVfTjBuNFZieVVmck9sS2cyZVNnd0VTS01nSERFWWNn?oc=5",
-    "source": "Facebook",
-    "published_at": "2026-04-21T04:55:59+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 04:55:59 GMT",
+    "title": "Iran's chilling warning to US that miscalculation will bring 'final chastisement' - Daily Express US",
+    "summary": "Iran's chilling warning to US that miscalculation will bring 'final chastisement' Daily Express US",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0V2UndLVzJGblpnc19wRkxPQjVRbFduNlctTlVlTUw0LVFsTUYtMjA5OWxYMEpydHNGOVM4dmpwVlExOXBDbjlVQlMxWjQ3WkVSSHZUY1pvYkhFYXR4dHZUZHJOcGlSUFJtd1pDWVRwa01DVURDS0g1cTY0NUM1MlNIaEZGU1Bf0gGOAUFVX3lxTFBDa3dzY1BmZmlzWGFqcXZZeURZNG5GVmw3YjBiT3NtaG5WekxxQnhnb3Z1TmhYbXpNTVJxcUE3dkoxdWlSQ1dfLXlORUNiSHlLM25mTmdOc2pIeGc1Z1RZTzZWTVF2a1lUMDJwbVktXzhJWUFJRGFkWFFmZmlqXzFFSTdyTmM4TTBiSVZtc1E?oc=5",
+    "source": "Daily Express US",
+    "published_at": "2026-04-21T05:28:00+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 05:28:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "244256b5c52e9ff490e011b46d2f428ee6f7d737",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "References a warning tied to ongoing negotiations for a deal to end the war.",
-      "event_key": "iran warning over negotiations"
-    }
-  },
-  {
-    "title": "'Prepared to reveal new cards on the battlefield': Iran's big warning to US as ceasefire deadline looms - The Times of India",
-    "summary": "'Prepared to reveal new cards on the battlefield': Iran's big warning to US as ceasefire deadline looms The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNV9Hd3hVMUZ2dHM2M2xVTFU3cDFrYTI5ZVFSb2c2cnlRWWZyWE9iM2tpcllMRVd0LWUxY3JPajRsd0Jmbldhb1YtVVVjb3pNVDZNa2hsTXQ1LXl0bkxPWFVRQ291TlVuWXU4MmVUYndZRVdFRWlkN2UxQm02OURYQUFlZVdMMGY5V3lMS0xyVlBkQm5VT1ctc0JGcUFGOVgySVhsOVFSS0NoTWZNVDlFZUNuU1ozXy1KN1lnQldzZmNTWTVIa2lUcURJODlRbHRzMFpyLXc5UjZaMk5FakMyVy1jamozZFZFTHgxSFlqWjR5dlJpVnhwRUMzYmJzNnloMDIyak9CNWsyUDTSAZACQVVfeXFMUE9McGc5TGp1X212cS1FUjZYdk5pMEE2cDF6NkotMDMtY0ZYSk5uemR3Q2lLcUZDa3h5LUJnTFFHU2JRWWMyeHhJZG92TTVXMHRjNTlNWU8yRTFyU0dENTlKaGo0TjVSZWdyd2NzeUJGXzI4akszSkZMandJa1JnZFZId3BrVDlDRG9oQW42ZVJkVFA5R1J4cUNtSlhOLWJNeUd3Nk0ySGFlUU5FVEZDVEdrMnQxWGh4VllRLV91aGdlaGFVX3VwRzZlZUFpSlg1VEhaalZ3NjJ0eHhzSGJ1SWthbVh5aEg0RXNBbUp5NldITEJmMWFzX1dlMVZWb2owTUNTZlE2YlBfZHVZZ29PYlA?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-04-21T04:56:00+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 04:56:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1f08e7d495dc2b585d667f83083e4dfde4303319",
+    "article_id": "d07e42dae94f5a984d7cbaab194d3c83380cf2f1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issues a military warning to the US ahead of a ceasefire deadline, threatening battlefield moves.",
-      "event_key": "iran warning reveal new cards ceasefire deadline"
+      "strength": 0.7,
+      "reason": "Direct Iranian threat and hostile rhetoric toward the US indicating rising tensions and risk of confrontation.",
+      "event_key": "iran threat final chastisement"
     }
   }
 ]
