@@ -1,206 +1,189 @@
 [
   {
-    "title": "Stocks and oil prices hold relatively steady in the countdown to US-Iran ceasefire talks - AP News",
-    "summary": "Stocks and oil prices hold relatively steady in the countdown to US-Iran ceasefire talks AP News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjlKX1NINGpaTl9vOFd1MVEwN0RsQUVtUkpUbjBIZXhMamVPZWxnSTZzVEdMWUR5WWZsU3dHd091Y3J5YVhwTXVoaF9YZlE3cElXVnJmSEhDM2VVdTFBc29PcERnem1DZ3JkUjdpaUotSWJfUnVFbHA1Rlg3WnlhTU9xUER4djF4MFp4WF9SZ0RhMVU?oc=5",
-    "source": "AP News",
-    "published_at": "2026-04-21T15:26:00+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 15:26:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4223f43a5a0b13ee4bad77e500548bcf9bdb1af8",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Article covers upcoming US-Iran ceasefire talks—diplomatic negotiations affecting markets.",
-      "event_key": "us iran ceasefire talks countdown"
-    }
-  },
-  {
-    "title": "U.S.-Iran Truce Deadline Looms - Council on Foreign Relations",
-    "summary": "U.S.-Iran Truce Deadline Looms Council on Foreign Relations",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YWmhZZFkzWFFfc0hIQ2UzM2QyNklHMkNyeHhCdGU1eUlCeHhtLU9OZEZGaFF4RlZWYVFFQUpCWEd2UE1vczM0ZkNFclU4VTRkcmEyUUZ2OVFNcVUyR3B0QzIwY1hnSXpmM2c?oc=5",
-    "source": "Council on Foreign Relations",
-    "published_at": "2026-04-21T14:27:18+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 14:27:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "70acc3a4aba76d4fdc6e83e57f4beccdff5d8784",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Article centers on an existing truce deadline between the U.S. and Iran, implying a ceasefire status.",
-      "event_key": "truce deadline"
-    }
-  },
-  {
-    "title": "Trump threatens more US strikes in Iran as ceasefire deadline looms - Politico",
-    "summary": "Trump threatens more US strikes in Iran as ceasefire deadline looms Politico",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2dqbkpqTFl6THIxdFhsdmY2ejRVRjVHRHh3c252d0lzWTJuM0VqM0ZIQW4zRUdxcXdabDVsQVFQajA1M2pYTWV1QktsVkxIMDNhV1ExNXNIYXcxb3RDUzY4QmhBQzB6dmhfbTlfcFh1XzM0Q0tJRFRzQmEyYzg0UFFXZUI?oc=5",
-    "source": "Politico",
-    "published_at": "2026-04-21T14:36:40+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 14:36:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b66989c8e0270005eeba51326ce66fbd282566a8",
-    "source_weight": 0.98,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US president threatens additional strikes, increasing tensions ahead of a ceasefire deadline.",
-      "event_key": "trump threatens strikes iran ceasefire deadline"
-    }
-  },
-  {
-    "title": "With the US-Iran ceasefire about to expire, could Trump put boots on the ground? - The Guardian",
-    "summary": "With the US-Iran ceasefire about to expire, could Trump put boots on the ground? The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm5fUWlkOEpTeU1sZ3FSUVg4d2M1cnkwalQzd1JOX3RYeGJrQk04RjQxbDhNTUJHZjlsSVkxNTdoSmY2aDJ0UklfOFJPS2hTM1psTjNQbE1GWDBSeWp1cTR6U0lwbG9oczNodk1HUmtqbjkxb3FyTk9xbjdYdUJZb0tFZnZoRm8?oc=5",
+    "title": "Push to bring US and Iran together for talks as ceasefire deadline looms - The Guardian",
+    "summary": "Push to bring US and Iran together for talks as ceasefire deadline looms The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEZLb2phc2lrbURmUEFncjVXRjRWbFl6NzlrdEJUQTBWcWZ6SGhmZ2xFUUJGaTJnV2ZidndaRDNQaWlPOEg2M0VaSmxjSnpRMXNRdDYxSlM4cy1BTHREOEgyWTVwbDJIaDhjdWZyRGt3eF9NRHFURk5QdTc5NWtKMjV1SV9memUyaEF5c3JIblRONDZUT0VPZ09JLVdONkY0UFFoZ2dyTzhvWE1RYmpFMm9ia0d6aGRIN3YxSjdaeVJhUQ?oc=5",
     "source": "The Guardian",
-    "published_at": "2026-04-21T15:54:00+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 15:54:00 GMT",
+    "published_at": "2026-04-21T18:30:00+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 18:30:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d587ff2404c730bad9da666fadf6e84d4bad34f5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Article flags imminent ceasefire expiry and possibility of US ground deployment, indicating rising tensions and potential escalation.",
-      "event_key": "ceasefire expiry potential us ground deployment"
-    }
-  },
-  {
-    "title": "Trump says US likely to resume bombing Iran as ceasefire nears end - The Guardian",
-    "summary": "Trump says US likely to resume bombing Iran as ceasefire nears end The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbm9zbUtyU1pPMzhfYmtBUHBVVExNR29rOG1BOGVnYTJaaUhtbm1ZeGNaY3g3Wkw0V1RZNnBvMmhYOGdUSjdyLW5qNVBHOXhnRmNodzVWZzYzS2pkSHFodi02ZE5TcmwxeWx2ajV3aWdVUnJSZklnb3FtRUVMVEI2Ylh6ek9ud01o?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-04-21T15:20:00+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 15:20:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5219c8803e19b055470501b2aaf62e401257f86f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Trump warns US likely to resume bombing Iran as a ceasefire ends—direct threat of renewed military action.",
-      "event_key": "trump warns resume bombing iran ceasefire end"
-    }
-  },
-  {
-    "title": "US-Iran Talks In Limbo as Clock Ticks Toward End of Truce - Yahoo Finance",
-    "summary": "US-Iran Talks In Limbo as Clock Ticks Toward End of Truce Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaENuVmtNVXloTS1oYnp1ZzItSUNFaFpYR3VDUm5RcU1XQWtpZmdNeDFsQTJXSVE0dGt6X0F4MHFRSTJXZXk4eS11RC1RVXBQaGZ4NmZ5SktDUEplUzBEZklFaFJZQ09VTE0yNFh4THFRX2NJNlRjWmZhVmJBR044SlpITU5qSzdtWFoxVG8zV29tanVwbGM5V1pnYWRVUQ?oc=5",
-    "source": "Yahoo Finance",
-    "published_at": "2026-04-21T14:06:08+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 14:06:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a20ffea12ab12d1947392ad1507432fc22ec8317",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Article discusses US-Iran diplomatic talks being in limbo as a temporary truce approaches expiration.",
-      "event_key": "us iran truce talks limbo"
-    }
-  },
-  {
-    "title": "U.S. forces board oil tanker as Iran, U.S. signal another round of ceasefire talks: officials - CBC",
-    "summary": "U.S. forces board oil tanker as Iran, U.S. signal another round of ceasefire talks: officials CBC",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMDVpSUUycXYtRnlpQmtHTjRYZFhaeXNjYnRqb19zNGdreVNjTURhX1pHVk9FTTVRMkNTT0NUTld5QkhqUWdwZC0wUDU0NzBJQ3ZfSFlJdnN1eV8yX0REVGVtYzdDcFF6bElFaWtXZTRaQQ?oc=5",
-    "source": "CBC",
-    "published_at": "2026-04-21T13:35:19+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 13:35:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f90940b457b7994969cb851ca295e3c43b1cb95",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Officials signal another round of ceasefire talks—active diplomatic engagement despite tanker boarding.",
-      "event_key": "us iran ceasefire talks"
-    }
-  },
-  {
-    "title": "Pakistan steps up efforts to save US-Iran truce before expiry - TRT World",
-    "summary": "Pakistan steps up efforts to save US-Iran truce before expiry TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNE1YR3V0Vi01VkgxSW5xMXBsRF9uUTJsenZIWGtJODZVeDdEd0czNlJNazlwZ0d3WnNndF9GQ1BkNEJYdTRScVdlenhoaEZ2UmJWd1hhamlrRnlHVXJYWEpiVXNVdFdETG5SNHhDSkhIeWVRVXdoanZZNTdaajN5YWRmZXNIeENWTmFIOGljeEozbGFZOEZSVGpQY2pjQTNuQVhKTXU3UUFCVVJBUzNSSlRiWlRvUFF0c0hNZVZTenlRdlhVSF9mWQ?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-04-21T15:45:14+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 15:45:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2e867cf123e29681a8a58f46097a8a564115691b",
+    "article_id": "2e2fa4a04b8ba0ab930e1dae1698b8e5828adaf0",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.75,
-      "reason": "Pakistan mediating to preserve an existing US-Iran truce ahead of its expiry.",
-      "event_key": "pakistan mediation save us iran truce"
+      "reason": "Effort to bring US and Iran together for talks ahead of a ceasefire deadline; active push for diplomacy.",
+      "event_key": "us iran push for talks before ceasefire"
     }
   },
   {
-    "title": "U.S. military ready to strike Iran if ordered, Hegseth says - The Detroit News",
-    "summary": "U.S. military ready to strike Iran if ordered, Hegseth says The Detroit News",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEhJUXdNUll5X1Q2bUM5emdHVE10c2gwcUhVU2dGeFJmd25WeEtrUG1GQ09fUnpDYXhLUTBPaEcxc2dzYmZtZ1NUTDZyUXh5QTRITFo0bXJubWVraXRacklsZXRNWWVmZ1otWGRObldfRzVkUzU1ZmZ2WHVCdHptOHVBbGxLb2xoc3d0T2ZhMXV3ZndFUE85WTAtMlhkckJzZEx4OUxnZUMxZHhIRzJNcXdJN0lJU2F0azVjVDl4eTlfalRzQUwyV0ZRTFBtekdJUVRmelNKbXI0Mk1waVJUTWJwNE5wZFAyWUdhNHJJdjJQdGRlV1VQbmxBQWhnRWhj?oc=5",
-    "source": "The Detroit News",
-    "published_at": "2026-04-21T15:23:14+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 15:23:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ef22bd4ef7ca12d63f6a2bd4890e85769f87c621",
+    "title": "Lt. Gen. Kellogg discusses Iran's negotiation tactics and US strategy - Fox News",
+    "summary": "Lt. Gen. Kellogg discusses Iran's negotiation tactics and US strategy Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mT0FnNnFUc08tNzZBUFgzNTlKNXUtdnoyeTZqeVNfc3hrSDBzUkxkUjdpZkkxaVRCVEhTVlh1MGJvUW9fbW05YVl4YkJTUmhkdzNJRGZR?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-04-21T17:57:33+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 17:57:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aa8e5befc2c067e616eda960d46b71dbf0caf6af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Article discusses Iran's negotiation tactics and US strategy—focus on diplomatic/negotiation context.",
+      "event_key": "kellogg discusses iran negotiation tactics"
+    }
+  },
+  {
+    "title": "US-Iran Conflict: Pakistan’s Role As Mediator – OpEd - Eurasia Review",
+    "summary": "US-Iran Conflict: Pakistan’s Role As Mediator – OpEd Eurasia Review",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdW5CcWduekU1alJtd0hjU3kxbzJLQnRXbDR2akpXSUNrVjhOUGROTzdsTThZVVQxS3F2c2FlUG1lODdlTTRQeUtScmg3dkJkZHB3NFNuMmhBZ3BhYkJEMmdNQXdCSlVlRnZuRlNKMFduNlFPWVkteDJPcExOR3REUVlFX0MxakotVjBHQVFOQTl2UQ?oc=5",
+    "source": "Eurasia Review",
+    "published_at": "2026-04-21T17:35:22+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 17:35:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "51f2b5fbc0091645dba8066f77b99fbb4089aa9e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Op-ed about Pakistan acting as mediator indicates active diplomatic mediation between the US and Iran.",
+      "event_key": "pakistan mediation us iran"
+    }
+  },
+  {
+    "title": "Opposition to US talks grows in Tehran as ceasefire deadline nears - ایران اینترنشنال",
+    "summary": "Opposition to US talks grows in Tehran as ceasefire deadline nears ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocVVyX2VZODZ0Zm4yOVlRb2RjX2huc3BoTXNPSXRsR3V0anhqekxVaFVMNWh0WWtielo0czcxc292WXZBdTc3d0VOT3hST1I0cXc?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-04-21T18:21:32+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 18:21:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4681e737141c9a43e4141c89a6588627f7e0f2a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Growing Tehran opposition threatens breakdown of talks and increases tensions as ceasefire deadline approaches.",
+      "event_key": "tehran opposition to us talks"
+    }
+  },
+  {
+    "title": "US at risk of running out of missiles if another war breaks out after depleting stockpile in Iran operations - CNN",
+    "summary": "US at risk of running out of missiles if another war breaks out after depleting stockpile in Iran operations CNN",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iZFQ5Rmh6S1VUWE5VbTUyXzNLSUgzMmJQT2Q1QmNQMzZrUmRuczBLSS1fUjV4SnZvY3hNT1pvQXJEUzhHT01BRVBBcFA5bC1nNWJtbGlXWlUycnRIakZQX1VzRldSemlkaGJYWWVtTW5HSlV5UklNVg?oc=5",
+    "source": "CNN",
+    "published_at": "2026-04-21T17:00:55+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 17:00:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fca3909466ffb2768c86150abcead4180e43e635",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US missile stockpile depletion from Iran operations raises risk of wider war and military strain.",
+      "event_key": "us missile stockpile depletion risk"
+    }
+  },
+  {
+    "title": "Why the US military is stuck using $1 million missiles against Iran’s $20,000 drones - The Conversation",
+    "summary": "Why the US military is stuck using $1 million missiles against Iran’s $20,000 drones The Conversation",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWdjREZoVTNZMi02ems2V2dTQXRaYlZEN3pIY3JVVnltdW9tN2xMdVRGQ2VuOVZFZFU1VndTTGRsclc2cUw2MzZub1ZCbE9nelA3S1ZrMEpubWFmdmtaVTUtUmluWXpydGJWaDd3VE1VZTdwbzc1amVhb2hOblJ6R0IzOEFJdWdTeUR2YWdCRko5NzltXzE2OVBndUZ5TUxodEFzTDVqSExqMGZGWE0yRmRIX2F6VGM?oc=5",
+    "source": "The Conversation",
+    "published_at": "2026-04-21T17:45:38+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 17:45:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ecab7ebd5b0412e71ea25917a19e2b044c8087dd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Analytical piece on weapons cost/effectiveness, not reporting a specific Iran–US diplomatic or military development.",
+      "event_key": "weapons cost vs drones"
+    }
+  },
+  {
+    "title": "US military pushes for boost in 2027 spending on drones and air defenses used in Iran war - ABC News - Breaking News, Latest News and Videos",
+    "summary": "US military pushes for boost in 2027 spending on drones and air defenses used in Iran war ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXF2QnlnRkd4NU1NTjZ1SDJ3Szg1MUxuMHdqYjlYZXM3SEtBUktRR1hYYjAyLWNoaFlzaC1FRi1sdGMxNWpmdVNLNXd1cGVsZ0dwQmtQX0cxbWdpeEZCa05GT3ZtZXBpODZ6Uzg5aXRqX2dIN1ZLR2pVMFB1c1VwbGJWTmdaakpMdGJuOEk2ZHZCS21nNWZR0gGcAUFVX3lxTE1zOUkwbjNHT0pReWJxSW1jSjAwUkJRWm5nSjY1YmY5akxJWk14Z1FTTTk2OVFjTm1VdF92QXlub2c3ZmtINnlLaUZTQmUzWnpLbDZUUkhDNW9JR1VKckgzZEk2SS1GZGpyd05KaGlmMHo0OWE3UTRaTEZUQXBMaWkySWRUTnAzYk5BUzhzZ3BkOE1GeHhkYTV1c1ZBNw?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-04-21T16:41:02+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 16:41:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "55faec445fe52a8a878b98929640eb5e18b8d1f2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Public statement threatening strikes signals heightened tensions and potential escalation.",
-      "event_key": "us ready to strike iran statement"
+      "reason": "US push to boost spending on drones and air defenses signals military escalation and preparation for conflict with Iran.",
+      "event_key": "us request 2027 drone air defense spending for iran conflict"
     }
   },
   {
-    "title": "US seizes Iranian ships as ceasefire expires, Trump threatens strikes - Crypto Briefing",
-    "summary": "US seizes Iranian ships as ceasefire expires, Trump threatens strikes Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUt0bTRfTy1kcFpqVjNzMFhBWUpGYzZCbXBsMERxTjR2Y05Ea1dpTWoyUmNJblQ1cWdiQkRqVVBueWZzVDlEVEE2Yi1mNXdmUlhLNS1sa0RXZ2xzREZoVXBnd2puSzExTDg2Q0gxUDhzVU9oLXRjakJxNTlUdjZ0MTAwYXFIX0JxQm14SE9kdzdDdVQ0eXZrQmM5Rkk?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-21T13:59:52+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 13:59:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "827a9869d9788a30d500163d321e0de3727858a5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US seizure of Iranian ships and threats of strikes indicate direct military action/retaliation.",
-      "event_key": "us seizes iranian ships threatens strikes"
-    }
-  },
-  {
-    "title": "Trump Affirms U.S. Military is Ready To Strike Iran If Talks Fail - Floridian Press",
-    "summary": "Trump Affirms U.S. Military is Ready To Strike Iran If Talks Fail Floridian Press",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWE5qR1FIdFVIS0dqSDhGVmNpaWJrOS1YS1Z4ZTF0QmNxdVVXYk90TGdJd3hWQmJpczNfNnVaaFRQcjlSUW1EVXlWUDVJbzJBLWpjeGd4ZzRJVi16NVhab1BxdVBmRmFXZjRIbHhlMWU4NjBrQ0VDcFdxSDhGQ3lqU2pqVWo1QU5nV2ZGMUQ1WVVtdndvYlEzc1Z2Ri13Y0t0R0E?oc=5",
-    "source": "Floridian Press",
-    "published_at": "2026-04-21T15:32:03+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 15:32:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d7f14e8dec902b93bd7578104384bb617da2544a",
+    "title": "US slaps more sanctions on Iranian regime and its ballistic missile, drone programs - Al Arabiya English",
+    "summary": "US slaps more sanctions on Iranian regime and its ballistic missile, drone programs Al Arabiya English",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkxNcDVreHpIMGJYd3lLSGFuYklEWWYwaXB3MXl6N0NlX2lybklhRmNFZmpGZ3YtVTJ4VGZjZHFITFV5Q3Y3T0lGb0VWU2g4LVVyS1NuU2JKVnF4NVZkQV9GSXp0aHFrN2ZtWUg1NWU4Z3lheU83Rm5tdDFORF8tVm1ZQmZ6Z0d0ZmlxN2FYQnFHZDNFTXJ0QmZScW1fS2VBQlMyZ0RuNFdIa1lBa2pZajU0TFBVejF6VnNSWE9kdnJ3SzJuVHBqVmVoYVVicTFEV2FaOEdRd9IB3AFBVV95cUxNVVFudGVZbUlZd1VnUkc3TmctYXNZNEVtQnlqNHBHWHEzdktvVGJGM3BBbVFpSUhmTHJ6SXRMeF92MmhPQmJRVlVqWEU4RUhYNmxNSklxWmtNajJHQ01MWmVNZVhWSXd5VXRCd1FaeXFWSFBpMV90TVBmX0RPRWF4TDluMzl0RnF0OWJQU3puYXRkbld0UVdpaFZOTEJ5X3ZJRmJrbjJ1d0xtOVJrRlJoU1V5dWhvVm9QSjNqYmd4TXVITjU3dHRicmFEMVJsVHlqbjh4Y0IxbFByNEJV?oc=5",
+    "source": "Al Arabiya English",
+    "published_at": "2026-04-21T18:09:00+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 18:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "36ceab8d92571416fb49aee7010b2e337cc06517",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "U.S. leader explicitly warns of military strikes if talks fail, a direct escalation/threat.",
-      "event_key": "trump threatens strike iran if talks fail"
+      "strength": 0.7,
+      "reason": "US imposes sanctions on Iran's ballistic missile and drone programs, a punitive step raising tensions.",
+      "event_key": "us sanctions iran ballistic missile drone programs"
     }
   },
   {
-    "title": "Netanyahu: Israel, US remove immediate Iran threat, vow continued action - Crypto Briefing",
-    "summary": "Netanyahu: Israel, US remove immediate Iran threat, vow continued action Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNlJFUWZBajduNWg0T3FtVW9GemtCdFp0Y2h3cy02X2dYQXdUaVRLYnllT0FqVTc2bnIybEhmRkh1Z190QVpKcDNVU0w5ZWd4eEJDYnZJTVhzeTFIeVhxbVF1MjM0VGE5XzJBWXowMVp4X2lIalljVnRQUmItcWVOZllRRGhQMHFlTW9FNVFYbDhjeEh0ZzUxaWFtRG80Zw?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-21T13:31:30+00:00",
-    "raw_pub_date": "Tue, 21 Apr 2026 13:31:30 GMT",
+    "title": "US depletes critical missile stocks in Iran war and risks new conflicts - mezha.net",
+    "summary": "US depletes critical missile stocks in Iran war and risks new conflicts mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EX0NMYmhmT3Z4SWM4RWNVTjFqWmdCaUw4dmxTQi0waUlFVkp5aHFlbjBPRDVaUmNlcUx2ZXZfU09vYWp6N2hobUctR2FEWWtHaHBxNkRBWHlxb1RBX2c?oc=5",
+    "source": "mezha.net",
+    "published_at": "2026-04-21T17:15:57+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 17:15:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1fff8aef5b5aaadc500a131e87da332c7691528d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Reports US has depleted missile stocks in Iran war, indicating increased military use and heightened risk of wider conflict.",
+      "event_key": "us missile stock depletion iran conflict"
+    }
+  },
+  {
+    "title": "USD/JPY climbs as fading US-Iran de-escalation hopes and strong US data support Dollar - FXStreet",
+    "summary": "USD/JPY climbs as fading US-Iran de-escalation hopes and strong US data support Dollar FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzRxblpESGpVTGV0dWlHdWhxLW5lU2RQTFo5ZHBMNU5fT04wYVVuQWlKWnloNXUtVnNUZ2lEbnBzZXdiNi1kMUsxUENXOGNkT0ZIempTYkVqZnNkT1MyanJhMGZMaGc0UW1Kdk50Ry10QkdxOGF6b1dkbG9BaXV6SFdVRVJTT3lDWjJnWmxpOENUQTd0T1VSVkdWNFZkQTllRGZTY1hPcC1JblVvZzZiQjVEaW1CekU5VC1hR2JGYmxDUk1nbWJRbw?oc=5",
+    "source": "FXStreet",
+    "published_at": "2026-04-21T17:24:46+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 17:24:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d17d224ebc138a782efb6b73a6c4b817f13fbeb9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Notes fading hopes for US-Iran de-escalation, indicating rising tensions rather than diplomatic progress.",
+      "event_key": "fading deescalation hopes us iran"
+    }
+  },
+  {
+    "title": "“Savage aggression” fears rise: Iran asserts readiness as US tensions escalate - EdexLive",
+    "summary": "“Savage aggression” fears rise: Iran asserts readiness as US tensions escalate EdexLive",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTy1uaHBRVUpfelpidDUwRENFNEQ2bDVoSzByVi1vNXB4TWtsdW9YVHRzb0FicEI1a0xfU3JCeEJyak4yX2VpaXVXM25tM0V6dWFUcV9sZFpqTFJWX05XdEhNT2tBZXpWZTMtYnVPZ2tzQ1hIN1dIcDdkQlZiOWh5RUJ0a3RIT2pvTGV1UExwS0sycmtaSUsxb0pva21oZTNELXdISWwzbno3T25nekNHQ013OFRXSGhlZUROWU5HeWV5dS01aUdKN1Z4NUcwclnSAdwBQVVfeXFMUHNBM3RtQTQyLUwybXhZQTczVmM2UXY4dHp4X0FqbGRGX0F3WTIzVktJb0V1b0JHRWJDdXFuWTNWTm1SeVpEd193UTRpR3ZQUWF2Uzk1aEVzY3hqdjFBSjUyeWJGTEFvSVNGNXNCeWNYdWdydTN1TnJSTW9pTWpBMWg3RDdfMGlKS1ctYU83Z05oX1hGOUpIOEI1ck1rNFVqZlZrNE5heXpmdHVuTkpubE5NR2JBRmozUzlHejUzZWJnV1hjaDFiN2piTndmQzJRejN4LUItYy1mNktuNA?oc=5",
+    "source": "EdexLive",
+    "published_at": "2026-04-21T18:05:00+00:00",
+    "raw_pub_date": "Tue, 21 Apr 2026 18:05:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4c91ec26baa488973dc97207d14330724595554e",
+    "article_id": "8dde99131f06773de59a3285f2c8102bfb17531a",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "Says Israel and US removed an immediate Iran threat and vow continued action, implying recent military strikes/operations.",
-      "event_key": "israel us remove immediate iran threat vow more"
+      "reason": "Iran asserts readiness amid rising tensions and fears of aggressive action.",
+      "event_key": "iran asserts readiness tensions escalate"
     }
   }
 ]
