@@ -1,36 +1,36 @@
 {
-  "date_utc": "2026-04-20",
-  "generated_at_utc": "2026-04-20T21:44:40+00:00",
-  "window_start_utc": "2026-04-20T19:02:09.837232+00:00",
-  "window_end_utc": "2026-04-20T21:43:51.859981+00:00",
-  "total_articles_classified": 7,
-  "relevant_articles": 7,
+  "date_utc": "2026-04-21",
+  "generated_at_utc": "2026-04-21T02:27:39+00:00",
+  "window_start_utc": "2026-04-20T21:43:51.859981+00:00",
+  "window_end_utc": "2026-04-21T02:26:59.453897+00:00",
+  "total_articles_classified": 8,
+  "relevant_articles": 8,
   "negotiation_count": 3,
-  "ceasefire_count": 0,
+  "ceasefire_count": 1,
   "deescalation_count": 0,
-  "escalation_count": 4,
+  "escalation_count": 1,
   "proxy_escalation_count": 0,
-  "strike_count": 0,
+  "strike_count": 3,
   "irrelevant_count": 0,
-  "negotiation_ratio": 0.4286,
-  "war_ratio": 0.5714,
-  "avg_strength": 0.7471,
+  "negotiation_ratio": 0.5,
+  "war_ratio": 0.5,
+  "avg_strength": 0.7212,
   "median_strength": 0.75,
-  "avg_positive_strength": 0.85,
-  "avg_negative_strength": 0.67,
+  "avg_positive_strength": 0.65,
+  "avg_negative_strength": 0.7925,
   "avg_source_weight": 1.0,
-  "article_raw_score": 0.9585,
-  "event_raw_score": 0.9571,
-  "batch_raw_score": 0.9571,
-  "war_batch_score": 51.99,
+  "article_raw_score": 5.4344,
+  "event_raw_score": 5.1793,
+  "batch_raw_score": 5.1776,
+  "war_batch_score": 60.79,
   "negotiation_events": 3,
-  "ceasefire_events": 0,
+  "ceasefire_events": 1,
   "deescalation_events": 0,
-  "escalation_events": 4,
+  "escalation_events": 1,
   "proxy_events": 0,
-  "strike_events": 0,
-  "war_smoothed_score": 51.5,
-  "trend_delta": -14.31,
+  "strike_events": 3,
+  "war_smoothed_score": 57.48,
+  "trend_delta": -15.29,
   "trend_label": "strong_down",
   "trend_label_ko": "가파른 하락",
   "oil_signal": "강세",
@@ -42,79 +42,91 @@
   "summary_ko": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다.",
   "top_negotiation_articles": [
     {
-      "title": "U.S. and Iran Peace Talks Appear on Track to Resume - The New York Times",
-      "source": "The New York Times",
-      "published_at": "2026-04-20T20:06:37+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qdEpDenkwSmlxYmhLdFU1ZS1NMFU3X0xtVUhBbmd1dzU3QVZMdEVhclBzY3lJWHNNbDloOGtVTlV5b1dvYnRQRXl1Z0lUVTVLTWttNHJFRE95SmxaakE2bFFEQTdOZHlPVlBqZ3pGSXNpb2w5SDYyM0pB?oc=5",
-      "strength": 0.9,
-      "source_weight": 1.0,
-      "reason": "Reports that U.S. and Iran peace talks are set to resume, indicating active diplomatic engagement.",
-      "event_key": "us iran peace talks resume"
-    },
-    {
-      "title": "JD Vance to lead US delegation in Pakistan if Iran agrees to talks - The Guardian",
-      "source": "The Guardian",
-      "published_at": "2026-04-20T20:41:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRndLM292MC15Tk9OMzQ2YmlTeld6OVdBazBWNVprWG03ZnFjdVdxZnp4bTRJR2NORTVYb2pzMXBUVnZUY3pvTVdWckdaOVVvNTZFb2hvQ0FuTWkzZ0Jnbm5nU0otZWh1OGE0M3ZRdEM2UEpuelRTZUxMRk15QUtmTWlBeWMtYjR0NWdEN0NuLXl2R2Zfa19wS3VPWkFxN05UaVBqWW00anFsZkp5TlZwNDBn?oc=5",
-      "strength": 0.9,
-      "source_weight": 1.0,
-      "reason": "US delegation to Pakistan contingent on Iran agreeing to talks indicates active diplomacy/negotiation efforts.",
-      "event_key": "us delegation pakistan iran talks"
-    },
-    {
-      "title": "US-Iran talks hang in balance as mistrust complicates Pakistan diplomacy - Dailynewsegypt",
-      "source": "Dailynewsegypt",
-      "published_at": "2026-04-20T19:57:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1R1YXFSQ29ESEwtcXBGWWlvamxQSmNTTUJIeUJsV3NudnRoV001SzNieFdNOTQ5OFFRYnEzY0xQZ0lUYjhIcEljMG5SbGU0WXAxcFVhUVZGOGNOS3JDWksydUduNGtfX3ZHOHI2OFhXcW81SVI2SUpKN21qOTBNV0JzRngtamtHREZWMjAwaXJ4LVRybVBUeWRubzM1LXpHQ1hwUDRvbEFVZ2ZvR0QwOWNqaXE2UQ?oc=5",
-      "strength": 0.75,
-      "source_weight": 1.0,
-      "reason": "Article describes US-Iran talks stalled by mistrust and Pakistan's diplomatic role.",
-      "event_key": "us iran talks mistrust pakistan"
-    }
-  ],
-  "top_ceasefire_articles": [],
-  "top_escalation_articles": [
-    {
-      "title": "US-Iran talks in limbo as Trump vows no let-up in blockade - Pasco News",
-      "source": "Pasco News",
-      "published_at": "2026-04-20T21:30:49+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTZFNzAtVl8tR3dSNVZGbGJCVkNob3lHRVV6VUplcy1ncDc3LXM2aXByalYwZmx5QlRxQkJ6eDQtZUtka3kyQ0FneERIQmtyVy1hQU5qaVp3eEFrR1lGV2FRbFo1dVpjV1hPV1l2YzdYUl9Fd2IydWt2X0RWWmVBU2liWWRQQUlnNGd4b2VoVlVZR0JEdEZKN1Z6Wlk5cW5GekRXZDJYaE1kSzJXUURiREJGSTU5TTV5Q0tNa2lPa3FPa1hrb01xLXg0M1hnNlBWdkp6WF9yUHkwSjlJaEw4ZEhBY1B6cnBGWmc?oc=5",
-      "strength": 0.78,
-      "source_weight": 1.0,
-      "reason": "Talks stalled and Trump vows no let-up in blockade, signaling rising tensions and diplomatic breakdown.",
-      "event_key": "talks limbo trump blockade"
-    },
-    {
-      "title": "US-Iran talks in limbo as Trump vows no let-up in blockade - Al-Monitor",
-      "source": "Al-Monitor",
-      "published_at": "2026-04-20T20:30:17+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa01iY3JVQnR6ZF81YWdEQ1BobG1QdVZGdmhXYVFwczFSd1RNUzVzSl9OZTBqUGVYZ1AxTVpqb1dETjdhQUM0SldQWFVWNUNhUG8zdXcwVHFsNkswVzdXaU1fX3FnQ0pDaEJnZE9OekI5NW53X1IxWExBb0N4d1NWX1lGdWQ1eXJJZXN1X1N1czIyVy1RVnc?oc=5",
+      "title": "Next round of U.S.-Iran talks in doubt as tensions rise ahead of ceasefire deadline - PBS",
+      "source": "PBS",
+      "published_at": "2026-04-20T22:55:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNDE1MTBlN0haRi1JWEV4eWUwbVNHSTZNMmgwc01yOFhQZzFsZ2NOaXVOTzNrVThaQmU0ZWE3WTFVU181ODV3Z2RyS1RLdThfMnFPNXJ1R1JfekR5TFd0LXNjUW5WZzd2YVpQVm13NU9xZHZfRTREd2R5SVRoeFEtUlNuTl85ZFZmdHBvdDBKejJDMnVWREhMRnlwbW0tUXBjdV9jdmFJVFFLM2FhdXR0ajRUMTh5OFJ5VWJIUlRBZVVNbTZrVHN2ME56azJJQQ?oc=5",
       "strength": 0.7,
       "source_weight": 1.0,
-      "reason": "Diplomatic talks stalled while US president vows continued blockade, signaling rising tensions and a hardline stance.",
-      "event_key": "talks limbo trump blockade vow"
+      "reason": "Uncertainty about continuing U.S.-Iran diplomatic talks ahead of a ceasefire deadline amid rising tensions.",
+      "event_key": "talks in doubt before ceasefire"
     },
     {
-      "title": "Iran signals it may skip next US-led peace talks as Israel warns of renewed fighting - Santa Clarita Valley Signal",
-      "source": "Santa Clarita Valley Signal",
-      "published_at": "2026-04-20T20:41:35+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmdEUUM1RGxpSkI1T2h4aUJoSFp3ZmtkTnhJbGRaSWRUMVRsaE5wNXJqYkNHU0ZVYkhHSm5PZmFQNHE1ZzA2bzk5T0dnY0pndzRkWTgxeFFDUFNtRUJNb1JnWFM1N2t4V3VOQlVxZFlNSFNNR20tbTRjQV9PcHBLbjZLZ3RPUWMyMXFLa2NRVk9TOV9UMllEWEhjd3d4dWRRZnNOeEVwOUNWY1oyUWs4WXNEMzRUUQ?oc=5",
+      "title": "Sky News Australia. . Iranian President Masoud Pezeshkian has criticised the United States' negotiation tactics ahead of critical peace talks to end the war. - Facebook",
+      "source": "Facebook",
+      "published_at": "2026-04-21T00:36:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaG1taXVQdlVlS3BWYTdVOHczYUlNckJHbmpWRG02cTJHY2xld29qTW0yeVp5SUFTS295QmpTVmZ3UFY4RzhxUGNDV0VOUEF3a3JTSlFhaVl0YmxGdFpRS091SnZEUmRmNXVVMU4xWXY1NjYxbWxfZEp2WkZLVk1jRGhpZGdLbkdyd0NlaGZVamZHa01tV184c2VTY2M2cUU4X1dWS3o4TlpZZ0Z1NVNRZ08xRUJfb1VValA3YXhHM0FxX09TbEVvS0tSZkFpR09DZnZiLXlUWWRmYnZUTG1CUw?oc=5",
       "strength": 0.6,
       "source_weight": 1.0,
-      "reason": "Iran signals it may skip US-led talks, indicating rejection of diplomacy and rising tensions.",
-      "event_key": "iran may skip us led peace talks"
+      "reason": "Criticism of US tactics in the context of upcoming peace talks—active diplomatic engagement.",
+      "event_key": "pezeshkian criticizes us ahead of peace talks"
     },
     {
-      "title": "Trump says new Iran deal coming as US weighs escalation - شفق نيوز",
-      "source": "شفق نيوز",
-      "published_at": "2026-04-20T19:37:56+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUoyYXdGRGFhVndaVHZ6M1NwSTIycVZMcm1CeUR3YXFHd2hSSW5MZDZnV3RzQkg0eGctbUVwY2ZidXlhdGdNWE5BbjhZVzh2LWtwWm1wN245b2lodlpSRFY4a3BvTzRKYUZST2YtVlBLODQ4V1NQbkI1UVFiS19MWF9PRnphYWlPdmRyUjUxVkJCXzQ?oc=5",
+      "title": "Falling oil prices boost JGBs, ease inflation concerns amid US-Iran talks - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "published_at": "2026-04-21T00:48:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUd5bDcwMEgyWGMwdTBSZWc0eHBtX0p5aHMtSU9iNExITkkzNlJDaEMtRlhxWWk1eHpOak81U2Jmb0hGb2VfSWYxMUd3ZDNWWVVETUc2Z0lrRlMzeUNwVmNzaEVFVGwtRnB4TXN4d0s1VWZnTEZXZW5PMWJCdXllQzlMcm84b0dZUDFWb3A4d1lFSGtGOWRkY0tlMF9zZGQzMGc?oc=5",
+      "strength": 0.5,
+      "source_weight": 1.0,
+      "reason": "Mentions active US-Iran talks affecting markets, indicating diplomatic engagement rather than military action.",
+      "event_key": "us iran talks"
+    }
+  ],
+  "top_ceasefire_articles": [
+    {
+      "title": "Extend the US-Iran ceasefire, give diplomacy a chance - The Indian Express",
+      "source": "The Indian Express",
+      "published_at": "2026-04-21T00:30:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEdFSTJaT1N5T1h3VjdJcXlHWnlpTnRIcEdnN1dNdG9wbldnQ25MbDNuM3UtcGZKQ1NyWDRBajhvQk5ONHFHTGlPcGI0Ti13Yjlra3RSUWlOWW4zLTNZbFluUzVRLS1ja296c3hMakxlZmRZY0psaXhyRk5iRVR5WGVzcUtFSG1leVRDdmVPV0MtdzJPMU44dzl2Y0EyRXJVelAwSTV4Y2RCZUJVbkFfSS1jRVE5Z9IBvAFBVV95cUxQQ0JLOE1ON1BjVmlhdmltS2J0ZzMyTElpRVJRYXNISUhWY0pjdUdFckFxcERqT3FraVVSbEFjNGtuUmpGaldwY3pjN29EOE9yZEZhSDhzR3ZpXzgzM1FyUTdDQXBtMWgyVUY2ZmhRYnY4SWxqT3ZmeGtYMFV0V3BfR2oyc2w1b29MUVVtbExzRFBIUm05QUJrd1VGVFM1X0VVT3hNcHhaU3FmOHYwTVdyeFpUNmQxSktJd1RtTA?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "Article urges extending the US-Iran ceasefire and supporting diplomatic efforts.",
+      "event_key": "us iran ceasefire extension call"
+    }
+  ],
+  "top_escalation_articles": [
+    {
+      "title": "Iran diplomacy wobbles as factions compete to avoid looking soft on US - ایران اینترنشنال",
+      "source": "ایران اینترنشنال",
+      "published_at": "2026-04-21T01:02:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtNkxHNGx2Y0Y2YVhWM21CR0lIZnJRMTlGS2Q0WGp0NHVxd2xGdlNkRkkyMFQtcnF0MDdDeWNkVnZIdUtSV3JnTkVBT01DU19RU2c?oc=5",
       "strength": 0.6,
       "source_weight": 1.0,
-      "reason": "US weighing escalation; rhetoric and talk of force indicate rising tensions despite deal claim.",
-      "event_key": "trump new deal claim us weighs escalation"
+      "reason": "Internal factions undermining diplomacy raise tensions and risk breakdown of Iran–US talks.",
+      "event_key": "iran factional pressure undermines diplomacy"
     }
   ],
   "top_proxy_articles": [],
-  "top_strike_articles": []
+  "top_strike_articles": [
+    {
+      "title": "US Marines seize Iranian ship with missile parts from China - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "published_at": "2026-04-21T01:18:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXVrTU81c3l1MjlMYkxNTmhtWjlMWnNtRU9GZlR3cVpQY1hxSDFTYUszREVjWGhQTTNBMGJ3UjU4VllVYXhsOGZaZU9KY040bW54X0FpUm52SnJjeVBoMUp1bHRHUkZZN0x6MDBTSHJyaHpJRGhGQVJncmdRb29kblJib25aQ0haU1VwWXFZSEs?oc=5",
+      "strength": 0.87,
+      "source_weight": 1.0,
+      "reason": "US Marines conducted a direct seizure of an Iranian vessel carrying missile parts, a military interdiction.",
+      "event_key": "us marines seize iranian ship with missile parts"
+    },
+    {
+      "title": "US missile defense failures exposed in Iran retaliation strikes - Muslim Network TV",
+      "source": "Muslim Network TV",
+      "published_at": "2026-04-21T00:11:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3RmMEUtWGlScUFhT2hlNG8yUDNRQndqVUN5S0VFMkdEWVVSMWIwTXB3NlgxZHNxeEY4eG9NOXA1cXBZU3ZXcGEzYk8zN2JGUDMyaFFPQlJNZlNkSXZQaXNtS2c2ZGwtV3NpZHgwYm5aUXJfZFZEbnUxUjE0eGFtOHlDZmk2LXBDQ2VnTHpwWHVvaTVENnJHZw?oc=5",
+      "strength": 0.85,
+      "source_weight": 1.0,
+      "reason": "Article reports Iran's retaliation strikes and US missile defense failures—direct military action and counterstrike context.",
+      "event_key": "iran retaliation missile defense failures"
+    },
+    {
+      "title": "US seizes MV Touska in Hormuz, linked to Iranian missile shipments - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "published_at": "2026-04-21T02:16:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0ttLUVIMy1kcDdLcXkzQnJGbjhKc3kySldQM0pvMnJfbWVHd1JtblNSRkxSQV8wTEZJNkxPYmRQc3hYV0xndFNRZi1lZmNJMzlyNTJEQjM0bHZXRWpiZUowZmo0dHNJNWNodUx5NHBfdmpaeTFfSDRDRmpKLXRyZHNJNnJETm9XR2l6cV9ZM0QxbzF6TkNkeA?oc=5",
+      "strength": 0.85,
+      "source_weight": 1.0,
+      "reason": "US interdicted and seized a vessel in the Hormuz linked to Iranian missile shipments, a direct military/police action.",
+      "event_key": "us seizes mv touska hormuz"
+    }
+  ]
 }
