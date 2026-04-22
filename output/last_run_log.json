@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-04-22T19:10:15+00:00",
+  "started_at_utc": "2026-04-22T21:49:54+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-04-22T16:07:55.351300+00:00",
-  "window_end_utc": "2026-04-22T19:10:15.492638+00:00",
+  "window_start_utc": "2026-04-22T19:10:15.492638+00:00",
+  "window_end_utc": "2026-04-22T21:49:54.315502+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 33,
-    "keyword_filtered": 14,
-    "deduped": 10,
-    "after_seen_filter": 6,
-    "classified": 6
+    "time_filtered": 16,
+    "keyword_filtered": 7,
+    "deduped": 4,
+    "after_seen_filter": 1,
+    "classified": 1
   },
-  "finished_at_utc": "2026-04-22T19:10:51+00:00",
+  "finished_at_utc": "2026-04-22T21:50:09+00:00",
   "summary": "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다."
 }
