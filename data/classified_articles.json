@@ -1,70 +1,53 @@
 [
   {
-    "title": "Trump extends US-Iran ceasefire indefinitely, shifts focus to diplomacy - Crypto Briefing",
-    "summary": "Trump extends US-Iran ceasefire indefinitely, shifts focus to diplomacy Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa20wdVQ3T3Q5TzUxRHFqQ0VXNjdiZjJXWllUVVpWczNuVl91c1ZPbmRhdUk5Z3cxS3dBb05JdTdVb3dLb0V0S01IVncxOHJMNVk0eWphVnl4VUFzbmdQRm9JODkwV29sSXlBSTBlZUhTdkNwN3B0RTJCTFpxYVk0Z1hZckY1dG5ZeF9KSzNWWXRoYTNfVkNva2NkNmJYV2M?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-22T03:57:26+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 03:57:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6633137f2c608d53bd55c3b4b42e6343fc9f4051",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.95,
-      "reason": "President Trump extends an indefinite ceasefire and shifts focus to diplomacy.",
-      "event_key": "trump extends us iran ceasefire indefinitely"
-    }
-  },
-  {
-    "title": "Live Updates: War returns to Iran with Israel, US strikes - - DAWN.COM",
-    "summary": "Live Updates: War returns to Iran with Israel, US strikes - DAWN.COM",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-    "source": "- DAWN.COM",
-    "published_at": "2026-04-22T03:45:06+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 03:45:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "abc3b8bb39b94857cdcf91a83bb1008c5f9729ac",
+    "title": "War in Iran has used up half of US Patriot and THAAD missile stockpiles - The Kyiv Independent",
+    "summary": "War in Iran has used up half of US Patriot and THAAD missile stockpiles The Kyiv Independent",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnlCaW9OcHJnNVQzbU80azFaOTF5dlRuQ3NDLUk4RDJ3QWZwNS0wTDNETldiS3pGeWVnS0pveWUxdjluX1RtUXJvc3llaGhQSXJaLVh2ODZZRGwzVkZiYmZUSXVEOElfd2VGQWZqMDNrQTlBSkdldFZtUjREX1BaS0k2dGJPaFlWMzlhcWtRT2RPSlI0X2NnN3IwaFBMYWZFZ2c?oc=5",
+    "source": "The Kyiv Independent",
+    "published_at": "2026-04-22T07:36:48+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 07:36:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "646c9a557ee4a24f80b42dbfd2bec56b54cef455",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports of Israeli and US strikes in Iran constitute direct military attacks and retaliation.",
-      "event_key": "israel us strikes in iran"
+      "strength": 0.8,
+      "reason": "Reports that US Patriot and THAAD missiles were expended during active strikes/defensive operations in the Iran conflict.",
+      "event_key": "us missile stockpile depletion iran conflict"
     }
   },
   {
-    "title": "US sanctions networks helping Iran rebuild ballistic missile arsenal - Israel National News",
-    "summary": "US sanctions networks helping Iran rebuild ballistic missile arsenal Israel National News",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUHFTY0QtbUt0R0ZLeFdVMWlzb2NxaUp6d2wtX3F1Q1o4VnlEVU9YZnZaRWJEY1JkZU9QOHRvNm5yZmd0RWVpdThxa09tX2NIWHFKUkNzZm5xUQ?oc=5",
-    "source": "Israel National News",
-    "published_at": "2026-04-22T02:59:00+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 02:59:00 GMT",
+    "title": "Iran conflict leaves US missile stockpiles heavily depleted: study - The News Pakistan",
+    "summary": "Iran conflict leaves US missile stockpiles heavily depleted: study The News Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVRwX2pQZ1ZRY2NrWGJwVkY4M19GaWZyLTcydEhFUU1YeXF4b3FLVElFVWFYUGtDMnZXeXN4LWF1Uk40UlZZYnNfTTI1WHdUR1pmVjM4VEUtUlpNRVRob09ybFF4X2hnQ3FoT3RnbW43WGU4RTR6M3ZTVV90NHo0U0Uxakx1WnpoUTMwNDluWU9HRHAxMmhQc3h4SDFkNXJjVmt0dA?oc=5",
+    "source": "The News Pakistan",
+    "published_at": "2026-04-22T06:43:00+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 06:43:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f85100538d29b23d005cebda32bdc1af84098b6",
+    "article_id": "ec077cebf79d01ab9d7b552c09668582f3f78c8a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Alleges sanctions networks are helping Iran rebuild ballistic missiles, indicating increased Iranian military capability and heightened tensions.",
-      "event_key": "sanctions evasion missile rebuild"
+      "reason": "Study reports heavy depletion of US missiles from Iran conflict, indicating sustained military escalation and strain.",
+      "event_key": "us missile stockpile depletion"
     }
   },
   {
-    "title": "US running out of weapons? Report claims missile stockpiles depleted by Iran war - The Times of India",
-    "summary": "US running out of weapons? Report claims missile stockpiles depleted by Iran war The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbkhPdWpyeEN4SHdWYTB1T3o4M3hIRDdaVE1wQUIzNTRPMnRZMElCa3lUUmZfVkN3RTlQb1JQeVhFSXdyUUExdHNSZTdrbTRNNlR0MHp3SXc3Z3hfUUl0MUM5aDNqcGdVM01ILU9xQVFEQXVmS1ZLNXBCWFhoamxZaTJfLUx0V2ZuekdVU29ucEhQdllGa0JrNU9kaW5JejhrVTEzRWpVVEh3ZU94bjRZaDRaQkpxSXZ3YkRxeVJNUDhXdzBfdG5IMmE2TTAzNGExUnVvTGZ5c1RFNlRMOEhPZlFGZnFJdDlaT0HSAe8BQVVfeXFMTVJteHprbUdsZjdzMmVrVjdZbThoek56UlFhOWhKQXBJUXNwYmhJaXhlRjNKdWhVVVpTUDYzbnViVzhJazcxVHkwWHQybERhTlV1N2Y1aVhiNTRtZGJnYmlMb0JSaVV4cFNSRjdmQU5FZVhIOXVrWWlFQlVvV3ItSmNsSngyd293WmxyRS1td3NjeC1hZ3hqUzhWTDRhNlFRbTViUndObTdxblNQUzlsYXdIYWN0XzNmaE1veUY1Wk40eXBLTUFpc2x6NVhQc1V2YUU1Wm5nckxnenBxVHU3N2l1cGpISHJkby1LbnMtejA?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-04-22T03:21:00+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 03:21:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "38398c6adae7c0f2d65be48bf7e28b56eb3c9cf7",
+    "title": "Oil, stocks fall as traders assess chances of US-Iran deal after Trump extends truce - TRT World",
+    "summary": "Oil, stocks fall as traders assess chances of US-Iran deal after Trump extends truce TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlZpM1BndUt3Q2pQU0pSRGs1UlJjbEE0d1BYaC1hVW5ZZGhHUlRBcWRLSnNQdFZxR3ItR2tFVzBIVm5MTW9rdU0yR1BfZVk2VWFJYmYxWnpQSnZublFhcXI0blYzTXJra2ZtMnFmRnB1M1VTdjRZMjdfRTJVTUphU05zc0tVc01hSEVUc01FdWluZTJ2Q0dsOHBPWXZ1TDhoSWdPNW1HYTBLMEM0Nmg4Sk5NU3czX1F1ajdIcnB4X1BtUFpPZlJrYw?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-04-22T06:02:16+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 06:02:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e775857c1feb5158d7c9e142486b0b66eb17a787",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Report alleges US missile stockpiles depleted by war with Iran, signaling heightened tensions and military escalation.",
-      "event_key": "us missile stockpile depletion iran war"
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "Trump extended a truce/pause in hostilities between the US and Iran, indicating a suspension of attacks.",
+      "event_key": "trump extends truce"
     }
   }
 ]
