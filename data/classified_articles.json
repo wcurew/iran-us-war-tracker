@@ -1,53 +1,206 @@
 [
   {
-    "title": "War in Iran has used up half of US Patriot and THAAD missile stockpiles - The Kyiv Independent",
-    "summary": "War in Iran has used up half of US Patriot and THAAD missile stockpiles The Kyiv Independent",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnlCaW9OcHJnNVQzbU80azFaOTF5dlRuQ3NDLUk4RDJ3QWZwNS0wTDNETldiS3pGeWVnS0pveWUxdjluX1RtUXJvc3llaGhQSXJaLVh2ODZZRGwzVkZiYmZUSXVEOElfd2VGQWZqMDNrQTlBSkdldFZtUjREX1BaS0k2dGJPaFlWMzlhcWtRT2RPSlI0X2NnN3IwaFBMYWZFZ2c?oc=5",
-    "source": "The Kyiv Independent",
-    "published_at": "2026-04-22T07:36:48+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 07:36:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "646c9a557ee4a24f80b42dbfd2bec56b54cef455",
+    "title": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire - CNBC",
+    "summary": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire CNBC",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGZaQVZNUndTVHpWNHlBRjFTYURhMlVSVDJ0dXYtM0kyMWNzX0xGRHFzWExvTHhDcEpCdF9RTlloNzBEbVI0dmxOMVdwUC1rVjVmeGtFSDhJcmg0b3lwS00wREpEUmR0Q3pnOFhneGZBV2N4b3ZaZmJGU1Nla2cwT1BtTdIBiAFBVV95cUxPVU9MdnlqZndpdnZwaGVnNi00YTFnbU9NTnNCUFBiQWxHUXdPSURaYWJqdmxhRG5ZeWI2YkN2TEEtRnJCWnhxV3dOWl92cExCN2RYdVBMZGVKeV91ZG9zb1d1dTVnR1FvSF9ydkJRTjM2LW1ZMmZKZUdtY0d0bWpqODNCYWpVazNl?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-04-22T09:14:32+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 09:14:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c9bfff1b068409d0c3e623b76683aa942528cd49",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports that US Patriot and THAAD missiles were expended during active strikes/defensive operations in the Iran conflict.",
-      "event_key": "us missile stockpile depletion iran conflict"
+      "label": "proxy_escalation",
+      "strength": 0.6,
+      "reason": "Two ships attacked in the Strait of Hormuz after a U.S.-Iran ceasefire extension, implying proxy-linked escalation.",
+      "event_key": "strait of hormuz ship attacks"
     }
   },
   {
-    "title": "Iran conflict leaves US missile stockpiles heavily depleted: study - The News Pakistan",
-    "summary": "Iran conflict leaves US missile stockpiles heavily depleted: study The News Pakistan",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVRwX2pQZ1ZRY2NrWGJwVkY4M19GaWZyLTcydEhFUU1YeXF4b3FLVElFVWFYUGtDMnZXeXN4LWF1Uk40UlZZYnNfTTI1WHdUR1pmVjM4VEUtUlpNRVRob09ybFF4X2hnQ3FoT3RnbW43WGU4RTR6M3ZTVV90NHo0U0Uxakx1WnpoUTMwNDluWU9HRHAxMmhQc3h4SDFkNXJjVmt0dA?oc=5",
-    "source": "The News Pakistan",
-    "published_at": "2026-04-22T06:43:00+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 06:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ec077cebf79d01ab9d7b552c09668582f3f78c8a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Study reports heavy depletion of US missiles from Iran conflict, indicating sustained military escalation and strain.",
-      "event_key": "us missile stockpile depletion"
-    }
-  },
-  {
-    "title": "Oil, stocks fall as traders assess chances of US-Iran deal after Trump extends truce - TRT World",
-    "summary": "Oil, stocks fall as traders assess chances of US-Iran deal after Trump extends truce TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlZpM1BndUt3Q2pQU0pSRGs1UlJjbEE0d1BYaC1hVW5ZZGhHUlRBcWRLSnNQdFZxR3ItR2tFVzBIVm5MTW9rdU0yR1BfZVk2VWFJYmYxWnpQSnZublFhcXI0blYzTXJra2ZtMnFmRnB1M1VTdjRZMjdfRTJVTUphU05zc0tVc01hSEVUc01FdWluZTJ2Q0dsOHBPWXZ1TDhoSWdPNW1HYTBLMEM0Nmg4Sk5NU3czX1F1ajdIcnB4X1BtUFpPZlJrYw?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-04-22T06:02:16+00:00",
-    "raw_pub_date": "Wed, 22 Apr 2026 06:02:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e775857c1feb5158d7c9e142486b0b66eb17a787",
+    "title": "Live updates: Uncertainty shrouds possible U.S.-Iran talks after Trump extends ceasefire - NBC 6 South Florida",
+    "summary": "Live updates: Uncertainty shrouds possible U.S.-Iran talks after Trump extends ceasefire NBC 6 South Florida",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjBfdGI0aFd3X2E3WkQ1ellBYXR5eUhpR3g0TXhLVHBvdnJOc2x3SlFDSnNtNnB3X290bnowSDRheVA5cHdxckg3Ti1nTE55NzRmNW52WDZJYURyLXRUTXF2VHczVFI4LTRmOXF3QjJ5aGtvM1JUVWZEUFRJOHhObk9rTXhONTV1ZzdsR2NWY1hkd0VLQ3VkOGZHOG9GM09mN0o5StIBrAFBVV95cUxQeHdQeVJVN1VtbDRlZUlRZHhfOTNSSmNENmZCQUY0Z1BDUHVSdUMtamJTV2tFM1hQX08wYXBWSk1HMDlPbm0xbHpTSEJBR1QwVEZjVTlFcFNUM1o2ODZMU1JNQlhuS3Z0eXV5YkxQRWdHc1VhLUYzYVU1aFNFekJfeElYY1lsN1RtOF9CUDVZeExNelVXVGYxaExBV0Z5NDljaENGQVlHRy1FSGxf?oc=5",
+    "source": "NBC 6 South Florida",
+    "published_at": "2026-04-22T08:40:39+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 08:40:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bb97658a31028add1011dff1d80b92e74440d57a",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.8,
-      "reason": "Trump extended a truce/pause in hostilities between the US and Iran, indicating a suspension of attacks.",
-      "event_key": "trump extends truce"
+      "reason": "Headline says Trump extended a ceasefire; talks mentioned as possible but main event is ceasefire extension.",
+      "event_key": "trump extends ceasefire possible talks"
+    }
+  },
+  {
+    "title": "Iran’s UN ambassador responds to US ceasefire extension - Al Jazeera",
+    "summary": "Iran’s UN ambassador responds to US ceasefire extension Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTRWbWNZNnJfWWxLeUdmZGU4YmR4bER3ZTJqenF6aDNHNmsyZFVlRkRKWEF3bl84T3puMWk5bmlwSmNRWUdETmdSb0ZWS0dFdzJJM3h4MF8zb3FTb0dJZnFOT3ZIYWptT0hfMlVtSVJzaE43bzRMUGRHR2s1U0RUM3hZZzdMdEF0Y0oxYjh1ekt2bUZFekN5WW1hOVBQTUU1ZUFfZ1B6MkbSAa4BQVVfeXFMTnJGaWRwWXNVYnNxbmdFaVRiRU5EcTZXY1R5ODBINWhKa2tuTVFybFZacjk0QjQwbEdfM18wWFRIUkxYdUY0eFpKZHNVeGhxTk1aWTdydkxQbExKZkJ0bnFZVDYwWjJPdTZ2WjdYLTFTMnJkUl9ENXhycHdoNDUwVnJPS0ZnUktwZXVCSmZ0MmU4SG9OVEtaZTRPWkRyTnhLaTdpMk15Wmxrc2pLM3dn?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-22T07:43:39+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 07:43:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6d1cda9aebbad7eb6965653f8f18debb5e74975a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Article covers Iran's response to a US extension of a ceasefire, an explicit pause in hostilities.",
+      "event_key": "iran response us ceasefire extension"
+    }
+  },
+  {
+    "title": "Attacks and ship seizures in Strait of Hormuz imperil talks to end Iran war - The Washington Post",
+    "summary": "Attacks and ship seizures in Strait of Hormuz imperil talks to end Iran war The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNBMk9udGNhWHlhazZYWVVNREpNd1prTWRWVlB2NDkwZVpvLUhvWjVhRkt6WTZvLTFodnRrMThMTjZYRnlYWXQzbFE0OEdQX0t3T0Q2THhUdGh4UDhiUlhiV0lLOFlRdTdwTUlIYU5ZV0JaNnNGb3E1Tm1QNnNlUFFRcl83aVE?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-04-22T08:51:45+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 08:51:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f4f68d1f69fede1dfaaec377f49c3090ca845706",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Attacks and ship seizures in the Strait of Hormuz by likely Iran-backed actors imperil talks and escalate proxy tensions.",
+      "event_key": "strait of hormuz ship seizures"
+    }
+  },
+  {
+    "title": "UN welcomes US decision to extend Iran ceasefire, urges all parties to support diplomacy - Muslim Network TV",
+    "summary": "UN welcomes US decision to extend Iran ceasefire, urges all parties to support diplomacy Muslim Network TV",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMG1pQ2NhMzZHVUMxUU44eVZSWFp2d1c3UmhhOWExRGt0bkpoR0h5eUxiU3BVTHd4T2JDOTA3WXRJTnlRRFR6N0kwbDZ4TTU0bXNSMHpWcEwya0ppa0lpT0J5REp1VkZ1VnktQ1pPQzA4MVpRTEdlMVFBTWFxR3ozUzFrYnpOUFRtVEl3TEVkRUpyY2d6cldGN2dCN2owUk5aRV8tWVo4RDBhN1BUbFFNSDluY09RNklD?oc=5",
+    "source": "Muslim Network TV",
+    "published_at": "2026-04-22T09:11:15+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 09:11:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9898c27c905a897897f1a3e60ddcd084ff9b2992",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.92,
+      "reason": "Article reports US extension of a ceasefire welcomed by the UN urging diplomacy.",
+      "event_key": "us extends iran ceasefire un urges diplomacy"
+    }
+  },
+  {
+    "title": "The Latest: Uncertainty shrouds possible US-Iran talks after Trump extends ceasefire - WHEC.com",
+    "summary": "The Latest: Uncertainty shrouds possible US-Iran talks after Trump extends ceasefire WHEC.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE1uWHBGcjlBSEtBa2ZqSWsyODdMUy1JdkFTa1lJT2VpSURQcWZlcGhGWUN2TXlXSV9jUVJwVFc4aUpKbWszR09BWTNSUFNrZHB5WTZ6M0Y5S3VkdXF5RXZ6TnZMVmlBWlduWTZwVVdnbHFmUjB5Y09FT250VF9mcWV5VzJZOFlReXNQOXdhRlZzUVdsT0NWc21fR1lVNGNLUUpDZjN1cmlkaFRTVmsxMW5hbHBHWnNo?oc=5",
+    "source": "WHEC.com",
+    "published_at": "2026-04-22T08:51:29+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 08:51:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b91df7de0b424dc80c9225c2d1c99c5c1ee3cded",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Trump extended a ceasefire between the US and Iran, affecting potential talks.",
+      "event_key": "trump extends ceasefire us iran"
+    }
+  },
+  {
+    "title": "Exclusive: US turns to Ukrainian counter-drone tech after Iran attacks, sources say - Reuters",
+    "summary": "Exclusive: US turns to Ukrainian counter-drone tech after Iran attacks, sources say Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0Z4RkhlOW1LZGV5cEVVVnpWQkEwTHhZMnhiQ29kU195ZjRYVmZxU3AtUGpaUHlWaTNySmVsQVU5dHlSZ0RFUzdLMFVveWtTcDRBMHNaZm12Z1pLamV1eWVncXprOE5sdkN1bmJyU0ZHTC1ic1E1V3VockhFNWZLMW1rS25yd2NoaU5wbzlxQ3VobTZoY1o5M0E1ekdWRDdPR1QzUzhqRFgzTk54dEJOaHlXSFpvRWgyX2Vva0lVSzRvY0Zha1BjazljTQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-22T10:03:45+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 10:03:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "85b2694398ba34f06bd59a14669d14c5b7d702d5",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.35,
+      "reason": "US sourcing counter-drone tech after Iranian attacks signals heightened tensions and defensive escalation.",
+      "event_key": "us adopts ukrainian counter drone tech after iran attacks"
+    }
+  },
+  {
+    "title": "US Drains Missile Stockpiles in Iran War, Raising ‘Near-Term Risk’ – CNN - Kyiv Post",
+    "summary": "US Drains Missile Stockpiles in Iran War, Raising ‘Near-Term Risk’ – CNN Kyiv Post",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iZmR4a2dsWTZsUC04akRUek5IdXlPLVExS1VoUnRudG44UUV1NU9SWlQ0bUhmZHdFWGJtYkdqcVdVYUhTYy1TT2dEZw?oc=5",
+    "source": "Kyiv Post",
+    "published_at": "2026-04-22T08:00:26+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 08:00:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5bd3d44aef670790ace00324fae67f1af3a48ba5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reports US has used large numbers of missiles in direct military action against Iran, indicating active strikes/retaliation.",
+      "event_key": "us missile stockpiles drained in iran conflict"
+    }
+  },
+  {
+    "title": "US run out of missiles for a ‘future war’ after bombing Iran - TVP World",
+    "summary": "US run out of missiles for a ‘future war’ after bombing Iran TVP World",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmhTYjNScnVNMFM5VEhkeXRGeUI5NU1rMHZFekNraWJFckdsektkNGdzano5VTA5VkRCdXZQampVekFXaF9weDhEcDFpY1FlMVo1SmFjeVlTeGl6b3piTE1TWlZHMFJHNk5iYjhCdW1yaEkwSDlrZ0s3a01mdXp6dExZY2ZFVVhwaVVzc0hmNUtfdFlpOUNlaGQxWTdSN1VOWXk3Qk40cE9uVUY0RVdiTHpB?oc=5",
+    "source": "TVP World",
+    "published_at": "2026-04-22T07:53:00+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 07:53:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d52c5e4f7b7c724b67491bd4da06ebfa57dc5f46",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Article alleges the US bombed Iran and depleted missile stockpiles—direct military strike/retaliation.",
+      "event_key": "us bombing iran missile shortage"
+    }
+  },
+  {
+    "title": "Iran’s Missile-Drone Campaign - Implications for the U.S. Deterrence - RealClearDefense",
+    "summary": "Iran’s Missile-Drone Campaign - Implications for the U.S. Deterrence RealClearDefense",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlRoUjNvRlhJbjJ3YTVBRi1Ocl8zc2VoNVRibDRpNkw2bEhwZ3JDYmIxMllqOXFqSUtVQ0R5N1lrZFRVYVVoUEJTT1FXVXpxS3J2VGJRaGlWUjdfU1hWVnRsODhwZEc4eHg2cnMxaTI1cVd4c29xWjI3YnUyVlczMm5iWXBUNnQ0cnlzWkNfQzF1YU51YW1idUpwMzhkNlU4R3R1YXJCMTFPX2x5VExTUDE2Rk0xMGZYaUgzME5Dcw?oc=5",
+    "source": "RealClearDefense",
+    "published_at": "2026-04-22T09:17:32+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 09:17:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fad16f5a8acc82d1e1c9a0f5eb4fe04b2d17663d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Analysis of Iran's missile-drone campaign highlighting heightened threat and challenges to U.S. deterrence.",
+      "event_key": "iran missile drone campaign deterrence"
+    }
+  },
+  {
+    "title": "Iran warns of escalation as US diplomatic talks stall - شفق نيوز",
+    "summary": "Iran warns of escalation as US diplomatic talks stall شفق نيوز",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOG1yWjVsOFM5OEdSVzZhNmp3UDN4ajhEbDJKa3JfLVVZekJwN21Gd3NFUzZlUEpqRXZmcE8yTWs4alMyZUhSdDNoSlM4UEsxSU1yU3NDeGFPRk5sNWRVNWhlVE5RbW1Wamw3Z1hlSEJxV1labU5KUGVmNDFLYkVnVHprV2hRZzJHOGhjQzlzOGg?oc=5",
+    "source": "شفق نيوز",
+    "published_at": "2026-04-22T09:12:50+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 09:12:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "919ee40673f86cf6a5d57f1424acb034ea7ed8f5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issues warnings as US diplomatic talks stall, signaling rising tensions and breakdown of diplomacy.",
+      "event_key": "iran warns escalation talks stall"
+    }
+  },
+  {
+    "title": "Gulf states worry their concerns not a priority in US-Iran talks - The Arab Weekly",
+    "summary": "Gulf states worry their concerns not a priority in US-Iran talks The Arab Weekly",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0NkZFpzbHhhZHpPdVV1OGhzTWd1Z1NSMDc3LWxnRDRJTnFMTjV4dzk0WlVZcFhGbUhNd0xQQ2JIcm45b0dkaG5iWkQ4N3M1TC11cmNNWnBzQnNNdWl2Um9rSG9MRWF0NUF1ZzQtU21QNWNRNEhmZndmMzBDN3R2N0U3OS1ra1c5OVg5dUtR?oc=5",
+    "source": "The Arab Weekly",
+    "published_at": "2026-04-22T08:56:56+00:00",
+    "raw_pub_date": "Wed, 22 Apr 2026 08:56:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "21aca8d59ab232b8620f7a661c4182adb5266dad",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Discusses Gulf states' concerns about ongoing US-Iran talks and diplomatic priorities.",
+      "event_key": "gulf states concerns in us iran talks"
     }
   }
 ]
