@@ -1,172 +1,121 @@
 [
   {
-    "title": "Copacetic or apathetic? Trump losing interest in forcing ‘fractured’ Iranian leaders to the negotiation table - Washington Examiner",
-    "summary": "Copacetic or apathetic? Trump losing interest in forcing ‘fractured’ Iranian leaders to the negotiation table Washington Examiner",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWExXckxjLXdrVi1sYUZIckNmUlNrN0JpT2hnZmtDaERweG14enB1VmxZOF8tTkFZTGdydmlLMUwzMlVGdXdSM21GTlRCNTQ1WWcxMjQwdjM1QUxoTDY5ZUpTWU1TSXZadFlYZHJ4cUVlV3RkaFFraXlLWlVocU1jOXZ5ellObHhlc1NHV01OV3Z3SG5udjMyUDdWV3RybE9JRjZPVVpJVmwwcExPVGViOVptZmJZVEpRMVZod3BaWVZSNHVjVk44?oc=5",
-    "source": "Washington Examiner",
-    "published_at": "2026-04-23T11:50:00+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 11:50:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "90b9c5b33612d3cab438fe384abf8dff14e7759e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Trump reportedly losing interest in forcing Iran to the negotiating table, indicating reduced pressure and restraint.",
-      "event_key": "us reduces pressure for iran negotiations"
-    }
-  },
-  {
-    "title": "U.S. seizes another oil tanker as peace talks with Iran still in limbo - NPR",
-    "summary": "U.S. seizes another oil tanker as peace talks with Iran still in limbo NPR",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVjdEYU5kSGRDVEFmUzgyUGo0YjIxT1VBeG04TjdlVENxZ25BdTlFYkFncjB0LWNHYkxfWXIwM1BTeWd5VDZzeWhKTkRKajRQcTdkb1RTb3pIUXlSQlRsSEVacHU0aG5VaG9zbU5hOE9WUC1yc1lCWA?oc=5",
-    "source": "NPR",
-    "published_at": "2026-04-23T11:30:41+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 11:30:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c7e937c11f40139898ce6f297b522e832e364818",
+    "title": "Trump orders U.S. military to 'shoot and kill' Iranian small boats choking Strait of Hormuz - PBS",
+    "summary": "Trump orders U.S. military to 'shoot and kill' Iranian small boats choking Strait of Hormuz PBS",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeXBlLTVXMlZ6UndIRnVWSmxRVWl5WVFCbXZFVndYeEh1eFcwUGFod2p6M3pFMnNBUlhfM0hPNG9sNHRSbzVaYkdqdEF3M000VmQ1bW1aQjYxYWVTYUpxdDY1TGhsTUU3clJvMWVIeV9GTXgwWHVjQWNKdzVQN081YjVuSnZ3VkVLbWxETVNieGpfZlZqM0hCVDVpUWlMeXZUc05hVnFlUFg4TWIyOVdaZ3h2c0dMSlVScGhYSzZPeGPSAcYBQVVfeXFMUEJ2NWdVcWJlclgtZGdkR0ktY0ZTWDhPb0NZN0ZfdzA1TnlUWWI5UjVWZGJTY0RyWUhXWlNLb2FXeGZNVVNxSTM2RHZiVFBJYloyWkJxTU1NRldaUUVoMDNDOVNualVXTDB6M1NfWThmMmxWeVd0SDNoQm9NdW1kMDdkQlNOSy1wTk9SYXVjWGZEVE1ocm1WZlRrU29ORk1fd2M0b2IzTVJlbWFSN3pKamlwRENGa2pDX3NxYmxhSmF6S05SaDdR?oc=5",
+    "source": "PBS",
+    "published_at": "2026-04-23T14:04:53+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 14:04:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e974158493165cc13d0fd7ed16163a49579403c1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.75,
-      "reason": "U.S. seizure of an oil tanker is a direct enforcement/military action amid stalled talks.",
-      "event_key": "us seizes oil tanker"
+      "strength": 0.9,
+      "reason": "US order to shoot and kill Iranian small boats in Strait of Hormuz — direct use-of-force directive.",
+      "event_key": "us orders use of force against iranian small boats"
     }
   },
   {
-    "title": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo - WRAL",
-    "summary": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo WRAL",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDJnZTMtTUJZejIzcHBqdEtFLVpLZDhQZ3VwQy05MkJvaDVRVVFSb2NvU05jRGdISVIzTDlINGZLd1BWWjFxSFhmckRXU3Jabmw5SkdUSll0MEtUdXNLQTR0cm9jQmZnLW9YaGxVdnR4cDdWWEtBTGJ0dkc1cDRHbUlFdnI4djdtaEVFMFcxV1RSSUxMdlJHN21FU3hDb1l4MnoxQlJDbV9SQm5zc1RneW5jWUtIM0pvTGFmNg?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-04-23T12:15:04+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 12:15:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6cb464ea284de6d7567a9144e0aa845c2c4ed281",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.4,
-      "reason": "Article notes Iran–US talks exist but are stalled (‘in limbo’), indicating diplomatic negotiations rather than military action.",
-      "event_key": "iran us talks in limbo"
-    }
-  },
-  {
-    "title": "US Says It Awaits Iran Move on Talks as Hormuz Tension Rises - Bloomberg.com",
-    "summary": "US Says It Awaits Iran Move on Talks as Hormuz Tension Rises Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbDF1Q2tpMWNmaHczRTlQbkxraGVITTZMdVRnektVNGh5SnJUVG5WSTI3U3ZOSzc1bzMyUGxnRjRsM3pQMTNBbmxOZFh4Vk1YZmc4VlFfQkpXcUhXNzkzaU5iZlRWdEFiTnZNc0l5ajhqNUJidW9BRzlEQzR6YXREZHZGc1lkS2VzQkxlUHRrOGRZRERYeml1Tm4xV1BWOWhRNzZCSmlLa3cyR2Fockk2LXJ3cnY2dw?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-04-23T10:35:53+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 10:35:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9ab86d087a7f60c3536e7b0505450187f4228273",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "US awaiting Iran to make move on talks amid rising Hormuz tensions.",
-      "event_key": "us awaits iran move on talks"
-    }
-  },
-  {
-    "title": "Pakistan Calls for Continued Iran–U.S. Diplomacy - WANA News Agency",
-    "summary": "Pakistan Calls for Continued Iran–U.S. Diplomacy WANA News Agency",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KdE04Z2p6dGM3ZUYzTWhobzVudTVvUUx5dl9pMFZfR1VWV0kxWTlpM2lwaXpWQWt1WUd6SjBsWVpTSHJvQW9iT2pEeTR0Vk94QzBneWE3LURaZFRnRE5PWnhudXJvS0tzMFF4UVVfTFE1TmEyWnc?oc=5",
-    "source": "WANA News Agency",
-    "published_at": "2026-04-23T11:15:11+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 11:15:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "905765495a2ac0f5b05bc0f809bc41a17526d5eb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Pakistan urged continued diplomacy between Iran and the U.S., indicating support for negotiations.",
-      "event_key": "pakistan calls for continued iran us diplomacy"
-    }
-  },
-  {
-    "title": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo - Big Rapids Pioneer",
-    "summary": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo Big Rapids Pioneer",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUE85aXdqM2I1WnU0dUxLWTQ5V2NQZTJHSl95Sm1lcGhkTWR5VjJXT1hHOHI4b3A2YXlCejVISnYxT0NBbEFaS0Vsdml1QklrVjAycnljNjJuaV9uQldCcXNZNE1rdC1ramRSMEloQTRzQ0NpU2NQUW1leTM4UzZRQjJrSlp6UFBiQ0pselV1dVVRS3lwbFkxT1ZLMV9LcDQ2Y3c?oc=5",
-    "source": "Big Rapids Pioneer",
-    "published_at": "2026-04-23T12:38:20+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 12:38:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "876572725937814e7b2ed66c4fd26594d0085197",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.4,
-      "reason": "Mentions Iran-US talks being in limbo—diplomatic negotiations present though stalled.",
-      "event_key": "iran us talks in limbo"
-    }
-  },
-  {
-    "title": "US drains critical missile stockpiles in Iran war as yearslong rebuild looms - Fox News",
-    "summary": "US drains critical missile stockpiles in Iran war as yearslong rebuild looms Fox News",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQandFWFBLZnV4UklBSGxpYXR6WmlyMUVkaWRCUTFveUY4M3h6Vy00SWc2Z19hUzRWVWFzenNIcUUySFRWQ2Jnb3lXMjY3QmFnNGprZjM3bVhNc25uMVpuMXZhYXF6Q2UzTVRJSGtJaml4TmtkQUxCbWN2YUxnMTFCcXA2dkZtWjVSTWVTZktuYWpZUTIzUHMzb2VwRmxzeV9zVExKZnl30gGrAUFVX3lxTFBoU1dCQTRrVEt6cDl1YU5kQjFrUGlVYU9xXzI0dDBKUFZNQXZmWW1SaUhkNFFXNEtkYzIxUEI0dXdhMkczTVJXdV90STN6YmNVR1I4NkM5WllxOUV3TGhnUFExU1M1UjJ5b0hnWmpibFlUOWVWQjJwLVNNS1ZrVmpXNkFGZzBieDB2czZFcXl6c040WnZUdmxIV2Y1Q2NtekhlNWlndmt3dGJwOA?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-04-23T11:48:07+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 11:48:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fccdae4adee07700d20453ac264b87fae0500b07",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports the US has expended large missile stockpiles in direct military action against/related to the Iran conflict.",
-      "event_key": "us missile stockpile depletion"
-    }
-  },
-  {
-    "title": "US missile stockpiles depleted in Iran conflict, rebuilding expected - Crypto Briefing",
-    "summary": "US missile stockpiles depleted in Iran conflict, rebuilding expected Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3RhdGlTalhJc2hEdV9PenBDaGpJVVBHRG5mLUdvaDl5dkZJQ1ZkZE95cl9LZXVfTUg5N0I2d25MTkVpOUZyZmQyMkxEdlV1TzJUcEFnN2JiWEZ0MFQzRV9RMTJVa0NRMHZucjdSa25IRDlGcXlHTjRkLXhaTk5UTEJfVnRDMlp4V05wWU9Udld4djlycUtCazhsOA?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-23T12:08:04+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 12:08:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1179eb52135d8e17187f4896290ba7b497164da",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Reports of US missile stockpile depletion indicate sustained military action and intensifying Iran-related conflict.",
-      "event_key": "us missile stockpile depletion in iran conflict"
-    }
-  },
-  {
-    "title": "Pentagon fires Navy Secretary amid US-Iran conflict escalation - Crypto Briefing",
-    "summary": "Pentagon fires Navy Secretary amid US-Iran conflict escalation Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVcwVExiZFowSzA5VmpiSXF2ZUk5ZFpZamZuR2oxSWZTODdyaHpNbUlxZ2ZsSXZJTWFlWHZZQk9SZXY4aVg2TjItWlFxNVluQWFwWFBTNTdoYTRGb3JpQkJ4T2IyUTlDS1F1Z1k1dkFoSmEycW9HMWJpWm4wOWZ4dnpEZEZrZXdZMkRMSFU1U3h6Y1hf?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-23T11:01:42+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 11:01:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b761f43616669e6100143a9c4d896d350203e034",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Pentagon firing Navy Secretary amid rising US-Iran tensions signals increased hostilities and deterioration of situation.",
-      "event_key": "pentagon fires navy secretary escalation"
-    }
-  },
-  {
-    "title": "Condom warning issued following US-Iran war - tyla.com",
-    "summary": "Condom warning issued following US-Iran war tyla.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMGhnVEV2cDhqZzZJX0U3V2ZiYXZ1Q1hDMUNqMUluYjBEUWtSQnFaVHNhWnlnelpMelVER0k0SWowOHVmZEhFbGtqOF94MndsdWJ4dS02QzkyeDhnSlFJT0RmTnozZ2JpbU82cW90QUxJSEtMLUYtbno1VW5lcURqMUR1MS1NaUhiUUJtdHhiVklMakFpRmdTelpIVm8weFVO?oc=5",
-    "source": "tyla.com",
-    "published_at": "2026-04-23T11:56:19+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 11:56:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a176f775964710625bd516fc2c8022cc40a0c70c",
+    "title": "Israel-Lebanon Talks Resume Amid U.S.-Iran Impasse - Council on Foreign Relations",
+    "summary": "Israel-Lebanon Talks Resume Amid U.S.-Iran Impasse Council on Foreign Relations",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1VGeTFHeXZZUTJ2VEQxa1I2dkNQbGJ2UTVuU3RNbVl1b3p5VTdzSk52dXRKWUJZaF9vMTdNRFFTTXVscHJ1WTJoSFllWEZyZFJQWWM3MnhkSHo0MzRCaDRUeTZHZFFDX2RPRlZHRmF2SnRZT2JQWVRkQXBQZjlYNjNpZVI?oc=5",
+    "source": "Council on Foreign Relations",
+    "published_at": "2026-04-23T13:47:37+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 13:47:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aad6c782fa58db91ed44f18c73eb67ac1c8bba95",
     "source_weight": 1.0,
     "classification": {
       "label": "irrelevant",
-      "strength": 0.22,
-      "reason": "Health advisory unrelated to diplomatic or military developments; peripheral to conflict.",
-      "event_key": "condom warning post us iran war"
+      "strength": 0.1,
+      "reason": "Focus is on Israel-Lebanon talks; U.S.-Iran impasse is background, not a direct Iran–U.S. diplomatic/military development.",
+      "event_key": "israel lebanon talks resume"
+    }
+  },
+  {
+    "title": "Iranian delegation 'forbidden' from raising nuclear issues in US talks - report - The Jerusalem Post",
+    "summary": "Iranian delegation 'forbidden' from raising nuclear issues in US talks - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IaDQwTmtDRUlRLXBsSWxNUXlzQ1hnX0lEa2dIWUxvUkhiWEVMUzhmdVJYSVFmalA1NkF4OF9iNUJ2Mkd6VUJDVzBHWWgyRDl3aVM2bDJfZ1FENVZJZi1JUW91aUlqOW1MZVE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-04-23T15:31:24+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 15:31:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "efa3df18713f10876700d590cecd199e38866b7a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Report describes constraints on an Iranian delegation participating in diplomatic talks with the US.",
+      "event_key": "iran delegation forbidden nuclear topics us talks"
+    }
+  },
+  {
+    "title": "Iran Isn’t Boycotting Talks — It Has Nothing Left | Gregg Roman on Washington Watch - Middle East Forum",
+    "summary": "Iran Isn’t Boycotting Talks — It Has Nothing Left | Gregg Roman on Washington Watch Middle East Forum",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkludEF1SDNMWHBSczZ1Y1VnS3o4d3lBeV8zcmczemxyOFRmLUU4d1dVYmhpaUlnN2xZWmxPS1JwdmhKWURPNW9ZVDllMGZ4dXU0YVlZWEhCbDA3TndBdUVpcl91TTlvNGx1aHRCWHZmeFBhRk85TlR3STdrY0EycmdHSWxaTHFIUWg1YTlTYU56cFhkZkdNS0JCRUdpMjE3d2pMUUswdHh2b0VIT0hpQ3VvaXkzNnRYOWhJ?oc=5",
+    "source": "Middle East Forum",
+    "published_at": "2026-04-23T15:43:22+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 15:43:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "999ae3dc012586a817f2c8addec761d6cae710c1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Article argues Iran is not boycotting talks, implying engagement in diplomatic negotiations.",
+      "event_key": "iran engages in negotiations"
+    }
+  },
+  {
+    "title": "Professor talks book on Iran’s nuclear program, relationship with US - The GW Hatchet",
+    "summary": "Professor talks book on Iran’s nuclear program, relationship with US The GW Hatchet",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2RMOVNOWERubUZEQ2Nna21GeTJZb2RkY0pfb19ibEk1MDFpbTFHQWhXSmZBRm5jcnlaYVdZaGNpbG9qR2lCMHpJSUpRWmlhMmRMVGJ3SGZna0Q3cnd2bGlyd29KZTl6WklkdXZ3ZE5UX0lnZmRaaENTTEEtZ0wyd0VxQVVjbjFLLWNlNWZ4Z3plQ1dUVUl3VnZDYVVzYlpBc3c?oc=5",
+    "source": "The GW Hatchet",
+    "published_at": "2026-04-23T13:51:27+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 13:51:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2df832cf0bf8c7c27a100914a345680412e6e916",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.1,
+      "reason": "Academic discussion of Iran's nuclear program and US relationship, not reporting conflict or diplomatic developments.",
+      "event_key": "academic discussion iran nuclear us relations"
+    }
+  },
+  {
+    "title": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz - KSN.com",
+    "summary": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz KSN.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDVSV2QwZWg2Z0RnZzU1SG5lUGc3ajNJTUYyeWs3RWMzdFZNX1JzbjZzeGVpc09MbDY0a2RoenNNVlZyYXFfenk1MmZrVHB1V05qRGZfTmJ3ZlhVZG80eFBfU1JkUzRnX25CREd4dXlyc1lsek9fZkNzTTBXYXRvYWxOVVVmUVZwSUI2U1NURE5XcFlSOWJoN0FxckJWNWQtZHBGR2NrONIBrAFBVV95cUxOOHNyZjNoZnJuRElGMU1xbTJwU01WVVhZcE9XTXpvTlplUjN2RW9RalFrTW9ZcDFTelhkV25DaGlwVVRqTkQ2Nk9CZ1BTZE1UODhUeklJTTRrbVVyZE9nUFBpMUo5dzhocERVUldOUDVQc1NOLUtTSTY4M3JvVmhjd2hmVFVPY0lVbXpCRVZaOTVfX3pRaHQ2QWgyampUbnhheklNRmxpWDBqSFI4?oc=5",
+    "source": "KSN.com",
+    "published_at": "2026-04-23T13:26:50+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 13:26:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4e6abd85637b077942f1b5c3af340a16b5ede78f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US president ordered lethal force against Iranian small boats in Strait of Hormuz, direct use-of-force directive.",
+      "event_key": "us order shoot kill iranian small boats hormuz"
+    }
+  },
+  {
+    "title": "US extends ceasefire: does Iran have the upper hand? - eurotopics.net",
+    "summary": "US extends ceasefire: does Iran have the upper hand? eurotopics.net",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVFqMjBMQ2hZSWhxZ3V2ejhQQWZ6bVluREY5UVFFZ3pKOTl1ZXgxeURHaFV5MWE5ZHZGWW1xZjBqb1lxNXV1MTdPWEJvYkVWOWpfamdPQ2ZuNUdXSlg3ZUxoYXhYd1ZBR2tCREFJSnM1LVN3NHlCenVaand0bFNVd21NeWYzNU1VREM4aFdoXy0?oc=5",
+    "source": "eurotopics.net",
+    "published_at": "2026-04-23T15:47:55+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 15:47:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d3378d4bb70b1a5d67ce563035b6df352ab3d045",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "US extended a ceasefire, indicating an agreed pause in hostilities between parties.",
+      "event_key": "us extends ceasefire"
     }
   }
 ]
