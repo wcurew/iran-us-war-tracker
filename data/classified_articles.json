@@ -1,53 +1,172 @@
 [
   {
-    "title": "Iran seizes 2 ships in retaliation for US actions in Strait of Hormuz - NBC26",
-    "summary": "Iran seizes 2 ships in retaliation for US actions in Strait of Hormuz NBC26",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlQ4Z2VCQ2tFTV8tMXQwcEFnRFp4WmM0ZzNNWHFUT2YtemR1RGoxS1dIbTFvYVdUUWtRbHZQX29qUTRmYm9sZjcwTHFLZFZBNC1KU2lBV2lvUGQ2SjBjM2g4aEk2UTdkYnJ6TUEzTkgtelNqcG9LeUFMeFFtYkNuMTZ5MzBGd1hkOVBWS21ybmM5Nl9aV1pMZFZQWi1vekFGNnFQREVmbHgyUVRkclFpcE1HOXkyTkpnRmFEa3p3?oc=5",
-    "source": "NBC26",
-    "published_at": "2026-04-23T07:59:38+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 07:59:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6d0bb10ce8c0215d9d73cdb5f4c791ec9cbe5de5",
+    "title": "Copacetic or apathetic? Trump losing interest in forcing ‘fractured’ Iranian leaders to the negotiation table - Washington Examiner",
+    "summary": "Copacetic or apathetic? Trump losing interest in forcing ‘fractured’ Iranian leaders to the negotiation table Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWExXckxjLXdrVi1sYUZIckNmUlNrN0JpT2hnZmtDaERweG14enB1VmxZOF8tTkFZTGdydmlLMUwzMlVGdXdSM21GTlRCNTQ1WWcxMjQwdjM1QUxoTDY5ZUpTWU1TSXZadFlYZHJ4cUVlV3RkaFFraXlLWlVocU1jOXZ5ellObHhlc1NHV01OV3Z3SG5udjMyUDdWV3RybE9JRjZPVVpJVmwwcExPVGViOVptZmJZVEpRMVZod3BaWVZSNHVjVk44?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-04-23T11:50:00+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 11:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "90b9c5b33612d3cab438fe384abf8dff14e7759e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Trump reportedly losing interest in forcing Iran to the negotiating table, indicating reduced pressure and restraint.",
+      "event_key": "us reduces pressure for iran negotiations"
+    }
+  },
+  {
+    "title": "U.S. seizes another oil tanker as peace talks with Iran still in limbo - NPR",
+    "summary": "U.S. seizes another oil tanker as peace talks with Iran still in limbo NPR",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVjdEYU5kSGRDVEFmUzgyUGo0YjIxT1VBeG04TjdlVENxZ25BdTlFYkFncjB0LWNHYkxfWXIwM1BTeWd5VDZzeWhKTkRKajRQcTdkb1RTb3pIUXlSQlRsSEVacHU0aG5VaG9zbU5hOE9WUC1yc1lCWA?oc=5",
+    "source": "NPR",
+    "published_at": "2026-04-23T11:30:41+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 11:30:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c7e937c11f40139898ce6f297b522e832e364818",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran directly seized two ships in retaliation for US actions in the Strait of Hormuz.",
-      "event_key": "iran seizes two ships strait of hormuz"
+      "strength": 0.75,
+      "reason": "U.S. seizure of an oil tanker is a direct enforcement/military action amid stalled talks.",
+      "event_key": "us seizes oil tanker"
     }
   },
   {
-    "title": "Video: Iran Shows Off Its Ballistic Missile At Tehran Rally Amid US Ceasefire - NDTV",
-    "summary": "Video: Iran Shows Off Its Ballistic Missile At Tehran Rally Amid US Ceasefire NDTV",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3FjTEhzaDRac1JaNTFqeTNjaVJlWnNENDdaQi1ROFFxS0tDemFJWE9OaVdscm40VlBJSEt6aU4tNEhoWnl2SHdOQW4wOTdDdDQ0OEdjc01zamkzVkF3RkRLdHdKUDVKREpSTm5UdmVaYnk5c3hxeWhZVVpCTFhhOEl6YWZmdlRaeHFSQTV6WGhjblZuZ2p3cEF3UDUybjcxR2h4cG9Wb1VjX2F5SXVHVVdsWXplOWR4UndDcWRfdFJjazNiWTBvQUl30gHSAUFVX3lxTE9sNktzaXA0Y2taQUdHUDhHenFWWGsyRHcySkFSUnhuaWpaRDZmZkJPUU9aTGJjcmY4ZFlFQXBGbDF0cFBkbFhoRV90bUxoVDEtQ1Fqd3VzWXdKcTl2SjlxUjdGNEhfeHFFS2d5bldiTlFrbjlraWQ5cm5jMDdCZnVSOXl4Tkp6NVk4YUdiLU1EVXNtZWpjZ3h6alV2UmlOZlJTX2ItVlozWXd5TF9WRlVNRjI5MHZRQ3BfRHhteUlFYmhHWWh1S0VMWVFFbXZzckNrdw?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-04-23T08:55:28+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 08:55:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "65e7c45a455957c68ea92ce0b48c37e11f45a235",
+    "title": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo - WRAL",
+    "summary": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo WRAL",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDJnZTMtTUJZejIzcHBqdEtFLVpLZDhQZ3VwQy05MkJvaDVRVVFSb2NvU05jRGdISVIzTDlINGZLd1BWWjFxSFhmckRXU3Jabmw5SkdUSll0MEtUdXNLQTR0cm9jQmZnLW9YaGxVdnR4cDdWWEtBTGJ0dkc1cDRHbUlFdnI4djdtaEVFMFcxV1RSSUxMdlJHN21FU3hDb1l4MnoxQlJDbV9SQm5zc1RneW5jWUtIM0pvTGFmNg?oc=5",
+    "source": "WRAL",
+    "published_at": "2026-04-23T12:15:04+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 12:15:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6cb464ea284de6d7567a9144e0aa845c2c4ed281",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Public display of ballistic missile at rally signals militarized posturing and heightened tensions.",
-      "event_key": "iran ballistic missile display tehran rally"
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Article notes Iran–US talks exist but are stalled (‘in limbo’), indicating diplomatic negotiations rather than military action.",
+      "event_key": "iran us talks in limbo"
     }
   },
   {
-    "title": "Iran Still Has Half Its Missiles, 60% Naval Forces: US Officials - NDTV",
-    "summary": "Iran Still Has Half Its Missiles, 60% Naval Forces: US Officials NDTV",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1Rfbm1haXpfckh3UHJrWG1nNWp0QjUyUGd5Mjc5NXdwMWxCNmxVNVJCYmI3T0JIeElLWHpxdGFGS0FKbEp6YnlHU1cxaUVVUy1jVF8tNm9mRkg3RUVjVnlzSFF4VTJQMWJOLWlzWUVvc1BSWW9oekRpTzY2X0o1YzdRN2tfRDdITllFYV9oTjg4UzJjSkM4NzZya2VGakFEN0pPbU8xeTJrRm9ybUpNQUo5cmfSAbwBQVVfeXFMTTZLeU5RczkwTl9FTFkyb1M4SlJ1akpSc0FqanVDUFZUMzVvLXNSaW52V0Q3RVVySEhVSWkyQ3hJOGtzbFhlaVJFRjdUWVFZMk1qdVd1TE52dDBnSDlHbUZKcE1XS0Rnb2ItRE44YTltdXJXWU9MRE5DRDl6T1U0eTZrZDFITHNsLUZxaTN3bXBsMEZMU1o5eWRtRWhkeUpzcV9BVlBBUUVRT3oxb24zQlVORklBOUZEeTNNbXc?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-04-23T09:12:00+00:00",
-    "raw_pub_date": "Thu, 23 Apr 2026 09:12:00 GMT",
+    "title": "US Says It Awaits Iran Move on Talks as Hormuz Tension Rises - Bloomberg.com",
+    "summary": "US Says It Awaits Iran Move on Talks as Hormuz Tension Rises Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbDF1Q2tpMWNmaHczRTlQbkxraGVITTZMdVRnektVNGh5SnJUVG5WSTI3U3ZOSzc1bzMyUGxnRjRsM3pQMTNBbmxOZFh4Vk1YZmc4VlFfQkpXcUhXNzkzaU5iZlRWdEFiTnZNc0l5ajhqNUJidW9BRzlEQzR6YXREZHZGc1lkS2VzQkxlUHRrOGRZRERYeml1Tm4xV1BWOWhRNzZCSmlLa3cyR2Fockk2LXJ3cnY2dw?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-04-23T10:35:53+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 10:35:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9ab86d087a7f60c3536e7b0505450187f4228273",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "US awaiting Iran to make move on talks amid rising Hormuz tensions.",
+      "event_key": "us awaits iran move on talks"
+    }
+  },
+  {
+    "title": "Pakistan Calls for Continued Iran–U.S. Diplomacy - WANA News Agency",
+    "summary": "Pakistan Calls for Continued Iran–U.S. Diplomacy WANA News Agency",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KdE04Z2p6dGM3ZUYzTWhobzVudTVvUUx5dl9pMFZfR1VWV0kxWTlpM2lwaXpWQWt1WUd6SjBsWVpTSHJvQW9iT2pEeTR0Vk94QzBneWE3LURaZFRnRE5PWnhudXJvS0tzMFF4UVVfTFE1TmEyWnc?oc=5",
+    "source": "WANA News Agency",
+    "published_at": "2026-04-23T11:15:11+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 11:15:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "905765495a2ac0f5b05bc0f809bc41a17526d5eb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Pakistan urged continued diplomacy between Iran and the U.S., indicating support for negotiations.",
+      "event_key": "pakistan calls for continued iran us diplomacy"
+    }
+  },
+  {
+    "title": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo - Big Rapids Pioneer",
+    "summary": "The Latest: Israel and Lebanon to meet in Washington while Iran-US talks are in limbo Big Rapids Pioneer",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUE85aXdqM2I1WnU0dUxLWTQ5V2NQZTJHSl95Sm1lcGhkTWR5VjJXT1hHOHI4b3A2YXlCejVISnYxT0NBbEFaS0Vsdml1QklrVjAycnljNjJuaV9uQldCcXNZNE1rdC1ramRSMEloQTRzQ0NpU2NQUW1leTM4UzZRQjJrSlp6UFBiQ0pselV1dVVRS3lwbFkxT1ZLMV9LcDQ2Y3c?oc=5",
+    "source": "Big Rapids Pioneer",
+    "published_at": "2026-04-23T12:38:20+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 12:38:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "876572725937814e7b2ed66c4fd26594d0085197",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Mentions Iran-US talks being in limbo—diplomatic negotiations present though stalled.",
+      "event_key": "iran us talks in limbo"
+    }
+  },
+  {
+    "title": "US drains critical missile stockpiles in Iran war as yearslong rebuild looms - Fox News",
+    "summary": "US drains critical missile stockpiles in Iran war as yearslong rebuild looms Fox News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQandFWFBLZnV4UklBSGxpYXR6WmlyMUVkaWRCUTFveUY4M3h6Vy00SWc2Z19hUzRWVWFzenNIcUUySFRWQ2Jnb3lXMjY3QmFnNGprZjM3bVhNc25uMVpuMXZhYXF6Q2UzTVRJSGtJaml4TmtkQUxCbWN2YUxnMTFCcXA2dkZtWjVSTWVTZktuYWpZUTIzUHMzb2VwRmxzeV9zVExKZnl30gGrAUFVX3lxTFBoU1dCQTRrVEt6cDl1YU5kQjFrUGlVYU9xXzI0dDBKUFZNQXZmWW1SaUhkNFFXNEtkYzIxUEI0dXdhMkczTVJXdV90STN6YmNVR1I4NkM5WllxOUV3TGhnUFExU1M1UjJ5b0hnWmpibFlUOWVWQjJwLVNNS1ZrVmpXNkFGZzBieDB2czZFcXl6c040WnZUdmxIV2Y1Q2NtekhlNWlndmt3dGJwOA?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-04-23T11:48:07+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 11:48:07 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ad8bd8c4d31e1c2fb1b6866a5749decb37c63011",
+    "article_id": "fccdae4adee07700d20453ac264b87fae0500b07",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports the US has expended large missile stockpiles in direct military action against/related to the Iran conflict.",
+      "event_key": "us missile stockpile depletion"
+    }
+  },
+  {
+    "title": "US missile stockpiles depleted in Iran conflict, rebuilding expected - Crypto Briefing",
+    "summary": "US missile stockpiles depleted in Iran conflict, rebuilding expected Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3RhdGlTalhJc2hEdV9PenBDaGpJVVBHRG5mLUdvaDl5dkZJQ1ZkZE95cl9LZXVfTUg5N0I2d25MTkVpOUZyZmQyMkxEdlV1TzJUcEFnN2JiWEZ0MFQzRV9RMTJVa0NRMHZucjdSa25IRDlGcXlHTjRkLXhaTk5UTEJfVnRDMlp4V05wWU9Udld4djlycUtCazhsOA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-23T12:08:04+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 12:08:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d1179eb52135d8e17187f4896290ba7b497164da",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "US officials' warning about Iran's remaining missiles and naval forces signals heightened tensions.",
-      "event_key": "us officials iran missiles navy assessment"
+      "reason": "Reports of US missile stockpile depletion indicate sustained military action and intensifying Iran-related conflict.",
+      "event_key": "us missile stockpile depletion in iran conflict"
+    }
+  },
+  {
+    "title": "Pentagon fires Navy Secretary amid US-Iran conflict escalation - Crypto Briefing",
+    "summary": "Pentagon fires Navy Secretary amid US-Iran conflict escalation Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVcwVExiZFowSzA5VmpiSXF2ZUk5ZFpZamZuR2oxSWZTODdyaHpNbUlxZ2ZsSXZJTWFlWHZZQk9SZXY4aVg2TjItWlFxNVluQWFwWFBTNTdoYTRGb3JpQkJ4T2IyUTlDS1F1Z1k1dkFoSmEycW9HMWJpWm4wOWZ4dnpEZEZrZXdZMkRMSFU1U3h6Y1hf?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-23T11:01:42+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 11:01:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b761f43616669e6100143a9c4d896d350203e034",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Pentagon firing Navy Secretary amid rising US-Iran tensions signals increased hostilities and deterioration of situation.",
+      "event_key": "pentagon fires navy secretary escalation"
+    }
+  },
+  {
+    "title": "Condom warning issued following US-Iran war - tyla.com",
+    "summary": "Condom warning issued following US-Iran war tyla.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMGhnVEV2cDhqZzZJX0U3V2ZiYXZ1Q1hDMUNqMUluYjBEUWtSQnFaVHNhWnlnelpMelVER0k0SWowOHVmZEhFbGtqOF94MndsdWJ4dS02QzkyeDhnSlFJT0RmTnozZ2JpbU82cW90QUxJSEtMLUYtbno1VW5lcURqMUR1MS1NaUhiUUJtdHhiVklMakFpRmdTelpIVm8weFVO?oc=5",
+    "source": "tyla.com",
+    "published_at": "2026-04-23T11:56:19+00:00",
+    "raw_pub_date": "Thu, 23 Apr 2026 11:56:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a176f775964710625bd516fc2c8022cc40a0c70c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.22,
+      "reason": "Health advisory unrelated to diplomatic or military developments; peripheral to conflict.",
+      "event_key": "condom warning post us iran war"
     }
   }
 ]
