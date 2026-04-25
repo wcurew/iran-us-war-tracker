@@ -1,121 +1,53 @@
 [
   {
-    "title": "Cyberattacks on US businesses linked to Iranian groups, despite Trump's ongoing ceasefire with Iran - ABC7 Chicago",
-    "summary": "Cyberattacks on US businesses linked to Iranian groups, despite Trump's ongoing ceasefire with Iran ABC7 Chicago",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWTRYV21TTzB5ZnV0OWotSzNxQU1GUmUyX0xLdGNTazNOZ2prd1NuY3hleEIyQTRXNFo2NGdkVURsSG9FaWFEMnRPc2FOTHo1SGtjd2FJYVZoZWNwTUt5UFJ1MmdMcnhIQVRqRVBzdG5VQ3dnTi05ellpSlBCN3F1VHNTNWpiRng1U0ZGazJXWmJLTExwZEp4UmVzVW9WelpUNWJkMmRfQmNwNE5iQkI3VjF0V2d1Rmh3ZENEYWkyUlhmalnSAcgBQVVfeXFMUG9KMk0zOW85bUpDbzV5SGhWMjJrSlJabXo1NUdzeHZrMVIzdEIxdGZOTE1WYzlLbzJBaWFvdkhtbGVxN0JScE1TS283aGFCUUlLanh6Y2d6eFNsNTJKTnpVSXQyNnlERTN4YnU3RTVJZkI3alBrc0FiUzdwdUQ0YjFjb1lrbWxqVV9haWhwZU5lRWpGN241NkdPd1lHRXM3VGJWM2lzanR3dWhMbzhYQ0RRR1dlaDlFemhjd1JLek8xSWRuMzIwYW4?oc=5",
-    "source": "ABC7 Chicago",
-    "published_at": "2026-04-24T23:59:13+00:00",
-    "raw_pub_date": "Fri, 24 Apr 2026 23:59:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5d108d33c061993fa6a3d9d2c248caba855b8a55",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.6,
-      "reason": "Iran-linked cyberattacks on US firms constitute escalatory actions by non-state/state-backed proxies despite a ceasefire.",
-      "event_key": "iran linked cyberattacks on us businesses"
-    }
-  },
-  {
-    "title": "US-Iran negotiations: Are the latest Iran talks for real? - vox.com",
-    "summary": "US-Iran negotiations: Are the latest Iran talks for real? vox.com",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTlUWmY1bG9ZTzdvUzJ6SjFjaFZGZUhjZ0xVVTlYTDdfWVRlRU14RHhIalIxTUxCZTItMEJDV19nSFU0UGhtNE5jTlJNNDduTzE2cm1XTkZ6eTZKSWxtdlN3cHM1clZxclp0b2NIRG1NNnlIb2YycVo1eGowNDlzOGczQ0pCQlRMVzRnbGdWZG5HQV9ncTltdnQxcDNCUGxxLUpuaHJ5LXNUbThJbFZKZQ?oc=5",
-    "source": "vox.com",
-    "published_at": "2026-04-24T22:00:00+00:00",
-    "raw_pub_date": "Fri, 24 Apr 2026 22:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6d5f122cc1d1c1f6079ff23f76be2199f3df0185",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Discusses whether the latest US–Iran talks are genuine, focusing on diplomatic negotiations.",
-      "event_key": "us iran negotiations assessment"
-    }
-  },
-  {
-    "title": "U.S., Iranian delegations head to Pakistan, renewing hopes for diplomatic end to war - PBS",
-    "summary": "U.S., Iranian delegations head to Pakistan, renewing hopes for diplomatic end to war PBS",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHBwVFpXQlZQMzVOTmFUUzVsSWMyN2ZtaV80WVVrTzdmWmo1V3Fud2pWc2VqU1lzMUg4RHlwalI3MEpTbDRFMXJKd2dSVmVobXFub1UxX0dNMXFBMGNJZEtlNi0zUXdvZUN0aWpMZzVFWkVNQUMzYkNkbVN3ckJvamZucGhZZ1IxR2Z4VTRZa1hlSTVuTHViUVRUQzJGeUtoQzhzYXhTOTJrdkJFaWh6Y01rc3l1UQ?oc=5",
-    "source": "PBS",
-    "published_at": "2026-04-24T22:55:58+00:00",
-    "raw_pub_date": "Fri, 24 Apr 2026 22:55:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9eb27bff3017195764dd971227da3ff58444767a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "U.S. and Iranian delegations traveling to Pakistan for talks indicates active diplomatic efforts to end the war.",
-      "event_key": "us iran delegations pakistan talks"
-    }
-  },
-  {
-    "title": "U.S. and Iran push diplomacy forward in renewed Middle East talks - cbs19.tv",
-    "summary": "U.S. and Iran push diplomacy forward in renewed Middle East talks cbs19.tv",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYi0xNkVjU1hPMTVLN24zSFZDeW8tZWY4QTZQcWtRWG0zZkh5cF9GeEtYYlRtdm9RbHlvQjdPODZYSXNNTHM1eWxoZzZFb3FGRUNuM182dGYtR3QwcWoyWnlTLWlsVUhZWFdZYXo1SlZxajd0VDZQaVVSSm9sT0FKR25scWJvLUlVLXRJZmZiYWIwNTdEbGQzX3JXaldjb2Q1QzVybWc3aVhxc1RHaVVEWHFQVjhENTQtMGhKQzNzd05udFg2amhuQ3BvRlp5SnlELWRWSjU3bXVDdw?oc=5",
-    "source": "cbs19.tv",
-    "published_at": "2026-04-24T22:49:00+00:00",
-    "raw_pub_date": "Fri, 24 Apr 2026 22:49:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a42e86fc7943a90c0d0b9263838e0891ff4b899c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Article describes renewed diplomatic talks and pushing diplomacy forward between U.S. and Iran.",
-      "event_key": "us iran renewed diplomacy"
-    }
-  },
-  {
-    "title": "Video US pushes diplomacy in Iran war as troop presence expands - ABC News - Breaking News, Latest News and Videos",
-    "summary": "Video US pushes diplomacy in Iran war as troop presence expands ABC News - Breaking News, Latest News and Videos",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRZGFLeXkwVnctb3NsMV9WVnFtbzhfQV8xNkdvLURQbG9zV3dTekxROFlSNHVOajJoT2pFU2xzQXluV0stV2RGdnYxcnA?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "published_at": "2026-04-24T22:29:09+00:00",
-    "raw_pub_date": "Fri, 24 Apr 2026 22:29:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d8275a487fd463ad23f8c84278ad58fd76e04876",
+    "title": "Conditional Negotiations and Pressure Messages: Trump Speaks of Imminent Iranian Offer to Meet US Demands - صوت الإمارات",
+    "summary": "Conditional Negotiations and Pressure Messages: Trump Speaks of Imminent Iranian Offer to Meet US Demands صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc3loWUx0Tlh1SGNCM0o4NVR3b3REdEdmQmJLczN3RUFmWVppZ201ZXktbXhXTEtTYUxTa3ZyeE5NTmhrdHFfdHUwT01DMlFYejdLZWZ2ckRsa1JERzdzSGhjSE5pNFl6aTQ2WEVPX1hLYWIwQmJ2REkteFRVeGs1RERDSEpyNlhxbGxzXzNBajNETjZ5Q0pQc2o0eDJMSWdOVFJ1U19jV0d6LWNFOXNCel9QZFpQOFJXZDdTWmJGMDNIcm15TFBuYmN0UmFRUG1CbkVjVTRPZG1rTXVYNUxraXVBWWo4cjdycDNsdw?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-04-25T02:13:47+00:00",
+    "raw_pub_date": "Sat, 25 Apr 2026 02:13:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "513ef12db389b080797d4c75749f38850dc8bd2e",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "US is actively pushing diplomacy despite expanding troop presence.",
-      "event_key": "us pushes diplomacy troop expansion"
+      "reason": "Article describes imminent Iranian offer and conditional talks to meet US demands, indicating active negotiations.",
+      "event_key": "iran imminent offer to meet us demands"
     }
   },
   {
-    "title": "Iran war taking a toll on U.S. missile stockpiles, analysis finds - CBS News",
-    "summary": "Iran war taking a toll on U.S. missile stockpiles, analysis finds CBS News",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUk0SVVUN3NweEpSc0UyOHJRNUNtMWhXUUtDZUxjb09WQlNWd0p3b3poTGZSODU2emctNHEtQ3JlOG1pZHBQVnZJOGdQLWVRSlpUS1B3ZC1teUtQbXJCV1VWa0tZaTQzalc5aUdyMHlGaE5DWjdRUGc5eVVFODREUXVzaWgtTHdRcm50c3NScUJOQQ?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-04-24T22:31:00+00:00",
-    "raw_pub_date": "Fri, 24 Apr 2026 22:31:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5ab74f8dd81bb33b3c165e98c391f27aba6f9c07",
+    "title": "Report: Iran's foreign minister won't hold talks with US in Pakistan visit - chinadailyasia.com",
+    "summary": "Report: Iran's foreign minister won't hold talks with US in Pakistan visit chinadailyasia.com",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qdjRCNHhVcFFJWHJ5VTBReWRrVmlNdTNGTlpYRnIxMjdPazl5WnpsS1AwMEFlYXdzTnk4ODhZWHgzRTVVM1d1SUMwZ3owdWFMZHh6anFVaHI?oc=5",
+    "source": "chinadailyasia.com",
+    "published_at": "2026-04-25T02:12:35+00:00",
+    "raw_pub_date": "Sat, 25 Apr 2026 02:12:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6d59552cecec70a6d3cfd15d633669e65e253caa",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Reports U.S. missile stockpile depletion from Iran-related strikes, indicating intensifying military strain.",
-      "event_key": "us missile stockpile depletion"
+      "reason": "Iran foreign minister reportedly will not meet US during Pakistan visit, signaling diplomatic breakdown.",
+      "event_key": "iran fm declines us talks pakistan visit"
     }
   },
   {
-    "title": "Iran claims unused missile capabilities after ceasefire with US ends - Crypto Briefing",
-    "summary": "Iran claims unused missile capabilities after ceasefire with US ends Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2pmZGlPSXhJQmV2ejhjcmVGLU53RzJiVnNzbXcxMk9zazc1akQydkczYVFuVk9ra3NhOUpkcEZIU1NkNW1DZFdSLXJqd1lSWmVQWnZxLWlrQndsbWtEUDYxdnBsN1pVc1NCMGlEc0FZeDl6SWdyWGV5YjJ2S1hYc2VxUURSWHRScHB6bHJFd1pEbE91aElRRWVMS0I?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-25T00:38:41+00:00",
-    "raw_pub_date": "Sat, 25 Apr 2026 00:38:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6857caa65871bd7f57fcbedb8bb5ae6c4b7f2d51",
+    "title": "Iran war: What’s happening on day 57 as US envoys head to Pakistan? - Al Jazeera",
+    "summary": "Iran war: What’s happening on day 57 as US envoys head to Pakistan? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmMyNWtEam9yTTRKRkJCeF9MdWNTc1ZiODR0X2Y0S3lWd2lpd05KaS1od0Q1aUpHTzlSTXhXWDJ5NEpSR3pZejhvQXJhcm1KRFhkeWVMQWo2UG9qZEdJbVR0OU1hWWU1UUlnb1JQMDBYZ2xudWNJTnpHZDZYSnp2eDBnSXAyMUpSWTExYmxVQVpmck1WOUs3TjExbU9HU3VZM0FvLTY1YmrSAa4BQVVfeXFMT3JzSktFNXEtclJyVDY0bng0V3RtR0J6dDlwVFpjRUFoa0RZbEhobzhwTW95YmtFNFAyMDlDbHU1WTloOTlxY2w4MHMzVnlQclhlbDF5ZlhJX2QwSHo4X1Q4ZmpwVnhRTmVzdTZYWk5wUzZLTk9rME85MDF1RkRhOG02ajhuMFJEYUN3VmliUTQxS2ZFVVZvdlY3UllEODR1eTJJa3liZ0Z3YnFwMHpn?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-25T03:00:00+00:00",
+    "raw_pub_date": "Sat, 25 Apr 2026 03:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "121db5530ee6f103a9eade9989a782b39b9208aa",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Ceasefire with the US ends and Iran touts unused missile capabilities, signaling rising tensions rather than a ceasefire or strike.",
-      "event_key": "ceasefire ended iran missile claim"
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "US envoys heading to Pakistan indicates active diplomatic engagement over the Iran conflict.",
+      "event_key": "us envoys to pakistan"
     }
   }
 ]
