@@ -1,19 +1,53 @@
 [
   {
-    "title": "What to Know About U.S.-Iran Peace Talks - The New York Times",
-    "summary": "What to Know About U.S.-Iran Peace Talks The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3BJb0ZfZzlOdG5kYTZ6RnFtc3A1MzRIN1RieU52YzVmOHNzVjV0REdtY2lsUmZyZzdzVHF4WFZEZXNuc2EwZEtsc2NFbC02M29ja0RBNTluNmNSRXpVOXVPUVpDQ2prV3hEVTBYVjdYa1R2NHFSNGNyRDdrUDZkNXNtMm0wT2lnYmJ0UXVUcUJrbFV2X2x4SnFnUQ?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-04-26T18:11:12+00:00",
-    "raw_pub_date": "Sun, 26 Apr 2026 18:11:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "715f014f389681064c10779165309b65336e94bc",
+    "title": "US-Iran war, latest news. Tehran: nuclear power out of the negotiations - Il Sole 24 ORE",
+    "summary": "US-Iran war, latest news. Tehran: nuclear power out of the negotiations Il Sole 24 ORE",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDRyMmp1V0xpejNuMjA1SDRJb09ZNF8yTTFYWFZURldFUklwMFhXRTk0MzZ1VmhrblByNEYwLVVHYWtxcVhPcUhxWlk0S0hwekRPTkRIMVhGdk54eEp6MmlQMlRkb1NKTURoclVpSHNMRm1QYnV4MGpnWC1pSHZmN2p4MDVCdXNNT1FjUVhZNUowVUFJdWFHR1lIWlNYcXNI?oc=5",
+    "source": "Il Sole 24 ORE",
+    "published_at": "2026-04-26T20:33:23+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 20:33:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cb971d5765daf716e01d2991a239a5154bde2a33",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Tehran says nuclear power is off the negotiating table, a rejection that narrows talks and raises tensions.",
+      "event_key": "tehran excludes nuclear from negotiations"
+    }
+  },
+  {
+    "title": "Top diplomats of Iran, Qatar, Saudi Arabia discuss efforts for ceasefire with US - Anadolu Ajansı",
+    "summary": "Top diplomats of Iran, Qatar, Saudi Arabia discuss efforts for ceasefire with US Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWVHNDl6VHN3dnZ2SnBSbTJyVjZjUGhrSjhoTk5YLWItei1xcDkzSFJ5d1VGRmlIbnFMUHQ1eTVuTDZlbENteGFPcUNlN2FIZWN4V0NRYkdUMUFyUnV6UUhpWmpfZll1WlVrOS1VbVBCVzhxRHE1SVVLeVQtMUlpNV8tUzlqNUpHRkZBRUxJY0g5VVByTWxXb3ZDRDgzTDRzZmYwRlR6RnpGQ0R0OHBtelkwUmQ2WlE?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-04-26T19:51:01+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 19:51:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c52e7a59f33fbefd3d39f639e3ffcb62dfc57f35",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Article focuses on U.S.-Iran peace talks and diplomatic negotiation efforts.",
-      "event_key": "us iran peace talks"
+      "strength": 0.85,
+      "reason": "Top diplomats engaging in talks about a ceasefire indicates active diplomatic negotiation and mediation.",
+      "event_key": "ceasefire negotiations iran qatar saudi us"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War Update: 'They Know What Has to Be in the Agreement' — Trump Issues Blunt Nuclear Warning to Iran as Peace Talks Stall & Hormuz Blockade Tightens - The Sunday Guardian",
+    "summary": "US-Israel-Iran War Update: 'They Know What Has to Be in the Agreement' — Trump Issues Blunt Nuclear Warning to Iran as Peace Talks Stall & Hormuz Blockade Tightens The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOYkJNdHhWYUM4SlJaVjBjNnVwZUxMZXppTFBiMVgwWHB6ejRwc2MtY2FjbkxsN29NYnQ2RUVuZTJDeGJrN3RKdl9IaWVpcGdkc0ZQWkFWMU45WE1vc19ZQ2tRdzYwelVNcE83X1FhRDRuVVd0U04xYU10S2dYU2JLT3Z2VWtIRW0zdVA4WGMyN1NMeTdYdW1DRDVIbmhYOVJCVk1VNkl0R1lHU1AxTWMzeXp5dEZ1WjZwVlNZa3ctRTRrbDlPN0ItWXhuSEdzTm0zZkluckJxZXZDVG9DVFc4UEEzRklueWRWMWU0cGp0bGJ4dlRadXJ1RXVtbjZuS2NWTGpWSDFfODRpTjVuLXdjTVlWV2NGdHNKelhadE1wNG01VC13bW1tTA?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-04-26T19:36:18+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 19:36:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d5039e7307401ee1e442e6372ba494db0644c944",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Blunt nuclear warning plus stalled peace talks and tightening Hormuz blockade indicate rising tensions and hostile posturing.",
+      "event_key": "trump nuclear warning peace talks stall hormuz blockade"
     }
   }
 ]
