@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-04-27T08:20:47+00:00",
+  "started_at_utc": "2026-04-27T11:01:40+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-04-27T05:52:13.693247+00:00",
-  "window_end_utc": "2026-04-27T08:20:47.539286+00:00",
+  "window_start_utc": "2026-04-27T08:20:47.539286+00:00",
+  "window_end_utc": "2026-04-27T11:01:40.201838+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 21,
-    "keyword_filtered": 10,
-    "deduped": 8,
-    "after_seen_filter": 7,
-    "classified": 7
+    "time_filtered": 17,
+    "keyword_filtered": 11,
+    "deduped": 10,
+    "after_seen_filter": 9,
+    "classified": 9
   },
-  "finished_at_utc": "2026-04-27T08:21:22+00:00",
-  "summary": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
+  "finished_at_utc": "2026-04-27T11:02:41+00:00",
+  "summary": "협상·완화 신호가 일부 보이지만 아직 중립권이다. 확전과 완화 신호가 혼재한다."
 }
