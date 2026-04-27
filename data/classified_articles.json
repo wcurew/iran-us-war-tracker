@@ -1,53 +1,257 @@
 [
   {
-    "title": "US-Iran war, latest news. Tehran: nuclear power out of the negotiations - Il Sole 24 ORE",
-    "summary": "US-Iran war, latest news. Tehran: nuclear power out of the negotiations Il Sole 24 ORE",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDRyMmp1V0xpejNuMjA1SDRJb09ZNF8yTTFYWFZURldFUklwMFhXRTk0MzZ1VmhrblByNEYwLVVHYWtxcVhPcUhxWlk0S0hwekRPTkRIMVhGdk54eEp6MmlQMlRkb1NKTURoclVpSHNMRm1QYnV4MGpnWC1pSHZmN2p4MDVCdXNNT1FjUVhZNUowVUFJdWFHR1lIWlNYcXNI?oc=5",
-    "source": "Il Sole 24 ORE",
-    "published_at": "2026-04-26T20:33:23+00:00",
-    "raw_pub_date": "Sun, 26 Apr 2026 20:33:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb971d5765daf716e01d2991a239a5154bde2a33",
+    "title": "Oil prices rise higher amid stalled US-Iran peace talks - Al Jazeera",
+    "summary": "Oil prices rise higher amid stalled US-Iran peace talks Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25GWjMzUGZKdEVfT0xUWHJzeWJRNW9fbHlYOG9hNHg5NTExSENjZGRjYmlCODMwMW5Zc2FCc0hVQlZhR282Yzl5SVZaV0N5NTZTTzJlaDRvclJ1c3FuVjhVclFDWTdIYzVYQnA4UlZJMzZEOVhCa1NOalVaamwyNlFtOTRvZUd3aUVOdWlMM3NQUDc4VzFYYUhyb3pqaHND0gGmAUFVX3lxTE1oa2RHOVJHQXp0ZHZxVmpRT2N6WTdsa2VrV2pTQk9sZ21NV1hyU1IzZlBnMThEWUdiUEJ6S3dVSE1BbGhUR2R4aS1QenkzZHlMM29FUll5alEyT19LLWR5TTBYaWtlV2p3U2lZbXFlQmhTZEhhc0l0VUx5Q2FIQXlXMnJaMzU1TlRORWVQRVRVbnoySlAxSDJJdUVUbm5EdVFtN3VSU0E?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-27T02:11:08+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 02:11:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "acf57a6a2e3fbccf81766c405dec021a2dcf1333",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Tehran says nuclear power is off the negotiating table, a rejection that narrows talks and raises tensions.",
-      "event_key": "tehran excludes nuclear from negotiations"
+      "strength": 0.6,
+      "reason": "Stalled US-Iran peace talks indicate diplomatic breakdown increasing tensions.",
+      "event_key": "us iran peace talks stalled"
     }
   },
   {
-    "title": "Top diplomats of Iran, Qatar, Saudi Arabia discuss efforts for ceasefire with US - Anadolu Ajansı",
-    "summary": "Top diplomats of Iran, Qatar, Saudi Arabia discuss efforts for ceasefire with US Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWVHNDl6VHN3dnZ2SnBSbTJyVjZjUGhrSjhoTk5YLWItei1xcDkzSFJ5d1VGRmlIbnFMUHQ1eTVuTDZlbENteGFPcUNlN2FIZWN4V0NRYkdUMUFyUnV6UUhpWmpfZll1WlVrOS1VbVBCVzhxRHE1SVVLeVQtMUlpNV8tUzlqNUpHRkZBRUxJY0g5VVByTWxXb3ZDRDgzTDRzZmYwRlR6RnpGQ0R0OHBtelkwUmQ2WlE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-26T19:51:01+00:00",
-    "raw_pub_date": "Sun, 26 Apr 2026 19:51:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c52e7a59f33fbefd3d39f639e3ffcb62dfc57f35",
+    "title": "The Latest: Pakistan says US-Iran mediation moving ahead after Trump holds back envoys - WTOP",
+    "summary": "The Latest: Pakistan says US-Iran mediation moving ahead after Trump holds back envoys WTOP",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjFQOGhyNzdGcFZOb3EwaS1GWXc3cmFhU0otdXlLWlRxR0w0enV1aHJVZjBrdHgxNE4teldNSlBwSEdybGhaTEhNaUNfUEhRa01jYUgwZUMzR19WN25KQnBOWndNeUVYQXBSeVhLSTN2amoxS2tzSWJzVzFoNzN1UUljX0tJZlotMWhfSUt4QWpGSkdFR3VMdWdWWlNMNjBrRmN0MTJn?oc=5",
+    "source": "WTOP",
+    "published_at": "2026-04-26T23:43:41+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 23:43:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "646b5ced9bc8bd0f66f62f3927d785991b14fdd0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Pakistan reports US-Iran mediation progressing despite US withholding envoys.",
+      "event_key": "us iran mediation pakistan statement"
+    }
+  },
+  {
+    "title": "Iran proposes Hormuz deal without nuclear talks in bid to break US negotiation deadlock - investingLive",
+    "summary": "Iran proposes Hormuz deal without nuclear talks in bid to break US negotiation deadlock investingLive",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWd2ZWZycTZlRHR1a1A5emZEdGt1d1JHWTVxdzdQQXFiUkNOQ1I2d29OYk11YmFmWVdZbFFNZ2FmM1JBTDRqZE9uRE84eThFY2FlTHg2d2tEXzdJY0hiTXVIYWpSZFpZRzRnbzhFcXJJeHFlbzctZmI5azI0ZVI2Q0wwcWxLQ00wRmJBdjNoUWVRQ25kVnpCejFScjdtUTlEOUhDcnhjX3BLalhGWFBoTkxkeU9Hak1Tc2xpcWc5am03QzZVYlN6X0owWWprOVRo0gHWAUFVX3lxTFBrdWVrRE93UmNiMU9sa1BKSlhheHNjdk5RTXUzYWJvWWJaeFYtcWpmMVpzODZFT3M4RlhNR3ZNR0hyWG80UXVwTTlzV1ZRR1FablBmU1p2OWVtMGV3OEtUeFNaYWxGRjQ1Ri1RdHFGZzA0Mm9maGFvV3J0dFg0SmNSVlZBOFNEaXFINFU0MTZOWGdXLUJTZlFWd1VkZ0dydUFrSDZnQmNYeFZkeTJXbjVYZElHVkpDall0YUVRcUs4R29IOWhGUkg4a1dBYlNONzB6SndJRnc?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-04-27T01:28:13+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 01:28:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cecf1b24163177aa8e514db8cad659de22d1d46c",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Top diplomats engaging in talks about a ceasefire indicates active diplomatic negotiation and mediation.",
-      "event_key": "ceasefire negotiations iran qatar saudi us"
+      "reason": "Iran offers Hormuz deal to break US negotiation deadlock; diplomatic proposal to restart talks.",
+      "event_key": "iran hormuz deal proposal"
     }
   },
   {
-    "title": "US-Israel-Iran War Update: 'They Know What Has to Be in the Agreement' — Trump Issues Blunt Nuclear Warning to Iran as Peace Talks Stall & Hormuz Blockade Tightens - The Sunday Guardian",
-    "summary": "US-Israel-Iran War Update: 'They Know What Has to Be in the Agreement' — Trump Issues Blunt Nuclear Warning to Iran as Peace Talks Stall & Hormuz Blockade Tightens The Sunday Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOYkJNdHhWYUM4SlJaVjBjNnVwZUxMZXppTFBiMVgwWHB6ejRwc2MtY2FjbkxsN29NYnQ2RUVuZTJDeGJrN3RKdl9IaWVpcGdkc0ZQWkFWMU45WE1vc19ZQ2tRdzYwelVNcE83X1FhRDRuVVd0U04xYU10S2dYU2JLT3Z2VWtIRW0zdVA4WGMyN1NMeTdYdW1DRDVIbmhYOVJCVk1VNkl0R1lHU1AxTWMzeXp5dEZ1WjZwVlNZa3ctRTRrbDlPN0ItWXhuSEdzTm0zZkluckJxZXZDVG9DVFc4UEEzRklueWRWMWU0cGp0bGJ4dlRadXJ1RXVtbjZuS2NWTGpWSDFfODRpTjVuLXdjTVlWV2NGdHNKelhadE1wNG01VC13bW1tTA?oc=5",
-    "source": "The Sunday Guardian",
-    "published_at": "2026-04-26T19:36:18+00:00",
-    "raw_pub_date": "Sun, 26 Apr 2026 19:36:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d5039e7307401ee1e442e6372ba494db0644c944",
+    "title": "Trump's Call for Negotiation Highlights Strained U.S.-Iran Relations - Devdiscourse",
+    "summary": "Trump's Call for Negotiation Highlights Strained U.S.-Iran Relations Devdiscourse",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTdiLXUxcmRHS04zZzRJYlZnN2dlWk4wSDFfQ3Byb0pXa2JzTjcwd1NKNUZCamtXeHdKTWQtY0pMOUlod3lHaGtncFltczlBR2VFbXhWaC1Cd2oyaWhHSDY3amM3cjlZQTVYb3lZOFVtR0FrQ3R6XzZGa2hIZzR6TjNtWlVtcW1fb3BITk0yY1pENHlKYlp0Z2VnZFFjemVPSUNIQXkweWhUazBUS1dvWEdrWnpDUlBNOFdz?oc=5",
+    "source": "Devdiscourse",
+    "published_at": "2026-04-26T23:29:20+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 23:29:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "395d6d085aa467a5995a45aaf0903a574173dece",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Trump's public call for talks indicates a push for diplomatic engagement amid strained U.S.-Iran relations.",
+      "event_key": "trump calls for negotiation with iran"
+    }
+  },
+  {
+    "title": "Iran offers U.S. deal to reopen strait but postpone nuclear talks - Axios",
+    "summary": "Iran offers U.S. deal to reopen strait but postpone nuclear talks Axios",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnIzS1dyaEJoSzlXV1daRUpLcEZGSHFlY1owQ3N1WDJOUjZtbkxITm1OLUV1YVlPWHZLckNTTlhTb05tR3pWTHA5ZGtPZDN0SDFVdUV4aUl0ZlBlbFhnaTZ3ZVl3bERpeEZpeVVVQV9Td28yWGxTYTVDOUJpamRVQTNVeURWNllGMENmLTdscw?oc=5",
+    "source": "Axios",
+    "published_at": "2026-04-27T02:03:26+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 02:03:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "053f9ad8f4d0f2f822c9f1eb209ca71d51508946",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran proposes a deal to reopen the strait while postponing nuclear talks — an active diplomatic proposal.",
+      "event_key": "iran offer reopen strait postpone nuclear talks"
+    }
+  },
+  {
+    "title": "Oil prices rise as US-Iran peace talks stall - BBC",
+    "summary": "Oil prices rise as US-Iran peace talks stall BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmUS1zX040Ukx2eU5qRlFTeFE3el9RaFowelY2bUdnVUhPYk1ZWURPdnBNdXQ1X2x0MDVnUjE1S19PMXNSdVZQaGRMTFVvd0pUS3ZjSFhLNEV5QQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-04-27T01:16:50+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 01:16:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ef2c907fbd820d914c442020d1aff4a5a8ee1ec2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.6,
+      "reason": "Stalled US-Iran peace talks indicate a breakdown in diplomacy and rising tensions reflected in oil prices.",
+      "event_key": "us iran peace talks stall"
+    }
+  },
+  {
+    "title": "Iran gives US proposal for reopening Strait of Hormuz, ending war - Axios - The Jerusalem Post",
+    "summary": "Iran gives US proposal for reopening Strait of Hormuz, ending war - Axios The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvaWRtTGI5VzdqXzhQNUZEclpqenNDS1l5bmF1RmVvSlp5SGg2b016MXlFX0UyY1drdFVsUkVlSWFwTUhlRmFPSjVmZWhyQkZTRmduZUFPNC1abjdyWVh5a1lyelljT1RNREE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-04-27T01:48:56+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 01:48:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "45e0817e178fbbb99d77479f34ade2ee95a95f45",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Iran submitted a proposal to the US to reopen the Strait of Hormuz and end hostilities.",
+      "event_key": "iran proposal reopen hormuz"
+    }
+  },
+  {
+    "title": "Oil climbs nearly 2% as US-Iran peace talks stall - Reuters",
+    "summary": "Oil climbs nearly 2% as US-Iran peace talks stall Reuters",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQU9lWjRuUWhQNDE1NjUtYmRBUk5ZN0lQc2dmaG5JMlY0RlBDYmlibmUtM0llNGNrUkNkRlp6WXJSV1ZIcjJkdXNFNTFlMGRnV09TR0twYWp5aU1LeGpLcUZQaGZveHBwc3pqd05HNmdBTVVOa3FReGZTWndOblR0cmFVWF9mOXJKR3ZDS3UtOEtLNzR3UndpaU14Y1dqN3VW?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-26T23:54:46+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 23:54:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b89e4f071548b3f42744305f9ff89868d0e305d1",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US-Iran peace talks have stalled, indicating breakdown of diplomacy and rising tensions.",
+      "event_key": "peace talks stall"
+    }
+  },
+  {
+    "title": "Dollar advances as US-Iran talks suffer setback - Reuters",
+    "summary": "Dollar advances as US-Iran talks suffer setback Reuters",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlM4RlNXbkFxNVJ6WVBIMDhNVnpLeEtFaVhBWG9fVWtfQzdCSGRycDExQkhCR3JkREhHVC13ZS1yX3VKQklJbWhmUEw4aHVNN18xNVlFdEpsbkx3R19IQ1AtTXdGLW9oZkNxYUlPNGVrdTExM1kzVW8tcDM0MnFHTTVtbTB3c1BYdWxJcFY0dlBWUVFSdGk0YUtqN2NZTXNZ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-27T01:17:00+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 01:17:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a3b0a6b7d2344dd0a4ec5ca3ab1fd6b197ec93fe",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Setback in US-Iran talks signals breakdown of diplomacy, raising tensions.",
+      "event_key": "us iran talks setback"
+    }
+  },
+  {
+    "title": "Oil jumps, stock futures slip as US-Iran talks stall - Reuters",
+    "summary": "Oil jumps, stock futures slip as US-Iran talks stall Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFFHZnR3cEZhaHhha01WbDU2dGlnQWJyX0w0Q2poQk55Y1RjQ1N5Zk84NVVraDBfX3ljdFZab1IxejVPZUZMRTVyRnQxYmZEWDYzaExnRTFKOENYLXBmdkVHeTlSZW1LSDI2b050UE5DNGJnMU1NdHFEaEdPM1JBS1dRbzItbGdH?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-26T22:21:00+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 22:21:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b99fef2ea774f5c21fdda765fb82f8a9a5b80285",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "Blunt nuclear warning plus stalled peace talks and tightening Hormuz blockade indicate rising tensions and hostile posturing.",
-      "event_key": "trump nuclear warning peace talks stall hormuz blockade"
+      "reason": "Stalled US-Iran talks indicate a breakdown of diplomacy and rising tensions, triggering market reactions.",
+      "event_key": "us iran talks stall"
+    }
+  },
+  {
+    "title": "Iran Conflict Update: Ceasefire Talks Collapse, U.S. Military Damage Reach Estimates Of $5 Billion - Homeland Security Today",
+    "summary": "Iran Conflict Update: Ceasefire Talks Collapse, U.S. Military Damage Reach Estimates Of $5 Billion Homeland Security Today",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0I3dEZSZUhmN2FqNVhHMk1NUGZLaHUtOTZScm1JbEZIWkZ4SHNRWnN5TldoSmFINnhVQUx2UndNV2dyb0ozSTdtMGdWNXZOTEcyZ2hKMDJNWmJUeXZLRmxPVWhSSWsyaHNRZVBYY2piQkd3UmhtaHlZdTRob0Z5dS1oVHZDeFJvU0FWNzVWUnBtbWNWQ0I5eGxLUldJT19uamprRmNxT2dXckVaV2EwdjV3?oc=5",
+    "source": "Homeland Security Today",
+    "published_at": "2026-04-26T21:57:10+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 21:57:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ad81d65d43c4e68da0a3599d525e450e91d05a1f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Ceasefire talks collapsed, indicating a breakdown of diplomacy and rising tensions with reported U.S. military damage.",
+      "event_key": "ceasefire talks collapse us military damage"
+    }
+  },
+  {
+    "title": "Japan, South Korea stocks hit record high as investors shrug off stalled U.S.-Iran negotiations - CNBC",
+    "summary": "Japan, South Korea stocks hit record high as investors shrug off stalled U.S.-Iran negotiations CNBC",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEdxZTlTS3RiVnViNUQ5eWZ0RDU2Y2d4VGc1b0FGWUVkVm9HYlJEQ1ZRcXJJZWFtaFhBelUwV3U2MG9MYjQ2U0psNTRxdkR3cW1CUlJuWUtjam9FUlVzOF9ob3dnQmJkNWFWYXpUQ3lfcmFlcHVZQzBwNlp0YlcxVmc2ZXBHTGRZUXJvbzRSYVc2RmR60gGaAUFVX3lxTE5uU3VxbGRpRVpsRGVhV0tFRmczUnc4TWhIYzBxYXZTeU1UR2dieDVlTER6ZGFGTmctU21udXpLZnFZU0dXWXpaZ3dnZFdHMzdPSDJwRUpySWVldmViTlE4bkpFOFBQMnNTU3RzOGp4Tld3RDNPQVRfV241U2lmdWkxVzUxblNCNHBpY2RtRlBIcU5pM0FhQUtKanc?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-04-26T23:46:09+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 23:46:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "752f518af281efee3ff390474f37824678ef1ac4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Reports negotiations have stalled, indicating a diplomatic breakdown and increased tensions.",
+      "event_key": "us iran negotiations stalled"
+    }
+  },
+  {
+    "title": "Vigil at Balboa Park honors Iranian children killed in US strike - cbs8.com",
+    "summary": "Vigil at Balboa Park honors Iranian children killed in US strike cbs8.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTUhLNnY3MGF1VTFMYkFOdDdFYXpISG1QYldvTDgtRmhiN0xwZThjTFRkNVNCanVvSlFsbF9SMWVCQkFhSm9xbHdnMEU5UTlzeGJuVU9DM2hVdWdubVRQd3gtbnE4ZUgwTVFfREYzSzNmNHF2NDRwRjJFaElaVktaVENRMkNGeV9xYzZ6LWo4NEpDWm5sQnBta2NBUFZaUzBGMjhBVEJnU1RVX2NpQjE5NTZMei1hVDR2cm9CaTlWMi1JbmlnZHpIWDhKMlJMMHh3SWZv?oc=5",
+    "source": "cbs8.com",
+    "published_at": "2026-04-27T00:11:00+00:00",
+    "raw_pub_date": "Mon, 27 Apr 2026 00:11:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "039ee07a82640b0b45a919433489d9d4fdae55d4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Memorial for Iranian children killed by a US strike, indicating a direct military attack in the Iran-US context.",
+      "event_key": "us strike kills iranian children"
+    }
+  },
+  {
+    "title": "Strait of Hormuz Tensions Escalate as Iran Seizes Ships, US Maintains Pressure Amid Fragile Diplomacy - DD News",
+    "summary": "Strait of Hormuz Tensions Escalate as Iran Seizes Ships, US Maintains Pressure Amid Fragile Diplomacy DD News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3VIeHItTWJRb1lGNExhak4yRVhnVldPZkdUb1Y4YUlYa0RJUGxZeE1lRUdSY2NDSjFQZjlHanI3TG9uc01rRjh1QUhzc2sydThMVlNjWlhnaFZ2YWRQdkN6bWQ0bGsxbHhTMjBCM2UyT0M2anVKel9zWEgwbkdFZkZlajVXblNpZUJWZFlqa3VCQnV2N2hhUm1WTTBHRDVrYnNabVliek95aWVJTVhLQzloV09qVlRVaVpEVXp2OW9RZHJU?oc=5",
+    "source": "DD News",
+    "published_at": "2026-04-26T21:45:42+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 21:45:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c0b30f91caa70b837f195f4ca41f144cdf2a2307",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Iran seized ships in the Strait of Hormuz, a direct hostile maritime action raising tensions.",
+      "event_key": "iran seizes ships strait of hormuz"
+    }
+  },
+  {
+    "title": "US Iran war leading to advancement of Tehran’s military tech know-how? Explainer on undetonated weapons, d - The Economic Times",
+    "summary": "US Iran war leading to advancement of Tehran’s military tech know-how? Explainer on undetonated weapons, d The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQeVFtWlZKMlZEMWR3NDZZWktBRlRlbjlJV01SeHNESlVOSmRBUVZJSkxJUkNRT0t4am9Kd0daSGM2VTVkLVlKV292eVd5dHpCWTdlYXVvcUVRWm9oSjl4alpLVUNoSmUxSHAzSVBNUUxYUTlHTzBQN2h1LThTdkM5aE5BZmRVRktyMVIxY28zUG5LdjNXWjhOOEhsTkloV1E5VWk0WjM4aTFHcWp0X2lGLTlIa2s2dHJNTGdaa29WSTA3WUx1SUZyNFJBUU4zUG5BU19sQ1pONGhwQ2pSci1ScERTVUp1RkNmZkc4M3V4emt4RFNPUV9xR0IxX2w3QjVMWGtJc2x3aEtYckdGRXd5MHgxemhkdE54TndBN0dmNTJHMDAyMy1icTNydFpabmdtc2VOLVNHY3ZrdldwYmJMcFZma1RBdDDSAcwCQVVfeXFMUDhZQXdHVXVNd0hmODB3ZzNQZzZZSDJ6RmZONXV5SmtjWlpvc2NFY3lPTHFnZ1hTUm9OaWxyVm5aa1BNMjdQU1FTNTU4QVBkNWo3YXJNY3FCcFN3QjJJYnI5dncxRGktU0Rid0U5VHNsZDRIa0ZvMTF1UjM0R2VXOE9WS2dLMFBlbkdXVFNqTkRyQ1NnTW92SVVQX2hXZEQyVGt5RUF0SVlKQ0M3b2kxQnFPTHc3NXFPT0R0MnkzYjFmQ2FZaGx5TGpvSW0tSDNMajQ4YXpDTFRVR1h2cXJqYXF3eTV6MWZZaGdiZWlsM2txLWVlbmhqc0RYZzVlVEpnbFNGMnRHTEh5c3YzeFJVbmo0dC1XSjA4Qm02NzRHR1N4NVFtSElLTjlybFhyQlRwamE5QjhkYVVENWFXSTB1d3JLSkw3cDVXLVZ3TkM?oc=5",
+    "source": "The Economic Times",
+    "published_at": "2026-04-26T21:56:34+00:00",
+    "raw_pub_date": "Sun, 26 Apr 2026 21:56:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "843e7c351e8d895bd9ed6cd01487f3a677eca2ea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.25,
+      "reason": "Explainer on how US-Iran war fuels Tehran's military tech—analysis of conflict-driven capability growth.",
+      "event_key": "iran military tech growth from conflict"
     }
   }
 ]
