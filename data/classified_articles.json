@@ -1,138 +1,19 @@
 [
   {
-    "title": "US-Iran Ceasefire Talks Stall; Oil Prices Climb - Mexico Business News",
-    "summary": "US-Iran Ceasefire Talks Stall; Oil Prices Climb Mexico Business News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDhyN0NyQkxYRm1uOVd5UXBUeFR3QzRRS2pKeC02Wmd1SlYwUE42U3ZCSGpXNkVCZUZXNjl5NXlxYmVWam9WcnI2U3Itb1RDMjJsaFBkbHpvcGNXRF9mdkUyUDNmY2h1Z0dhaTVNY0pCQm5nRk0yM1R4LWpQOS1qOGpQdlN0UEtXdzk1bXVhUEh4cEk?oc=5",
-    "source": "Mexico Business News",
-    "published_at": "2026-04-28T22:29:49+00:00",
-    "raw_pub_date": "Tue, 28 Apr 2026 22:29:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "43556b79d9696e09047e9b138cf20779869f4018",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Stalled US-Iran ceasefire talks signal a breakdown in diplomacy and rising tensions.",
-      "event_key": "ceasefire talks stall"
-    }
-  },
-  {
-    "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’ - Al Jazeera",
-    "summary": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’ Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmpGMzRJMUwySzFSNi1oUWsxR3ZMWEduNkljMjlTVEw0REVnNjljX1JEMDN4TFdvcVQtNGVobFIyTWsyWlVhZGRhdlFHdFdXaEd1TTRadk45TGxhSGNpdEpzNGdDelhrVFdoamljVUdNeHJxbjh6ZHR4bjk0X2ptTjBhMC1SZi1uS1A5djRYV1VFelZVbHNlcnBnWkM4UWR0c1hMal80Ulh6NVlYaWRRbkVENNIBuAFBVV95cUxOXzJWTkI1YVJXeHNtX214WmFnWllmSGZJMjlfRW1YSEpLWkt2X3BNMUd0VTRndmJVQVhidl85N1J4dzJjNXdTbk9rTGtQUHVRRkJhS0tpNVNzV2s0S0diQ2dlSnd1cFliQ0xDM3NsZElIQnpxTEFrTnZ2bVRqTkh3NUw1dUNGbVJxUW14aEhadVYxdWQxMk05ZUdHNUx5M3J3ejNacEZlNWdXd1hCMHVocTBVdlM4c3Ez?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-04-28T22:11:35+00:00",
-    "raw_pub_date": "Tue, 28 Apr 2026 22:11:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8b8780296f9b406cf5760b850c0b751911e2a7c9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Stalled US-Iran talks signal breakdown in diplomacy and rising tensions.",
-      "event_key": "us iran talks stalled"
-    }
-  },
-  {
-    "title": "Iran-U.S. diplomatic impasse continues despite Tehran's new proposal to end war - People's Daily Online",
-    "summary": "Iran-U.S. diplomatic impasse continues despite Tehran's new proposal to end war People's Daily Online",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bakc4eHh3NDBRNEljQnphSXBSZWM1MnlKcmRKR2oydWxxcms3U1ozcnBrSG5ySWpGLV9fZFJGSHdLR0laYjBRSkFZWWNMQ256d2xTTUhQczdDcWRRME92YXdJTQ?oc=5",
-    "source": "People's Daily Online",
-    "published_at": "2026-04-29T01:25:00+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 01:25:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b636d17be1a12e5f6690aba4d592ba5440d53e3b",
+    "title": "Iran pitches de-escalation plan for Hormuz; US weighs proposal amid tensions - The Statesman",
+    "summary": "Iran pitches de-escalation plan for Hormuz; US weighs proposal amid tensions The Statesman",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSURKUUFCX2ZfMHF2N3VKbUk1QjdYS3JIdXU4YlpNanc2QVhacWkzaDRpcXM1OHVQU3ZCWUV2ay0ycVVxSVBEa3R6elU3YzR5UjA5d1FUUG80aW1zX2gtSFVJNTUtdFRaRDd4WGNVZmVmN1ZSbGNpbm95OXVlMF9ZbFR4ajhuSkZrcTN3OEgxa1dYTEFzUUNleVln0gGfAUFVX3lxTE9tRDBNcEdMZmFxQlFxMGZSc05zT1Y5R2pGODBJTkdBT2QtOVRkYS1rMW94NXZLeHJxdVdkN2NuMWhDU0VhaENjWTduM0l1MjJuVkZQRlpMRDJqdXJoWXZ1b2hZR0FTT0VfQUxMbDBIMFJQXzhtc1BuV3l4YU0tcmFjSlJCUERZZHpTRlRESXpPWnRSNG81Qkl6RnhxeTJ2cw?oc=5",
+    "source": "The Statesman",
+    "published_at": "2026-04-29T05:09:00+00:00",
+    "raw_pub_date": "Wed, 29 Apr 2026 05:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a8b4473802f5fe11188b278e91e6d886223be2d0",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Tehran submitted a proposal to end the war, indicating active diplomatic engagement despite an impasse.",
-      "event_key": "iran new proposal to end war"
-    }
-  },
-  {
-    "title": "4 Senate Democrats accuse US defense chief of being unprepared for Iranian retaliation - Anadolu Ajansı",
-    "summary": "4 Senate Democrats accuse US defense chief of being unprepared for Iranian retaliation Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGFqRlJ1eWxnLV9aYUY0dXRRQkZTaVdaV3NxaDJGZVFSUTYwLUVBcHRfZFg0WkppWnVBdmZfNjJDcTlEUDRDTzZlX08ySFZ4NkpZZHBLSmtfbHlZcjRJcHM2Q0lYMDhHVVFIQllReEstel9mQTNrUjNuMkN4ZXhQX29BeHU1cm9MYkdWakNlbVliQkJXWklQZ0lKenJqY2ZvdEJIU1FzQVNVMlNEX1hHeHhNVU9EYlMyalVqODNfT3dja3lqcjB3?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-28T23:47:14+00:00",
-    "raw_pub_date": "Tue, 28 Apr 2026 23:47:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "26cd632f7ef21e8b5716175855ee2edef4896110",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Accusations indicate rising tensions and concern about preparedness for Iranian retaliation.",
-      "event_key": "senate accuse unprepared for iran retaliation"
-    }
-  },
-  {
-    "title": "Weeks of silence over Iran school strike highly unusual, former US officials say - BBC",
-    "summary": "Weeks of silence over Iran school strike highly unusual, former US officials say BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zMjR2dnZjT0twTGl1V05nQlJJVDdIb3YyOWFIaHZHYnVMdkxtUW1SOFBlcW1hbnJhVmNuVWRQdDNPeGtqcENCbHFlWWNyYWxhMHo3bzlnWjhpUQ?oc=5",
-    "source": "BBC",
-    "published_at": "2026-04-29T02:01:50+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 02:01:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72560e51089e0d23b8854f512d970428aa4ed7c5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.8,
-      "reason": "About a domestic Iranian school strike and silence, not related to Iran–US diplomatic or military developments.",
-      "event_key": "iran school strike"
-    }
-  },
-  {
-    "title": "Coordinated U.S.-Israel strikes on Iran spark wider conflict, ripple effects felt at home - The FAMUAN",
-    "summary": "Coordinated U.S.-Israel strikes on Iran spark wider conflict, ripple effects felt at home The FAMUAN",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY05ZMDA2Qk4wSUhhU0VydlpXakRud3NDQVpuaUNXbFNPcWtraVZaaHRUNVI2a0JtLVFlMFhlbUx3czB6VmVmc0hzT1F1ZzRhSzZOWkxXbnpOamhYZFdzeTUzMnk4Q0ZNbjQzZXZQeVB0OUJyQUtrbS1QS19MUG11ZzI4eXF0TnhDOXZwcFRqVzJqTEdhaUtsd3Voc2xydWx5dVcxbnozQTd3cmswZ19WVnJwa2dxMDU4S3pUTTVRRXNVZFJjOUV2ZktXZw?oc=5",
-    "source": "The FAMUAN",
-    "published_at": "2026-04-29T01:34:19+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 01:34:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d4379271e5954d5b70b34a5de2476b8a4947044f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports coordinated U.S.-Israel strikes on Iran—direct military attacks triggering wider conflict.",
-      "event_key": "us israel strikes iran"
-    }
-  },
-  {
-    "title": "US silence on Iran school strike raises strategic questions - Crypto Briefing",
-    "summary": "US silence on Iran school strike raises strategic questions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFdsdGhvY3Jjb0h2dXg0NXZGTkN4SWRESGZLX3hJaEIyR29laGlLTUlndG53R1dwSFBEV0ZLWXkxdFc4ODJvaVd6eTZlN1Q4LXpjb2VMY3VrNV9VUlVrODFrblhIVjB5LTlxZUF4d1lWXzlXb3QyRzBzbFcwakNJbGF2QTF4aDh6Q0V4YW5Xd2Y?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-04-29T02:20:44+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 02:20:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "be5caf1737a84cd3a1aaad00169cf6a1a036ac80",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Article centers on a strike on an Iranian school and US silence over the attack.",
-      "event_key": "iran school strike us silence"
-    }
-  },
-  {
-    "title": "The Latest: United Arab Emirates says it will exit OPEC, while US-Iran negotiations stall - mypanhandle.com",
-    "summary": "The Latest: United Arab Emirates says it will exit OPEC, while US-Iran negotiations stall mypanhandle.com",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUEk4MkRuZ0tWLTRJaDlNV3pNX3ZOaHdIakxzQ3dYdkEzS3pGWWdjd1A2TTRTU3UwYUVMaE5mVFdGQjU0S055S240TUVtaGdVWEpzeko0MlB2aE44NzNHMWFFejQ4c0RsN0VFZmZyMkctbGZ2UkptTjV4UERXcDFXU2JtdzZXRXY1SFJZSkZMdFpSbXNfYmxpWUJVRTRaSW1fekRJX1hiV0lfY05Tc01VZndQOFRCX0xFMjVUa1JRSU9JQloyY0M3cmU3YXHSAdIBQVVfeXFMT0FRaTJpWjVIWGxMaURTcThkTVlIdlBfNEJ6Vlh0aWp1U0ZneGI2YWJkY3pPZUxkVFhnVXNuOUdfazdjbG5UcFptN09NWVJ0dkl3ajZ6d3BpQkRQMGxhLVVCczIwQW1QMk5PUVlOTXczUHZZc1hlcnVHVFJLSGlpTHhwNmJDOG43M0Y0a1RfMEktQld6Q3NKMHozM1lHUGhsWi1sTzZGaDYxMHlwSzFSOHRBMFBqY0FkcE5VQURqTm1vS1pJOGVoM3JVUk12b0RkRGR3?oc=5",
-    "source": "mypanhandle.com",
-    "published_at": "2026-04-28T21:59:40+00:00",
-    "raw_pub_date": "Tue, 28 Apr 2026 21:59:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4e0b65a95ed1250099bfce62a9b4f2ebc7b1ed77",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US-Iran negotiations have stalled, indicating a breakdown in diplomatic progress and rising tensions.",
-      "event_key": "us iran talks stall"
+      "strength": 0.75,
+      "reason": "Iran proposed a de-escalation plan and the US is weighing the proposal, indicating active diplomatic proposal exchange.",
+      "event_key": "iran hormuz deescalation proposal"
     }
   }
 ]
