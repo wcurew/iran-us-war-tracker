@@ -1,138 +1,53 @@
 [
   {
-    "title": "Iran’s rial currency hits record low as shaky ceasefire with US and Israel holds - AP News",
-    "summary": "Iran’s rial currency hits record low as shaky ceasefire with US and Israel holds AP News",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEkwc0tEekJhbVlFYjBKVWMtdXNUdDczR3E3Y0FHMDdPbldYdmRMSXhDSlQ1UGNBLWxzZTRxdlBlcnA4UGJRWjA2MVppbkFvS19VQ3hWSXdYalRTeFNMSUl1eHgtX1ZEZEpNcGVtLUplSWJFcEdLM1d0V0FJMl9tMEJhVkJNb1NQc2VqQ2pKNGNZdUFTcExwTm1DZw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-04-29T12:06:00+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 12:06:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b8a6002dce84ca0edd73aae9ce4427aead864d39",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Reports a shaky ceasefire holding between Iran, the US and Israel.",
-      "event_key": "shaky ceasefire us israel"
-    }
-  },
-  {
-    "title": "Iran's rial currency hits record low as shaky ceasefire with US and Israel still holds - Inquirer.com",
-    "summary": "Iran's rial currency hits record low as shaky ceasefire with US and Israel still holds Inquirer.com",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORE1aRm16N1A3REN2SVVFeDI0czZMazBqNXVzMWFBUnZoVl9KVW0tWC1iaUdaTU8zc01xWW0yVno4WVZiOHpvc2hERUVpaHBmN2pRRWg1M0VTUVU3dmI2UHVUVDNqZUtPd25yTXVqenF1dTJBdUgxWDdrb2IxT25WT0NVLWRScXJ4YVM5WUFTTUJfMHNm?oc=5",
-    "source": "Inquirer.com",
-    "published_at": "2026-04-29T11:08:43+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 11:08:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c46bb09f9b78b94e0c4f430ac2876b977ab7f84b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.75,
-      "reason": "Notes a shaky ceasefire holding between Iran, the US and Israel.",
-      "event_key": "shaky ceasefire iran us israel"
-    }
-  },
-  {
-    "title": "Gas prices surge amid stalled U.S.-Iran negotiations - NBC News",
-    "summary": "Gas prices surge amid stalled U.S.-Iran negotiations NBC News",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlF5V0hHVS1BdmZCYUd1LTBwUXFBNk5ocVI1MWVqYnBPYlY3V3hWdXZqaGUwY1JIMURXQTU1VGItWGUtZ0RjVmdteXpFYWsxeTZCTm92VmRIcUtLVndXYkppWEpQbm5WcG01WktTOWNIQVdTSGtqLVg2Q3gwZmVqRlZDR0M5bnBGaE1velZlclNQNDMxRExxbmVGM1BSVUxRR3U4?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-04-29T12:31:07+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 12:31:07 GMT",
+    "title": "“Political Disaster for Donald Trump”: Jeremy Scahill on Stalled U.S.-Iran Talks - Democracy Now!",
+    "summary": "“Political Disaster for Donald Trump”: Jeremy Scahill on Stalled U.S.-Iran Talks Democracy Now!",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnV2QUFNMkwzT21NU085SnlBNTQ1cElrdWYzSE5TT3A5MGQ0aXZQU3ZZVVk0dGtsb2hYX29FZ2JWX01qaml6cUZMQzhfRExZQkpqZDNJRF9uTkJnc2RFSC1ld0xBbEZXQ1lQQndnLUFaYjBYeTNTVC1fWExXeHlmVUpwa19xenFBaFE?oc=5",
+    "source": "Democracy Now!",
+    "published_at": "2026-04-29T14:26:11+00:00",
+    "raw_pub_date": "Wed, 29 Apr 2026 14:26:11 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8dad68cf1263365a86d340b58125931ceb47d060",
+    "article_id": "42fa8738c44c9feb3950213626eded278a862aa2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Discusses stalled U.S.-Iran diplomatic talks and their political implications, focusing on negotiations.",
+      "event_key": "us iran talks stalled"
+    }
+  },
+  {
+    "title": "Iran warns unprecedented military retaliation over US maritime blockade - CHOSUNBIZ - Chosunbiz",
+    "summary": "Iran warns unprecedented military retaliation over US maritime blockade - CHOSUNBIZ Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTFkc2NXV25udXpjbHY5QWsxc3NURWxGbFZPMThtX2FON2lPbjJRZ2xJcEwtT3BxQkQ5R09DWW41bGR2UDAwX2dEb05ZR0VPZ2FPYjhhZW1WRDhobVpySFpuM1VtUXhlOG1obHMtQnd2TkcybmNEY1hGUkhsX3NzdkZyTUFkUkZf0gGcAUFVX3lxTE51ZzVSbXoweFMtQ1FlTVpRN0tMRHZnT1ZFV2k5THNuc25EaU9hNVBCTkthdDk4akVoS25hZk1TdmFScHAxUVRaX3c0aktfUlJRdDZzalFDdU1kc2o0ZGlmd0JOYVJBbHNaWmx0akh4TFVGUVpzMmhGal9oZm9GRG42aURZMkJ1c3NIaTF5TkwxQ3BuaG95RnA1VDVVYQ?oc=5",
+    "source": "Chosunbiz",
+    "published_at": "2026-04-29T14:02:00+00:00",
+    "raw_pub_date": "Wed, 29 Apr 2026 14:02:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7ec51b7e035a7a7bbb490bbefc93092540ddfa0f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Diplomatic talks are stalled, indicating a breakdown in negotiations and rising tensions.",
-      "event_key": "stalled us iran negotiations"
-    }
-  },
-  {
-    "title": "Iran says ‘war not a solution’ amid stalemate in US talks - Anadolu Ajansı",
-    "summary": "Iran says ‘war not a solution’ amid stalemate in US talks Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGhaU2M3VkxBa3ZrNTJid0hzRDU2Qzl0LVh4UHByT0txTk1NUGZfeWNoLVhiSW5aQktpWHJWWjRsZnNWcE9IU2JYZGprYnhzWF9fTm54bUUxYWZzb01ud2hEc0VfT1hLVC1jMWlrbVlreDE4bHdwaTBhT045YjMzUXdRZzc1a0wyRWUwNmIxckxVX09lQkRXMmJ4LVhQNlZKckE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-04-29T13:41:13+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 13:41:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b9cf33e2ad170f4acec09695d60d47bc90a21ddb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Iran publicly urges against war amid stalled US talks—a restraint signal rather than an active ceasefire or resumed deal-making.",
-      "event_key": "iran calls against war amid stalemate in us talks"
-    }
-  },
-  {
-    "title": "Iran's rial currency hits record low as shaky ceasefire with US and Israel holds - The Washington Post",
-    "summary": "Iran's rial currency hits record low as shaky ceasefire with US and Israel holds The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzUxNEdyU2hSUG9SQXhxMWUzdDRDZjJNcWtYMmYyWWw4ZFhqV0RIWi1sWG1aRDBBd0lyMjRVcmw3dU5zOXpSZDM4MjZFaFRiVVJfQW10NHhKVGdId19OTkJ6ZTFQQWRVcHZYOXZxN1djMkFDM2tBZGdHOFhPNFc5UTBsODMzVnhHb3dRV2Y5MElZWDUyaXZhdkhrd3RSZWdLUTQ2N2xXMlAxN3U0UFNrUHdkZWxaa2RURWZxMU5Cd1hld2xkZEZQWm1PTQ?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-04-29T13:24:01+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 13:24:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f6191c93c0ba89d9e9fa1d7470d6e76c4bdaef40",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "Article states a shaky ceasefire between Iran, the US and Israel is holding.",
-      "event_key": "shaky ceasefire holds"
-    }
-  },
-  {
-    "title": "Can the nearly $1 trillion-a-year US military really be depleting key weapons in Iran? - The Conversation",
-    "summary": "Can the nearly $1 trillion-a-year US military really be depleting key weapons in Iran? The Conversation",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcG1pSWdnUEZEVlpEOTI5UzVuNVlBTkhlaHR4TlZEZEJicFZIWjdTNGMtWDVMVTdCUjUzU0dmdllpY2wwZUZrRXlYTEVDd245UDBDaUtmZTkweWk5UGJNMlJObFE0Q2U2T3BJWE5zbEgta0d2bjBUdnJOZld5bnhUYTR6UkQ5Y0RTWmRlcmV5anNhSUNSZWF1MHEyQlEzTnJzeE16bmtnQ3dYU0ZncWRvQXdnNkFBVmNiTnpF?oc=5",
-    "source": "The Conversation",
-    "published_at": "2026-04-29T12:25:12+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 12:25:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a8af60abea8acf2d3a83561f93b9633fa1fb0e83",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
       "strength": 0.85,
-      "reason": "General analytical piece about US military stocks, not a specific Iran–US diplomatic or military development.",
-      "event_key": "analysis us military weapons depletion"
+      "reason": "Iran issues unprecedented military retaliation warning in response to alleged U.S. maritime blockade, escalating tensions.",
+      "event_key": "iran warns retaliation over us maritime blockade"
     }
   },
   {
-    "title": "Iran Warns of Naval Escalation as US Pressure Mounts - اسلام تايمز",
-    "summary": "Iran Warns of Naval Escalation as US Pressure Mounts اسلام تايمز",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVm1VdUZjZ0tXREo0MjZsQ3FkTkhJdGNWOEdzbHptaGFuamMwQUJ4QmNTUGMyeUlwZWhDZzUzUGxQWFJkWElhM1E2RUVJQjJpSXlQQ0E1Y3FWWVFQRGkycnJvMXRycVd1QkhrUmNoS1BHSDN6aG9YUGpZdnMzdHA2ZUJQVXJMT0J6YlNVb2EyMmR5WTV2WXZSNnY3dw?oc=5",
-    "source": "اسلام تايمز",
-    "published_at": "2026-04-29T11:04:35+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 11:04:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "272d10ca68ddb30d9833e8f4fdf1f772fe820d8c",
+    "title": "Iran issues military warning over US vessel seizures amid uranium tensions - Crypto Briefing",
+    "summary": "Iran issues military warning over US vessel seizures amid uranium tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkFaOUtfZkJaMWVXNVB2UVFkc1ZGaUdvVUFCZ0Z5bFFkaG80Mno0aHFPUmtWS3dBbVVDR0x3MFFkc0EyOHF5WTJDR2xqREk1a1pSNVVhN01OeVdtWDRFVTZwSHROMGFFNGNtZnVYUGpPbW5XQWpKN1dTX1BySlJpSGpaNzNrX2M1cGExSmJJcGExQk5YR1ZmbGFHVm9rZXE1cnVnbA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-04-29T14:00:08+00:00",
+    "raw_pub_date": "Wed, 29 Apr 2026 14:00:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "04b7b8e2e0dd848666e1bcc4efa68a0fa0b143b3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "Iran issues warnings of naval escalation in response to mounting US pressure.",
-      "event_key": "iran warns naval escalation us pressure"
-    }
-  },
-  {
-    "title": "IRAN HAS WARNED OF 'UNPRECEDENTED MILITARY ACTION' AGAINST CONTINUED U.S. SEIZURES OF IRAN-LINKED VESSELS - STATE-RUN PRESS TV, CITING SENIOR IRANIAN SECURITY SOURCE - news.cgtn.com",
-    "summary": "IRAN HAS WARNED OF 'UNPRECEDENTED MILITARY ACTION' AGAINST CONTINUED U.S. SEIZURES OF IRAN-LINKED VESSELS - STATE-RUN PRESS TV, CITING SENIOR IRANIAN SECURITY SOURCE news.cgtn.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jNDF2WDdWNjhqb2kwUU5mWmFJdGp3MDZ2N3NuYl9BcUJKZ3pzMlMxNDYxVEJ0WTlPd3cwZGF1dF9IX1Q1dFlmWkh5ZjVCVUdobW94TG5PUVJwd0ZfcVhySTBTdjlsNmhzRG1aNTJR?oc=5",
-    "source": "news.cgtn.com",
-    "published_at": "2026-04-29T12:23:28+00:00",
-    "raw_pub_date": "Wed, 29 Apr 2026 12:23:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "618049a52dabb1dd2a5aa57c35a98f05c1f3528c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's threat of 'unprecedented military action' in response to U.S. vessel seizures is a clear escalation in rhetoric and potential action.",
-      "event_key": "iran warns military action over us vessel seizures"
+      "reason": "Iran issued a military warning over US vessel seizures, signaling hostile rhetoric and rising tensions.",
+      "event_key": "iran military warning over us vessel seizures"
     }
   }
 ]
