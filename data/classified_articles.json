@@ -1,172 +1,104 @@
 [
   {
-    "title": "Iran warns of retaliation \"till last drop of blood\", signals immediate action if US advances - Udayavani",
-    "summary": "Iran warns of retaliation \"till last drop of blood\", signals immediate action if US advances Udayavani",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZlo1TlU0aTlucnJ5MUgtTU94d3gtenhGQ3FPM20tMnhJcE5pbHJlWDhWRmE0WF9vbGFjd19RR0lWcVlQWld6V1d0azg5TjFHM1JLcHBMV2lIZHA1Yk9oekhQVHJ1aDdvQWMxUVgxcEkzZEtDbUpKa1VWNS1ycGFFOVBvRWRuZXo5cmN1YmZjZGNvOHZJaVJoQVVEQWVZR3h1ajNxZGZILTBFTXNLNGNGaXhjNW5IOFFGWF9GY2xkSHg2a3VIakhkdERBWGpyeHBCVnFlNDczWQ?oc=5",
-    "source": "Udayavani",
-    "published_at": "2026-04-30T04:16:41+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 04:16:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "530015535338350bb2153d1b37d3861933d033e3",
+    "title": "Could the US-Iran war become a protracted ‘frozen’ conflict? - Al Jazeera",
+    "summary": "Could the US-Iran war become a protracted ‘frozen’ conflict? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODJPdWZ6RGhSMXdCUjV2WjVNQnNMR1U0bjlNOUFoZFRBLU40YlVIYkZteUY0OHNrTmcyUDdEUU5WVUVIQ3I2YXp0bm1pSmdaUTJHU0hrOWRpMk9zUEx1MFVxd2YtaGs3X0VGMm9GdTA3TnRPRVNNb2tqTXU4YUEzTDRzVVdYRnJSNlJvbjh1V3NULV9hRm5XOXpwa29lSW_SAaQBQVVfeXFMUEdZc3NfWjFnZHlwSFhRektmVUN4bFlZblNxcVA2YkRzSmo1NVRhOWVLemJZQXNWV0d0M292bWdVT1o3NmV5cFBmY2pacXpiRlAwS1drcVlaUGxVMmpoc2hxanBILUs4M2I0Y0ZPVGdoZUNpM29hZTQxQzNla1Uyc0Vuc0x1R3hWa01EdG9GWDdFc0hoRlIyb0w4dFJ3LUdPRUI2YUE?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-04-30T07:06:01+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 07:06:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f708c7362b84812098336374a5e49d2f8e37aa09",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.3,
+      "reason": "Analytical piece on possible protracted stalemate/frozen conflict, not reporting concrete strikes or diplomatic deals.",
+      "event_key": "frozen conflict analysis"
+    }
+  },
+  {
+    "title": "Iran's Negotiation Strategy: Muddying the Waters - El Mundo America",
+    "summary": "Iran's Negotiation Strategy: Muddying the Waters El Mundo America",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kdFQwWV91dVN5QXZnYWRMV1E2bFdRellUQWFiVnVkNDlXT1VYaEdMNkd5LWhiUHJVQkRHak9FRHkyTGNiczV0NkgxRGpSRzE2eWgzUzd3NUpOb2toNkhhaHBRNHhtMnRoNTZLaDlUdE5pTkRlWGZWejMtU1BkOXM?oc=5",
+    "source": "El Mundo America",
+    "published_at": "2026-04-30T07:49:06+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 07:49:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0a6b30f19d8cf520764574838d8f6f8c4b1f45c1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Discusses Iran's approach to diplomatic talks and negotiation tactics.",
+      "event_key": "iran negotiation strategy"
+    }
+  },
+  {
+    "title": "Report: US weighs ‘short, powerful’ strikes on Iran regime targets as crisis sends oil prices to highest level since 2022 - Gulf News",
+    "summary": "Report: US weighs ‘short, powerful’ strikes on Iran regime targets as crisis sends oil prices to highest level since 2022 Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY2Y4R1N3ZmxpYVlyeUZZaFpiQ3UwUmZzX19uZTU5b2piWDJLZHI4NkxpaWtFZm1Hb2VPci0wS0pLcDBOM2ZCWGpJSU9YTXdwQ2NpekZqYmkzQlVWLVhSR1QyM3Ziem8wVUJsdU9YaEpTNG9kWHlLRlQ0Vkt4NG1mUVlqZ3lqaHZuMzRUOXdnbWlLYmUxUmFwUWhNTDlQcklqWVlWVDR1Y3ZMOS1wYkRRQnFIQUtyMTRwZnJpS1Q4elZ0NjRFWXJYS0NiT1ZHZ2lZWnhSNHJyeWxRcmY0bm04TUQ5al94bXRhRXVhbFRfSEN1c28?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-04-30T07:15:25+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 07:15:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4c15edce272caa5ce511eb58dceff4fd11e732e8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Tehran issues explicit threats of immediate retaliation and vows to fight if the US 'advances'.",
-      "event_key": "iran threatens retaliation against us"
+      "reason": "US weighing 'short, powerful' strikes signals threat of direct military action and rising tensions.",
+      "event_key": "us considers strikes on iran regime targets"
     }
   },
   {
-    "title": "US to attack Iran again? 'Short and powerful' wave of strikes may be in store - The Times of India",
-    "summary": "US to attack Iran again? 'Short and powerful' wave of strikes may be in store The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUZfbG1TREpMdVNlTWJ5YjM1RV8xRG5OQnFXWFdOOVRuMm1RQVFRLXVBd1NTMWdpU25ZaTZWMjRmODgxOW8wR0MyWXpGZVRTM2poSUR6bEVFZmxNNWdiblVuYmJMdVlYcG1famdOSVloZnctbXdwYm82dWFkYzdsQ2VPZnNSaFBkdGx5TjFETEVTSEtYNWVJeFBlckV5VDNaa3pBRGtJV0lKaEJkQWxhcjdVd0VLbDJqOW9pN0c4MVI2UXBzNTEyUjdPak44ZTM4TkxnN253RHZCTFAySnfSAeMBQVVfeXFMTU02YVVneVM2c2FCRXBocHByTnhFWGtpei1vbmlSeXJSX0NkNmR0MS1wZ01aMkdkb0FzaUoteDFLUDVzRVdDbFU4SmVtckphckhuSkFJZ3pqOXg5MjlCU0U2WVFnZ0R6RmpPTXhKOUd2NkNXUXlHcDBJU3IxN3BGaUdxeU9kUEIxZWxpREtiS25RckZUb1o5TF9CS3I5OUtDLVk5WmZqbG8zU0xZNmJKQVE3U0w1WnFfU0dYYVNhNWdSX2ZxSVloNDRxcEkwQTIzdGlkM3JnWUlnV3pVUXZZYnVBcFE?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-04-30T03:23:00+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 03:23:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a0df875b1870e11ffbc328d6c2fa93fc260aa0cc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Speculation of imminent US 'short and powerful' strikes on Iran signals rising threats and potential escalation.",
-      "event_key": "us speculated short powerful strikes on iran"
-    }
-  },
-  {
-    "title": "US commanders to hand Trump a 'short and powerful' Iran strike plan: Report - Türkiye Today",
-    "summary": "US commanders to hand Trump a 'short and powerful' Iran strike plan: Report Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUtZS2NhOGU5Szk3TXItY1VQYTFPcU9DMVp1cnVMUTJYTVhVblFIV2JQaDRRNG1wWjRzck1QdzF3QUpKWlFtdmRyM0RHRG1zMTRvNEdHbW5ndWI3dnh1RVgzbW1OWG92a0dyRzNkRUc2MG94RzJ2d0h5ak9kOXJUckFLY3lJOG1ORDRYUXJhRkgtMTM2bmhkQnNjVUd4aE5QLUx4d1dQay1DNnlwNmphd0JVYzZxSFk?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-04-30T05:45:41+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 05:45:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6d415671d5d005e502e73342d0e2e59fe7a17139",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US commanders preparing a 'short and powerful' strike plan signals heightened tensions and potential military escalation, not an executed strike.",
-      "event_key": "us strike plan for iran"
-    }
-  },
-  {
-    "title": "Sky News Australia. . US President Donald Trump claims King Charles “would have probably helped” the US in its military strikes against Iran. - facebook.com",
-    "summary": "Sky News Australia. . US President Donald Trump claims King Charles “would have probably helped” the US in its military strikes against Iran. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZlNQdkZMZUxrT2Jpb1VOeDM5V2VZZ280Uk9zME5mZ2I0MDNsYVR1ZXVKN3NySUYzbUVYUEdlYkFQNHlXdEphVzREbXlGNmo3QUI3dEZlSUtVTUVfcWlGTDhnLTZDcXlOSWpsUm80SmJiNlB0ZWN1eWNiQ2VvLUdraFVMMEtEc19pQkZHM0w1UHhaNW5HSXdvZkdqRnRuQ2RLa2xaRkRGV3FFU1dRNWlRVTBJcl9ORVFmZkFpSWgwMEpNZWJqSkZNSVZtcFJ3bWNvamRzU09RVEdmSEJlVVdN?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-04-30T04:11:23+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 04:11:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f8b1478df073c6ca8738fa49a9d7cb513986681",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Presidential statement endorsing potential military strikes is escalatory rhetoric toward Iran.",
-      "event_key": "trump king charles support strikes against iran"
-    }
-  },
-  {
-    "title": "Trump to Receive Briefing on Potential U.S. Military Action Against Iran - StratNews Global",
-    "summary": "Trump to Receive Briefing on Potential U.S. Military Action Against Iran StratNews Global",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUFmMDdnRmloR0tGZldtR3RuRF95SFNFQVJnTXJ0RHB3aTRBV1pIU3pxaDcxVUU1SHB3dUEzMmlUdWRSblAtMGlUMXRzVU1DQk9Lbkg5VDFRR29pOXByaTB1TjMtb0VLT1dkYk5SREJEaExQeHZ0elMzZEN1cWlIOGhkcXNwYWE4TUtNVW9nYmk2dEJROWhVejRsTjB6ZGxnYzBrSC1LdVpXaHVnRkhncw?oc=5",
-    "source": "StratNews Global",
-    "published_at": "2026-04-30T04:00:50+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 04:00:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "561103d137f4f2fd712b6be9d33e03d4064c8880",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Planning brief on potential U.S. military action signals rising tensions and possible escalation absent actual strike.",
-      "event_key": "trump briefing potential us military action iran"
-    }
-  },
-  {
-    "title": "US weighs short, powerful strikes on Iran to break talks deadlock: Report - India Today",
-    "summary": "US weighs short, powerful strikes on Iran to break talks deadlock: Report India Today",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTS01SG9WZlhlQmFvcUxqazM1Tlh3RllyaEZrajRTajFOT0dJZ2dNUzhCclVsYkx3dndaRTZlTXA3OEcyeVJ6V3hPUnRCTHp4TVp4NnZNSXByZmhFUzhsTWxuTUI1eGF4LTlicXdJNHZsZWtBXzNCVndxYjdQTGVYWk1EVmxSal9DN0UxbDFhN2JkMEFBYmM2aVNKdzU4VXdobnFTeFN3NmlsTnB6TFE5dW94U3dVMWZlUzVhZjdwLXFHeWFZMFpnQUs0UUlJSzZtV2fSAdcBQVVfeXFMTjlKSkZqcFE1NGhKZmVTak9YT1FpYzhkSHlncWJfdTNLRndsSXdRYXlOYmJBMjdTSzJZWlJZV1htZy1pSFNSekFMdGQ2eTk4Uk5QVEdSRlF3dnVTNEx4Q1k1all6aXgydEpOUGV2M0RhTHdYYVUxYWZNLUM5R1oyVmVNX2prck1wdzZRZHU4b2dVZ2NZaVdPOThXOWNqNWFVdzJOd0ptMFJ0X1BJTnRIOTZJbVc2T0ZCOG1xM25XUmFrNTNuRy1IV0U3UUs4ZWxYZHk3WjJtMk0?oc=5",
-    "source": "India Today",
-    "published_at": "2026-04-30T03:57:15+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 03:57:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c0b41f8e4988b958922104ca28655ec36aa2487",
+    "title": "US may deploy hypersonic missile against Iran for the first time - Bloomberg - Українські Національні Новини (УНН)",
+    "summary": "US may deploy hypersonic missile against Iran for the first time - Bloomberg Українські Національні Новини (УНН)",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX05jU2JkZWNaSjdnc2lFSHlOLVhjcjY4Z0prNVJCa3F4eGxiem01bXFFZW1aX0hrQ2RJa0dJeDVRTkZSWUVZS3RFM3pNcnhEMmF2NkwySmwySTgyejhJbkJ5V1BtZGVsMGY4bE5BYVNsZnUwTnJXUlI5X2Q2Q0dweDVXVkZVMUI3SGJZTUlHX1VFMnQ1eVFWdXVHUXFkd9IBnAFBVV95cUxNRkZMUDJlaUlqR3FPT09hbGtDSkRmUE4xTG9pdXcyc1ZQR0pEMlNCa01zSndnVS1EWkllZWs5dHdPeW9ZWW5zcEltaXhEbk96UEc4WnpRTHpqMnhkRzMxbzZuTFFWUFJBdW9yOTVQeU1zWkZZYnltUmpUQWV6TUYybzVmLW1MTTJlWDJQZ29CU1JyZzY2MklQZmVscXI?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-04-30T07:10:41+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 07:10:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e0f96c3765a0dc80b881a88c7fdd90611998745f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "US weighing military strikes to break talks signals escalation and increased tensions.",
-      "event_key": "us considers strikes against iran to break talks deadlock"
+      "reason": "US considering deploying hypersonic missile at/against Iran signals heightened military tensions and a move toward escalation.",
+      "event_key": "us considers hypersonic deployment against iran"
     }
   },
   {
-    "title": "Iran Military Options: US Commanders Brief Trump on High-Intensity Strike Plans Today - MEXC",
-    "summary": "Iran Military Options: US Commanders Brief Trump on High-Intensity Strike Plans Today MEXC",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92cS05aUlsM25zczRqLWVWVGtYa3pPZDhnclhXZmpNQVFnX3RsUTR0U1JRcW9Wbnd2RHduZ05wRzR4ZmI1QWlnTA?oc=5",
-    "source": "MEXC",
-    "published_at": "2026-04-30T04:59:02+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 04:59:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "db856d82fc4304ee516bc91acc20190a108906a4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US commanders briefing president on high-intensity strike options signals rising tensions and potential military escalation.",
-      "event_key": "us briefed on high intensity strike plans against iran"
-    }
-  },
-  {
-    "title": "US seeks to deploy $15M 'Dark Eagle' hypersonic missile for the first time against Iran: report - New York Post",
-    "summary": "US seeks to deploy $15M 'Dark Eagle' hypersonic missile for the first time against Iran: report New York Post",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTld4TkhxcHZONlpSWU4tZEI0NUF6XzRJYzVsRUd4b0EtcDFqMDRoZjJVYlhFWlRHdkIwVmtjNzhPQnJpLWlPWXJpSEtNcTFHWTFkTlBKV2RkWGs2Qjh4MTNUODExNHg3Qk1JMUhrYXk3QzhmWTdjTVRoXzBLUjAwMkY4bVZTWmh2WnB4S29TeW9yQXRRS1FtNXlmOGo0cHVOOUFNNkxhUmN3ZVlFWkVjc3c0ZXBvRGM3dHgxYUhsdEh1LXBWay1VOFRxaFVmQQ?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-04-30T03:14:00+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 03:14:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "10a86ca9714623f63e0bd313326d7e523abdf87c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US seeking to deploy a hypersonic missile toward Iran signals military escalation and heightened tensions.",
-      "event_key": "us plans deploy dark eagle hypersonic to iran"
-    }
-  },
-  {
-    "title": "Brent crude futures hit 4-year high of $124.67/bbl on concerns about possible US-Iran war escalation - marketscreener.com",
-    "summary": "Brent crude futures hit 4-year high of $124.67/bbl on concerns about possible US-Iran war escalation marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTUUtcE5HTWNUbEtNelBEZ2M3b2lvMmhRNmRIbHR0YXdKWWZEMzBlUEJXNGpiYXhqZGw4LW1jWnpzcjM1ZDU5MERuUjVJR2VhcDJOd1lvOThTbUVrcFo0RUF6ZDdrUkhTckN3NURmTHdRNmhWSXNPZktlYTYxbGlCMVFPRWx6emtqRURPRnNJNUZVOVFBRklldlpqV3VpVk4zbnZ0X1ZfWW9kNjFNZWw4QjcyYW5RM29GdUMwWDdKaTVpMnd4WC1KMVU4WXVlMXBPdUFFWU9mOHZydWJyQzVXd0tPYW5HdUk?oc=5",
-    "source": "marketscreener.com",
-    "published_at": "2026-04-30T04:11:57+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 04:11:57 GMT",
+    "title": "USO ETF Eyes Record Year As Trump Weighs Iran Escalation — US Seen As Oil Market’s ‘Supplier Of Last Resort’ - Stocktwits",
+    "summary": "USO ETF Eyes Record Year As Trump Weighs Iran Escalation — US Seen As Oil Market’s ‘Supplier Of Last Resort’ Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2tVN3JFRGlvV0dMc2l6WGNYSzljdGRIS2pnODBNdjNOLS05UEd5VnNxR2cxaWxqaVJuaW1RMW5DN1h1TXZtbzNiM1FUSFI3b3N4aTNaTUhzRjllV0tFbTU0Z0J3dTVMMEViRmJMOGU3dU9sVXVZQVA2TEtjQWRpUmxWTjFpUWczbHJWaWNUNGx0cHlFT3JUWUtfbW9iT3A5R0xBMUJDeHdRNFNXQjJlY0pKazM5NTBndnBUV28yNlZDN3JK?oc=5",
+    "source": "Stocktwits",
+    "published_at": "2026-04-30T06:54:00+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 06:54:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a49e9ac83eabb65e890c0c25479f5990a2f37b35",
+    "article_id": "5a6b520974c4edf51e45dcf1402e5e405551b5ef",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "Oil prices rose on fears of possible US-Iran war escalation, signaling rising tensions rather than diplomatic progress.",
-      "event_key": "brent rises on fears of us iran escalation"
+      "label": "irrelevant",
+      "strength": 0.0,
+      "reason": "Market piece about USO ETF that only mentions possible Iran escalation, not conflict developments.",
+      "event_key": "uso etf oil trump iran mention"
     }
   },
   {
-    "title": "Revenge Till Last Drop Of Blood: Iran Issues Stark Threat — Immediate Action If US Moves Forward - NDTV Profit",
-    "summary": "Revenge Till Last Drop Of Blood: Iran Issues Stark Threat — Immediate Action If US Moves Forward NDTV Profit",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWJ1MzhfQzVYSDFhY045MW1hYnNKeUtqYlI1cl9hbG9fZGVnSWcwWmRjYzFkSm9UbWtELVFxQnM0clpWdUlFWExGYzBmY1BvVEUzVV9udWh2NWRDaXVOZWtjeEJ1dnV2eG1hb3hkMHJGUnRzbjRWcGlHOTdkMDV4VzZkOFNuN19EYWFmc0JGOWZLcUxvUnJIeHZwWV93RF9JVUYzdHoyMGlYZmlwOVl1Rjg0MEc3WXRyYmpLLWs2V1pSd2lTd3FwakRYaGFoZllx0gHYAUFVX3lxTE00NXFneXpXa01xNmdmbUhRd0h3YXY4NjZYeUhleXZMX25vTXFHYnBLMERwcTZWaHdHMWN5Unp5UjQ4M2xVckhHMGZwTDdfZUxZNGQzNnE2cHNqeFI2MnhvcWtiZ3ZxNmpRTkw4ZmNVelBVSGNJOGVjckU2dVhTbmtRRWNCUXVJb3VlWnIza2lzOVFhX21NV3A4VEs1U2VtdGk0RzFueHFqRGJXNVVrRDJwZTV0LXo2MlVoc0JmUDZobWt4VE9hV1RUdy00NmlHNTVCZTRDdHFYZw?oc=5",
-    "source": "NDTV Profit",
-    "published_at": "2026-04-30T02:58:34+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 02:58:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "26f6ba4da788a607413714c5342952f4b975f477",
+    "title": "Shell and BP rise as Brent oil price surges above $125 on fears of US escalation of Iran war - Proactive financial news",
+    "summary": "Shell and BP rise as Brent oil price surges above $125 on fears of US escalation of Iran war Proactive financial news",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTWozV3VCd2ZQajlXRHZiRUR0cG5hOVdGckNOaktoS2t1cnBPaHBvRVNDajJaSXdweHBIUWQzMkdVWHljZENkNWM0cVBwS21YSG5vYkNaQ0lwOFdEYnp4eUF3MzF4WmROckVvQUJKYldkTWpFZTNETk0yWnAzNjNzdjdXOXQtMTlMWnZwQ0k3Zk5uZkNFYkRlRURMZHA2end2cTk1bGRteUFQNVVLUWxfS2VVdXYtb1pUT0U5WFpCcEJJb0JoY25NeFJKT2RpaDFSWnozUXFjS2JtNW5fN0FFYmVTYlZjcG1ERWF1ZDJ4OHV5N3pX?oc=5",
+    "source": "Proactive financial news",
+    "published_at": "2026-04-30T07:45:40+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 07:45:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca8a3c6bd68e07cc3b53fb9844769508343b1254",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issued a stark threat of immediate action against the US, signaling rising tensions and hostile rhetoric.",
-      "event_key": "iran threats us"
+      "strength": 0.25,
+      "reason": "Market reaction citing fears of US escalation in an Iran war reflects rising tensions, not diplomacy or an actual strike.",
+      "event_key": "oil market fear us escalation"
     }
   }
 ]
