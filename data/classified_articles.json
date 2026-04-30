@@ -1,121 +1,189 @@
 [
   {
-    "title": "US Israel Iran War News Live Updates: Trump to continue Iran blockade, pressure Tehran to resume peace talks - The Times of India",
-    "summary": "US Israel Iran War News Live Updates: Trump to continue Iran blockade, pressure Tehran to resume peace talks The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQSFhsSEZLVENDNVVFak9FTVdkSFdzbDNxNVBzS3FocGdHRHVKNXVEQnBmWE13dVhIT09odkRySXk2SnFtZ0pJZ2d4OGdOQ2VuQ1RqUm1wVXdITXRobzNsb05BZGRVWlV0VUhFX2tEanJ5ZUNfdm9VYkZJUGhkNEQyNF9GWVQzdlZDYUkzN291cWJvZFBsWHVfbkt3WEZCcWhqcFh1RkkwRm1hbERreTdLRVFPSm8yR0hHODh1M2pOSVhHZGFhRkZDdHY3Qy1sNWNKc08wc2IzX3NtVC1zajUyRXktOGNCVThWRUZhSVlRaTU1QVVCZ0FhM1dNXzA5SkxzTF81MlY5R2w2ZXhhQ0pjOVZMWW5qOGJ0UWI3NnBqSXlFUS1JZlQ4bVVpSFlicnQzNjI3b1JfVnl3UDNoUlk4cHR6OGFvazFFWk9yWmFsT1Q0Y0U0U3c?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-04-30T14:49:05+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 14:49:05 GMT",
+    "title": "Ceasefire Day 23: Pentagon Estimates $25 Billion Iran War Cost, Dem Lawmaker Calls it ‘Low Ball Number’ - The American Conservative",
+    "summary": "Ceasefire Day 23: Pentagon Estimates $25 Billion Iran War Cost, Dem Lawmaker Calls it ‘Low Ball Number’ The American Conservative",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMExScjZIZ19VbnBkTkk4WExQc1Nka2hyRFBCRDFsNWtYa1d1NUwyNlIxQWtUdTdVZTlfSGxwYTZTLWhVVG12dVRRczFrN1FfRk9kbnFkdXVPaU9BMEtFdEx1NmpmYXQxT043aS1BRnZhTFN3N3owVXlIV1pCZlMtYlU3YURadzRGaGI5RURyZWpEYUxzY0piQ3RDLXVrYVp6alo4dFJNSGl5SzdkbFFhMERPdmxwM1lnZFBpYURKMjVjclQwREQ3dEgxUkVHRWhvUHhObThn?oc=5",
+    "source": "The American Conservative",
+    "published_at": "2026-04-30T18:25:00+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 18:25:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b07eb846158b503927904e7d5f8749279e21b1f0",
+    "article_id": "ec6b97d89bb9a372ae7d6ba6efb696d9890ca208",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "Title explicitly references 'Ceasefire Day 23', indicating an ongoing agreed pause despite cost estimates debate.",
+      "event_key": "ceasefire day 23 pentagon cost estimate"
+    }
+  },
+  {
+    "title": "Hegseth Claims Iran Ceasefire ‘Stops’ War Powers Clock in Congress - NOTUS — News of the United States",
+    "summary": "Hegseth Claims Iran Ceasefire ‘Stops’ War Powers Clock in Congress NOTUS — News of the United States",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9td3BzcXVEV21manRObjhuODFnSVhQdkM4Y1ZIVHpzTnF2bUM5WVROa1ZEUldtZ0l5c08zRGxwNnNRM1k2aDN6U3RrdUFOcGhHNW5FazBvanUzYWJfdk01aUU2eUNwQzZXMHo4UEo5S0M?oc=5",
+    "source": "NOTUS — News of the United States",
+    "published_at": "2026-04-30T17:54:28+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 17:54:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b242147dac0fd2d668cddc1a85da19d5d735cdb1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "Article centers on a claimed Iran ceasefire affecting the Congressional War Powers clock.",
+      "event_key": "iran ceasefire war powers claim"
+    }
+  },
+  {
+    "title": "Iran threatens 'long and painful strikes' on U.S. targets if Trump resumes bombing - CBC",
+    "summary": "Iran threatens 'long and painful strikes' on U.S. targets if Trump resumes bombing CBC",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LYW9ZVlhRdWR3RmdpeHk5c0NLZ0xiQnJQTnNMd2xmOHZ3d2NMVHhnLXZrSmYzTXhLdXhtUi01TG1MdjcwMzV6ZGR4VS1DX0NwVlJmbHliVm1rbG5qcjBNZEx1RnJ1cVduMTIzamVpTE1WRkE3Z05F?oc=5",
+    "source": "CBC",
+    "published_at": "2026-04-30T18:33:16+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 18:33:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "65f4b9e0bddd3c31d0f7ef45bdf359c782b251e7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issuing explicit threats of large retaliatory strikes if US resumes bombing, increasing tensions.",
+      "event_key": "iran threatens strikes if us resumes bombing"
+    }
+  },
+  {
+    "title": "Live updates: Iran threatens US forces, reasserts Strait control - NewsNation",
+    "summary": "Live updates: Iran threatens US forces, reasserts Strait control NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHZLUURRa1hCQ2pIcG0xenAxMFpyX29UcFdWWkE5TzViVjNaNlZUUWpyQVhqQ3BKb0JXUFl0bElEQUNlOWxHeUZ5aWdtWTdYZjloamV4VDljSlY4cl9MeFBwMVN4Q21GbnlPVU1nWDRNdFVESG11UEx1THE1SG5TOVl4aWozNFNLODlpSUdkQ2hVSHA4TU5LbTdTcG51c3Nl0gGmAUFVX3lxTFBHUWtrWnpad2Fid2JYWDVqOEYtcWdER2hjMXlrdkRiUFUtc2R0QS1zd2ZhWklEMlBQQWxmbVhVUXJQV0JEZ2JEelh0bnhDYTNORUJuMzh6MG1Sa3djOGdzT0tiSlJZeG9YWUkyMlVyeWsyN2wxN05SOTNvV0U4YWVTZ0IwdmZzcGtQenRPQ3ZvRnkxTXkxVzEyakswa2FhOFlLRHNkQUE?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-04-30T17:30:59+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 17:30:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a059722cb8a649e289e36eaf3b1009206568bc22",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran issues threats and reasserts control of the Strait, heightening tensions with US forces.",
+      "event_key": "iran threatens us reasserts strait control"
+    }
+  },
+  {
+    "title": "US Equity Indexes Rise as Communication Services Tops Sectors Amid Iran's Retaliation Warning Shots - marketscreener.com",
+    "summary": "US Equity Indexes Rise as Communication Services Tops Sectors Amid Iran's Retaliation Warning Shots marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVWFJdkUyTENHNnBIV3pCbkZlYWZzQ2F3MlBqOGN6VEdkMHNQNVN5ODNNNEdHWkJTU3g4ZkJpcF9YbFhJTi1VUG1nVTJFOUlYOVMwWnhoR1p1VlVZX0F2UTVEYTMxRFhhQ1N4UEpuZFROODdUdmlXWGFMYjNjVmd4MUtuUzdzQlJGWk5vX0JEaWstVndGV3BsempNZTcxbVp0Umc1V2ZqTl9Wbm9KNFdmSTlPUXVjaWM1cmVjN25VeTdDRUR4b3dfcWxudXY0eWhSZExJc2x0MFpSR1lULXNvM3AtODY3ZDQ?oc=5",
+    "source": "marketscreener.com",
+    "published_at": "2026-04-30T19:13:36+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 19:13:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "72a45dd1e9e1244a85ec0bba4a40975d64dc0fbd",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Continuation of a US blockade and pressure on Tehran increases tensions rather than signaling talks or a pause.",
-      "event_key": "us continues blockade pressure tehran resume talks"
+      "reason": "Mentions Iran's warnings of retaliation—threatening rhetoric and rising tensions rather than an attack or diplomatic move.",
+      "event_key": "iran retaliation warnings"
     }
   },
   {
-    "title": "Iran ready to continue path of diplomacy if U.S. stops \"maximalist\" approach -- Iranian president - Xinhua",
-    "summary": "Iran ready to continue path of diplomacy if U.S. stops \"maximalist\" approach -- Iranian president Xinhua",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9veklOemN0dVJSWS1qZDFNQnFvMVMwTC1WSmZsVXdmTVZlY1dXank4RUlQLXpDNzhoaDhLbk9qZGhGdUlWaTF3VDR5UWRLQUlzdUU1SUxMU1hLNllBUHRzNGdYekdkUThnYklVWkJTaE85SjVpeXo3dHFMaVU?oc=5",
-    "source": "Xinhua",
-    "published_at": "2026-04-30T15:33:15+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 15:33:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "889e9a5727ab2dc0c4c3d4b039ebff008975e62a",
+    "title": "US may deploy new hypersonic missile against Iran as Trump weighs fresh strikes: Report - Middle East Eye",
+    "summary": "US may deploy new hypersonic missile against Iran as Trump weighs fresh strikes: Report Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWlRSG41dko3MVNHNk5nTW5HRnFXME1uQmhwdnRqOUpsS2NmRUtLcXZ2UElmeFRfcWE4TEhGZGU0by03Y3p3aElqVWRrQjExdFQ3SzBjWFJVa3ZoMHdsYTk3Zzk3b2dMbkxLM3NPMkxvWEVJNGdCWFc0cWtoMHVnRi1RYXREV21GZmhNdVFHSU5POG9lUWJ4X1NQdFpRWHhabnFyTUFPY0VBWTN1S2Z2Tk05ZEFiS1Y4SWc?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-04-30T17:05:36+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 17:05:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b1a36c401014bdbcecbeb7a79c42ea0c95ab8a68",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Iran signals willingness to resume diplomacy conditional on U.S. changing its 'maximalist' approach.",
-      "event_key": "iran ready to continue diplomacy if us stops maximalist approach"
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US considering hypersonic missile deployment and fresh strikes signals rising tensions and military threat.",
+      "event_key": "us considering hypersonic deployment against iran"
     }
   },
   {
-    "title": "Trump rejects Iran offer as US weighs new strike options - FOX 32 Chicago",
-    "summary": "Trump rejects Iran offer as US weighs new strike options FOX 32 Chicago",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRR0xsVk0tMzRDaE5vZDl2OEFhdERaMnVFSHhadEhjQTB5amhBcmZ0LUsxcGRyUGZUYms3cXRZWFpHMVg3dUlqbXZuQ1BqUWhpc0JGNThxTkw2b0pxdXY0ekI3UnZFZ9IBa0FVX3lxTE9rWTBOM3JnMC14NVlSNmoySWMzLThaZjhWMG9fTnNpaFJ0RFAxYzVmZVFhUm1xUGZ4OEM5NElrYUVvajdhTy1ydzgycjFsR010ZnFNeDhVUllSWHZOY0dvb3VhYWpKTy1pbEhv?oc=5",
-    "source": "FOX 32 Chicago",
-    "published_at": "2026-04-30T15:07:48+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 15:07:48 GMT",
+    "title": "US eyes first-ever hypersonic Dark Eagle deployment as Iran pushes beyond strike range - Fox News",
+    "summary": "US eyes first-ever hypersonic Dark Eagle deployment as Iran pushes beyond strike range Fox News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZU1ob1dZNnJZYjFSTmJaTS16RHJiR2R5bkIwdVlHVE9rcmZ5cXJSNEVadndxdW5rQkE1bldoWWFEamV2VGhMTWRCY0ZwSU9nNU53eGxHZWVWMjM0ZEF3SVJaUjVRRnE0Z0ZFX3FkYWlRX00zVzhWMEpJb3pYN28yaEdwbEpjenVKUGdxeVdFYkRTcG85WnVTdzlYVWNfUXdQU3lfdzN0UkVvYTdjNFBJajlJckxXb1XSAbwBQVVfeXFMT2JKTzJqcnM3T3ZSNEVVWEZzQnFlTkFNbG5ENUxaUzNMZVVQWUduNE9wdUZnNU9PcGxyT2dlOFlEQ3htejQtZ3RobjJ1RmJGN3UwVDNELUloMWdnNjFDcjRwd2JBUl9zUFRPSU9TSDJwSTdrV0gzUTlBd1NVR3BhejEwUjZEVVBRRUlPYWZDSGJveTJwY1R3LXZMTHRZYW9Yb2k5ejRnZnlMYi1pbVRtbElrUnMzcmhBcVJDWE0?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-04-30T16:54:50+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 16:54:50 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ea5316d981f5ee20b729e3a653f0677d32cc6eb4",
+    "article_id": "93d42a423193086ce3b24f9cdd8892681b1c8abd",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Trump rejects Iran offer while US weighs new strike options, signaling rising tensions and possible military action.",
-      "event_key": "trump rejects iran offer us weighs strike options"
+      "reason": "U.S. considering hypersonic deployment in response to Iran extending strike range signals military posturing and rising tensions.",
+      "event_key": "dark eagle hypersonic deployment consideration"
     }
   },
   {
-    "title": "US military equipment worth billions of dollars destroyed in Iran war - Al Jazeera",
-    "summary": "US military equipment worth billions of dollars destroyed in Iran war Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWhGZ0hVRjM3SU1NeDQxbVJnTndIRVI3NHp4dHV5UjVYS2hOUXRzc3R2a3MwSXIyOFhKUURuRkNSX2NraVN1U2ZJcUp3enJoMzI2WV8zNjZoVmFCQ1hrOUJyVmhCM05KMThiRTdDdm5qUVFtSkhhQ290eGQ2a0pLS3J2alhfNmxMMlN4aFhYdXluYlZCanJkRkRRNW1hSFFzb2xZYTNqMHFPaXlrbnJr0gG0AUFVX3lxTE1DQlBGX00zWTRVTXRjTThoZWViWWxFNE9LSm9IUkV0T1hmUTVIVmVNX1JRb2owYWM0ckM2LUg0aGRtbkZ5cVJRazVQTjZLZ2N0T0FWUFpjRF9XZl85RXJ2TWJoME00MEx4REJOVVBCM3hJUXl1TGJQVnp2ZmF5SDRfWUJrb1NaVFdpZGs3N1FYaWtiS1NTZ05ybG9maEhEZGhLcENuaE1nT3cxYUFOVHByZjZoSg?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-04-30T13:58:52+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 13:58:52 GMT",
+    "title": "US considers first-ever Dark Eagle deployment as Iran pushes beyond strike range - Fox News",
+    "summary": "US considers first-ever Dark Eagle deployment as Iran pushes beyond strike range Fox News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzIyWnh1aElmMUgyVzB0WXlORzBtRWRVVFl4WGtSQ25pU04zbFdaR1pvWDNYRFVGRGJlV1VqRlRwYV8yRjhpVzFETy1GRFNnOWJ0bmN6SENXV3V1amxIc1VlNzBnWV80UXZPSGloT2lCSmNZVkVlc1NIT2tvSld0ZkR0Rm50MGstZktnQVpfU05MLWs4WVlvWkNPUnZlZ3V3LW1SV2luSm9ZRFZKQTlr0gG0AUFVX3lxTFB3dlE3N3hwRzVlYUxzNXBieTBnM0FMQUtPMzlfMzRBdkhLQ0dDWlVuYzJqX0FIZ0tIWXhNUHFKRWRXTm52RzJSYTE2NVRTajE4emtqbHhSYzFFemtXRTlFeWxLUmpNOTVDRzhwWnVuX05kX3lQcWZ0T09jT1g0aFExYkFJTzdpanVPYzZPQ2x5SGc2WUYycE5zcmVjRjQ1VGhvcFhRUlo2dlBqNEtmRXktZ0xFeQ?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-04-30T16:54:50+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 16:54:50 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6018cd1cb9d71622c8a2dba9b7d48546d1404d43",
+    "article_id": "dd49db0d3f58d907d03a2d52114e82fbe6f92662",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "Reports actual destruction of US military equipment, implying attacks/strikes in the Iran-related conflict.",
-      "event_key": "us equipment destroyed in iran conflict"
+      "reason": "US considering a novel military deployment as Iran extends strike reach indicates rising tensions and mobilization, not an actual strike.",
+      "event_key": "us considers dark eagle deployment"
     }
   },
   {
-    "title": "Watch US Seeks to Deploy Hypersonic Missile for the First Time Against Iran - Bloomberg.com",
-    "summary": "Watch US Seeks to Deploy Hypersonic Missile for the First Time Against Iran Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckM0Y2R3eGpDZ3hxZE9hRzFBUm5iWlYycVNsQ2VEaVpLSU0zYmxyZGNhY1E5aTlTTkh4MjdkbmI2S25BQ3dlRVVqaHI0YXRocjRGUG8zUkhXUGJzQUUxaHR4Zi1EaG96b3cySGQ5bFpsTlVaNUlzby1NczZ6alRjaVI0akhjWDhWVXZ0ai1LdEt2OWlEQ2w4Q0RHSnhGdE1YajA3dkVYWGk?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-04-30T16:02:48+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 16:02:48 GMT",
+    "title": "The US wants to use a new missile on Iran. It might not even work - Responsible Statecraft",
+    "summary": "The US wants to use a new missile on Iran. It might not even work Responsible Statecraft",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZHgwTWw5QlNjQWlGWEExUXVhVG91ZDQ2dm1kWUpRYnJsNVA3aG9aZ2d3N2hRTFo5Znp5MS0xemNqU0gtXzkwSGQ1c0Y3ZExtTVcxaTh1WVQ5dUotcE9zbWlNcklPNVk?oc=5",
+    "source": "Responsible Statecraft",
+    "published_at": "2026-04-30T17:26:01+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 17:26:01 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dd307823c7791cc0cbeb7bbd0e917cb0fa587ef5",
+    "article_id": "dd625edd489edd5fb068e205ccf54718a2c52184",
     "source_weight": 1.1,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "US seeking to deploy a hypersonic missile toward Iran signals militarization and heightened tensions rather than an executed strike.",
-      "event_key": "us seek deploy hypersonic against iran"
+      "strength": 0.6,
+      "reason": "US intent to use a new missile on Iran signals military escalation and threat rather than diplomatic engagement.",
+      "event_key": "us considers new missile against iran"
     }
   },
   {
-    "title": "US Navy HITS PANIC BUTTON? 'BEGS' For $15M 'Inoperative' DARK EAGLE Hypersonic Missile To Hit Iran - The Times of India",
-    "summary": "US Navy HITS PANIC BUTTON? 'BEGS' For $15M 'Inoperative' DARK EAGLE Hypersonic Missile To Hit Iran The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdlg0ZlByZEpSLTVuNjBhNVJ6dVNWVEllRTlCT05WT2ZQTXZ6MHQ0d1hvZFQwa0l2TDFVX0gtTVNkUjFlY3hHeVJFLXgxYkVXMlc5ZGgwbWxSTlF0LUFsZUZ0R2FHOGxLd2NaVHRUcUdmSUFTVjB0SkZDN0VOSm8ybnFGdnZLSEhrLUdibHFsSWcwUXhXN1RmN0JGTjR0eTNYV1JWLW9LeUZRWE41LVFMOG5zYnk3RS1pZUNKa2ZOSnAzeXEweDdyRkEwbGVYbzhDWkd6WEFUei11eVVIYkNZQlR0cF96TlotZ01mSkw4bVcwck9EZmg1cTRoOENHZ25jOGlr0gGIAkFVX3lxTE9VUnI4SWczZldKdjBGUzQyX21xREVQSlFDcF8yQkFKRGRndWJPTzZrNE1BMlNnZlFYNklPSGVYVWxtOG5ZT05lQjczR3BhY1RuNE5Qdkw0MHJtM1BjVmFuUkFLa0lhVTk3c25GMklkc2Z6T2Z4TjV1TDVITDE1UWhsbTRJdVgyTVpoWm1mTW5EYUY1c0d3WW5FQlFpNzB0TDRnV2I4WGtESzlnVXJXUktqZ3pSWVFhY0dLdG4zdmNyOXJidGpQWk5YTXpYZjZZTlNBMTY3dW9WRWN5Qy1IOUZGX0NqdlR1eDNjOWZUdlYwVUtGa2Y1ajBvWTBGOUNOYmMxOTJkSl83bA?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-04-30T14:06:11+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 14:06:11 GMT",
+    "title": "US May Deploy A Hypersonic Missile To The Middle East Against Iran - Report - i24NEWS",
+    "summary": "US May Deploy A Hypersonic Missile To The Middle East Against Iran - Report i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlJOMEY1RU9reS1mSGhMTFJBYS1zLXFHOUlBdzVRUTdwM0puZ0lZZUVMRks4VWpQamFnVV9ZcGVZZ0d3QW43UHhRb0h5TFBnOWRQaW9qcU1UWDNPTnFzM1JZVE95NS1JQ0NfQnNxX3BGZWJqZjNZaWpLMGtTbEMyTU9BemIwcUdTa3l1SDR2X09EbnBETXBDQjlNUXBmb3h5cGc4cjVxLWFfUkRFQ0NGS2tuMC1ubkNObFBndThkemVtZ3dsLW04d0ExSVE?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-04-30T17:18:05+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 17:18:05 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "de49a3d720ac3e4bb4aa3339268aabb136331249",
+    "article_id": "715a24cb00a5e71d4b1c6bd8662b20447be3cdb8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Report of US Navy seeking hypersonic missile to strike Iran signals increased military threat and escalation.",
-      "event_key": "us navy seeks dark eagle for iran"
+      "strength": 0.7,
+      "reason": "Report of possible US hypersonic missile deployment toward Iran signals military mobilization and heightened tensions.",
+      "event_key": "us possible hypersonic deployment against iran"
     }
   },
   {
-    "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation - Reuters",
-    "summary": "Oil retreats after hitting four-year high on concern of US-Iran war escalation Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-04-30T13:54:26+00:00",
-    "raw_pub_date": "Thu, 30 Apr 2026 13:54:26 GMT",
+    "title": "US-Iran-Israel War Latest News: Strait of Hormuz Control Will Ensures ‘Future Free from American Presence’, Says Iran Amid Middle East Escalation - The Sunday Guardian",
+    "summary": "US-Iran-Israel War Latest News: Strait of Hormuz Control Will Ensures ‘Future Free from American Presence’, Says Iran Amid Middle East Escalation The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYi1Yc1NsSHY5NXdNdngwU0diMVpWZzFYbEdtbjktcGVLcVZhWGRQM3ZZd0RteU9QN2ZmM2xvbWZtR3VOYXJDQXV1Q25aVk51MFN2NnpFUFNrbjZhQThtNkZqSUVIVFVoa1dnWkdkamlNcnJEN015dXkyamk4bHE1NXNNdmNaSkRpNUpEZjRCR1NwZFNFZUEzbTdxOERmWk9oRC1SdTEySjVDVnVoVUEwbG5DWFVOTjBMTWtfLXY3UHpncENNMFcwOG9wV0ctdUhnZEc3WG1GV29KR0Y1SkdtNW5ISTF0aGp1ckJNWkEzWFFsSmxKYTJ0U04yT2YzUlI1Nk5nNkJkclpTUWw1ODUxZ1piWWE?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-04-30T16:37:01+00:00",
+    "raw_pub_date": "Thu, 30 Apr 2026 16:37:01 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c243a2883a848debaf0800b880d5e9480138a7f7",
-    "source_weight": 1.15,
+    "article_id": "74d4bacc3534f85780acf5021685b079047abf86",
+    "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Market report on oil prices reacting to fears, not a concrete Iran–US diplomatic or military development.",
-      "event_key": "oil price reaction to escalation fears"
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran's threat to control the Strait of Hormuz signals rising tensions and hostile rhetoric toward US presence.",
+      "event_key": "iran hormuz control threat"
     }
   }
 ]
