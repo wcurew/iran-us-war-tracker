@@ -1,121 +1,53 @@
 [
   {
-    "title": "Sky News Australia. . US Correspondent Mark Stone claims some experts believe US President Donald Trump may hit Iran hard in order to bring them back to negotiations. - facebook.com",
-    "summary": "Sky News Australia. . US Correspondent Mark Stone claims some experts believe US President Donald Trump may hit Iran hard in order to bring them back to negotiations. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZGtPT1h5RnVvSXg4NkxNM3g0RDhiY0hLQUVRd2gtOVB5VFBnV1AtTFdraG4teC1aSkJERVAwLWJMY2I1d2Y5Z1FXN3FRSWN1Skh6ZzV4ckhqdlBlLWc5WHFBSllSbDJZQ3ZPdVIzRkw4S1REb2VXN3EzLXBURGVfZHUyWGNHOXNPUUVwRExMcEtmb0FtbnRUUEZKLXVlS2wtWUZ5ajhRVG1yeHN2OHUxVjlPaUpXY1h2aUV0LUYwVC1BMHF6OFk5WDJtSXFBNnJsazRsQmZpOHRTcnJOdFJB?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-05-01T23:40:41+00:00",
-    "raw_pub_date": "Fri, 01 May 2026 23:40:41 GMT",
+    "title": "Trump says Iran conflict is ‘terminated’ as he hits congressional deadline - The Washington Post",
+    "summary": "Trump says Iran conflict is ‘terminated’ as he hits congressional deadline The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUtCcHBHamdGWDRRbEx5dU83STA2M1hTQmxidjVxTnY3RXdDRVpYZ3R4WlNSdVo3XzczMXo2VmJfVkhkdlQ1RW1VSE8xQU1OVlgtV2VSVHRubWlFSXBaWWlIYzN4UDBpZG53NXd2SzNZVF9DU2VRZ0tQNUt3M3FvOV92dzJ0VDFxTThsT3Z3?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-05-02T04:44:02+00:00",
+    "raw_pub_date": "Sat, 02 May 2026 04:44:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "37f6946a075487b1cce1cf989dbd272d9a6a7558",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Trump's declaration claims the conflict is over — a public signal of de-escalation rather than a formal ceasefire.",
+      "event_key": "trump claims conflict terminated"
+    }
+  },
+  {
+    "title": "Iran Boasts Of Ties With Putin & Xi, Lashes US Over 'Non Conventional' Negotiations | Trump - The Times of India",
+    "summary": "Iran Boasts Of Ties With Putin & Xi, Lashes US Over 'Non Conventional' Negotiations | Trump The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlNVdktiOUI0QjBld2t6dzNHMXZkSDllVzNobVUtc2xGMmZOQnYzVC1YaEV3c2RRQ1Fta2NSSVpSdVNUVlhJUHoxNVFGcTFzMDlzMnVpbVhybjFyYkViSTFPeVozbHNveFh6ZUFEMVJlQ2lsaTZYQWlXR0ZVMzl4RTNSOUMzSzl1UVBYUUVVNFV6MllXMGUzMlJQcjdLcUg2WkIzeDZCRzF5T3l2cGRob1ZIYlFRTjU0YUJxaXFZVE1Ma05JY2txUEZXTTM3Z2hZQnlUbU5qR1VHUUdWbXk1R0hmQ1JFblRtSWg2MnNNOWtja1UwYWN6bdIB_gFBVV95cUxPdm1FcGV3aUoyVjFINzI2NE9ZSnd2RnpfTzVXWldTeDczY2F2S3h0enJfY1ZoWjRMY1hmRnIzNFJVbUIwY0pzdXNac0hBdnZBek52TU5KTGZVenFGeEdVN2ZDRENJblRtallLY21uQnRSeGJaeG41MzdUXzhkQS1Val9fbDhKZkxIRnFjLVpXVjl3dXNuUGhiNFEzSC02NFVUOHFreno5VVZrZmMzOHg5VVM1NFlhcUE4RHhKaHNjZk92VTJtMWpfODZfbjZOYUk3Y2d5UTJ3VHpOdy1VQXBYWkhtZkx4aTR4WDBWYXQyYVZPaGUybzFSWVZsdTR3dw?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-05-02T04:01:26+00:00",
+    "raw_pub_date": "Sat, 02 May 2026 04:01:26 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a84eae82bde21d9fdaac974ce1c51982088f6c3d",
+    "article_id": "50e00795a253b21ea2715b6c840db8e4f6eb30a5",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Speculation experts say Trump may 'hit Iran hard' to force talks — implies threat of military escalation.",
-      "event_key": "threatened strike to force negotiations"
+      "reason": "Hostile rhetoric and rejection of US negotiation approach signals rising tensions rather than diplomacy.",
+      "event_key": "iran lashes us over negotiations"
     }
   },
   {
-    "title": "Oil falls on hopes for US-Iran negotiations, Hormuz progress - The Business Times",
-    "summary": "Oil falls on hopes for US-Iran negotiations, Hormuz progress The Business Times",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXNPRmJ4VXVrTVhCc2djV09uazRPUEptelJtU3BDNExOWWgzd2c5bU5IemV6MDBJQlpXc3FMVWJRUVRsTVFvd3l6VXNhRnYxTmZvU0gySjhwdzVnNXZYSHItdkdSNGJYcTJMUHdnYTQ0WVF3R05qWHlJQmRNLWROeFNkLWQzb2Z0Nk1TeXlrU29CQ05rUDdCUXB0bTJEMHQ5bU5mWFpIYnlmMzBkdU5vYi1HcFAyODlVb0NnelpRMA?oc=5",
-    "source": "The Business Times",
-    "published_at": "2026-05-02T00:41:00+00:00",
-    "raw_pub_date": "Sat, 02 May 2026 00:41:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eca72085e3f27efb0f8d5cdb98041938d82593f5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Article links oil price drop to hopes for US-Iran negotiations and progress in Hormuz, indicating diplomatic talks.",
-      "event_key": "us iran negotiation hopes"
-    }
-  },
-  {
-    "title": "Iran says US must drop ‘threatening rhetoric’ for diplomacy - Middle East Eye",
-    "summary": "Iran says US must drop ‘threatening rhetoric’ for diplomacy Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWIyNC15T3phRnYyaE9WTTF6ZFpJaHlrVTREREl4QW9seGEtb0E2X0V5ZkRmUkUwazhZNGk3TjlEMThLV2daVDd1aF85dzFjU0JLOHo4VEptZWNiTFZSQTlQRG1HTllNRUxhOWE5M0FURWEycjRVc2JudDBiaVdLcHc4eFZfRHdDYWJFMUVPaGZkRzB5TzZlQXlmYjlSUUd1NmtQdTllYUpOTEMxTXZR?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-05-01T23:46:00+00:00",
-    "raw_pub_date": "Fri, 01 May 2026 23:46:00 GMT",
+    "title": "Iran open to diplomacy if US alters its ‘threatening rhetoric’: Foreign Minister Araghchi - The Indian Express",
+    "summary": "Iran open to diplomacy if US alters its ‘threatening rhetoric’: Foreign Minister Araghchi The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVBBYVpuanN5S0p4eXI1ZDRQb0I1YjZnLWNZWXpybElkenU4MVl2ay16WW93R0FBbWFLU0xRczQ3NlEwSHdPU3hIU1ZWVXRfcWdzWU5xX09RaHhPT0YyaUZSUUszcmx4anVPWTBlYVlHanVmMno5b3FMY1hpYWJyQ3lweWNOSDdZc1lRTUdCUWhsUW9UdzNCRnd0aGtoanRUTnB4LXZzelFOYnc1WTNYWFZQZFgxVmVJdnEyQnRFRdIBxgFBVV95cUxNSmVYX1VzYm0yR0txeHpBa0tqM252U2xiM0cwVUhEWGFMRWJOLXB6U0lrcjJzWGo3R3VMMTd4U3Y3cFRRNHE0Y3ZKMml4SHZzMWt4RVBmdWpGLTc1dlpUeWR2Rlg0VlN0SXcxN2FBSFRjbWt5SzhjTmd6NEJUOU02ckJ0dm5EVGUzOG5BX2dDeTRENkNaX2NWQndxQ2NsNEU4MUpYc2RzWlJRb08xWl9aa3lSYV9RS2wxYmVJMjd0Tnk3YnRSUkE?oc=5",
+    "source": "The Indian Express",
+    "published_at": "2026-05-02T04:50:22+00:00",
+    "raw_pub_date": "Sat, 02 May 2026 04:50:22 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "95f97959b43d0cab880baca77c4bbb43a2f7f518",
+    "article_id": "9f718a3e52fea49083a23b054ecba735cb27c6e1",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Iran urges US to drop threatening rhetoric to enable diplomacy, signaling restraint and desire to de-escalate.",
-      "event_key": "iran urges us drop threatening rhetoric"
-    }
-  },
-  {
-    "title": "The US is preparing a new hypersonic missile in case it has to reach targets deep in Iran - Scripps News",
-    "summary": "The US is preparing a new hypersonic missile in case it has to reach targets deep in Iran Scripps News",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN1FLZkxuSUMwcVJjd1J3NEFVaUhublBxQU1lRVJMeUcwN0VGRkFLVzFfMlBEUWtPb1VKWm84aEhieXJrUXRkTzlvd1V3VzhiZXFJS2RBaFk3TGk5Z2I2UHlkUkNqaUtXUUxxeEIySmFUWHlOd0xvOFRIMy1hT3R6NWU2QkQ2YWZEWDdmLXpteVRraXRZeHNsT1AtQ3R5ZWtjTk9uTW9WMVhnek43QzFJSnV0b1NiS1ZUWGxJMjFlVkR6UE5GdmRtQ1k3X2dibHc?oc=5",
-    "source": "Scripps News",
-    "published_at": "2026-05-02T02:11:18+00:00",
-    "raw_pub_date": "Sat, 02 May 2026 02:11:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "118d1996c3ff4c16137f8a7d64392861405053d7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US preparing hypersonic missile for strikes deep in Iran signals preparation for potential direct military action.",
-      "event_key": "us prep hypersonic missile for iran targets"
-    }
-  },
-  {
-    "title": "U.S. seeks to deploy hypersonic missile for the first time against Iran - The Japan Times",
-    "summary": "U.S. seeks to deploy hypersonic missile for the first time against Iran The Japan Times",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVQ2ckJPSGI2TkctT2FiajVrclJPeVROSXpHOWxVTzVzblpjZXRKcXRkRnIyWEVxcHJtZTVXeUlfVGRTMno3QXhzSUdnSjVqVnJFRXBiS1BTT1BpWXo2bXdGdHBZYmhsaVpzcDNRMWxPbFN2c3g1UFViZWhXNTdfOXFZQ2kwRzlPbjM5ZXJiS3duaExZM2c?oc=5",
-    "source": "The Japan Times",
-    "published_at": "2026-05-02T00:07:00+00:00",
-    "raw_pub_date": "Sat, 02 May 2026 00:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2580138297cb297a9ac817f1bbff2d0b4ccab8de",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US seeking to deploy hypersonic missile signals a major military escalation/threat toward Iran.",
-      "event_key": "us seek deploy hypersonic against iran"
-    }
-  },
-  {
-    "title": "US troop withdrawal from Germany signals potential de-escalation with Iran - Crypto Briefing",
-    "summary": "US troop withdrawal from Germany signals potential de-escalation with Iran Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXlRSjl4R2FuS3BGaDMwOFo0dWNkbmszaDgtZHBfVGIyT0RwVmdRVW5IWFJlUjhNS2hyNTlGSURRMVN2U0FPTGl5RnhCanExc3U2dFJXNXNrd1lGZ3Npck1QWGhlalhiNTlpNXNmUHJlVGhOdjZjZDc4VTI5SUhFN3hZQ3lMZ3NfU2lkZGZIS0tHSHBSeXhzbGJGTzFaMzU2SUZ2Xw?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-05-02T02:07:31+00:00",
-    "raw_pub_date": "Sat, 02 May 2026 02:07:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "333a74d8f7424047e3ef9e79c36338157e034b30",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US troop withdrawal framed as signaling reduced tensions with Iran, a calming posture rather than formal ceasefire or talks.",
-      "event_key": "us troop withdrawal signals deescalation with iran"
-    }
-  },
-  {
-    "title": "US to withdraw 5,000 troops from Germany amid Iran tensions - Crypto Briefing",
-    "summary": "US to withdraw 5,000 troops from Germany amid Iran tensions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1BnLVo2a1J2ZnB4Y1pVZWtjNXdfZ245NmxJTGJvbnV5QVhnSW5vZWM3QVRKYlFja09WV3JyREdTNkxhMkx3bnNsNXZMM1ZOcnB6blhWNnpMV3dhZl93WDJKd2RfTU1vdkVXWTBUNXBJajY3aEJXYzg0d1JUSTNJbmk3WTQtdkQzd24tYjFlQQ?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-05-01T23:34:35+00:00",
-    "raw_pub_date": "Fri, 01 May 2026 23:34:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c26f336fd9437de428752a5dbf6b0181d5112d4e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US troop withdrawal is a force-posture change amid Iran tensions, indicating mobilization and increased tension rather than de-escalation.",
-      "event_key": "us withdraw 5000 troops germany iran tensions"
+      "strength": 0.5,
+      "reason": "Iran signals conditional willingness to negotiate contingent on reduced US threatening rhetoric, a calming diplomatic overture.",
+      "event_key": "iran conditional openness to diplomacy on us rhetoric"
     }
   }
 ]
