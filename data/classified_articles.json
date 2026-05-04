@@ -1,495 +1,172 @@
 [
   {
-    "title": "US denies Iran struck a military vessel during new effort to reopen Strait of Hormuz - AP News",
-    "summary": "US denies Iran struck a military vessel during new effort to reopen Strait of Hormuz AP News",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXUxRXhtVUx6WExNYkQ1QmxKMlI0S1I4bElVWF9JQTFUUGNGU1B6M0VreHFUN2MwZDNId1NiS3NGRTdqMjNUd3IzLUtCbWV3bXBrRVhQS2c1RGxYN1gwT1dxbmpLS0tJTTc5S0lUbFg3WjJ2LUdBV0djXzNzYVpOSGRycU5OZVVFaTVWV09YcER0YmpTTHB6ems1ZVRuSll4cWw0?oc=5",
-    "source": "AP News",
-    "published_at": "2026-05-04T12:52:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:52:00 GMT",
+    "title": "UAE issues missile threat alert, 1st since US-Iran ceasefire - Anadolu Ajansı",
+    "summary": "UAE issues missile threat alert, 1st since US-Iran ceasefire Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDE5ZTBOOW1XQXNyZnJ0LU1yR3FZR2xzNi1WWk9JbFZSdXJLUlJTNHRoTHdyNGRxZjlCSUx0aTNwaVVmYXM4Z3Vldm9nNHhLRTk2QUhJZV9FTjRnYWEtZU13ZjZRQktRSVZORWdMM1YxVF9ueTluSko5d2NhUDJxbzlJdERiNlFuOUswdHNNMVcwcVlqOTUwQkFoYTZVc3QtV0VzN0txRkFiS0VkekgxLQ?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-05-04T14:08:47+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:08:47 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0e1d750015b50fab02acaa97d4cb407508f66622",
+    "article_id": "53dbafe59c602312183ecc3724e6090926efc051",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "UAE missile threat alert signals heightened tensions after the US-Iran ceasefire, suggesting increased risk of conflict.",
+      "event_key": "uae missile alert post ceasefire"
+    }
+  },
+  {
+    "title": "UAE Issues Missile Warning as Rising Tensions Risk US-Iran Truce - Bloomberg.com",
+    "summary": "UAE Issues Missile Warning as Rising Tensions Risk US-Iran Truce Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVldEbVNTR05mbU5qSHRsemwyOTc1bFNwaXVudWJVWEY0MXpMZEplbnZWbzJMUVhWdHFzcThTbnRObkx2WjBXVmR4bEtja3pSM2xmMmwtZVBYcV9PaUxYb1lMeDR1OWlSUUctU1JaWGVfc0IzTnRlWW03OG02WDRHODZuSmQ5cXRWRWpvM3pMMldveXhkNW9BVnJHTTQxVG5xWUVva3hRYVdlSndfaFROVzlQOFBFUQ?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-05-04T14:46:15+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:46:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "28ddd2ebf5f5905e10c2aaf49d62c8919151fb71",
     "source_weight": 1.1,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Allegation that Iran struck a military vessel (denied by US) raises tensions around Strait of Hormuz reopening.",
-      "event_key": "iran alleged strike denied in strait of hormuz"
-    }
-  },
-  {
-    "title": "US denies Iranian report warship was struck by missiles - BBC",
-    "summary": "US denies Iranian report warship was struck by missiles BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaHI2TXJQei03d1VvTWh1cEtvVTZoUWNOR1RKbjdUS1hjc3RhZC0tSmhMSHhrRmFJT0xyUnBQeGYyRWZkWEJNd3JSZTJHU3hoMVE4N0E2YU1Mdw?oc=5",
-    "source": "BBC",
-    "published_at": "2026-05-04T13:18:19+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:18:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "58ac8d36bd2c0d433b94d8d14897a6bbcbf6cf06",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Article concerns an alleged missile strike on a warship reported by Iran and denied by the US — military strike claim.",
-      "event_key": "iran report warship struck us denies"
-    }
-  },
-  {
-    "title": "War preparations under way in Iran as Hormuz tensions with US escalate - Al Jazeera",
-    "summary": "War preparations under way in Iran as Hormuz tensions with US escalate Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUktLMW1CTjdpczFQSDBTSHpRdGM1OHlPcU1idHdrUEpJOFRSU01KNnhwRmRZdUlwWEVhZ0tNVTMzNkxtNEU5ZEpkQk5lY2lBNjNFNHA5dkR1Z0pHay1vWjFkYy1WT0RwakJ3VkY3N0gzc05XN0RFajRGdG5BemJWVHNMWFFtZXZoVEE3UUxjMmxaX1hlZHVZN1lraVJyc0Q1VzU5VnhWaU9zM1h3aFN30gG0AUFVX3lxTFBwOVhVV3BKcjB0VTNHR21JVXRacWppbHVRNW9hZ1UyazB2bTRkX3MzekZQblkyaklGNUVmUEdTZXFmNkdGa1pfNlNFZmMtMHFmdk1kZldxT2tucjF2ZmJ6bjNjdkxSanYzS3ZhTEVJTWgwSGs2MEh0bUlwekFibDdIWE9CZlBHbUZrd2ttemF6Ymw5WTB3T2V5VFhGMGlYRU53YXQxOWdOaEF0bVRQUzZfTklMXw?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-05-04T13:17:28+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:17:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "06cf341c560ad1e35e5cf6fd1064ecc2663ff960",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "Iran conducting war preparations amid rising Strait of Hormuz tensions with the US, signaling increased hostilities.",
-      "event_key": "iran war preparations hormuz escalation"
-    }
-  },
-  {
-    "title": "US watching to see if China steps up diplomacy with Iran, Bessent says - Al Arabiya English",
-    "summary": "US watching to see if China steps up diplomacy with Iran, Bessent says Al Arabiya English",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaExMMW9sSHZjUUZueTAybmRqS1hrWm9hQkhzTkFob0JwYWJZMWNsS0RfMGZnamNGRDFTdW9rOEhRWktvMi05Y2loUnNTWHNBSF9xbC0zVDhfZ0F1cHZzZnRFSWhSZFFQSVR4aXNMbG9samdGbFAzRmNiQmVfbjEzbV8yNnRyRWRBX08tRmlwRWFEbXR3Yi1zVkQzRm90dW9WdmM4YmFWSnVkQUswQUtiekVKekFfaUV3T2F0UHBfYjNoaDY3VlHSAcsBQVVfeXFMTWhjM1dwMWNkcGNSdlA3UmZCLXJORzdXNTc5bnEtQk9GQ3ZHSDVMbHA1MnFVZVdEMGZjYWVuOHFOV1Bqb0l4LVNqY3E1OXl5eHRVdmwycG1FVlk4R2dBQ1QyQWJudjZWME1YckdPSGlaeFdiSE94ME9xZlFCcGtpb1hIRVd6WmdVdnFGRWhXaXZyLWtOd1h0OWhWVE1HMElWSEdhNUd3aHFEV1Q1R2pTUW83TEpTYXhVX2pqM2hrWFBDZlhocDM3cmRydmM?oc=5",
-    "source": "Al Arabiya English",
-    "published_at": "2026-05-04T13:24:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:24:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "95df7ae7e9a21a2ebe568da9eac0083b6e0abd3b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "US monitoring potential Chinese diplomatic engagement/mediation with Iran.",
-      "event_key": "china steps up diplomacy with iran"
-    }
-  },
-  {
-    "title": "Iran claims Washington's 'maximalism' blocking diplomacy - Türkiye Today",
-    "summary": "Iran claims Washington's 'maximalism' blocking diplomacy Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3U0cWZ3WXktVGdaMkN6bXctM0llVUNzbXhpanl1M3MxVzNHUUZoX08tNEJoeG9oMm1FMjVnRGRJR1M1cEo5cHdaR3A5SmVuVHo0VXJJMVBvYUV1ZW5KQ0hUTVlqempDNHN2Ml9BSG4wZmV5YlJjQzh1RC1RMGpoTHFtTVhuejNyeXNhYjJaTlpKMU9jUkdjX3lNTXRKUQ?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-05-04T11:05:50+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:05:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d8edc520f004f90aeb78e8b3b19792e8c794525d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran accuses US 'maximalism' of blocking diplomacy, signaling a breakdown in talks and rising tensions.",
-      "event_key": "iran us diplomacy blocked by us maximalism"
-    }
-  },
-  {
-    "title": "Trump Launched 'Project Freedom' Due to Rising Frustration Over Diplomatic Stalemate with Iran: US official - South Asian Herald",
-    "summary": "Trump Launched 'Project Freedom' Due to Rising Frustration Over Diplomatic Stalemate with Iran: US official South Asian Herald",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2JYR0diMFZNT29MZldMY2tpbXc0VXNOSWtvOWxKNWk5YkxlWEpicEoxSlZCdmxFdmx1WXlLZ2ctNVBmNmc4eDl0Y1VCWXRPSFh2TFVwbGpNU2lka2tackplSUNlRkZYcVFGLW1tNlBmWG9QMVVLRUZsek5YRHV0a2RXTEI4UkZhclpvMGtRWFZrX0lVRWtyX0ZRa1dJbDdmWEdwU2RBdzJ1RG10MTVKem5lWlNhaVRsbVZERGxSeEI1ZlFBQjNSUGtLMkxIcmc?oc=5",
-    "source": "South Asian Herald",
-    "published_at": "2026-05-04T12:36:36+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:36:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "594f3affd31be8cafd96d345dfbd5a1c4c78a5cd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Launching 'Project Freedom' reflects rising tensions and breakdown of diplomatic engagement with Iran.",
-      "event_key": "project freedom launch"
-    }
-  },
-  {
-    "title": "U.S. launches Hormuz operation as Iran warns of retaliation - سانا",
-    "summary": "U.S. launches Hormuz operation as Iran warns of retaliation سانا",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjaVlWaVVfM3llQjJXZlMyMUhoYUZPdGs4M2xsNmtXUjZyMVJGRkRhdWlFVXNsYWxxWUMtdV8wTFk2VldIYWFpaU9tT0F5UDMtSTJv?oc=5",
-    "source": "سانا",
-    "published_at": "2026-05-04T11:12:22+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:12:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6f09d637e15b3e14c4ed3e7f39dd064e78d23ce6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "U.S. launched a military operation in Hormuz and Iran warned of retaliation, indicating direct military action and imminent responses.",
-      "event_key": "us hormuz operation iran retaliation warning"
+      "reason": "UAE missile warning and rising tensions threaten a US-Iran truce, signaling increased hostilities and escalation risk.",
+      "event_key": "uae missile warning risk truce"
     }
   },
   {
-    "title": "Oil prices climb after disputed report of Iran strike on U.S. warship - MarketWatch",
-    "summary": "Oil prices climb after disputed report of Iran strike on U.S. warship MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWXdZUnNwcjVCNjhIQk5MNEdMRlg4aGI1ZDc4MXpvS0E5dlNCT0VRTVZRcGNZYjZtQUJfV1dpZFhlTGgta0g0NmdreEJNTEt4UXdSaklpUFRBVk9xUG1BcTZ3QVpVOGx6SlNucFlMWDR0S0ViS1FMd2ctNUREc19TSmpMWTgwSjBHeldnXzNtdllFaS1XOGRDZVNMWWNGN1VJcGh2OU5IRDB3eWZpTzJJYkxFX2ZGT3VxWVZsYVdrMDJacWtNMU9JRHJ0ZFB6QXNW?oc=5",
-    "source": "MarketWatch",
-    "published_at": "2026-05-04T11:16:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:16:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1baaab0a1c21b39434474339951c76d86afdff2e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.4,
-      "reason": "Disputed report alleged Iran struck a U.S. warship, implying direct Iran-US military action.",
-      "event_key": "iran alleged strike on us warship"
-    }
-  },
-  {
-    "title": "US Denies Iran’s Claims Of IRGC Missile Strike On Navy Ship In Hormuz - Forbes",
-    "summary": "US Denies Iran’s Claims Of IRGC Missile Strike On Navy Ship In Hormuz Forbes",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYVAyMlh2SjZMc253YWNnQ2ZPS1NSZjhnNFNVd19UaHdXSnFGVHE5LXUteThWR0FsYWFKbnUzalIzN1dCQXJ1UDZWWDgtdVJuNEhaRWlheWI3bHdaVFdNM3pyVEdJSHhkYWQtY2RfdzhtNExZeVpBVldFY1QzN3o0ZkdpRlhZd2pzNGVoZlV6VDVEc0dTckxFZG1sN0tmOW1laTNUQ1hCcTF6Wm9NaTV0aWRhYnJGYmlyakpXVk96TlAybnQ0cmJfWS1ja1FTZ1lGUWFXdHNFbll1X1RPcmNsMzdB?oc=5",
-    "source": "Forbes",
-    "published_at": "2026-05-04T12:06:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:06:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c6b1b4c4ef1e91cacdff5e2e3ccd8a8f09d6466e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.5,
-      "reason": "Article concerns an alleged IRGC missile strike on a US Navy ship, with US denying the claim.",
-      "event_key": "irgc alleged missile strike hormuz us denial"
-    }
-  },
-  {
-    "title": "US denies Iranian claim of strike on Naval destroyer in Strait of Hormuz - KDBC",
-    "summary": "US denies Iranian claim of strike on Naval destroyer in Strait of Hormuz KDBC",
-    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOVXN3bU0tc0RLdmpYTFlIZlhUQ3ZvVXN2STB6TTRMYUF6RXJRVlZZdkFMZFhVbFNSanNHWEszcHdrSzhzM0h3M3F4RXhzVWZNTWZYUWoxWGxtWFlfbGhYVE92em03Mzl2bFFibnoyd0JORU9RcWdCQ0dpR1UxMHlIVjFVOHhFNHp0Z2otUURrX2gtWERrTWtOUnZPRElRZGg4ZWpfYUdEcnpwZHpqaWFZeDhvXzhRc293dksyQ2lhMzhoTXVQbFc3VEZ6NkNtcWNsLVRwS2psT3ROSTF6eVYtNG1CeVJ2RDhwc1JpVjdlblIzOGhGODJsbEZnMXpoOHFwaS1XMG45N2VIUV9xUnFsQnJwdmYteGdMN2xnMmRKRlEyUUVCUzdocFpGamlGd01rZHZzS2sxOXBycDlDSTJSazU5d1l6OGRfSW00LW5NeEJQSklnN2tnNjRDQjYyNTMycFFGa2VFOUpOZw?oc=5",
-    "source": "KDBC",
-    "published_at": "2026-05-04T12:41:16+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:41:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "012e650ab83dc14cec27b58ed177440902528ed7",
+    "title": "Trump Escalates Military Threats in Hormuz as Iran Prepares for New Round of U.S.-Israeli Bombings and Assassinations - Drop Site News",
+    "summary": "Trump Escalates Military Threats in Hormuz as Iran Prepares for New Round of U.S.-Israeli Bombings and Assassinations Drop Site News",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53cmlUb19SMFMzUlhuM0RLdXljQzM0d09KVjRmaTQtS0FJZ3p4Smk5T3hfY0FGMV96OGNDbVNlVFdKRm00al9IazNOSjZlZ1pJVW44cUQtRlhHTmlBT0R3VEJSdFlJQ2hJTGUwQTlBbDNWUEIyc1E?oc=5",
+    "source": "Drop Site News",
+    "published_at": "2026-05-04T14:42:21+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:42:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c9fdd1f7016314848347237c715888f743266375",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran claimed strike on a US destroyer and Washington denied it, heightening tensions.",
-      "event_key": "iran claimed strike denied by us"
+      "strength": 0.85,
+      "reason": "U.S. military threats and Iran preparing retaliatory bombings signal rising tensions and threat escalation.",
+      "event_key": "trump hormuz threats iran prepares bombings"
     }
   },
   {
-    "title": "Oil prices surge after Iran claims strike on U.S. warship - qz.com",
-    "summary": "Oil prices surge after Iran claims strike on U.S. warship qz.com",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVQ2NUQ2VCSWhCeUpKdExoUmJPTVhxQnVpWXc3WW1LUnZPWVIzRmw1NElTZlAzeFhESXkyZEVOdjBWVXFNYkRFMFNxNnNNZnFHMlh1ai12SnBpTmdRaHhWME1FUzI0NDRMQkhvblRnWQ?oc=5",
-    "source": "qz.com",
-    "published_at": "2026-05-04T12:10:13+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:10:13 GMT",
+    "title": "US denies Iranian reports of strike on warship, says ships transit Hormuz - Military Times",
+    "summary": "US denies Iranian reports of strike on warship, says ships transit Hormuz Military Times",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXRYd2RzVGk4VWtoOVdqa0tNMGJLYWJSXzRISDJ0R1dfQUxEaWZIMzNHSTR4WjVqTG9mZ1VDb2JHY3NrM2Z1eWp6TnduQ20xNmJFZW5kSFBiRUdZNU4yLTNFWlVZNlVKeElBQkNsN1M1ZnVOcWhtRzh1bkVEUVU1d0FUZGp5d2ZMYXRxaTlqd0prMmhoc3JETTluT0Ntbi1RSUVVSGpDZS1NVlpMOHAwQmpsU2diM2VGXzQwcjRTbjdpMDlRRXNjaEoxV19RZw?oc=5",
+    "source": "Military Times",
+    "published_at": "2026-05-04T14:54:15+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:54:15 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f22b460688c295c8b1e8370f631a0a60264c808b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claimed a strike on a U.S. warship, indicating a direct military attack prompting market reaction.",
-      "event_key": "iran claims strike on us warship"
-    }
-  },
-  {
-    "title": "Wall Street retreats, oil prices jump on conflicting reports of a strike on US Navy vessel near Iran - Chattanooga Times Free Press",
-    "summary": "Wall Street retreats, oil prices jump on conflicting reports of a strike on US Navy vessel near Iran Chattanooga Times Free Press",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSERvUkczaVRHWDBtaGVzWEVqeENsLXFGTGNsUTJORUNfYnlKSXBFQ3JFdC1TWVVxblhXZ3RfSEd0aUJlU0stb0ZsczBuNl9QckVBdFdIRE1BTjd6eVM1QjM1TFBzcFo5U3pMMmFrV1E2UHQtWTFJdFRiLWUxaUFmc29SOUZuSzgtN2trNlVubUVDOXI5eWtpaklHdnpoa2VpMTIyMlNjck5reEdFN2wyYnNuR0lTenR1MlgwRHA3UHh4TTM2NjMzYlExUFNhNF9vLV9CRFlxWWNiMXk0bEhXYnpTOTRZUQ?oc=5",
-    "source": "Chattanooga Times Free Press",
-    "published_at": "2026-05-04T13:07:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f83da53cf91b0141d1eabbf470f684cbbd3c0ca",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Conflicting reports of a strike on a US Navy vessel near Iran imply a possible direct military attack.",
-      "event_key": "reported strike on us navy vessel near iran"
-    }
-  },
-  {
-    "title": "Iran Says It Turns Back US Warship From Strait of Hormuz, US Official Denies Missile Strike - gCaptain",
-    "summary": "Iran Says It Turns Back US Warship From Strait of Hormuz, US Official Denies Missile Strike gCaptain",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2hMY0pZR29scFVWM1ZlQVRVcGpzX0hsVzdnQnlPcWNQUnE1WWpfbU9pM0xETWVQcU9FdGRvVzlnRmxqSGltcmZ1bXI4NTRYZ2x0Y0ZZNTd3Q0hlbjRTVlVQX1VENlNBTXB4WE9ub01oUUhaYzRxWU0zbF9yUnZNc0Ntc2lMMlZCQ0xndjkzT29uSkZ4NVJoQ1c3TnRyRFVNWHQtWFdaR2hfZWpYV1hMeXJB?oc=5",
-    "source": "gCaptain",
-    "published_at": "2026-05-04T12:15:22+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:15:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7b84d2e7c4eee6a70d6b892669b63b869cc9e822",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.65,
-      "reason": "Iran's claim of turning back a US warship and disputed missile strike allegation increases direct tensions.",
-      "event_key": "iran turns back us warship strait of hormuz"
-    }
-  },
-  {
-    "title": "Wall Street dips, oil prices rise on reports of strike on US Navy vessel near Iran - South China Morning Post",
-    "summary": "Wall Street dips, oil prices rise on reports of strike on US Navy vessel near Iran South China Morning Post",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUNnemdWc1JtaGhtTG9tTXpaWXRzckRkNjg3b0FON3pFZzdPa2xjUkhnemxYRS1XemJUVVNmOGxCUFN5eW1ZMzZMOXpXc3VEUGp4LWppbUlibEk1WDNXTmtqLVNJNmpQdW9qTDFsSUF0b0loT3lGWHVZdUluRUQyREJuS0duXzlZRWgxcWFZa1lWSHptbEI1WFprajZQQ2lqUHF5WE5zZTF5Q3dBMDJVWWJUaTJKZUxtdTVrVE9iclZmd05MM2R1cExrWE85M2dBQXFwSnRUdG0?oc=5",
-    "source": "South China Morning Post",
-    "published_at": "2026-05-04T12:44:31+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:44:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4d59195e23c31c39663c5b190fd1dffe5c7a85a0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports of a strike on a US Navy vessel near Iran indicate a direct military attack.",
-      "event_key": "strike on us navy vessel near iran"
-    }
-  },
-  {
-    "title": "Updated: Iranian missiles strike US warships trying to enter Strait of Hormuz - commonspace.eu",
-    "summary": "Updated: Iranian missiles strike US warships trying to enter Strait of Hormuz commonspace.eu",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVJQUzgyWDd0a2YtbGxqOWh4bkYycExBdnBCYnNRNUk5WjhfYlJWZXo5TFdzRnEwUHdUM2Z2dFBqby1NX0lRSGo4WjN6b1M2YTdNSTNYcWkwUUEzMnNtWVhjSFUtem9ieUV2M1hCVFNMZE8xX2Z6TXNKaUYxMHpkUmZhNTlVS2VzeTJ6RTQ0NVQyem9oVzJnV2NLbXlNTDBpd0N2bFpCN3BEdHhhclE?oc=5",
-    "source": "commonspace.eu",
-    "published_at": "2026-05-04T13:05:50+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:05:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "96cd709ae9aed54f34b363ae36c7e23c8a0542ad",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "Iran launched missiles striking US warships — direct military attack between Iran and US forces.",
-      "event_key": "iran missiles strike us warships strait of hormuz"
-    }
-  },
-  {
-    "title": "Centcom denies claim US warship hit by Iranian missiles - The Hill",
-    "summary": "Centcom denies claim US warship hit by Iranian missiles The Hill",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGRYQ25oNTFYSDVNYzdRbnhFLU1KWnZpNS1HekFtNVJEeFduTFVULV95NVc3c3hFeFFIeGNEbHRPTTdhRWVfUkVndGN6b0drLW9YeVFjVjZKcl8xb3gyV1YzR1YyanU5MWZZbjRlY051Y0g2elI4YTRYNWdjbVMydHlOMk5aT0cz0gGOAUFVX3lxTE9rYllLM1VfVnlLVlQybFNqVGFLc1dDOGlsNDl1a1dXNXYxekNKaW1RY3dUTkdtSXdUZHQ0NWdjZlVKR2w0dDcxUnlFbWNBa2FPLUgzb3dvMnQ4TktVNldORFFaNU5HR183SnB1QnN3VVRSN1lWQnNJVlZVTVhwNzhsWXpSVmZFd19fR244U0E?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-05-04T12:09:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:09:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d458623e84c7e036705c5982b72a40f1925aa590",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.4,
-      "reason": "Claim of Iranian missile strike on a US warship heightens tensions despite CENTCOM denial.",
-      "event_key": "centcom denies iran missile hit claim"
-    }
-  },
-  {
-    "title": "US and Iran trade claims of missile strikes after Trump announces plan to 'guide' ships through Strait of Hormuz - Yahoo Finance",
-    "summary": "US and Iran trade claims of missile strikes after Trump announces plan to 'guide' ships through Strait of Hormuz Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ1JGeWVqTmwzMkdnU01zenVSQjR1Y1BUVEdudXdKU3VCSjNzM1Vtd3F2Ml9YNkd2M2xIQlZJQzV0TVpZTW95akNYV09GM202TlNuN2czZFNWWURONDBGSVlmLXhVckxuNEJ2ZV8wRjRva2NXSlNqNjdNcjZyRmJEbWlJdXlOTU8wQmZWWUJuNzg2VWhqUjU5TTdfVTVFVjZvRFcyOWtYU0RQWk9TQlpHN0xhbEljUHRuWElXcUZybjc4X3lMbWNSU3J4T2ZweVkzOGdic0dJYTFLX2FMMWtfTnVLX2dZb212OHQzUW5heE1ZRHZnZHl3WU9nbw?oc=5",
-    "source": "Yahoo Finance",
-    "published_at": "2026-05-04T12:42:03+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:42:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2d2e11f52e6367209b56b68d9bdbb7b63ca95bca",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Mutual claims of missile strikes indicate direct military action or retaliation between US and Iran.",
-      "event_key": "us iran missile strike claims"
-    }
-  },
-  {
-    "title": "U.S. military denies Iran's claim it struck U.S. warship in Strait of Hormuz - CNBC",
-    "summary": "U.S. military denies Iran's claim it struck U.S. warship in Strait of Hormuz CNBC",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yODBwTlN2c0dySlV4RGxpS2luZmFWMElxeUp1b0hucnJxYzhlalNJbVMtbWxFdjZDRWdnU2lNOTlOUWRzenVyRnhqWnIydTR0MDhGcUlaa05mUTZiWVdEZGFVa1ZhT1hFVlByTEVlMUdwUFc4OUVF0gF8QVVfeXFMUGFYeDVQV3J0dzI1azNKSy1SQzA3Z0NjbmJvVHdRMEI5dW9zR3h5dUhrbFhpakcxUGptX2hvVlp3ZGdjNkh6S1E0Z1JtbzhNN2pXcFYwX2l5VUlXLUNiT0ZDN2pmZElOTUZDdHNIXzhnN05OTXBHaS16eFVvcg?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-05-04T13:08:33+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:08:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "525cdb6bc696be3240ebb94521d0f7f3535bf3ed",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Alleged Iranian strike claims and U.S. denial raise tensions though no confirmed attack occurred.",
-      "event_key": "iran claims strike us denies strait of hormuz"
-    }
-  },
-  {
-    "title": "CENTCOM: No US warship hit despite Iranian claims of missile strike - Naval Today",
-    "summary": "CENTCOM: No US warship hit despite Iranian claims of missile strike Naval Today",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFVZVTlOYkRsZE9ZNUpyQTZ5OWRBV3NJSzdCdXJfUHRyYTFIb2tZRTJ2Qk52WkNnd2ZTQTdJejNEaTNuOXZrSGRpTWdpT3VvdjdjdHFLTXo3Y2llVGt6YTNoOUtHRFBVNGJSVjZnZk9Wb3Nkal9nUmNsNm1VbW9GaFNzRmIydzljb3FTVTFZRGE0TmZTYXl3OXJWOTljcVdlcXZGVUpFZGY?oc=5",
-    "source": "Naval Today",
-    "published_at": "2026-05-04T11:25:09+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:25:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9f8095cbcd6c9de8ade55fcfb798c9fce01fa616",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "Iran claimed a missile strike on a US warship; CENTCOM denied any hits—direct attack claim between Iran and US forces.",
-      "event_key": "ir claim missile strike us warship centcom denies"
-    }
-  },
-  {
-    "title": "Oil Prices Jump After Iran Claims Missile Strike on U.S. Navy Vessel Near Hormuz - Crude Oil Prices Today | OilPrice.com",
-    "summary": "Oil Prices Jump After Iran Claims Missile Strike on U.S. Navy Vessel Near Hormuz Crude Oil Prices Today | OilPrice.com",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGNNcVBINkhZWTMxSWxrTnYybjVTVHE4WTdfVFhzWGxCZ3lkWHBZR0xUR3o0UVlRcHlNb2JSN0Vxc0xCbS1NdWVYM1dIOXZ3SWRaSXpPLU11YVNpZ1JSZ2RFZmdnNXEwbVE5RjZudTR1MWxENngyQ2Q1UktpU2lMUEd4cXB6ZTBjRkhUOHJ3NjhiMl91ZGUxOEY1QU5rU2ROY295Zklfdnh4dkFIZGRzcmRwXzYtT0pBQTNJYmdMbENCeG9meDcwWXRwMUpsaEXSAdQBQVVfeXFMUGk1aXd6YXFqTUZadl8zbXBoSl8tcnVtNEpOQ01qN2xWMEgyV2wxWjRVWE44Vmd4bUhXYzJsd005emplQzUyNnFWME1VTVpOZE5xNDQ3dmdFQnFqWVRYcF8ydHRDRGwxUmlydnZhdlRuWXdRbnlNOUVsQ2RLNnBxNzYyT1lteE9OenpQMThwQnlxaE1JLW9qVFBlNWFTMDlVa0pxd2wtR3pfUDFKV1RwdDhQU2FTSkNxOHNtbko5S1Ryc3V2M3NCZlBMV2lYZnNYZHBuM2Y?oc=5",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "published_at": "2026-05-04T12:47:19+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:47:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "450e8c8c8177ac5d0adde422c84b7a0714954542",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claimed a missile strike on a U.S. Navy vessel near Hormuz, indicating a direct military attack.",
-      "event_key": "iran claimed missile strike us navy hormuz"
-    }
-  },
-  {
-    "title": "Iran-U.S. Dispute Hormuz Strait Missile Attack Claims - MSN",
-    "summary": "Iran-U.S. Dispute Hormuz Strait Missile Attack Claims MSN",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmhfazczaFRhNGFSVldUa1owTDFLellNMjlFR3RSQUNRWks4LWMzaVlTRlNtM0ZBUVBIOGNSQzBwdXdpUEQxSU5vRnRPQWhHUmc4TTJXR29JOEVrRlk4N1JBYlJZY0NHSDZJVmk5ODJyMzhGNXNaR0Q4TDhIX1AySlVEajczeDMtazZGdVRRUGo1U3FBbzVKZHVDQmc4N2xOZ1hN?oc=5",
-    "source": "MSN",
-    "published_at": "2026-05-04T12:58:44+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:58:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f9e7776c8afd232a9b27083e2520f58a8a27e5c5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Disputed claims of a missile attack in the Strait of Hormuz heighten tensions between Iran and the U.S.",
-      "event_key": "hormuz strait missile claims dispute"
-    }
-  },
-  {
-    "title": "CENTCOM denies Iran missile strike claim amid heightened US-Iran tensions - Crypto Briefing",
-    "summary": "CENTCOM denies Iran missile strike claim amid heightened US-Iran tensions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVJxQTllYVZPZXQ5N2g3TmxZZzRQeE5MSDBiampwMG5OcUlpV0ZXZG44YnlNcG9XNUdpbWItM01XOVNBc0hocTlGU3NLNjFZZU1RTXdXQTJhWEZ1VGZtZXVnd3ltdFU0aWUxdDNEMVdTX2pibXpMYTl2YnNNQ29waUwwcDd0QWdVU0NOX2EzV0ZlX2VpN2w5dndqdHlyOXdMXzhz?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-05-04T12:14:31+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 12:14:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8a2587d51209863b1f3b8d34d16db13c74f2111a",
+    "article_id": "ebb3e199b2ca3a78d99891c7b69ab06e472ecfeb",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "CENTCOM denial undercuts reported Iranian missile strike, lowering immediate escalation risk.",
-      "event_key": "centcom denies iran missile strike claim"
+      "reason": "US denial of Iranian strike claim and reassurance that ships transit Hormuz reduces immediate tensions.",
+      "event_key": "us denies iran strike hormuz transit"
     }
   },
   {
-    "title": "Iran claims missile attack on US warship; Washington denies strike - Firstpost",
-    "summary": "Iran claims missile attack on US warship; Washington denies strike Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkNoakZsWmVGN3NoUmV1MzZwZHQxZThfS1FEdEZNRGRFWHVJSWpQWDgtRjE2aFhVMGxLejJqSDJESFBXeTdmUUQtREN6Z0h4SXR0YjNjRm1FcUdIdW1lNlRrWHBQd1ItN3JfcC1QMWNGSlJPd3pNLXY4WHgwZWV4S2h6RzJueUlweWxfSFFKb242ZHlfZnRiSWJjTzFmTXhPUTBmazFIUzlkUy1Iemoxc2hEUTlXN2d5eFNYSFkzM2YtVHNEMWZrR0pfejdaMjhrQnNPMTctZk1IZ9IB3wFBVV95cUxOTExCTlNvUjJIOU9EekNjeWh1d0xCMm9PdzdoWllHLUxwQnRQU1JNU3Y3Z2tQVFV4S3FaTF9lTVVtVDl6OWZrem9NX0xrZ1hIYkZ3LTZwdjFZM25kMFMyWWtfV3k4R1BvV3FISTlmai05dlhaS3VUVEZOX0xjZS0zSVN1VGtMUnRBeFNNSV9ULVVvVU9kN253VDUtWlBLcExvWnEyQl9pUWFtSXhBNm5tci1oTjlpSWt0b05TU2U0UFpHZVBxbGlsaW9nRjh3Q2t0UDJGckJ1QnN5U1oySEg0?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-05-04T11:14:42+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:14:42 GMT",
+    "title": "Iran claims strike on US warship as US attempts to reopen Strait of Hormuz - Long War Journal",
+    "summary": "Iran claims strike on US warship as US attempts to reopen Strait of Hormuz Long War Journal",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDlyaWJyX3VwQzhvSDhGbzVNZkpHYXF1SF9NZUdMSG1OQkJpN2tEczBGYkFlVkVkUDlWblVTVzZGeFlhR1Z0dHMzVkc0dDBTdzk0cGoycVE5b1pWSXExTDNEQlBlemlmNDctbTQ3MV9TQWoyWTQ4djI1dlFCdFkwZXR3ekZXSEttcWVNTUgwUEJ0SDhwcXRnRktfVUNxdUlMMVFDSmNyWklMWE9jaEx0TmRJTFRTT1FpVlAybTF1ZHo5aUZf?oc=5",
+    "source": "Long War Journal",
+    "published_at": "2026-05-04T14:07:42+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:07:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3c614608a3248daee40b7b7a46581c0979111ffe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran claimed to have struck a US warship—direct attack/retaliation against US forces.",
+      "event_key": "iran claimed strike on us warship"
+    }
+  },
+  {
+    "title": "Iran Fires Warning Missiles Near U.S. Destroyers in Strait of Hormuz - Kurdistan24",
+    "summary": "Iran Fires Warning Missiles Near U.S. Destroyers in Strait of Hormuz Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRk5lUzdqV3huRDBaVTBPNEk3MXA2WDJiX0pkWERxSFVHb1N4WDRmcHE5QVdWbEdROV9EZE9aR2Nfc09MMG9KUGlFWlQ3dEJueE82ckwxOFpSUTJSTmo0N1lpeEFCY1dHX1g4NGdqNmxOUVFqZU1zSFRSRE5vVzgtMm9ZMEFFNzRPR09JMmxSOUgwZTVWN2cxY2I4REZ0eGpYa0c4aW1lU1J5eHZmM0hV?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-05-04T14:28:26+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:28:26 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5e0d8d4932bfd47070105b6897ce4ce63a5bcd76",
+    "article_id": "ec0ae72cbf82c537785859919cb5b245c0c9da54",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Iran claims a missile strike on a US warship, despite US denial—alleged direct military attack.",
-      "event_key": "iran claims missile attack on us warship"
+      "strength": 0.9,
+      "reason": "Iran fired warning missiles near U.S. destroyers—direct military action/hostile engagement.",
+      "event_key": "iran fires warning missiles near us destroyers"
     }
   },
   {
-    "title": "US Navy escorts ships through Hormuz as Iran threatens escalation - www.israelhayom.com",
-    "summary": "US Navy escorts ships through Hormuz as Iran threatens escalation www.israelhayom.com",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDdXUmNVak92bHE5SFN5U1lEXzREdWhjeDRHWnhpNnpPV2pjYktYTmVXSUFkQ3gtWVpqYlhiYnVPMWNnZ2VqcXhhRl91Y2t4UEFuTlppeWV1aDNDTFlXcUJBVFlJUWd1LVQxTFFSb1MzOE1MUlptMnQzWnZ0TFg5TndGTEExX2NkdWtwZnkxdGJub0lLU0RzaEhEa09vT0d4OWkwdmdKamI?oc=5",
-    "source": "www.israelhayom.com",
-    "published_at": "2026-05-04T13:11:17+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:11:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cc906b1f158cb332b7b88289293bccd43e95481f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's threats and US naval escort indicate rising tensions and hostile posturing, not a ceasefire or negotiations.",
-      "event_key": "us navy escorts hormuz iran threatens escalation"
-    }
-  },
-  {
-    "title": "German minister urges Iran to negotiate amid US-Iran tension de-escalation - Crypto Briefing",
-    "summary": "German minister urges Iran to negotiate amid US-Iran tension de-escalation Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTm9XamNIVnRMbHJqcmxHRld4Yzd0ZVFpZ3JuaGltaXdlMF9aVWQzS0E5R1MzemFrcFEwTVhqSFVxZVBOeTFCTGo4U0wyc2lIWUdSQlF2Zk80VUZURXdMamFVYXFOdFJCQThuU3RjbzBJbzVJQmJ3UTBvNEROeEpITzVsR3MxZGlfVy03dllzdG9jcU9ibzVhYklrYm91RjNjVER6dA?oc=5",
+    "title": "Bitcoin surges past $80K amid US-Iran de-escalation, easing macro risks - Crypto Briefing",
+    "summary": "Bitcoin surges past $80K amid US-Iran de-escalation, easing macro risks Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0w1MFNVYTc2Z3FQVWVENTZmSGFsZGR2bUdkYjFaRnpDTEJSWnd4TE51RjZNYnV4eHduaF9hNko5RjRHaWtUMXZBVXRSVVcxRHFlYWRia0pxU1NKeERjUkZCWWpseXk5VHRxLWZ1TjUzckxTT2twTGVZOGh6U2YyTllJLTFBQ0ctVGd3Rm9mZWpDbGlRU21NZVBjMUhzZw?oc=5",
     "source": "Crypto Briefing",
-    "published_at": "2026-05-04T13:06:52+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 13:06:52 GMT",
+    "published_at": "2026-05-04T14:25:24+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 14:25:24 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f6727582d32a155c11c3d81afa5b8eb90bbaa93d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "German minister urging Iran to enter talks indicates diplomatic push for negotiations amid de-escalation.",
-      "event_key": "german urges iran negotiation"
-    }
-  },
-  {
-    "title": "Gold, silver rates today nosedive up to 5% as crude oil price soars after escalation in the US-Iran war - Mint",
-    "summary": "Gold, silver rates today nosedive up to 5% as crude oil price soars after escalation in the US-Iran war Mint",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQXpIaFNBUmY4cE9RVzJZWWVXMnl3cmFkWjlvQVRiSW02UDlMS21SN0Rva204RF9kMFlqREVBSHM0YXVKQzNMMlEzQTE2cjMtZ2tlTlhLQi15R3hySC1DSHVLR3lJZFo4YVFJWEVHSGdhQkpTYjBKMUhmaUVidjlsZldjNEkzdlRld1E3Zy1vTXJPbmlhRjdSNXdhOUx5NjJUY2Foc3Z6d2dGT3BObDkzNkxrdkEwZzd0bWZMUE1Qd0J3WHI4bVQwVjVueWRvUktSeGdFc2x5THZzckFILXJla0x0eC1nQl9WVVdDVGtXeU9SNkdpZHQwTEo0TEVwYVRhWUhrWnBCekhFMmPSAZACQVVfeXFMTkRzd2ZRdTNJMi1uZU9iTHBCOU1ZcFREb2s1Rl9PRkpxZTd3d285XzBlMVV5V1dNUDJvWk8zTWxUcGpqWVZfZjNoYko3NUFhUFNRLWpESzUtdjlNTlFsOW9OVldUMEJFV19tYUVFcEd5UzZ6WE14RGVKcndSMHc3bmFUM09vekR5bFVVV0ZjWFFWSGNna2pONHpnSVhrX1ZtNkV3d213cV9zME9YSnhkM1dTcFJhSERqWE45cTdBSWlkOFczQWYtdnhMLVhjUW5oZ1J5bXdCN2pQRGlZa3BCSGhRNU42bXREZG12YVEyd21nSmFQQ0xTSnlHdWxGbGxYMmxvN0QzZDZYSHdOU1ZHcEc?oc=5",
-    "source": "Mint",
-    "published_at": "2026-05-04T11:09:38+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:09:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1c90b29df7d2ecdd27887643779d5247b669fa64",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Article links commodity price moves to an escalation in the US–Iran war.",
-      "event_key": "us iran escalation market impact"
-    }
-  },
-  {
-    "title": "Emirati oil tanker attacked by two Iranian drones in latest escalation - Daily Express US",
-    "summary": "Emirati oil tanker attacked by two Iranian drones in latest escalation Daily Express US",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDVleXBfTVFvLUx0azktOWpDYW5YTDRmcUYzaUFjV0JLZFpFMDVmQUg1dHNrV25KZ2FIWl9OOS1uUGtxdkFXbjNNalF4UkVjYUI3OEphWjNFX0YydVlCV1lWMlB2alhvb0tERzRYb0NWeHlfNnhkOTZXZjBPZEE2Y3VXTy3SAYoBQVVfeXFMTk0wbEpTdlp0S1V4dDNlR09FcW1ERmNyZkhIZU1ac2VadDR3eXBFM3FmTnpOQkM2YU9GakY3cXFicFRMekNDcUFjYkZTUzk2dVNKUE9MaDl5bEI4dEQ0eVYwWFlHbHotVk80a3NmcUc5NUtkNjExQmpiRTNzdENhUVg3T1FTNkdyWVZR?oc=5",
-    "source": "Daily Express US",
-    "published_at": "2026-05-04T11:54:35+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:54:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "956818ab96102a866acf0d4f720dbdabef2e0980",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Iranian drones attacked an Emirati oil tanker—direct violent strike indicating military action.",
-      "event_key": "iran drone attack emirati tanker"
-    }
-  },
-  {
-    "title": "Egypt, Russia FMs discuss US-Iran talks, regional de-escalation in phone call - Foreign Affairs - Egypt - Ahram Online",
-    "summary": "Egypt, Russia FMs discuss US-Iran talks, regional de-escalation in phone call - Foreign Affairs - Egypt Ahram Online",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXI5UlAzNXphV0M0cjNETXJWQUJTTmRPSkc5akx4NTBLQXU3eGZySWMtOHZtd0tyQ3RMem9FRjFreEVCMDlNYTdrMkM0UDJJY1VCRVpEMW0yY1I1X0Y0bGdsYjVaSFBBMXJyeGhId2F5SGxxajB1THFsbUhmekpaV2preHBrR29rclQzaWMwT3RwREFEUERYaXNfY3hBLUxZX0dYeThvRmZZaUVHUE5COURheXhPRk9pQ3BpcGxLUWpXUFEzTllNaG1wR24?oc=5",
-    "source": "Ahram Online",
-    "published_at": "2026-05-04T11:33:56+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:33:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "397d4c4b6f8d17fb4ea20836f0b8cec60697dcee",
+    "article_id": "9fae7acb4d924008a368045d9b83f1e9f09c5929",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "FM phone call discussed US-Iran talks and regional de-escalation, signaling diplomatic calming efforts.",
-      "event_key": "egypt russia fm call us iran deescalation"
+      "strength": 0.8,
+      "reason": "Links bitcoin rally to US-Iran de-escalation signals easing geopolitical risk.",
+      "event_key": "us iran deescalation market impact"
     }
   },
   {
-    "title": "Reuters: Senior Iranian official says Iran fired warning shot at US warship - Middle East Eye",
-    "summary": "Reuters: Senior Iranian official says Iran fired warning shot at US warship Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmI2OWljMDJPXzI1T3J4dnU1MWt5aW9WeUVhWERiN3NWWnZuZ2ZqRTVwM0tfUUU0RE9CcS1hUGVJRnZKbTZ6WDBjU0kzZzVrTndQUXpENlk3TlVKVTZQOUgwQ01lWEdabWdqaS01TmlDTloxZGR4aGl4UE5sc2xySzJOd3ptTGw3anZVUkhvN0xxdlVkS2hSMktHSF9BcWZtTmVESDhNanAyYVV4WEl5S3k2UWVOSDBtV2dIc3NqeDZLY080V2Iw?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-05-04T11:29:00+00:00",
-    "raw_pub_date": "Mon, 04 May 2026 11:29:00 GMT",
+    "title": "Iran fires warning shots at US destroyers near Hormuz - Anadolu Ajansı",
+    "summary": "Iran fires warning shots at US destroyers near Hormuz Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0trbEpoYVdVMi1kOUxscVY4VTI3TWFUby1md0JKYXBfaTFKdkV6cExhSER1OHBlRkZZNG5aeFVfUmMyMTE5OTNIM0RMclF2M0lRcVU0Qm95R2pDNFhYN2lWNUNBUmJLOGp2bmw2T2QzZlpzMmdsbHJqRDY5d1ExeUpoZWlqblBYZTFYaktmbV9fNjdNVDU1Q0dSdVJMRFItQTVVRXlxZHM?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-05-04T15:38:06+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 15:38:06 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9716ba8ec764c485b72922547a5086df264ecbda",
+    "article_id": "59c9fa90e193cb97a7467a117f4433fbe563e4e8",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran fired warning shots at US destroyers — a direct hostile naval military action against US vessels.",
+      "event_key": "iran warning shots at us destroyers"
+    }
+  },
+  {
+    "title": "US Destroyers and Cargo Ships Cross Strait Of Hormuz After Iran Warning - Newsweek",
+    "summary": "US Destroyers and Cargo Ships Cross Strait Of Hormuz After Iran Warning Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuRUpJNWdpV2FMQVo5R2pIVHozVlk5ZndqOEhsb3hHcHg4R2t6ZVhuWW13ZnF4Qld3UVdCX19xaktkUmRjd1gyVkNhcm50eUxHV1BmNUtIekhOZEdUWk9SN3MyZThwNkEtUHpKaFc3STBJWWhYaTBLUkVSVU1BUjQ?oc=5",
+    "source": "Newsweek",
+    "published_at": "2026-05-04T13:55:00+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 13:55:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2dfa47d1dd661ed773f93277be753af5b0636d1c",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran fired a warning shot at a US warship—direct military action against a US vessel.",
-      "event_key": "iran warning shot at us warship"
+      "reason": "US naval transit after Iran warning signals military posturing and rising tensions",
+      "event_key": "us destroyers cross hormuz after iran warning"
+    }
+  },
+  {
+    "title": "Iran navy fired missile ‘warning shot’ near US destroyers in Hormuz, state TV says - The Times of Israel",
+    "summary": "Iran navy fired missile ‘warning shot’ near US destroyers in Hormuz, state TV says The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjRCNXFFeHpOY3FGMWFjTlIyOVNuRUpJWnNtempGYWJZNVJ0Z2xWSWNnYnFSem44dW5tSXVwbFk1RVFrMS1nNEpDSjQwQS1HbUN3OS1hR3RsOWlybXlrQVRFc0RZUUZ3enEtSExzM2ZmS0d6RkxsU2JHeUdycE5WdksybEd6akNHQW4tclpVdE9GcWVHMVVqNDU0bEh6eEFXOE5CcUR0ak9BRUVWdU9wVFhhYTFYbnpjbkNmbkI0YnB2TWc?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-05-04T13:58:08+00:00",
+    "raw_pub_date": "Mon, 04 May 2026 13:58:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "17ec3c7a275f782ddf8fe3991b1a4b10dd034b1e",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Iran navy fired a missile warning shot near US destroyers in the Strait of Hormuz, a direct military action.",
+      "event_key": "iran navy warning shot near us destroyers"
     }
   }
 ]
