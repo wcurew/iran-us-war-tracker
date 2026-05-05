@@ -1,189 +1,104 @@
 [
   {
-    "title": "Stocks sink amid fears over US-Iran ceasefire - The Mountaineer",
-    "summary": "Stocks sink amid fears over US-Iran ceasefire The Mountaineer",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXRycjZrdmMyYVE3Zm41NlB6RWUxVDBDQmdvOWtkS3dDZlJOWTRxY0tZYXJJOVM5U2ZERUxzVlJCSXFhbEw5dlZVVzkxaGNHaC1UMW12VFpTa2htcTNua0s0WGdDRUxXZm15dFF0Z0hHV1JaNWxkRi1JYlVXSVQ2Mk9oMnE5cGtodjlVaWtxcnFaREdGajhRVzQ5amdCcVVnVzI0YW9va0ZkQzBrTGwxTUtqTHFOSzhBWkhlLWNBdElKZE9Ba0pqX3FhSnhZeWFpMnQ1UXFnRQ?oc=5",
-    "source": "The Mountaineer",
-    "published_at": "2026-05-05T02:38:09+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 02:38:09 GMT",
+    "title": "Middle East truce in doubt as US and Iran fight for control of Strait of Hormuz - Reuters",
+    "summary": "Middle East truce in doubt as US and Iran fight for control of Strait of Hormuz Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjY4eVh4Y0MzcE5FOGdNRTZqS1pOTV9Za3ZsUjRiR3c3ZGg3dklxT1BTLTRzUlNPUFJEai1HQXIyM2hNNkhxU0tGdnZxVzd2Y3I3TXF6dlFoMVJYYTlubDlZaG1JQ0tFOFZPNXpTMmR0akItbVBrbGJFLS0ybzJNUTFmdFlHcGRmVXh6NEtfQUNUa2pFejFrZ0pyMlV6MXlzQ3Q0RHFwRmFqaS1udGdRRzNSRjQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-05T07:49:51+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 07:49:51 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3a0870f73ee0971c48c51af27e0da85e8bc524cd",
+    "article_id": "89ae2c5d91898bb46ff455df7993254aeba9fced",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Truce endangered as US and Iran clash over control of the Strait of Hormuz, indicating rising tensions and potential breakdown of calm.",
+      "event_key": "strait of hormuz tension"
+    }
+  },
+  {
+    "title": "Iran reopens Strait of Hormuz amid US talks for potential blockade lift - Crypto Briefing",
+    "summary": "Iran reopens Strait of Hormuz amid US talks for potential blockade lift Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN01aUDV1QmZBdEVtTEMzSTZ1cW5Obm1vX3hjSjVMckRkTk9CWElhZTczVGpzSzZVdDFLN3FJb0NxVk9xTWlxYmlaelRycmZXcnAzMkFFRUIzT3ZBWnNfajJOSjM1WDR0eGxXYlVNUlYwbG15YVdrYUpwbHV0emtIa2xXVFBLWVBfakpzZHQ0QWhiNkhEazFzUkh6MmxlQ2lK?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-05T05:49:44+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 05:49:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6c7b4bd2209eac27223b4144fd94bb5fa38672eb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran reopened the Strait while engaging in US talks about a potential blockade lift, indicating active diplomacy.",
+      "event_key": "iran reopens hormuz us blockade talks"
+    }
+  },
+  {
+    "title": "Oil Holds Above 100 Dollars as US Iran Clash Shakes Global Confidence - Modern Diplomacy",
+    "summary": "Oil Holds Above 100 Dollars as US Iran Clash Shakes Global Confidence Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEZOV20wdGF6R0dqeDQwV0JYZFZKLXEwT3RNdFNhZnhRallYSmgxTVhfcnNBampnZG9uSkJNTGoxc2tJREc3X19XM1F4TE1fRUJEcW9uQ3JZX0ZBRGVFaXdjd2w1Y0FsYnRKR2xMbFJpdjJvbU91aFY0UE9xN2RwSmZsazhLOTd1cm03WkhQbU1kazBJaW15M1MtM1I0aWJEQzhyREpSME5LTEVY?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-05-05T07:04:26+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 07:04:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3ce957c5d04b332c55bd79e20abc3902526fae98",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.3,
-      "reason": "Markets reacting to fears that a US-Iran ceasefire may fail, implying rising tensions.",
-      "event_key": "markets fear ceasefire failure"
+      "reason": "Reports oil rising after a US–Iran clash, indicating heightened tensions rather than diplomacy or ceasefire.",
+      "event_key": "us iran clash oil market reaction"
     }
   },
   {
-    "title": "US-Israel War on Iran, Day 68: Ceasefire Unravels in Strait of Hormuz - EA WorldView",
-    "summary": "US-Israel War on Iran, Day 68: Ceasefire Unravels in Strait of Hormuz EA WorldView",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6SFBXV2VTRnlRMnFfRl9oaThUdk9XRktvTDJMbHQ0ODJmZVNDbjNJWlpEdUxYV2pDYnZ1VVpQNFM4V1F0cGw3aE5LV216NzNUVzEzWG9DMTQzaFJMZ0xyUVp1RHBhZnhza3JHZ08zcGgxS2NiVy1hTDhEQXZ1cXVuN0lWNGU5VGxSODBULTFseVlMTzBKSFlzbmdnRkhPcDdMbzlnSEhqVmkxemtn?oc=5",
-    "source": "EA WorldView",
-    "published_at": "2026-05-05T05:10:31+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 05:10:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "936769adae7735767c02e38b7d506131fb7ed2fa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Reports a ceasefire collapsing and renewed hostilities in the Strait of Hormuz, indicating rising tensions.",
-      "event_key": "ceasefire unravels strait of hormuz"
-    }
-  },
-  {
-    "title": "US-Iran ceasefire on brink as UAE reports attacks - KTBS 3",
-    "summary": "US-Iran ceasefire on brink as UAE reports attacks KTBS 3",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTUtRMWVEWEtROWlWWGc2WEI4bF9UWV9kYm5Td201RHdEZ185NGNkY1JJMFNiWjJoamVuQnFQdHhRbFdZcDM1UGdDSDdWMTV5TGo0UWRsR1dJVTJYaFMyMmRsZS1PTGtNdzdXZ2xtc1MzenRRLXJXbXRva2g3S2NZOVlWd2hDa0c2T1hvTzVMaW8wWGhjTG8wUk02NDVpYTdieHZRYXozRXg0STVheVViaHp5U0tzcEZkNEtNZnM3S0QtVEo2cEZUNlU4Y1Z4YjA?oc=5",
-    "source": "KTBS 3",
-    "published_at": "2026-05-05T05:15:37+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 05:15:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c8a39b1868bdfd15410b2d0c2741b938efd1b7ca",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Headline indicates an imminent US-Iran ceasefire amid reported attacks in the UAE.",
-      "event_key": "us iran ceasefire imminent uae attacks"
-    }
-  },
-  {
-    "title": "Iran warns US against ‘quagmire’ as Trump threatens retaliation over Hormuz attacks - madhyamamonline.com",
-    "summary": "Iran warns US against ‘quagmire’ as Trump threatens retaliation over Hormuz attacks madhyamamonline.com",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWG1EMDVDRnk5eUFwQmNTRjdDMmx6elkwQ1Z0bU5UQ2FkM3prNHAxZGU5cDlVbEtYN0pnY1FfUzhBMkpISWNYcTR2cThBVHo2TGY1RzBHN2NDNDlqWWF4X1NxX21PdXVFTHJWUzJXOERpY1ZJLTN2WENpUW5aSmVNeWU3OXo1ZWdKZTFtMVczYWNjOGNPWGdpczZlWnRjQmtDcTE5VkZwanZsd3o1M1VSQTJXQWc5VVd0OHdGYUdSdm5NVjFycGtCSdIBzgFBVV95cUxNYmJkR193NmZSTWlOTFNHOG5xQlNPNERQUUthVHlGbzJ3eXg2WEtpemExS0FlMjRMbWtYeFZ6ZlVMX0lFQU9XTHFSRFNhRDlabjJCS2Q4eWZNQnYzNmFneFBHV3VMbzVnWHBrSTRSeXF1NTRyU3VxVGZ4cHdxSWVPbFZPampITTcwYm5mYTJzRm9aMW80MjY2ejRweUdSbDhQZ205cUhSek55dnRtX21LQlhQSUhsQ3Z5R3V1M1FFNnJKNFduV0oyUlhNTnF6UQ?oc=5",
-    "source": "madhyamamonline.com",
-    "published_at": "2026-05-05T02:54:08+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 02:54:08 GMT",
+    "title": "Iran threatens retaliation as US-Israel military campaign intensifies - Crypto Briefing",
+    "summary": "Iran threatens retaliation as US-Israel military campaign intensifies Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlVtRDhCVUZwWU5aMmJkaEczcTlJM2FnODFGN3pXcmhmN2YyX3ZLWVJtZ2NuRjhLbi1VVEpsSkVmMXlkdW1Xa3hGd2dTbmpQOEZITmk4bkt6OGhDWC1CaWNMWXp0TFZtSVBuRVFETjhSeUdFQVZlOHdPODFKQ19xd29YaV85cFNqNDdQNGhYRE9tOHBxMGxjYmtsRFpWZw?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-05T06:13:57+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 06:13:57 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1f273bd3c8cb7bec477da05e28d4ccb55632e501",
+    "article_id": "183bed585bb45f55c1c78ae7e646b5a96699b149",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.9,
-      "reason": "Mutual warnings and a US threat of retaliation over Hormuz attacks signal rising tensions and hostile rhetoric.",
-      "event_key": "iran warns us quagmire trump threatens retaliation hormuz attacks"
+      "strength": 0.75,
+      "reason": "Iran threatens retaliation amid an intensifying US-Israel campaign, signaling rising tensions and potential escalation.",
+      "event_key": "iran threatens retaliation us israel campaign intensifies"
     }
   },
   {
-    "title": "US strike in Strait of Hormuz killed 5 civilians, Iran says - TRT World",
-    "summary": "US strike in Strait of Hormuz killed 5 civilians, Iran says TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XeTdhNHEtVUxGdWZsMUx2TmtZZ0lvdEFTSGd1YWFzRDJzZGZGYktYUkY3WXRZZW1YT09nTTJ0TUFkWmp1al81X3gwdDJ3QXlvWnRzVjBaM0M?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-05-05T03:42:36+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 03:42:36 GMT",
+    "title": "Trump chooses middle path as Hormuz attacks test US policy on Iran - www.israelhayom.com",
+    "summary": "Trump chooses middle path as Hormuz attacks test US policy on Iran www.israelhayom.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlgybHVNeE5jeFNTZl93RDBvUmJLT1k0aVNQQ1FVeTMtcTU4cFlQbVMtNjVnRGRZT25Qb1FDNmhzbGIyUmZmbjFSYS1OSXJ3Q1JDcmt0QmIxVG42Y1J6emxwLTVIOHNaVzlKSEdUaDJtSHBjTlhvckxpQ3cxVGlIMHNfeV85RFQ2Wmg1dmNMU0VJUlVrcTV5c05STGhPaWFXanJPbC1HSGZvQQ?oc=5",
+    "source": "www.israelhayom.com",
+    "published_at": "2026-05-05T07:38:49+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 07:38:49 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6c2c64ee7c4aa21141a22e761e8704097094fd9d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Report describes a US military strike in the Strait of Hormuz killing civilians.",
-      "event_key": "us strike strait of hormuz killed civilians"
-    }
-  },
-  {
-    "title": "Saudi Arabia backs Pakistan’s mediation efforts as US-Iran tensions escalate - Arab News",
-    "summary": "Saudi Arabia backs Pakistan’s mediation efforts as US-Iran tensions escalate Arab News",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcEh1U2dLY3BPRmdMREZTU1gwRlJSNUNHUWxoZmtmUFV4VXBnNndoejVtX2hHa0N4MGFMMDE1eUwxUFhtRTJVek9aX05qamRNUl9qVUdrTkRKUQ?oc=5",
-    "source": "Arab News",
-    "published_at": "2026-05-05T04:27:32+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 04:27:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a59a409e80535f82362f1bc15e6e0c46530aafa8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Saudi backing Pakistan's mediation indicates active diplomatic efforts to address rising US–Iran tensions.",
-      "event_key": "saudi backing pakistan mediation"
-    }
-  },
-  {
-    "title": "US-Iran tensions: India reacts to Fujairah attack and calls for de-escalation - Gulf News",
-    "summary": "US-Iran tensions: India reacts to Fujairah attack and calls for de-escalation Gulf News",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemlUQ05keWQ2YUdGZUo4R1dNNVpCMHkzR01tTXBBcERpVHQzXzR1ekt3YjhrM1BBdFJlMG03NVNOVklMQTd1aDJsb0I4RFBKdE9ra000N19sQjgzX2prUjlPNmZkeEt4alQxUVJ2M3doWXBiTGg1N09FZmhOdlJ0aS1ueUFxZ1M1eEp2NjZKTGs1dC1mQzktd0Z5U2lMaDBsLUFvV2MwbzZCX2drWXR3SXV0b01FalVkcHViRGxCYUJJY2U30gHaAUFVX3lxTE9pd3NIQ0VkN0FWRkszaGNScGctU3RXQm16LWx0cnZncklpNTZXeGlIRXZRUWhucFp2aV8xbG5rQ3dGcnNLclV2ay1VOTMwUHNGYTZxWW44T1VhbkRxZWZjclNSTGNJNVZHc21adFh5NE0xSkQyVGZ5VjZGZlplR014bUJqZGNqdzdBcktxNFNxSXlhVWZBclllcjNTbGlid3Q2MHJ2TGItSnVRby03c0VCaVg5bmJlSGZzWnlWY2oweXo1X1FHY1pkeU9FRU1tcmtjdzJBd2dfazFB?oc=5",
-    "source": "Gulf News",
-    "published_at": "2026-05-05T04:57:11+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 04:57:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "49b19ee704cda7a554fdf88204c1878352595ed7",
+    "article_id": "ab00df0a4860d5b86a7ca375fec0f2d04f7d6b58",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "India calls for de-escalation after the Fujairah attack amid US‑Iran tensions, signaling restraint rather than military action.",
-      "event_key": "india calls for deescalation after fujairah attack"
+      "reason": "Reports US choosing a middle/ restrained approach amid Strait of Hormuz attacks, signaling avoidance of wider escalation.",
+      "event_key": "trump middle path hormuz attacks"
     }
   },
   {
-    "title": "Saudi Arabia calls to 'de-escalate' as US-Iran ceasefire on brink - daily-sun.com",
-    "summary": "Saudi Arabia calls to 'de-escalate' as US-Iran ceasefire on brink daily-sun.com",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1NTbTBsLUhvaGlTdEg3OUYyY3pDUTdFaGNNOFlzdXBKYnpCQlNfMER3TjlheUpKVXoxMGtya3hUcmlwSGp2d2FiWjExQWtqc0RjMmF6M0hNMjA2Y1ZiYnZRc0ZqU1l6TmNJOFJVLW1BZ3JldDFyVjFjLTRNaUw0TG5WVnJBU1lnNDg0T3dCdDNwWWlBbDB3MnhBZFdab09OaE01Ng?oc=5",
-    "source": "daily-sun.com",
-    "published_at": "2026-05-05T05:12:21+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 05:12:21 GMT",
+    "title": "US-Iran Ceasefire Under Threat After Drone Attacks In UAE, Global Leaders Call for De-escalation - The Hans India",
+    "summary": "US-Iran Ceasefire Under Threat After Drone Attacks In UAE, Global Leaders Call for De-escalation The Hans India",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZG9iaWRpY0xYV016a2RTSXI3M3FSYy1wUVJlQTUyanY0NURodG1Ea2ZwamNCT2RiMTUyQTFLTGZEVHc1OUtfTTFERnl6OG80V2ZuM09PTHVzMktFdXlxbGk3X21LZkZHN1ByQmg4eDZydDlLN3UzazNlNDdDMDV6VzhuaGZ6b2dmakIzZVd1NGRTMUpJZ2xidTFCa29VZEtzTkdhNDU5MXRPdEt2NThxYXd1TmZKOThCY2tHWjhKSkp6S0k0U3NBSW1DTkZXVDlrV2pxUVFUUU4wZFFGa2pKemJMWVVNd9IB6wFBVV95cUxPdHVNX29aVk9rNzZOdGNlN0ROeW41a2ZiR04zNWZBczd0Y3N6YUtRZjFlN3ZlbElhTU81amI3by0zSDl1N2E0ZjZLZldhYzFSSUNmZDI5bmZESTRCOGIwc1Nxd3JOSi1rTGJVbkgtRzQteUxvdV9tU3dfdnRTTjJ6Z3pPRHhFRFFuVS1pVzN4VXJLQXhVRUxFd3B4dEcxVFR1WTdORGNRd0FjSFdsVFJITzJITlgwVjYxN0JYZjRSbjJ3SXZYUlc2SS05S0hrcVB3aGtnYlhIRnpPdi1lb1NHZnZYUVh0UTZPZzFB?oc=5",
+    "source": "The Hans India",
+    "published_at": "2026-05-05T06:38:41+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 06:38:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b89bc7a73d5750fc039bcb6cf4a3c2ddeb322a86",
+    "article_id": "ddb319e12f0ebc0b628a2857e3ba718f5c45bb4d",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Saudi Arabia urging de-escalation while a US-Iran ceasefire is described as 'on brink'—a calming signal, not confirmed truce.",
-      "event_key": "saudi urges deescalation us iran ceasefire brink"
-    }
-  },
-  {
-    "title": "Saudi Arabia backs Pakistan’s mediation efforts as US-Iran tensions escalate - Arab News PK",
-    "summary": "Saudi Arabia backs Pakistan’s mediation efforts as US-Iran tensions escalate Arab News PK",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fZnQ4YTM5NWZjQjBwb1M0SE9NZ1c5NVUtb2FrNm0xcnNwQzF3Y2FrYVNkM0ZDVFZXM0lEVW9HcnBCSzhOc2JWNjJYVTNMRzVTalQ0Uk50N0g?oc=5",
-    "source": "Arab News PK",
-    "published_at": "2026-05-05T04:27:32+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 04:27:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "19162fd455d2dee531cc36a8ddfef6af6285f811",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Saudi support for Pakistan-mediated talks indicates active diplomatic mediation amid rising US‑Iran tensions.",
-      "event_key": "pakistan mediation saudi support"
-    }
-  },
-  {
-    "title": "Sky News Australia. . US President Donald Trump has delivered a stark warning to Iran as the country’s oil storage hit capacity. - facebook.com",
-    "summary": "Sky News Australia. . US President Donald Trump has delivered a stark warning to Iran as the country’s oil storage hit capacity. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSjZ5SW9XYTlFUG4yOGVKLW52b1g2aVFJQ0tkdGVlZDFuY3l1cjNPNVZ6VnRWT2w3Z29BRzljdGE0S1JJeTBNVy1DQTU5b0VKRjk0QnpOdmdQTC1tdFdIbm9YcWpRZ2VPbWVpbng3NktfSHVlZlNfbFNkLVJFeWU5R1NKQU45X3ZITGF3c0hXVXNqbnVDbVNWMFhEZ2w2WWVBNkFzbEV2ZDBRVXRUMUpBY2F3VXJYNkp3VzBPMldjX05odFlVRVpGdXFTakhkV2VfaVgyNXdxaEpIQ0dYNTYw?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-05-05T04:20:44+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 04:20:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2128eecbc01424b2e1cf75e18e907733ba18eb42",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Trump issued a stark warning to Iran, a threatening message raising tensions.",
-      "event_key": "trump warning iran oil storage capacity"
-    }
-  },
-  {
-    "title": "Stocks sink amid fears over US-Iran ceasefire - France 24",
-    "summary": "Stocks sink amid fears over US-Iran ceasefire France 24",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZE1rQlprOWVCNmlFSmtsUm1ucTJMWlBxblUzb1RLNWUza3JDal9MSHFULTVOLWt6WWd2VHFQN0puSC13cDRwcFZ0STJBVWlNTTl6c0pMcGZNZjA0eXc4Y3c2WTZ3X1czRkJuTDZ0TlNWeFVDOHZiMHNLbnFsUUxXTzZPQkgxYWl6cTJEUWhkZHJFdnlWSVFv?oc=5",
-    "source": "France 24",
-    "published_at": "2026-05-05T02:39:10+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 02:39:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aced2e8da529a295df98f932023f27008f52fabf",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Markets reacting to fears a US-Iran ceasefire may not materialize, implying rising tensions and escalation risk.",
-      "event_key": "fears no us iran ceasefire"
+      "label": "proxy_escalation",
+      "strength": 0.85,
+      "reason": "Drone attacks by Iran-backed proxies threaten US-Iran ceasefire; global leaders call for de-escalation.",
+      "event_key": "drone attacks uae threaten ceasefire"
     }
   }
 ]
