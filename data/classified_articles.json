@@ -1,104 +1,87 @@
 [
   {
-    "title": "U.S. Says Cease-Fire With Iran Is Holding, Despite Attacks - The New York Times",
-    "summary": "U.S. Says Cease-Fire With Iran Is Holding, Despite Attacks The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWhNSHVpUHB5dWxmTUgzSmJLUWFUdlVCOTZNaG9PSExQM1B6Q2t3S1o3LTY3WkhUQVBDU3U3VWtLVXRCa1Q3b3JubmxJVW5GaG9VX1VIX3BCTXBfVFFEUkY0M3FnZGhlLVlRQmVTclBPTk9IREg0YVVBVFhXZG5FMEdTWnlLQkU5bXc?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-05-05T21:26:09+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 21:26:09 GMT",
+    "title": "U.S. says Iran ceasefire holds as UAE faces new attacks - Honolulu Star-Advertiser",
+    "summary": "U.S. says Iran ceasefire holds as UAE faces new attacks Honolulu Star-Advertiser",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmxZczN3NWVhQjI0c0Q1ZDdyV0twQUs1cHQ1SW5sVG1yQllrbzJ4UFNIMVNBeFgtR1pKd0hGUl9Hd09YVDBYazBTUHRRRGFPZUJQZElxOW9PYVBBRWFGeWtnM1lWRnUxZFA3MVJjRThvVWZ5SW54YnNYajREempxeDZwNFZDVzQtQlgycmlNaHV4WjdkVGlpTU40ZUVtdWVjZ0dZaWVsNTNaSnlfbzhhMw?oc=5",
+    "source": "Honolulu Star-Advertiser",
+    "published_at": "2026-05-05T23:14:53+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 23:14:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72b7f4a7e53038b98efb2abdb22d8f7cbafa2a10",
+    "article_id": "161bee8c7ffca89faa0b1161a09778354cbefde3",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Article states the U.S. says an Iran ceasefire is holding despite new attacks on the UAE.",
+      "event_key": "iran ceasefire holds uae attacks"
+    }
+  },
+  {
+    "title": "Iran must 'accept reality', come to negotiation table: Rubio says US trying to understand topics Tehran wants to 'negotiate on' - Gulf News",
+    "summary": "Iran must 'accept reality', come to negotiation table: Rubio says US trying to understand topics Tehran wants to 'negotiate on' Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdHNmeEJ1YktISWgzVlc0eUROX3dlVmpGSGNvaFFFV0hVTUdCb3pQZ1V4Q3FDY1JjcUZTUlNBTkFjdTVrb0VjY1FEZXRsdURHaUhoQmFabkNkekJ6ckF3V0RaX0FjQkFlRENSc05aWXJGNjJQNE1iaDMwMjNIR3NZUEVQZjdFM3FKdHVoZFRFaXE4aTNQTGRDajZMZTdTR3lUV3VMSWYzR2FMOUNYM2ZXbXpMQTRwbC1xbGxadGdsV1lPNXN2UmxYUjJQVWUxT29vanBabWlCSWp0VWFkeVdTd2pBRnN5c0ZZamluQVNSRGVSM0JkNVY4a2pTWEJEUdIBkAJBVV95cUxPbHRIVF9mSlBPb0NRQkwwVjRQZEUtbVR0UnV1eHdTY3IyRWVsc3U3V1ZyeWt3LVpfUTZ6eG40NGc1OFhRYzJQem8yYUJCUEE3TmRMSEFTaXZtN0hEWks3a2RQb19WcDRhdlBNSFFrdHBhaTg4RlA5SUtIYjdYVkJXUVlXVjc2bWMxdkwydWxKZVd0SjA3Q3lCRWNZV05TUE1aeDJJeXFfMy1wSXpSeFNxZkFoTUpQUldJRmxjaEpfd0pLRUtPN2V6NUZhb19udFNnRlZSMDVjS3JVOVRxRlZ6Unl6eVZXb1M5bHlmWE41X0E0b0FQdFpPcklkZ25BdWFYMF9tNzlRaEs1WmhnTFJZeQ?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-05-05T22:54:09+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 22:54:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5c86164eeee242d01a174602af55f5113a71453e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "US senator urges Iran to come to the negotiating table and discusses potential topics for talks.",
+      "event_key": "us urges iran to negotiate rubio statement"
+    }
+  },
+  {
+    "title": "Claiming ‘great progress’ in Iran talks, Trump says US pausing naval escorts in Hormuz - The Times of Israel",
+    "summary": "Claiming ‘great progress’ in Iran talks, Trump says US pausing naval escorts in Hormuz The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMVhoRHdSOVhUbXJQeGZoNnA1WXRMTUNqQnlFdFNBektXaEdMdnBBcVJ0X1JVUDhTV0xRM1F1cUhIdTFMdFQxMG9iNWt1Vzc2ZnNtNWJUYW1QNkdPbGYtTdIBZkFVX3lxTFBlVS1DUXhUZ055aXdJeU5iMmZqN3VtbGJHUV9IWERiTE9KUVZqOGZ3aWs3NkxwTGFkYlRGS0lEY3loQnRfYkZaNGJTeS1rUHdiRmNKN2txLXprcmgtMTVLckNuaE1PUQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-05-05T22:59:00+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 22:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ee0f7cd8ba8f5dab08cf86ddd53f8dd2cd25ac1e",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
       "strength": 0.9,
-      "reason": "U.S. reports a cease-fire with Iran is holding despite ongoing attacks.",
-      "event_key": "us iran ceasefire holding"
+      "reason": "Reports of 'great progress' in talks and a pause in Hormuz escorts indicate active diplomatic negotiations.",
+      "event_key": "iran us talks pause hormuz escorts"
     }
   },
   {
-    "title": "US-Iran truce teeters on meltdown as stalemate takes toll on each side - The Guardian",
-    "summary": "US-Iran truce teeters on meltdown as stalemate takes toll on each side The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbk9xV01MYUNfQk5kTnBqREVsZl9tQXdjYlN3bHdZSE04eDVSaVoxMnNOeTdxNHZiMlpMRzJTdzFuLTl6eE8zNnB0SlZicHJQeUVYdmRHT2FUQVVnVTF2ZTZfcERmUHRzckRHTFh6NlFIRENTSmNTYktETE9JYXBOYU82N1lWbWttQnUwdjhkaE1DUVBfMmYzanlpMC16SUhKd1dQNGJNYzdFY2g1SzIzZzRldGtlZEk?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-05-05T20:42:00+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 20:42:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "00fff7575ecde07e7c4de555e9765b7fd33b43c4",
+    "title": "US-Iran talks focus on uranium enrichment amid diplomatic efforts - Crypto Briefing",
+    "summary": "US-Iran talks focus on uranium enrichment amid diplomatic efforts Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGtPMG9QQ2lGY25nWE4xWkF1cURPbjBsUm91TUkwYlRVbllNTUtxY0Y5UWRvSlpnc1RhZTVXb25OMGxXbUhHNG1tLWhET2ZBcHQ4Z0tVVXAxQ19vc0ZnOFRFTXFqclNucnZOR1YtWGFlR2JhMDM1M0ZJYmpDb0dlU3NJcU5jLVFuRlhLcThxQ3lyMGc5NTVVSw?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-05T22:04:27+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 22:04:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "98cedb3b62db4d42bdf87fc435b75403736ee9e5",
     "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.78,
-      "reason": "Reports an existing US-Iran truce is faltering and at risk of collapse.",
-      "event_key": "us iran truce teetering"
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Active diplomatic talks between the US and Iran focusing on uranium enrichment.",
+      "event_key": "us iran uranium enrichment talks"
     }
   },
   {
-    "title": "Tensions escalate in Strait of Hormuz as diplomacy races to contain US-Iran crisis - Dailynewsegypt",
-    "summary": "Tensions escalate in Strait of Hormuz as diplomacy races to contain US-Iran crisis Dailynewsegypt",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQlF6VS1rVFZtdGJYbVVQbUZCcmRaVmlOYXl4bUtLOTVxMEd2Vk42RmMyOEwzUFByNUxlSXR0UHNYY2tGZGV6VHdybEZ2Vm5HSVdKdTMxTUNRUmx5UmphQ0tRTjdSTlFTT2pRN19jaWNwSkpXZlFGdFRpem81Rmw5NHJsbm1uUlljamJjRnl5cVY5TlBOUjh2bHE3ZkVjVE15eFdQLV80bGw0elFyY1hGVmptZklRVnhKSVJBTWRVMmY2WXM?oc=5",
-    "source": "Dailynewsegypt",
-    "published_at": "2026-05-05T19:48:57+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 19:48:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e01420fa96acae299a3fb8b2c550575a5368332a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Rising tensions in the Strait of Hormuz with urgent diplomatic efforts to contain a US–Iran crisis indicate escalation.",
-      "event_key": "strait of hormuz tensions escalation"
-    }
-  },
-  {
-    "title": "US says Iran ceasefire holds despite exchange of fire; UAE under attack - KSL News",
-    "summary": "US says Iran ceasefire holds despite exchange of fire; UAE under attack KSL News",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3ZHMlBDZ2h2b1lDLUNCU3VZLS1jVDh2ejhPQUJWa2lWVDlzTi1KNXhSZ2FFV3Rta3lud1dYeFowSk00bUt1NTBHd3hQYV9xc1k1WEllTjhoMktoZnZLdUVFeU5RVmgtNDZTM2hsaE5mRFh5aFlHMms2OVRFMllkUTFzNGlzMkNnRm4zWHp3Qmh0OEcxV0E?oc=5",
-    "source": "KSL News",
-    "published_at": "2026-05-05T19:19:40+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 19:19:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b888d2392af61503b438e3f08613abad4320c8fc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.85,
-      "reason": "US says an Iran ceasefire remains in place despite an exchange of fire and UAE attack.",
-      "event_key": "iran us ceasefire holds exchange fire uae attack"
-    }
-  },
-  {
-    "title": "U.S. says the Iran ceasefire holds despite attacks in Strait of Hormuz and against UAE - NPR",
-    "summary": "U.S. says the Iran ceasefire holds despite attacks in Strait of Hormuz and against UAE NPR",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByNXFLNkstYXBSUk1mczcxMWRSZHpFclRuYktzalFQVlh5dXpIMTFveXdJMzl2WFVFMm1uT0t3Z2Y5NnJhcTZtbThsTVY0d2FQVDJvVEhBS29GTlR1aHNvek9jQjNwTlNKeEF6T0hR?oc=5",
-    "source": "NPR",
-    "published_at": "2026-05-05T20:54:32+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 20:54:32 GMT",
+    "title": "Rubio says US military has completed offensive operations in Iran - France 24",
+    "summary": "Rubio says US military has completed offensive operations in Iran France 24",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1hfRndJTnBod2hZNENLcHRlZDJ3UkluMU5fZnhEMldfU2p3bGRLdHlGWTd0eEJiS1RIOGF5NGxlUnpsajRhN05kZjczMzlsMk4wcTRORS1LbjZvUkV3UkxkNEFxd2tKbEJCdUFxQW5YQ0s0eTBaYWdEYXltU2Vlb1RmbXl0cnVkT3FMTWh5VnpyQnlpRFljRkt3OHR0d3lZdURNcF9yR2VfZE1mTFMwVDJFakk?oc=5",
+    "source": "France 24",
+    "published_at": "2026-05-05T22:39:00+00:00",
+    "raw_pub_date": "Tue, 05 May 2026 22:39:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4dc7860856eb5b857e35b226a105256251afb567",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.85,
-      "reason": "Reports that an agreed Iran ceasefire is holding despite recent attacks, indicating an explicit truce.",
-      "event_key": "iran ceasefire holds despite attacks"
-    }
-  },
-  {
-    "title": "Oil Prices Fall as Pentagon Downplays Latest Iranian Missile Attacks - Barron's",
-    "summary": "Oil Prices Fall as Pentagon Downplays Latest Iranian Missile Attacks Barron's",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTRJdmhOSVRmNF91eDJsUTRBejdlY191aGRSWVN5VS1MNmZnUklJN3ZMN3Etb2JodXJKU19ldVN4b29kMTRCSXJZLVNKekZmcVVzTnVxUFNFeWtTX21jbFdveFRWdHZiT3JOSGNBNnpqUnJiMTdralBCYTQyempxRXVidjRRcG9zaEtoTVpB?oc=5",
-    "source": "Barron's",
-    "published_at": "2026-05-05T20:18:00+00:00",
-    "raw_pub_date": "Tue, 05 May 2026 20:18:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d90f6ef8884329b9d7cdc0628cb02f7ad2224169",
+    "article_id": "036c5728093a0e526d5015f2b6565d429d81be04",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Reports reference Iranian missile attacks, indicating direct strikes rather than diplomacy or proxy actions.",
-      "event_key": "iran missile attacks pentagon downplay"
+      "strength": 0.9,
+      "reason": "Report states US military completed offensive operations in Iran—direct military action/strike.",
+      "event_key": "us completed offensive operations in iran"
     }
   }
 ]
