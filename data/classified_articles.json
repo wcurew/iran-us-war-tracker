@@ -1,291 +1,155 @@
 [
   {
-    "title": "Trump threatens intense bombing if Iran peace deal not reached - The Washington Post",
-    "summary": "Trump threatens intense bombing if Iran peace deal not reached The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDRlMENvY3ZOb1Z6ZTczSThUWjYxRERjNktLS3oyM1hIdkFBTm5ITEVVdTZkMF9ZaExxYkFsbU1QOHl1YktFVzlNS1Q3emdtQjRKWEdGamlVNWRQMkUwTTdRVU1tNEhCU3g1Q05IVDhxVWJuSUlGaENmeERYcUtxSkhQZm5wc2paVlBOTGlNb3VOTjdWb1E1RHRB?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-05-06T19:10:50+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 19:10:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "78e07ca402a99b5dc505fc9b21c7994f808d8dee",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US president threatens intense bombing if no deal—rhetorical military escalation and heightened tensions.",
-      "event_key": "trump threat bombing iran"
-    }
-  },
-  {
-    "title": "The Latest: US military fires on Iranian-flagged oil tanker as Trump presses for deal to end war - WRAL",
-    "summary": "The Latest: US military fires on Iranian-flagged oil tanker as Trump presses for deal to end war WRAL",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNllvWk1YMWNXRmVhaTRobXFxdWQ3NWdHOHFzZ3VwOVd2QnJMVDN3NWMydzVqS0FXcDRMNnZGR2g1dG9wb1pKd2xibEw2cWxoNTdqZnBxaWdWdHJHNU04LWJWZVVFZTNlSmRSaHdta1RuQXFPQzZxNndLOWFUZUx4YmRuVHpjSVlINzBDRHcySG1naXhnVVAxRXhxUlV2c3Qzak1oVkh2Xzl2dXNhZ2NKRS10cUtlZ0hmLUdNM2c2SVpWVU1Od2tESUJTVERsRWZB?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-05-06T17:26:07+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 17:26:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "32a8c37d2785c6dc7f67ff4b6bfafbf4ae9ed761",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US military fired on an Iranian-flagged oil tanker—direct military strike/attack.",
-      "event_key": "us fires on iranian tanker"
-    }
-  },
-  {
-    "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war - The Albertan",
-    "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war The Albertan",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGdBR285LXg0aWYyeEFxWEhzTEtRRFY3VHNyNnZsTVhSUjBVYjJSOW5XMnZRYnVTUWJpc3FZUGNSeUZzN1EtRmp2czhyX2YzcTk4ZDdYVHRqLXVwVllGY1hmTzAtUndoWVljcGQzQXBKRzh1QWZYbU9aTzdlRU1zR0xIQlA2S0UyMjZsWlo3UnBRNThfX1o3clRoVWpTLVBPVk1saHNVNFZTQlAtWllsSHdPd3ZiaHJkMU5jQmJZSHIxRmNWVHVBRHVoMA?oc=5",
-    "source": "The Albertan",
-    "published_at": "2026-05-06T17:46:42+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 17:46:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6a63f28f8ab2fc24c82b7f06d42d5c314959b9e1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "US fired on an Iranian oil tanker—a direct military strike against an Iranian asset.",
-      "event_key": "us strike on iranian oil tanker"
-    }
-  },
-  {
-    "title": "U.S., Iran Near One-Page MOU on Nuclear Deal, Ceasefire - 조선일보",
-    "summary": "U.S., Iran Near One-Page MOU on Nuclear Deal, Ceasefire 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFtTmJ3a0MtY0EzWTVUTkIxb2R4djlTeWd0eEhzZTBKcnBwbm04QS1rR1FzTE00bHBUaVMtQUxEWExtSWhBS09JdS1xZW9wd1dNVWdtWnBCNzE3Tk1aUk50TWRMWlNxX3FXZGVTUkxlWGxzWXloczZfUGhpRGtEbWxKOGs?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-05-06T18:24:51+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 18:24:51 GMT",
+    "title": "Iran weighs new U.S. ceasefire-negotiation proposal amid Trump threats to restart bombing campaign - Washington Times",
+    "summary": "Iran weighs new U.S. ceasefire-negotiation proposal amid Trump threats to restart bombing campaign Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFdGVE5JQ0g2bTZGdHZNZFJfd0kycHRSM0liWk1Zc2l2Ym1DS0RTU1pXdk5McXhUYnFJUlEyeUVQbVJKRTN3YTVHdWlmVzVlYWxIS2lYM05DblpZc3Q5M01fMzRRUXNScGRBWFlSakNrSldMVnJkdkNYdFhtbFdQMWh0MHk4WVZQbDFCd2dUZ05VNTZfRGJMdVB0ODlTZ2hmVGlaYlJad2w3OEY0dmFjWllnbTZBMWFQ?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-05-06T19:49:00+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 19:49:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f58737fa16dd2356faecbfcd23eb32b14da7c3aa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "U.S. and Iran nearing a one-page MOU indicates active diplomatic talks toward a nuclear deal and ceasefire.",
-      "event_key": "us iran mou ceasefire negotiation"
-    }
-  },
-  {
-    "title": "‘Negotiation does not mean coercion’: Iran says it is reviewing US proposal - PressTV",
-    "summary": "‘Negotiation does not mean coercion’: Iran says it is reviewing US proposal PressTV",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTVvOHZpNVFhaHBlNGtmWU5HYWxNbEFiSGFzTXl2cm8xcUVEYjlIR0cyb1M2dTBMemdWQmZRUDl5djlmanY5Sk53eFJCX2k1QlhaU1BzbUtRZk56Zm9oa0RwQkJuaVlEV2xocF9MY2FybVZnVzRQRmRaTUNLUVYyLTVvM3dQU2UzazcxS2ZPbS1qWjRk?oc=5",
-    "source": "PressTV",
-    "published_at": "2026-05-06T16:30:00+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 16:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6ab8400c3739dc3538379219238f0252f6a1fdf5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Iran is reviewing a US proposal and discussing negotiation terms, indicating active diplomatic engagement.",
-      "event_key": "iran reviewing us proposal"
-    }
-  },
-  {
-    "title": "Is War in the Balance? Axios Reports U.S. and Iran Near Agreement to Halt Conflict and Negotiate Nuclear Program - elciudadano.com",
-    "summary": "Is War in the Balance? Axios Reports U.S. and Iran Near Agreement to Halt Conflict and Negotiate Nuclear Program elciudadano.com",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYU5aOGxVeE9CX21lT1hOLWlSaTJyS3NWeS00aTNuV25pRENGSGF1aVlFcVNZS0ZoaWRKVG1kYlFfTm5JR0ZDWHJMUDFlMkhwalpRbWVuMmUwTElxaHlQR2RMeGI0WVBYVzJoTEFpODkwTHJZSmxxT2szVGJUYWlWbzR3SWJVYlVvWFhYYUczV2c1a29TVUR4SlM2bmM5STlfSWo0a1pORHN6OUZEU1MwVXY5UDlRQ2gyZ0JkakZFRkhxTG5SSGVwcDNUSFBPVFlyYmtHMmpOWU12NDJ5VlNnYllR?oc=5",
-    "source": "elciudadano.com",
-    "published_at": "2026-05-06T17:43:18+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 17:43:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "08959dcda7aef69e94bcc39f5d58c5a4d8c0e1d7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.6,
-      "reason": "Reports indicate the U.S. and Iran are near agreeing to halt fighting and enter negotiations over Iran's nuclear program.",
-      "event_key": "near agreement halt conflict negotiate nukes"
-    }
-  },
-  {
-    "title": "Trump says US had very good talks with Iran in last 24 hours - Reuters",
-    "summary": "Trump says US had very good talks with Iran in last 24 hours Reuters",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjV1T3VGTFFicTdBUm14aWNNb1NHMEVrd0RXVTZCem10U0k3SzZfeXZoRW1rMXJIR2k5NzhzZ1J3MEhjM0llLWtiV3RPeTRXVTFnVDFyWWZKNTBqU3FEUHlCWExQaDBkZzdKQnZyM0lDZW5jdVg1NUdGcTIzWjBFR2pGaTR2YVJUcmNQUUp0Q0VVVTVBT0d5YnU2TnZoZzlabVFaZHk1aXlYMDUwMXhoeQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-06T19:07:43+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 19:07:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a9f985fcbef010214cfe08e8d9b0d785e1492c80",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Trump reported very good talks between the US and Iran, indicating active diplomatic engagement.",
-      "event_key": "trump us iran talks"
-    }
-  },
-  {
-    "title": "Iran Says It Is Reviewing a U.S. Proposal to End the War - The New York Times",
-    "summary": "Iran Says It Is Reviewing a U.S. Proposal to End the War The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlpMVFZFNUluV25wck1XYkxTQzF4NDhaM1doVmhGNmozZFU3eVd4MkpKZDlray1CTmVBU1JYY2ZoRF9uRFpkWXFoam0wREIxN1BDaEhpaUhHb0EySFUwWmZWa3BuazlsYkNnSHVCSG5EeW1iWF8tcFhyRC1zYWNsSzZDdDZEZw?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-05-06T19:27:22+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 19:27:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "edfea7dabcf88ef7858414fee32de76a39418772",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Iran reviewing a U.S. proposal to end the war indicates active diplomatic talks and proposal exchange.",
-      "event_key": "iran reviewing us proposal to end war"
-    }
-  },
-  {
-    "title": "US adjusts strategy in Strait of Hormuz as Iran talks show progress - KOMO",
-    "summary": "US adjusts strategy in Strait of Hormuz as Iran talks show progress KOMO",
-    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZElpZEdMR1VGSWpUd1pZQkNxdmdBNTVCcDNubGkxT0FBWTlFRjRqcUp6RUlhUGNUY09pT0dhcV91WFZWT2M4d0V4MDhMRUlMb3h4QXYtb0QyRm96aGsyTzM3NzJiQ3NJVTdNdW9XRmJKMUJJbVgyV3IzWkRoRGZrTlNTaFRyNG9uLU1kU3pvdFJBdU40RWxjNk5KZXotWmtHZHRrd3JRdTMwSW1ZTzkzS0lMTHRFU0NjY3Y4ckl4TWg3TGNFdFVnZHlFbmt4OFNFcXdkQzdqUzVIRjZNUElTZTREdEswSGhkck4yallYQU4weXhTM09zT1dQQTVrQnVnZXRYR3JnbmdQRDNOd2RCek9kS01TcnFOaDVwZS1kVm5zaFdZRnBxd09wOF9NTzM4VDh1Z3A0ZURBdVJGMXNwT29tZjdEYkhWYkZYQ1gtMGsxd1J5aUZDYkRfNXF2cVRId0xhWjd6clF6dTA?oc=5",
-    "source": "KOMO",
-    "published_at": "2026-05-06T18:38:21+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 18:38:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "16f2c973fbab12dc60dc89589d3abe1a8234ebe0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Active Iran-US talks reportedly making progress and US adjusting posture in the Strait of Hormuz.",
-      "event_key": "us iran talks progress hormuz strategy adjust"
-    }
-  },
-  {
-    "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi - The Washington Post",
-    "summary": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXI4SGpIMmxFempVZ0gzb2FwYUJBVnl2LW9KM09DdEg1UkY3b0Uwd2l6b2JMeFozMG9hYnFfTlJVNjRoNmRBNXVGUno2Ql9DU0VhaXd2Q1FYeFAtbG5LTWw1anFLWnkxX2l2emxUdVNsWTkyLU1tdzFyU0EtTkdJS3hBdkFvQWlYQjR6UVdDRWlNbXBpVVNpYkZYbG1NMUt1RndzRWNyYkVYS052bGhVUHhCLW41SEN6MXpFWm1TVHVDcUpRSEdrMk9zTFlyV0t1ZHp3?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-05-06T18:44:44+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 18:44:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e36b2dfb19c085a7e7e93765f817c9683251c0ff",
+    "article_id": "191586a26775d509d1bd2ebbcbdf76238a307e14",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "China increasing diplomatic engagement regarding Iran ahead of a high-level summit, signaling active mediation efforts.",
-      "event_key": "china steps up iran diplomacy pre summit"
+      "reason": "Iran is weighing a U.S. ceasefire-negotiation proposal, indicating active diplomatic talks despite threats of renewed bombing.",
+      "event_key": "iran weighs us ceasefire negotiation proposal"
     }
   },
   {
-    "title": "The Dance of Diplomacy: U.S. and Iran Inch Closer to a Deal - Devdiscourse",
-    "summary": "The Dance of Diplomacy: U.S. and Iran Inch Closer to a Deal Devdiscourse",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUhkUGd5WmNyaHh1MVVHUmFJdUZweDd0SG1Ia25zcTMyeTR0ZldMZC1sVGx6RVY3bXhoVHJKSzhWWF9tZ1Vyel9VbkdNSXNEdWlHdHlmMEQ1QXpMS2trNXMxYlNUVzNQT0ZoQUh2YU56bDg3ZV9BSy1UU1c0WFRjMTdsdC1uVjk2bUJta3M1aHVfbFJ0LVU0cldfX1ZOUkpUNlpia1p5WkQ4YVdEVmdZ0gG0AUFVX3lxTE00OEpuY1hTNWZXd1dUWk1QUDJOZll4UEFxQl9Rd0hWcnVHclJxd3lHRWFKUy03QjllX1RtNnI2bmp5QWpGY0V2YVZmWV9WcnVWd2h3TVZHSnR5czAwaEswOUFvTklYSUVPS1MzY0ZvVERvenh2MlJYU0hsVVNCSzRzTjFERmtNcUsxM0hkUVNqSHROekFMeDhhYlJ6aXh3Q1AwcWJYUDZWYTQ3NEMyMHRkMTkzSQ?oc=5",
-    "source": "Devdiscourse",
-    "published_at": "2026-05-06T17:06:32+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 17:06:32 GMT",
+    "title": "‘Very good talks’: Iran reviewing US proposal to end war - The Nightly",
+    "summary": "‘Very good talks’: Iran reviewing US proposal to end war The Nightly",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMnByT1J2b1pYX291Ni1IWllhX2hLLTB3U2Uyb2JWYUZCVUVqd2tLSi1NZEtVWndsZkxEeGZnbm1GaVQ1TERaNk5VNnZuNnNINzJxT2lUYS1jR2JPQ2pxTWhmSHVDVDVsTWEwMC1kLVhOQnJ3a1pZYldzeklPV3FlazUxdGxybjJZam1ISGxuT25hYUFPRTNrZEF1dVZoOGFZc281M3ZrWWo0bVFQTWNkY19CNmxlbmtYSjJyeEtESlozdGpocF9keVNmNVd4Rk1CUTE4RmlUSktCSXNuM2RkaExPY09SLWtSV3pQNEw1c0JjcEU?oc=5",
+    "source": "The Nightly",
+    "published_at": "2026-05-06T20:49:06+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 20:49:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "870f65738b576e76c0b56c38ecd780f1a5e79e78",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports of Iran reviewing a US proposal and 'very good talks' indicate active diplomatic negotiations.",
+      "event_key": "iran reviewing us proposal end war"
+    }
+  },
+  {
+    "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal - Al Jazeera",
+    "summary": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTElFaE13RmxJYnRlVThkOW5EdkNWdEd4d1dsaXRfNmJpem4zalRGVHdjbHU4LXVTOUpFdHdYYmk1RW5BWnlwM2xmWEw1MUtCd29wc2dXUUVNbW5FVFdpbV9aSFdKTFZJRWhla1lDZW4tR0ZCd1FySEl1ejlWM1B1ZlVPWm9RNjlKb05IbXdUMG1GejZ4LWdPOENneVpBSlhpVUJZWHNzZndWbjQ1Sjdz?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-06T21:20:01+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 21:20:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cb7779c3c29eb6f569b835a0e890eb01f64c6d7d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Reports active talks and Tehran reviewing a US proposal, indicating diplomatic negotiations.",
+      "event_key": "us iran talks proposal review"
+    }
+  },
+  {
+    "title": "Trump optimistic as U.S. awaits Iran's response to peace framework - Axios",
+    "summary": "Trump optimistic as U.S. awaits Iran's response to peace framework Axios",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUUnJHYnJIY1BXVUp1N3gxdHRzdUVSTTlOUFR5bG9iYlVNejhvb3VMNkZmVEoyN2hHS2hDaFp0ZkdTalZSNjBha3FOOXdQSVgzenlMb3BFRTZrTExMVjJKVTRLcnlwaFJ2OW5xNC13YUxfbWxpYTdyOFg4RQ?oc=5",
+    "source": "Axios",
+    "published_at": "2026-05-06T20:13:49+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 20:13:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f11e969e9d0d14e9a84da6a46c18606d3f988c19",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "U.S. awaiting Iran's response to a peace framework indicates active diplomatic negotiations.",
+      "event_key": "us awaits iran response peace framework"
+    }
+  },
+  {
+    "title": "Iran considering US proposal to end war, official says - BBC",
+    "summary": "Iran considering US proposal to end war, official says BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnRlRJYVpSWXBZMXhSYzV6dTVfY3pVZldNak5VNDJmODlNbS1wb0dUMzMtYkVUZnI3ZGg5WEVHRGR6Tmg3cFN6QVI0TWp3b1FSRlNHZWlBNThCQQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-05-06T21:27:59+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 21:27:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8d6cdd0bc861e6e234ada5edf638be7e92a37823",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Iran is considering a US proposal to end the war, indicating active diplomatic engagement.",
+      "event_key": "iran considers us proposal to end war"
+    }
+  },
+  {
+    "title": "US strikes Iranian tanker amid reports Washington and Tehran near deal - South China Morning Post",
+    "summary": "US strikes Iranian tanker amid reports Washington and Tehran near deal South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUpYd2dhRl9aRklUM3pnRDZJU3p5WTFmNHlRVENpX2lLUldqZF8wTS1RR01OQk52M1k2cGxra015UmRHNUUtbXZaSk4yUWp5bXlJUVhUaHRFTVNWYjVQa0JSRFRGOThia3E4SVVxMEpPTU9WNVNNdmZJY2NKMTIyMjM3QURhc2lJMF9tSThNMGZmMEVmZ3pmTjRaaHk2QnJsZ0t1ZXhUeWkwRm9lZ1JPR3pyQ094MGNLZE1mWlF1aUx5Qnc?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-05-06T19:57:00+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 19:57:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3ab96bf2a543d2d2a6e36b3a07f2a10eed88d1c2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Article describes active diplomatic progress toward a deal between the U.S. and Iran.",
-      "event_key": "us iran deal progress"
-    }
-  },
-  {
-    "title": "Iran opened fire on US warships, 6 small boats destroyed in retaliation: Centcom - The Hill",
-    "summary": "Iran opened fire on US warships, 6 small boats destroyed in retaliation: Centcom The Hill",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9odTcxemd2X0w1cEl5SGRMVllubzZqTmNweDVIQ2lqLTRCRnVORTYwQ2Jzd1JSZjBDdHpqRGh5NFZfLVZiUmV6V3F4Sm1xaTFHRzUyYzV2M29DYXVSaGxYRmxTX0hvWkZwSjE2eThsaTJtSExlTUMtcUpEYTjSAYIBQVVfeXFMTkVlbWF0dW1oTjNDR0x6eGhCM2Vtc3haNGp6SldOWC1pbWIyeU1WYVFpRGk1UlRYU19JeGZKUmExb05kQ0FQNWd4Z1ZieW4wc3lxLXVCemRMZGN1UkZ3T1VJaUlVQlF4MXJWaUhIbjdlNGQ4eTY3YkdhMXlXay1BNFdJdw?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-05-06T17:11:00+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 17:11:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6761b8d846af599325e312e68bf3a7a8fb09dbd0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "Direct exchange: Iran fired on US warships and US forces destroyed six small boats in retaliation.",
-      "event_key": "iran fires on us warships us destroys six boats"
-    }
-  },
-  {
-    "title": "The Latest: US military fires on Iranian-flagged oil tanker as Trump presses for deal to end war - WHEC.com",
-    "summary": "The Latest: US military fires on Iranian-flagged oil tanker as Trump presses for deal to end war WHEC.com",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0FhMXZmb3VRTlY2MXdaSDZYSHU2R18tcXA5TXptbmNULWRiYVE2NTNtc3VCYXMwdWlPb0J4OUgweWQzWERGMHQ5cldudWVpM0hSRHk3VGVFVElaTDBuSVZlaHo4THE0TExyeGZTUEhIaU82a21YNWg3M1RZQmdKbHJsdjhPOTM3czhIaXVzeEZaY2VxeWEzQV9yUDQwazBnWENZdUIzcUQtY3hjSnRBM09HR3NlbXc1LW9ZMUl6OXhQWjNLOEpOUg?oc=5",
-    "source": "WHEC.com",
-    "published_at": "2026-05-06T18:35:00+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 18:35:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eafb6e51edf6b58d2360618c44c5f398e975de43",
+    "article_id": "e465aac0ec762176b783f97b7d6b827d1344d0ad",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US military fired on an Iranian-flagged oil tanker—direct military strike likely as retaliation or interdiction.",
-      "event_key": "us fires on iranian flagged tanker"
+      "reason": "Article reports a direct US strike on an Iranian tanker, a military attack/retaliation incident.",
+      "event_key": "us strikes iranian tanker"
     }
   },
   {
-    "title": "Tomahawks spearheaded US strike on Iran — why presidents reach for this missile first - AOL.com",
-    "summary": "Tomahawks spearheaded US strike on Iran — why presidents reach for this missile first AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWptZjRvVFRtdEJEeDRIMXVIT0V4WjRxSTgzQ1B3V1BoTXk0TC1nbjlrUnk3al9CaFYyLVRHM1hFQkp1YkVGREpuM0VubFg0UGhVYVk0dFNabjdKTF9fZV9RaENkUEVuMHRWYmE3R1F6VF84UUZjUWMwQ19fZ0c4VC13?oc=5",
-    "source": "AOL.com",
-    "published_at": "2026-05-06T19:15:18+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 19:15:18 GMT",
+    "title": "Letter to the Editor: Iran needs no excuse to attack America - courierherald.com",
+    "summary": "Letter to the Editor: Iran needs no excuse to attack America courierherald.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXRlNkNOeTdkaGlWSnZqa2VyQktYRnI1ZlU5SFBJdDNzUHNNZ3VfaHhDdkljSUFvTTlSV0F5N18yQm9SREljclBacHE5NUZSTHFCRnQ2eU1rMnFmQXlpVncxNDJPMG5vc245ZWtfalFnOFdVREJScjZxTXdmNmJPOXZIMU55dE5Ua1hpU0Q5TlliUVNKVEVlXzdDZFhZNVlIdU00?oc=5",
+    "source": "courierherald.com",
+    "published_at": "2026-05-06T20:03:54+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 20:03:54 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "36a39e808e29e8b2dd6497e2654b6ca9a533bc08",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Describes a US Tomahawk strike on Iran and why leaders use that missile—direct military action.",
-      "event_key": "us tomahawk strike on iran"
-    }
-  },
-  {
-    "title": "Iran Accuses US of Seeking ‘Surrender’ as Tensions Persist Over Peace Proposal - Kurdistan24",
-    "summary": "Iran Accuses US of Seeking ‘Surrender’ as Tensions Persist Over Peace Proposal Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHdaTzVhLXJVVndSVWk5OUhLOVliWGp2UG50dlBVVnlyLTFMNkFBZ09PVUR2MXRGelV4ZFhRdURyM2hhcFdWaGdhN2w0UWx6WDZLeE5JRkdnM3VPazlmbDc4YkU0SXJYQVNnTHo0MEFCcnBOU1dZelhJUFdDeVB4aklrcEdadFBLZ25Tb1Q4cjYtSXlRdTNCaVY2SDRCQTNKenp5dnNxZ0t5ajl3ZzlOczRHVUlJazJvUmg1MQ?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-05-06T16:58:36+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 16:58:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fdba88aefb39dbcca0c522b0d1b62c7fab7e05c8",
+    "article_id": "2190b38327b436caf4ded5ca86c5fe6bcede02b1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran rejects US peace proposal, accusing demands of 'surrender' and heightening diplomatic tensions.",
-      "event_key": "iran accuses us over peace proposal"
+      "strength": 0.5,
+      "reason": "Opinion letter expressing hostile rhetoric toward the US, signaling heightened tensions.",
+      "event_key": "hostile rhetoric letter"
     }
   },
   {
-    "title": "Gas prices soar in US after Iran escalation - MSN",
-    "summary": "Gas prices soar in US after Iran escalation MSN",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjhWNjQxV2w1X2RscWR0Y1U0SENJR285MUVWcVhLUGFfRTNhOURHYlFkcm9LclZVcy1nQTY0dk5FV3ZCSHJHSkNqOE43YlZEaDdicVNlMFFWbWZjRGlzS0diMEZsNzFLR2J6bVRjcDlLUHR6NFF4ZnpRVU9UakVSYVR4OVFLdTBWa2FTa21mT0oxd0c4MnNKTUlaUlVodDNEcVNJNFZGbmxOQmlYVGdQazYwbnNQTFh3N2ZpMlBiUGlHck1WUEpncHZKYzN3NmFaenhGalEzdS1ZLXE3R0cxN3hlaw?oc=5",
-    "source": "MSN",
-    "published_at": "2026-05-06T18:40:52+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 18:40:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "123198d06506464c63fd62a446f6d7ac59fa9054",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.4,
-      "reason": "Headline ties US gas price surge to an Iran escalation, implying rising tensions though specifics are unclear.",
-      "event_key": "iran escalation gas prices"
-    }
-  },
-  {
-    "title": "US military opens fire at Iranian tanker as Trump's ceasefire on brink of collapse - Daily Express",
-    "summary": "US military opens fire at Iranian tanker as Trump's ceasefire on brink of collapse Daily Express",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNam1sRjJzWER0bzY5RVVXQl9ldjdIdE1kdUQ2V3NoVzl1N3FJejFWNnRRTFR5UDRkdXoxUGxxU1A3SnlxaDlobHBhd1pVWDJQRmRqdTRCVGJvb3NUVTcwd2swWFFrZWozLW95cDl6TW9SV2pTV01rMUFjSzl3czg3YtIBhgFBVV95cUxQdm1Jb3ZaczYyRTN1WHpJOVlQa3paQ29aa3hkYWV0WE1VblNsclBGeGRuV1RpcjlOR0htckZLd09HQU1oaTlfUVZDTXhyRjZPdmVnN1o3cG5PQS16WWtRdFRkQ0VmLWhRYTRhUXlPekN3TzRwWlhqRmpfOE9vTE5Ldk5ySFMyQQ?oc=5",
-    "source": "Daily Express",
-    "published_at": "2026-05-06T17:12:00+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 17:12:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b2aa97adf2c8b011c507d61f219df5e285550a4e",
+    "title": "US Official Says Boxship Operator Was at Fault For Iranian Missile Strike - The Maritime Executive",
+    "summary": "US Official Says Boxship Operator Was at Fault For Iranian Missile Strike The Maritime Executive",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXFDVTVwZEowLTZtc1JnSDNPSUxZU2N2OFR5dWtBSXRKSzE2ZnZ1UlNHbTg4c3AwQkJHeEZMQ0JJWEthQzNpdHlVYjlsSUxxTjlNZmdHNmczRUxHMlhBMFZ0TG50elFJbmdEX3MyRkNnQmo1Z2RURXc5UWlTX1BmR1JMcFZESk5ZVFdOMTl3aVkwVWNneE4wamdqdDB2VGZ3MkszN1paaXFRZXZGR283c0Vn?oc=5",
+    "source": "The Maritime Executive",
+    "published_at": "2026-05-06T21:20:04+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 21:20:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "872500ddd0eee355ea335c0cf7c8eb44954397f3",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US military opened fire on an Iranian tanker—direct military engagement/attack suggesting retaliation.",
-      "event_key": "us opens fire on iranian tanker"
+      "strength": 0.88,
+      "reason": "Reports an Iranian missile strike on a merchant boxship with US official commentary assigning fault.",
+      "event_key": "iranian missile strike boxship"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War Latest Update: Israel Strikes Beirut Targeting Hezbollah Commander Amid Rising Middle East Tensions - The Sunday Guardian",
+    "summary": "US-Israel-Iran War Latest Update: Israel Strikes Beirut Targeting Hezbollah Commander Amid Rising Middle East Tensions The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU3YzdzI3QUF4Y08zbHgzczRkVmJqTWEyenRTSDQtQVc1SUhLSVQ4UzZCakhmMXpCeW5oaDdENXRDQmd4N0cwSy1CQWt1X0NDSGdsekhPR2ZSRDZjR0Z0Y18tSHpwMXFMOWR5VEVfOVduZk1uZFJNMUdYWHpvVWZVcmExU0l6OUVMUVAtalZBY0pzN2VxUWdzMU44bDB5WlRTYmxZMHRhOF9DZ1RjR3gyN1h6Ums3bmhxWjluWlVhRGM0MVptU0pRelZ0MVU2YUwweDRlWUZQb18wZHBHa3hjSHhxNnZxeXNwamJBdjFqYlRndHdv?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-05-06T19:44:04+00:00",
+    "raw_pub_date": "Wed, 06 May 2026 19:44:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fdc2ef63d3460290b7c7ed3bdea408fcd35b33c5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Israeli strike targeted Hezbollah, an Iran-backed proxy, escalating regional tensions tied to Iran influence.",
+      "event_key": "israel strike hezbollah beirut"
     }
   }
 ]
