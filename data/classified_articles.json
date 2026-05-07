@@ -1,138 +1,87 @@
 [
   {
-    "title": "Not Over Until It’s Over: Washington Greets Optimism on US-Iran Talks With Doubt - bloomingbit",
-    "summary": "Not Over Until It’s Over: Washington Greets Optimism on US-Iran Talks With Doubt bloomingbit",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEekVQb1NfakNBalprbkRxZ3ptaE1QNkJhd0lsZW5zY2hwVC1WODdtY3FaVE91ZnpHbW5kdVk2VGNtZkxhc3NQQ2RwU2lLWk4tbVR5NQ?oc=5",
-    "source": "bloomingbit",
-    "published_at": "2026-05-06T22:46:14+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 22:46:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "af0a15fb07352cda3a6b13ec99f72e392f528ca3",
+    "title": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal - Al Jazeera",
+    "summary": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTElFaE13RmxJYnRlVThkOW5EdkNWdEd4d1dsaXRfNmJpem4zalRGVHdjbHU4LXVTOUpFdHdYYmk1RW5BWnlwM2xmWEw1MUtCd29wc2dXUUVNbW5FVFdpbV9aSFdKTFZJRWhla1lDZW4tR0ZCd1FySEl1ejlWM1B1ZlVPWm9RNjlKb05IbXdUMG1GejZ4LWdPOENneVpBSlhpVUJZWHNzZndWbjQ1Sjdz0gG0AUFVX3lxTE5nNTJzVzVZSlpkS0hPQnRTWDB1SGh4S0hDVWdtc2pyVzI1MUp2XzBrQU5nSmxIeDJfNE1xZmZVQjNxVS05QTlZRWMyVFl3U2djUUhSWl9tLTgxTWRYUENNMllyRGMyMzJNQ1BOckhWY05jc0Q3M19BU3VxR2xEdWdINlhNZnZleVhndEc0cDZ2bl9oVnhzd2VhaW5oQ0ZPSXBMalQxTFBJY0xWSlRHTzNyY0J0TQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-07T03:29:29+00:00",
+    "raw_pub_date": "Thu, 07 May 2026 03:29:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "72448f1204d42faa66ee7b7adb046c47acf2bddf",
     "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran reviewing a US peace proposal indicates active diplomatic engagement despite provocative rhetoric from Trump.",
+      "event_key": "us iran peace proposal review"
+    }
+  },
+  {
+    "title": "Iran, U.S. Working on Talks to End Fighting - WSJ",
+    "summary": "Iran, U.S. Working on Talks to End Fighting WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQks2R2JwdC1VbkRBT19QVTU4MkxTRmtpbnR4WDNNZ3Vwc1ItVTQ2S055TXZVWXlITGVJWlpCbEFFLWl3UkYzc3ZvTnY2SWZSUTM0V1dqX1lNRVZDbnFQQnk1MEJHcWVxaUFjY0VXUlh5RHpnQ3Z5ZndTeG5HaHg0QVozWTBlQzRWQVhST3QtQklpZw?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-05-07T03:39:00+00:00",
+    "raw_pub_date": "Thu, 07 May 2026 03:39:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9c3e287c01e3ef7c4d50d19b59513c9f27809ba8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports that Iran and the U.S. are working on talks to end fighting indicate active diplomatic negotiations.",
+      "event_key": "iran us talks end fighting"
+    }
+  },
+  {
+    "title": "Trump sees swift end to war as Iran reviews US peace proposal - Reuters",
+    "summary": "Trump sees swift end to war as Iran reviews US peace proposal Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW03RmZ6aF9hQjdpSlhWdVZwVl90c0UzLTBpSXlGVFFHVi1MaXJQU21yQXgwZ1BmeEplUlFWSE1mdS0wMTdzQm9uaEFmSmNzcGo0V2hxdFpSUzVJWEdkdFIyLUlTeTduT2FKV2xwOG94V1FCYjNjWnFGUGo0V2pHLWQ0dUFQTzVsS3ExaVlDSVhrNXN1V09LZjFFVzc3UTg3M05RTjN3?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "raw_pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8e8ba6ac08e0e5bc9eae10b747ce2fbc4c3c4c6f",
+    "source_weight": 1.15,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Article discusses ongoing US-Iran talks, optimism tempered by skepticism about negotiations.",
-      "event_key": "us iran talks optimism with doubt"
+      "reason": "Article reports Iran reviewing a US peace proposal and Trump commenting on ending the war.",
+      "event_key": "iran reviews us peace proposal"
     }
   },
   {
-    "title": "Iran reviews new US proposal to end war - InDaily",
-    "summary": "Iran reviews new US proposal to end war InDaily",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fNlZiVGtjS3VteGlNSWpnME56NlhUT3ljeFZFTDJfR3BXWnBleTU3MFNOUy1FZTBDZ3JhVVdIc010U2tjLTFHdnZaVldvZkEySE9OS2dVNnlYWFRHVnIyVFkxR0Z4QmdkWlZFa2VtZjhJMXZk?oc=5",
-    "source": "InDaily",
-    "published_at": "2026-05-06T23:51:24+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 23:51:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "017983450a098883ee44f878d569b6d47910608e",
+    "title": "Trump Predicts Quick Iran War Deal as Tehran Reviews US Peace Proposal - Modern Diplomacy",
+    "summary": "Trump Predicts Quick Iran War Deal as Tehran Reviews US Peace Proposal Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTF3M1hJcVN6eWtnOXAzUDBPVlZVc2NnSE8tMV9fMkNRTHlUU3FVY2RVR0F6U0xJTUJaZ1FWalVlak9salROb0E1R0ZVNzM0UTdLRG1kVGNWZUpQX1Q1cHJXblA3dTJPOXRnemRPbFhPS1hrb0UzTHpWOVRic2ltQ0ZhVzgxRThrMTB4QWVNT3dKMXoyNXQ4LWx3Rm5VdW5RVDJSanM1NWNSY25oeHc?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-05-07T04:47:26+00:00",
+    "raw_pub_date": "Thu, 07 May 2026 04:47:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "26fc1719117700bcb523811cd1e6cffc1ccdb9fd",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.9,
-      "reason": "Iran reviewing a US proposal to end the war indicates active diplomatic talks and proposal exchange.",
-      "event_key": "iran reviews us proposal end war"
+      "reason": "Discusses a US peace proposal and Tehran reviewing it, indicating active diplomatic engagement.",
+      "event_key": "us iran peace proposal review"
     }
   },
   {
-    "title": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations - The New York Times",
-    "summary": "Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0teG4taGFicEdTNkxPUGF0Vmd1LVJpejdZUmJwZ0hfZ2pSV2NFZ19kLXhOcDJKQXVyRk1qNi1id0E1LXZsS1Q0dENmRlB6RngzWVFfNDdia3RCajg3SFlIMHJRYTNCV3J3djBKTnlmVlVuZw?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-05-07T02:08:56+00:00",
-    "raw_pub_date": "Thu, 07 May 2026 02:08:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a137777a35821eca2e61e0aa284e8c3e1ce6e884",
+    "title": "‘Trust Me Bro’ Diplomacy? Iran Roasts US Media Over Nuclear Deal Speculation - Open Magazine",
+    "summary": "‘Trust Me Bro’ Diplomacy? Iran Roasts US Media Over Nuclear Deal Speculation Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEduZlJLUGlKWld6b29jT2NHSzBGMjVOMFc1dFpSWmowNTVlcU50THFxRm9QT3lBOGFueG5iZ24ybm9HR2VSWFFOakZVMkd1Q2EtT2Yxai1OeUZmZXJQVWxpWkw0QmJ1LWVIWHEzOFlnQmdoeUJyNng1Yno3SndpbUozUHBuVVIwMXZBZmNteXVQemcxSnRxTEhmRVBjSHphMDFVQWd6LV9xalk?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-05-07T05:07:00+00:00",
+    "raw_pub_date": "Thu, 07 May 2026 05:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9014e272054d225f445a795efce4fbcabb02b901",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Reports conflicting messages from Tehran and Washington about the status of ongoing negotiations.",
-      "event_key": "iran us conflicting messages negotiations"
-    }
-  },
-  {
-    "title": "Trump touts Iran talks; Iranian: US ‘wish list’ until it’s reality - CNN",
-    "summary": "Trump touts Iran talks; Iranian: US ‘wish list’ until it’s reality CNN",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaklJMGJtZ01ISHdLQUVfY1lYSVl6X3RsdVlaSXVGR0xQZWJyWHlWQ0IycnljamphZ1piUW1KME9DN1VqWkl0RFJOeXRFaGppYWZfaHhkSzctRU1QX0lQbnR4SGtIYjROVXJjLTBaelNsQk5FaVpsMnRwTnBQOE53T0o5MVJDQQ?oc=5",
-    "source": "CNN",
-    "published_at": "2026-05-06T23:32:53+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 23:32:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "275608338038d6cfddc055ac96f03eee88b6aa96",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
+      "label": "irrelevant",
       "strength": 0.8,
-      "reason": "Reports of active diplomatic talks between Trump and Iran; Iran calls US demands a 'wish list'.",
-      "event_key": "trump iran talks"
-    }
-  },
-  {
-    "title": "Trump says US had 'very good' talks with Iran in past 24 hours - chinadailyasia.com",
-    "summary": "Trump says US had 'very good' talks with Iran in past 24 hours chinadailyasia.com",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iano1NDFKaFBQZTd3amRoelRsSzdmbWFBWkV1WG1iUmVrMmg0Z0lTRzgyVXQ5MzZsaVRpRERIMTlKc0dOS3RzZmowaC1Uc25PZWROZlBRTXo?oc=5",
-    "source": "chinadailyasia.com",
-    "published_at": "2026-05-07T02:32:36+00:00",
-    "raw_pub_date": "Thu, 07 May 2026 02:32:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ad245e8fa593419672a4144a02f5e42dae06bff8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Trump reported recent 'very good' talks with Iran, indicating active diplomatic engagement.",
-      "event_key": "us iran very good talks"
-    }
-  },
-  {
-    "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war - WABE",
-    "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war WABE",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLVJUeFlPZ0pMOExITlRsYjd2Sm45a016T1BXTW1mTjZCYWZpeEFTSk5udlMxcmc3dkd5aDZ2aE9haEdvc0R4SFd3QWZVTjRsdEdySDNXemFHUnBpLUpRajZzeXN1eEMtMk1rWTdORlFfX1VPS1ROcVM0endicXJ1SHZXNE0yMXhGVjhCUEFmem9FeXppaHlZRE1OYUlfRzlPMEZZUTJvT3FtSEE?oc=5",
-    "source": "WABE",
-    "published_at": "2026-05-06T22:11:22+00:00",
-    "raw_pub_date": "Wed, 06 May 2026 22:11:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "88fde8dbf3b17f7e8596e7d9cc9e4d1ed9f0f0a6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports say the US fired on an Iranian oil tanker — a direct military strike/attack.",
-      "event_key": "us fire on iran oil tanker"
-    }
-  },
-  {
-    "title": "US-Iran deal won't meet Isael's war goals on nukes, missiles and proxies - ynetnews",
-    "summary": "US-Iran deal won't meet Isael's war goals on nukes, missiles and proxies ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOFhBQ0YzX1N1ZmlscjhFYkNoZ3VpeUJ3ODNVT3hHbDByQnF4ejZDSGhaNTRIUS1haUNKU2dhUmZDSWZYUWVtbV9XU3lGaXhwWWtVeGVWaw?oc=5",
-    "source": "ynetnews",
-    "published_at": "2026-05-07T01:26:40+00:00",
-    "raw_pub_date": "Thu, 07 May 2026 01:26:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "06531ee0ae2352acc5103f508115b936824c801b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Discusses a US-Iran deal and its shortcomings relative to Israel's objectives, relating to diplomatic agreement.",
-      "event_key": "us iran deal insufficient for israel"
-    }
-  },
-  {
-    "title": "Warnings of the \"Confrontation Trap\": Former U.S. Defense Official Calls War with Iran a \"Losing Choice\" for Washington - صوت الإمارات",
-    "summary": "Warnings of the \"Confrontation Trap\": Former U.S. Defense Official Calls War with Iran a \"Losing Choice\" for Washington صوت الإمارات",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT04weFJUU1czVTdnUi1PX3VEU09wZWp5cXBoXzNzOW9hUzBIRTJQVmZqNXNTbU9LOTN4WF8wY28zaEY5a3RoR3FVUTFBNW5VdF9WT1NOSXNvQlloR3NtTXJhY1Y5NXZ0Z205OFZfM3lOVUQ3cEpsTW9ENVZkSzVWTHdvcVRaTzRfQTJLUmY5czZQV3JhT0pfcEVzR0lFM3BBTjdMRFNNRTlnYjlfMGFmeFVvSG4zWC1RSUVFMnFUQ2IxRHVFZlRLTVZkd0pkczNpZldnek5BekRNMDlEOFlLUHBnbjJNZ1Jhb2ZzbW9aVnNBTlpRQ0VQcA?oc=5",
-    "source": "صوت الإمارات",
-    "published_at": "2026-05-07T00:52:26+00:00",
-    "raw_pub_date": "Thu, 07 May 2026 00:52:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f5d251531b585660cf3863f029e29a83c9818855",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Former U.S. defense official warns war with Iran would be a 'losing choice', urging restraint and avoiding confrontation.",
-      "event_key": "official warns against war with iran"
+      "reason": "Opinion/critique of US media speculation on a nuclear deal, not reporting active diplomacy or military developments.",
+      "event_key": "media critique nuclear deal speculation"
     }
   }
 ]
