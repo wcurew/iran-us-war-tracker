@@ -1,87 +1,104 @@
 [
   {
-    "title": "Iran mulls US peace plan as Hormuz strikes threaten ceasefire - The New Arab",
-    "summary": "Iran mulls US peace plan as Hormuz strikes threaten ceasefire The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHBRTmU3a1NIQk9wbFZMTlVhblJHUUpwTG1Ra2RSRkRjOTdNQ0RORVpXNEFpZDhyUGlqZ1NiQlE2d0x6NXhraVdZZV9SaENfTHl2VGpQcVEyUURYTzlZV0NPRkUxWW5PcUFCcTBPS2ZOb1hPLTFkSzFHMDdrVktZTE9pM2F6ci1QaGFwVjdPbXLSAZYBQVVfeXFMTUpsN24yc21yWTY3a0M3elR2dkNlamJib0JrSmsxQmpsY2RqQzJvWFhULWtqanF2MnNxUkVGZVNoM2tqaWYwc0FWakg5UTZ2aWRmcGtpdkhjTDg5ZW1faDlOOXhKTkFsalRHUGpWUFVKNlF0Uy00WXdsSFJ2dHpqdVVVY1o3bEw5V1pya25TWGJnZERPT2h3?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-05-09T09:10:56+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 09:10:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ab7dafeedb1e6d6eab86648fc692e54bb3ef6f10",
+    "title": "A fragile ceasefire holds as US awaits Iran response, Bahrain detains dozens - AP News",
+    "summary": "A fragile ceasefire holds as US awaits Iran response, Bahrain detains dozens AP News",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0S2RNMVJ5UEh2ZUpfcHpUZEg5eXRwYlFPYUx4aXBZWmExUWh3dmxCUlc2RlgtS3FzcDhPTERiVm14RmhzSTZEVFZVY1lNbFdhbTBwdWFsbFp4Zjgtc3ZPWkVRSzRXQlo2Tm5oNlRXRWFpeDdYbHJVYl8tdw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-05-09T11:43:27+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 11:43:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1f90fa92bb89729d90db14b1437295d0be3f6c77",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Reports a fragile ceasefire holding while the US awaits Iran's response.",
+      "event_key": "fragile ceasefire us awaits iran response"
+    }
+  },
+  {
+    "title": "US Awaits Iranian Response After Hormuz Clashes Strain Ceasefire - Bloomberg.com",
+    "summary": "US Awaits Iranian Response After Hormuz Clashes Strain Ceasefire Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNm1XdzVFLWhOeGVQbW95OTVfUG1IMGxwZGowX25XdW1TNHlHRFlRTFBUMXVfcUxuMGtBV2p5LTlXYWxpdEU1QkN1VmxvMmhNbEdYWlE0QXV0dm1ETFZTczhVdmU4dUJCaWJaMEE3bXphdVVDOENBMHJ2dVc0TUR4Y01FUmxERm1qem9PdUlhZXNLSUxybVlxS21aWF81d0M5ekZwSWZ3cW5oblpVWGtmajJEeENDZw?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-05-09T10:07:41+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 10:07:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "72d027ee653116738bad2ac01d74266e11c363cd",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Clashes strained an existing ceasefire; US awaiting Iran's response indicates restraint and efforts to avoid wider war.",
+      "event_key": "hormuz clashes strain ceasefire"
+    }
+  },
+  {
+    "title": "Iran war latest: Ceasefire appears to hold after US strikes Iranian oil tankers - LiveNOW from FOX",
+    "summary": "Iran war latest: Ceasefire appears to hold after US strikes Iranian oil tankers LiveNOW from FOX",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qYXZwX1cydGV4WnlVWXF6bndmVFZiaGNaUmlxQ1ljUW9wVlU0YzJfVmRvOVUyV3hXZFhvMHY4aWdGQ2RvZW0weFhUQzJnTFFYeEN5cmdGd2FvajY4UUk1ZUJUONIBaEFVX3lxTE13VzNVWEZ0NlNSb3hZb3lNdWtNUVNoSno3QXdrNEZhUVVMZDdUeFlRd0xJZGo0V1gtMlU5aHRyMHQydms4Z2RXeVoxRm1fS0VDQTFpUVVJejRFcEJmZUhPOV85RnNMajJ2?oc=5",
+    "source": "LiveNOW from FOX",
+    "published_at": "2026-05-09T12:49:50+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 12:49:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "149365b5564781c0eb1d93d0f7493b9a8f0e52d3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Reports state an explicit ceasefire appears to be holding despite recent US strikes on Iranian oil tankers.",
+      "event_key": "ceasefire holds after us strikes on iranian oil tankers"
+    }
+  },
+  {
+    "title": "Iran war: US expecting Tehran's response to proposed deal - DW.com",
+    "summary": "Iran war: US expecting Tehran's response to proposed deal DW.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWR0Um1jUktVNV93RlNTNU9nMUFuckxoQXhKVklYUVZJcVdZTHkxY211dmtQU0tCYmVqdDUzV012eDRnLXZBRzZaSTlfNzd0cXJiek5tdG9YenljR0lXSXdfLS1NdlNuZkF6UnBQY2RxTVU3QTdWRlF4RlcwS21qVDRPc1VMY2dHQjYwSl8zZURvbHNCR1E?oc=5",
+    "source": "DW.com",
+    "published_at": "2026-05-09T12:06:56+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 12:06:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "153310b085dcb283395cce341b10bc4fae071510",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Iran is weighing a US peace plan—active diplomatic engagement—despite surrounding strikes in Hormuz that threaten the ceasefire.",
-      "event_key": "iran mulls us peace plan"
+      "strength": 0.85,
+      "reason": "US awaiting Tehran's reply to a proposed deal indicates active diplomatic talks/engagement.",
+      "event_key": "us awaiting iran response to proposed deal"
     }
   },
   {
-    "title": "Iran Launches Missile, Drone Attack on US Warships near Hormuz - Palestine Chronicle",
-    "summary": "Iran Launches Missile, Drone Attack on US Warships near Hormuz Palestine Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDRIVEQyMzB6eUhidFoxTUZCU0RnSTdpSlBzOWo2Qk1LbGxkQ0NIWnhYUkNZOEVudTRPcGliSGRhUFRvM0hCdjFlUktYVFpxWFZaNXUtOXdZSF9Hbm1BRjZWX2tYSDJYeTZ1MWZHUWd2LXZVWFNrcVE0UUVZMkJ2X2dYSFpYaFFvanQ4MjVxUVl2TmhXdlNBUXBIalNoUQ?oc=5",
-    "source": "Palestine Chronicle",
-    "published_at": "2026-05-09T08:46:28+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 08:46:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d78d66c38ee3cf566bdf1ed4c2985ca2d91b1358",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct Iranian missile and drone attack on US warships constitutes a direct military strike/retaliation.",
-      "event_key": "iran missile drone attack us warships hormuz"
-    }
-  },
-  {
-    "title": "Iran warns US over ceasefire breach as Hormuz tensions escalate - Daily Pioneer",
-    "summary": "Iran warns US over ceasefire breach as Hormuz tensions escalate Daily Pioneer",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcV9GUWNPR3BQblF5Q3BBWThOTFVmTFlrLWFZRUlkWU5CVWlrYU9ObGdwR1R2UWNZRjhLdGRIbVJNRGdUNHhMVXB0aXlTeVEwMXphaDZUeXQwYUIyTUZEc1dRTkxWTGk4aWQydFRoazFIek1WWmptMFJ6QktMRUxHOXgyRHh5dXpZLXNZdk50eGtRVTUzcFl0Qml6eEVwb0U1OEtDek9rMFR2d3hjMEYwbTZSZVdIZUxTLTk5d2lYZVI?oc=5",
-    "source": "Daily Pioneer",
-    "published_at": "2026-05-09T08:15:44+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 08:15:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a8d935718c86e5c5b182cc9e4607d3e9dfe4d998",
+    "title": "U.S. President Warns of 'Project Freedom Plus' as Iran Maritime Tensions Escalate - Kurdistan24",
+    "summary": "U.S. President Warns of 'Project Freedom Plus' as Iran Maritime Tensions Escalate Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2hyczlkMHU0ZVRvVVBYMnZRb3JpU1ppTlZlNDJfaWJhTHptR1VBbmM4ZDJHVUxXUHozNVBXZWludUltQUcxZnF6Z3BaQjVUa1NaYmtmRG50cnJSeFFwNDRFSWJsc2otY3Q1ZElKclRZUUdCekxFUklvQnRUNnRaVm9RYnFET0FOUUxFckJVcmx3SGRxMU05Vm5sRngwLTVsMFA1X1hZWk92Q05rRWl3SlJMY041Q29YTnlHLV9B?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-05-09T12:32:34+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 12:32:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3d0892e8ce97cd685ffb663984fc966e6bc22dd1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran issues warning to the US over a ceasefire breach amid rising tensions in the Strait of Hormuz, indicating heightened confrontation.",
-      "event_key": "iran warns us ceasefire breach hormuz"
+      "strength": 0.85,
+      "reason": "Presidential warning and 'escalate' maritime tensions indicate rising threats and breakdown toward confrontation.",
+      "event_key": "project freedom plus presidential warning maritime escalation"
     }
   },
   {
-    "title": "Iran Puts Trump ‘On Hold’ In First Response To US Offer, Sends Sharp Warning | Watch - The Times of India",
-    "summary": "Iran Puts Trump ‘On Hold’ In First Response To US Offer, Sends Sharp Warning | Watch The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbzhFdzRReEdDM0Zndkdnd0NKLXFmbGpTNjAySXdhajExRjd4VTRvTnhjcEtQSURpblIyTFJzUUNEc2VCb2RQelBoTjR6dEI5dV9TRkpoYkkxX3VUeHNWckZVbmRzUDRaaU9zeG5vblo2eVc0UTg0ZnVUbmgyQUZvMUt5WHdaS1RvUlZRRFRMUmZTVUlrU25LdjBvdUtXNGFYSzQwelZDbG1ZdVdhUWVoNDBoZmhRRHBOZ05xNlQ1SmtPSkQyWWxUNXdRcXd3UHFVU2syS0ZtOFZSQ1JleGI3X3djaXFzY3BNNWhtbXo4bGRnQdIB9wFBVV95cUxPU2JkS1JlXzhkM2Rla2tzcVowQUJTLVYzZnItQzVOVTZ5V0RuWUg3dkloaVd6S3JLdDA4MllzTGpJVWRESDUzQlY5cHJZU1NJRU9GeXNCeVdjelRiRi0zTHNXVnBFM2lQYjNVclV1NnBiTWZ2Uzd2T2NpRnpqSU5vREdxeFdUUkRUOUVSOFptS1FTOC1zdmFGVm9RWUxTNWNYMFlocElHeDhKck5CUWxyenBfcFR0ZjMyQnlJZ3BnVHVJSGg1dDZ4QW1oNzJabURkWGdCdUNlN3lCcjdZcmJlTnNoSmMwVWlkbE11RnhqdDlqY2EzODJB?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-05-09T08:35:44+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 08:35:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "86155d003d68d3ae318e5564eef44bf4a34c23f1",
+    "title": "Iran says US naval escalation deepens doubts about Washington's commitment to diplomacy - Yeni Safak English",
+    "summary": "Iran says US naval escalation deepens doubts about Washington's commitment to diplomacy Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0FnbVdmWTZ5ZmE1a3AwTEk1eXZXOFFjNGJaQjU5UGJPOC1aa2VHcTBHSXJVcWRON0VUNWt2dWJ3X0hmY1dRWUFzRWpyd2EzZWpOOTdzbWxaYU8yWmplOVJic1RyRGFMcEpJNVpYNVdwSlVqTGNrR21CYlhvdkR5YjNLZ3pMWTFGbTY4elJSMU02UERlTlBsZmYyMGZzNVhDUGUtRUYxeVlaTTBHTVBIenZuU0tUanF6ZHhkUzEtMGlRWW8?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-05-09T10:27:08+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 10:27:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "22706d60653920272eaeb80c95350b5239245443",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.72,
-      "reason": "Iran put a US offer 'on hold' and issued a sharp warning—rejection/warning indicates rising tensions.",
-      "event_key": "iran puts us offer on hold warning"
-    }
-  },
-  {
-    "title": "Diplomatic alarm grows over Iran - US confrontation risks - AzerNews",
-    "summary": "Diplomatic alarm grows over Iran - US confrontation risks AzerNews",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsYjF2NE04T01UZmZrR3FzQkZUY3Z2clFTYUVOUmxBTTNobHZobmxkTGVtWEVnTmlFMm5tZXk0eENQSWpHQU1NYksta0pVS0EyeWtubw?oc=5",
-    "source": "AzerNews",
-    "published_at": "2026-05-09T09:22:00+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 09:22:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "10d2bea360c3a05a9784d5c1c14074b0c853cc99",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Diplomatic alarm and risks of US-Iran confrontation indicate rising tensions and threats, not talks or a ceasefire.",
-      "event_key": "diplomatic alarm rising tensions"
+      "strength": 0.75,
+      "reason": "Iran criticizes a US naval escalation as undermining diplomatic commitments, signaling rising tensions.",
+      "event_key": "us naval escalation undermines diplomacy"
     }
   }
 ]
