@@ -1,87 +1,53 @@
 [
   {
-    "title": "Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire - WSJ",
-    "summary": "Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire WSJ",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHVmak45SldWNTh6eUhBNlZrUDhTaFRFRXh5cHBQTlJmc2Z0bGpQSmZCWEl5bjBVbXJWTjg5WW9VX3JtNDNTb1ZwSEp1S3dqZElEU1AxTm5scjR5c1BLNmVGa0V5RnFhV3hUMWJFaGNyU2VYWjlwQnFKSG13QThXcHZWZXhuSmF2TWlGNA?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-05-09T03:00:00+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 03:00:00 GMT",
+    "title": "U.S. and Iran no closer to ending war as Gulf clashes test ceasefire - NBC News",
+    "summary": "U.S. and Iran no closer to ending war as Gulf clashes test ceasefire NBC News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXRVdi1mQWI3b2MwX2d4RjdVN1BXYnV2TUhlYnB5dnFGa2Nuc1c1bF9CZGVDUncxUEp4T1V3X1Z3WVl3UFY1cDdLbmE4d0RxdTVlWTVJZWlXM0s1aDFNSnBPdk9XaUlGemN3XzVua3JBNW90RkNKU1BhMlJLNmplWmpLaWswcGszdGJ3aFRYTFBhQWZaSWJPNHIyRW96aXZIdThDUQ?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-05-09T07:43:46+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 07:43:46 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "844c0d68d92bfa9d5af7990b2411bcd91732768c",
+    "article_id": "1a44fd3a529c936e7d22e763f3f4193064138220",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.65,
+      "reason": "Existing ceasefire being tested by Gulf clashes while U.S.-Iran talks stall.",
+      "event_key": "gulf clashes test ceasefire"
+    }
+  },
+  {
+    "title": "US sanctions 9 mainland China and Hong Kong entities over alleged Iran military links - South China Morning Post",
+    "summary": "US sanctions 9 mainland China and Hong Kong entities over alleged Iran military links South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2Y4dm5TdnlXb1dfenFhbm8xd281ajFSZlkwWWRBb2ZYc052cmRLQ0pJbHpVYlV5d1Y4ejZmM19idll6SFhWb2FhQ2hXSXBtQVpwMVlBQnYtS2pISm83dDcyMF8wMkx0T2VsU21UTEtFTjgxTnE0RDE0VThTZGZwaXh5N3ZDeEFBSHBUZjJWLWJhV1B1NjVfQ0pEOVM3U0ZYaU51WGcyVHNpNkpCSnZRZmxOOV9EZnMwTkpvQ3FBai00dGJYcnZJVllwQVV1WTRWaWoxUzI2NlZ5Y1k?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-05-09T07:16:07+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 07:16:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8231263be93b5e51076f5041b5df4f834514a034",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.45,
-      "reason": "Iranian attacks and Gulf concerns signal rising tensions and threat to cease-fire prospects.",
-      "event_key": "iranian attacks gulf concerns muted us response"
+      "strength": 0.7,
+      "reason": "US sanctions on China/HK entities over alleged Iran military links represent a hostile action raising tensions.",
+      "event_key": "us sanctions china entities over iran military links"
     }
   },
   {
-    "title": "US-Iran War: US Opens Fire on Iranian Ships, Trump Warns of Even Violent Retaliation - WION",
-    "summary": "US-Iran War: US Opens Fire on Iranian Ships, Trump Warns of Even Violent Retaliation WION",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUXFyN2I0Tjc1RFVKTEFid0hsbWpxRFlfMmlHaURtYnVkeWVfc3d6aU9zSmRCSzZGajEydGl5OXBDYUJPcy1xLXc0OFBRdDVfUjBTMGU3UnhYUF92bjBFeUtFd1dQakRsdm5ZV2ZKOXBoQThJQk0zOUs5S3l6ekluMWZoNzQ5bmYxZU5fM210SlJVZjd2bzJZTEJ0R3F6VkItUGF2NXl3VTRxNUpnSjh0czdOc2JDQnA5TlBCd3B3MTRlbGt1cUHSAcsBQVVfeXFMUE1kbUhFR1J3dl8zSmdYRG1uSklqakFHNjBxd2J3VEJKTURZdTF2SjdGdjF6dG4tTnZxdmtaUWJ2X1l0N3lyUlc5X0NoMXY4OTFzYjloNFR2QjdaUmxJT1pIQXZnZ3pyekdyQ2Q0Z3NlRExsMmUxY0laXzhfdXctOUMyMHpWODgtSDd5a3k4UGRJSUV4ZGpON0pRNUxSRUZPYzQydWZsMjZVRHhENTkwUWxiT2R4N0I1YlZpd3lTUTFidDUzUWV5TG44QkE?oc=5",
-    "source": "WION",
-    "published_at": "2026-05-09T04:23:00+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 04:23:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f287525a5b1646f2806f4d7c25162bdd3dbe528",
+    "title": "Trump warns US may escalate Hormuz posture if no Iran deal, threatening 'Project Freedom Plus' - Yeni Safak English",
+    "summary": "Trump warns US may escalate Hormuz posture if no Iran deal, threatening 'Project Freedom Plus' Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2NkM25uWl80OTVNTkhjMVNtUldwRGJQVk05dGM4OHVqdHpZMGpnaG41NDVZSnZKYVVTNTNpamZ0bml4VzJXOUNiWEkxVmRUTjBZVDZvYUxyMTZYejVhcTVLTktjajA0ekpQNDJZLUJtdk9oTUg0WXM5clFzUDdRUEQyQXd5OEtfczFidU10N2ZVdE1kd2VjLWsxNGoyTEJqNThyUE01b2NZWDNCcnF1X1JUemo1WlRLVmZVZHhMZ0RsbEVKOE5UcFBB?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-05-09T07:22:40+00:00",
+    "raw_pub_date": "Sat, 09 May 2026 07:22:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d8bd17118ecfba7e2e2ab4e73a30b0f83e535709",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports US opened fire on Iranian ships and threats of violent retaliation indicate direct military action and retaliation.",
-      "event_key": "us opens fire on iranian ships"
-    }
-  },
-  {
-    "title": "US attacks two Iranian-flagged tankers as Trump escalates war ahead of China summit - World Socialist Web Site",
-    "summary": "US attacks two Iranian-flagged tankers as Trump escalates war ahead of China summit World Socialist Web Site",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wallFQkZmdXJ2ZlRGdmRwLWhmSlR3LW9PTmd2bVZydmtjNVVHWnZCd28xQThWNnRlMkVNTkFYeGRGTU1WcjlZQjFRX01raU41bDJJcWFVNHB0aG5zQ202MTZFTnJOUDJp?oc=5",
-    "source": "World Socialist Web Site",
-    "published_at": "2026-05-09T03:52:01+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 03:52:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e20314fbef67d525b786efcda73b9113e34ae157",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe direct US attacks on two Iranian-flagged tankers, indicating military strikes/retaliation.",
-      "event_key": "us attacks iranian flagged tankers"
-    }
-  },
-  {
-    "title": "US fighter jet’s attack on Iranian tankers explained - CNN",
-    "summary": "US fighter jet’s attack on Iranian tankers explained CNN",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEV5bG9EbmxQRHFwaG9VS1ZjZjdqcFFkUUlURzhYenFlUFlkenAzUE9hVS1mNlFxbzJWSXVnY2gwNElWZ3haVHlab3gybDBja25sOHpsSS1wZUdYWEx5T2ZiZVllTEZsZGtRSklSaW5vS2lpNUtaQ013bGVTR0FYT1lXcVpySnBDdTBYNmhaNVBBWk5qVkE3MzdCVEFUYjdRMF94RTFn?oc=5",
-    "source": "CNN",
-    "published_at": "2026-05-09T04:34:28+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 04:34:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a57ce5c503adc1fb137ac1f6f7e0742ec020512f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct US fighter jet attack on Iranian tankers, a military strike/retaliation.",
-      "event_key": "us airstrike on iranian tankers"
-    }
-  },
-  {
-    "title": "US-Israel-Iran War Latest News: US-Iran Peace Talks to Resume Next Week in Islamabad? '14 Point Memo' Sparks Hopes of Ceasefire - The Sunday Guardian",
-    "summary": "US-Israel-Iran War Latest News: US-Iran Peace Talks to Resume Next Week in Islamabad? '14 Point Memo' Sparks Hopes of Ceasefire The Sunday Guardian",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLWZaUFlaZmxYVFpPckVuTHJTOWpsSm5pMllMdURCc0FrX3I4M0U5eE01Vzk2aFRWcmQwYURBYlpKbGtqTXpIaG5BV3MzZk94aHpTeVFYV3ctejY0bzlOcmhDRUVIZzkyNDBFSVZzdzVoZXFxRnpsRzY2WGFoSDhLbS01cE9fMFJqWEQ1VjNLbGNyZnpiRFloeXFTbWE0NWtWem9MdE9uRm1YQlFNS2pTLVZHYll3Z256T0M4M1Z4Y0xfTjNEb1gyU0p6VW1zRUpndlJuVnpPRHNnR2tVdHl6cmlTVHRRX25UbS1odkg2WDhsVGFrUVZrMlVhR2Q?oc=5",
-    "source": "The Sunday Guardian",
-    "published_at": "2026-05-09T04:41:17+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 04:41:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "19ad648350a026bd3476ee219c40488b511cd092",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
+      "label": "escalation",
       "strength": 0.85,
-      "reason": "Reports peace talks resuming between US and Iran and a 14-point memo aiming to advance ceasefire discussions.",
-      "event_key": "us iran peace talks isl 14pt memo"
+      "reason": "Trump warning to escalate U.S. posture in Strait of Hormuz if no Iran deal.",
+      "event_key": "trump warns escalate hormuz posture"
     }
   }
 ]
