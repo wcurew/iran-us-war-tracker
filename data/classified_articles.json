@@ -1,87 +1,121 @@
 [
   {
-    "title": "Iran Hardline Stability Front Obstructs U.S. Ceasefire Talks - 조선일보",
-    "summary": "Iran Hardline Stability Front Obstructs U.S. Ceasefire Talks 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzVZNzUyZmJkOFhWTWpIMlhocWI1RmJJMzhiMllhd1BUeEhHQjBxWFlWNTI4eU14ZTJfRmR1VnNtVU9ERk1nRXRMQ0JYTGhneEFmVWxPbVpUakkyUVg3amZnZ1pUZElPekp4Z1ZUQWJpQ0pGRXM0V29FTkl2aDNuODgyck4?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-05-09T22:00:19+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 22:00:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "928c2a5c52c4fba940f7fb3aaa7be5fb5fe255e0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Hardline Iranian faction obstructing U.S. ceasefire talks signals breakdown of diplomacy and rising tensions.",
-      "event_key": "iran hardline blocks us ceasefire talks"
-    }
-  },
-  {
-    "title": "Tehran sceptical of US diplomacy as Washington awaits response to peace plan - The News Pakistan",
-    "summary": "Tehran sceptical of US diplomacy as Washington awaits response to peace plan The News Pakistan",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU1wWTZXLURIRWVmcWtnWVhZdFZZVzZLaGNoWEhnTEJvc2s5RXh1VzlWN1Y1YnB5b3k4SHpIVkpEZnA4TzlXYnh1V1AtaTUyQ2dBUEc0M0hWam5KOWdMWEp2RVBPNjZUODI4SmRBQlVSQkF1M001X1FTaHlKcTdMOUVRd0FWRk80M2pMZXFZa0MxMEpNQTkwUE0zVmE5Q183bURnVXRrSmdCUTUwS3ZYb0xnbw?oc=5",
-    "source": "The News Pakistan",
-    "published_at": "2026-05-10T01:23:35+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 01:23:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "959adcf0242495ca2ba015d882157a3a327ebc01",
+    "title": "US has yet to hear from Iran on ceasefire plan - WUSA9",
+    "summary": "US has yet to hear from Iran on ceasefire plan WUSA9",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSkdmZlBMYjNCWW1hT19nT2l6aWlMWEhNMzdQODFTRVpwYzFibVpTRDM4NW5NRlJ2VUF3OFJETHcwSXQxUVE1aHRPLWsyc0tkSWtFeU42ekM3SHpVQ185aXgzXzFacFBqZUxtUXhuR3ZtOEJhMzVwTHNUanFOUnVKTFVxTnlKNUlaYXVPVjJUTEZXdHpYX2lINkRFU1FrTG5lWjRGeHp4UG1kMDBuOENYR2Z4c2YzbjJtUTVvMXNnQzdkSmUtSXViblQtSVlya0JCT0ZPRXBJbUFHRU03OWh5WA?oc=5",
+    "source": "WUSA9",
+    "published_at": "2026-05-10T03:14:00+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 03:14:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "59169adf2384c39e6e429d4a8ebab6b09311855a",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "US submitted a peace plan and Tehran's response awaited, indicating active diplomatic engagement.",
-      "event_key": "us peace plan tehran response"
+      "strength": 0.8,
+      "reason": "US awaiting Iran's response to a proposed ceasefire plan, indicating ongoing diplomatic engagement.",
+      "event_key": "us awaiting iran response ceasefire"
     }
   },
   {
-    "title": "Iran warns U.S. against attacks on its oil tankers and other vessels - Los Angeles Times",
-    "summary": "Iran warns U.S. against attacks on its oil tankers and other vessels Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzlYbXEydE1BUlZnSVVHZTJCRVFsOHJyODJLbUY1c0RnWTlXQXNCaWRUcjVpbmxWa0FIWjVpX1RiS09pa3NyNTBwMmV6b09Gd09ja3VlZ3hMOEFJV2tMc21PanV1clpBQmxWR3FNOFB1TS1HNU8yMjFCc3lpaFZLc0JqSTFSc0FpVGxNcW85bGpVVVFwYUdEcmViNFFfZ0tyekpGWUZCQ3RjOVlMeXhnaUllRkVaZTNQY3BselBFaVMxejl2?oc=5",
-    "source": "Los Angeles Times",
-    "published_at": "2026-05-09T22:01:00+00:00",
-    "raw_pub_date": "Sat, 09 May 2026 22:01:00 GMT",
+    "title": "Iran Envoy Says Deal Possible if US Takes ‘Rational’ Approach - bloomingbit",
+    "summary": "Iran Envoy Says Deal Possible if US Takes ‘Rational’ Approach bloomingbit",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TUFBQQk8zNUxhX1pDVm5uMmZKSUI1Zlo4UEVZSzRvQTF5LXNDU1IteWxqM0lUcnpiREY1N09tMElvWHJibmdENFlMZnIwaVVRRHI3NA?oc=5",
+    "source": "bloomingbit",
+    "published_at": "2026-05-10T04:36:49+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 04:36:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8bdd19871183e11dc673c24f8d32ca7edcca5da5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran envoy signals a possible deal contingent on US adopting a 'rational' approach — diplomatic overture.",
+      "event_key": "iran envoy says deal possible if us rational"
+    }
+  },
+  {
+    "title": "Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire - The Guardian",
+    "summary": "Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEN0X195dXk5Y05pNDVZa1VfR1hXN1pPa09TYjdwX2JfTHgyZEtCZFFjMjVSLUFFSlZFTjBnM3lMYXg3ZzdZaVJQa0ZtOV9XMUFjWVFuNTFXUGltRXRjSFdkTDVyMFBtVngzVGV6WGZ6MGxSRGhpTjFSVUI1anZQekdVY25jZ0tYa3h4eVlLSEROZjRsZWgzZkdsV3lUVTNZRXdCZjZPVk1ERTZIYmxPaA?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-05-10T05:06:00+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 05:06:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "04974afc9ad41bc3e697aaf8afc1bd10f0a94820",
+    "article_id": "563e072f7425e1bec0f0172b7b5b8b654f9d1ef4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "IRGC threats to target US sites are hostile warnings that raise tensions and risk conflict escalation.",
+      "event_key": "irgc threats target us sites over tanker attacks"
+    }
+  },
+  {
+    "title": "IRGC warns attacks on Iranian vessels would trigger strikes on US targets in region - Anadolu Ajansı",
+    "summary": "IRGC warns attacks on Iranian vessels would trigger strikes on US targets in region Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajk0b1NHZ0VVbzZaMjlFc3Npc0hVS3FobjQxTzB2S1NTNFU3a2N3Y0ptMmdXbHdmejVSeG56OGc0WmhKQk9aOVowTGZremJudXM2VTFCNGkzRER0c0xITmNCUWNxNWRvZ2dPd3BpOE5qQWxCb1V6R1RUQV8tOVRmTTZNbmtZZnc4b1ZPYkpYLXNiMEVnbDRmeUd2cTlSblZGRGRCNU14d2IzenAtUGF5UFBCNHljVUNRR1NhX25aUTR0M0pCY240QzQ5RjlhdGp0?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-05-10T04:24:16+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 04:24:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3335f6d1c67b9d8db0de42f02de3bc7c6b02d6a4",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's warning to the U.S. is a direct threat/hostile rhetoric increasing tensions.",
-      "event_key": "iran warns us against attacks on oil tankers and vessels"
+      "reason": "IRGC's explicit warning to strike US targets if Iranian vessels attacked constitutes threat and rising tensions.",
+      "event_key": "irgc warning strike us targets over iranian vessels"
     }
   },
   {
-    "title": "Iran's Guards threaten US Mideast sites as Trump awaits Tehran response - Al-Monitor",
-    "summary": "Iran's Guards threaten US Mideast sites as Trump awaits Tehran response Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmhfdWMycjNqNl9DczBaU0w0ejRkaGtRU2p5NWNNUVZnanJ0OWdlYWJJd3JhemNYd3RRclF5Y0VzWGNDQ0NHMmlONHRSTllhNkRQNVhxRmFPaVpmZVZRc2NibzFXS3UwZHEwMWJGOFF4XzBGSkdvRmN3dVdwY1IwbWE3SmR6alBRaUxwemlyam1GZkRjaFdEMmhsdDlRZWl4eDNBaWR6bFZYZ1d0Tkc1b1pR?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-05-10T00:00:17+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 00:00:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "665e01aa65c97d8c3c402d7fd05d8b564363bfa9",
+    "title": "The US awaits Tehran's response; Washington prepares for escalation scenarios before the end of the day. - صوت الإمارات",
+    "summary": "The US awaits Tehran's response; Washington prepares for escalation scenarios before the end of the day. صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcGZ0NmVVaTE1a2d5bjA4YmFyQWVZUHdIVDZBYUdpTGpiaTAwUHlXbVJwU0hYSV9iOUQ2cFd0Z3dadHIxWUtFelZhaWN3NDZyTUo1X1hRVWplOXpsbnZKZEZHZTB1Ul90eWxtdVJpRmw0VGJLWUc0OEI5R2QybGpUWUtqNFVVYlQ5aXU5eHJRTjFOUEtvT2gxNl9RSDl1S3RXLWpTSmVpbkp0OFNlWnRWdGRBRDhsSzVJellnZk1FUU9OR3VOMU5QLU1BdkJBR0tmWDBWOUVzXzdNYy1Yd1MwQzFRNE92Yk5PYi05ME5R?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-05-10T05:21:44+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 05:21:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "46f63cced82d4ff24ab8ead6efa6ac786bb1b6b9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "IRGC threats toward U.S. Mideast sites are hostile rhetoric indicating rising tensions.",
-      "event_key": "irgc threats us mideast sites"
+      "strength": 0.8,
+      "reason": "US preparing escalation scenarios while awaiting Tehran's response signals rising tensions and potential hostile moves.",
+      "event_key": "us prepares escalation awaits tehran response"
     }
   },
   {
-    "title": "‘Missiles, drones locked on US targets’: Iran’s fresh threat to US as peace talks are stalled - The Indian Express",
-    "summary": "‘Missiles, drones locked on US targets’: Iran’s fresh threat to US as peace talks are stalled The Indian Express",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekpOT2JpcHRtQmZncDdjMVBNWnA0WlI5MzlhbzhocmxadHVsUFRuYmJ2SWR4OWZCN1UteWRRNGdtTmhRaVhVVWhkVHFYMHdBNDFDRllod21ubVV0dWRPUE1CbnVzSkd6TWlmU0k5c0ZUT2trZ0lLUlNYQUJfVDcxTVlmaklwUkl4U0x4ZlNfcldWV3VQUzlIMnJ6U0d4a19EQno4THUwNzR0ZnFnUWFDQXJuYjE2NS1wVUM2dHJWMmh3eW_SAcoBQVVfeXFMTV9KY3JDOVlvemNxQTZmQWRCQXlYQTdHQjhvenBiQkgyVEFLc1BjYnYwSzlhRVViTlY3YkFaQ3NWRGFNLXZQcWpTVjAwczQ4S3hhbzdRNXFuRmdhb2UybFN6N0JCYmhDOHQxQ1dGMUIwY2F6QnZwUXVxdi1faENUa0llcV9hMlF0bkhkQnRGandET0luLW0xTzdoX21MUVhsaXVzMjZ2ei1rWVFkUGozdzlrbTVNN2VGNHdxZkhBMHNoUG1ZWEF3c3R4UQ?oc=5",
-    "source": "The Indian Express",
-    "published_at": "2026-05-10T00:23:08+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 00:23:08 GMT",
+    "title": "Iran's IRGC Warns US Assets Against Strikes on Its Vessels in Persian Gulf, Says Missiles 'Locked' Onto Targets - Republic World",
+    "summary": "Iran's IRGC Warns US Assets Against Strikes on Its Vessels in Persian Gulf, Says Missiles 'Locked' Onto Targets Republic World",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeDJrX0FwY09aekxYRVNySmZQeFZXOGd2WmE1cktHNGNUWksxUHEwVTEyVTlZOG9TTUdPenhjWkxIZmxoSE9tTWxVSlkxZk1ITkJxUlFKeURtQXVlZFBIa2lfSUthQk1NSkFjWm9reDNsNFNnd1kwaWpfS0lTSnhiRERRRTB2NDJJNFJhY01LM3VCRjRNZUdqRERKc283dXRuejE1YWx6Z2oxSUFnckRWTHdJeEgyenRpMHJ3YnNPS0NocEtsN3VzUjdXRjRqUHVUTkx2emJsLWpwd3puSlphdk5XWEJMZlhXQTh4dE8wTlZOZ3g5NDF5WHN2MNIBgAJBVV95cUxOU3M3bjR3QWlCZXFjWFI5d1p1dW5UTDcxMjdCZGxCSVdwQ1hXU3h2LVFwQk9KR1pKcHp1c1hMakJEbHc2UnVqbXNLRGc2WVVWVTF4dktTU1V6UkpoTUpIbnNFa3pHSXIyNGJkdHJzZG43VDEyM1FpQngwVTlTQjh5MWlPRnJ4TGE0R2lzRGdPc3NOd20yZHZSU3hwRTZLQ2dxeEhmQUllU21xX2FLd0YyQkNyTGZWLVNoUnVsald0M1ZIUmRHVTc5QTY4cG9sQ1V0RTEwRnlEc0JWaWhTXzhvTl85VDBkbkdFZER6SGxxaHRiQVFOblhGTU4tbEZPYWhQ?oc=5",
+    "source": "Republic World",
+    "published_at": "2026-05-10T04:47:57+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 04:47:57 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "53a7e77179e32be09bd0cea2436f729ca787c8b4",
+    "article_id": "f50689375cbc4a23990fad7c7f24de470bd8ee2d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "Iran issued direct threats of missiles and drones against the US amid stalled peace talks, indicating rising tensions and hostile rhetoric.",
-      "event_key": "iran threats missiles drones against us"
+      "reason": "IRGC issued direct threats and missile 'lock' warnings at US assets, constituting a clear escalation.",
+      "event_key": "irgc warning missiles locked"
+    }
+  },
+  {
+    "title": "Iran warns the US against attacks on its vessels as fragile ceasefire holds - Just News BD",
+    "summary": "Iran warns the US against attacks on its vessels as fragile ceasefire holds Just News BD",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RRTA2UF9BVExibnloSW56ZUJpVjlkOUx5U1M5WGtfSFRDTHNtbVA2TE9aMmZYV2wtTmhMbXNsZDB2U1pRX3psNkVudmhwdWZVQWd5cHBDNldPQQ?oc=5",
+    "source": "Just News BD",
+    "published_at": "2026-05-10T06:01:36+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 06:01:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "64565ba644eb3551c54aa1d30b51a03468449da1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.6,
+      "reason": "Article reports a fragile ceasefire holding despite Iran warning the US against attacks.",
+      "event_key": "iran fragile ceasefire warning"
     }
   }
 ]
