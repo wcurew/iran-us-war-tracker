@@ -1,206 +1,291 @@
 [
   {
-    "title": "Iran warns against complying with US sanctions as Gulf attacks reported - BBC",
-    "summary": "Iran warns against complying with US sanctions as Gulf attacks reported BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INHFiSGZyY0U3SXhZLUREcEMySzJQQktqYmJBdjBuSFhWTEt6YU9tOGU1SnVyRkdZb0pjOWJINFdOeDFNbUc0WGlLaVIyOWk4TWMwNmpLMXpIZw?oc=5",
-    "source": "BBC",
-    "published_at": "2026-05-10T12:22:06+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:22:06 GMT",
+    "title": "Iran says it has replied to US proposal as reported drone strikes strain ceasefire - The Guardian",
+    "summary": "Iran says it has replied to US proposal as reported drone strikes strain ceasefire The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVm9rQU1IVEthbFBLRGJVNHhWTXJRSDhKbkMtWERycmtBdzJLcU5IQkJFbWxaVFQ0TmR6VzZaVkcxNG92bXZSd1ZSMUlkbFhGX1BhRjlzSGVRbGdka3kzVHJKVTRVa3R1Rk5TNzlyc3FKejNsaU1qb091akNocVBVVVdKcXFtT2xjREMxNzNwWFNJVHpTMFROMGxDRERzTFZjVUNmajlpUTFmZFRqVkoyVlZKVG5mVjVw?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-05-10T14:38:00+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:38:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b265792c920208322051cea36a7a8d105288440b",
+    "article_id": "10fef7ef33d22f6bfe86504f6cfb8443f131fb25",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.75,
-      "reason": "Iran warning coupled with reported Gulf attacks suggests involvement of Iran-backed proxies increasing tensions.",
-      "event_key": "iran warning and gulf proxy attacks"
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran has replied to a US proposal amid drone strikes straining a ceasefire, indicating active diplomatic engagement.",
+      "event_key": "iran replied to us proposal"
     }
   },
   {
-    "title": "Iran submits response to latest US ceasefire proposal via Pakistan mediators - The Jerusalem Post",
-    "summary": "Iran submits response to latest US ceasefire proposal via Pakistan mediators The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3UUJ4ekp2S053SzdYT1ZxYnUtd3NWR00ybElsdHV5bDRtZkc5VHU2Vi1OWmZ1WXZhb3ZkbWMzc0hvVXpuNUlESGx5R3N5cV8wVVFBaGFTZ0NIRFdjVndSd2ZZT0h1cG1yVWc?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-05-10T12:53:11+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:53:11 GMT",
+    "title": "Iran responds to U.S. ceasefire proposal, saying talks must focus on permanently ending the war on all fronts - Fortune",
+    "summary": "Iran responds to U.S. ceasefire proposal, saying talks must focus on permanently ending the war on all fronts Fortune",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0RsMWNobDl5ckVpeEk1UVl6d1NQcDh3ZVpYUFRld3puUDZ3XzlseFllUk1IQVFlVGhOT1lIZm8zWGtRSVNnTUUxZ24yV0RXU216SmwxUVhKSTVLTDNlSl9UVHZLRnBLM3k1a2JTcDQ4VVhCNUVxVzM3ZHM5YVBFVDFYMWpzTDZ4S2laTjJCU0lkMWRYVzdudHVHVThTTU00NEJLcTBISQ?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-05-10T14:35:00+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:35:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "933e2191a967a480b1db772eb5fc33c43ff5071e",
+    "article_id": "9387ffd63fddbf07fae3254901bea1fcd199a7a0",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Iran engaged in mediated diplomatic exchange, replying to a U.S. ceasefire proposal via Pakistan.",
-      "event_key": "iran responds to us ceasefire via pakistan"
+      "reason": "Iran's reply engages diplomatic talks, setting conditions for ceasefire and broader settlement.",
+      "event_key": "iran response to us ceasefire proposal"
     }
   },
   {
-    "title": "US-Iran ceasefire under strain as Gulf states report drone attacks - Al Jazeera",
-    "summary": "US-Iran ceasefire under strain as Gulf states report drone attacks Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2JFeUJHNENHOVlUbnZiNGlTa0RTWDRsYTJwTkpvMnNoeF9PcTN6ejdzWWFEOXNRaXZwSDVvQXJ2OW80bWNMbFVMRXRNY2Faam1XVTVSRjh5czNUZDhyVXJHREotNzhTbnZheGpra2NzUWNMdFB6Q0hudXV4SUJMUlJzWmQxV2l6UVBpZjV2b0dWRVNIbWFFMFNvVDQyRlJLaXFUME1uVnp5c0nSAbABQVVfeXFMTU5fREt5R0d5cW94aFQ3LUtIU1lKQ1J3c0VVcHVPbVpLWFhpSW5ZYU1jbk1DT1ZMcFFiS0R6Z2FxcElpVnNSeUJrYXpFTGFocE5jM29JaEp4aElFSmd4WVZXclpIa0oyVDR6THJJYi00T3pBZzlSakF3WXZSb2dzSXZVRVc4Y21qUVpWcGFJby1JY0Vud3poQ1JwVU5RS0R0cVhtbUJ4TExzbUc5Z1JVTGc?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-05-10T12:20:18+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:20:18 GMT",
+    "title": "Tehran responds to US peace proposal, Iran state media says - politico.eu",
+    "summary": "Tehran responds to US peace proposal, Iran state media says politico.eu",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEtRRkRTSDF0Q2x3UGpERDJtS0VSWHFLRy1uNXhXckppM0V4TGFXTV81WDBvVDg5YzVUNHh3cEh0SkJkVmFyM0N0UFRiOWgxTFRxa3YtOHZFYnNQWUNubW00eFNrWDA5RHhuSS1SQy1tTGswTHlsU3VyQlpRdHAtdEJ6dVVGcEltU3BOR3Itb3E5eUE?oc=5",
+    "source": "politico.eu",
+    "published_at": "2026-05-10T15:13:13+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 15:13:13 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "99920570871dffbad12b61fb6b2cefbc4271edab",
+    "article_id": "ee9218a5a5a00567f7d9a788dda2b0b251c656c3",
+    "source_weight": 0.98,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran's official response to a US peace proposal indicates active diplomatic exchanges and proposal handling.",
+      "event_key": "iran response to us peace proposal"
+    }
+  },
+  {
+    "title": "Iran Submits Response to US Ceasefire Proposal Through Pakistani Mediators – Report - The Media Line",
+    "summary": "Iran Submits Response to US Ceasefire Proposal Through Pakistani Mediators – Report The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNm00dE5pOUJwNEJObGd0ejFyM1J0T0VfbmhsMFRXdndsUXpkRk9GdFVSYk9mcWhBQ3o0VXkxY1Uzd2cxbm1TclYzdC1QZmhDODRJRHBzQW9hNkZQS1gtUC1INnJDX3hMMlBmSkVvT1ZJOS1SbzlFNjNNd21DanQ5YTRkWE5lajJsNS1qa29pOGxyUFR0V1BEVnFIWEUwUU5rMkpjSms3WVZGMGthbEVSWHVoM0o1VVdW?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-05-10T14:28:21+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:28:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1c866b59f7e009c9324726929498d19dfd063de0",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.6,
-      "reason": "Drone attacks on Gulf states strain a US-Iran ceasefire, implying Iran-linked proxy actions escalating tensions.",
-      "event_key": "gulf drone attacks strain us iran ceasefire"
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran responded to a US ceasefire proposal via Pakistani mediators, indicating mediated diplomatic engagement.",
+      "event_key": "iran response to us ceasefire via pakistan"
     }
   },
   {
-    "title": "Why is Iran taking time to respond to the US proposal to end the war? - Al Jazeera",
-    "summary": "Why is Iran taking time to respond to the US proposal to end the war? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTJTekdNRTBfcWtENU1zaW0zMHU5LURyVEM4cmRmSUtJSnZ5dndBVE9zeEprenItbUg5TndtaEpsUnlKbUowR1RTS1dWNjVydXBMRG1zX1BNeW9tSm5kdUNMT3R0Y08wXzFHZG1ZbVdmaWNTM0lya09UZlhFNmhDck5UUUdTZU9YNkVkQzdkNmdBSGpUUEhhM3N5R3ZCM0xyU3FoX29vUmlQYXhKTVHSAbMBQVVfeXFMUHpWWXNfR0NvYkZiSmdHR0RWSjlOZTVLRFJZSzEwREVyLTIza00yRkZ2aHg1d3c2WnZEbXptMloyVWtKVlY5eU55M1k3UVVLTm40TXJ6OEdZWE5YbkRrN0VDUmlwbkZtNHRUSFduelZWTF8wam1nV2twVU1vdWpSZl9ZOUthTzJ0UFcyU2dmTVlsRVBRbjhXcmpra2RSVEtTV2Jadkk5VzZMclluUTJGMlNoWmc?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-05-10T10:58:17+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 10:58:17 GMT",
+    "title": "Iran sends response to US peace proposal: State media - The Hill",
+    "summary": "Iran sends response to US peace proposal: State media The Hill",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdaMFg4R1FBd09CX0RXWlVEUmoySThMLUFma3V6OUFMZ016bzZzNnlXUHZMZGl2M212MDhSZkRCZHdpUm5Yc2JjdUNlN3dfMXF4NGhiN19lSG1EbTlLUUtyNGsxLVNEMDhwbzJNeWJKR21LQTlIRzlDRWNTbHZRY2JNYjRwZ3Nr0gGOAUFVX3lxTE9TSDFMc3BTbkdTSFJ4VGVIRFhZNkxBN3JqajVXUEV3dEFGVW9hTF8wTkxudzUwZFVDYjREaktBdHN1UDJjbjNXOW1NZWw2eUZoWlNPeVN4NVhwZFpqWmkxYzhJU2xaaElmaXJwWFdocUgtYzFvQUxkZkpucDBfa2NDd0ZxNEh1UFRXOG1LNmc?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-05-10T14:06:00+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:06:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "750e6a5c37273ca444ef836ef8bfa1d24fa0b75f",
+    "article_id": "16ca0dadad2c928c798ff64b2fd51981a2b54450",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Discusses Iran weighing a US proposal to end the war—active diplomatic engagement.",
-      "event_key": "iran considering us proposal to end war"
+      "strength": 0.85,
+      "reason": "Iran replied to a US peace proposal—active diplomatic engagement and exchange of proposals.",
+      "event_key": "iran responds us peace proposal"
     }
   },
   {
-    "title": "Iran sends response to US proposal to end war via mediator Pakistan - Al Jazeera",
-    "summary": "Iran sends response to US proposal to end war via mediator Pakistan Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0ZHLUN6ZUhrVDRVRDNHbkRjMFRkQ0ZkRWd2RW5lenZoRDlCTDVNOWx5OUgySEowbjBwVzlma0Yzb2tVN1F6OGRaZEJWa0o2ODUtck9WekNaRUxZYjgtR2EwMU5fNXg1Q1JfVm1POGlmcXFxNkpYajhWS2Q5VEdqMW5YSnR4WjBRRFpOTUVNbkZQTFcxRTJkTkJ4S0RpOExOUjl4eHZGY2NDUC1W0gGyAUFVX3lxTFBsUl9QVWlBaHBCVG82YTMxYVZ1aDl2Wk9CenRmcjU1LVlENmZ0dGI4ZFJiMW1XQVBrelVkamVnZURKckdJT2cwUDQtcGo5b18wV1VUNk1Bb0dIZkpKZzJnZ3p2S0I2VkhrMzJ2Q0FSMUlzM1BDUUVfOTQtWFA2NmFOdlZYbFBpeTRVU3EycDRqREVkdU9pZ1VRdmdJQmxQRWpoQTFvX3FoR3lMb3Z2NHV1TWc?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-05-10T12:56:15+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:56:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fe3743f9aabc4b734e254a07904fd791ad87ccf9",
+    "title": "Iranian state media says Tehran submitted response to US peace proposal - Straight Arrow News - SAN",
+    "summary": "Iranian state media says Tehran submitted response to US peace proposal Straight Arrow News - SAN",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFZ0aldZZWdhN25tV0tRUE52TWRpOWNQeDJ4b051cDRkam93T3FZaUh1U2NnR1VreWFObnhiZW45WVdnRmhMT0hQSFFidXJDOTVXczVacmNVdzhuTXV4M0hhcGxhbWFtYnFtUVJQY3Q3OENDb3U3SXFZamh5a29saWpVb2Y3VTdXSzY2QWN6RUdMaHNfUUE?oc=5",
+    "source": "Straight Arrow News - SAN",
+    "published_at": "2026-05-10T14:17:24+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:17:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9646585dd1318e32c89993bd4942949b35b96eb9",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Iran responding to a US proposal via mediator indicates active diplomatic talks/mediation.",
-      "event_key": "iran response to us proposal via pakistan"
+      "strength": 0.85,
+      "reason": "Tehran submitted a response to a US peace proposal, indicating diplomatic engagement.",
+      "event_key": "iran submits response to us peace proposal"
     }
   },
   {
-    "title": "Iran has sent response to US proposal on ending war, state media reports - The Times of Israel",
-    "summary": "Iran has sent response to US proposal on ending war, state media reports The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzgyd1hmV0JCQ2pIbHBvOXNUWnR1OVU0aVQtVXFjaDdWSzhkVUhFLXJjVTFGLTAwMjRkU1JZRDV1eGhUYk4tV2huNUZhQkZxdXZSeHRZN1J2SElfNlROZm9PMjBYTmw4WlJVYUFEZjE4S1lRRWF3Z2VrNklPV3B1YjE1TUpWc0xOdVJCS3MzVDlrRzhYNk0yRDZOWXoyeVdaM21aU0lIY2RuQXBLaUxLQU1ZQUpYQnhP?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-05-10T12:38:06+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:38:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "203c858ad21f8d4e33e88c4a2fe242186aa3f46f",
+    "title": "Iran Sends US Response as Its President Says Talks Don’t Mean Surrender - Newsweek",
+    "summary": "Iran Sends US Response as Its President Says Talks Don’t Mean Surrender Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGk1QkViUWh0b01Mb2ZsNi1GYXhvTDltUEUwSUFNdTNnNWNrQ0lySV9YVVNYOXNXZWZFWlZHeWlacUlOUzZGUFpPWTlSWkRSRjFlOHE5WGZwdDJhN0I1RnRJbmFsWEN5cGhfLWRXTTRHcjh6NWpJLTdvYmI4SkJVelNNODJsdw?oc=5",
+    "source": "Newsweek",
+    "published_at": "2026-05-10T15:43:00+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 15:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f3a6d17f41421d13784f60500f9823ea11577188",
     "source_weight": 0.95,
     "classification": {
       "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Iran replied to a US proposal on ending the war, indicating active diplomatic engagement.",
-      "event_key": "iran response to us proposal on ending war"
+      "strength": 0.8,
+      "reason": "Iran sent a response and referenced talks, indicating active diplomatic engagement rather than military action.",
+      "event_key": "iran sends response to us talks"
     }
   },
   {
-    "title": "US-Israel-Iran War Latest News: Mojtaba Khamenei Issues New Military Guidelines, IRGC Warns of Heavy Retaliation Amid Rising Tensions - The Sunday Guardian",
-    "summary": "US-Israel-Iran War Latest News: Mojtaba Khamenei Issues New Military Guidelines, IRGC Warns of Heavy Retaliation Amid Rising Tensions The Sunday Guardian",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObmNUZmh6cUtmQ0laTm94bWdqNFBmNzNHV0V4YVZTWVQtMkZhQjhFdDVfSTJvZGhZWm5YLU1jU0Q5cGdxbm1zRVlXbFlEWXB5VlBqRzhSNTJLcjNuNFRwaThWSXkxRXZjUmRJMmlSek9JRWFaQjItdWs3bTAzY1lLM0NmOGxQXzdnQjlKbE1TOUJUeDR4YUlnMjVZVnE1YkNVV3ZkTElfVUlfRUctdzRyVHM1ME45bEp1V2VLUTYwN3A5Y3diMUt0VnBhMTk0N3FYRi0yekh5NmVTRjNwRFozSlZJLXMtT25VYWZINEJUZ2JjdE5SanY0S1h3MXprWFFwaXV0bVEtdw?oc=5",
-    "source": "The Sunday Guardian",
-    "published_at": "2026-05-10T11:56:28+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 11:56:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ce68be78987b7aa48f177be10e058921faac7965",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "IRGC issues new military guidelines and warns of heavy retaliation, signaling rising tensions and threats.",
-      "event_key": "irgc new guidelines warns retaliation"
-    }
-  },
-  {
-    "title": "Iran warns of retaliation as US tensions threaten fragile peace talks - Inbox.eu",
-    "summary": "Iran warns of retaliation as US tensions threaten fragile peace talks Inbox.eu",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlJ1cDlMLUhaak9Zd20wMEllOGpwekpBZUxrMi1ZTDZDRFpfaVA1MzhVMkpUNzBoZGxuS202Zm9sU0hlc09TTnRPUW5sY0x1UUhHajQ4VzhLMlNOeF9ucXA4WThzVzhXQjY5MzhxOWtxSl9rdDlyT1pFTXJERnhyWGRyV2UtSXZEWEpUbWdZSWlJWWUtWWZfSVNGZXY1R3FmbjI2UURfdExxc2dWSEdHYw?oc=5",
-    "source": "Inbox.eu",
-    "published_at": "2026-05-10T10:50:07+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 10:50:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "026dacc5154a815bc5c0e82a5d2705ae2d433c87",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.72,
-      "reason": "Iran's warning of retaliation and threat to fragile peace talks signals rising tensions and potential breakdown of diplomacy.",
-      "event_key": "iran warning retaliation threatens peace talks"
-    }
-  },
-  {
-    "title": "Iran warns against complying with US sanctions as Gulf attacks reported - AOL.com",
-    "summary": "Iran warns against complying with US sanctions as Gulf attacks reported AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkpmNzhXVERGWGxLZF80WkJ4V2p1c1BfMTkwanVadExmV1paSjFGdjJURTV1Ty1idHg0Wkcxb3o4cXF6dFU4VXNpVURsam9JVEdxTUFmR29jcnU2WDdGTThoWmJFa1Q0anUzcXY4SFJFRDRRa21EYlloX0xHYTlIYQ?oc=5",
-    "source": "AOL.com",
-    "published_at": "2026-05-10T12:38:22+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:38:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c92a1bb584f85cd5c2a63638b6cdeb96430b515",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran's warning against complying with US sanctions amid reported Gulf attacks signals heightened tensions and hostile rhetoric.",
-      "event_key": "iran warns against sanctions gulf attacks"
-    }
-  },
-  {
-    "title": "Qatari premier, Iran’s foreign minister discuss regional tensions as conflict with US continues - Anadolu Ajansı",
-    "summary": "Qatari premier, Iran’s foreign minister discuss regional tensions as conflict with US continues Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYkZDdWxrSGdienBvQmZMYVJ4MTFuS2Y0UDhkRkhMaXViMG8wTjMtanlXSmxvY0V3M05Cd3l2Qk5EUjU0Nk1ZMzFiZjlFRlVSNFZuVWNZcVpPdVNROTB0c0lnam5jZXNva1dUdWVKTDNtZF9iTi1rMjNhczVzQ2F0cDZ5UlpKQXFmei1oNm9OMURsYnJxTlFGMHdOOE8yR3QwWU1WYXJOc0ZRanM3YU5VdHV1THZhOGVCZndtaWtuWEwzMzRJcU1icERGeDZ6VXAxLUZpV1J3?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-05-10T12:13:08+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:13:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cbc89ce8ef755c5828ae8b08d4c12138b0affd00",
+    "title": "Iran has responded to U.S. proposal in peace talks, state media reports - NBC News",
+    "summary": "Iran has responded to U.S. proposal in peace talks, state media reports NBC News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMS11d3Yzb1hGNkxmYlh3M3J5ejlaVlhNSHhFQW5QNG1KTzlLT3pvZWNlaVZiQ3VBNzl5Y2ZmRS04TmdKODRIbHgtY2owZkNmUDdrT3VmWkZRQXdhR3I5eldTS2x3SU9mUWZUQk52MXdHNHR2NWEwU1lMSGJiTnJtZlJBeEVNMmdWbkxWNE5jMV9faFM5M3RDYW4zX3IweFJBb1h5dl9QVQ?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-05-10T14:54:45+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:54:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "743fdb6a9bbd2e4cd7e30b201268fe9bd5fcec2d",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Qatar’s premier and Iran’s foreign minister held talks about regional tensions, indicating active diplomatic engagement/mediation.",
-      "event_key": "qatari iran diplomatic talks"
+      "strength": 0.8,
+      "reason": "Iran replied to a U.S. proposal in ongoing peace talks—active diplomatic engagement.",
+      "event_key": "iran responds to us proposal in peace talks"
     }
   },
   {
-    "title": "Iran issues new warning to the US on attacks of its oil tankers - Hays Post",
-    "summary": "Iran issues new warning to the US on attacks of its oil tankers Hays Post",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QOG1ZWTBvT3pEeEI3TE5GR0pYV2pDdEEyVlBKYUpmdEpuRkluTDMxYmhrVENGT0ZLUG9rX25MUDFZVG1FaUZDZFRsOW5GM2NmTDJTdjBmR0QxVkVhQ3cyZHRULVZsaEJFQVFqV0FVUWg?oc=5",
-    "source": "Hays Post",
-    "published_at": "2026-05-10T11:11:57+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 11:11:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b9a19e4459d7cfe6cab2ac4335a3f264ef03c331",
+    "title": "Iran says talks with US aim to defend its rights, 'not surrender' - Anadolu Ajansı",
+    "summary": "Iran says talks with US aim to defend its rights, 'not surrender' Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdjRlExUTdObURjRk1hdHFMWXhudkRCZWg1OVFMUEVLazZvY0UtNHNuTVNMVFlIRURqaExJVlJRdk5zREZLTld6NHpKWW9MRS16bmtSbXZvTUk4QUJaZndEWWlMSVNqaDQ2a1U4RUdSeTF0SldxWkQtWnJZX0dFaHZIMFJ3REZVYThLTHVHNjFYLVRTMHEya2k0RGJra2U5eldn?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-05-10T13:32:20+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 13:32:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f2acf805e0ebe38135e98bfbb9af5e0625d46d6f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Article reports Iran describing active talks with the US aimed at defending its rights, i.e., diplomatic negotiations.",
+      "event_key": "iran us talks iran defend rights"
+    }
+  },
+  {
+    "title": "Iran Vows Heavy Retaliation Against US Vessels and Bases if Shipping is Targeted - The Times of India",
+    "summary": "Iran Vows Heavy Retaliation Against US Vessels and Bases if Shipping is Targeted The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdTVtMG1XZ2hwa3ZtUzRTOWdwbUtnX0txNkloSEZwZE1yY3Q2b3JBZmVZY2JpamV0dmxBemI0TzZvYThKZVlGc0pxRkprUE1kMmNzSXZhZ1VpWUN1SEJzcGJUWFJCa1JQVGlqMVpFMGN1ZDZjVHRIeHhzS2hrZVk2d1Jmc2IxX3oyekFhYnk3R3M0U0M2aTYzb054dlNlZVVMTjE5LWlmQTZ6TDdxcDl6Nll1T2tDLTlIZTlzVkxIelltb19ISmRMa2tKOFkyM3lwVHNNMkNkN2JLaWlMZVdONVhqOHNPZmI0dzd5WGhjMGZKbGvSAfgBQVVfeXFMTUQ0dEM2U3JxVW9OVTc3Wnl4SERadWlKU2N6VmVFbGhRTEU2b1pHMEgycWZoczZPSDZnWGhhanVabGVOSFRzT3FyMlE2MTdQU3NHX3g3U3c3QW1ITHRTRWd5c3dId1h1VHRaTlBOSkVWNTc0eEk0cVN6dUFnOWsyWnVGci1HTUdkb2xXcGVmbEl6cDljUGltRXVIYlNsdEhSa251RllEMWxyeUgtbVBJV3JyU1U0cmtqbXBRM1FlWDVVNzBmWFFUQThkb0ZEZjZVblNQRFRVQzNZLXNXbWNpSGhjZkhET2dJTXdXWEE0RWNDekEwa3ZlUWY?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-05-10T14:29:24+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:29:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a56729d999959fe8899e608fd379f26915311e7f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran's warning to the US over attacks on its oil tankers constitutes threatening rhetoric and heightened tensions.",
-      "event_key": "iran warns us over oil tankers"
+      "reason": "Iran threatens heavy retaliation against US vessels and bases if shipping is targeted — a clear escalation in rhetoric.",
+      "event_key": "iran vows retaliation against us shipping"
     }
   },
   {
-    "title": "Is US fighting 'wrong war'? Iran threatens Trump's $500bn Stargate project - report - The Times of India",
-    "summary": "Is US fighting 'wrong war'? Iran threatens Trump's $500bn Stargate project - report The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa2p3czNaQ3VuSTFjMGN1UXQ0bHJGZURwY09lMElOWUhGZG5aMG1sTHA0ZVhzTFd2X3YtQVlPT0JmUWxLQ2dqMFRtOU91T2pFT1piSW5hZnVwTm50YXJ6SVJtR2JLVVlzeUxVemppSW5McXFueS1adnlLbVlwbzVUaEJRSEtTYzFLRlh4RS1ob0FjbjBBRFZoOHRUbXRrcXUxb2ROVHZtTTYtdnJQTVJQbDlKdUJDaTZPTGJFWVUtZTZadXFxLWptbnVwNFBheTdQN1BFMllEM0Nvc2UzbUV6MNIB5gFBVV95cUxPMWlkUTRGOC1mdGM4YUFzLVV6MVdhaUROUlZqLWktbmFkTDA1cHRMOTVnOGxKVmJpb1R2MjUxbkd4Sm1SRHUwMUxaQTByYUFwUktYdFRFQnk2RXU5dTktNmNQaG1FUXA0YVdfRWR5VEZVWk94Q29naUhvbFpoR1c1d0xGRGZLVl9FN054c3ZVZ3hnZzF6WDZXbVM5ZE5zVF81QjhkSGVhRmFudllJR2dKaEpDejlwQU1lWmh0U0YtR2JVUlc3emNZRzQ5X3g1TjY4TG16aEF2QTZsUl9TTDNFYVR4LUIwZw?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-05-10T12:47:00+00:00",
-    "raw_pub_date": "Sun, 10 May 2026 12:47:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fd9f1421dbd833c028c0f5a70e0f38fc5213773a",
+    "title": "Iran responds to US peace proposal as drones hit Gulf - Al-Monitor",
+    "summary": "Iran responds to US peace proposal as drones hit Gulf Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0NTME9XY1hLMTdWb2QwdURaNWVZTzlnMUVvNHluZjBpWFNNOWlJZURySzVaMDY4YWJmSUtGcnh1TE9fUFpTNDFOeE93V2ZvSjVHSDl6RWRlbWV0Ym1Fd2Ftb0J4UGtEbGNRbmw3b1NvODdyMEVZOTN6S3JndWxEanBHQVRyWXRjYWdMRWNNUHpETkMtTlpN?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-05-10T14:30:16+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:30:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "80c5106694480f0d4c2996346c34cccf0a650672",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Drones struck the Gulf amid Iran's response to a US peace proposal, indicating proxy attacks tied to Iran-US tensions.",
+      "event_key": "drones hit gulf amid iran response"
+    }
+  },
+  {
+    "title": "Trump Says US Could Strike Additional Targets Inside Iran - Kurdistan24",
+    "summary": "Trump Says US Could Strike Additional Targets Inside Iran Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkM0VGVGYnBHNV9VdlpXYzhPcDdQWmpBa1R3MmJZWFpZQkM5ajV4UUZuWWhJNzBaQXpuQy1EdGxVM1pNU3lpTE8zTElZa3IzaUhwR1VMWnpxbkJHdHhqOG5vckNqSTBpZ0pTVllwWTJEV0xScU5JY21weEFTWV9Bc2lDRGdQbFJHRzlIYkVjNjZfZ1FFV1Zyd1hfVkN2ZjFTUzI0?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-05-10T15:43:24+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 15:43:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9cc99339d474a1acd259648b479ea1e075b36f59",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran threatens a US-linked 'Stargate' project, indicating hostile rhetoric and rising tensions.",
-      "event_key": "iran threat to stargate project"
+      "strength": 0.85,
+      "reason": "Public threat to strike additional targets in Iran increases tensions and signals possible military escalation.",
+      "event_key": "trump threat strike additional targets iran"
+    }
+  },
+  {
+    "title": "Iran war latest: Iran responds to US peace plan after drone attacks on Gulf - The National",
+    "summary": "Iran war latest: Iran responds to US peace plan after drone attacks on Gulf The National",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFU1YWJfZ3hWZUpoS21qbjhlT3VyaVNiTHBzUmh4ZXo5S0xaMWp4VjFLMXRhNWVzYlVyZDlXQkN0V3pPYzcwTFlRaUJTX3pOT1g1dlk0dHlSYXVFNkJKLURCSmlWYjg2UVFaeGkyVDdlWXdKQzNvYi1kT1FwTHdSRjdrZlp5Q1RyYlQ0QXFR?oc=5",
+    "source": "The National",
+    "published_at": "2026-05-10T15:05:30+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 15:05:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aaaa66e4e84cd9bf042b2d11ba2fdc50803f8872",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran responding to a US peace plan indicates diplomatic engagement and proposal exchange after Gulf drone attacks.",
+      "event_key": "iran response to us peace plan after gulf drone attacks"
+    }
+  },
+  {
+    "title": "Iran responds to US proposal to end the war via a Pakistani mediator - AOL.com",
+    "summary": "Iran responds to US proposal to end the war via a Pakistani mediator AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WSzRLNnBid1FTWWczaVlGalB6UGhpTG52a3QtRzh2OG9Mam1SdzBOX0tRUFB0S1hadnpfRWxrbUZOZEJFWUR1X0tFY0YySTl6cnYtQVFrUENNTTFGSU10RG81MktKWmQ1R01xdTFhVkdrdTZRLVR0VldLUGRPUQ?oc=5",
+    "source": "AOL.com",
+    "published_at": "2026-05-10T14:26:44+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 14:26:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "666bd5b0fcce3aefc724a30614d71ec3382f24bd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Covers Iran's response to a US proposal to end the war via a Pakistani mediator—diplomatic mediation activity.",
+      "event_key": "us proposal pakistani mediator iran response"
+    }
+  },
+  {
+    "title": "Iran-US War Latest News: Iranian Officials Say Sent Response to US Proposal to End War to Pakistan's Mediators - The Sunday Guardian",
+    "summary": "Iran-US War Latest News: Iranian Officials Say Sent Response to US Proposal to End War to Pakistan's Mediators The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX0JwOGdrbjJxNy1SWk1RUWRQVzBwNXpOcklONk4wcVhuTGdrR1lVcVByMGticmQwQVpTZlh3NW1zNHRaYjFYeHMxQ3YwY1dfcm5yRTRjN2xlVHlTWGhqTXVTaTRQRVlROEVSR0R1U3lQWGNYY2xiNzZkd1l3Z252N0ZkSEFfenl1bE84aF9LcjNQcDM2ZUJrcnF4RXJPdnRIRDcwTVRoZXRnU21mR0hYRnVzb3ZzWGtqc19Va0VWRjNGX2Z4MV9fNmxqZHFvUnp0Unl0QXdiaEVFNG8xMC1fTDhoSDVTcEV2?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-05-10T13:45:19+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 13:45:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1e060d8f7a4256ba77b1dc558a17cf72890fbbaf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.86,
+      "reason": "Iran sent a response to a U.S. proposal via Pakistan mediators — active diplomatic mediation.",
+      "event_key": "iran response to us proposal via pakistan mediators"
+    }
+  },
+  {
+    "title": "Iran Sends Response To US Peace Proposal Via Pakistan, Counters Plan With 14-Point Offer - ABP News",
+    "summary": "Iran Sends Response To US Peace Proposal Via Pakistan, Counters Plan With 14-Point Offer ABP News",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQWRFOEprQnBKbGMtTS0yLWtseWFZNkNJZll2eWJzOFZHbTJJRmhmYzhyWEotWm5BMEgyN1dCS0d6S015ODJtLXo3MmJJMnEzM01iN2hYSEE5UGx2OE5BWlF3X1JYdVlpU3hWRlRQcG1lbHgtVEFBQTYzWWtBQTFyVDhmSmtmUFc1QkYwVGRIWWJtODRXNWM3LWVtLUFmM3djYzlGalJjWXFZQXJNeHVNWEtpWTZWanBlbVZLZGFIMXN2YkxDbkpyU082Z9IB0AFBVV95cUxPb0pOWEh4N184RTBjM1N6YU5udEhXVUU4UHFldHZycEptSWlCZHY4dW5DOG1TZzZ5UE02cENSTEVBUE9PU0tsRFZzUFhFUk9DVW1jUUVFUGhqc0dfUm5EX01heW5CM24zaFVnZi1MS1RXZU52ZjI0UG1hUEczc2J3MW1IR0NSOUt6SkhMUmx1VWZxcmJJUnFMNlVIRGxsT2RWc3JkWG00bUZSZVFVV0JraW5KY3U3OENFd2kyXzBab0xKVHotd0ZiVlN1eU9TNTlr?oc=5",
+    "source": "ABP News",
+    "published_at": "2026-05-10T15:01:22+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 15:01:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0b6cb0b130c71e356cbae7cb8eda6b18f4444623",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran formally responded to a US peace proposal via Pakistan with a 14-point counteroffer—active diplomatic engagement.",
+      "event_key": "iran counters us peace proposal via pakistan"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War Latest News: Trump Warns Iran Over Enriched Uranium as Internet Blackout, Lebanon Violence & Gulf Tensions Escalate - The Sunday Guardian",
+    "summary": "US-Israel-Iran War Latest News: Trump Warns Iran Over Enriched Uranium as Internet Blackout, Lebanon Violence & Gulf Tensions Escalate The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRXEtc21LR3VpTERiMUFEa1NUaW13cHBULUI5RjJQeXoxQWJ4QUhfVWpNTVgwUEYyTHZVc2UzOU9Kd3hmNmJHcXVQRHlOZjR6dDlEMldiRWZuU0hrZEdJb294c2lQWWV3N1dOZjRybnd3VnFjcHBHZjJZWkpTSW5mb3BRTW1ObThIRk1SenJ3enBDS0pYU1hZWTJnaW9qeGYza05IWEtpdUFReHA4SWFHdTJpYnpaYmhMalRzWjBQdjdIeUhHblpGSl96ZXdsbEExQjJJTVpqemN0bnRjRlRmVUlucUZ2Q244Q2hpS210a25pMWV5LW9MbHVzUjRLQWpSZVZjTTJR?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-05-10T15:36:20+00:00",
+    "raw_pub_date": "Sun, 10 May 2026 15:36:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8ce6faf8ff2e917270150a2749680ec48d8ead3a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US warning to Iran and reports of rising violence and Gulf tensions indicate increased hostile rhetoric and tension.",
+      "event_key": "us warning to iran enriched uranium escalation"
     }
   }
 ]
