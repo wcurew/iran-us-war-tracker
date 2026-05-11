@@ -1,36 +1,36 @@
 {
   "date_utc": "2026-05-11",
-  "generated_at_utc": "2026-05-11T06:39:17+00:00",
-  "window_start_utc": "2026-05-11T02:54:54.593406+00:00",
-  "window_end_utc": "2026-05-11T06:38:20.294147+00:00",
-  "total_articles_classified": 6,
-  "relevant_articles": 6,
-  "negotiation_count": 3,
-  "ceasefire_count": 0,
+  "generated_at_utc": "2026-05-11T12:11:29+00:00",
+  "window_start_utc": "2026-05-11T06:38:20.294147+00:00",
+  "window_end_utc": "2026-05-11T12:09:32.022363+00:00",
+  "total_articles_classified": 18,
+  "relevant_articles": 18,
+  "negotiation_count": 8,
+  "ceasefire_count": 1,
   "deescalation_count": 0,
-  "escalation_count": 3,
+  "escalation_count": 8,
   "proxy_escalation_count": 0,
-  "strike_count": 0,
+  "strike_count": 1,
   "irrelevant_count": 0,
   "negotiation_ratio": 0.5,
   "war_ratio": 0.5,
-  "avg_strength": 0.6917,
+  "avg_strength": 0.7122,
   "median_strength": 0.7,
-  "avg_positive_strength": 0.6833,
-  "avg_negative_strength": 0.7,
-  "avg_source_weight": 1.0,
-  "article_raw_score": 0.6894,
-  "event_raw_score": 0.6889,
-  "batch_raw_score": 0.6889,
-  "war_batch_score": 51.44,
-  "negotiation_events": 3,
-  "ceasefire_events": 0,
+  "avg_positive_strength": 0.7633,
+  "avg_negative_strength": 0.6611,
+  "avg_source_weight": 1.0083,
+  "article_raw_score": 1.5916,
+  "event_raw_score": 1.585,
+  "batch_raw_score": 1.5847,
+  "war_batch_score": 53.3,
+  "negotiation_events": 8,
+  "ceasefire_events": 1,
   "deescalation_events": 0,
-  "escalation_events": 3,
+  "escalation_events": 8,
   "proxy_events": 0,
-  "strike_events": 0,
-  "war_smoothed_score": 53.57,
-  "trend_delta": -3.26,
+  "strike_events": 1,
+  "war_smoothed_score": 54.28,
+  "trend_delta": 3.32,
   "trend_label": "flat",
   "trend_label_ko": "보합",
   "oil_signal": "강세",
@@ -42,69 +42,131 @@
   "summary_ko": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다.",
   "top_negotiation_articles": [
     {
-      "title": "Iran has sent its response to the latest U.S. ceasefire proposal via Pakistani mediators, but U.S. President Donald Trump quickly rejected it as “TOTALLY UNACCEPTABLE!”, offering no details. - facebook.com",
-      "source": "facebook.com",
-      "published_at": "2026-05-11T04:54:07+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWxHc0dENHE5Q21VRmxpR2FGczFIaXp0VGpjaHI1eVl6QW9LQWtCX0M0ZHZERnFyQ0tTYTdscVh0eU8xOC1JeEdWQ1VhVk1xRGFVX1p3c21TNXlSZG5UTUprLWRCMWVLOGQwVDdTVGpPRF9neWZOYm01Nl9YNnFqMmsxVnNESnZUWmFVc05CREVyMmlqTEtobXpNRkplSHRwVmszZFduQ1RNbVlNbmg2QmtfSHV3eDdiRFNWQzdoLW42NS11YkowQ3FNNkpiWmY1ZTAzWkFMTmlsdkU?oc=5",
-      "strength": 0.75,
-      "source_weight": 1.0,
-      "reason": "Backchannel ceasefire proposal exchanged via Pakistani mediators; U.S. president rejected Iran's response.",
-      "event_key": "iran response pakistan mediators us rejects ceasefire"
-    },
-    {
-      "title": "Iran-U.S. Truce Talks Stall After Trump and Tehran Trade Rejections - Haaretz",
-      "source": "Haaretz",
-      "published_at": "2026-05-11T05:42:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOdkoyb2dvdHlJdmpIaDc3d0N2U1kxandSSmxCN3c5eWs0UHk1Q3F4YVpLNDhLR1ZJb2s1UG1mS1BFcXJWQmZBSU5WRFRKMlV0ek1qUGt2MDlnOGRrX0lwdW94UjEycHFyMGs3VlVCVElpdHlLU3FWSmh5V09mQkhLZVRtMktEejdSdzk4c0I2MTcyREpCcnJNOXVudUZDREw0TUJmUjFBbE1EYnFMYTVhMTBrOEJKT3ZtOFlxU1lmME5vTUFGVjcwZldZM3BSMDEyNjNpRER1QlFTVDlubUtVSmNxUXhjREFoTUJxWmhhdFE1YzBGRV9zdHY2bEdpZnktVXoyeGxWN2xKSjQwb3hsZDFWMmlwYXVwUjZN?oc=5",
-      "strength": 0.7,
-      "source_weight": 1.0,
-      "reason": "Truce talks between Iran and the U.S. stalled after mutual rejections, indicating an interrupted diplomatic negotiation.",
-      "event_key": "truce talks stalled"
-    },
-    {
-      "title": "U.S.-Israeli War on Iran: Stalemate, Negotiations, and the Grave Danger of U.S.-Israeli Escalation - revcom.us",
-      "source": "revcom.us",
-      "published_at": "2026-05-11T06:29:41+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmJpWi1rMUl2U005elpQVzRCQWZzc2MxZnZoMzkwSmM1aXl5WER2aktIdG9RRktueFlncnB0eGtzMUZwTDFpZDVhQ3J6bV9zdFVHZ2w5T2RpOGVOR2lIY0JNUE93RHhZbDA1b3RBVGdUaWQtZ2VKV0htTXBKdk9Vci11akdLY09ZZEdwcDJMSm1xT1BCRzZMaWlSQkYyV3M0c21yMA?oc=5",
-      "strength": 0.6,
-      "source_weight": 1.0,
-      "reason": "Discusses stalemate and negotiations regarding U.S.-Israeli actions toward Iran and risks of escalation.",
-      "event_key": "us israel iran negotiations stalemate"
-    }
-  ],
-  "top_ceasefire_articles": [],
-  "top_escalation_articles": [
-    {
-      "title": "Roundup: Iran rejects U.S. ceasefire proposal, Trump deems it \"unacceptable\" - Xinhua",
-      "source": "Xinhua",
-      "published_at": "2026-05-11T05:36:15+00:00",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUndhTTJmeGFxNGVxWVkzbFZkRDhTSkgtTEsyR0hoWnZlLXhDbFRSVXpjT3FWNVRtWHBmZ1otZEN3Ul9ldlFuckw4ZGFPY3JZTDQ5ODNnY2gzSXFJUGQ3WGpfQlBEaG84YXdaMHNoOThILUF5aE9DU0RLNjA?oc=5",
+      "title": "What’s the Status of U.S.-Iran War and Peace Talks? - Time Magazine",
+      "source": "Time Magazine",
+      "published_at": "2026-05-11T10:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnBhRGxZb3RaRDJBRVJRRnEwRFFubkt0VG9hc2RFVGU1S0VaUEtpUmFTTEhFeHVRWXNRZHBrMWNnUjFULUNKYWgwX0NMQ1N4S3JYbXRoYl9wSFhfazBNMDNZOEVKeTNqNFlJMmM1NGlvZUt1VnpmZjQ3blVSU2F4WTdYTElTeFdFVWlETTJzX0VPeUpo?oc=5",
       "strength": 0.8,
       "source_weight": 1.0,
-      "reason": "Iran rejected U.S. ceasefire proposal; indicates diplomatic breakdown and heightened tensions.",
-      "event_key": "iran rejects us ceasefire proposal"
+      "reason": "Discusses status of U.S.-Iran war and peace talks and diplomatic negotiations.",
+      "event_key": "us iran peace talks status"
     },
     {
-      "title": "Iran responds to US ceasefire proposal but Trump rejects it as ‘unacceptable’ - Texarkana Gazette",
-      "source": "Texarkana Gazette",
-      "published_at": "2026-05-11T04:22:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk0wM3dRUHVUdjVtcEFrSzV6NkhFWE9WWjN0OTFDckFGRXZ6T2szUTFFRVJNSTlQSVlKSWRkT0R4V095Rng0UzRTXzhaMWhNTk80Qy1YOVBRbUZLbGFlOHN5Vkp1ZFRIc3F5Szc1bDJLVkZmelBtenlRdERYSjJvZE5pX2tyTTB1ZFRPYXotT1hxZm9TTHdZTlBaZGZqc3c?oc=5",
+      "title": "Former Senior US Diplomat Gordon Gray: Iran Talks Likely To Continue Despite Trump’s Latest Rejection - Radio Free Europe/Radio Liberty",
+      "source": "Radio Free Europe/Radio Liberty",
+      "published_at": "2026-05-11T07:52:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEFTMVh5WkRCTnhEdUppcW5QOWk1LWhRVnB3RldSdzRQUzkzV3VibW5rZTgwVnBSZ2E2VzhLdVZ6al9MSWprMl9LaVowVU9aem84WkN2b0s1MWo1YUduSGhXRDVxV3luRHV0Z2c0UVpiMWJIUVNoVzJEM0lBRngyMTk1ZGxtRHFibEM0bk5hZEjSAZMBQVVfeXFMTXMzeHJ1TmJuRFNJWFZJZ2lUN0t0NVp6Z0V0eHgxM2pXRFNmOG5RX3BQZm5waDZQMTIzU0lOSzBMTEY4Yk93YmVzVmdtQWdCWWdNdjNSWEtxNHRlY1d5YnQyQXZVa2Q0U1MwclBOeE1Ha0VPUVNWS1AwX0VpRnItdkctWGhfRDIwWVRWWGw1YTZGekVz?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "Article says diplomatic talks with Iran are likely to continue despite Trump's rejection.",
+      "event_key": "iran us talks continue despite rejection"
+    },
+    {
+      "title": "Iran, Saudi FMs Discuss US-Iran Diplomacy - WANA News Agency",
+      "source": "WANA News Agency",
+      "published_at": "2026-05-11T10:59:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RdFdqUFJJVVRsdzEwc3htQk0xZnpCaXFMTHZvRV9Td1ItdUJWT3hVbkdMYy1Ddy14dVhQSk5uQnVUaW1iYXAzR3lJWG5SNmxxekROR2lSNklfdWRDM2dPOTZBbGRYNVFyTm5ORw?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "Foreign ministers discussing US-Iran diplomacy indicates active diplomatic engagement or mediation.",
+      "event_key": "iran saudi fm discuss us iran diplomacy"
+    },
+    {
+      "title": "Iran and Saudi Arabia discuss US-Iran diplomacy - Latest news from Azerbaijan",
+      "source": "Latest news from Azerbaijan",
+      "published_at": "2026-05-11T11:46:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IemRfUFI4ZkVlOWYyZmlZOHZLQ29uNEJGWnhvYXIzMzRkalNHN2stMU1YVGtoaFgwVTBJUWZQeHB5N0lRaExVVEVFMWtTWm81R0JkQ05Lb2pOWVdySXVEZGlkUzR1bFpPanpXSmc5d05kRWc5NGJn?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "Iran and Saudi Arabia engaging in talks about US-Iran diplomacy indicates active diplomatic/mediation discussions.",
+      "event_key": "iran saudi discuss us iran diplomacy"
+    },
+    {
+      "title": "Iran calls proposal to US ‘reasonable and generous’ - ایران اینترنشنال",
+      "source": "ایران اینترنشنال",
+      "published_at": "2026-05-11T09:35:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nVW43aER5QjFReHBzc3hiU2NVRHVQN1J2WDVSMjRkaFM3NFNuN2IxWDAtdklhSk4zemxMMzg3SVFoRE5rTTE5N3cyQ3gzb2hQa0E?oc=5",
+      "strength": 0.75,
+      "source_weight": 1.0,
+      "reason": "Iran's positive response to a proposal indicates active diplomatic engagement with the US.",
+      "event_key": "iran calls us proposal reasonable"
+    }
+  ],
+  "top_ceasefire_articles": [
+    {
+      "title": "Live updates: Iran, US remain deadlocked as fragile ceasefire strains - NewsNation",
+      "source": "NewsNation",
+      "published_at": "2026-05-11T09:49:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGROcGk0Tlg4ZlA2aUhRVXVkWHV2VWloeEt4cEdwdTBEekZaRDI4dHdlemI4R3NCU3p0cUFLc2dnUkxBejlDZV9CdE0wT0h2ZDF4QWJ2Wkwxa0swM2xwZ0sxNlptMnEwak54MFAwNEVYY2JHclB1UjU0blBPcDlxRE1RTGpNQVE1VHh1cnQ2MNIBlAFBVV95cUxOMm1UVE96WlJaNWxZVThyZFdEb1RuZDBXOTFUSGt0X0VoYjRvckxBcTVjU3VjSi1mNG56dlhTcVpDYmNvZ0hoN1hUNlA4ZUtqdkluSXlyTS00T0RHcVlmUkt3ZDBOa0VJMzN3S2IzYTNtWjE3ajBUNEdzbXVYd1oyZzJjeU1lQ0dSS05CclFQUkpIMGtG?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "States a fragile ceasefire between Iran and US is straining amid diplomatic deadlock.",
+      "event_key": "fragile ceasefire strains"
+    }
+  ],
+  "top_escalation_articles": [
+    {
+      "title": "Most Gulf stocks retreat amid deadlocked US-Iran talks - Reuters",
+      "source": "Reuters",
+      "published_at": "2026-05-11T08:11:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkpHbGhaTWhlV1dOZFlVVE1PWjFhQjF3RWVYakhacUNuNjZQSld4dFMyV0swekJkVU5BcEwwdWVSaHpFTHJ6S1R4N3hMV1Ezd3RINTF6UlhybVdoYW5uU2pBd3FmTHpOSTA1ZFd5LUdEWnRhMGpHamFqT3hITFItNWNJOWN2RlYwYTFIQi1VMklPRkxESjhQNUFNdElmSHE3Wld1cjZBbWQ2UThm?oc=5",
+      "strength": 0.7,
+      "source_weight": 1.15,
+      "reason": "Talks described as deadlocked signaling a breakdown in diplomacy and rising tensions.",
+      "event_key": "deadlocked us iran talks"
+    },
+    {
+      "title": "Trump calls Iran's latest response to U.S. ceasefire proposal 'totally unacceptable' - KUOW",
+      "source": "KUOW",
+      "published_at": "2026-05-11T10:40:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2tXWHpNVEdWSlJ3bk82LTFyZVhPcjBLZDlNNnlPOExnU1dvUXJuSHN0ajcwT05yMC1TRmw4d2g4NTJBTkxraWZ1R0F3YUhDenJROGxIQzJtTUtWTGhsdll3VkVCQkt1M1J1cWpERFRmQm81NU95amNCYVhoTnZiaDV1TDdSNktIT1FHLTB5a21yUnJ2YWdtR1dJZnZaNm5GN0FsRmhwMjFiMG04LWhR?oc=5",
       "strength": 0.7,
       "source_weight": 1.0,
-      "reason": "A ceasefire proposal was rejected by the US president, indicating breakdown of talks and rising tensions.",
-      "event_key": "us ceasefire proposal rejected"
+      "reason": "US president rejects Iran's reply to a U.S. ceasefire proposal, signaling diplomatic breakdown.",
+      "event_key": "trump calls iran response unacceptable"
     },
     {
-      "title": "Sky News Australia. . Iran has threatened that the US is making a “big mistake” following President Donald Trump’s rejection of the regime’s latest peace deal offer. - facebook.com",
-      "source": "facebook.com",
-      "published_at": "2026-05-11T03:23:46+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzdFVWE2UEpwTEdfMmxIMmxGUzBSMjJHUzhCRGt6Nllld1hLNTN3QXQyOVhSeG1hc2tuZHBBbEVKZThEWVlQamh0YTVNNkhoYUp4dUxjMlViUGVyaTNzYnpTN2JjMFMwaW5uMWNiUGV5TGFleDZfYjlqTy1YcXBzcHhJMlhHR0x4dkgwc0FhWFdwZjZvZEhNem44ZDZSMmtBWHV4d2QwWk8xejBiZV9nNVRJYU1NS2RSU1MzYV9rSkdYTlgtRkNGQzl2NXdqSHdNWXdwU2pOellERFBJN0xv?oc=5",
-      "strength": 0.6,
+      "title": "Iran responds to US ceasefire proposal but Trump rejects it as 'unacceptable' - WTHR",
+      "source": "WTHR",
+      "published_at": "2026-05-11T11:45:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUFFWYTZuM1ZVQk9mSHdubFBTeGtVRG1qNjV0c18xOG9aZ1F2b2VodlotSGxqRGU4NTlzSU9Kd3VTLUt3RU43akJVOWFUXzRlaEgyV2NLd2h6aThITy1YWUZyTkVEYlJOTzFKOG1tQS13WlVzcTRlV3VKU0Q1UlNtbFA4a1Q1UWd0ZnBEY1R1LTRHbEFqYWs4YWdJMG1JY3g4X3FvSEhxLXRKeEpHdm5QT1YzOVNUQTA1MEJYUmx3MjlTNnkwUG1KWkgxcEFiX2hXaTlZVGVRbW1Zck4tSE83NkRxRFFWQnlldlZGanlaaHE2c0tGNFJyZmdnUlZQY1VCbXY0MWZ5RQ?oc=5",
+      "strength": 0.7,
       "source_weight": 1.0,
-      "reason": "Iran threatened the US after Trump rejected its peace offer, signaling hostile rhetoric and rising tensions.",
-      "event_key": "iran threat after us rejects peace offer"
+      "reason": "Rejection of a ceasefire proposal signals breakdown of talks and rising tensions.",
+      "event_key": "us rejects iran ceasefire proposal"
+    },
+    {
+      "title": "Iran and the U.S. deadlocked after Trump rejects ‘totally unacceptable’ proposal - NBC News",
+      "source": "NBC News",
+      "published_at": "2026-05-11T11:35:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1dBZl9KNGo3OUVmWnVoVm9Hcml5bEthUWxBQWlndFllc3MwbWxManlaUUdyUk9ZZGNZeHRXM3J2TG5lYk1aV29rd0F3Wlh0RVBRaTJiTVZIaTlKUFZyVXUxb19ZWWh0ZXVjUGIxbUc4czRZeFlsTEt3Q1c1OU1uVHQ2RGRjZy1QWmxaQ19Jak9UV2tyYjAzYUdSdkVoVFE0U1FJZ0RzY3pjUk0?oc=5",
+      "strength": 0.7,
+      "source_weight": 1.0,
+      "reason": "Trump's rejection of Iran proposal produced a diplomatic deadlock, signaling breakdown of talks and rising tensions.",
+      "event_key": "trump rejects iran proposal deadlock"
+    },
+    {
+      "title": "No end to deadlock as Iran, US reject talks terms - RFI",
+      "source": "RFI",
+      "published_at": "2026-05-11T09:48:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1JCU2FhSGl1ZE9WbUtMMlMzRFhIeDBaVmFXb2dFYlJVLVZVeGxJQkJjLVhNMV8zLUJ3SVp6SDJQZGM0bVdZbEdkVXdVYkUzQ2hFWGNyWllDWXBpejFjQVNSb241MkdnVUgyQXpRWWZJclVxc3VpQmFWb3Y0a3NZdTZHQUNkNVZTdlRlUzRfbEt5MGVNZFQtdWNXeHFyaFE?oc=5",
+      "strength": 0.7,
+      "source_weight": 1.0,
+      "reason": "Both sides rejected talk terms, prolonging diplomatic deadlock and raising tensions.",
+      "event_key": "talks terms rejected deadlock"
     }
   ],
   "top_proxy_articles": [],
-  "top_strike_articles": []
+  "top_strike_articles": [
+    {
+      "title": "American strike package engages Iranian missile sites - MSN",
+      "source": "MSN",
+      "published_at": "2026-05-11T11:43:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUN2MXZSYzZPMVp4VWQtVEhXSTY1MG41YUtCTzI0UHFIY1p5OWsyaVM0c2paeVlldGkzeGVFVkRCWjd2V25PN1VUdURxZjVzbzR3RF9WM1laQVBFdXY2RkJyWTZjNk5TVkVNSzZZT0tNSHBhVkhXQm1CZG8wQmF5WTBtYjJrOTZLWUhKM3RadGRFd3NCUDhkZV9jY081YzVCNnVtWDFqeDQ5RHM4WUpIc3prdFJhY3FpOUNMNUNyRE9abFlhdkMw?oc=5",
+      "strength": 0.9,
+      "source_weight": 1.0,
+      "reason": "US conducted direct strikes on Iranian missile sites, indicating kinetic retaliation.",
+      "event_key": "us strikes iran missile sites"
+    }
+  ]
 }
