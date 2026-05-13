@@ -1,138 +1,376 @@
 [
   {
-    "title": "Iran sets five preconditions for renewed US talks, local media reports - news.cgtn.com",
-    "summary": "Iran sets five preconditions for renewed US talks, local media reports news.cgtn.com",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObElJSVctV1h5SXFhNHRMeV9rNl8za0lmbDl2dW5VbXNHdjN6SXU5akFILXphWjhIUmNDYlBkUHBCMjlCUVA2ZllmUlpqTlIyY1ZGME9kZmhFOTZScF9IYmNMZ2UyR2xfdk1jSE5DNTk4VjlnM21VdmJfYXczVWQ3QnV2eVVzR05HRFM5UE9maDNPNUZEczl6eU5ISVdFTkdhS3p6TmQ2ZDdRdTd6WVV6LU5LYXA4WVZnQ2ZHM3o5bkRtZjRF?oc=5",
-    "source": "news.cgtn.com",
-    "published_at": "2026-05-13T02:53:04+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 02:53:04 GMT",
+    "title": "European shares rise as oil prices slip on fragile US-Iran ceasefire - Reuters",
+    "summary": "European shares rise as oil prices slip on fragile US-Iran ceasefire Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnVOWHpoaXU1c0NEeFFnY1RGdlNQeEJmZzhaYkNiU1J1UGdsTjRacnNOcWxnbko4dXlRZFhHQ2I0aXdBel9Ba2JjT1ZLQktZT3ByOFRBcXFvZ2xGdkJ5ZTY1VEJ0SXQ4QlNsZ2xsVUxhLWxEbnNBYVh5LVVqcHQ0N0RzU2tOeEQxeHZHMVI2czlXMUNUWTJwSjg5WjhTajg0VllTeWJFLUpmWEVQMzBrdFdEdw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-13T07:20:09+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 07:20:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1766d544283d0d7e992ceaa557c33af6447a8234",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Reports of a fragile ceasefire between the US and Iran affecting markets.",
+      "event_key": "us iran fragile ceasefire"
+    }
+  },
+  {
+    "title": "CNN interrupted for breaking news as Donald Trump suffers humiliating Iran negotiation - Daily Express US",
+    "summary": "CNN interrupted for breaking news as Donald Trump suffers humiliating Iran negotiation Daily Express US",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZzRXY2lxZDNHZFgzSzNiY3lURURIdDhqVzdkZ2VLRzNwTnV3czMtVWFjOWNTaUNWWnhhTWExVkpWUlk2WW1CdjhKbzNLR29uMjQ4bkxoVjdaLU9STllXVzdCd3VueFEtc1IwS1RmZXlvX1phYVNxSW1lWVNhc3Q3Z1V1RmJsWkdkeW5BbFdfQdIBlAFBVV95cUxOUlFZMV92Nk1yUGN3b1hDckRTZjVWY3FZU0poZlhGbWNMcll6Rm5OdVBQWDk1UDl3NzdNcmNrek5ua1RRNE1xeXNQVVZSNnVWZ1J5dUNQQzRhMnBoYjZQeE91MUpsZFRVWW9PYXE4UUVzYTBFZGVIOVE4Yy1adktWZlh1eHNkdmJubW5iVXZvNU5xR2R0?oc=5",
+    "source": "Daily Express US",
+    "published_at": "2026-05-13T06:32:00+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 06:32:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "316e61e71f28d3d83bc1f248ec43f279e8854611",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Describes a diplomatic negotiation involving Trump and Iran, indicating active talks rather than military action.",
+      "event_key": "trump iran negotiation humiliating report"
+    }
+  },
+  {
+    "title": "Iran sets five conditions for US talks amid ceasefire tensions - The New Arab",
+    "summary": "Iran sets five conditions for US talks amid ceasefire tensions The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ3ByU21pWERidjRFUXhablN4amE0eUw3M050QWhYUG5lT2s5ekxmUFctenZqblRkM2N2M3NOYm13eEpSUnNrX0JqUFlrZS1xZTBuRzJpYmVoMjFMS1RvNlNHazRvSHhKQVh1N2RQbnpqajN3ZWJhQ1hTS3k1S1dSWmQzNW5EeUFuN1JqMWloXzDSAZYBQVVfeXFMTjdDcmNUUkZiQk1LVVp3TWM3QjFtcUZCeFFZbkRQQlQwd1paSktqeDVZUFJGVlhqS2VZd2V1SGx5aUQzaWtuUHZSMHFSenNoekNFaG92Q0lOc0V3b0dMZDhpTm00Mm9yWU9ha1BDVF9OT3NVRTAzbTFzZE9rRU14QzhvUF9wR0JtN3hlcXhfekd1bTdSdXhn?oc=5",
+    "source": "The New Arab",
+    "published_at": "2026-05-13T07:30:08+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 07:30:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "661dba11866a5c91a162e9ec67025b20eb8795d2",
+    "article_id": "01c7f9024602ebe07aa23a839c53fb6239bea280",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Iran announcing five preconditions for renewed talks constitutes diplomatic negotiation activity.",
-      "event_key": "iran preconditions for renewed us talks"
+      "reason": "Iran laying out conditions for US talks indicates active diplomatic engagement and negotiation posture.",
+      "event_key": "iran sets conditions for us talks"
     }
   },
   {
-    "title": "Breaking News: U.S. intelligence reports show that Iran retains substantial missile capacity, despite President Trump’s claims otherwise. - facebook.com",
-    "summary": "Breaking News: U.S. intelligence reports show that Iran retains substantial missile capacity, despite President Trump’s claims otherwise. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWS1ZR1dURWxhTkxXaThXZXRGQVFfX0E4TExLUHJkaWZuMXpPZDVMY3ZDZHB4NjlzUGlCQjVEVFlKTDF1Tk9LdHBoc00xRkJNeGYweld0cUJEdWtOOG9hZXJzMUhteU10OEt4UnNLYXVwSWo1SU1vdVVtYmFhSnREVHAwRzBNLTdpXzNINGNQejVUbUNoekJ4Z3EtM1gtcUljQ1hZVFBjZ3RhdmNMbk95NTNVUFYwWXI4RjRWc1ZuOUJBakFRb2c2UTRWR3B6dFQwN21J?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-05-13T03:40:46+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 03:40:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2f5c1d0ead07372b3cb10b5cfc3c8200525a3d39",
+    "title": "Iran sets conditions for diplomatic talks with US - www.israelhayom.com",
+    "summary": "Iran sets conditions for diplomatic talks with US www.israelhayom.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkZrX1ZEY2E4Y2hiT1JVMnZMcHpETExuQkhIelpxZ2d2VGVVOEJQMGxGMHBYR3I5VXg2endRTVVJa01xNF93YkxjbXhKRzlRVWFRVHcyVko3NVlRcDFOblEwekVGTGVsZmRaX3dwR0thcFk4emlUQi0zcHB4ZU9SYVUtVFlQb0ZBSUdvNnBmY0ctVjdIcUZscHVoMlZMNlRVdjJXSVZtMlg?oc=5",
+    "source": "www.israelhayom.com",
+    "published_at": "2026-05-13T10:46:13+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:46:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "96135207530f89ffe2a424011a5c069fbd3d6355",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran outlines preconditions for diplomatic talks with the US.",
+      "event_key": "iran conditions for diplomatic talks"
+    }
+  },
+  {
+    "title": "Iran soccer’s only U.S. visit: death threats, diplomacy, jarring security and joy - The New York Times",
+    "summary": "Iran soccer’s only U.S. visit: death threats, diplomacy, jarring security and joy The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnJrTVgzS1NSSS1oYmFQQTQxRERwVDV1azMwOFZQaEIzY2xCN3g4UzNqeUh4YjB3d0dZMXZqVjEzWU1LUVRLWndxZUtqa3UtdkdXTlJKUG9oR005LTM3MGFBeFk0TFEzX2hYcG00cGx4WmJTQThCaU5TeElGbGhvSkVjWDdHZHJLckM5SFZKdnpuYmtqdGZtWm1KUkQxM3BFOW42dDF0OWM?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-05-13T10:00:32+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:00:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "866dd2005880af6ea97e93ac0c2483468b7dbf40",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.12,
+      "reason": "Sports visit with security and diplomacy themes, not about Iran‑US military or diplomatic conflict developments.",
+      "event_key": "iran soccer us visit"
+    }
+  },
+  {
+    "title": "Iran Says US Demands and Rhetoric Blocking Diplomatic Progress - The Diplomatic Insight",
+    "summary": "Iran Says US Demands and Rhetoric Blocking Diplomatic Progress The Diplomatic Insight",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRk5DNTU3Qk52T28tTWVpSGwwYnBOLU5senBQN0Z2aFdubzhQN3E4LU1BRkRfLUhpanJ1TXlVdnlNOEpkc09JYjNidkpHbUV3TzltNkJiekZiRExZLVQxX1kzWTV4NV9YaGttdk9rb29FcGlkOFZXaUtIZG1DZHJISTljbXBkNkFvdmtySlkxYTQwLWhuVzA4?oc=5",
+    "source": "The Diplomatic Insight",
+    "published_at": "2026-05-13T10:04:18+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:04:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e1604e754bba4389df5d8d77d14996a1d23c6dab",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.4,
-      "reason": "U.S. intelligence finding that Iran retains missile capacity raises military threat perception and tensions between Washington and Tehran.",
-      "event_key": "intel report iran missile capacity"
+      "strength": 0.7,
+      "reason": "Iran says US demands and rhetoric are blocking diplomatic progress, indicating breakdown of talks and rising tensions.",
+      "event_key": "iran says us demands block diplomacy"
     }
   },
   {
-    "title": "Trump threatens Iran will be “decimated” if it does not accept US dictated deal - World Socialist Web Site",
-    "summary": "Trump threatens Iran will be “decimated” if it does not accept US dictated deal World Socialist Web Site",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvZm85b2tGVkgzd3VwVzBwaW9XR2wtLTU4dnJjR05tSEU3bDc5bUR3SUVtaFpDR1ZXTVAwT0hncC14RHE3TEFnaGRxQnFGUk9EQ0FRZi1ya1RidWlnc2g1VDNYYjNxM3FD?oc=5",
-    "source": "World Socialist Web Site",
-    "published_at": "2026-05-13T04:16:46+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 04:16:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f3d7979edaca7001dec4b52d9c90ea079daeeb21",
+    "title": "Iran threatens US retaliation as Trump considers ending ceasefire - Crypto Briefing",
+    "summary": "Iran threatens US retaliation as Trump considers ending ceasefire Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXJ1TVpBTlRIejI0U3NqS21iOXhzLW9zYzBkcFdWeHhzTjJwZ3Vsc2V5SkJNVDN6cm1lNm5PTUs5ZWEtSl9yekEtUWlJdVFSWHVUMzFETUlveG5QaUpwNEFzRURTb25sazV4RUpDVnBrajl3c0RvOTFHY01BSEFVOHA0WUVhQ2FoZTNOaGhsQkpnSDJlZ25Nbg?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-13T10:00:59+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:00:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f0add253c3b3107636a855380f0b9a377136a857",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US presidential threat of decimating Iran is hostile rhetoric signaling rising tensions.",
-      "event_key": "trump threatens iran decimation"
+      "reason": "Iran's threats and U.S. consideration of ending a ceasefire signal rising tensions and potential breakdown of restraint.",
+      "event_key": "iran threatens retaliation trump considers end ceasefire"
     }
   },
   {
-    "title": "US Intelligence Shows Iran Retains 70% Of Prewar Missile Stockpile - Report - i24NEWS",
-    "summary": "US Intelligence Shows Iran Retains 70% Of Prewar Missile Stockpile - Report i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmQ4SGc3dTRvZ20ySGh6YXVNellnZG45U21FVDdIcUZPQlpQcEZBdFhHWnFtTEdqelU3U1lJaXprY092NURTN3hFeEVUQk15N1l5WFR5bWM2X2xkS1Z4b0dWVGNNVVlKS2doTlRsZ21iQ2xlTllPbmUxcGdDMXFOVGhOc2VEOElkYXA0X2NESkpVVk8zZFVNd1Y5YW9EQkZqLWE1X2tneDJFLUhrVEhuQ21sMElsX3FGYkxTaFdYRFlYb2R3QlZHNmZNRQ?oc=5",
-    "source": "i24NEWS",
-    "published_at": "2026-05-13T03:39:00+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 03:39:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "15f167f02d980abb9510f5619740c571f9ef2c72",
+    "title": "Saudi Arabia launched ‘tit-for-tat’ strikes on Iran during US-Israeli war: Report - thecradle.co",
+    "summary": "Saudi Arabia launched ‘tit-for-tat’ strikes on Iran during US-Israeli war: Report thecradle.co",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQklLY1FrZzRfM0MzV21uVEJmQ19NUnhBSTZqVVJzYVZXaW80U0dheVRxNW1ZNmJ3Z0V5MmNiTTE4NUVRNk82UVBoVElEZnU2elVrcVRzTHBfWDIwRnJDdnNKMWtrY2VzZndTS3VrSEZnSkhhTHYwSnNBZDZEQUtKY25rYjM0dWZpWnNmRFVaSzRFQ2d4RGt1VThfNkNoQUQwYl9WRXpON0NlcUMx?oc=5",
+    "source": "thecradle.co",
+    "published_at": "2026-05-13T09:37:54+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 09:37:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7be79068cc8e996400622889201484684cd5270f",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.35,
-      "reason": "Reveals Iran retains major missile capability, signaling sustained military threat and heightened tensions with the US.",
-      "event_key": "iran missile stockpile 70pct report"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Report describes Saudi Arabia conducting direct tit-for-tat strikes on Iran, a military retaliation event.",
+      "event_key": "saudi strikes iran tit for tat"
     }
   },
   {
-    "title": "US Intel Contradicts Trump: Iran Restores 90% Missile Site Access - Open Magazine",
-    "summary": "US Intel Contradicts Trump: Iran Restores 90% Missile Site Access Open Magazine",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmNySHBmV0dVenZKZW9VNHFlUjc5SXhoUjFXMXBpRTZzVTgwNXpJdGRmT0lyNTdXNmRIR0s1QzlNcWxCZFpvemFEbGN5Nms2TUw4Z19WU3Z4aWlseVpzYjhqaEJYWWNxclpHSTZMbHRQTENRcUppU0JHbVhkVUhGbDhWZ19qZVM5YjdQbmFCeEhzSFUteUhFWkg1RldpUQ?oc=5",
-    "source": "Open Magazine",
-    "published_at": "2026-05-13T03:31:41+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 03:31:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "09f8acb6d444529d3e65c86ef9ab4ebb9595b912",
+    "title": "The Iran Strikes, Explained: How We Got Here and What It Means - American Jewish Committee (AJC)",
+    "summary": "The Iran Strikes, Explained: How We Got Here and What It Means American Jewish Committee (AJC)",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDVleG42dlJ6RVktQkxYdTYxYVFSNDU3UFFwZHJqQy1VeG5WV2oxc2gyaEhTYlBBNG9OTFFHVkp4aTdqRlFKNWtMLU5QdEllZVdNejNJLWhiTVBwUE9COVZrWUNiNFhCbmZyaEE2YVpVcV9rZzdMSERvWlhGMUg4VDZyb3AyRkhFd21nZGJB?oc=5",
+    "source": "American Jewish Committee (AJC)",
+    "published_at": "2026-05-13T07:34:19+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 07:34:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6446c0326c814d693a351604997fb1809a9e635d",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.55,
-      "reason": "US intel says Iran restored access to missile sites, signaling reduced tension/greater transparency versus prior claims.",
-      "event_key": "iran restores missile site access us intel"
+      "label": "strike_or_retaliation",
+      "strength": 0.7,
+      "reason": "Explainer focused on strikes involving Iran and their military/retaliatory context.",
+      "event_key": "iran strikes explained"
     }
   },
   {
-    "title": "US intelligence shows Iran retains extensive missile capabilities, NYT reports - TRT World",
-    "summary": "US intelligence shows Iran retains extensive missile capabilities, NYT reports TRT World",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGpGX0xGOWZLdVhacFVmQ0NncjBUX0laYlNmdVR3akFxdFpnV21fOEVJZ2kxVTJ2dWJVV0RxSnBjZHJDNWV6YmtXRXZHVE92aHJ2enVhWXFZdTJPSkpUZEZ0RWQ5NHhOcFIySVRpb0dKZnZhNF9IM3Btd3ZxOUVUelBmWHNkaUMtX2JWSG03c2lGcGlEUVprRnlab3ZjU3BWbExWaEZWSHZlZHNWN0xTTnZ5WE9PXzVUVHN0TUI2cVpBZUlwbjhBcXBSU0tYQVRmU0x1MXhkVEU2UGVVSVpLMzR2eGJ0dw?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-05-13T03:12:55+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 03:12:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "32f6187973c83123b62b21fe51b9dfe52d6d283e",
+    "title": "Trump faces split among retired US commanders over whether to resume Iran strikes - Fox News",
+    "summary": "Trump faces split among retired US commanders over whether to resume Iran strikes Fox News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkpqZmE2UmVwaHlxOXBOemVjbW9BV0dPNDRicVBjeDRPRmRNdG5lek5kb1hiSWI0RHBPRzdoN0ZzNWdSS09MTWViRGV2QUdHRmhkQ3ZXUkk1cW1sQldmbG1wLWZyV3B3MUZ3RnA1XzhKcHNmTU9XM3hTbkh3SzVfM1EzdnJndndNT0VET0puYi1BYzRCSm5WZExULWo4T2J6TW14cHA0THhZa1l50gGyAUFVX3lxTFBzT3JsYlZsd1MtOXoxZ01iQlNySGh2VC1teDFHdEV1alh5SzdsMEw3X3VHQUNUZGRyYjRxd0ZONkFRNkhEUVdZWGNlQW9JSGFVMTBvNjl4VW52Sy1Hck9rSW4ybmYzNml4bUViejdJd19ObnM0b0E5QzRkVWpJVkkxNzcwdzlWVUZ0bmxGcWh6aktTMHBUa194QlFJTnZTMGFBTjg3eGpIeldwbzQ3UmhnaXc?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-05-13T10:00:03+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:00:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bac4417346993e40a36f57d3d0d818a1d3abc654",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "US intelligence revealing Iran's retained missile capabilities raises tensions and threat perception.",
-      "event_key": "iran missile capabilities report"
+      "reason": "Debate over whether to resume strikes indicates potential escalation and rising military tensions.",
+      "event_key": "trump split resume iran strikes"
     }
   },
   {
-    "title": "Sky News Australia. . Iran has warned it could push uranium enrichment to weapons-grade levels if attacked again by the US or allies. - facebook.com",
-    "summary": "Sky News Australia. . Iran has warned it could push uranium enrichment to weapons-grade levels if attacked again by the US or allies. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNEtpTVRPNHUwV0cwODVXeW10dl80Tk5LRTk5ME5KREhlb3lnLW4xMDJ0VjNzNG9LQW9LcUgwMjg1S1pLdnd6aFZUR3RGSHo5cmQtUV8xTU1GbElETlFMTU5jX1Iwd0J4a2FIRGExdEJHcTNEX3FUcGFDSGZrakJjVThlY2Fjckw4b0FTbzBwNkJRNW9CTDRYeWJxaHpkcjlDY09SdllIenIzcFZZT1ZFS0tQMXEwRzNLVmk1Y1dFZU1OdWs4QTh1UTNNTlkwQ3BnWWN2bklBLU9TTUtwVzV3?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-05-13T05:54:21+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 05:54:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "49adb9efbf042a7f2202b4eeadb9bfe06be98d11",
+    "title": "Iran threatens to teach US a lesson if it attacks as Trump mulls over his red line to end cease-fire - New York Post",
+    "summary": "Iran threatens to teach US a lesson if it attacks as Trump mulls over his red line to end cease-fire New York Post",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMWRKYUh5SXVGQWZsRE1zb3k5V1UtSkdTWEw3aWItX281N2NoaktGV09wcEJaZUdfTk9iVGpOeDd1YTdhUkNqRlpuaGZtNmlvWHdEWUg5dExXRllQenFKSGs3OUFrTUI5Rnlwdy1qSm55Tl94SFY3NDl4aXFCSlQ1RDBkVkZYRVlFWmxRclp5Vnlwc2h4Nnl2V1ZybWlaejc2dWVTdVBlTVhVNktaQzVXUUN1UVdUcC1lRDZ5QUQ4UklIRWgxekFTQkNNb2VMWk9FQ3lyelMzUnlqZw?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-05-13T09:54:00+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 09:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b740820d3bef43df3a5f8ca9c049f095f51927f9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's explicit threat to enrich to weapons-grade if attacked is a direct escalation and warning to the US/allies.",
-      "event_key": "iran threat weapons grade enrichment"
+      "reason": "Iran's threats and US consideration of ending a cease-fire indicate rising tensions and hostile rhetoric.",
+      "event_key": "iran threats over ceasefire"
     }
   },
   {
-    "title": "Iran Restores Hormuz Missile Sites During Ceasefire? US Intel Sounds Alarm Over Rapid Recovery - The Times of India",
-    "summary": "Iran Restores Hormuz Missile Sites During Ceasefire? US Intel Sounds Alarm Over Rapid Recovery The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORHJhaGJOeHM0M0N6QXZUeTVHWG0zVDNmTndRWFF0eGNtUzJYSXRkSkl1YzdIYVlDcWRDYndtQ0xkeTNHbnVwSURvcDdVRVNlU0d4ZmFXXzJ1NDdCLXR1RkF1SXZucHg2bThRNlNFdG9iMkxPYjFTTzJNWXJ4MnBnRkNsS20wTWhHWFpDbkswTlVLVURiWW5ja1hldkdCaEdmcGNPSjVNSTJfUDFxbXoySzFoUWUzT1BwdVdHd1Vkdzk4LXhSWkp1LTd1enFsNEdLeXpBNjlKTTN6WTRzZ2dIUzQ1N2VyZVJrTDNKWU11X0szQUVlSUdGYmxLS21OYUpQSFJzX9IBigJBVV95cUxQLTA2NG4zUGVKTGhlRmNzQUlvalYtM0N6UnJJR1VyT2ljVS1GVHRvZnljaVhlYjA2bWFQYWU3d2E2NlRkMEdwWFlyLTdMTWpVNUo5QVpwVUJvNXhfTkF2LUszVDc5RGpHb2J0cGZZTC1ISmJfc091QUt2dGI3Q21hWnRHVjRDSHlqaXgtcVBlTEhleWtuQVFFMzFtYVEzZzVYaWhuMUZJWEhaMURwMkYybDNkSXphVWdPWnNtUnM2SzBMaHFIU2pwMEpOUy1FV3p3aVFNNmphYXlMZ2dQdHZOekt0OEN5MHUwNnV5OGFQOEhHM1NIb1ZyaldveW1IeW03cU1JU2NiSlJqUQ?oc=5",
+    "title": "Iran retains access to majority of missile launch sites, US intelligence shows - report - The Jerusalem Post",
+    "summary": "Iran retains access to majority of missile launch sites, US intelligence shows - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FcDlwcUlaX1YxWUNKODhlaDNsdGx1QzlFSlRZeEdIcmRXQ2VNdTY1N3Z2cEpNZjFBMWVyTWJGeXNmdGg1RkhzcWJBZlJJcXdRT3FPcDNrTS1kTFBfdXNmUVRka0t1MGRSdlE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-05-13T07:45:27+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 07:45:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c81315a75db993fc7e8392a6cfdb5e1e33a760b2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "US intel finding Iran retains missile launch site access signals sustained strike capability and heightened threat potential.",
+      "event_key": "iran access missile launch sites us intel"
+    }
+  },
+  {
+    "title": "US-Israel Wars, Day 76: Iran Retains Most of Its Missile Sites - EA WorldView",
+    "summary": "US-Israel Wars, Day 76: Iran Retains Most of Its Missile Sites EA WorldView",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTB3TjhXS09HRXZINERxVkE0MVB1ZXpIVUFxcU9Fejd6OUY0NWpIRzJHbFA2b29KZkcyWUlGYW5KOHV4Q0dIMzZxd1VOMXNkcFVuWHM3R0l5QW55Zkp6bTV1SUxtUHU0VWozc3JsQkd0VE5TLUY1U0YzNjhvV21BVEZ1SHdQUQ?oc=5",
+    "source": "EA WorldView",
+    "published_at": "2026-05-13T10:41:15+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:41:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "08c5840153eb336d5a85e3145efb58257fef6949",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Report on ongoing US-Israel conflict and Iran's missile posture implies military tensions and escalation.",
+      "event_key": "iran retains missile sites day76"
+    }
+  },
+  {
+    "title": "US Intelligence Says Iran Still Has 70% of Missile Arsenal Despite Trump’s ‘Crushed’ Claims - Kyiv Post",
+    "summary": "US Intelligence Says Iran Still Has 70% of Missile Arsenal Despite Trump’s ‘Crushed’ Claims Kyiv Post",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aUWVXcjFMb0NOal90QzZfUVdjbVR0ZVpnM0Y1Njh0ZDZaTG1yZTlYWGJDUWRoRDdiVUVYQnZnSVlWWlprUUo5Z2p4dw?oc=5",
+    "source": "Kyiv Post",
+    "published_at": "2026-05-13T10:54:45+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 10:54:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ac43e289334b0fa5c5871f7e26518088b15e1262",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.4,
+      "reason": "US intelligence finding that Iran retains most missiles signals ongoing military threat and heightened tensions.",
+      "event_key": "intel assessment iran missiles 70pct"
+    }
+  },
+  {
+    "title": "US intelligence says Iran retains 70% of missile arsenal - The New Arab",
+    "summary": "US intelligence says Iran retains 70% of missile arsenal The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0lsbEp0U0lVM1ZYcTFxMFFZcEhJMDBxeEdrZ0M2VDJzNjE2blNOYWpFZ0xOTVlyU0dMRUFKRzVTMVk1OU91S21Wb3RrRTBFMEoxNUNrSU0yM2p4dG54U3BwNWlkUTlhU2F4akFLRUhBSFEzczRWTWJhYmxEQ1NVTHB3VU9CdTNQ0gGOAUFVX3lxTE5RUFYyVUZUZTFrNm01RVFkaXRIREgtaWZ5SG96TUVMbmdMelVZOEZyT21QbzAtRFkxcjkwWUNBQUlKbDlNUV9xSXpSRjZ5NkF2SzVuRXVSc0UybmdINExEWmlxaHJ1S3ZJYUM3QU90aFAtSkN3U29ZeWdHZ1o0djdFUHJIQ25BdkRlRU9WYUE?oc=5",
+    "source": "The New Arab",
+    "published_at": "2026-05-13T08:18:24+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 08:18:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9ae52e266b6a02264c41ebb866f329c20cb288ff",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.45,
+      "reason": "US intelligence warning Iran retains 70% of missile arsenal implies sustained strike capability and heightened tension.",
+      "event_key": "iran missile capability 70pct"
+    }
+  },
+  {
+    "title": "Iran Retained Most Missile Infrastructure despite Months of US-Israeli Attacks – NYT - Palestine Chronicle",
+    "summary": "Iran Retained Most Missile Infrastructure despite Months of US-Israeli Attacks – NYT Palestine Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnNWLVRYdXlWRVpjcG5XcHhhdURYQTdqSGdKMFpTNVppYzVGWjl5RUxDMGVTbElzRHZXOVJXbDlnNERRcFlHTGF6N3F1a0c0NEZfQVVQNmF2NlZkaHdDQnBMaVVSMUlxUENteXJMOC1pOVEwZFloSUtzLVNfTGQ0UndMQjQ0akxDX3ZKU2xVb1JLVFhjWHRJVmhxZU5GZk9IV2duRE1qM2hrT3owNlFBbXhwRHZySFZCbFE?oc=5",
+    "source": "Palestine Chronicle",
+    "published_at": "2026-05-13T09:48:22+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 09:48:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c2a4c845c374084d67243ec4eea8355b2ddab020",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports months of US-Israeli attacks on Iran's missile infrastructure—direct military strikes.",
+      "event_key": "us israeli strikes iran missile infrastructure"
+    }
+  },
+  {
+    "title": "US intelligence says Iran retains significant missile capabilities despite Trump claims: Report - Türkiye Today",
+    "summary": "US intelligence says Iran retains significant missile capabilities despite Trump claims: Report Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb1U0MzVQV2FkVTJ6d1h3RG1fYl9ySVQwSTVCcWtWamMyYy1YSm9pTC1pU2xTMzA1bWlrYl9POVNsMHBwTGFpbkVaWWEzdGZydHdvVHowNXBJRXEtNkNsbktvWl8tY3QycXFsZ1dDWWhJTmFFWWlyYnFVSWRETDZjVFlQT3dqaUp2MFd1YlhfYXRIcno1enpCNVhDZ3c3V0xKWE1WdnM0OGVadEpUZEQxOEpEVTZ0YTJOelk4RmNRMjFPSnA3NHpNaA?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-05-13T06:44:14+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 06:44:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca8b96c6706c8be54308ee2dd12eec5af6585d17",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.25,
+      "reason": "US intelligence finding Iran retains substantial missile capabilities implies persistent military threat and heightened tensions.",
+      "event_key": "iran missile capability report"
+    }
+  },
+  {
+    "title": "Trump’s war has barely weakened Iran’s military, US intelligence says - The Independent",
+    "summary": "Trump’s war has barely weakened Iran’s military, US intelligence says The Independent",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjZacjN4aU93UTI4VmZrbVZJZ1dTbnl6VmMwSk5seXR5SGpUaFdLVjFWNmFDWE1LcXJxTEVUUHFKTU1ERDA3UHN4cUI0bjlsalM1ZGZVXzViQ3EwNFlaUFhZaE82eWxsZ0VwcEJzeXdzTi1veDcxT2xPMUU4WmhBR0RwUklaVFBrbThSZFYxVVdEM2x4T3FxRG52UkJZYTdpbzFmUGFnWExTUQ?oc=5",
+    "source": "The Independent",
+    "published_at": "2026-05-13T09:23:00+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 09:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ed5f561cd6667677690dc555f496de2ee409c5a5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "US intelligence assessment that Trump's war failed to weaken Iran implies ongoing hostile conflict and heightened tensions.",
+      "event_key": "us intel assessment trump war iran military intact"
+    }
+  },
+  {
+    "title": "US intelligence says Iran retains about 70% of its missile stockpile despite war: NYT - Egypt Today",
+    "summary": "US intelligence says Iran retains about 70% of its missile stockpile despite war: NYT Egypt Today",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnVtcDhKaTFNNWJUaU5XQnJ6d05zSmpsbVpISG1LWWFqU3ptREdhS0t4Y2lfOXF3RGJaa3lsTUdzYk9rRk5XNWZRXy01elZodXVjNnhsczFaV0V4WWx4d1JvVGhjdHRMXzNFaExSRy1NaUZ0eW82b2szdE5rNC1FYVlwT1hIVVhwNklWMUNJcGtqcGVDY1d2TjQ2QUpoeEdUMDNZ?oc=5",
+    "source": "Egypt Today",
+    "published_at": "2026-05-13T09:31:00+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 09:31:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c4e6ac44c3a9c2b62310163f9cd7f77cd8ff0f81",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US assessment that Iran retains most of its missiles indicates sustained military capability and potential for heightened tensions.",
+      "event_key": "iran missile stockpile intel assessment"
+    }
+  },
+  {
+    "title": "US intelligence reports surprise Trump with Iran’s underground missile capabilities - Middle East Monitor",
+    "summary": "US intelligence reports surprise Trump with Iran’s underground missile capabilities Middle East Monitor",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlI4VElBWkNrak5MNmxIWGowSTBlVVJYQmIwX05DQnEtMTZHbjdGV2F2VUd3WmxRdU9Na2VfSUVpT19lVUY1NjJhZWNNa2F4QW16SW5tY1dnLXdsWGQ3VkFuSFdMWHZ0OExIajA0d3hLYTByY1hyb2xrM2U4MEhUTUJZVU01cXhZcUhTT0dxVzI0MkdwaEdtQ3VFM3Zkd0JQV0p2UGpWSHZLYVBodE1JSVVyY3pTXzB0MHdwcjhwUTZlR1dM0gHKAUFVX3lxTE9CRHlwUHg4WjF0OHg5TkhnenZ4M0RYc3Z3QmpDOHJTZGJYd1dCcEdWaUFiRGZIYUppdDNmaXpka1pCSzd5a2JxalIxQTFsYmhMNnpUWktyUGhXQmtlMG9VOVV6QUdJZVk2OHVMXzdjWkVqRHBqT0ZZcllJUlNSS091c29NcThmWUZad1FRQWJ0bURTSDRFUWtDdmV5RElXeWZqWFlTdWl1U3hFSW5KbFdKcHFoTk4xRG01cG1ZNU9SR2RxRGNteGM2QVE?oc=5",
+    "source": "Middle East Monitor",
+    "published_at": "2026-05-13T08:48:00+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 08:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c91c70a72e0e215fc515eeb0849efb2e29cb08d7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Revelation of Iran's underground missile capabilities raises threat perception and fuels rising tensions between US and Iran.",
+      "event_key": "iran underground missile discovery"
+    }
+  },
+  {
+    "title": "Trump criticizes Iran plan, hints at possible US military escalation - Crypto Briefing",
+    "summary": "Trump criticizes Iran plan, hints at possible US military escalation Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmVzZWRpcFpvSW5UZ3FDbU40TXdiMmVrS1BLZmdfc3NZVWNyQ1Y5ZmJ6UFJRWEFha0dmc0Z5WnRXWWd6TU5vZGZ3S19NcF9UV25sUlk5NmJIQWl4MXVqNFJKLUVZMWJMRTh4UlR4YkdwaG91Yi1CNzJmOHdtLXJZNzVuUHJuV0NrN01LbXp6RVJMLVI3R0Y3MnRrNA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-13T08:25:24+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 08:25:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a31edd1da0b4e0699cf9ec2da29ed47161a326cd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "U.S. political leader criticizes plan and hints at possible military escalation, increasing tensions and hostile rhetoric.",
+      "event_key": "trump hints us military escalation over iran plan"
+    }
+  },
+  {
+    "title": "US President Trump Revives Iran Warning, Threatens To ‘Finish The Job’ If Tehran Refuses Deal - The Times of India",
+    "summary": "US President Trump Revives Iran Warning, Threatens To ‘Finish The Job’ If Tehran Refuses Deal The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQS1RuRHpVNWNGUDhRSkxXcnRuNU5NSnAzQUo1clliZDZZQm0weDlhOG5Ebjd1eVpEY3ZUZjRhQVZZLW9felF0ZW45MmE5SXJ5TWdibFh1TXhnaW5jOHJ5eFRoN3BlNDB5TExrOG4zZ0tnYzhjRXNIamlmMExBeW91WTBHaDNOeG9NdXhwR1pZNGdLbEJnQkR0bm94M0U2X3M5a3VyQjRSU29BQWdwV1pTdTJzOGxZSkpfeGkyQ1BHN0FLYXJWcFJZZ1R1Y0RsWUdFc0dSQXJEc2htakR3WERiUEpjeWgydlUtalRyTzhpSDhPdHF4QnQ5d3FKZG03WU120gGGAkFVX3lxTE9kOXJzUkdJa1MtR3d5MUpoNUpYem0wZXBvcHZLamRPX0lxc1dDdXdPM1NXQ1VrVEZaN25zWjJjaGNDUWRXbkxpTDFXQzFkYWVsc2hCOXhrblkyOURzZk40WTJBS204eExTam9yTVhWVXk4VFZCOTNTYmpHVE11d25GTUtfeEZ3cW53d1VYV3BLNDByNjZTMC00bnhpOFcyRjM2VWswaGFKc3p4eUttb2UxM2s4OEZsVjdZQURtbmt1dDNyX0JkZWV0TmZVMm50SDZXZERkRkxMMmlwWXFOTk1aUlhQYnFDX1NaWDJDTG5ZRkI0bEp4SERyRlZ3ZHRhbVd2bTBZLWc?oc=5",
     "source": "The Times of India",
-    "published_at": "2026-05-13T05:45:00+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 05:45:00 GMT",
+    "published_at": "2026-05-13T07:45:00+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 07:45:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1556ee514438ec224f952ad5396ff0997c7d50e7",
+    "article_id": "c6cde1b414d61cb427ceacfc7db22207e5e7ffbe",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran restoring missile sites during a ceasefire alarms US intel, indicating military mobilization and rising tensions.",
-      "event_key": "iran restore hormuz missile sites alarm"
+      "reason": "Presidential threat and hostile rhetoric raising tensions toward Iran, signaling breakdown of diplomacy.",
+      "event_key": "trump threatens finish the job against iran"
     }
   }
 ]
