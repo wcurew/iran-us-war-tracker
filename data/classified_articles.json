@@ -1,36 +1,155 @@
 [
   {
-    "title": "Vance says US making progress in Iran talks - Reuters",
-    "summary": "Vance says US making progress in Iran talks Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abXlDSE9VUlpiX1N5RzV4c0Y5S2Nnd0hBemVhOWVlOGo0WVVaaXN2UVpoSmxCLXJYRGZ3RjRGN3QyOGRENEpXMWZUMU4zNmUxYjhyczFVNXRGcjFJQVdsQ3R5a2RDUTA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-13T20:45:30+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 20:45:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "35ac890a1024298d910df1df9bfceb802d6c7d99",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports US official saying progress in talks with Iran indicates active diplomatic negotiations.",
-      "event_key": "us progress in iran talks"
-    }
-  },
-  {
-    "title": "Vance Says US Focused on Diplomacy With Iran as Talks Progress - bloomingbit",
-    "summary": "Vance Says US Focused on Diplomacy With Iran as Talks Progress bloomingbit",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CZEs3OGc1OWh6d3lxY1N4OTZYZk9rWlYyMi1lSFRISG1KeWJQWUVwRXJsR0tqMldTU0t1WFk0T3BwR3V5WVlPMHJpOXphRUhJbHB6cw?oc=5",
-    "source": "bloomingbit",
-    "published_at": "2026-05-13T20:28:08+00:00",
-    "raw_pub_date": "Wed, 13 May 2026 20:28:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "418e9ea10d3996f8146d785c4657c57185ee0644",
+    "title": "U.S.-Iran Ceasefire On Life Support: Current Negotiations And Key Challenges – Analysis - Eurasia Review",
+    "summary": "U.S.-Iran Ceasefire On Life Support: Current Negotiations And Key Challenges – Analysis Eurasia Review",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSlM2bEkyRTNMS1NtM044Q25qVGVReHdNQkgxVkRqM1Q5dTJoVlRmWVQ0QnVzV296cTBBVlhzWXNrX0x0NmhIUEtCdmNORlRNTFVFQmd5TU9JSDZTWTRwTzhLTjNTUE1ReDFLRkZiTDVnQzUtSnduYnNZbkptNVZydzJlZnVkd3R3NFpiaGJMRThDT2Q0ZUdxUnkzMkRQSnhHQnZLQzk2d1pVa3dXa09mby1vRlo0Tl9fU2Z1ZzFsdkQ?oc=5",
+    "source": "Eurasia Review",
+    "published_at": "2026-05-14T01:23:41+00:00",
+    "raw_pub_date": "Thu, 14 May 2026 01:23:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7ea86d98b14aeb3eb5910bcf3c8602b86a646cb9",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.9,
-      "reason": "US focused on diplomacy and talks progressing per Vance—active negotiation efforts.",
-      "event_key": "us iran diplomatic talks progress"
+      "strength": 0.85,
+      "reason": "Article discusses ongoing negotiations over a fragile U.S.-Iran ceasefire.",
+      "event_key": "ceasefire negotiations tenuous"
+    }
+  },
+  {
+    "title": "Pentagon considering renaming Iran war 'Operation Sledgehammer' if ceasefire fails - report - The Jerusalem Post",
+    "summary": "Pentagon considering renaming Iran war 'Operation Sledgehammer' if ceasefire fails - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EX0hVR2x1Nm5tanhIVlZLcDJYS3N4TXBFNU1lRS1fUEVJb0ZvSWlTSUIxeFVGRlRmdG04ajFjNUJUakpOdENHMUwxQkdWZHlDUFUwdnFJWDkxelRVZmVpUkFvOVlKQzVIdVE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-05-13T23:31:21+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 23:31:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4e0a2be5922b2e7f628ca7c833e313797cfce342",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Pentagon planning a named military operation conditional on ceasefire failure signals preparations for potential direct action and escalation.",
+      "event_key": "pentagon operation sledgehammer planning"
+    }
+  },
+  {
+    "title": "Iran analysts pessimistic on US talks despite China’s role - ایران اینترنشنال",
+    "summary": "Iran analysts pessimistic on US talks despite China’s role ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWkM4cXRfYWxEN1lXckg2QXlhb2ZyVGhoLXdQVHJwNDdrRFlGUmRoWUNJc1NTNTB3Nmh0b292cGh5Q2oxYjdRYmVwWkRTQzRQM3c?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-05-14T02:35:47+00:00",
+    "raw_pub_date": "Thu, 14 May 2026 02:35:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "856480fc3481c0f3f3eb90c5d8b00d9fb15f3570",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Discusses diplomatic talks between Iran and the US, noting analysts' pessimism despite China's mediation role.",
+      "event_key": "iran us talks pessimistic china"
+    }
+  },
+  {
+    "title": "Trump, Not Tehran, Is Blocking Diplomacy with Iran - Arab Center Washington DC",
+    "summary": "Trump, Not Tehran, Is Blocking Diplomacy with Iran Arab Center Washington DC",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0xTSUhCNUZsVTRyejdjYl9HdVZOZU5NcVctNXg2Q3h0OTZiZ3phMVBabFpoTXZaSVVNQ2JBYkNWUkJJVjBVcXlsOWdDalZvTmI5SS1kLWdPRU1sLTJVR2dhdDFqa3pHM25RVkFrdmFSRHJKN1BQX1ZfXzVsQWdDMDFTTGhTS2FxeWdN?oc=5",
+    "source": "Arab Center Washington DC",
+    "published_at": "2026-05-14T01:12:53+00:00",
+    "raw_pub_date": "Thu, 14 May 2026 01:12:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e241f817e3322759689c294e9d38c91691f625f6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Argues the Trump administration is blocking diplomatic engagement, signaling a breakdown of diplomacy.",
+      "event_key": "us blocks diplomacy with iran"
+    }
+  },
+  {
+    "title": "Marco Rubio says US will push China to take a more 'active role' in Iran negotiations ahead of Trump-Xi summit - Fox News",
+    "summary": "Marco Rubio says US will push China to take a more 'active role' in Iran negotiations ahead of Trump-Xi summit Fox News",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmlsMnNpUi1ET0h3OVZqUzktUW9LTjZYNzV3dlhxWTUzTlh3Vl9TSjY4ckFhaHFjRnA1bkg4N2tTNTlRZmh2VnVpZko3VUFDMERzLVRqVGpNQjV3blJyd1Y3bW1Zc3pBc3ZvR3AyZ1dKSl9OYk9XZTBjZW5QbkhyX0NIaldteWFfVGVIMmx1bUtJYTBteWtqaTc1MFh0WHpNTml1TWpub01zYmYzR2VDNE1FVEV0eUFPeG1YMDJqQdIBxAFBVV95cUxNbzVlN3pSLThLSmc1V3l6bnM4V2EyZTRmVE1TWFNLWkNNMWJTeHhESUhBRnktUjc4QzRiWGR2RlZrOUdiZ0QxdGpCTG4zQnZOdk9wcjc0ZU84MVVRWW4za1h6SGxtQ0E0LWFJZ3FUczBMZ3FHeGx6cWVuWWYtV25PYlFGU2V2eVZVYmNyQlcyN0FQZHlQLWZXUXBHa3JMb1U2eE1pYldEcTVkMEhxMmpwYk00VW5JLVFFVld4N1NGS0VnckY4?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-05-13T23:15:19+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 23:15:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "58e5553287d010b7e64c8b0fb1323f519609c87e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Article describes diplomatic effort to involve China in Iran negotiations ahead of a summit.",
+      "event_key": "us push china active role iran negotiations"
+    }
+  },
+  {
+    "title": "Iran sets out non-negotiable conditions for peace, accuses Washington of disguising coercion as diplomacy - Muslim Network TV",
+    "summary": "Iran sets out non-negotiable conditions for peace, accuses Washington of disguising coercion as diplomacy Muslim Network TV",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZjM3V29hMHIzVWVFZms2SkRlZDJJdC0zcjFmYk9qMXE4RWwxRUU5Tk45d19Fd3ctZlJCR2I4ZHlfT2p2d2VKSlBxaGEtQmFJUXBzV19nYU4ydjM2X210dXZXMC1LWS1kQmFmRU5YTGQ4WjFvMDEwSXV0M29CVHJkdzE2LThNNlVGMlpOS1RlWnV2V3NJWXR4TEtMUHRfZ052UlpwTXdWcGs5TjczeG1ISnNHa2xva1R6T2lNMXhOdWJiQWxnX3NWc1VqSGU0eVE?oc=5",
+    "source": "Muslim Network TV",
+    "published_at": "2026-05-14T01:16:08+00:00",
+    "raw_pub_date": "Thu, 14 May 2026 01:16:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b0a2e150bae0bcb81391a687477b75dd41ff021d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran's public non-negotiable demands and accusation of US coercion indicate a hardened stance and rising tensions.",
+      "event_key": "iran nonnegotiable conditions accuses us"
+    }
+  },
+  {
+    "title": "Trump has called Iran's missile capabilities 'degraded,' 'depleted,' and 'decimated' but reports of U.S. intel say otherwise - CNN",
+    "summary": "Trump has called Iran's missile capabilities 'degraded,' 'depleted,' and 'decimated' but reports of U.S. intel say otherwise CNN",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWk5Cak9HVUloM2s0dW14Tkhmc1RxNFZlM19jQkJUTVl6UDJiLTM5U3JlWDlRQnJIeU12Vk1wMUNzRzJDTFlRWDNiSmVfQ1NEU216NTZGdTAwUzlwWi1EUDJGUVN0djV0ZVV4ZjNvVW5MVGtZdUUyekJNUGIyNnVDdDh2ZTE3Yy1KOWpFODhtZ2xiYU1rYVo2LXRWMzVUNFdpWWdOeGlXZ1FCLVJFWWhiZ1RZeHM?oc=5",
+    "source": "CNN",
+    "published_at": "2026-05-14T01:40:35+00:00",
+    "raw_pub_date": "Thu, 14 May 2026 01:40:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e5e88ddcd969f5603d7db26bc460a3fb25ec3b62",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Hostile public rhetoric about degrading Iran's missile forces increases tensions despite intelligence contradictions.",
+      "event_key": "trump claims on iran missiles vs us intel"
+    }
+  },
+  {
+    "title": "Pentagon Rushes to Buy 10,000 Missiles as Iran Has Depleted Stockpiles - Military.com",
+    "summary": "Pentagon Rushes to Buy 10,000 Missiles as Iran Has Depleted Stockpiles Military.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1NTdENvamNTTHZ6czBQSmJyeXVhSWw0aUpFdnplelhNWWxNd0x2Ukw2cGlXQWVmaTREeEZOWkxuUnJwQ19FXzNfRzYyT05UemoxSFAyd3AwM1JPTW0yU2dzcWNQMWN5VW5XSUcyTnJKQjAtVTVFeUwwbjVoelEtVDFRYWRnUXlNR1dZLQ?oc=5",
+    "source": "Military.com",
+    "published_at": "2026-05-13T23:04:17+00:00",
+    "raw_pub_date": "Wed, 13 May 2026 23:04:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "771e2a1f13a8b1587642699c2675e4f88968eec2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Pentagon rush to buy missiles signals mobilization and rising tensions linked to Iran stockpile concerns.",
+      "event_key": "us urgent missile procurement due to iran stock depletion"
+    }
+  },
+  {
+    "title": "Exposed in Iran: US Military Woes Strip Trump of His Beijing Bargaining Chips - 巴士的報",
+    "summary": "Exposed in Iran: US Military Woes Strip Trump of His Beijing Bargaining Chips 巴士的報",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnZwNV96SkNNVUFVSy1kakNIMmxxSkJYVlNVQzQxUzVIQ29tSU91WGVkdTZ1ZXp2ZlBPNmdMV2dCWmJXTzBKR3djTzFwMlA2UTJmV2ZrLWE3ZGF3WFdfd1l1UTdFbzQzTlB0N254dW8wMjBQYlRuMXlHZEp1dFlPZ1h3QjVIRFBXRDB2cGkzemVEdWxuaGZadHJvR05yUXZfSDY3UTBKOU05aVFSTHVzTFVWbTNFZVpWOG5rc3RBMGxOWHd4QjV3?oc=5",
+    "source": "巴士的報",
+    "published_at": "2026-05-14T01:43:17+00:00",
+    "raw_pub_date": "Thu, 14 May 2026 01:43:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5473db37b05a8e166ab03d622aa92034ad914dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.85,
+      "reason": "Opinion piece about US military image and China leverage; not reporting Iran‑US diplomatic or military developments.",
+      "event_key": "opinion us military iran china"
     }
   }
 ]
