@@ -1,53 +1,70 @@
 [
   {
-    "title": "US military still probing deadly attack on Iranian girls' school 11 weeks later - Anadolu Ajansı",
-    "summary": "US military still probing deadly attack on Iranian girls' school 11 weeks later Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlZBTXh5S1dBM01RcVJiZDhuVV85dVg5UURtbl9WOUlCNkVlTXRWYUNtYUxNOVV1cDhPRjYzVjJzNHo4akI2VjQwc0hJSllSX0l3eXlubDkxZkJBQjNOc3Brb2JHVG95ZjZ1NFpDQ19jV0hadFl2Y0oxODJrTnJEQWhKYTQwd2d1SUJEY3Y5Mm02d0pzTldCTmdCRVp6cmdEWUdadENVZUxRbkxTSXVlYUtJbFpadGw0b1p0UGFVc1NmeVZ5UnFNVTR3?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-05-14T19:47:12+00:00",
-    "raw_pub_date": "Thu, 14 May 2026 19:47:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c97df25acdc803ce51955eca3189becf4ebf0d88",
+    "title": "US Officials Aim to Contain Hezbollah Fight as Iran Ceasefire Frays - Military.com",
+    "summary": "US Officials Aim to Contain Hezbollah Fight as Iran Ceasefire Frays Military.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3ZXRmNSUmVIY2hqdHo1ekVFVmR2YUNmOXVOSm9HbHJsM1ZqbGVUVFN4Wi1NcDZCbHJrdnhmTDZkTWRmd0NHS2xldTZnSUExMi14RVBtX1dkWm9ybzlPZlVublhpdkRpVF85U1dGSk1QMTg0U2t0bXlqbVdXYXdySnhQeU1MRmtsNGhDSElWX1Q4LVhVaUE?oc=5",
+    "source": "Military.com",
+    "published_at": "2026-05-15T00:37:00+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 00:37:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "04f97c55cc4f854ec2976984eb2e84b13d84c9d9",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.3,
-      "reason": "US probing the attack rather than launching immediate retaliation suggests restraint and caution.",
-      "event_key": "us probe deadly attack iran girls school"
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Hezbollah fighting tied to an unraveling Iran ceasefire implies escalation via an Iran-backed proxy.",
+      "event_key": "hezbollah fight fraying iran ceasefire"
     }
   },
   {
-    "title": "Defense Department not investigating reports of US bombing schools and hospitals in Iran, military chief says - The Independent",
-    "summary": "Defense Department not investigating reports of US bombing schools and hospitals in Iran, military chief says The Independent",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2tMWnVHc1V2UURSNXRmRXhUdlY0ZHU2RnlReXVKWHJLMmV3WTFIVjcwakhTbUVVNW5mb2JFRGptY3Z5YUZhcU1Odl9zWmZ6T0h5ZW03N0tLZTNkMUU5djljX2FrWEhDNlgycWZOTzhJaXdzampVUHZyWUF2cXZQSWw0MGZ4R3UyalB1QklJT2hDc1JGalVGRjh2bnVKN0lNMTNuNEZidVlOTFhLSTRUSF92a3pXQmc5?oc=5",
-    "source": "The Independent",
-    "published_at": "2026-05-14T20:36:00+00:00",
-    "raw_pub_date": "Thu, 14 May 2026 20:36:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "39a6b6594de0ab33b0c6447fc3ffd5b6c9cbc734",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.5,
-      "reason": "Discusses alleged US bombings of schools and hospitals in Iran and DoD response.",
-      "event_key": "us bombing reports iran schools hospitals"
-    }
-  },
-  {
-    "title": "U.S. Central Command chief: Iran's military 'severely degraded' - upi.com",
-    "summary": "U.S. Central Command chief: Iran's military 'severely degraded' upi.com",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0lNRjlZZEF0MmhhMFN1R1BlSklfWWJPZ2JBZDhXWVd0bnlVMUFYT3ljOHpqOHNmeDhLTGRTWnhIZDhLWE1rb2ZJMDgzS0ZRWTlGOXFrOE8ycUlMR1Eyb3R1MnZjdjVhb3ZRdF9jX3NyTWtxeXowR0Q5VEtKVEpBSWxDMFFfTnVFeVhwUlV4RDJBUVV0a0ZJc1NUdC1Fc2U1SkpldXJISC1mZFNtTUxz0gG0AUFVX3lxTE9ZV29BNWNPbHJTeFZMX2JjblhycGg2eE80RTU5VGQ4dHltVjI2bUpGaGZOZXRiUTNiTmRmUFNjMzdrNkFGcWJKMTRXX2xHZFlGWDZLYmxJVVZkY0RaV0pBN25xNnFDSWdkbV9DSnhYaXplQ0NwLXhXYXloWHB5REI0c3ZXSGNRdmFxSmFRcUx4X3ZQN0JxRHBRby0yN2ZlenlkYjJ6VlVJMk53RkFXcmtTQndNUw?oc=5",
-    "source": "upi.com",
-    "published_at": "2026-05-14T20:44:08+00:00",
-    "raw_pub_date": "Thu, 14 May 2026 20:44:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "319bb6d7eab4501e9539cf10872f9ae273f90cae",
+    "title": "Video | BRICS Meet | Iran Calls Out US-Israel Actions During BRICS Diplomacy Talks - NDTV",
+    "summary": "Video | BRICS Meet | Iran Calls Out US-Israel Actions During BRICS Diplomacy Talks NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEZvNDJIR1o3MnBXRU5paWtjZXZIeUpwQzhyWGtjTGMwd3RNaUgxLWcwbjJob00wZFVDNUJ4MUwwanBZelF2NVUyMkFCdUZDRFZPRkM2dldBMmViZUNWNzJIWmxEZWlMRkV6b0FSMkc1N3c3VFB6bkRMT20wS3dwRVl2OUZuSDQ3Njk5WHNTVkI0NlZZS0RERDBmaTQ4ZzhiODd4NWx0Y2s1VUU?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-05-15T01:06:04+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 01:06:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a3e8ed2c77034c1d607944dcb1451cca5af45137",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Senior US military rhetoric portrays Iran as degraded, raising tensions and signalling confrontational posture.",
-      "event_key": "centcom claims iran military severely degraded"
+      "strength": 0.3,
+      "reason": "Iran publicly criticized US-Israel actions during BRICS talks, signaling hostile rhetoric and heightened tensions.",
+      "event_key": "iran calls out us israel at brics"
+    }
+  },
+  {
+    "title": "Islamabad Confirms \"De-escalation\" Holds Between Washington and Tehran Despite Regional Tensions - صوت الإمارات",
+    "summary": "Islamabad Confirms \"De-escalation\" Holds Between Washington and Tehran Despite Regional Tensions صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkhqT0tGRGt4bTByVzBNNHgtaVo1V1VYejEtTnppV2pXS3dOYjZzUnJlR1J2WTNqTjliN1dfZTBuNlNRSkt4M3VRNEExbjJXdGxaXy11YXFETllPWk1NVDZZY3JYTmZsM0RCa3Z6UTNtM2xzajRFUzB3RXZIbHJiZ1Zad0Q4cUl0Q3J3M3NFbkRObFN0LXVZQll1VjhJekg0LXJMVF9mWmgzNHBzSVN6TVdqWWlGNVNPbzQ3MzRsSEhOTEUyNkl6bVA4OFhxeXU0VC1JYVM0UkZMR0piVEo4?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-05-15T01:21:05+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 01:21:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ed89a574981ca488526de41d80a3378e386c4e5b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Pakistan says de-escalation between US and Iran continues, signaling restraint without a formal ceasefire.",
+      "event_key": "deescalation hold us iran"
+    }
+  },
+  {
+    "title": "Trump sends ‘annihilation’ warning to Iran with chilling deal ultimatum - Daily Express US",
+    "summary": "Trump sends ‘annihilation’ warning to Iran with chilling deal ultimatum Daily Express US",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3lFdm8xRmFLME5GNHk2X25icy1pcmZxOWM3NmthNEdXN1o1WXlkWHlHMV9uQmprYjdYSE5uVXdDdU1vREQxWGZ0dzFyd0dJQm42eXlyWVhtR19od2x5dGVETk1LajJDMFhROF9aLTUycTlQUXpyUDlXVU5FQjVyY0lROFQtVkxLZnFEUXEzY9IBlAFBVV95cUxPUzhFUXFhbS1qcERiUmNob0hKUmVvcEEzaG9US3huMzM4NnVTYnBJeUEwX1ZMdmx1cG5vM3pfdDJ5TXEyQjRiSWdJZk5iT3B1M2s1WnpXdkh3bW51bUREck12aExRRHo3enFDdHR3Y3J3Z0V1WVFYeUZSckpKb2h5ZXA5VGktTElqdHF2eldNQjBVSU9x?oc=5",
+    "source": "Daily Express US",
+    "published_at": "2026-05-15T01:55:00+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 01:55:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97eac22ad5054bfed94fdf1f9d6b29b8a7b97f83",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Hostile ultimatum and 'annihilation' warning from Trump indicates rising tensions and threats.",
+      "event_key": "trump ultimatum warning iran"
     }
   }
 ]
