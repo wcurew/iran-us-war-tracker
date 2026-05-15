@@ -1,87 +1,138 @@
 [
   {
-    "title": "Why did the U.S. reject Iran’s 14-point peace proposal? - Latest news from Azerbaijan",
-    "summary": "Why did the U.S. reject Iran’s 14-point peace proposal? Latest news from Azerbaijan",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wcV9SNjFOM1pqOTB5VUt0bXllV0ZEX1BReHBqcUJhN0xfWWZrMUoyaGhUV2hVU2JnNTdXQlFsaW83WktqZGM3LUNzRm12bkhQbXVqcFhaQ29lNFB2ck5QNnIxSk1oNXE3cHNJOTJCZFJyYUVBaXpFSzFfd1c?oc=5",
-    "source": "Latest news from Azerbaijan",
-    "published_at": "2026-05-15T09:46:05+00:00",
-    "raw_pub_date": "Fri, 15 May 2026 09:46:05 GMT",
+    "title": "Iran, US postpone enriched uranium talks to later negotiation stage - شفق نيوز",
+    "summary": "Iran, US postpone enriched uranium talks to later negotiation stage شفق نيوز",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTQ3ejJSUVhURERYaGNfeWhQUE1PN2hiLUZBUzF4YjI4bi1KTFRaNFhCUV9OdmxxTElWY3NDa2o4eXZyNmFFM1lFd1Q2NmdZVFZ5bVN0RXBYeXNqQ2d1THVsaTZkQ3BYS1ZDZ19lc0dGT21sR1k5WUpKTG5ncllKTXJYOEpNZnczblYyLUJjc3pjVmJ0WmJwUEJZWVQ1SXVveEE?oc=5",
+    "source": "شفق نيوز",
+    "published_at": "2026-05-15T12:13:20+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 12:13:20 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb6352e869f78d0730398b2d9a7e9070ad95bda4",
+    "article_id": "413eb1c017d2d562b3593343a2a1d7d6bcf4e108",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Diplomatic talks on enriched uranium postponed to later negotiation stage.",
+      "event_key": "enriched uranium talks postponed"
+    }
+  },
+  {
+    "title": "Anti-Negotiation MPs: They Closed Parliament to Stop Us from Interfering - IranWire",
+    "summary": "Anti-Negotiation MPs: They Closed Parliament to Stop Us from Interfering IranWire",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2RvM19oY0YzX3lfajB5RnRkUThCN0JjbktDdWk0czNraDhJUUktVTVMaDQtMDhOQmJsWHl6eGNHbkdrWDNlS3Y1ZUhrZHdJM1VJTXRFbERwRWdzVW9YVjMxTkJiS0VkcHpmRENXakdBWGZfcTloLWxRTkRnb1pMek5CZXltcF90cWkxd3JEWG5YVWlxWThjM1A0OFU1dDRUOWhGbTREVWwzN2Ut?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-05-15T13:11:23+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 13:11:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "77e25622506ba73f8d6cf62a379ea51a4155d657",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "MPs closed parliament to block oversight of negotiations, signaling rejection of diplomacy and rising tensions.",
+      "event_key": "parliament closed anti negotiation mps"
+    }
+  },
+  {
+    "title": "US Ready to Resume Negotiations with Iran, Open to China's Help - VOI.ID",
+    "summary": "US Ready to Resume Negotiations with Iran, Open to China's Help VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HZjRxWE1YN0d3ZVNHR1prWmxBdi10MUZkQWMtZlo1bFZvZjFLOVZYTXYyXzlIMXhfbjNLZ1FuMWlHMFnSAUJBVV95cUxPOGRwWWFNUGtlVDdIR2pRbld6SjVfWXN2N25MZ2toTHJNejVtU1V1R0dHcFZiQl83NkhHSS1WTmRMdEE?oc=5",
+    "source": "VOI.ID",
+    "published_at": "2026-05-15T11:52:29+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 11:52:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d85fa36bd3c90e59ee736de517532b4af0caa93e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "US expressing readiness to resume talks with Iran and openness to Chinese assistance indicates active diplomatic engagement.",
+      "event_key": "us resume negotiations iran china help"
+    }
+  },
+  {
+    "title": "US and Iran Appear to Postpone Uranium Talks Until Later Date - Bloomberg.com",
+    "summary": "US and Iran Appear to Postpone Uranium Talks Until Later Date Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmFqYTNldF9lT2Z5WXVJZmYza2RHV3dFSnJwejFVeUtTY3dTaUdKOUVZTVBYMThjZkJPQmI0X2Z3bVZPUjB3Q3Z5OXJQRlduTW1PbTRQdDBWNXpUdmdVNTNYdEFLeElkRlBGaThCdV9tRHNIMWtVbWhBNHE2VkxablVWZmdudEt4ckY1cU5vOWV4NncxX0lnVllHc1JjVFJDeENrS2N4MFMtVVNxQzR4U3JBdXpmUQ?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-05-15T13:05:08+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 13:05:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4829bd0ca4d4ae570c728487253ab2355c17e832",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Diplomatic uranium talks between the US and Iran were postponed, signaling ongoing negotiation activity.",
+      "event_key": "uranium talks postponed"
+    }
+  },
+  {
+    "title": "Iran's foreign minister says it 'received messages' saying US was willing to continue talks - Middle East Eye",
+    "summary": "Iran's foreign minister says it 'received messages' saying US was willing to continue talks Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkZ0Nk8xZTI3RFlyZFktTHd4NUE2U3NWY1lLQWtlbzJmUnlZWkptZUJKTGp1ZHExY3VEY0FjaVdmcEJ0cmZkN3JVMzl2MUh3dmNfOWw1LVhSdEl1Q2lSX3c1Rjc5b3ZCQ0U4YVhsOHlRbHc1TTVybUhWZUlCVlFLaHBNQzZJZEFoNUtNU2ZzdUJqU1BlX3ljU2o1TG55NGNERHBUc3F4Uks0R1hmbFJjanJfQmtqTmhldjlEXw?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-05-15T11:34:00+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 11:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9ad5f805e123e40dbc81135877595288a93f2fb6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports of messages indicating US willingness to continue talks constitute diplomatic engagement/backchannel negotiations.",
+      "event_key": "us iran messages willing to continue talks"
+    }
+  },
+  {
+    "title": "Iran's Araghchi: Ceasefire maintained to give diplomacy a chance, trust lacking in US - Yeni Safak English",
+    "summary": "Iran's Araghchi: Ceasefire maintained to give diplomacy a chance, trust lacking in US Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVk1ZHIxT1JHaUp6cWN6SUxIUDI1aEtPRnE2b0FlQTVVRThjVnV1SDhFUnNxMFZKbXFUZTZpWmx4MWc0b2luc2JiSy0tM043MGYwQUUzZ0Y5TlVlOTBqVkcyM3AtUFBKcVItY1BHTkFYY0NOa05URVJjRmc0WXVGaGVoZkIwRHJ1TV93NnVsU2hZQVlTdm1EOGdsS1ZIdUluUFRwSEdUOEs0VksxNkdvdzlKOVB1dHlBRzZQM0dB?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-05-15T12:25:12+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 12:25:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e6514b6e7b83953701b61d41ee3814b40f9dc620",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Iran states a ceasefire is being maintained to give diplomacy a chance despite mistrust of the US.",
+      "event_key": "iran maintains ceasefire for diplomacy"
+    }
+  },
+  {
+    "title": "High-Stakes Diplomacy: U.S., China, and Iran Navigate Tense Waters - Devdiscourse",
+    "summary": "High-Stakes Diplomacy: U.S., China, and Iran Navigate Tense Waters Devdiscourse",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0REaElRb0JveVh6Q2thanJPWm1HRFZqcEtleDJPTDN0UV8zUWpuelQzcjFFTklaNmEtLWxkM0lzQ3lxZlZnUTFRdVVJdDVjSlZSejJxSW9sWHRHMTZKdDU5WDlOdmRpOHFZV3ZnbVRWajhuX1hlbEpacV8wdEdqNzZpUFNjNjIzdVhzZTlnMVZzZHM2amhIbjYwUzVFelRsYVB5TjgtenlvcWFtbWJIZTJjSi1YVFnSAbwBQVVfeXFMTU5CWVJqZ09TYWtNSnhRTTRUV2tFenprc3RaS1FyQWdfNHgxZzIwLTc5VkdldXZnTlNfcDFDSHd1WlFBVHVsSmNWNURQbnR2eUYxTU5LMndKLUFPY1NkQnh6a2EtcWZYbFRWa0p2SDBkRWk1VXVZeF9sNWxoQW1mVjJKNnhhQXdPbXNCQTg3TC1DRGVqSlh6MHo4WTNtMjVmQjdQRlNtNUZGV2dMaDR6S192Q1BHUGxDcHhjaWU?oc=5",
+    "source": "Devdiscourse",
+    "published_at": "2026-05-15T12:15:23+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 12:15:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "267b62cd49e0fa6413c454e96827b05147d36dcd",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.6,
-      "reason": "Discusses Iran's 14-point peace proposal and the U.S. rejection—diplomatic proposal exchange.",
-      "event_key": "us rejects iran 14 point proposal"
+      "reason": "Article frames diplomatic engagement among the U.S., China, and Iran navigating tensions.",
+      "event_key": "us china iran diplomacy"
     }
   },
   {
-    "title": "Trump-Xi Summit Overshadowed by Iran War and Hormuz Tensions - ArabAmericanNews",
-    "summary": "Trump-Xi Summit Overshadowed by Iran War and Hormuz Tensions ArabAmericanNews",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnc4ek1RMDl1WUJtMTJEelpKbWp2dGVXOWMybG84RXdmcGNKTGlPSUE1clFobFhUbGtSRWg2X21UYUtOSnB5c0VvampYQnN6bWtETWVGRk1QQXdMZU5JbTNwNWxjS01KcFcxa0dSeExHTWVNZk5rMHp0aVJrSHE1dUlhQVFfa3JBaDNDNDZCLU1FU0MtaVplTXNjaEI3Sm5JRDR3?oc=5",
-    "source": "ArabAmericanNews",
-    "published_at": "2026-05-15T11:15:56+00:00",
-    "raw_pub_date": "Fri, 15 May 2026 11:15:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "878f3f908cc6c4fe9dc596c859e36668447b1d3e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "General geopolitics headline; no specific Iran–US diplomatic or military development detailed.",
-      "event_key": "trump xi summit hormuz tensions"
-    }
-  },
-  {
-    "title": "US bombings leave Iranian military with limited reach in the region, admiral says - Baird Maritime",
-    "summary": "US bombings leave Iranian military with limited reach in the region, admiral says Baird Maritime",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXJfckRHa3ZHWlNoMGFxWHNUNjRPRWdfT2d3S0N6T2xoMFZadXY2NHgtd1FnRzRxeXQ3cjZNeHdwZlIzWW5JZTNPTWgzVzFXdVN2b0E1dVJmN0dHR0dldmxsYUhWXzNqWDJnZjMtR0tPVy1aQWdqZU1zaXp2czRhanAzemEtUWo4RGNINmtQQjJzeTJqdUFfRGJ1bUhaZ3JGcHRHdjgzUEVRbzg1THIwWkJSbGxQNjJqT21J0gHIAUFVX3lxTFBqSllnSUViRGc3WllaREZFWEFuLUdPU2lsVGlRNUxvWjRoTUZyWDg4RnpVMWNXR0w3WGl3UFBkWUp2VW10SHg0eGlMbWtnUHgwaFpsX0JkakhrQ1lTdUhOeEthcFJLRTNaTGViOUhIblVDMU5RNEZzWENlMno4dHBVRzh0c2RGaHVZcllKdDhtbkQ5andpSEU4c0p3VlhGaExiUXZxb2hBMGdZZGRjWXZ0R01jbzRJcDN0d1NjQ2wwS0pfUFlZa3ZP?oc=5",
-    "source": "Baird Maritime",
-    "published_at": "2026-05-15T09:09:22+00:00",
-    "raw_pub_date": "Fri, 15 May 2026 09:09:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "afc8f5923fcedd8f4453bb265aff1c9ec0be4adb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports US bombings and admiral's comment indicating direct strikes reducing Iran's regional military reach.",
-      "event_key": "us bombings reduce iran regional reach"
-    }
-  },
-  {
-    "title": "Use of third-state air bases by the United States in the conflict with Iran - EJIL: Talk!",
-    "summary": "Use of third-state air bases by the United States in the conflict with Iran EJIL: Talk!",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWc2dU4zcUdMV0x1clJUS2JOOXV6d2g3Zm9fZmlmSk54TTJkbWtITUZWQVdnVGltSFBWZFU4TE1kbFJaZFh0dUhaWE40TDFjOUlVMFNyTzZJRmdmVXVRZ1ExRjhIMFZucDhuM0ppcHg5SWNMbS1mY05HemJFVmR0dWlPU2g3eFJkc01Hb1VwVDhXWjdpTUNCSkl0NE9HN2t6dWw0?oc=5",
-    "source": "EJIL: Talk!",
-    "published_at": "2026-05-15T07:06:09+00:00",
-    "raw_pub_date": "Fri, 15 May 2026 07:06:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "17c27f1b92a8ad5dcd7f15db29acff51b155eada",
+    "title": "Officials warn about increased nuclear threats from Iran and China's expanding arsenal - Daily Express US",
+    "summary": "Officials warn about increased nuclear threats from Iran and China's expanding arsenal Daily Express US",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMERCTUxPMmVrbVNKV0l4R3h3N2o5T0dyZ0xJc1NteVZ2TDVLUWMyajlsUndRNTN4Wkxwbmc4Uk9aaWlsMmcxYnlPejZYR1ktamRuNGVoc1d2Um1zYTB3N3drb2R3WnQ5Yjk5TVJ6dkp5SFBiWVE0d2x2R1RZLVpTY0xLalNQcVp6ZW5lUWF5MjV4MXV2bEY1bmh1OTVSaVNqN25hd1hn0gGrAUFVX3lxTFBJcWpIeVNVcTYxTjRVekVodV90a1gxSC00dzNkblRHRHZWenRvdm52ZkhPZTRIaHNjN2RwVnBvMXlLVTdlT1hWNTU0NzhfcmZmSV9wUU1uenF2bEZyY3hiQ1kyTF9fbXZSSEF3LWl0Y3d5SmpmOEVnX0VaYnNsMDdMeWVVcEVMWlo1WUoxSTlhSnl2X05UQkVBampQMEZQaGtXcmJsVmdmRURlUQ?oc=5",
+    "source": "Daily Express US",
+    "published_at": "2026-05-15T11:35:10+00:00",
+    "raw_pub_date": "Fri, 15 May 2026 11:35:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5e88c062486becdfce451c323055b4aa702fdefc",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Analysis of US use of third-state air bases to support operations against Iran implies military mobilization and escalation.",
-      "event_key": "use third state air bases"
-    }
-  },
-  {
-    "title": "US rejects Iran’s 14-point peace plan as regional tensions escalate - İlke Haber Ajansı",
-    "summary": "US rejects Iran’s 14-point peace plan as regional tensions escalate İlke Haber Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjVhZDk4RlAxbzk0ZmY3REplWEpDbGpjaWRsenhqWEpQZEVpZGNWc1E3Nzg2MXA4Tkloczc2RThDQW84RFVDMmVRMVk4YXVHYzBQaExVLTVMSFBpVE83S3RfNTJuTXVyaFRWQm8tY2NUVEtZcXcxd0hEZ0l4dm5KUTVFMmVobUZFcFpsT0dRTUZiUkF4SGJfYkVJRkExbTIyTE54M0ZJRHNQdw?oc=5",
-    "source": "İlke Haber Ajansı",
-    "published_at": "2026-05-15T11:00:48+00:00",
-    "raw_pub_date": "Fri, 15 May 2026 11:00:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5c4cf0be902bb0777bd60c102087dd998ac1943d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US rejection of Iran's peace proposal signals diplomatic breakdown and rising tensions.",
-      "event_key": "us rejects iran 14 point peace plan"
+      "strength": 0.7,
+      "reason": "Officials warn of growing nuclear threats from Iran, signaling rising tensions and warnings.",
+      "event_key": "iran nuclear threat warning"
     }
   }
 ]
