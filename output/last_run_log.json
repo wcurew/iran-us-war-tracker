@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-05-15T19:26:33+00:00",
+  "started_at_utc": "2026-05-15T21:58:19+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-05-15T16:49:29.670297+00:00",
-  "window_end_utc": "2026-05-15T19:26:33.544811+00:00",
+  "window_start_utc": "2026-05-15T19:26:33.544811+00:00",
+  "window_end_utc": "2026-05-15T21:58:19.031328+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 19,
-    "keyword_filtered": 2,
-    "deduped": 2,
-    "after_seen_filter": 2,
-    "classified": 2
+    "time_filtered": 26,
+    "keyword_filtered": 9,
+    "deduped": 9,
+    "after_seen_filter": 9,
+    "classified": 9
   },
-  "finished_at_utc": "2026-05-15T19:26:51+00:00",
-  "summary": "상태 점수는 중립권이다. 이번 구간만으로 방향성을 단정하긴 어렵다."
+  "finished_at_utc": "2026-05-15T21:59:13+00:00",
+  "summary": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
 }
