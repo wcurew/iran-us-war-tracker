@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "Trump says US-Iran ceasefire agreed 'as a favour to Pakistan' - The Economic Times",
+    "summary": "Trump says US-Iran ceasefire agreed 'as a favour to Pakistan' The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWHhyVFp5akRKNnBPYXpPZHVFNk43OENqTU1ybGpxVWFQVlhCenNlSlJXTHA0cEhxUEhHSGluSENQVDNGR18xZGk4M25CTkw2SGl3QTJoU05RdElmSVVIYUE2TU5wQTNRTnJxbVU0Z1MzQVllem1pcjBINXRkWnVSX051V3BlQmhUTXFHVXFLMWJBdGRTYThJcG5DUS1ob2dhNGVKZ1RLZVBhSVR1T0VCMlViUURodGZfVEpKTjUyc2Q4VzJfTmVQZjNzMWNoam5mZDZHcVllcWwwUWvSAeABQVVfeXFMUG40REd6RGppRk9RSEI2dVotWEdCM3A5alZ0Q0pQYkNpblFUeTBpSG1MUkV5NlJfVS1kaHpmUzFsbmJxaGgyUGxYai1mS25mMmY1WndfRFU0MTQ1V2J3VjFsQ2E4Y3dyb0thQXRpTEJyaEtWUUxLSTNSM2xQaFhXUmxPQmF2QXQxeWpZNnozdkc3Y3RpX0dzY1Y3VGgzT1pvUkc0YVFrUlUzMS04ME9zUXNwMmFEYXpHajNuTGtiXzNVUVN1WWp6LXBVSF9yVHlaWktCakJpdTVVNlFXQ0hWRDE?oc=5",
+    "source": "The Economic Times",
+    "published_at": "2026-05-16T08:17:03+00:00",
+    "raw_pub_date": "Sat, 16 May 2026 08:17:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6fcaf9e03f13c60982766bfd97b57602fc7a5c94",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Trump stated a US-Iran ceasefire was agreed, explicitly citing Pakistan's involvement.",
+      "event_key": "us iran ceasefire agreement trump"
+    }
+  },
+  {
+    "title": "live Trump says U.S. could strike Iran ‘hard’ as Tehran warns of economic fallout- Middle East conflict - AnewZ",
+    "summary": "live Trump says U.S. could strike Iran ‘hard’ as Tehran warns of economic fallout- Middle East conflict AnewZ",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0N0cjdYZTFfTFhWMTk0SnkyYjVGdXlOOTNIR29EZ0xiamEzVkNIb1FrLTdMYUpZOTBma1F1bmNxNXNPZzJXWkRNQm1vQmF6bGFVRnJJbXpEOU9Hb0d5emQ5UzFFU3B3V29nLVVZbFljdHBud3VtcEhlN0FNd0VHUnBnTnZNZjNDOEhMdzRKN3hiLUxx?oc=5",
+    "source": "AnewZ",
+    "published_at": "2026-05-16T09:07:24+00:00",
+    "raw_pub_date": "Sat, 16 May 2026 09:07:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "545b62de5e49decf620e45c33b492951b89d0365",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "U.S. threat to 'strike Iran' and Tehran's warnings amount to hostile rhetoric raising tensions.",
+      "event_key": "trump threatens strike on iran"
+    }
+  }
+]
