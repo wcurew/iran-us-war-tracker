@@ -1,53 +1,223 @@
 [
   {
-    "title": "Oil and yields ease on reports of renewed US-Iran negotiation efforts - FXStreet",
-    "summary": "Oil and yields ease on reports of renewed US-Iran negotiation efforts FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlZxVGVCWFRpOXhFRW9UZ0NmLVFYZnN6MURrdFd5Z19nUVprRkpRRVNIcG0yZWU0R2tpdDBFTHpmYzc0b0xfazF1T0p3RXBWbzdZcnRHaGs2TmlQSW1zZ0RueDU2cDM1YnFfY1RlSDFjMU91dkRTVjlZbWtZYVZsY3N0d0xWSU8yei04cU5pVkNZVlBnU1F1UzlMNTViVnVwSzFzWTdyaTJQY3lWUUgtbVJjNGNrYmc?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-05-19T05:43:50+00:00",
-    "raw_pub_date": "Tue, 19 May 2026 05:43:50 GMT",
+    "title": "Iran says peace proposal includes reparations for war damage, US troop withdrawal - Reuters",
+    "summary": "Iran says peace proposal includes reparations for war damage, US troop withdrawal Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSF9rZVdjR0RKS2w2VnI2M2dWWXZQQ21vck5sX1BRSGs0UVc0YWpTbXEzUEdXVGN6dmRLaTRMQlBERENZQTlUZnl5ZFVxLUNmd0N6dzk0bWlmaDlmcFlER0FDeFhWRDBUV29ONXBVb0xZblZIWE5VcW04Y3FMdGZUY1dHY3NVa2lzLWRyVGhHSUwwMElGQUFJLTEzTGtaeGlheUlqMjQtNTVwOHBzTjNOX2RfcF9reVFuU2FiSmVLcFRGbGRRZmk5bDdWdw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-19T11:20:39+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 11:20:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3c6cdc13cf15db3fe43d83ab81b09e247183e0e0",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Reports Iran presenting a peace proposal involving reparations and US troop withdrawal—indicative of active diplomatic negotiations.",
+      "event_key": "iran peace proposal reparations us troop withdrawal"
+    }
+  },
+  {
+    "title": "Iran submits revised 14-point ceasefire proposal to U.S. via Pakistan - MR Online",
+    "summary": "Iran submits revised 14-point ceasefire proposal to U.S. via Pakistan MR Online",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTloMkRzWjJYMnRWWUVtT28xR05CVklORGpPU1VnS09la3JrVUhpWEotYS1NaHRLWWQwSUFHOVAxT0c2YmRMOS1vdGNJUjEtLWd4U0FGSVhMZnpjNTlXN29kQ2RHQkdSUmlYcDUzRHVtYkdydU1IZnBHZnltU0tYc2JTU25MblltaklQQlhhY3NKeWxRLTg0V25KZVN0WTdSUVVZ?oc=5",
+    "source": "MR Online",
+    "published_at": "2026-05-19T12:04:08+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 12:04:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ef4c1755ab2659f9e0eeeaa07205ce85f49bce36",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Iran sent a revised 14-point ceasefire proposal to the U.S. via Pakistan — a diplomatic proposal exchange.",
+      "event_key": "iran submits revised ceasefire proposal via pakistan"
+    }
+  },
+  {
+    "title": "Gold Slips as Traders Assess Prospects for U.S.-Iran Ceasefire - Yahoo Finance UK",
+    "summary": "Gold Slips as Traders Assess Prospects for U.S.-Iran Ceasefire Yahoo Finance UK",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlo2dnNKZ21Venh0b19SUVdvelM3WUpIUHF5c1J4RThXNFNadjkxTVRzYmdQd2dHaUZwOW8zODZrVDlSam01OTVWUXhkcF9GVjByWVlMOVNqcFJUY0N2ZVFKRU1WVkVKNnBLeG9RY1ZpQmRvOXlIcWpjbWp1V25lQk1GUnJnV05xWXFPRA?oc=5",
+    "source": "Yahoo Finance UK",
+    "published_at": "2026-05-19T10:24:03+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 10:24:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4792e2df005380b1639ba1e7e418d5afc9815a76",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Markets assessing possible U.S.-Iran ceasefire prospects, not reporting an agreed truce or active talks.",
+      "event_key": "us iran ceasefire prospects"
+    }
+  },
+  {
+    "title": "Iran says peace proposal includes reparations for war damage, US troop withdrawal - Global Banking & Finance Review",
+    "summary": "Iran says peace proposal includes reparations for war damage, US troop withdrawal Global Banking & Finance Review",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbjA3cjB0YjZyZnVyLXhlcEZTRXpabmZ3dWh4VFdVc010RTNnSk9md2dkdUpGVnlRcy11dTVhRnoyT1ZKV3ptTEMtRVd0Vm05T0JybHo1U2NRRW5rOEozc294VHdSck1yOS1VSVVLWTdzajNRUWtEOFJlNWw3N3U1MEhiVXRHV3dpRW1RRHVrVnVyaXlPVG1EX3VZR05zaE52WDcw?oc=5",
+    "source": "Global Banking & Finance Review",
+    "published_at": "2026-05-19T07:41:22+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 07:41:22 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5342ed7bebf826e7a0a6cfb2099ae7810125f834",
+    "article_id": "54a556fe4e1d43090fb5fc4f88ad2460de86d62a",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Reports of renewed US-Iran negotiation efforts easing markets.",
-      "event_key": "us iran renewed negotiations"
+      "reason": "Iran presenting a peace proposal with reparations and US troop withdrawal indicates diplomatic negotiation activity.",
+      "event_key": "iran peace proposal reparations us troop withdrawal"
     }
   },
   {
-    "title": "United States • How mass layoffs have disrupted US diplomacy amid Iran war - Intelligence Online",
-    "summary": "United States • How mass layoffs have disrupted US diplomacy amid Iran war Intelligence Online",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkxQNl9ITWhOdXE0dEh4YXhjWk40a05YdE5nVEZSZ285YzZ0LVF2dVFqaUplRXFVYVlfVkRwSzlQWjMwaFMyU0NMcVpaUDFhTXBKaVl4SzVCUGs5dTJtX1lUZW4wVWYxaEREREU4N0ZIUVI3UTg0X2dyb2ZELVNBTlhhNGpTZkFuRml3MUxIZ2lvdkJXUWxVcTdJRG5TUml5NkNqbm1ZWURjTUFBSVcwa3FQVGNVQ252b19CSDluR19TNnk5OUE?oc=5",
-    "source": "Intelligence Online",
-    "published_at": "2026-05-19T04:01:56+00:00",
-    "raw_pub_date": "Tue, 19 May 2026 04:01:56 GMT",
+    "title": "Stalled US-Iran talks show \"Trump's strategy of pressure\" is not paying off - France 24",
+    "summary": "Stalled US-Iran talks show \"Trump's strategy of pressure\" is not paying off France 24",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzRhbW5Jb1FobUUybk9tZGJHRHR1ZHoxUDZoZlFBT1dZVl9Ob3pvbTU4STNtVV8yM20xQ0dMRjF6RklKLWdJZE4yWE5wQThPNVBLR3JnTm82WkpGbnNmdTZUNDBISnFraWc1R2ZoZWV3MWtseXpxRTF4cTBncGJhdS1WckZJSEV6Mm8xMkxyb2xWczk2andIbnpRX0hTeldyN2Zz?oc=5",
+    "source": "France 24",
+    "published_at": "2026-05-19T08:37:24+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 08:37:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e28c63c6a0ee011bdd637c7acf130ddbe271b64f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Stalled talks indicate a breakdown in diplomacy and rising tensions between the US and Iran.",
+      "event_key": "us iran stalled talks"
+    }
+  },
+  {
+    "title": "Iran reveals details of latest proposal submitted to US to end war - Anadolu Ajansı",
+    "summary": "Iran reveals details of latest proposal submitted to US to end war Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNal9SOFYwZG5zS19GWGNlSlBHWjRjc0haQVRwc01uZng2a0NZZjg2Z3IzM0dGa1BuUXhOZUJFelpmNTdXbklsbTBNdnhCV2k0YV9KeUR4Mk5QWTZaNUlISUM4U1RIeEFkR2Jjc1dtLTRKYmsyem9jN0VVa0h4NVg5b3d0RWNQVWtBVHMtSnBVS1VGQnhXRE15V2ZkazU5YmxSWDZNT2FpRExEQ1FwMDQ1aQ?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-05-19T10:32:14+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 10:32:14 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f2162e57d78476d6eb0e490a483d2c73bda8217",
+    "article_id": "7b877a88a5afc1b1ecf5b29455a3ba110f60aa3f",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.72,
-      "reason": "Focuses on US diplomatic staffing disruptions, not a direct Iran‑US diplomatic or military development.",
-      "event_key": "us diplomatic layoffs"
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Iran disclosed a proposal submitted to the US aimed at ending the war, indicating active diplomatic engagement.",
+      "event_key": "iran reveals proposal to us to end war"
     }
   },
   {
-    "title": "US-Israel-Iran War Latest News: Israeli Military Shells South Lebanon’s Marjayoun as Iran Tightens Grip on Strait of Hormuz Amid Escalation - The Sunday Guardian",
-    "summary": "US-Israel-Iran War Latest News: Israeli Military Shells South Lebanon’s Marjayoun as Iran Tightens Grip on Strait of Hormuz Amid Escalation The Sunday Guardian",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOR29iSDg4d3NRX09LdDlpeGhzcDZNb2t3R0lvZWpzWGs1ZTllOFhqTXJoUDhIdHNXZUdqZl9YVXljUHRLbDBTN043QTFmeW1aakpDc3hldFJoZENvVVN0ZHc1Ni1xZmplNW50QjNlSmt3b3dDbU16R19sV1ZEZHdVTHlVMklCTkttOUoydk1IbnZqSmZFZHR4T0tuaW1xY3VYZlpFYzdHelRmb0FBcWY3bmtDcDh0RDNFXzhlbGVfZ3lqMW0wbFF5dFFtZ0lhRWdlYUZaM0d3ZlNjNTBBM3JKdkVYcFZHaFlIQ2JhOWlNRkxDQlhkRlY1amZaQUdRZXpwMEdjWDNfWkRwajB3MXNj?oc=5",
-    "source": "The Sunday Guardian",
-    "published_at": "2026-05-19T06:44:19+00:00",
-    "raw_pub_date": "Tue, 19 May 2026 06:44:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "212586504f92e0829c390a70a8793a33ef8e8fc8",
+    "title": "Iran Demands Reparations and United States Troop Withdrawal in New Peace Proposal - Modern Diplomacy",
+    "summary": "Iran Demands Reparations and United States Troop Withdrawal in New Peace Proposal Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjhtX1lnY1JORlUyLW42d1F4MzI1VnhFQVQtdVBHaXRxdk1EZkRGMmk4QVJ2d24zb2xjaUQtbVhZdlZGaU1aSlhOc3JtaFduUDNyQXJsTUd1ZzlxVldlSGpfSnJfSFZ4d3JmYTlTeWNEeUowbG9URUVoQWhrSWMwbkNSX0JvdUp3bEV4WkpJQWN4RUVBd2lDcnpGQzF1UzY5N2QtQkpLMjVmRENtczl2Mm9yaHRqWFd3MTF1Mw?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-05-19T07:33:33+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 07:33:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4d5b38f1c5e43201d7e23be545bbeaf3d970e45b",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
+      "label": "negotiation",
       "strength": 0.8,
-      "reason": "Israeli shelling in south Lebanon and Iran tightening control of the Strait of Hormuz signal escalation involving Iran-backed proxies.",
-      "event_key": "israel shells marjayoun hezbollah escalation"
+      "reason": "Iran submitted a peace proposal demanding reparations and US troop withdrawal—active diplomatic initiative.",
+      "event_key": "iran peace proposal reparations us troop withdrawal"
+    }
+  },
+  {
+    "title": "US ‘contradictory, excessive stances’ serious obstacle to diplomacy, Iran FM says - Latest news from Azerbaijan",
+    "summary": "US ‘contradictory, excessive stances’ serious obstacle to diplomacy, Iran FM says Latest news from Azerbaijan",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlBWMnlOV2VGRzg0dGZlS21yM00zNVZOdDJxU0JjV1F0LVpSejFPSFZuRHdUSHQyMEFKTDYwZ1h4YVo2VWo4YlQ3blZobWwxUlF6d2tZYmtQU0NxY3VlNUZWTFdSTmJuaFM0OHU4OTVNNzVXR1ZjTGFLY003Wk9Va0kwNXRUQVRaNWZPM2ppaWpPS3VISXNtaGZQX2hGLXM?oc=5",
+    "source": "Latest news from Azerbaijan",
+    "published_at": "2026-05-19T10:23:33+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 10:23:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "071ce90565e5e5e495569a3fcecbf85f3f41e261",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran FM's denunciation frames US stance as blocking diplomacy, signaling worsening tensions and hostile rhetoric.",
+      "event_key": "iran fm us stance obstacle to diplomacy"
+    }
+  },
+  {
+    "title": "US intelligence says Iran retains major missile capabilities: Report - Al Arabiya English",
+    "summary": "US intelligence says Iran retains major missile capabilities: Report Al Arabiya English",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjVxVEtBQzFsMUpTUlJISzc2VTliNkx2N3BXbVVWbHFkNjFFUEJkZzhWN2g5UFJDd3o1VmNyLTF5OC1NazdpVm5vbC1CcUJrcU9RYWY1NEMyWWRvaTNpOWxSdEJjNXRCZmlwQ1FuaG5SWnNERDMwM1kxekRxcDJmOTNZN3huQkI0MXBpeHNzMzVKWlpKRWZNaXlYd1VoSjdrZjdvbTA3VE1jMVNCNnRkTE94a3RNdmFDQ28wbElpbVBKZVHSAcgBQVVfeXFMTmpGbE5nRWdnWG50TUt0MVhsR3lkWHNDUU4yMFE0T0lUYVU4QWVKSWJDR2lOdjY5VHlnN1JYMkFTTVViV3IwdVBTbTU3MDlWd2FfVmRaLWp6eG4wZnJFTXQtR3BtUGJJemlQMGVlcjlYRGl1LWx1UDdOZWJMODNTMHJIcWwtSS0yNUw2MFB0eUZRV2xPOG80RXpLU3pBdHVKZW1PTTRDblVfa2lpazRYZ1BsRDNVd3ZCd01hQVppTUxndm51bi1wQ0Q?oc=5",
+    "source": "Al Arabiya English",
+    "published_at": "2026-05-19T11:09:00+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 11:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e7dd5fef270654aca17ca070aa4dbf7dafa4cba9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Intelligence warning highlights Iran's missile capabilities, signaling heightened threat perception and rising tensions.",
+      "event_key": "us intel iran missile capabilities"
+    }
+  },
+  {
+    "title": "US and Iran Trade Multiple Peace Proposals to Avert Escalation: Report - Caspianpost.com",
+    "summary": "US and Iran Trade Multiple Peace Proposals to Avert Escalation: Report Caspianpost.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzh6Nnd2SFU1ZWZkc19fNXNuSW03YWdTbmxBVTBSd2w1T21yT0JmU2VianprUDB4el9LemJwMW9XODQ5eEhnakRnaXhPY3hvTVI0R3dvVEtyY1R3ZlFTSTdCbk9JSFRJTVJHdzFLVzNoZGpIbWxrN1d3VlV2WXFUaWxXODJIUEFJSGNmd3lCdlVXcUZjdm5iYkJNeWFEOEU?oc=5",
+    "source": "Caspianpost.com",
+    "published_at": "2026-05-19T10:17:34+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 10:17:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f038ee3eea112fca76e77757f822b4092d5fcd65",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US and Iran exchanged peace proposals to avert escalation—active diplomatic engagement.",
+      "event_key": "us iran peace proposals"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War Latest Update: Tehran Stock Market Reopens on May 19 After 80-Day Shutdown Amid Escalating Regional Conflict - The Sunday Guardian",
+    "summary": "US-Israel-Iran War Latest Update: Tehran Stock Market Reopens on May 19 After 80-Day Shutdown Amid Escalating Regional Conflict The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY3dlUENMckM1OWdlR3hNMUNsNWxKeGpRWTVHbTRZOXNxMmhOS3B0MDJDaGVTYUJGczhhVkZZY2pLVlFXdllmSkhaWDE2Zkd2dUppMWk4S2M1TFIxLXFHVVhmX0p4TW9zYWRGQ0ltZm9sYjJlTmcyaFJpMHNFM0FJMF9xSDE2Y21GcXduTjhQcWR0SHFjcVJSRUQtZlM1dlQtR3RZT3FuN1NQU0FETC1JOGVibGc1ZkJuRExoWlFPdzVOY0dQdWdqcjA0RmtNRUsyTnloUk1lTWtQaWNlc2xoZjdRVjg2WFI1UXZicEVFbDNQMVFlS1Q0Z3dYajVzUXVj?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-05-19T09:20:32+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 09:20:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "430a83cde8bf687f06cdced662b5dd17609d4ba1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article frames Tehran market reopening amid an escalating regional conflict, indicating rising tensions rather than diplomacy or ceasefire.",
+      "event_key": "tehran stock reopen amid regional escalation"
+    }
+  },
+  {
+    "title": "‘Iron fist of Iran’s armed forces will force US to retreat and surrender’: Iran Supreme Leader’s aide issues fiery warning to Trump - The Statesman",
+    "summary": "‘Iron fist of Iran’s armed forces will force US to retreat and surrender’: Iran Supreme Leader’s aide issues fiery warning to Trump The Statesman",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTWpTc2ROeFhfX0JYbnpXTWJldk9YMm1ESXplTDZYTWFYdmx6WFc5Q2RvZDZMQV9MeFUyZEJFeHJkNURBU0NzdUk5MGoyQzQ0Y2Z3V1BBMlBwcE1Sbk1CX3c1Sm4wRXhfY3BhYXlVYlFZQ2JsQTd2LTVOZGpfNVRMOHZmeXNiblNURHJQVlcxQ05oZ1V1VWNFb0NzNWN2X18tN1A4a0dEa2lqQnNpdUNyZFRJRzRtalRkcVUtTzVBbDI0MlBjcXQyd1N2eFNDSGZ1Z2FLcE9zQXVTYllMZlBPWFB3TnRZcnFfTW9lYUF2OC1kSG1nX3RBOVZmNUt4UVEtdHJUbldpQUvSAY4CQVVfeXFMUHJnb2tJbm5PMm00MG5pTFgza0VOS09ENUQwdFY3YTVMbk1KeHp4Z3BfcFNPc3loaHVGR1BaeXpaMDc5Qi1XbzlTWGltU3BPdXJQRjE2VUJoc0o5eG1wXzlmaGFZSzEwSnktdnhFU1lFV0VSbnRCVVBocHdPN1ZlMGNOWU8zQlRVM0xReWQwR3diVzNkSnc0eGlXanV6QzZKeXZ1V3J6cUJaSlJveUlxc05kYUdVd1NBLWtTV0RBckpUSHNHTE9RREFKVHJVT1luRTB2R0NCc1c0aG1ybER0SllYYVJidHR5LUJRU2tNTGN6dGVZS09MT3JGN21MVDZldjl3WktscTdoeUxCY0xn?oc=5",
+    "source": "The Statesman",
+    "published_at": "2026-05-19T08:47:00+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 08:47:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3ce813d81605e68f61d951b26656694b1ee52c5d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Senior Iranian aide issued direct threats toward the US/Trump, escalating rhetoric and tensions.",
+      "event_key": "iran aide threats to us trump"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War Latest News: Iran Warns It Will ‘Open New Fronts’ if Attacks Resume as Donald Trump Postpones Planned US Strike on Tehran - The Sunday Guardian",
+    "summary": "US-Israel-Iran War Latest News: Iran Warns It Will ‘Open New Fronts’ if Attacks Resume as Donald Trump Postpones Planned US Strike on Tehran The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNd3luYVVHREUzNVFqLXRqNlJKTlpKdjFtaW9xUFBwTXVDTHdLOUxDTENKSVVyTThFb2FzYUdZYkE0V3R1LVBMR3VaeVc2ZXBxcXAxRF9jY1djcUlmZFczbVlmRldSZTZ2ZUgwcGg3WUI3SFdDbXV2SEt0QV94T1RhQ3FnSENCdlVHNk1JbWpyQlN0Zmw5QWFfVUF1YkVYazNScmJ6U0NIOUtxR3Z5clUzbS1IX0Q4Nzc1V1pzcmZLWnhKejVRT180QnUyTC1HOVhROUNvdHZoeFNBVUdkeVdlSXFmRXB3VkZDVTFxR0tFQXpLZm8xS0R2X0JvY0dIVEJjWnlhaXlraUtYcUo1aWFB?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-05-19T12:03:50+00:00",
+    "raw_pub_date": "Tue, 19 May 2026 12:03:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fb3a1569183eedb6fc132c04c26d3a6f7714c8d1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran's warning to 'open new fronts' and mention of a planned US strike indicate rising tensions and threats.",
+      "event_key": "iran warns open new fronts us postpones planned strike"
     }
   }
 ]
