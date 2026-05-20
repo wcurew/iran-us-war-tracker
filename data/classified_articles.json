@@ -1,121 +1,87 @@
 [
   {
-    "title": "U.S.-Iran ceasefire deadline comes and goes under intense tension - Center for Ethics and the Rule of Law",
-    "summary": "U.S.-Iran ceasefire deadline comes and goes under intense tension Center for Ethics and the Rule of Law",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDhSenZGQ1RwWFNXUmJIUFZsVUlabUczU2w1UnA4NWRNTkFjMDY0alV6bHlsZ1phN3NZaXJnQS1iaTEwVmt6aERwZGlqaGtvamg4c1MzSlM4TnM0bGs1OHV6bVVDaXRHY29XVW9VTmFha2xTOTFmYnVxTmt2NW1IWjNIUjk4NHN0VVhZT0U5Qzc1eUN4MkFGeWFMMA?oc=5",
-    "source": "Center for Ethics and the Rule of Law",
-    "published_at": "2026-05-20T18:34:35+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 18:34:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7c9e0552bde05123eb74365bafdc4d94cd11b4d5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Ceasefire deadline passed amid intense tension, indicating breakdown and rising hostilities.",
-      "event_key": "ceasefire deadline missed"
-    }
-  },
-  {
-    "title": "Trump escalates naval pressure as Iran accuses US of breaching ceasefire - Dailynewsegypt",
-    "summary": "Trump escalates naval pressure as Iran accuses US of breaching ceasefire Dailynewsegypt",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3dTNk4wZXNvbDdFelQtbjBVbkEwLW43Q293OEhWaDZKak14ZUNtZ1BYS2xOX0d6Y2MyaTBEZkI2UzU4YUY0WEFzcEZCcjVtelZaMmdCRElucFY0NV9oRnJReEVXdWY3TkZxalRWY25BY05BWFBqTTNyWElVVGRmb0c3dXlmREhhYWpGVE01enZpUzNqblRiUmZTSGpRd0ZBWkljZ243alhnbEZwbC1WRTFKRUp2QQ?oc=5",
-    "source": "Dailynewsegypt",
-    "published_at": "2026-05-20T19:13:12+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 19:13:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9daceef5d6852d9e78cae3198af69a922977a367",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US increases naval pressure and Iran accuses breach of ceasefire, signaling rising tensions.",
-      "event_key": "us naval pressure iran ceasefire breach"
-    }
-  },
-  {
-    "title": "Trump: US in ‘final stages’ of talks with Iran: ‘We’ll see what happens’ - New York Post",
-    "summary": "Trump: US in ‘final stages’ of talks with Iran: ‘We’ll see what happens’ New York Post",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXJyRHlxdC12UjBWWU9ZclQ3WjRub2RiRHZ3YW5KYy1LZXFhU0xMRjZnWEFya3FGbEJJTE9WTm5KQWk2QkF4U01FdEhoUGlHdXRlVUNfVXctMm8xQUs4WUQ1MV9IMnEyTTFXU3QwcDJYUDhNcGJJNE1VM0dQd0o3M0pwWVA2TDJiWHhObU1BWEw0Wkh0a081ZS1MRFJJN0RzMXdzS2M0Zw?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-05-20T18:50:00+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 18:50:00 GMT",
+    "title": "Iran weighs US offer as Trump says peace talks on 'borderline' - Yahoo Finance UK",
+    "summary": "Iran weighs US offer as Trump says peace talks on 'borderline' Yahoo Finance UK",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDBzWG9nS3RuN0dPUlQ5XzN1QkxzYlJoeGJMbmV4NE9NbEtqc3VGX3lLeGNMRklKMFd5NTRKR0xpZUFVaGxqUkZmZTgzWU5semlGYzdQc211MXJhWXo2bkQxS1NVUnpPNjdYenpvUUxUTUVHV1FLakhKRURSa09LZFFn?oc=5",
+    "source": "Yahoo Finance UK",
+    "published_at": "2026-05-20T21:47:41+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 21:47:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b94970e19ec3733acde73c68404a3fe3a0c40dcd",
+    "article_id": "573cd3a1bf75f68fbad362953e523d6677924fea",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Trump said US in 'final stages' of talks with Iran — indicates active diplomatic negotiations.",
-      "event_key": "us iran final stage talks"
+      "strength": 0.85,
+      "reason": "Iran weighing a US offer and Trump citing 'peace talks' indicates active diplomatic engagement.",
+      "event_key": "iran weighs us offer"
     }
   },
   {
-    "title": "US strikes on Iran on hold as diplomacy plays out - FOX 13 Seattle",
-    "summary": "US strikes on Iran on hold as diplomacy plays out FOX 13 Seattle",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sc29wVkJiWVJaMURZdms1Ti1ZQ1F5N0JNeWFIalJXdkNEaU9Wcm5VNXhhQkZjX1BRMXp0XzNoem94RGZ3dnVyX1g2ajV6NWY4Vi1LQ1AweDhZeDlWWXRISnBVa1h0Z9IBa0FVX3lxTFBuMG1XdUY3Z2hxcmlSZW5zR2x2bFM3d0dTbjd1OTNLMlByX1JOSkp1QU0yb2hON00zRm1FMXR6ZmxBLXFuSVVLemtwYWJmblpKclRMWVlnNnVOWERTQl85LU9kN1BYWjVCV2tN?oc=5",
-    "source": "FOX 13 Seattle",
-    "published_at": "2026-05-20T18:24:49+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 18:24:49 GMT",
+    "title": "Gulf leaders force a pause: Diplomacy wins a reprieve in US-Iran war as strike plan paused - The Standard (HK)",
+    "summary": "Gulf leaders force a pause: Diplomacy wins a reprieve in US-Iran war as strike plan paused The Standard (HK)",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSldQR24ySnJoM1Z3UVJvY0doRDAxU0FYc0VjUDZ2MklBdmgxb20tWEhVcDFaN1hsWGo5ZVFBNmU0Z2p0MnRRWkxMNVdmd2VRdG9Yd0xZUGZjemI3XzNWUmxubHNPbHRBczA2WU5HMmR6WEFPSjlNem5wT0hGMEZyUFR1S29mWlZqNkZvU3g1azk2Ynh2Ty0tM2x1U0V5SVByQVVkN3dYMDNYYU84RGhhZGRjS1dMNXd1dHRVcVZNdTMxZTlYNFY2NmRfTGZ1ckc4aUxBbEdPNl84MERDQ1E?oc=5",
+    "source": "The Standard (HK)",
+    "published_at": "2026-05-20T20:38:08+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 20:38:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f202c1e2b2c99a76167fcdceb0d2810131b2b27a",
+    "article_id": "fc499b7cc96fc08c7782c6bc1abdf766a53e0e32",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.8,
-      "reason": "US paused planned strikes to allow diplomacy to proceed, signaling restraint and reduced immediate escalation.",
-      "event_key": "us strikes on hold for diplomacy"
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Gulf leaders forced a pause and US strike plan was paused, indicating an agreed halt in planned military action.",
+      "event_key": "gulf mediated strike pause"
     }
   },
   {
-    "title": "Iran examining US proposal, as Trump says in 'final stages' of talks - Gulf News",
-    "summary": "Iran examining US proposal, as Trump says in 'final stages' of talks Gulf News",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFFZam9nSGpIMGR4aHFqdkRTbjhBSGhGTWJ2VXAwTFAzbEtpYks2eXJORTFCVm5PWXdCR3pCcFZ4WWlJX3BCcmhQX3FiNThnQ1VncUx1cWVUZHlZM2dQSGo4QXoxZFFfLUFUSFgwTm5TV2dPUE5vV3RSamlHYU0tTjVPQW5iSFZ0SE1UVUVzRnF6OEcwanROMWNnY1M2eHVFS1FMUWt3SEFhLXpXY3fSAcABQVVfeXFMUFFBVDJyeThkUnJkT3NOLVVQX3BNNFBNRWllTlZ4U3kyU08xX3FDQnN6RGs0ZUlyZ1dOX3lRczVFWWp3b2xOM1FBbHF4b0I5dTBzY21OOTFscXV5UDMzemlNcWZGWmdUOTIxU2FaTkZNbUJVWFdZaDlXc3FsSWRKUlNRdHBKUG9KWDNseTA3SHZ3ZVJaUWtQbEoyb3BNOUQ5RDhKUGRKanhWMUUxbU9jcFFkSGl1aEYwZzh2Zy1uUThQ?oc=5",
-    "source": "Gulf News",
-    "published_at": "2026-05-20T19:48:54+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 19:48:54 GMT",
+    "title": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats - rudaw.net",
+    "summary": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats rudaw.net",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uQlBnMWl4UW5fWkZjaTBuaW8yd3p0bGJpSU5IdURzajRwODU1NjEydm1YYVVoclNnYy01NEVERVpsUTJNUFdlMGFfYUNDOHRzMkZoRjlIUQ?oc=5",
+    "source": "rudaw.net",
+    "published_at": "2026-05-20T20:57:15+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 20:57:15 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7aa0edd613b50cb704a202f2a9b339069fb066cf",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Iran reviewing a U.S. proposal while Trump says talks in 'final stages' — active diplomatic negotiations.",
-      "event_key": "iran reviewing us proposal negotiations"
-    }
-  },
-  {
-    "title": "Iran threatens to strike beyond the Middle East if the U.S. resumes attacks - Inquirer.com",
-    "summary": "Iran threatens to strike beyond the Middle East if the U.S. resumes attacks Inquirer.com",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnF0SHFsSHEwMWJEMWVMR1Q5S2N2RzJGMHhDUW1YMzY0U3R1aldqYndfRkg0dzYtWlpfWVBJVVhGQWJwZkxVc3UtbmJ6a1BkQ3RJRHRXZkJzc0VXamJoLVZ2OXlYek9iY2otYTRGMUJfV01PTXFwRlFsNnlGbnNfbkFxZm1TcFFNTXdnNnVEeU8wSlVGX0FUb01VaUhWa1hkd3liUg?oc=5",
-    "source": "Inquirer.com",
-    "published_at": "2026-05-20T18:21:44+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 18:21:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7dfc2784048991ae3474a666f0ebeb2098a7fcfc",
+    "article_id": "3d2ce7bff49b625952c662105cc3dcce990e8234",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Tehran threatens wider military strikes beyond the Middle East if the US resumes attacks, a direct warning escalating tensions.",
-      "event_key": "iran threatens wider strikes"
+      "strength": 0.6,
+      "reason": "US leaders split; Trump mixes diplomacy with threats, increasing tensions and hostile rhetoric.",
+      "event_key": "us trump mixes diplomacy and threats over iran lawmakers split"
     }
   },
   {
-    "title": "Doha denies running shadow US-Iran mediation channel, Qatari source tells i24NEWS - i24NEWS",
-    "summary": "Doha denies running shadow US-Iran mediation channel, Qatari source tells i24NEWS i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLTNmQnlMOVBIVGs1TWpDbEJGei1FRkJubVVCZjJ0UkhWU2ItYzgtZUM2LV9LbDBmMUMtWjZRWWZnVEdIbDhHWDhrbkhla0toNDN1S2p4cklFelhnX0E4TDhlMi1MRmt3V241TXJlNW9hUUhSaGxMb1hXSWhaS0ZvbmN2N214NXhEdFN0Z0dldXE1SExUTWJETkYwLWpOQ2l1N1VPX1NmZXppeHB4UXhNRDZER3RnU0xYaUlRaktuVQ?oc=5",
-    "source": "i24NEWS",
-    "published_at": "2026-05-20T19:09:08+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 19:09:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "82b9a6d6c123c61263f8c83c459ea67a7689553d",
+    "title": "Trump and Netanyahu hold tense phone call about future of Iran negotiations as the US President holds firm on diplomacy - Sky News Australia",
+    "summary": "Trump and Netanyahu hold tense phone call about future of Iran negotiations as the US President holds firm on diplomacy Sky News Australia",
+    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxONTlZM1B5amVhbEs1UzRPUEt0RjhGXzdiVC1EVG1aWUlPRndEOUNVdDNpVGF2bHlFTlctbXNvbHhOLUVWYmZFNzBaR1F0YXRpbThHNGpxcVNXSHVVVEZtTEVBRTZfSV80RWFKVzZhNXVyQk9jVUozSzhBU0VWOHZZV2xWbDJaRTgtc08wMVRNU2YzcDZvYkVIbEU1TjBuaVd5NFdlcEZ3WGdPMjJQNVNUUElFS01xUHpOZk1iWWdqcVQxZVU1YmRFNmlJU2ltakZvbEJFc05zVTNkZ3dWaG9tTDI4c0VCMndLMWtqTzRRRFlOWHpDajRPeEUwVnl5NTR2MDQ2NXQtZnk5cFhsMzZMMGYwSm12UVdIN1cxUVVvb3RQblN3TGNaUDZfbVpPUmFzemRMQVhsbTB0bm_SAcACQVVfeXFMTjdkeW52VVF6LU1vMzdDTHUwYWdaQzVUVWZWVWw5cE1CRDlUMUozcGtrNWxDWmNNd2FMSWNxZmwtamF6YjVfZks2ZnFNOGdIUlNwa2FDWlpDTFBzY2kycW1qSmVibWp5OUtWSVhjdVBRUHlRODBITWwzS0hMbjVsOVh0MENOM3BBUjhjUFdWY1o1OFpKenl4X3lnYTdSVFpyYmwtRUxScE01bmQ5eklVS3RNZW9LMV9SaVNSVGVXa1JDcDFLNTVQTnVGcHhuSEhWdnBaWkpwa00tYl9UY29iMFdTTVI0RUpUemtXOS1BTTlnbWZHWGU1SFc0ZF84NGVFTm5yaHJmdHFEYWRTV19MQzZ1M1dnTHRqTnhiR1JocDlYMkt0YURHSUxwcDR5U3hWSHliQzMtLWIxWHNCSWoxbnU?oc=5",
+    "source": "Sky News Australia",
+    "published_at": "2026-05-20T21:40:39+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 21:40:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9be571b8258d6d022c8cbf0c1e218b62607e8e3b",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.5,
-      "reason": "Qatar denies operating a secret US-Iran mediation channel, addressing reports of backchannel diplomatic contacts.",
-      "event_key": "qatar denies shadow mediation us iran"
+      "strength": 0.7,
+      "reason": "Tense phone call about the future of Iran negotiations; diplomatic stance emphasized.",
+      "event_key": "trump netanyahu phonecall iran negotiations"
+    }
+  },
+  {
+    "title": "Chained By The Markets: Why The U.S. Can't Afford To Strike Iran Again (SP500) - Seeking Alpha",
+    "summary": "Chained By The Markets: Why The U.S. Can't Afford To Strike Iran Again (SP500) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVElJU0N1ZXk4WUIxa0oxanYwS1Z1cV9aYXdrdlZ4RkRSNGhqZGlhVjN5VUxCOTdmMkZnd0hYZFY2Wm1VZjE3RExOdDFBNmFMVE04MzBzSzE0cTZkaTJYaVdXRW1ySjN4OGdFdlZYWmU1RWJ3VDhzWjcybzlXLWQ5TWRWM3plaVRnZ2NLd3IzWjZIZkhxZXV0VGpVVlJZdk9p?oc=5",
+    "source": "Seeking Alpha",
+    "published_at": "2026-05-20T21:17:36+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 21:17:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b9a0cf1fd8a9afdb7ef3a9271168de1fadcc6c78",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Opinion/market analysis; not reporting direct Iran–US diplomatic or military developments.",
+      "event_key": "market analysis us cant strike iran"
     }
   }
 ]
