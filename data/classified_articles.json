@@ -1,87 +1,206 @@
 [
   {
-    "title": "Oil futures: Crude drifts lower as fragile US-Iran ceasefire holds - Quantum Commodity Intelligence",
-    "summary": "Oil futures: Crude drifts lower as fragile US-Iran ceasefire holds Quantum Commodity Intelligence",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdW1VWlNqU2hpN1BERGloalhNTFhPTjN6QXBGMXVMUmZoTkU4Rzh1T3BiU3VUV1NNdHNtejlqbUN0Y1JXM1gtQ2hHMkdGYlRZSUk3N1V4NkVnM3p3YXpEa2hKQXFDN1RiWkE0a0kyQnZ2M3UwRXBDSno4OFltT3k4OHlQaGR2cWUtSUF6eEdPM3dVR0NSTjcxNGE4MVBSeTlm?oc=5",
-    "source": "Quantum Commodity Intelligence",
-    "published_at": "2026-05-20T12:41:14+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 12:41:14 GMT",
+    "title": "Ceasefire Day 43: Iran Warns Renewed War Would ‘Extend Beyond the Region’ - The American Conservative",
+    "summary": "Ceasefire Day 43: Iran Warns Renewed War Would ‘Extend Beyond the Region’ The American Conservative",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG53ZXFCdW9OY1Z4OC1JY3FCZjBJZE5ydnJiMXJTMVMzZVZDNkZHbHhzOWJqYnNhWDVlNDlrQUNTX0kyR21FLXlOdG9PSzFtYWVydXN3TktSdVRRbzdHSjNtRWUtNkZ3RHBpT3ZMREFER3lxS05TQXRlOERJZmlmTjFReVU3QS1yc0JZOEVWT29Yc2VHc3FPZ3NiRzR3eHFkNGJVX2JYMTZucFJFQTFUYQ?oc=5",
+    "source": "The American Conservative",
+    "published_at": "2026-05-20T15:10:00+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 15:10:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "05cfcef8bf7a7321068874d9a218a98fc63989c0",
+    "article_id": "eaf9b0aca66cca5937bc04fdea20c5d55375d0d9",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Reports a fragile US-Iran ceasefire holding, directly indicating a halt in hostilities.",
-      "event_key": "us iran fragile ceasefire holds"
+      "strength": 0.75,
+      "reason": "Article centers on an ongoing ceasefire (Day 43) while Iran issues a warning about renewed war.",
+      "event_key": "ceasefire day43 iran warning"
     }
   },
   {
-    "title": "U.S. ready to resume strikes if Iran talks fail - Foundation for Defense of Democracies",
-    "summary": "U.S. ready to resume strikes if Iran talks fail Foundation for Defense of Democracies",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXZLeFl2dkxfYTZTemRyQTRyMDQ4UmZFUVhVWnZZaUZobFBOS1ppTHdtQi1FLS1oOTh5bmFhWVFOdHE3Ujd2TjM5ODc1MHI5R0RBTTh6QmNhemludDBQcXNJTmdWYnpHeDcxOC1hV2lMZmk3LWhTQTJWUDZTUXZ6SkR5eXI5cFZqcVlneFl4ckhVcUYx?oc=5",
-    "source": "Foundation for Defense of Democracies",
-    "published_at": "2026-05-20T14:56:42+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 14:56:42 GMT",
+    "title": "Trump says U.S. in 'final stages' of Iran negotiations - report (USO:NYSEARCA) - Seeking Alpha",
+    "summary": "Trump says U.S. in 'final stages' of Iran negotiations - report (USO:NYSEARCA) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3hfZ1JMNk5HVUdIdHJFeURldXRzWXVWWVlXMjAtRzZOaXdsUzUxYVM5XzhtRl9HN3I5SnJfNlhqNWRVZmgxQkpyX1RJLWlfTWVWMzkyWWt3QnExa3pxcDl3U2FVMnhjZVBFU211SWJNTjQwTnQ2Y2dUUmdCU3lpOVJrVTBubFdhY0k5NDNfTXM2dFUyLWhSTHNLbVpnUQ?oc=5",
+    "source": "Seeking Alpha",
+    "published_at": "2026-05-20T15:44:55+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 15:44:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "097a76e0d11315b2f87882a97d421684a6b61f2d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Report states the U.S. is in 'final stages' of negotiations with Iran, indicating active diplomacy.",
+      "event_key": "us final stages iran negotiations trump"
+    }
+  },
+  {
+    "title": "Trump Says US-Iran Talks Are in Final Stages - bloomingbit",
+    "summary": "Trump Says US-Iran Talks Are in Final Stages bloomingbit",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JYjNULTFNU2VwZlRtSl84UENfeUhBamUxeUNfbExCNkwzbFVUVFpCV196Z0RFdFpId3RLcmp0RUFfenNZaTM1R1ZGRjFfa0VrVlVtQQ?oc=5",
+    "source": "bloomingbit",
+    "published_at": "2026-05-20T15:24:45+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 15:24:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cf577a91682394c3d531d6b9043d45354441cf9a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Trump states US-Iran talks are in final stages, indicating active diplomacy.",
+      "event_key": "trump us iran talks final stages"
+    }
+  },
+  {
+    "title": "European gas tracks oil lower on U.S.-Iran negotiation hopes - TradingView",
+    "summary": "European gas tracks oil lower on U.S.-Iran negotiation hopes TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDFWbzdMX21rTGxWcmNWLU1wNlRicEo2WFUySDJnc3AtenpCbkZudHladzZBYzdyaWpneVRXSlVsY2RubUZnd3lGQjV3amFjTVRScU5hcFVaNmRSeWpha2VTUXdIRXgwdm9uMi1ia01MT2ZFT2NHMGNNbXFmc01SaFR3a0J3TENJUGktTGVnRWk0SVlhT3laYjgyVFNyMVhMV1ZwclN3bE9ONjUyeEszU1NFTEdta2M2dmE1OEdDc2dsNjcwakhXdg?oc=5",
+    "source": "TradingView",
+    "published_at": "2026-05-20T16:14:08+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:14:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d0fec72e5735e37f0f9e70ff6f522732e32df399",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "Markets reacting to hopes of U.S.-Iran negotiations reducing tensions.",
+      "event_key": "us iran negotiation hopes"
+    }
+  },
+  {
+    "title": "Iranian military, officials step up rhetoric as prospects for US deal remain unclear - rudaw.net",
+    "summary": "Iranian military, officials step up rhetoric as prospects for US deal remain unclear rudaw.net",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EUHJpRUl1aVRWeUJ2blRncXVJVFg4bklsNGRHanlDUE1BVWxCV01fd210WXBIVTRad3Z2b3JKLU5rQzZkTS1LVnBDTk1nU3E1VjFYWU5iMDhkWHp4M1MtMEp4anpkQQ?oc=5",
+    "source": "rudaw.net",
+    "published_at": "2026-05-20T16:51:28+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:51:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aecc4572fdea2c390eacf1175f73d164a21164a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iranian military and officials increasing hostile rhetoric, signaling rising tensions and unclear diplomatic prospects.",
+      "event_key": "iran officials step up rhetoric escalation"
+    }
+  },
+  {
+    "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages - CNBC",
+    "summary": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2FkWVhLdWVoa3Y4NHI5S1lpenc4VG9NNzRIVVRReWd5TnFaTVJiaW1zMVQ3RjNkQWl4MTZVSnFoRE95N2VsNUE3U21wenZXeGlSMU1lb2RjNnRaZVVEeGlvZUVvbks4Uzh0Z2tncTBkWXNSSUI2clI1UzRZZlJQSDRTVzRvOTgy0gGOAUFVX3lxTE5mLTZGOExfSEpETTZWRlNaZG5HblNneEtSd00zN0VTbGgzdG84THFoOTZRS2xSdmZTVWd4MGlZVG9rT2NGTnJ5cUg2N3I4ZHlpVnkyR2pLZGFWeThlZV9VanViQTA1NTFyUmhzaVBZcDlDd0hFM2k4Q1dGTnlrdngxZG5oZzdkR3VNSUN2UWc?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-05-20T16:10:08+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:10:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4c7465ce9ae9ce56fd045797ba8c9670a7b36de4",
+    "article_id": "52acb1fe39049365bdfa70c8fd1106b180a929de",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Trump's comment that Iran talks are in final stages indicates active diplomatic negotiations.",
+      "event_key": "iran us talks final stages"
+    }
+  },
+  {
+    "title": "Oil prices slump after Trump says US-Iran negotiations in 'final stages' - Reuters",
+    "summary": "Oil prices slump after Trump says US-Iran negotiations in 'final stages' Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTZ0TjE5WjliV2w5YkY5aHlEUHVnVkdYNmx2ajdNd041OEZIdjA2MEpsT2tPaHRheVM1a3VaWmJSMjYzcEpENmxnb21Da2g3QVkxbGptaGJFOTRTcnpMVHZIUkgzRWVYdHdfbFpMSUZHZEhReV8xcTJzdXFGbWEzVzNrS0JsQjgtejAzSWM5VDFUTVZXdE15Q2xCT21QQzVfakp1N3RPUVpoSkxWdndXclp6Nzc3VktBeGc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-20T15:45:11+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 15:45:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "88bcdfad94ae592191355271cd3a754d567a63d9",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Trump said US-Iran negotiations in 'final stages', implying active talks and market reaction.",
+      "event_key": "us iran negotiations final stages"
+    }
+  },
+  {
+    "title": "Iran Threatens Wider War Beyond Middle East Amid US Strike Warning | 2026 - News and Statistics - IndexBox",
+    "summary": "Iran Threatens Wider War Beyond Middle East Amid US Strike Warning | 2026 - News and Statistics IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGpPaG9wcGJVY0ZxdXRyaUlmWU9FUUotYnFIUWVWMlpLX0kxX2hYSVhac3htc0ttVVRtZDQ3bDJuYW11N3ZyNHBCTUswUkN2OEloM2hKQUNkdUlrN2I1YlNyZms4Z2hzeFpEZ3Zsa3hGVUpPc0EzUllKaDBvdWlZSnVpRG9uMjk3Ykt0bkJZRndsRHU5T3RleTdxVkpaV28?oc=5",
+    "source": "IndexBox",
+    "published_at": "2026-05-20T16:23:00+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8a2af20d04b8a384e45a683be643c65e13ad5b1b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "U.S. warning it will resume strikes if talks with Iran fail, signaling heightened tension.",
-      "event_key": "us threat resume strikes if talks fail"
+      "reason": "Iran's threats of wider war and US strike warnings signal rising tensions and hostile rhetoric.",
+      "event_key": "iran threatens wider war us strike warning"
     }
   },
   {
-    "title": "IRGC threatens war will ‘spread far beyond the region’ if US renews attacks on Iran - The Times of Israel",
-    "summary": "IRGC threatens war will ‘spread far beyond the region’ if US renews attacks on Iran The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejAteS0zSTZsWlhwbnA0Y29CYkxkNVRqY2RiQ1NLeVdIOXM0dUJIVWN2ZGNqSkc4Y29rbHVZbVBRNV9pNlQxSE5MWUU0SzlQc0M3RmN0cFlzYnd4UEZ0cS1pUmNwb0Q5eDBrQmV2Q1kyT2FBcTl3OXh0Z2V3R05zR3NFaWZmSDdEU01ObjRtQVBGenhVTkNnRk5BQ0tocnFvb0xhTGxWdzV1Vjg3ZEladzNB0gG3AUFVX3lxTE5Jb1BGaXJMNDQ1dGxBSmZQa0s5SmMtdmNjSXZoQXdIaE15WFdEcm9BRTZIUDFPcDZNd3YxcEgxZkZlUlhwNUNWbnBTcWVzTmVwTjhLbDlXQlhpUE1rMnMtdl9OZWwyd3JXeDRfcnptOGJncjRSVU45WTlCS0tJU2lXX1JJR1lQemxNT1R2OGg0SS0tNnFNWWhZNXN2MGs3SjhiYW1CR2Z2c2NGQ185dWhucnVSQ29EQQ?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-05-20T12:23:46+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 12:23:46 GMT",
+    "title": "Iran: War will spread beyond Middle East if US attacks - The Hill",
+    "summary": "Iran: War will spread beyond Middle East if US attacks The Hill",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsRVU3ZzhxOHpzMVJJYkRLbzVmdTJ2eWoyZkpuQThURHJXTEpEMFp4R3oxUGJ6aGZOTy1FbmQ5LXV5d3lzSGIxVGE2b3daYzFDd2xBX0NoSHdIQXY1V3NmaG9YX2pGcXlsYnNEckw3aG52Wi1FZkgtMFY0QzBFZ9IBgwFBVV95cUxOMUx2bVo1eElUamRBU3Y0V0t2ZHl6Yi1XS0NlMW5xX3RIRmxHT21iVE5hZUlVeDJYbTBndGVSWFZzdmstMFVnRnIxUlluWktXVUt4UHhXRDBTNE1JZVBvTFEzemcwZElQY3pWWHd5UHZyUGdmT1BwRm5sOWpxUlN6Y0F2dw?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-05-20T16:48:00+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:48:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e2ebf258ddcdf5f2511f14a22df44da2a646b66f",
-    "source_weight": 0.95,
+    "article_id": "9ee6caf615fccc8d8ad03f5c9a4fb78925b25df3",
+    "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "IRGC issues warning of wider war if US renews attacks—hostile rhetoric escalating tensions.",
-      "event_key": "irgc threatens wider war if us attacks"
+      "strength": 0.8,
+      "reason": "Iran issues explicit warning that war would spread beyond Middle East if the US attacks, a clear threat raising tensions.",
+      "event_key": "iran warns wider war if us attacks"
     }
   },
   {
-    "title": "US admiral: Iran school strike ‘complex’, site was missile base - MSN",
-    "summary": "US admiral: Iran school strike ‘complex’, site was missile base MSN",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHNjcThabjZxUmU4TmdOREhiY1E5RnhvejNEcUpiTmJLekc0Rk9ZM1M2OHk4ZkZaQm12azQ5WmFMRnFOSFJ4WXVqb0xpSjA5T3pyT29aUmxSRWZRTGo3dGp6NmFycm1QS0pCMFlDVndCZG1Ea0dsT19VOEF4dm1seGdoeDcxUFJQMHRlaFF4QmlLemVBdkROeFhDWjZyYjVhbHZEUVo3eHVGWUVlVzl4VjdvYXJhQi1idkM3Mm1MRHVPekow?oc=5",
-    "source": "MSN",
-    "published_at": "2026-05-20T13:15:14+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 13:15:14 GMT",
+    "title": "US Admiral Defends Missile Strike on Iran Girls' School - WION",
+    "summary": "US Admiral Defends Missile Strike on Iran Girls' School WION",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVJzV2Mxd09OMjF2dGhuSThCQXRSdU1sYlU3RW5TS0p6RE5mY1VRcjN0ODdoZWpmRU5DRXE3SHFmN29xOEROaE1iQmYxTGt2WWhhVXBNZEg1cW5CNkJQa0xZckJzYjI4dnl0dmJMdmNEM3RRN184SGNYU1ZiS1U5RFZLeUtWLUpXbmQwRE9ZQnVjRk9xcF93YzFRYlZxa1p30gGmAUFVX3lxTFA0R2pRX2Qya2wweS1lNEhDVDdnUW1VTkZZSHhIR0FuTW9WWVB2V1RCZXlGSm1QLU5jRDlySnRneEo5dU5mbEhQVXdmdHAzaTFfSTc1UDh5RVJGYXZHaXozbFFmNjQxc0JXLXVCdVU3SE02MEVCRzcwZjB2bkVEYVFRWEVzcVp5NGg1d0NodTFkSUZ1SnBrUnhHOHlwNVRZX09ld0MyVGc?oc=5",
+    "source": "WION",
+    "published_at": "2026-05-20T17:01:00+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 17:01:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bd2ba46b87db36164f1b8f61cc267dd489a61cdd",
+    "article_id": "790e3f773da413e1f1a7e5ebd88479d096130af4",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Report discusses an actual strike on a site in Iran described as a missile base near a school.",
-      "event_key": "school strike missile base"
+      "strength": 0.9,
+      "reason": "Reports and defends a US missile strike on an Iranian girls' school.",
+      "event_key": "us strike on iran girls school"
     }
   },
   {
-    "title": "Exclusive: Trump postponed US attack in Iran after 'Hajj warning' - Middle East Eye",
-    "summary": "Exclusive: Trump postponed US attack in Iran after 'Hajj warning' Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE9rRk85X0JyMW1GSHAteTZOZmRQZGM1d1RMRGk0M0QzWTZON0Z4Wlh2RkRRRXBuaUhEUlU2MU5NaFlFaVhxRzhzY3NaSHo3enZmOWNBYm1XemdKdWIxd2g5UnVmVnRZU0NzZVk4MTk3dG12WFJwMmZTaGlsRnRodV9HWmhUNTFETE5Rb1pDc3RWbDIxTmdNT3V1YkYzWlc2bTNSa05SX2czMEcwZ3pxS2ZETkYtTGs?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-05-20T13:46:00+00:00",
-    "raw_pub_date": "Wed, 20 May 2026 13:46:00 GMT",
+    "title": "Kyle Bass and Mark Zandi Warn of Elevated Recession Risk Amid U.S.-Iran Tensions and Weak Income Growth - IndexBox",
+    "summary": "Kyle Bass and Mark Zandi Warn of Elevated Recession Risk Amid U.S.-Iran Tensions and Weak Income Growth IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcjNpMy1ydHNockNYeDBZcGpzLU1YZy0za19PQW5FU3U5MWt5dHV2R2l6bDdiRVQwbHJWUHlEZjl5ZW1HNVRpcUZTQXI0T2FBMWZIRl9RbEx3N211aXVpUW5BN2p4QktnN3g4d2tWUUVMajRWYWlGS1l5ZFFzN0s5TGNuZ0d4UVJGajgzVl9SLVFsOUpjVWx0YnRaeFMybldFZ3loWU5nNUZrejQ2UWt5dWN6VGRpemJZcERpa2U1UE12QWltZHJuaVAxZw?oc=5",
+    "source": "IndexBox",
+    "published_at": "2026-05-20T16:31:00+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:31:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4a0b2c399ef8daeb83f3002add1c83bdba841eff",
+    "article_id": "2c30234190efe0cca631a0d13573ebb6f3a7dcf1",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "US postponed a planned attack on Iran after a Hajj warning, signaling restraint and delay rather than immediate strike.",
-      "event_key": "trump postponed strike after hajj warning"
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Economic commentary linking U.S.-Iran tensions to recession risk, not reporting diplomatic or military developments.",
+      "event_key": "economic warning us iran tensions"
+    }
+  },
+  {
+    "title": "US-Israel-Iran War Latest Update: ‘Hit Iran Even Harder’; Donald Trump’s Fresh Threat Raises Global Concerns Amid Ongoing Peace Negotiations - The Sunday Guardian",
+    "summary": "US-Israel-Iran War Latest Update: ‘Hit Iran Even Harder’; Donald Trump’s Fresh Threat Raises Global Concerns Amid Ongoing Peace Negotiations The Sunday Guardian",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS1ZtVUUzZ2psS3Y4aVdfaTgtb1BFQ0FVVVFFOTVhRnB2TzQ0bXpmaXNRSWdfMC1XTW5iYm1uU216SldhWVRXUmwyZFNRRGQzQ1gxVHB3TnE3NVVXMHlXQjVtWFNVbnFsWEN1aVYzUFVYeWxfZlcwZXNQbDBKRFFPV3BGZFlndnY3dWF4THdLeVJWV2hYV041bF93a0VlNzBMNmJxMDM0RVp4UlpoRXh5RGk0ZXdYWUJScEdmSEJvRGxDQ19MRFVSSTJ3aGRwX0lHSzhKRkF5ZVYzbkNxVjZ1cExmczI5b0hxZExhRG4xZzExa2hvRW1FYkFTOG5oalp2TGJkbXM0SjJzS05j?oc=5",
+    "source": "The Sunday Guardian",
+    "published_at": "2026-05-20T16:55:48+00:00",
+    "raw_pub_date": "Wed, 20 May 2026 16:55:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "42a1961604a2f7ff4b77120eff1b622ad1a7682e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Trump's threat to 'hit Iran even harder' amid peace talks signals rising tensions and hostile rhetoric.",
+      "event_key": "trump threat against iran during peace talks"
     }
   }
 ]
