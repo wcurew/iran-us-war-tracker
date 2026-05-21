@@ -1,104 +1,36 @@
 [
   {
-    "title": "Ceasefire Day 44: Trump Says U.S. in ‘Final Stages of Iran’ - The American Conservative",
-    "summary": "Ceasefire Day 44: Trump Says U.S. in ‘Final Stages of Iran’ The American Conservative",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3F4V0JYVF8ydUlQeHdZVmFUWm5zX01LcEE1eDlBN3RacUJEak9XSXpuSE5LLTJ0cjVOQ3ZmU3p0a01uZlU0OFdQQkZudWJCNGhoeHgyekdvRkRwb0FOUDVyUGJZZlBIaU15OGEwd21ubERXMnZNaXJYeWNWeGtvTjR6M1FUNE12TUoyc1hyWHRvTS1maTNXRm1oZFM?oc=5",
-    "source": "The American Conservative",
-    "published_at": "2026-05-21T18:35:00+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 18:35:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5532ac730bd61ea0b42504b2a4dab6eee6957168",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Threatening rhetoric ('final stages of Iran') signals rising tensions despite ceasefire mention.",
-      "event_key": "trump final stages of iran threat"
-    }
-  },
-  {
-    "title": "US-Iran diplomacy picks up: What’s the latest? - Al Jazeera",
-    "summary": "US-Iran diplomacy picks up: What’s the latest? Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUNscWpsZ01BUzRoX3FBQ2tEejVYNTMtTkFseHQtSU16ZTl2QkdsY1hmQUhSYklGZnpMeWJxVlVjQ3dSd1lOMExfN0dKdDE1ZjI0MUpiSzV1XzRFVEVmZExRSk1LNnlTX2ZqVkl1RDEza2FTVm1ZelBSTGlvT1VvVDJycXViOWNvWmdGU9IBkgFBVV95cUxPT3NmU2VoX1dndmxCd1dWYllQcFNTY0YxeEtYekRJOUZGVHdFdzhPYW9UMVZRWXJ0VXR5M0Q5YmNFclZva3FQbW5QOHQ1NmVuV3RmTnBfYWxWWXVPRFNKXzBFQ1JNNldGaW9uNm1TVHZtVzItZFlld21EUmwycl9zanViZ0xlZHhYem5WM0FPbVJkUQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-05-21T15:31:04+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 15:31:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f66bdc38eb99a75232fe01ef1d7a865402dee010",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.86,
-      "reason": "Article describes resumed/active US-Iran diplomatic engagement and discussions.",
-      "event_key": "us iran diplomacy resumption"
-    }
-  },
-  {
-    "title": "Canadian Dollar struggles as US-Iran negotiation optimism pressures Oil prices - FXStreet",
-    "summary": "Canadian Dollar struggles as US-Iran negotiation optimism pressures Oil prices FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUdwb3FjX0VZQmpMTnQ5MFF2R0RHSzA5MUtHQWJHRDhKcndTemIwSXVvdjVRMmRjR0hCeHlPeVluWkM5N19MZmxyZGVnR3AweWlSd093bk5fakl0TnFhOUlWbl9lY1NmSVVBWFlNU2NydjFmdVdhZEUtNnd5OFExelZzSVYwdjU2Q1Y1WVpIR01iT2RNLWlFb0RXRTJhWkdIR1dvVkExRWdQR0RSUEJKYWVyaHdsSTVvOHJWZm5n?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-05-21T18:10:06+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 18:10:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "19b390f68e982a04c4510b4c684516b4f003e2b3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Article ties FX moves to optimism about US-Iran negotiations affecting oil prices.",
-      "event_key": "us iran negotiation optimism"
-    }
-  },
-  {
-    "title": "This hard-line Iranian general is a major player in talks with US over war - AP News",
-    "summary": "This hard-line Iranian general is a major player in talks with US over war AP News",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVm10cjg1aG04V1drMlFKMDhwSU1qUzR0eUdpVy1OeVpua0dhVnRxOWVDckFHLTBxNWFfdDRmY1JTNUZGdDdsYW1xYTNFQzBub3RXU09xMm5HODBPV2lnMmp4bEtNdDhUbF9FVFEtd3JZXzE2YTRudGRjMnd5SGxUVExkT1Y1Qm9sVzlzWDNSaTlKbkFhRU4zZlJMYUVpdw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-05-21T16:33:43+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 16:33:43 GMT",
+    "title": "'Some Good Signs,' But Big 'Gaps' As Fitful US-Iran Negotiations Struggle On - Radio Free Europe/Radio Liberty",
+    "summary": "'Some Good Signs,' But Big 'Gaps' As Fitful US-Iran Negotiations Struggle On Radio Free Europe/Radio Liberty",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlc4UVNFZVI3aGZkNm02ZUk0OXdsZWhlbU93LThxRy1xZDRmbGt2XzJEblMtRzFmRWY4X054Y2IwaTA3TlV0R1p3bHdBU3B3RGpQQzlmZS1XTFJCWjE1eV9uRDE0c29kY0l0Y20xX0N2eWx4NHhZeVRXN2oxNVljaVRiTVdiZ9IBiAFBVV95cUxNendfeVAyRVNQYjYzbEtBT3pJUHVmYUtMM3lrazRTLUpsQ0tWcXN6QnNNQ041NGxhQmctWkxnalYwS01TY2hhaXU1Mll1UVQ1NXBqN0J5WEJOYWJsWmJDZWxhVkROZ2hJMGw0eUE3VExUcTBfLVYwejdTSVozcFRaRFdtWHFaTVMt?oc=5",
+    "source": "Radio Free Europe/Radio Liberty",
+    "published_at": "2026-05-21T22:00:42+00:00",
+    "raw_pub_date": "Thu, 21 May 2026 22:00:42 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fba550723b214c550908d8f87a4cf70eb499b83f",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.82,
-      "reason": "Article describes an Iranian general's major role in active talks with the US over the war.",
-      "event_key": "iran general us talks"
-    }
-  },
-  {
-    "title": "Oil Falls for Third Day as Traders Parse Status of US-Iran Talks - Yahoo Finance",
-    "summary": "Oil Falls for Third Day as Traders Parse Status of US-Iran Talks Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDZiUzJjMXQzVmM3MzhuRmFwVHNiM0t4MzJuck1aN043QWZicUI4eENqN0l6Vy1pLWg4YjdmZXU5NzhlUW1OYk82RlVkS2NqWFBBbk5xSmEzMnY2WDhOeFJhTHZKYmZBZnYyWTc4cGoxX0h5aUVDclQyMHFUR0NFY2Q2bWdHeTM2UmlXR1p2SDhiWGw5RGpESDdyeFdVZw?oc=5",
-    "source": "Yahoo Finance",
-    "published_at": "2026-05-21T19:16:47+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 19:16:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ac61b1e7d5d1bc777df380909f72ee7a49d342f8",
+    "article_id": "43bf158ae055a906db986cee1744aaeb6e51e07c",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Discusses the status of US-Iran talks influencing oil markets, indicating active diplomatic engagement.",
-      "event_key": "us iran talks oil market"
+      "strength": 0.8,
+      "reason": "Article describes ongoing, fitful US‑Iran talks with progress and remaining gaps.",
+      "event_key": "us iran fitful negotiations gaps"
     }
   },
   {
-    "title": "US intelligence believes Iran quickly rebuilt military industrial base, producing drones: Report - Anadolu Ajansı",
-    "summary": "US intelligence believes Iran quickly rebuilt military industrial base, producing drones: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOGpsQl9YVXRza3dUc3dkdktPYUE3R3d2RkZuZjI2azFmcHRvdG51dVVZb05qYVA4V29BRlBMVzJpMEV1Z0tTS1ZHLXVLM1BiSGpmdzVFLW8wcXZ5MVp6aHlMdzF6MUdKYks3Sk9ZeXp3UklON3F2Yk13aEhSS0JnTGlhZDJ3dGs0alZFeEt4V2ZQMzFUQk1IMjFZTy1GSTlSc2IxMzctbDR6bzAtUzNQU28zNWJQRVY1MHdwaGhjcGxWV3U5aDJNbzJtWVlPSjlZQTAyNTd0Q05zdjktdWRZ?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-05-21T15:25:57+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 15:25:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c85f07285bde729995ba1f7303827e7122eea6fb",
+    "title": "US shoulders much of Israel’s missile defense in Iran war, Pentagon assessments show - ynetnews",
+    "summary": "US shoulders much of Israel’s missile defense in Iran war, Pentagon assessments show ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IekZvdktDRE5kZHRndEhCTnpxMDVPYmdIYjNuc3pjS2Q5bE5HV0Z6NXhyQTd6Y2E0Z2YtZWNINDV1dEZJemEtMS1CRlkzQVNWUy1Pc1Vn?oc=5",
+    "source": "ynetnews",
+    "published_at": "2026-05-21T21:02:17+00:00",
+    "raw_pub_date": "Thu, 21 May 2026 21:02:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3279b94cf84704ee97ec2f7399626caf88c5db93",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "strike_or_retaliation",
       "strength": 0.75,
-      "reason": "US intel finds Iran rebuilt military industrial base producing drones, indicating enhanced military capabilities and increased tensions.",
-      "event_key": "iran rebuilt military industry drones"
+      "reason": "US actively conducting missile-defense operations for Israel amid conflict with Iran — direct military engagement.",
+      "event_key": "us provides missile defense for israel"
     }
   }
 ]
