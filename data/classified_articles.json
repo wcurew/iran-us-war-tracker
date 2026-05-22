@@ -1,36 +1,87 @@
 [
   {
-    "title": "'Some Good Signs,' But Big 'Gaps' As Fitful US-Iran Negotiations Struggle On - Radio Free Europe/Radio Liberty",
-    "summary": "'Some Good Signs,' But Big 'Gaps' As Fitful US-Iran Negotiations Struggle On Radio Free Europe/Radio Liberty",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlc4UVNFZVI3aGZkNm02ZUk0OXdsZWhlbU93LThxRy1xZDRmbGt2XzJEblMtRzFmRWY4X054Y2IwaTA3TlV0R1p3bHdBU3B3RGpQQzlmZS1XTFJCWjE1eV9uRDE0c29kY0l0Y20xX0N2eWx4NHhZeVRXN2oxNVljaVRiTVdiZ9IBiAFBVV95cUxNendfeVAyRVNQYjYzbEtBT3pJUHVmYUtMM3lrazRTLUpsQ0tWcXN6QnNNQ041NGxhQmctWkxnalYwS01TY2hhaXU1Mll1UVQ1NXBqN0J5WEJOYWJsWmJDZWxhVkROZ2hJMGw0eUE3VExUcTBfLVYwejdTSVozcFRaRFdtWHFaTVMt?oc=5",
-    "source": "Radio Free Europe/Radio Liberty",
-    "published_at": "2026-05-21T22:00:42+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 22:00:42 GMT",
+    "title": "Oil prices gain as investors doubt breakthrough in US-Iran peace talks - Reuters",
+    "summary": "Oil prices gain as investors doubt breakthrough in US-Iran peace talks Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjNVY1BRR2J6WE9vYVZuRXloT2JGWURBM0JlNHZQd0lMd1RGNTBXTWE0bGRvdkFFcVEwZXN5Z2VoNTBfNzRuUHVBWEsySDNiMzBWWlFIeWlSdmVZM3Q4R2FhRXd2RjBnSVhZVE4tbTBIdkJTNFRRdFBEWmc2cndrR1oxbUtBajdqeUpfVXJmMUVtOEZsQlgzdFpsYmFGMHpBb08xZGxGNlVRMkJxbkxSanVobENBZ093M0w4?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-21T22:48:00+00:00",
+    "raw_pub_date": "Thu, 21 May 2026 22:48:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "43bf158ae055a906db986cee1744aaeb6e51e07c",
+    "article_id": "81a079f68746e2ef504942a514ca156cc65801cc",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "Reports investor doubts about breakthrough in ongoing US-Iran peace talks, indicating negotiations are occurring.",
+      "event_key": "us iran peace talks doubt"
+    }
+  },
+  {
+    "title": "US and Iran 'exchanging messages' as talks continue - Israel National News",
+    "summary": "US and Iran 'exchanging messages' as talks continue Israel National News",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NHVyTnlSbC1hdkw1aW02UjhZUl9PNnJhdGFmcmFMQXFpekw3WHdtVEJURmt3QWlWQ3lHdnJaWkY4ckI4WmpIQmVWR3ZVNDF5OEdjRHg5dWNjdw?oc=5",
+    "source": "Israel National News",
+    "published_at": "2026-05-21T22:59:00+00:00",
+    "raw_pub_date": "Thu, 21 May 2026 22:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d6fc4da47e56a8645ba9c5e4ad5e18a7a4686649",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Article describes ongoing, fitful US‑Iran talks with progress and remaining gaps.",
-      "event_key": "us iran fitful negotiations gaps"
+      "reason": "Backchannel message exchanges and ongoing talks indicate active diplomacy between the US and Iran.",
+      "event_key": "us iran message exchange"
     }
   },
   {
-    "title": "US shoulders much of Israel’s missile defense in Iran war, Pentagon assessments show - ynetnews",
-    "summary": "US shoulders much of Israel’s missile defense in Iran war, Pentagon assessments show ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IekZvdktDRE5kZHRndEhCTnpxMDVPYmdIYjNuc3pjS2Q5bE5HV0Z6NXhyQTd6Y2E0Z2YtZWNINDV1dEZJemEtMS1CRlkzQVNWUy1Pc1Vn?oc=5",
-    "source": "ynetnews",
-    "published_at": "2026-05-21T21:02:17+00:00",
-    "raw_pub_date": "Thu, 21 May 2026 21:02:17 GMT",
+    "title": "Asia-Pacific markets trade higher as investors assess U.S.-Iran peace deal diplomacy - CNBC",
+    "summary": "Asia-Pacific markets trade higher as investors assess U.S.-Iran peace deal diplomacy CNBC",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGFMNnp3T0VGS3V1WjZ3VVEwUFZLMW5VTXhuS08wQVNkNThGaHk5OGFaWEp5cUdjZm9zeEdVYjBqYWlzUFZjLWRfMXl4VWlldVpkUklKYXJpY0ZnZDFMdkJFRlZORktNYmpHaVZmUzNpX1hRV0xYZEpmRlhJaDNremVvandfMHRZZFZCSGpqczhTNE9ZMU05ZnBn0gGfAUFVX3lxTE5BemdTWHVCZXlxNFBOQkIxa1h5NVpEaEZwWjFsWWNBUXNPZ0pPY0xvc3MzLVpzRksyLUl5bVJ4YTZQczROaHdMdEpOMTdQSTYwMDdZZFBZUTMtNEV6YlRsY25GTmxFR2c4dzN6M2lsYnBFVEd2SUxuQjlYekQ5amxqNmotMnBMYThWUU1mRENleDE1NkltNy1MbDg3cy00SQ?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-05-21T23:51:57+00:00",
+    "raw_pub_date": "Thu, 21 May 2026 23:51:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e1bdf3071664851397531a4ff092bab73030921d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Markets reacting to ongoing U.S.-Iran peace deal diplomacy—indicates active diplomatic talks.",
+      "event_key": "us iran peace deal diplomacy"
+    }
+  },
+  {
+    "title": "US used double amount of interceptors as Israel against Iranian ballistic missiles, officials warn - Yahoo",
+    "summary": "US used double amount of interceptors as Israel against Iranian ballistic missiles, officials warn Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjFpcXAzS3lDZzFITUwyRmxBbWVSeWdhMndsS1ZSVm5MdTVncmdBemI0a3lJdlJ6cFR6YURUWWFIZmhEcTJwMWI2a2FIaU1vVUZhT2FPM0JrREJ1YmNiSGRWT08zRGVFaXg3dnk4ZDlOb3NvVkpuQzhLU1JmRVhZcDB5ejM1OEZibmh1djRtNHc3REJTSUR3cXVB?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-05-22T01:06:00+00:00",
+    "raw_pub_date": "Fri, 22 May 2026 01:06:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3279b94cf84704ee97ec2f7399626caf88c5db93",
+    "article_id": "3efa8dbf0b78a4d5051a8c757a4f8c7594bc369c",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.75,
-      "reason": "US actively conducting missile-defense operations for Israel amid conflict with Iran — direct military engagement.",
-      "event_key": "us provides missile defense for israel"
+      "strength": 0.8,
+      "reason": "US deployed interceptors to counter Iranian ballistic missiles—direct military engagement.",
+      "event_key": "us interceptors vs iranian ballistic missiles"
+    }
+  },
+  {
+    "title": "Iran nimbler at rebuilding drones, missile capabilities than US expected: Report - The Economic Times",
+    "summary": "Iran nimbler at rebuilding drones, missile capabilities than US expected: Report The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbjBNVi1IeXdCcFJMZ3J6bWZydXdaTHd1RWdkMGlJaGhCeWZYTGstNThJR1k1Q2paZHVpWTl6Ny1qUEN6Q21vNTY4cWdkTVlSejJ4MjB5ZjhKY3VSeEpaQ3JoNmxtUzVOUHFyTGRWVnJ5SDJlWlYwRGJXSF8tTU9RaHpaNTJsNUQyZTk3OEVobzdtSTVvSS1iZ2ZCaEswYzBuWkhhdlZHVlNXMEpwSjdCUldfSHd2dU8yMlFiaTRYT1pNbDhFSXdfVE1QOUVOamY5RklKQzFpc055Sjd5UEHSAeMBQVVfeXFMTkdhYnFvWTB6OFJNMG1BcU40eld0Z2JGVFktaGVYRUdzRXEtVGYxaU1HM2VHeUtURnhibUJFNGFNNnlTREFvNWQtN3I3cTg3T25tUUhOTkphdzY4ME00aWF4bkZ1blhPMjZQOHhjR3kxOU41TGZMNTB0Sms4a1hUZnVPRzNnY19RV1RIY1RLajQyaXJtRG1uZUV0N1dQZ0FYNXdjQmJkM21IVVFaX0dDUF9wX2VQNGtOWmJEQTVqSHcyVzNsa2htRTE5ckpVWlpwbjNFQk45b0RVNzVfVHQtWWZFcWc?oc=5",
+    "source": "The Economic Times",
+    "published_at": "2026-05-22T01:25:54+00:00",
+    "raw_pub_date": "Fri, 22 May 2026 01:25:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "405ef0ca0b2b8b28d22df53962214a3734105c2c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Report says Iran rebuilt drone and missile capabilities faster than US expected, implying increased military capability and heightened tensions.",
+      "event_key": "iran rebuilds drones missiles report"
     }
   }
 ]
