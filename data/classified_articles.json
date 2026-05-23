@@ -1,104 +1,223 @@
 [
   {
-    "title": "Iran's top negotiator says Tehran will not compromise in talks with US - Reuters",
-    "summary": "Iran's top negotiator says Tehran will not compromise in talks with US Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVExWX2MyUk1sTzlRTnkwWmFrUG84NURsOVY3SWlhNS1MM0pMekR4N0lmV3cwcC1xLTM3T2MweFdndzJyajlabXh2UEh4VTdGN3J4bmwtaE9jc1p4WGVOOWh5RURtTHhuTURfNV9MNlRUVEVNZjFiYkpHZy03LVBCUjRGT1BkVzJmX3FOVjcwUXo5d0puN1E2eERxbm5md2UwQlRpN082d0N6MWJYN2lBZ2tCTGw3bWtxcWRKVHdn?oc=5",
+    "title": "US and Iran close to extending ceasefire by 60 days, say mediators - Financial Times",
+    "summary": "US and Iran close to extending ceasefire by 60 days, say mediators Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzhoY21ra3dKY0ROeEN3dEloWVc1VjBpSWdNdnI4VWhEc0x6X203LTZSWG9jaHJDUmx6N19EeXFuNGNlTjc5SDBmOW8zUmlpUUpZODlrQ3ZNY05pVGxIU2lLUzg1VGlzY01jaUFmbDg4U0gzMVhnc2hqTUdvbm04X1R6THg?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-05-23T14:27:49+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:27:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6d8d5b3b2ba47d3ce1e641bec3441f19e514ea3d",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Mediators report US and Iran close to agreeing a 60-day extension of a ceasefire.",
+      "event_key": "ceasefire extension 60d"
+    }
+  },
+  {
+    "title": "Report: US and Iran close to deal extending ceasefire by 60 days - ynetnews",
+    "summary": "Report: US and Iran close to deal extending ceasefire by 60 days ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4RHRiZ3FISTd1LUJmZHZCWThEdjFoMzBvT0RPMGhLaGVaaDQ2RzlxRmJfVTZoVjRXNF9XMWc5blhLV3ZjQkVtWmFRRXQ1MHZEVXNTS2FWSQ?oc=5",
+    "source": "ynetnews",
+    "published_at": "2026-05-23T14:46:12+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:46:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fd058a605380969520fc9fb5407159bdffcd2180",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "US and Iran reportedly close to deal to extend existing ceasefire by 60 days — active diplomatic negotiation.",
+      "event_key": "ceasefire extension negotiation"
+    }
+  },
+  {
+    "title": "Iran and US signal some progress in talks as Trump weighs striking again - AP News",
+    "summary": "Iran and US signal some progress in talks as Trump weighs striking again AP News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmdwSlZ6TGg2UFdlVVdZblJWbDRFUW9NaHF0RlNidktOVFlrX2NESUl3R2VaaGw2ME9pTE9XWXhJakdhaU5nMWtLbDF1MDc4dF9lbUlqZmNfalkyM200cjItREJaZVIzYVhWbUNKVE9LNmYwTlNSUGU1Ym9CYm1PeEhrVktoVUUzTTl1b0w1OE5xb3R6ZHlIdk41dUJIOHh1dDZPdFhZMUVsckMtb05ZVDF3?oc=5",
+    "source": "AP News",
+    "published_at": "2026-05-23T14:40:00+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:40:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d2ef1e21ed8846b9f980c6839887138646d58942",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Reports of progress in talks between Iran and the US, despite mention of potential strikes by Trump.",
+      "event_key": "us iran progress in talks trump considering strike"
+    }
+  },
+  {
+    "title": "Mediators believe Iran and US nearing 60 day extension on ceasefire, FT reports - The Times of Israel",
+    "summary": "Mediators believe Iran and US nearing 60 day extension on ceasefire, FT reports The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFdCMDdCYzQwa2hobUh0dkVTV29ubDJ0LVVmZFpPS2o2VFBzeEs1NEl2QXRRaGl3Uk5BUTVnT3ZwUncwdW5VT29EMFQteG5iVmZ6TVBxMzlpWkV6TnJPaTJSaEdMek9DdGxOOVVqZ3lwZzZhUTBNcFlGZTdIOVUzdXI3aFhnWGdSQ3lLQ2RpakRuWFZlUWwxVnBNbzgyT3p5Z19UWVdoTVRHeDNiMHA1dndJdVRRVENGc21FUlY3YzJIQQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-05-23T15:25:15+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 15:25:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4d647daff104ba42adb5936a5eb22ba11f9dedfd",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Mediators report Iran and US close to agreeing a 60-day ceasefire extension.",
+      "event_key": "iran us ceasefire 60d extension"
+    }
+  },
+  {
+    "title": "Mediators close to 60-day US-Iran ceasefire extension deal, FT reports - Middle East Eye",
+    "summary": "Mediators close to 60-day US-Iran ceasefire extension deal, FT reports Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcU80bzlzUmozalVRTmZXWUo4YWpwaGdaY2lmVXVDa1JzQ0R0QmotMEJYeXIyOFFfeGtnZE1sSlJKd09ucmd6WGlfRDB0YTBIUHRvVFhKMFN0Y0ZGZ2htSmswdjRreWpjTjR0Y3RVWFozNkxmc25VZEZWb2ZoaDJFRWlvOEpycThCMEZoUnhpTEttekFCMVo4UzRMSVRuVFlCYlRYUmptal9SRGVRaVVvUzVlMU80d09kZTJXWmk2Mzc?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-05-23T14:41:00+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "00ac7fa879cd386260ebeddaba98c12a62c2c247",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Mediators nearing agreement to extend a 60-day US–Iran ceasefire.",
+      "event_key": "us iran 60day ceasefire extension mediated"
+    }
+  },
+  {
+    "title": "Hezbollah: Lebanon ceasefire included in latest Iranian proposal to US - Middle East Eye",
+    "summary": "Hezbollah: Lebanon ceasefire included in latest Iranian proposal to US Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNem9oZ2NCYkpKUFRLUHVkWjFYUldtYXNJV0tnS1NKTFA2VENOSUk0TUdIOFFaNkpyZEQ5VEdzZ1JoS1g2RU9FeENlNnprUUZ2TzkwNFppSDlueTVZTWtfRWdfWV83c0ZaSmc2d19UbnRpRnFCOU5Ub25aWHVnVG54VlRLdjB4NHd3a29FU3lmME5sbTVXZVFRMmUxUVBWUjktWHBOX3VZMVp6Q25DQ3QxMS1RQTlINWpJZE9SQw?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-05-23T13:33:00+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 13:33:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f2780802fa3cc9770e37aadc5a55a8e8a9f67c41",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran reportedly offered a Lebanon ceasefire in a proposal to the US, indicating active diplomatic negotiations and proposal exchange.",
+      "event_key": "iran proposal to us includes lebanon ceasefire"
+    }
+  },
+  {
+    "title": "The Weekly Rundown: Rubio Visits India, a Fragile U.S.-Iran Ceasefire - Stratfor",
+    "summary": "The Weekly Rundown: Rubio Visits India, a Fragile U.S.-Iran Ceasefire Stratfor",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkRwblN3U0owZFdJVmdWVjJuUmcza1AteUkybFg5eWlCQ0EyLTBDaGRlUnhBV1h2R3Q3cWE1SlVRNkNrV2FDZmM1NFBNaVZCTU1iZDZGQVlQNG80R1RFeXJrZWh4N2NZSmEtMTduUFBYLV90Ulp2bjVQN2VQRThBMDg5dFNCS0Mxa0Z2RlRxWTM5LU5GS2hXRTJCWnlfMm8?oc=5",
+    "source": "Stratfor",
+    "published_at": "2026-05-23T14:00:00+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "180f18ca2fb9263ba867726dee3ed968a86de78e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Reports a fragile U.S.-Iran ceasefire agreement or pause in hostilities.",
+      "event_key": "fragile us iran ceasefire"
+    }
+  },
+  {
+    "title": "U.S. and Iran report progress on talks ending war, looking to next few days - Reuters",
+    "summary": "U.S. and Iran report progress on talks ending war, looking to next few days Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXExaUpDRVJ1QU4yZGJTQ2ZQWkdkb1pYWHNrZFE4ZWZQalNIY0R6MzFNSGJzb01qNlpwbjd4NlVRSExPdGUtaGRnV1VMZC16OHVvay1Kczg3T3AxbHRPLU9jVlpNLUhrM21FNmJlZGJYTjVNSlVnOFJfZEdkNDFFMVhnS3F2a1gzWTZadzc4bTVJSUctMFBhcUV1MnZINDlYRm5sY0lxOWZlYkxOLUJpR01KNkltN2M4?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-23T12:37:43+00:00",
-    "raw_pub_date": "Sat, 23 May 2026 12:37:43 GMT",
+    "published_at": "2026-05-23T15:16:59+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 15:16:59 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bf4a29ac6b2deb2f84593a50b6ab290593177628",
+    "article_id": "6aee8717ede9bccfc5c9b0c9270dc9cdaf62d35a",
     "source_weight": 1.15,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Active diplomatic talks described; negotiator's stance in US-Iran negotiations.",
-      "event_key": "iran us negotiations no compromise"
+      "reason": "Reports of progress in U.S.-Iran talks aimed at ending the war and next-day planning.",
+      "event_key": "us iran talks progress"
     }
   },
   {
-    "title": "US-Iran Negotiations Stall as Trump Alters Schedule to Review Options - Kurdistan24",
-    "summary": "US-Iran Negotiations Stall as Trump Alters Schedule to Review Options Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0h2RmxaVmx4eElzOXMxSE0wS1FsWi1jc080R3kwMWE1SDdNOUc0MnJ3a3RYbWplSmp0QWNTcVpXV1pTa2c2OGpWaS03RkFUNUJtdVllZjlFcDdLZTYtNXI2THdYUl9qT3I3NE1rZy1MR2JwMi0yX1lURUltR1NFSWdONUtfRVM2RHNvS2VsaTM4SXBEZnQ0V2NZd3BWYmowTzlGNnZITVU5RUUxTmZPdFc3TQ?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-05-23T11:49:45+00:00",
-    "raw_pub_date": "Sat, 23 May 2026 11:49:45 GMT",
+    "title": "Iran and US signal some progress in talks as Trump weighs striking again - Greenwich Time",
+    "summary": "Iran and US signal some progress in talks as Trump weighs striking again Greenwich Time",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDlJOFZtMnlsZlVnb2hpLWhfVDExVVNBZjJmaFVNNzRySmJpTDVybTNFRnZmcXJMRWFfdFJFOGx4V2xJTDJKeFpicGhBRXNIa0FIZ1ktR3BUMm5xbGJaODJCdWpWSDZjM2VEQjhCQ1h5RDBSRDdHdnhnSUduaU1JVEFaU1lOV01VVG9KQXA0RTlrZzdIVFJKbnlEZTJNVVdwTWVRbC1EWDdTUQ?oc=5",
+    "source": "Greenwich Time",
+    "published_at": "2026-05-23T14:47:48+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:47:48 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "35ba1b2120593e1bdb57c64fc2a7debcaab42fea",
+    "article_id": "850e62ab381bb3f4f4754010a81e95f6ae9a5091",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.4,
-      "reason": "US-Iran diplomatic talks stalled while Trump pauses to review options, indicating halted negotiations.",
-      "event_key": "us iran negotiations stall trump review"
-    }
-  },
-  {
-    "title": "US Media Report Trump Administration Preparing New Strikes on Iran - 8am.media",
-    "summary": "US Media Report Trump Administration Preparing New Strikes on Iran 8am.media",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2hfMV8yaU96YzRvRHFoWWJ2WmNVbEhOOWNEN1JISTgybzl4QTNiUlpBcGRQNktOaWhSV0NlQ2ZXdkRnV0QtZzdmX1ZOVmJlSUNacThrTzhlWU5PdDE3NFdTN3lYSW1RU09FeWpoZkVIX1hhWE1seUwwY2tLQzBpWXpzVU5aaENiQk9oOC10bjFYUmM?oc=5",
-    "source": "8am.media",
-    "published_at": "2026-05-23T11:44:59+00:00",
-    "raw_pub_date": "Sat, 23 May 2026 11:44:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4799c33876e9f159d257925c5224bf27b6aee39a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Reporting that the US administration is preparing new strikes on Iran indicates planned direct military action.",
-      "event_key": "us prepares strikes on iran"
+      "reason": "Article reports progress in diplomatic talks between Iran and the US despite mention of a possible strike.",
+      "event_key": "iran us talks progress"
     }
   },
   {
-    "title": "Qatar’s Prime Minister and Foreign Minister, Mohammed bin Abdulrahman Al Thani, has called for de-escalation of tensions between Washington and Tehran in a phone call with Iran’s Foreign Minister, Abbas Araghchi. According to Al Jazeera, on Saturday, - facebook.com",
-    "summary": "Qatar’s Prime Minister and Foreign Minister, Mohammed bin Abdulrahman Al Thani, has called for de-escalation of tensions between Washington and Tehran in a phone call with Iran’s Foreign Minister, Abbas Araghchi. According to Al Jazeera, on Saturday, facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUG5NUmJpaTY4MWQ2amZnOHFXeXhNYkxidDdRR1JSd1FTOFFoUE9hakpFUm90ZWJUa2l4TEtyTWIyQmVDRUs0TXhubkFvN1hrOHR2djEyU3QxaE5KTXJ5QWNocktvNk0taF96TEg3Vmk0ZXJPU0FzdFRrS3VBY3Z5c2lZUFNuNmRwRXlhall1MEltd0g0STR4cnRQUUMydFphMnB5YzJic3NqaVgtR2tCTE5TTTJlVTJXVzZzam4tRjhWdmdwZGw0RW02NGFYLWczWEJ3bTBR?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-05-23T11:45:37+00:00",
-    "raw_pub_date": "Sat, 23 May 2026 11:45:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "37a9aa9da43f79c827d99957a05ca7482511e0bb",
+    "title": "Iran and US signal some progress in talks as Trump weighs striking again - WSLS",
+    "summary": "Iran and US signal some progress in talks as Trump weighs striking again WSLS",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTNvU0JIMGpFc3Q2b0VGSW1IelJPZkx2NF9vUm5naTVQcWVhdEgzaEp4MDhaNFU2dnlXWGZuUmZ0QXNJLTNKWVZIVGZOTGU1bGo0WUQzVHAxVVpBN3JmanpUekVteTJVVzV1dUdTX1lBNVlmTnJyLXR6ejJJQ1NTNE10ZVAwV2JTcHdxN0NiWmo0RzBGcnZDMlVsa1pEU0Q4UEJGVWd0X3BYSjhYbVFqRklxa1lzaXM?oc=5",
+    "source": "WSLS",
+    "published_at": "2026-05-23T14:40:38+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:40:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "641c120d2dc2f3e456af1ada0e5c1aba21d785d4",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
+      "label": "negotiation",
       "strength": 0.6,
-      "reason": "Qatar's FM urged de-escalation between Washington and Tehran in a phone call — diplomatic calming signal, not a ceasefire or talks.",
-      "event_key": "qatar urges deescalation us iran"
+      "reason": "Both Iran and US signal progress in talks, despite Trump weighing further strikes.",
+      "event_key": "iran us talks progress trump considering strike"
     }
   },
   {
-    "title": "Egypt, Qatar FMs stress continued US-Iran talks to prevent regional escalation - Foreign Affairs - Egypt - Ahram Online",
-    "summary": "Egypt, Qatar FMs stress continued US-Iran talks to prevent regional escalation - Foreign Affairs - Egypt Ahram Online",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJ3TDh0YlhzTGNNNUJveTFURU1EV3lyUWI4N3hWb0o1NzlUaEdiMG9DVVB2T2FYWDRldWtKczJCTXNKS3pQMHBBTUFlanA3bG1leDcxOUVLWVE1bUVZdzFjdDkyVWZyODBtU0xQY0VfSDEwZWxDTXc2SC13aUN2aWxtMGVOUWN0cjJad3FZRnhWRFVVRy01S2haeHd2OEpqLVVoSVlDcEZFenVnRkZOUFhUWWJGcXRPTExSRlBGUWFUM0ZBb0V2U2R6NmI?oc=5",
-    "source": "Ahram Online",
-    "published_at": "2026-05-23T12:23:02+00:00",
-    "raw_pub_date": "Sat, 23 May 2026 12:23:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cbc79114c329853ab0e718b1a36ade702eb98080",
+    "title": "Iran hosts Pakistani delegation amid diplomatic flurry to avert new US strikes - The Guardian",
+    "summary": "Iran hosts Pakistani delegation amid diplomatic flurry to avert new US strikes The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmx4c1NyWDVOd21wV0xMZGFrZEcwLUkyT3pfenI1TWc2MXMyMGtaMU51SloxU1RTb3NVaTdSRWFibkp4aWdtNlh3cVBleXc4M2k3dHB0UTNoa2UwNEJmQjFhaC04TXFLQXlRUWtlNnBpYjl2V0lSb2g1YUNWMFBGYmNJWEVVcFF4Q05ybDFvc05yeGUyeE8yMGtJVzZQd1AwdzBjLWI1bWdZaXFPX3RwWg?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-05-23T15:33:00+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 15:33:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "232d34825a275a9c19ca99361e7d0ebb252064fd",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Officials urged continuation of US-Iran talks to prevent regional escalation.",
-      "event_key": "call for continued us iran talks"
+      "reason": "Pakistan delegations mediating with Iran to avert potential US strikes — active diplomatic mediation.",
+      "event_key": "pakistan mediated diplomacy avert us strikes"
     }
   },
   {
-    "title": "Strait of Hormuz toll revenue talks: Iran, Oman discuss proposal despite US warning - The News International",
-    "summary": "Strait of Hormuz toll revenue talks: Iran, Oman discuss proposal despite US warning The News International",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjI2UDVEM05Nci1EZ0EydXd6UTRTNUV4alZpa3czVnVKeld5OFVTT1I0a25EZ2MzdElNcmFvSm5WS0dmUkNZT1lma1AxMUd3c1ZESl8xNC1hZ2E2aU1oSVhCZk9jSURxUW1vMUEtMTZvako3dVNCMU9IR0NfYThQT2hXN3ZYdVZBR2w5cE5RSFQ2VDRwcWlnWUpCVnZlQWV5MmctTkQ1Z0htbUlUQm10c1hNcHQtMkZpN0hVaUtVNW8?oc=5",
-    "source": "The News International",
-    "published_at": "2026-05-23T11:57:00+00:00",
-    "raw_pub_date": "Sat, 23 May 2026 11:57:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "08b32a2ce3afb508d440b5b38fed613fd0c4d3ef",
+    "title": "US Says Taiwan Arms Sales Are Unrelated to Iran War - Modern Diplomacy",
+    "summary": "US Says Taiwan Arms Sales Are Unrelated to Iran War Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFFpS2hTVnJpNjNLNzN1TEVabDBscjF5dXRzTmUtaURwUkxmREZhUEc2Ylo5Q1JFSk0xX1FwNWIwUEpPQTlNZy01cGh0U29FWkJWNktvSi14SDR5bkFRampqN1RHd0wxN1I5dE9qVlI1ZG5KT1lHYUJoTm5vVXhQY1ZXckZHRDlWR2l5UF9CdTVTVDh2?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-05-23T13:50:23+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 13:50:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5703da36ee987253ad990dcef1700e29ded1d56a",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Iran and Oman are discussing a toll revenue proposal, indicating active diplomatic talks despite US warning.",
-      "event_key": "iran oman hormuz toll talks"
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Discusses US-Taiwan arms sales unrelated to Iran-US conflict developments.",
+      "event_key": "us statement taiwan arms not related to iran"
+    }
+  },
+  {
+    "title": "What Marco Rubio Told NDTV On \"Imminent\" US Strikes On Iran - NDTV",
+    "summary": "What Marco Rubio Told NDTV On \"Imminent\" US Strikes On Iran NDTV",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbmhQcFFPYnJiNHV6YWFDbHltc1VyVjk5R013eXVmSktyc3hfbjNobXRtN21hZjN4M0cwSkRSOHNDR0xXTXpmcGlqVzU0T0VPZGx0a0p5REgzVDhYOFhJeEhDYWFuUE51SmZfMFJUSjZLZXhyRk02TGlXc21UVEFLbjhlRlpReV9mRm9JcExNSGNlNlVaN2diMlNyRWNfb01JTWdCb01DMkpWR09QbFNIS3RreTVTbXZ1WVd0M2JKdnQ4QVREUGVKamc0bU5HRXF6UFEzVTEtMkxycXZRVDUxdFh5SDZaZm5rTzlOUnhidWs0UXNlS1NPUnA0QllTNXJHUkFJSno5UdIBjwJBVV95cUxPQ1pwY0luMERFVUxHNVNJeFRZRVR0dkVhV0I3dHN4VDVQZ2M5a243SEdxTmRhenpWS1Z3RmN1eEFSRGk1X250djBKVGtYUTJFWEtlLWlzZnBjSDBob01PR0F5TGd2TzB4UmxkUFU0Y3dMbmxzZkxYVXNCSlVuQWZya2QyX2wzWUxGc0taY0dzSk52c1FZOHNIQzFNbmFCQUppSnE1aFBWaUlhdDJHRXBmVnlfSmhoLWxReTJfNE5Gakc3c2dIdGlmUTEzM0ZHaUhPUGFQWEpneWU4cHhUbDN3SkVwY1MxcXpIeldVSFlhN2Rpazh4M0J0ZER3OVZfam16VFpiRjQ0MVpKWmRRRDFJ?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-05-23T14:50:02+00:00",
+    "raw_pub_date": "Sat, 23 May 2026 14:50:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "20f73af7f5860d9dd53beb6199f74823b7a38354",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Marco Rubio warned of imminent US strikes on Iran, a clear threat raising tensions.",
+      "event_key": "us imminent strikes warning"
     }
   }
 ]
