@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "title": "‘The Iranians Feel They Have Won the War’ as US-Israel Pressure Meets Diplomatic Uncertainty - The Media Line",
+    "summary": "‘The Iranians Feel They Have Won the War’ as US-Israel Pressure Meets Diplomatic Uncertainty The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVFmRy01UG9IWGdWMFBxa0taRlUwaGJQRGRNS0EzRXQ2RkxTS0pjazdCV2tCU1FhUnFlZWN4bDZLY2ZLNENscmFYVXV2MmV6dlRqelpiRnh0Y2FPWEg1eGx6SnhMdjJ1cHJYb3p0SkNZT054WFNGbnhrbzRDazVwNkdUUW02RjAyX1U5bzNyWjg2RVlQeE5ENlNMTUJMcFNXYkwyYmxWMVF0TUlVaTFYZ3h2TTJ6TjBJYUZ1LWhMZTl6S1NuWFQw?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-05-24T11:23:03+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 11:23:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4fc72fda41a7d51ab057582d7d271bac210d19af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Highlights rising tensions and diplomatic uncertainty, implying a worsening Iran-US/Israel conflict dynamic.",
+      "event_key": "rising tensions diplomatic uncertainty"
+    }
+  },
+  {
+    "title": "Rubio Suggests U.S.-Iran Diplomatic Breakthrough Could Come Within Hours - Kurdistan24",
+    "summary": "Rubio Suggests U.S.-Iran Diplomatic Breakthrough Could Come Within Hours Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcDdQc3hPYU5zbnpIOGdFc09Ca0p4Z3ktaW42ZUJPNEhSR3ZKMU9qYzhzVGJHOC03S2d1LVBTTmJ4ZUNrWUZRVVpHLXlhenpac2ZOZXZCakJrd014RU5VYzhOYkcxTDJIRGZOMTlBdTB1S2kwR0lRdjduMGRWOEpYTW55bjBZcFFrbUNTakZMb1FpZVJ2SUQxcGY3Y0FSUVRMZ2JvMWdjUlNSd1dLSWdHRTVEN3c?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-05-24T10:37:00+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 10:37:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6377d95c669639f6a160a3cdb0aa23cab6505cb4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Senator Rubio predicted an imminent diplomatic breakthrough, indicating active negotiations between the U.S. and Iran.",
+      "event_key": "rubio predicted imminent us iran diplomatic breakthrough"
+    }
+  },
+  {
+    "title": "US and Iran Continue Diplomatic Talks as Military Presence Remains Elevated - stl.news",
+    "summary": "US and Iran Continue Diplomatic Talks as Military Presence Remains Elevated stl.news",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QQmVod0xPc3ltLUJkNEw1V3dYQW5oemUtZE1FS05Tc3R1ODZXRXBYT1llRUVNcDBwWTBRMjFxNFZpbjlWUEs2Z3dvd1ZUR3VzaEFadEFfYXdCd1QzbU4zeTN2M3VXWU1tbDJ0Z1ZUN2sxZ1d6b0E?oc=5",
+    "source": "stl.news",
+    "published_at": "2026-05-24T11:00:19+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 11:00:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3818daacab041da88f0a77f302be18c7b3840da7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Active diplomatic talks are continuing despite elevated military presence.",
+      "event_key": "us iran diplomatic talks continue"
+    }
+  }
+]
