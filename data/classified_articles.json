@@ -1,53 +1,53 @@
 [
   {
-    "title": "‘The Iranians Feel They Have Won the War’ as US-Israel Pressure Meets Diplomatic Uncertainty - The Media Line",
-    "summary": "‘The Iranians Feel They Have Won the War’ as US-Israel Pressure Meets Diplomatic Uncertainty The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVFmRy01UG9IWGdWMFBxa0taRlUwaGJQRGRNS0EzRXQ2RkxTS0pjazdCV2tCU1FhUnFlZWN4bDZLY2ZLNENscmFYVXV2MmV6dlRqelpiRnh0Y2FPWEg1eGx6SnhMdjJ1cHJYb3p0SkNZT054WFNGbnhrbzRDazVwNkdUUW02RjAyX1U5bzNyWjg2RVlQeE5ENlNMTUJMcFNXYkwyYmxWMVF0TUlVaTFYZ3h2TTJ6TjBJYUZ1LWhMZTl6S1NuWFQw?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-05-24T11:23:03+00:00",
-    "raw_pub_date": "Sun, 24 May 2026 11:23:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4fc72fda41a7d51ab057582d7d271bac210d19af",
+    "title": "‘We won’t know who won until final outcome of US-Iran ceasefire’ - Al Jazeera",
+    "summary": "‘We won’t know who won until final outcome of US-Iran ceasefire’ Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU00aTc4cS11dExwRUI0blp2YzlDZlg2VU5wUWFidEJQdWtlMEZtT3ZTX0lQUXljSTI2Tk9nMERmZXI2TGRNeU1xUzk5c09hRFROYmFsQW5oN09yMnF1cnNVTEFtS2Z5bzdYd0g3N1NDTnlPUzJTVUZoUkgwUFRhcDZiemg5ZHlTZjdGUERsWEpURElCNkltLXJjZXdubkhlNjgzcdIBqgFBVV95cUxNaUc4ZFNxN1YwVW9PcG9OZjlpZjRrcnV0NHRUYVFXQnV6aUtZMFZqNlFPcUNWSlpCRzNUVU1CV2hNSzAweHFWVFMwZGlsdWpNWFlTRmNja1JyMG16QkYyMjRFcG1aLVFjaFliV2pGSnI1eUgzZUVSemhqZFE5cWZKS09ZQXpjLWN2aWV4ZXQ5ZEZuTm9hMHMyZjE0WWJ1cmY2VXRuX0wxNnQxdw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-24T14:05:38+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 14:05:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "80f0f5c29e8a69f199aa98768cd41652611a4da8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Article explicitly references an ongoing US-Iran ceasefire and its final outcome.",
+      "event_key": "us iran ceasefire outcome"
+    }
+  },
+  {
+    "title": "Trump Posts AI-generated Image Of American Strike On Iranian Vessel - i24NEWS",
+    "summary": "Trump Posts AI-generated Image Of American Strike On Iranian Vessel i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTjBvQ0NraHdtVHp0aC1sMm5zNDdwbXBZTWpwU1JDbmV5Njh6STE2eXB6RGhVaVJjTk5WQ2RMMEM2cDA0UlhkY1o4UEluNXFaa0Mza0swd1dUQzJiMFFINnkzTFJZeUpjNFpGS3dkZ2xYb0Z2cC1WWGYtVkNnMGh2d2FUM3BvV1IzckRxMExnc201VjlRWlJfMThrZUJkZXBVOEZMcWo0X0N3WVFnaXNtVS1GX1pUZlVkdzU4Y3VsdUprTUll?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-05-24T13:57:08+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 13:57:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d9f8832f4b809480ed3b586d51c1ad97370972a8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.4,
+      "reason": "Posting an AI image of a US strike on an Iranian ship is a provocative escalation signal despite no real attack.",
+      "event_key": "trump ai image strike on iran vessel"
+    }
+  },
+  {
+    "title": "Trump posts AI image captioned “Adios” showing US strike on Iranian navy ship - The Times of Israel",
+    "summary": "Trump posts AI image captioned “Adios” showing US strike on Iranian navy ship The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXRPbGJMQXdKcDItSGxnc3dDNElvM25VdmpXWmJrYjNsNnEycUhUTUJjc0UwbVEzZlhGanBicS1ZWXRBOUdKX2d1NnduOUFGZHJWYUFPUjNHY3ZlVmpXVHhYZFNRZVhXVV9seEZPbjhEVDR0RG1ja2JnY3lDemVuLUVtT0UxZ0djWmk4T1h3NHR0YlZfWEQ3NGMycUxqR0kzQnlheGttdEpURmVTTlkwUUJ4ekdmTmtvdzFfRGdn?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-05-24T13:32:48+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 13:32:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "56f76a3bd56f618e325670e561903a51286633c2",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "Highlights rising tensions and diplomatic uncertainty, implying a worsening Iran-US/Israel conflict dynamic.",
-      "event_key": "rising tensions diplomatic uncertainty"
-    }
-  },
-  {
-    "title": "Rubio Suggests U.S.-Iran Diplomatic Breakthrough Could Come Within Hours - Kurdistan24",
-    "summary": "Rubio Suggests U.S.-Iran Diplomatic Breakthrough Could Come Within Hours Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcDdQc3hPYU5zbnpIOGdFc09Ca0p4Z3ktaW42ZUJPNEhSR3ZKMU9qYzhzVGJHOC03S2d1LVBTTmJ4ZUNrWUZRVVpHLXlhenpac2ZOZXZCakJrd014RU5VYzhOYkcxTDJIRGZOMTlBdTB1S2kwR0lRdjduMGRWOEpYTW55bjBZcFFrbUNTakZMb1FpZVJ2SUQxcGY3Y0FSUVRMZ2JvMWdjUlNSd1dLSWdHRTVEN3c?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-05-24T10:37:00+00:00",
-    "raw_pub_date": "Sun, 24 May 2026 10:37:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6377d95c669639f6a160a3cdb0aa23cab6505cb4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Senator Rubio predicted an imminent diplomatic breakthrough, indicating active negotiations between the U.S. and Iran.",
-      "event_key": "rubio predicted imminent us iran diplomatic breakthrough"
-    }
-  },
-  {
-    "title": "US and Iran Continue Diplomatic Talks as Military Presence Remains Elevated - stl.news",
-    "summary": "US and Iran Continue Diplomatic Talks as Military Presence Remains Elevated stl.news",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QQmVod0xPc3ltLUJkNEw1V3dYQW5oemUtZE1FS05Tc3R1ODZXRXBYT1llRUVNcDBwWTBRMjFxNFZpbjlWUEs2Z3dvd1ZUR3VzaEFadEFfYXdCd1QzbU4zeTN2M3VXWU1tbDJ0Z1ZUN2sxZ1d6b0E?oc=5",
-    "source": "stl.news",
-    "published_at": "2026-05-24T11:00:19+00:00",
-    "raw_pub_date": "Sun, 24 May 2026 11:00:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3818daacab041da88f0a77f302be18c7b3840da7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Active diplomatic talks are continuing despite elevated military presence.",
-      "event_key": "us iran diplomatic talks continue"
+      "reason": "Public provocative imagery depicting a US strike on an Iranian ship signals hostility and raises tensions.",
+      "event_key": "trump ai adios image us strike iran ship"
     }
   }
 ]
