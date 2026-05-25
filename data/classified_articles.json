@@ -1,53 +1,87 @@
 [
   {
-    "title": "Trump’s ‘largely negotiated’ truce with Iran exposes a deeper crisis in U.S. strategic thinking - The Conversation",
-    "summary": "Trump’s ‘largely negotiated’ truce with Iran exposes a deeper crisis in U.S. strategic thinking The Conversation",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPam1Jb0hBUF9FeVV5U3ozdzhNZDlrU2lYaFp6RnhudU03Z09Wbl9qaTNELWNKdUhJMGFBeFZ1c0JvaG92RkFaaGFmRWV1bzZIbDFIZ3VubEV2cGpKY2JDZzBYSDJwTzJrdTZaZ3BqYURXQ1BJWXBQX3VWLUh3Mlo5emtON2pJM19tN1BOVFpCNlY3Ul8zMzVyX2pBaTJmd21RYWVxc0c2WF9zV3NISE9CNWJzTmp0Q1Q2SXNYWFlOWmlXQU5U?oc=5",
-    "source": "The Conversation",
-    "published_at": "2026-05-25T15:26:00+00:00",
-    "raw_pub_date": "Mon, 25 May 2026 15:26:00 GMT",
+    "title": "U.S.-Iran peace deal emerging, while war threats still loom - WBUR",
+    "summary": "U.S.-Iran peace deal emerging, while war threats still loom WBUR",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iVTFGYjhDal9GOERJMWp3LU5LT296bEhTRXVGbE9XcnI2cWJGY0FlQnNXUnpHODhNRFlSNnh4UVZOdFpzX3BxTDhKVXhuNmJ1a1dBS3ZzZjBEMExDeWlGaUNyUEE3a2Z0SlJsSXJVT0tERlhyQUlv?oc=5",
+    "source": "WBUR",
+    "published_at": "2026-05-25T18:06:55+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 18:06:55 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9c27d4e3001a2be518d14146631c26da6434b07e",
+    "article_id": "f8ddecb2d89c4420705b1681d79b8a868f5bc14a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Reports of an emerging U.S.-Iran peace deal and active diplomatic movement despite lingering threats.",
+      "event_key": "emerging peace deal us iran"
+    }
+  },
+  {
+    "title": "Each side spins a different story about the US-Iran peace talks – but Tehran may have the last word | Rajan Menon - The Guardian",
+    "summary": "Each side spins a different story about the US-Iran peace talks – but Tehran may have the last word | Rajan Menon The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlXS3RNa0NXM053S05jcF9acE04SmxZb3phNlhZMWR6ejdsNjhSdFltTXMxb3ZVejZnWE80VTlXUVd2SFZ1SjZoMzlmd042ZkcwUk5mZ01WVjltT0Q0OVd3LTdnbDhVRWVfNkl3TjFHRzB5aTM2YThiQ3ZUN0FnOHVEczh1LV9mVC1Lc1hEY1ZTZWV1anFEZg?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-05-25T17:25:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 17:25:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "75f21cddf734669811ba34ea8ed1dd2423413f26",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Article discusses competing narratives around active US-Iran peace talks and diplomatic negotiation efforts.",
+      "event_key": "us iran peace talks"
+    }
+  },
+  {
+    "title": "U.S. pushes Iran diplomacy as talks continue on nuclear limits, Strait of Hormuz access - cbs19.tv",
+    "summary": "U.S. pushes Iran diplomacy as talks continue on nuclear limits, Strait of Hormuz access cbs19.tv",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS0lhRkFTQ1plR3JqRC0yUjE3NjlCY2Fpck9PXzItZnY2dVYzc0M3X2FDZUc0d21yYUFaYkdoQS1EZnJmdjc4OTJuYlFGRFBCai1TcGRiVm9UNnhuQ0h3ZjRmSnpPTk5YMmx0Nk0wU2JjdWJudnlyODdySmtVNHNpU05lZXNzbDVkQVV3Vm9XdmxkQ0dJTnlDUzNDNFJZZjdleGtldzJPbldvcExUR2g1VlFaeXMyOWlVbjVucjZ6cWJmbzJLRmVuYkctanl6WVVmUG8yajJhZGRHdWEtanpRYVhkTGhDT3l4N2JYckw2Yzlhb3ZfRnc?oc=5",
+    "source": "cbs19.tv",
+    "published_at": "2026-05-25T17:14:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 17:14:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2145de6f8cf134219b5410f67ba1fe923461e471",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Active diplomatic talks on nuclear limits and Strait of Hormuz access.",
+      "event_key": "us iran diplomacy nuclear strait talks"
+    }
+  },
+  {
+    "title": "Hormuz May Reopen 30 Days After Iran, US Strike Peace Deal: Report - NDTV",
+    "summary": "Hormuz May Reopen 30 Days After Iran, US Strike Peace Deal: Report NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3lPZVBvZ0U0N2szTGZ3SkxPQUY0eEoxaVA2MjNxTS1iRkN2bm1MS3RKMDljVFh6NTdHeWNaeXlNdHdqbXJWV1VQTE10d3hpeXU4SnNPVXBuekc1Q0pUTXFuWU8xSENJRWJScVhueFNmUUhCbWJZYmd5V2VqM0JmX1AxeUxpckx2Qi1TbUVIZWZKLW5kMTFLTjFQWlZtMFNrMlhmSDdaU1o3c2VsdHg5bzZ5dVVfRC11a2I00gHDAUFVX3lxTE9JeGJMRUNURGpQYV9ZZE5HdlBqNkNIZDJ5Q21mZjZ0MHlteXFIdTdIMVhBNUg1bGNWNEtHVTVMZmcxTkpVV2Q1WS00cFRCZ0d1UGp5SmZlSDBNX0hTNXhvN09yeEttUXZxRC1mNmJwdHhJRk9OUjdFTzVvSG8zT3doWlBsOTdvRjVMZjBSSkhZUTBQMEpUbXVkQ1d6aHlSaDRxNmtQM2FseXNWOE9BeHVXdVZNWkhXeVRBODVPSzJ4SzZOZw?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-05-25T17:47:56+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 17:47:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "71baee813863c5d0ed06b240f37c75116c42a95c",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Focuses on a negotiated truce between the U.S. and Iran — an explicit pause in hostilities.",
-      "event_key": "trump negotiated truce with iran"
+      "strength": 0.85,
+      "reason": "Report says Iran and US struck a peace deal to reopen Hormuz—implies an agreed halt to hostilities.",
+      "event_key": "iran us peace deal hormuz"
     }
   },
   {
-    "title": "China Urges US and Iran to Sustain De-escalation - Pakistan Today",
-    "summary": "China Urges US and Iran to Sustain De-escalation Pakistan Today",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMElSdFpTVEVUV0QwQ2RTNU51MUU2SlhwbnlZOTV3MHVjbnEya1gwdHRjVXBTZTJVR0ZzSEItQlRLRk42ZnpBU2VTdDVKbmhleUVVT1VwdmM3TThmb2pSSndOY2lqLTd2NUd0Z3JXY0dxS1ZYUG9nMldHZlVUTUsyaXpjWVlPYi1UZHNyZXRXVmVEVDJ3X0pYamEwR1BaQzd4d3E3Q1VmNjBUeFh2Z0wwWWZCSm54akZaT3I5ODZ0OXBTNnFN?oc=5",
-    "source": "Pakistan Today",
-    "published_at": "2026-05-25T16:26:21+00:00",
-    "raw_pub_date": "Mon, 25 May 2026 16:26:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "612dd4327fafde45722604be304703de9e993bd1",
+    "title": "Warning of US Unreliability and Israeli 'Sabotage,' Iran Refutes Trump Claim of Peace Deal - Common Dreams",
+    "summary": "Warning of US Unreliability and Israeli 'Sabotage,' Iran Refutes Trump Claim of Peace Deal Common Dreams",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oc21JeFlZU2F5dXFZd19YbzZ1LUZSSEpLc2hLaXdoSjRodUg5OTFuR0ZQTEhIc25DXzZVSHNuTkxIRXVZVWZ4ZDByUk1UbGhGNDVSMHVCZzVlZ3ZvNkVucjFCb29qdw?oc=5",
+    "source": "Common Dreams",
+    "published_at": "2026-05-25T18:04:53+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 18:04:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3e1945f6bd67b6ca2442cefce17a67371e2cb756",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "China urging both sides to sustain de-escalation is a calming diplomatic signal, not an explicit ceasefire or negotiations.",
-      "event_key": "china urges deescalation"
-    }
-  },
-  {
-    "title": "China urges US and Iran to maintain de-escalation momentum - Minute Mirror",
-    "summary": "China urges US and Iran to maintain de-escalation momentum Minute Mirror",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjJvMy14U0xOQk00bkFJMzJxLWo2aDRxbzRjZ1haVWQ1ZkJaSjRxNGVXTTBzVW4wOGh4VFhmd0lueEZBLVlTSERMSjlURWZPTlI3dnk1RGxoNG8zN2dlaFI5WDRtalBWQ3FVVWZ0VDRsd0c3M2hlVXlKdXdPTnhMd3diSWwxeTQwdXJvZUYyTzgyTEVKdmhYTDlR?oc=5",
-    "source": "Minute Mirror",
-    "published_at": "2026-05-25T16:11:43+00:00",
-    "raw_pub_date": "Mon, 25 May 2026 16:11:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5fd24450b2c5b217587ae46be6679bab48ea19e6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "China urged US and Iran to maintain de-escalation momentum, signaling restraint and urging calm.",
-      "event_key": "china calls for deescalation us iran"
+      "reason": "Iran rejects US/Trump peace claim and warns of US unreliability and Israeli 'sabotage' — hostile diplomatic rhetoric.",
+      "event_key": "iran refutes trump peace claim"
     }
   }
 ]
