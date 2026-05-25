@@ -1,19 +1,87 @@
 [
   {
-    "title": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm - Fox News",
-    "summary": "Mass tanker blackout rattles Gulf ahead of 1.35M-barrel oil transfer amid US-Iran talks: firm Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjFJVl9SblRiMnVpS0M3MWhra1dkVld4NktKdEs0OFMzbjNDREFkbGZBQkhLcjN2Y2JkaXJLS2RKYkhEZmI5eGljR2NjWEx0MHM3SExzT2dyblV4Z0Z2Rmxmbnp3TlZMOUpycDl1UXA0T3NraDYydjhzWUI0amhCcEs3elRwWmJRY3JYV2gtWVRacjBWeEl2VTh4MThoYzBoc2dScVdWU2Z5WXhrd0ZOUDU4SldfTUs3XzFN0gHAAUFVX3lxTFB4RS00eWlvSFluNDYyV0xtY0NGamZBdzN6NGNlZHE5a2RkczMtYmhkQktuWWtQTXN1NnR3MGIwZEpsUGxFNW9YZHplbGUyVWNkVFpiT3NFd2EtUmxXVE9fTGlUY08wSXNxczlzSzh5Uk55TVBpeUJBNGktcnpTU3haOFBkSkJNUG5PS1AtZ25MMHJnbzBHYVFNdUxWWEJuOHRFUTZKVnplMDFKY1NaRVoyQV9QS09OWk0zUHBMcjllVA?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-05-24T20:11:58+00:00",
-    "raw_pub_date": "Sun, 24 May 2026 20:11:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b193ef751482a9159441ab462a1972ad2de88ad8",
+    "title": "The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz - The Washington Post",
+    "summary": "The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2puSU5FbjhpX2RUWEZZaG9wV1ZKdkp4Z09sUzIzYVlTam1Ud1I2dmdSaXBBSVVDWkxLaHpBTG1VY0NBdEUza1NqdTZSb054dHZrRm5zdkN5N21GdDRNeThWMUJwNlh0LXZrREVwand5eGdxbEU5VXRmNTVMVE9KQ0d2ajFMeUktTWh1d2I1S0pyWGlrU3dmZjFVZlJGQQ?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-05-25T03:02:06+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 03:02:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca1009ed269ed0446cfc3d46ac26d602658913fb",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Tanker blackout and oil transfer story only tangentially mentions US-Iran talks, not direct conflict or diplomatic/military developments.",
-      "event_key": "gulf tanker blackout oil transfer"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Active diplomatic talks toward a deal to extend a ceasefire and reopen the Strait of Hormuz.",
+      "event_key": "us iran ceasefire extension talks"
+    }
+  },
+  {
+    "title": "Chicago rally urges peace, Iran ceasefire as U.S. nears possible deal - NBC 5 Chicago",
+    "summary": "Chicago rally urges peace, Iran ceasefire as U.S. nears possible deal NBC 5 Chicago",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU10S1Ztalh1V1VDcDByVzlpNllfNnNpdUk5ZUdvUmxLV0ZZa2lUVnNpRWhmZDJfb1pJNnZuM01HUTdybDNWMDdKNG42YURrOUpFaE84YkNzVjRIaXlUZmEtLUhLeDNPcklpdDJWYUhJTlFZQ2Z3emlZSzRJa1J1VFNudV9TTjhIT0h1RkdHXzVMbG9YMDduNU02OUpUMGNOVmJVazE4LU5vZFpuX2FOZUIwU3fSAbwBQVVfeXFMUHJManVOU0VjVGlNMmctNm9uUWJKWkxzVVJ0QWlvTUw5cnE3QmxFZHBiSTVxYTR5Tm82Nkx2Wm1aajRVTzVMdUNUQ3dST2RQV1FFTjlzTjNHOUpqVjY3QVQ4YTZTSXI0WVp4a3VGZ0U4WWJQLXU2cV9VMDZDZ0dQSEphenlDMWtvVjhsUWtnSjd2LVprUEltQ25lR2E3YW1KZHBzaFQyM3RZT3RrdTNVdXZmNXJ6YWthdGZlXzc?oc=5",
+    "source": "NBC 5 Chicago",
+    "published_at": "2026-05-24T22:34:36+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 22:34:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f1c68bcd26c3c0c28d282099c13f18dd9ea52593",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Article notes a U.S. nearing a possible deal and calls for ceasefire, indicating active diplomatic talks.",
+      "event_key": "us nears possible deal with iran"
+    }
+  },
+  {
+    "title": "Live - Clouds gather over US-Iran talks after burst of optimism | Iran International - ایران اینترنشنال",
+    "summary": "Live - Clouds gather over US-Iran talks after burst of optimism | Iran International ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWDhPeUs3b0VFZldUc3UzNzVpX3ZPNHdQNkNkLWNNS2FhaHYwOVFhOG1UeU5VeEJyVDNFbTJBOWRpMWJHc0JDM3ZzVU03MjBvY1FoWVJFcFowR1A3MVE?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-05-24T23:34:00+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 23:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9c3b637197b40f77a0503a13ff952ad1bbb69c57",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Article reports on active US-Iran talks facing setbacks after initial optimism, i.e., ongoing negotiations.",
+      "event_key": "us iran talks clouds gather after optimism"
+    }
+  },
+  {
+    "title": "Commentary: US and Iran may now fear escalation more than compromise - CNA",
+    "summary": "Commentary: US and Iran may now fear escalation more than compromise CNA",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW9TZ1k3T3lpSW9xYzJpS0ZsbkYzWG9WSVBEVGJ1OC05NU5uTF9IRWhDeXp0clNYT3ZnUHFMR1k2U0M2c0xWNFp0c0VGZmgxZTJvVllFTjFHNTBOS29NVWdjRjdHSHVtTGVQOGstbHhCTXFVRFd0SkZKQnZtblo3ZlZiYjlYZ2Vyby1xd0VKSmdUQzNSOU92ZWdNMA?oc=5",
+    "source": "CNA",
+    "published_at": "2026-05-25T03:22:01+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 03:22:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b17c4292f297675f7805d3fb250db32b642a7d34",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Commentary argues both sides now prioritize avoiding escalation, implying restraint and reduced appetite for wider conflict.",
+      "event_key": "fear escalation over compromise commentary"
+    }
+  },
+  {
+    "title": "Iran warns unresolved disputes threaten US deal - Yeni Safak English",
+    "summary": "Iran warns unresolved disputes threaten US deal Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWVBOUtla0diMXNXYWVJcDFmWkQ2UjdTb1doN1FLeVdHRXZlOFhlR2lEcHdxc2REWHNaV05nWWNMaEF6aVRXamVudThwd1VvUXFLbkIwd3ZIcEhLM25HSUl5MkllUHF1SEVoN045a3Y4V3ZYS2xXbkRNNVN2QU1rYXk4dktCa1NKUzZyN25Eaw?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-05-24T23:52:51+00:00",
+    "raw_pub_date": "Sun, 24 May 2026 23:52:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e06d51caa108cbfc75c173bf65bfc0004eaffa62",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran's warning that unresolved disputes threaten a US deal signals rising tensions and breakdown risk in diplomacy.",
+      "event_key": "iran warns disputes threaten us deal"
     }
   }
 ]
