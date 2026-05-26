@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-05-25T22:05:23+00:00",
+  "started_at_utc": "2026-05-26T02:55:08+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-05-25T19:26:29.167701+00:00",
-  "window_end_utc": "2026-05-25T22:05:23.971470+00:00",
+  "window_start_utc": "2026-05-25T22:05:23.971470+00:00",
+  "window_end_utc": "2026-05-26T02:55:08.634316+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 17,
-    "keyword_filtered": 3,
-    "deduped": 2,
-    "after_seen_filter": 1,
-    "classified": 1
+    "time_filtered": 96,
+    "keyword_filtered": 79,
+    "deduped": 52,
+    "after_seen_filter": 52,
+    "classified": 52
   },
-  "finished_at_utc": "2026-05-25T22:05:40+00:00",
-  "summary": "이번 실행 구간에는 전쟁 확률을 의미 있게 바꿀 만한 새 관련 기사가 거의 없었다."
+  "finished_at_utc": "2026-05-26T02:58:10+00:00",
+  "summary": "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다."
 }

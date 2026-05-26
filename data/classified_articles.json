@@ -1,19 +1,886 @@
 [
   {
-    "title": "How the Iran War Led China to Redefine American Power - Modern Diplomacy",
-    "summary": "How the Iran War Led China to Redefine American Power Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0VfcGp6MzVCTEFtVDBhSDZ0NzZnREd5eWN6WURsYVhRNndpaE55V093YzVSNTZ1TWF2UUZrdl9LZE5TMjBmOXNORnItTVlRNG9la3FzLU1zSXBfR1JoNHAzRkxlb0NrZXNlSHFqdnRYV2Q1WTFUTEdORWpjRFQ5YTNLa1RrMjhuRWR1WmxzY2dfa3RsWTZV?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-05-25T22:00:27+00:00",
-    "raw_pub_date": "Mon, 25 May 2026 22:00:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "95af65c451d62951c9fee6595348bffaa559624b",
+    "title": "U.S. military says it conducted strikes against targets in Iran - NBC News",
+    "summary": "U.S. military says it conducted strikes against targets in Iran NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0wyQVNKWGxqWW8zczA0ZllhNmh4YWFxWFF5Q0oyWW0tMkpSTjQwZnJOSUllek80eHFxS3liTWotMjUzZVpWV2IzQUozcGhhTFM0ZmxzVkh2UU15WEhDdy1aelFZQk0zN2poakQ1Q1ZxYkhfUVZ5MVpEYlB3NzUzUDA5X2pFcHJoUC03Z256Mkx2NWpBVHYzU3NSOFJ1dlZZWVhuNUhpb3pIdw?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-05-25T23:56:10+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:56:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9d07ccf23ef9ba69bb73bd39d9b5b48ff095f4a0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports state the U.S. military conducted direct strikes against targets inside Iran.",
+      "event_key": "us conducts strikes in iran"
+    }
+  },
+  {
+    "title": "US forces conduct strikes in Iran, Centcom says - The Hill",
+    "summary": "US forces conduct strikes in Iran, Centcom says The Hill",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41UjRELWFlcWE3c3lsdDJVcWZiXzUxWVJVSXhPOHp6eFZ0UE5uRU80U2xxQXVDaHVkV0hDdk1QUTNLSWdYaG1mNXVSQzdCZmtCYlRYM2F4U2VCcTZEY1ZrdlFfWlU5N1gyZGplNjNROGFoM0pGa1HSAXtBVV95cUxPUU9pS3dCeWFhVWJaMGViMUVUY2FzaUk2a3pkMVI0WFF2RG40TXNKTXQwbnFleklTN1hxMW0yU3NMU1ppWkQzZW5hVlVER3RKNm40UVZxX0k5THZfYTNWOUM3eWZsREszTkQ5bjBrN3gya3FfNGx3YzJRRDQ?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-05-25T23:53:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:53:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1e1e007a59affc7ce408bac15a78c8ccd3c0b27b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "CENTCOM reports US forces carried out direct strikes in Iran.",
+      "event_key": "us strikes in iran centcom"
+    }
+  },
+  {
+    "title": "U.S. military strikes targets in southern Iran, citing 'threats posed by Iranian forces' - CBC",
+    "summary": "U.S. military strikes targets in southern Iran, citing 'threats posed by Iranian forces' CBC",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xU28wTEM4OUN6QV9MMmFJelBhVHk1bFpqeW54eDQzQ1Q2MjBSM2ZySkw3cHJEYjNCYUp2SEtNM0xsLS0yc3pqMkRWaG51YUE4aWU3QWhKLWhWeUwtbDlockg4TmREZ2hDMG5XWDNYVXc?oc=5",
+    "source": "CBC",
+    "published_at": "2026-05-25T23:48:03+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:48:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "82fb7a917d953228b18286fb58d203f5cf12e8be",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Describes U.S. military strikes on targets inside Iran—direct military action/retaliation.",
+      "event_key": "us strikes southern iran"
+    }
+  },
+  {
+    "title": "US says it launched ‘self-defense strikes’ in Iran as peace negotiations drag on - Politico",
+    "summary": "US says it launched ‘self-defense strikes’ in Iran as peace negotiations drag on Politico",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdEpsRGluXzJhcGFxaGUxYVhleUh0OVl4SnpqaEZJdldLVXpaLTRoYW5KdFN2Rm1TRWlRdGg1NnN1WnJBbDdpYnRkZGhlR0ZMS053V2RJS0dSd1l2YWt6Z19IWVBYSHFELXlBazAtUnR5Uk9JSmR0d3VLdl9GUjFlYQ?oc=5",
+    "source": "Politico",
+    "published_at": "2026-05-26T00:31:21+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:31:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d5c720f912b31343e549a15e9b86f24a4f89cb34",
+    "source_weight": 0.98,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US launched ‘self-defense’ strikes inside Iran, a direct military action amid stalled peace talks.",
+      "event_key": "us self defense strikes in iran"
+    }
+  },
+  {
+    "title": "US hits Iran with new strikes, despite ceasefire - Yahoo",
+    "summary": "US hits Iran with new strikes, despite ceasefire Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzhUME1yRVBfTVdzVDBLbzhleHI2LXFBTktCZ21DMG1BYkpyZUJkZVAtTjFoN0JyMGRlWURvZXB6eFFnMUZZTVBLQ3Z3WEJxUXVyOVdaT19oX2JxMEhTUjNDT01udlVZRC1NZDE5MWt1RjJpelY3dkRySTBvNDh6RFVBcXV0elVPcTVMMWhmSFE5dTN2NVhseDdoNG1KMFE?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-05-26T02:12:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 02:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "239c99ab6bce7e64c2337fe3f573ad1fc90b5666",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports US carried out direct strikes on Iran despite an existing ceasefire agreement.",
+      "event_key": "us strikes iran despite ceasefire"
+    }
+  },
+  {
+    "title": "U.S. attacks missile sites in Iran, despite ceasefire - The Japan Times",
+    "summary": "U.S. attacks missile sites in Iran, despite ceasefire The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3dfMllha2FrdVJUWWVPUE9MMzlsOXBjUmdoNUp5YUZobnZrNktwLWkxNUtRZ3NoTExnRXhPWXFhbVRMUEZvLU1fSFdrRmk1YjFic3FLX1BLVUxNc2xnTjM2b28ydVVVeF9ROTZfaEc1QXZuRzFZZzkzc3ZIN3J4eUU5bw?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-05-26T00:28:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:28:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ad71f0c6e4afebdaeeb2dcea3c08eba16485ae08",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct U.S. attack on Iranian missile sites despite a ceasefire indicates a military strike/retaliation.",
+      "event_key": "us strikes iran missile sites"
+    }
+  },
+  {
+    "title": "US military launches strikes on southern Iran amid talks in Qatar - Al Jazeera",
+    "summary": "US military launches strikes on southern Iran amid talks in Qatar Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbG10dm9OTkpyY055aXoybWZrNnFZdVBpR3ZpZTlOTnNDUWEzRjJIVWlybWt1TkVDMW5IMVd0Zzl6eTZ0eHBUQUZ1THhxTTc5WjlqOWdpRXJ0YUhfOVhoMkVpVGFaRWNxeHVuaExrMWQtckdXNVdyMnozaEk5VmpHcm9VTks5bEhRTDc0b1hRTWxVZFQ4a3ZQa1o5UzRVUXRrUnFxZnVQYkpxZ9IBrwFBVV95cUxNWTlGMDBmQlJiVWd6MGkzVmk3YlZGbmo5VlpLdEM3aUw0VzlJWDlfYk5VT0hTNFR4cy1Sb3NsdTNKVXJPWTdDNHF0OXNNTi1FU0MwZk1SS2IteHZHd3FBZ1ZXdl8xektrdV8xZjhqZzFXMGZmMUhYSWFpOFcxeWpQdEctLUNuNHVRdXpHeTJETi1zZ2ZVczltSERjWk9LelVPREVjYlBYcTVIT3RybXdr?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-26T01:00:39+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:00:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8cc9dbf980571105299fe4c0069eeae33868ba74",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct US military strikes on Iranian territory reported during diplomatic talks.",
+      "event_key": "us strikes southern iran"
+    }
+  },
+  {
+    "title": "US military says it has launched new strikes on southern Iran - BBC",
+    "summary": "US military says it has launched new strikes on southern Iran BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-05-26T00:33:53+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:33:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c0f082abe4d11726c8e1f26bb57d39628b70fa12",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct military strikes on southern Iran, a clear act of direct attack/retaliation.",
+      "event_key": "us strikes southern iran"
+    }
+  },
+  {
+    "title": "U.S. renews strikes on Iran, citing threats posed to American troops - The Washington Post",
+    "summary": "U.S. renews strikes on Iran, citing threats posed to American troops The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1U5QkRyUHlFdkozd1hpTHg0QWp1SnBIb1NvMTNZX04yd1hacHZ6N3BuYkJ6dXgzOTNzdmx3TzZMSEpNc0JnQ21mam9Jeld4R0tiTlJXcjZ6eFRJeE54eWlMOHFETjZLSnV2OFVCdGVLajJBNnU3cUlTVDJRTmh0VnRRZklMc0tUWGNFYmVCcEwyaFZCLW5MZ3UySjBXNkd4WlJhb2lxc1M5VWd1?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-05-26T02:08:38+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 02:08:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cbc1a2698a2dd65f750311e3e02f50b0a6fc3484",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports renewed U.S. military strikes directly against Iran citing threats to troops.",
+      "event_key": "us renewed strikes on iran"
+    }
+  },
+  {
+    "title": "US launches new strikes on Iran — and adds to insurance market strains - Insurance Business",
+    "summary": "US launches new strikes on Iran — and adds to insurance market strains Insurance Business",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ1RiYWFEQjFpVFBYZ011WnpDNzNfSmRMcm1YODVMRGhkdGpEN3g1cmduRlFvSmhybzlDQ1RySjlwZ2ZyVVpCT3VaVmswWDd6SFhHV0VoY1A5UExLM2NZUllENElGbEpQNW1GUEYwRjZKeHJXZlJZYi1NdUxPczFwUkhxVnBQMHc0aEtwajRTMHh6S1MxNWZRclRzSElFSlpoRzRIaDgxRzNEc0lXNmVHeGdMakJjMzhyVzJuUE9JcXJTemRjYmxPeEdYbktiX1d1ZFJIdC02VQ?oc=5",
+    "source": "Insurance Business",
+    "published_at": "2026-05-26T01:47:09+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:47:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dd181d4a5ee98eb385be786537c5b38cefa9aa17",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Article reports direct US military strikes on Iran, indicating active attack/retaliation.",
+      "event_key": "us strikes iran"
+    }
+  },
+  {
+    "title": "US carries out ‘self-defense’ airstrikes on Iran threatening fragile ceasefire - The Independent",
+    "summary": "US carries out ‘self-defense’ airstrikes on Iran threatening fragile ceasefire The Independent",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalVTc0FCZ29Sek9XeHI5WG1xd0Ntc1JBWmZtU25tWHM4YjlFVmpmaXQzSWZxejlBb2lPdE55M2htR2hsVVpjN3F5S18xTE53UVlmODdOOERfZms2aXh4aUR6cXJaTHJmVFJuLVZJamtkZG9rLXhtRnk4U2lDX09TZW9zWVpDTWdqRmUyUnowNkJCRlo1bGo1ZlRwWUpFeTRtTTZhOVhJeEgxT3otWDQtNA?oc=5",
+    "source": "The Independent",
+    "published_at": "2026-05-26T01:12:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "412f08af08388ba12cd25e9a140fc4009e0edd4c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct airstrikes on Iran, a clear military strike/retaliation threatening a ceasefire.",
+      "event_key": "us airstrikes on iran"
+    }
+  },
+  {
+    "title": "U.S. military carries out 'self defense' strikes on Iran despite ongoing ceasefire - WSET",
+    "summary": "U.S. military carries out 'self defense' strikes on Iran despite ongoing ceasefire WSET",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONTlWTDZydmg0VlpuUURKS3ZaQkVQTmJ2T0xDbFF0Q3o1cHNjU2RMLTMxSXZzZ241RW12aEpWMk85bnZNQnZYaGNNNXlDN2RIS3o1c3ZKR3p3UGdOUzNhY3BaVVh5LTltRXJnd0pHQk5POFZacm5oQzNpVVEtUmRiUG5rMlhRRFN0a2tHQXR4RDBYd21UX3lqYVpHUVVUWUsxdGs4TjFKckk1eXUtdlVhRHdqa0ItMk9hbm9hR2V5MllOZDQ0UGlvMDFBRmhnT0l2Z3hLWm5YYUNpVUItaEJRaW1yTmJ3dw?oc=5",
+    "source": "WSET",
+    "published_at": "2026-05-26T00:25:05+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:25:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f92a38d35305d17f02d5ba29d706db56c1995d77",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "U.S. carried out direct 'self-defense' strikes on Iran despite an ongoing ceasefire.",
+      "event_key": "us self defense strikes on iran"
+    }
+  },
+  {
+    "title": "U.S. and Iran suggest progress on peace talks, but deal ‘not imminent’ - PBS",
+    "summary": "U.S. and Iran suggest progress on peace talks, but deal ‘not imminent’ PBS",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXcxU3F5d1plS3lpUkFXVTJLdTVsZWRNUldyblZGdW54dGluN0FRMXlBU1hMQzBXeExnejRoWmEya3BxR3J3aldsaXdMRF9GSTlLTk5vOXQzMzBDYV9Vemhod1RMcG03Q3hPalo1OXV3eFZ0TEp5MXNOdTcxaVV6MzlEb0NvckRsQ3JfM1JLQXRZb2FfdkVDVFlYSE1vci1JcVE?oc=5",
+    "source": "PBS",
+    "published_at": "2026-05-25T22:55:15+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 22:55:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "73fe87736b843fe5c9cdfde45cdf5a0dd846e332",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Reports of progress in active U.S.-Iran peace talks; deal not imminent.",
+      "event_key": "us iran peace talks progress"
+    }
+  },
+  {
+    "title": "US launches ‘self-defense strikes’ in Iran as peace negotiations continue - Washington Examiner",
+    "summary": "US launches ‘self-defense strikes’ in Iran as peace negotiations continue Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVNsT0dycjFZR0N0UzJxNDZ5R2QxRWd2dDRGSTNnZ3RaVG1oVXhLdDBJZTY4REJaY3JpRXRsdmRmTkpZNlROdVV5Y3BBVk1Rc05zenB6TjI3ZjZFaVNheTlSUWRiMEFHODgwRTgzTlA5UTdwZE5rX3Q4ZXNvbFFyclJzZUVKMDBHb05uZlB2TnF6UmtlbzVuNVRsb0N3Y3pVYlFWLW9rbmkwOUVHMi15cjFQMS1OX2s?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-05-25T23:24:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:24:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "23c96726858bd782d9ca4098a0536bbc0eb97110",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "US carried out direct military 'self-defense' strikes in Iran amid ongoing negotiations.",
+      "event_key": "us self defense strikes in iran"
+    }
+  },
+  {
+    "title": "Iran Signals Potential Easing of Internet Blackout Amid US Talks - Bloomberg.com",
+    "summary": "Iran Signals Potential Easing of Internet Blackout Amid US Talks Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW03bUNsN3VoRFRTZHpWUWFxRDVnZ0RvUktDVGtpVkJMTzlVZEFMSTkyeHdpbVZJT2JXTzMxQm9fUm5GU19qeXVXNkJRYmUtUlp3V1B2Nkg4bWJWWG81VHdkd1UyeWM5Um4zS3d1NmEtcDl5LW0zNXluOFNSTDlfbDhXZDhvUm5UU2k5QmRCWi1lc296QldMdHFoSEo4RDNzVThqV2VxWHJuWkFJVTF2REdOLW96UQ?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-05-26T00:59:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "62e096038d26425efb451a5155e71790f8aeed37",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Iran signaling potential easing of internet blackout amid talks with the US—a calming restraint signal, not an explicit ceasefire or formal negotiation outcome.",
+      "event_key": "iran signal internet easing during us talks"
+    }
+  },
+  {
+    "title": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects - CNBC",
+    "summary": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0pjbFZrRGxxVXZqOG5MR2RReUJRNjhMWFhsbTRkZm9waTE3VXcyRWNDSU9QeEZMT3p6R282N1ZEQV8xREltU0w4LXBIMGJETTVLc2p2ZWNjZlBFVUM0M1RQcTE0U0MwYm9QaFVKdXhYUkpYSGpUYVN6Ul9udExJZFYxazJZbm5N0gGOAUFVX3lxTFB2ak5CWGwzLTNJWms2ODZfRWxjS2JnQ1hvc2hhU1BTMHZXbVZuQWNpU3ZmR1g0SEFXUDFrYWNhVHFUMzBNRndLYUxUQ0tiQUd3T2RQNGlaWUNYVDVVWlRMd1Y5dVFLUnVqUUUyMmY5NDg4eWViMmVKanNjT0VyN3Iwb0twNTRRbGE2bUlYTVE?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-05-26T00:43:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "22e18525754a26b9f917588db6abe06e4f56ef3b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports U.S. military strikes against Iran—direct military action affecting the conflict.",
+      "event_key": "us military strikes iran"
+    }
+  },
+  {
+    "title": "U.S. Carries Out ‘Self-Defense Strikes’ in Southern Iran - The New York Times",
+    "summary": "U.S. Carries Out ‘Self-Defense Strikes’ in Southern Iran The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44akVjQXo4THZVeXgyajgzbFZJMTlxazZGOG9RWlNWQzNxQTZMcEpQSDFTT3hTQU1waEgyYVpCSkRKd1o4b0VyTXFxbFJTa1ZYMjRvNjZ4UGJ5Um1hT2czOVlxOE5pNFRKTzZNSk1RYWZFQ19MdHRJeU1XN3c?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-05-26T01:21:11+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:21:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e18d52b038ec3dead1b18d191f5e74b00243715e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports state the U.S. carried out direct 'self-defense' strikes inside southern Iran.",
+      "event_key": "us self defense strikes southern iran"
+    }
+  },
+  {
+    "title": "US Strikes Iran Targets as Trump Hails Progress for Peace Deal - Bloomberg.com",
+    "summary": "US Strikes Iran Targets as Trump Hails Progress for Peace Deal Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGpEZGM4QWNJV1RXLXEzc19oc0d2emdCcldfNXFYeWFjN0pob2I2TlFGNmp5UEk1TmlBWl8xNTJfM3JhSnNvQld0UEU1YW1aVS1yc3U2Zk5FUFA4WGtldmJQeGM2T3pkRnNtT0gzSndwVVh4bjFaRWp0MC1aSXlJMTZST18wbzUtR2Z1dm9pTmdYUzI4ZVROMWpxN1hweHhlSXVoNDFYM2FaLVlnbFZDV2cyS2M?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-05-25T23:15:15+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:15:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e10aa23323380d87c4847b498de5fcf5d3e2ef47",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.91,
+      "reason": "US carried out direct strikes on Iranian targets, indicating immediate military retaliation or attack.",
+      "event_key": "us strikes iran targets"
+    }
+  },
+  {
+    "title": "Reports of four IRGC men killed in US strikes in southern Iran - The Times of Israel",
+    "summary": "Reports of four IRGC men killed in US strikes in southern Iran The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXVVZ0FWVGJ1QmY2aE9VblRYQTRham1OODJkazU3VWlPV1Y1NXBuTGZzd0tER0hyZFJaRHluemZZYnc1WXo1YzdIRlJBRl8zaXRMaHVjTWtlZ2daMVF4ZGtKTU5nMV83LUZCblhZeUIzZWxrSzRzR1NCV0xhN3AzZFZkSG9MMVpyRFhSMG5qWDBPTWU1dW5CWTNaX21BRWY3TTZhaG40cUFnMmdJ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-05-25T23:44:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:44:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "86dca603700dea38230f7481d2c7cd64f3d8da60",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US strikes reportedly killed IRGC members in southern Iran—direct military action/retaliation.",
+      "event_key": "us strikes kill irgc southern iran"
+    }
+  },
+  {
+    "title": "US military says it carried out ‘self-defense’ strikes in Iran, including on missile launch sites - AL.com",
+    "summary": "US military says it carried out ‘self-defense’ strikes in Iran, including on missile launch sites AL.com",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFZTRGVWQlU4WGRSUWk4TUxva2FoaWhwMlc1ZVBWQXZYUGRhQ2lKaVdLUUFqMnlEQ28wM3JvTnVaTDZVN0pqNW9xeGVfQkNkaGY5U0tJYW8tZDhiQXFJV2FmcHBJUmUxd3dRVnZsc2NHNDY4RWw5QUR5SG5Ud3J4SzFQc3NKSDJSczJPU2JuVTFCLS1Dck8xSnNMeXBiZFZBUllPV0FlbnVDM1ZKV0hEYWpJVGtFVkFyUy0yNTZQQmFaLXZJTkFQdENLd9IB3wFBVV95cUxQM2xkekVuczc5VkxuUl82UEVhVmw4VmdPRUNwSjQ2Sjhxc0FyN3RHMDZwU0QzTE5GWXRSY0NRZllwdVh0RHpHMjVHaVQzU3RKRnFFU3FOWWhvZEFoOUJjcjZXRnpRLXh1MEJTWlJxaFhMbXpMTmlnbmlhS1RvWGJhLVNjaHk1WlNTU2xnRFVYODlpbUp5cmhISFk3T3BrSWZ6Yl9kSnlrcV9lT1BwSHZzeFVlUV80MmFqUUYwR3lqMF9WckxFbjRHcFpqVDVpZ1lqcW9GNGdtZUJoaGxZYTR3?oc=5",
+    "source": "AL.com",
+    "published_at": "2026-05-26T00:23:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "45209c35216d318becb2ddec58aa4aa8e40971af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct self-defense strikes in Iran targeting missile launch sites.",
+      "event_key": "us self defense strikes iran missile sites"
+    }
+  },
+  {
+    "title": "US forces strike Iranian boats, launch sites in Bandar Abbas - Task & Purpose",
+    "summary": "US forces strike Iranian boats, launch sites in Bandar Abbas Task & Purpose",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fOGJtRFRsYlEwSEl0bHlna095OEhUb05EU1h5Y2FnRW5IY0RxWUx4Rzh5RmdsYkNkZ0JXS0NvSUtUWHZSRGI0WDQxTGxkVl91a0c1dGs5MFpFVHlhTFZiM1hRNm9KbGd6bWRGdlRB?oc=5",
+    "source": "Task & Purpose",
+    "published_at": "2026-05-26T00:43:56+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:43:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e0a696762e8f61285306aeaf03021134321de6b9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US forces directly struck Iranian boats and launch sites, a military attack/retaliation.",
+      "event_key": "us strike iranian boats bandar abbas"
+    }
+  },
+  {
+    "title": "US forces strike Iran's missile sites, mine-laying boats - chinadailyasia.com",
+    "summary": "US forces strike Iran's missile sites, mine-laying boats chinadailyasia.com",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNnU5SnZkQ1gzdGJ2OWkyS3ZabU9oRFZKd05fd0FuSXZKemx6MFo2ZzM3OWphcjJHSUsyaUVZZHR6OGM1LXgxTE80bHd5YnZlMXFsWUFGbVI?oc=5",
+    "source": "chinadailyasia.com",
+    "published_at": "2026-05-26T02:22:19+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 02:22:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6ff07a4e12e6c6aac8ea0c93595f0622f650b08b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US forces conducted direct strikes on Iranian missile sites and mine-laying boats.",
+      "event_key": "us strikes iran missile sites and mine laying boats"
+    }
+  },
+  {
+    "title": "U.S. military says it carried out ‘self-defense’ strikes in Iran, including missile launch sites - Inquirer.com",
+    "summary": "U.S. military says it carried out ‘self-defense’ strikes in Iran, including missile launch sites Inquirer.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnBjYlFSXzhIR2JBWGh4Sm1kc2tXS1FmdUZaNWRWUTRSYVplMktlOTFwTWpBcHlWS3NVMHBJYU5UZ1VjanBqMlk2Wl84Sy0xSWRaaDhBUEE5LXd0WDhYX1o5YUo1ZzhrVzA0WmJDelFSMWFab1RxYVVoaWJDVU91UlBVV0p3N2ltSUd2WnRpc3VMdHF3bXhLdUNQQUkyV3JzRGdacWZON21kWkFxT3pTbDlFaWFFM1pCWmlvUjFaYVVRQjViUGJ1QWk3WEstdFNX?oc=5",
+    "source": "Inquirer.com",
+    "published_at": "2026-05-26T00:09:27+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:09:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6974f75fc9f854f31a768b4375c66613176a5e06",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct military strikes in Iran targeting missile launch sites, framed as self-defense.",
+      "event_key": "us self defense strikes in iran missile sites"
+    }
+  },
+  {
+    "title": "US military says it carried out 'self-defense' strikes in Iran, including missile sites - WTVC",
+    "summary": "US military says it carried out 'self-defense' strikes in Iran, including missile sites WTVC",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNG1zQXFfLThQVVc1cFh5LWVMVnVKc094X25oTURJaWpmUHU0NnJabklFY19vT2RDRGJiWVhiY2gxYWQ4RWRaYkxScXpuaTJXNmhnMWtuVkpHUTlhOG50VjZ2YlR6YUpFbFJjZlV3REc2UWxiM3lkdV9DMGlENGNhS2dpQjNfWm1EVHhkc2Ftb0lGVjdmajRwTkdnSFo3aXZMWXdyQ3BnSktpQ0laWVNKenotUFFZZnBVdl96aGQ1RVBwTG5hR1E?oc=5",
+    "source": "WTVC",
+    "published_at": "2026-05-26T00:04:42+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:04:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5d4630a6e1cde7b3f5937ac3fa4d9a379bdfde50",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US carried out direct military strikes in Iran, targeting missile sites as self-defense.",
+      "event_key": "us self defense strikes iran missile sites"
+    }
+  },
+  {
+    "title": "Iran says US missile strike on sports hall killed 24 people at start of war - Middle East Eye",
+    "summary": "Iran says US missile strike on sports hall killed 24 people at start of war Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjVyWWVFWUQtVW1qOE9JTUxWbXIwYzlDQ0s2dTV5NGlqbVJkdUtXbHBfVVJkNlJaZGwzdHdSWkYzQi1SdVlvRWNkZ1hvanoxc2VyblB0ckt5WDZBaWVNazRPQ251d0UzRGszSGplYWJvOWcxODFtc1pjRlpvbHZoc2x3Nk8yZVZySTI5OVQ0UXAzUUI3d2VrZHFXSDZNMFpmWkRzbHhTcm1nR3pQTkg3S0h2dFBDaUViaURGUm9WdHE?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-05-25T22:38:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 22:38:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1ad9426f88e2aa433f6c338df8033f263df2f2db",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports an alleged US missile strike killing 24 people, indicating direct military action/retaliation.",
+      "event_key": "us missile strike sports hall 24 killed"
+    }
+  },
+  {
+    "title": "US military says it carried out 'self-defense' strikes in Iran, including on missile launch sites - The Killeen Daily Herald",
+    "summary": "US military says it carried out 'self-defense' strikes in Iran, including on missile launch sites The Killeen Daily Herald",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2pxcXZxMlIxMGRfX3lDRnBHTFVqVVNfdFhEWVdKUGV6aGZyUU9JRVFORFNNd2FVdDZYZ0MydU9iSmRRTVBELWRxdWJBNjN6YzFuWmV5M3FpNUgyQjA4NDgzTllUTExJOFNNWWxUdDJPRlhTY2hpWDZUcG9HZjFLT0hia2swMDNfaXNtclhXWXoxUXFMWEdGUFUzeUxyMEtwenNLdlBsZmlfLUtCTnh1V1hIc3RtcHRlaWxpMVAtWFlhb1I0S2FYN3hXM0UzemcteTFudnI5S2xNZl9QRGtkTmxjM2o3VmJCTVFSRko3Z0E3eE5LS1BKMGFR?oc=5",
+    "source": "The Killeen Daily Herald",
+    "published_at": "2026-05-26T00:11:09+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:11:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a84b94acc13a02a673bbf834cf6372684bd39d21",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US carried out direct 'self-defense' strikes inside Iran targeting missile launch sites.",
+      "event_key": "us self defense strikes iran missile sites"
+    }
+  },
+  {
+    "title": "CENTCOM reports US strikes defensive against Iranian missile sites, vessels in Strait of Hormuz - Crypto Briefing",
+    "summary": "CENTCOM reports US strikes defensive against Iranian missile sites, vessels in Strait of Hormuz Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByZHc1S3B3dDloQm1hUzhMM2lubG00R0pvaVJmeWk4VXJqbHg1UzNOTFJPTWhaRUpjc0FqZ3Nvc1JTVTNLN1NZbEVkRGFYWjRWOTUyQlVlSndiWUdVZmZWSXF0THdxVjhKMVIzbzhFNnNTQQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-26T00:12:40+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:12:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9136f2e0e2b721b4215436eab7824d30f1531386",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "CENTCOM reports US defensive strikes on Iranian missile sites and vessels in the Strait of Hormuz.",
+      "event_key": "us strikes iran missile sites vessels strait of hormuz"
+    }
+  },
+  {
+    "title": "US forces conduct strikes in Iran, Centcom says - KOIN.com",
+    "summary": "US forces conduct strikes in Iran, Centcom says KOIN.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZY1k0VnJhVURLcU5nZ1dPOEppZDhmMVlmV3VzTUdmQTVBeTNuYzUwNG9IclN1ODZqNmkweHpUZ3UtdGV2UVI1eFd5ZUtLUHBPR1NOMG04Wk1JWm9HWlN0VEZPWFFqRjB2U0h2di0zNXU0cDBMYkNYemtNUGV6UdIBgwFBVV95cUxPWHBRdDZzVTY5cGJTSUZDRzJIRGhHV3phcUUxeVp3UXY4aVM1LUQ0OG1IbVlscHdZMmtkc0dMMTNqWlVoblczdGxndEJvZGpJUXRocmpCQk53UkhzekUxeVlucjZSQnZ3by1BM2U3NlRuQ24wWVFncW9PT3VlQ2swSHZ1MA?oc=5",
+    "source": "KOIN.com",
+    "published_at": "2026-05-26T00:41:32+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:41:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "623ba19e8e08475bc7f70b1ffee4469d53442683",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Centcom reports US forces conducted strikes in Iran — direct military action.",
+      "event_key": "us strikes in iran centcom"
+    }
+  },
+  {
+    "title": "Israel and US reportedly strike Iran’s Larak Island, killing three in Strait of Hormuz escalation - Crypto Briefing",
+    "summary": "Israel and US reportedly strike Iran’s Larak Island, killing three in Strait of Hormuz escalation Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VVGRwdXV6SjBOMWozWkxZWmpOSDNMT0hwaTlFYXZLenlmS3E2SGJXYmREN0NWVkZnTVF0d1psUmplRUxqek1ldTYwOFNkRklranNuNG1QQUJ0MFE0bG15V0VSVnBqckxjejZiUTZTck5HQQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-25T23:20:35+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:20:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a3e6870ef0b47de3321a1537b02d2019294cc04",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Reports of US and Israeli strike on Iran's Larak Island killing three — direct military action in Strait of Hormuz.",
+      "event_key": "us israel strike larak island"
+    }
+  },
+  {
+    "title": "Iran accuses US of missile strike killing civilians in Lamerd as crypto markets whipsaw - Crypto Briefing",
+    "summary": "Iran accuses US of missile strike killing civilians in Lamerd as crypto markets whipsaw Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5STkV0TkdvdFI2QUNpRGFPalJNUUM1eTlEV1hqczV1b0F0aUoyVWJnNVF6d1BER0VOWm5XM29ES3p1cE9lQXVvYndoS0ladF9lYWotSlVual80aWdwaDZ3TUxwc1pyT0NqWG1aWHhpc2pKRFRzdEI5clJOWQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-25T23:42:03+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:42:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eea297ced3e1ac767e17f1e19ba869facb3bdccf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Article reports Iran accusing the US of a missile strike killing civilians in Lamerd — a direct military attack allegation.",
+      "event_key": "us missile strike lamerd"
+    }
+  },
+  {
+    "title": "US forces strike southern Iran in self-defense after Strait of Hormuz attack - Crypto Briefing",
+    "summary": "US forces strike southern Iran in self-defense after Strait of Hormuz attack Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kOENUWnZzajZDaGMwUXNGYVdobm1xc0d0Y25acFpKMG96UmhYa2NmNExQZVFyRGVKZk1BYU9PUFo4dUNqejQxVHBSUG1heWRoT0l3R1R2ekZpNzMtYnM1NkViUHN0MXJkZ1h1cXkyRmg1TTVG?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-25T23:20:35+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:20:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8b2f5d24277eb23a50bf1d42abe62fa3679ec4f5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct US military strike on southern Iran reported as self-defense after a Strait of Hormuz attack.",
+      "event_key": "us strike southern iran after hormuz attack"
+    }
+  },
+  {
+    "title": "US military strikes Iranian boats, missile launch sites: CENTCOM - Reuters",
+    "summary": "US military strikes Iranian boats, missile launch sites: CENTCOM Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGFjWmVLMi1XMzNha00yYVM2RFZWbHhxQlZZVFY2M0xsdk1ZOFRXWERfUlpYM0RyNGtEYW1HbVZHTGhNaWIxZ2ZUV1JZRHpsUFE2cmpEZjBnVVpqQk9rMGxwaTdnaGNYMGJFVUl2Y3lZWE01N2FIQVd3cEZBc2NsNmo5WjJURlpJMTRkUlhILW5fX25LTi1peFA0akozZlZocE5FMGRYUENQdDZzR0xKVTJzMUttQ1ZPeTd6a195WmhkTU0?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-25T23:15:03+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:15:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4d80eaa2e97dd6dbbe7dac0a6eed193c599d3f19",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe direct US military strikes on Iranian boats and missile launch sites, indicating immediate kinetic retaliation.",
+      "event_key": "us strikes iranian boats missile sites"
+    }
+  },
+  {
+    "title": "U.S. says it carried out 'self-defense' strikes in Iran, including missile sites and boats placing mines - PBS",
+    "summary": "U.S. says it carried out 'self-defense' strikes in Iran, including missile sites and boats placing mines PBS",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN0Z6anBrQ1pPZ0NpT1FPa3lESmUySEVrd3BLTGQ2LWR6bENMRDdETnI3YVY4VnJhNVlKeEIwR2h3YUphSDNiRkpLaXBRQjlGODlqSkJjTzZNR21rQ0dxSGF4N1VORnd3ZXdRMHpFUk93UU1KU0hRZzNrMGpjd2JtUDhlUkF2M21fY2NidDVVTnVDdERvRnJmWEItdDFjclU5ZzFmWDVkMkVVWUs1Ymg3dDlYQy1qSXBOdG0xNktiZG44cjhQZ2dnNnhwa3ZWaFBYR29OdDhB0gHWAUFVX3lxTE03RnpqcGtDWk9nQ2lPUU9reURKZTJIRWt3cEtMZDYtZHpsQ0xEN0ROcjdhVjhWcmE1WUp4QjBHaHdhSmFIM2JGSktpcFFCOUY4OWpKQmNPNk1HbWtDR3FIYXg3VU5Gd3dld1EwekVST3dRTUpTSFFnM2swamN3Ym1QOGVSQXYzbV9jY2J0NVVOdUN0RG9GcmZYQi10MWNyVTlnMWZYNWQyRVVZSzViaDd0OVhDLWpJcE50bTE2S2JkbjhyOFBnZ2c2eHBrdlZoUFhHb050OEE?oc=5",
+    "source": "PBS",
+    "published_at": "2026-05-26T00:41:52+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:41:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ad48634d95dfb948a2f89be92fa7a62af9ff2bed",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "US conducted direct 'self-defense' strikes in Iran targeting missile sites and boats placing mines.",
+      "event_key": "us self defense strikes iran missile sites mine boats"
+    }
+  },
+  {
+    "title": "US strikes targets in southern Iran, says actions meant to protect troops - The Jerusalem Post",
+    "summary": "US strikes targets in southern Iran, says actions meant to protect troops The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85R1JHNmhSaUdzQi02MW1ZSHhtLUVyOFN6c2dRc0hPWXk0T09CbHJ5bFR6SnhNZUEzTWVMTlE5WHVZXzBqQmpfRzNtbm5DZW1GMi11N2dnU3F1bTFOeTM0?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-05-25T23:30:02+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:30:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8c8f40b4e177e4ddffb4cc6b7983c1667595292d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US conducted direct military strikes on targets in southern Iran to protect forces.",
+      "event_key": "us strikes southern iran"
+    }
+  },
+  {
+    "title": "US military says it struck Iranian boats, missile launch sites, cites self defense - The Times of Israel",
+    "summary": "US military says it struck Iranian boats, missile launch sites, cites self defense The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXJERGhpbk82MlRZNS1LV0dQQ1BfenJBRnNaLXdMR2Q3ZU8tLVJFckNBMnRVbDd3dDF3MFU3Tk52ZENlc2VaalRLUDk0R0xlNG81ZnpqbkJSNnc4T245Y1VNUVhNV2x5bHh5TmxxQXM4T0FzR1NaY09fYzB4Q2l6LV93S3JYUWxjOVM2bnFFRjZBWjJtbDVYNFBGM2lWZU1Nb2p2MFlsNkVFRFlLQlNTOFJOOGFDcENZRWZZcjRDR1lEMF8x?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-05-25T23:20:50+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:20:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "889b6365ffe6ebc186a89f1cdcbaadfcaea52ce8",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct strikes on Iranian boats and missile launch sites, citing self-defense.",
+      "event_key": "us strikes iran boats missile sites"
+    }
+  },
+  {
+    "title": "Developing | US attacks missile sites in Iran amid negotiations to end war - South China Morning Post",
+    "summary": "Developing | US attacks missile sites in Iran amid negotiations to end war South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBsMEc0VVptUHNMWVI2Z3RIUTBwZEVyVy1TSHZpVy1FVGVvSkVKYUtkUElMS0VVYTltQ0R2dWQ1SF9XOUhsMVVkV2hKeEJ6VEJGNmdBdVRBNjFmTFNkanBIWUlua2FKdGZBd3hRSDJKWTJYYjRCUDNTeHE5bTFmcHZDa2F5dFYyUzFrVzNuOGVWVzFzWTRCa09vMnFWOURNd2IyT2F2Mkp6Yi1ELXozSFFkdDlYQQ?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-05-26T01:07:30+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:07:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "78d9a8d44f1c451f4a19989751ca6c899aa54e08",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct attacks on missile sites in Iran amid ongoing negotiations.",
+      "event_key": "us attacks missile sites in iran"
+    }
+  },
+  {
+    "title": "US launches self-defense strikes on mine-laying boats in southern Iran, CENTCOM says - New York Post",
+    "summary": "US launches self-defense strikes on mine-laying boats in southern Iran, CENTCOM says New York Post",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2ZhY25nT2M3amRtVXVpcVFka3c4WWRLU3dTXzNUTm5waVd1Mk1QNkU3Qm9ieGg5SUZBSDJ4d3I4QnJEdy00WHhobXBmYzI1X2F5bjBKZ185NXlVQndZOTZJcV9wNDNaanl6c1R5MzBPZmhnNmItQ0RNVFBnX0lsSm55OUM1MWZoUDNVd1k3YXZqTUR2ckRiYkdiQ3I0dWZ1THNuQTZWUQ?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-05-26T00:39:22+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:39:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "18684dc7121482659ea741b5a4c1ecd3ab8e9a24",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "CENTCOM reports US conducted direct self-defense strikes on Iranian mine-laying boats in southern Iran.",
+      "event_key": "us strikes mine laying boats southern iran"
+    }
+  },
+  {
+    "title": "Markets rejoice as deal to reopen Hormuz nears, but US forces conduct 'self-defense strikes' on Iran - Fortune",
+    "summary": "Markets rejoice as deal to reopen Hormuz nears, but US forces conduct 'self-defense strikes' on Iran Fortune",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWJ4Q0ZNamZtSHFTYlZhbUQ1VFVQNVhWYkg4ODdJN0lYZnlDamdNUDN2NGdFT1BpWjNGOGFqeWxRdzB6aGs5b2NhS0tPMlp6M3pnZGNaamhMMGw4MkF1RDJranFDYXRqdnBsRGtwb3owM0pyd3FyN1dMOG5IeVJtQzJTbWRPYzhDRUtBd2FHX2JDRGVJX3lQVGtrcVJVb3pSWlFZS19CeDJzUzFLcWhXTHpwWW9DQUo0?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-05-26T00:42:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:42:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bd70ffb18d57922d01db603e523ab33100a51268",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Article reports US forces conducting 'self-defense strikes' directly on Iran alongside talks to reopen Hormuz.",
+      "event_key": "us self defense strikes on iran"
+    }
+  },
+  {
+    "title": "US Strikes Boats, Missile Sites In Iran - Marine News Magazine",
+    "summary": "US Strikes Boats, Missile Sites In Iran Marine News Magazine",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WDdMbW1uV0VXNS1vZC1acllBamk0V29fMGR0N2kyWEZNdVRmdWg4WGx0RWpMa0hkMjk5aXlGQ1hwc3VnUDZRTkVmRnNLSXZ3bEp1VnM1d00yLThwOE1sTHk1ZjhnZE45SFJmWFl5MXFKeHlTTW8tSUlJWkNfM1E?oc=5",
+    "source": "Marine News Magazine",
+    "published_at": "2026-05-26T02:15:27+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 02:15:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b1f0b642a8823098913a686edb87ce2f840757a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct US military strikes on Iranian boats and missile sites indicate an active strike/retaliation event.",
+      "event_key": "us strikes iran boats missile sites"
+    }
+  },
+  {
+    "title": "U.S. conducts 'self-defense strikes' in Iran as Trump tries to push for peace deal - CNBC",
+    "summary": "U.S. conducts 'self-defense strikes' in Iran as Trump tries to push for peace deal CNBC",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFEyTDJKSFV4cWthVDVIenNaMjN1dTR3MTMzQ083WWVFdEp4YmNnYXdFS3JmS2diMXdCQVk3YVNXUFZ0RTN4S2NXOHNZdzJBM0RoTXpjck5sdHhINkdsbTFWZHc2SnRiNUZSV2NjZFJiQ3RsbDBZOEZBSlB1cmlNOEJKN0p0cEFEMFU2Sl9tZWFrOXVCLXEwWWZhaVRyLTJRWm1nZHFB0gGrAUFVX3lxTE5haW5EMF9vdFdkMS1KMWpWaFpUc21lNU9GWHN0UUJMcmg0d04tNHd0eWNfcmxvd3h5WjdGZGpFck8tR3lKT3BnRHhMMnZ2N29KbEo1dU9nX3BoeGo5OWpVSnI0WWNCV0dBbVM0RUM2TEpnV0h5RzNSMG9nQi11eDFlNUphWnBnbllCMk00dFJMVkJBbFZzVExtdkt1akF3NVhWMVhobnk2NmFucw?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-05-26T01:13:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7aa7a42e05624544f3334a5e7226c91a15a89711",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct 'self-defense' military strikes inside Iran.",
+      "event_key": "us self defense strikes in iran"
+    }
+  },
+  {
+    "title": "Brent rises nearly 2% as US military strikes Iranian boats, missile launch sites - Reuters",
+    "summary": "Brent rises nearly 2% as US military strikes Iranian boats, missile launch sites Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlGQ0FWOEE2cGVYSmx5WW1lRmt0VFEtTEl0azFkeHJzOXpZNldkb2hudGY1V0p6bFNDTXpfNnhjbjhGd3plNE9zY2dlMUdDSWRaUTl1VkUzZzFOOWFQbkYxbHNNenY2blZrZkYtQTcxRXlkclFVTU8yVlFkT0hjd0xfT0QySldIcVk5b2R3OHdZajBqcmN5VHgxcjBXeDg4QmY3Tl9nWXk3VGx1OWlKVXV2TUlONW1ETGFsXw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-25T22:12:00+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 22:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "74206eecaa4f51048d37c916fb162c4cfd7aef4e",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US military carried out direct strikes on Iranian boats and missile launch sites, indicating direct military action.",
+      "event_key": "us strikes iran boats missile sites"
+    }
+  },
+  {
+    "title": "US strikes Iranian missile sites even as peace talks continue - AFR",
+    "summary": "US strikes Iranian missile sites even as peace talks continue AFR",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONi1sWkVIMlJBaTA3QVFZQmV6dUhxa1NWbkdyOHg0ZTVLTXpxVEROcE5BbzE4SVNyNW50UVpCYV85cEdOcFFLU1FFbkc5d1R4OGcwbXY3SkgwV2U5NUFPaGtYWXpxOXlrd041UmlLQVZZOE1lLTl5a3RHX0drTTRaQjhGWEhZT2NWeG1BSWRTWmpxMWpCVWliWGsyRUFHbUtXUVYxdUx4OG5sLVQzckliNWZhRjFBc3U2YUpIYQ?oc=5",
+    "source": "AFR",
+    "published_at": "2026-05-26T02:21:00+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 02:21:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b6925782ac387e25b3e21e8eb5983e44c7e1ba34",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct strikes on Iranian missile sites despite ongoing peace talks.",
+      "event_key": "us strike iran missile sites"
+    }
+  },
+  {
+    "title": "US military strikes Iranian boats and missile launch sites - Australian Broadcasting Corporation",
+    "summary": "US military strikes Iranian boats and missile launch sites Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjJCcEgxMTNLLW5QRHNPRWpSaklEeE9zRnVpNzhwOVBoRmREZmJaeWk4V08xc0k0Z1pIdHVaaVRJak8zRUN6X250TXdBOVBBQkM4ZFVkTm5kcm9OZm15S0Y4RmFCdWhmbFhISUUtUjY1TWg0UkVLXzBMZmkxbGxVQ3BYaW5jSS1DRFhxNWhSTk1Oc2Fic19sMUl5anFaVnZ3SS1TYTJB?oc=5",
+    "source": "Australian Broadcasting Corporation",
+    "published_at": "2026-05-25T23:22:46+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:22:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e80b6afccd6d2e9ef4ff529651709028954d7cfa",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct US military strikes on Iranian boats and missile launch sites indicate direct attack/retaliation.",
+      "event_key": "us strikes iran boats missile sites"
+    }
+  },
+  {
+    "title": "US military strikes Iranian missile sites in southern Iran, rattling crypto markets - Crypto Briefing",
+    "summary": "US military strikes Iranian missile sites in southern Iran, rattling crypto markets Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55aFJ5VDVVNWx1X3Y0VWhwUE1BZ2F2Z0JmR3h6SmJNc2trREozdm4tU1NLSVBkblMtVi01QWtlZEZfY3R5WlN3WnVZYVJPU2Q0Z05iX1NjbTkteFBNQ2c2ZmQtYkpNWWhsVHNickVqZVlZMGN2MlE?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-26T00:19:31+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:19:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "deead1288320f788e6d7502f510bf6693f2fbeb0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "US conducted direct military strikes on Iranian missile sites in southern Iran.",
+      "event_key": "us strikes iran missile sites southern iran"
+    }
+  },
+  {
+    "title": "US military strikes Iranian boats, missile launch sites: CENTCOM By Reuters - Investing.com",
+    "summary": "US military strikes Iranian boats, missile launch sites: CENTCOM By Reuters Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVMzaHh0b1pOekc2Uk5rVWhQMDVxajJfSll1cWlQV0NaUjgxa3phR3liQ19OeWV3Q0g1VC1JTlFLYXY1R0w3aVpPQjdpSmQ2N0dJaE1pSFJDUXRCZTBiM2hvd0ZWT3BRNllhRjBiYU1ENV91WnNuLWpadkZkbGdOY3FtSDFwdlE4Z3d6UWhUbWw0d05uX21QWHhYTTJSRDl5YVlsTXlqa2V0OXlyRXlvM3lvOWhDb0ZldVE?oc=5",
+    "source": "Investing.com",
+    "published_at": "2026-05-25T23:22:03+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:22:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d6bda1a03f98969ad0db95da46dbbf0f7a713538",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "CENTCOM reports direct US strikes on Iranian boats and missile launch sites.",
+      "event_key": "us strikes iranian boats missile sites"
+    }
+  },
+  {
+    "title": "US strikes Iranian missile sites as peace talks continue - Financial Times",
+    "summary": "US strikes Iranian missile sites as peace talks continue Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Nm1JWDJRX1k3VWgyak1fRUIzU2NxLUNjMlNDUU9jOS00Rnp1bTc5a1dMa1I4dW1tZDVfbjJOcmI1cmRZZVlONzdmU29lTDYxTng3UmVZTHFtN09NeEZOTHJ1ZWM4WDEtWHdZU2R2elM?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-05-26T00:53:30+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 00:53:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "82eff07577597b8aa6ad6cf38794f6ba4266768d",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iranian missile sites during ongoing peace talks.",
+      "event_key": "us strikes iranian missile sites"
+    }
+  },
+  {
+    "title": "US strikes Iranian missile sites amid ongoing peace talks, rattling crypto markets - Crypto Briefing",
+    "summary": "US strikes Iranian missile sites amid ongoing peace talks, rattling crypto markets Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DOTM2YXJiSFlKSHJVWDI0N0lWanN1ajdSN285a1JQeEc3ZXVlTWtjanBQdGtaUHBMbzBTZ1F4VHM5TV9Ea2cxeFJaQ3pfV3o0ODJiMlVYRC00SV9oMkxDQ25NNWlKZ3AxSy1yQjViM1psenk1eE9KcTQ5SQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-26T01:17:47+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:17:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0123effcbed1d166b9d299221caf1c03d4503fc1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iranian missile sites during peace talks, indicating military retaliation.",
+      "event_key": "us strikes iran missile sites"
+    }
+  },
+  {
+    "title": "US forces conduct defensive strikes in southern Iran amid rising tensions - Crypto Briefing",
+    "summary": "US forces conduct defensive strikes in southern Iran amid rising tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlhXMHNLb0kwS3o2R1RrNzliRkhQa3RnMkdUZ0w2NTRxRC10a0djNmxkNW90dzg4S1dycHozSkY2NE90eFZUQTNKM2ZZekpfaUVXbXpmc1plSENseVRldXRtMHU4NlF6NlpTYkJzNGdpb2lGZjg4aFdNaVR1RkZCN0xEczlQdTdsakY1VTRiSVdVYW9KbWNEQTZQZFRSSC1fTXBj?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-25T23:18:36+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:18:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8954ec8d46ecf01da07616482124e6b5cae82bf3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US forces conducted direct defensive strikes inside southern Iran, indicating military action/retaliation.",
+      "event_key": "us defensive strikes southern iran"
+    }
+  },
+  {
+    "title": "Rising Treasury yields tied to Iran conflict could add billions to US interest payments: FT - Crypto Briefing",
+    "summary": "Rising Treasury yields tied to Iran conflict could add billions to US interest payments: FT Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdU5KSVVMWlNSNUdWdzRmQno3SWdHYXR6eTBwUWQ2TzBodWVxVndtMlJES2VKNUVNbkpMNmNOa0VCMU5FVWxkT1pVMk9kU1ljNkF6NnI4N3NJbzlOTTgxVHV3b2NPd0RmYjhwTm1ubWdvdDRXZVREUmZFRHVWTFdlYXJsbXk?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-25T23:20:33+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:20:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "31389b60b900826ca224339b19c833ef867e8637",
     "source_weight": 1.0,
     "classification": {
       "label": "irrelevant",
       "strength": 0.2,
-      "reason": "Op-ed/geopolitical analysis about China's view of U.S. after Iran war, not reporting specific Iran–US diplomatic or military developments.",
-      "event_key": "analysis china redefines us power"
+      "reason": "Financial-market impact of Iran-related tensions, not reporting diplomacy or military actions between Iran and the US.",
+      "event_key": "treasury yields impact iran conflict"
+    }
+  },
+  {
+    "title": "US Central Command confirms defensive strikes in southern Iran, crypto markets shed $300M in liquidations - Crypto Briefing",
+    "summary": "US Central Command confirms defensive strikes in southern Iran, crypto markets shed $300M in liquidations Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySnhzRkdCanh3Y05IX29XSFpFN0laZ3RBNlBQQTZFemlwYjFPSWQ2a1Z5SE1qdEFEV1FfbE82WXB1YTlXdzRONUdVbi1Ld2xWRU5HNFFucnF4RVJYeWNSMnNxU2E5d3Z1czktS3ZXTHM?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-25T23:12:28+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:12:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97ee2abb2ca8dcc97673aae1d889b609399018a3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US Central Command confirmed defensive strikes in southern Iran—direct military action.",
+      "event_key": "us centcom strikes southern iran"
+    }
+  },
+  {
+    "title": "'Proceeding nicely': US-Iran talks intensify in Qatar as Trump pushes Abraham Accords - Gulf News",
+    "summary": "'Proceeding nicely': US-Iran talks intensify in Qatar as Trump pushes Abraham Accords Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3pJSlZ6R0RuUWFaS3p1SE5oRllKWHEyR1kwNkpyTVNkTWhXUGdka1hsN3EwbWh6YVhULVlUbVk3by0waE9rck16dW8wWVp6TTBfLU85dU5ablFYRkNRc0hjMklHWXVQTGEwNmd0VXVYR0pjbGNzNlUtQlM1UUp5TmVFdFhkS3pSY1lCLUw4RUpOYi1DXy1NZGRZb05fRGpzc3RYWVJ4QnNMVHVaMzFtbnR2MXJVY2hLVnY5aTRCNF9ZTlNq0gHXAUFVX3lxTFBaZkJnenhnTmJHYllDM2lpNDFXZ1VWbkFpcm9YdVJPQnFyeGxCZXJXMDR0eFhUYi1USllVbFlEZUw3c2J4bXdBNkM4cktiQ0pWTFJOR1lST2I1VkJJZjA0akljc0JFVjhzTW42aGVmM3pWcW91LXR6bEdKWGJxUkFjanR5UDhtSmFwTjBmLUtDeHBfZU1iUFZGdElJcF9EdE52b0lHVlR2YmZxWEw0UGxObC1tQXlsSVBEdFB1NExjcWYwaEdZalE5NFBLaTgtMlY0ZWI4YjVZ?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-05-25T23:26:12+00:00",
+    "raw_pub_date": "Mon, 25 May 2026 23:26:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "db92a8d7b0f8238642e4b4bc6cf29373070520ed",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports of intensified US-Iran talks in Qatar indicate active diplomatic engagement.",
+      "event_key": "us iran talks qatar"
+    }
+  },
+  {
+    "title": "Robert Kiyosaki Links Iran Yuan Oil Move to US Dollar ‘Death’ Warning - Bitcoin News",
+    "summary": "Robert Kiyosaki Links Iran Yuan Oil Move to US Dollar ‘Death’ Warning Bitcoin News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkQtZ2ZDMGhERE9DWVJKcGVKMkFUck4wRTFNYVRBYktHazdERE1hRHFNM1lGRHM0UWJ4UjF6RjJoUGkzT2c2VjNOWHFqNTNXS3NBNmtQb20yRWlTUVpPZ0hiczZ4dnFEdFVDMHVZaHhEcnd5TU1pSkxISklTRlFlVy15MlRDN05oS05UaTk4cFptbWRzcGR5Xw?oc=5",
+    "source": "Bitcoin News",
+    "published_at": "2026-05-26T01:35:09+00:00",
+    "raw_pub_date": "Tue, 26 May 2026 01:35:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "618915e4feceea3e7d5d5f3b5e2f7eabb3bd18c6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Economic commentary linking Iran's yuan oil sales to dollar impacts, not about Iran-US diplomatic or military developments.",
+      "event_key": "iran yuan oil economic comment"
     }
   }
 ]
