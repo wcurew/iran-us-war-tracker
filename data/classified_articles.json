@@ -1,189 +1,121 @@
 [
   {
-    "title": "Iran says U.S. acting in 'bad faith' after strikes during peace talks - PBS",
-    "summary": "Iran says U.S. acting in 'bad faith' after strikes during peace talks PBS",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0ZvcjA2UGlkSmlxUFpmbEVOREFXT3UzN3ZoQ2RfcnkycVc2SmFxb3dUVUc3ZFR0SlZyNU9MdGY4VU4yVUZTb1VlNFppRjlIdEl2NTFNYTJVUGptNHpScGRuUHltZ3BjTzlLc0N6QTdUeDAxVmxmdDJ3UDJOaGR5QUI5cGdCRTQzaUdfSXJwMHo3YS0ycko4Ym5sVWpKQ2tmMGc?oc=5",
-    "source": "PBS",
-    "published_at": "2026-05-26T22:55:02+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 22:55:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "42073cdeb9b9e1fd4e22b8ec77a1e2274d0e6930",
+    "title": "China hopes Iran and US can meet halfway in negotiations, FM says - The Jerusalem Post",
+    "summary": "China hopes Iran and US can meet halfway in negotiations, FM says The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwY0xRYnVZY3poUTd5ZmN5OVJRd1ktamVDWW1SSUVnQW5YdFA2RkdaMTh6dkZ5Wko1RnRIM0l6RTlpSUlESlNsOXNibVdDZ2ZFS3FQMFJ5Z1FqTmNtT1BR?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-05-27T05:11:01+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 05:11:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "18384d0375c5e8a2fca3f34fbd2ba31c9a0a21eb",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "U.S. strikes occurred during ongoing peace talks, prompting Iran to accuse Washington of acting in bad faith.",
-      "event_key": "us strikes during peace talks"
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Chinese FM urged Iran and the US to meet halfway, a calming diplomatic signal supporting restraint.",
+      "event_key": "china calls compromise iran us negotiations"
     }
   },
   {
-    "title": "Iran says US violated ceasefire with strikes near Hormuz - France 24",
-    "summary": "Iran says US violated ceasefire with strikes near Hormuz France 24",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOW1fWHd6cThyblFRcFdtTkljUmpxNm1xd2hnTmdjQWYzWG5DWHNQTXdHeG5fOXZraDIyLXZ5dTJ4TDlsNUhsU0dWaHJZMm1qSDV1MGljcDIyekNkQkF1TU56SWh0ZDBGMmFXZ0J0cnF3a3JwcS05MGZtX3BwUXNFT2IxemJSRnFTaWNaRW1ja3g1ekZsU0hEdzVkcGRRZlJYcGNqUkVZVzZVbUlxX0E?oc=5",
-    "source": "France 24",
-    "published_at": "2026-05-26T22:31:00+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 22:31:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "471018b545872afe85df86845b3f8166705fb16c",
+    "title": "Oil Prices Fall as Traders Watch Hormuz and US-Iran Talks - The Media Line",
+    "summary": "Oil Prices Fall as Traders Watch Hormuz and US-Iran Talks The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGpheTIxa3FicjNxTzRZc0czZnhNZDJ4UXdDeEk4Q2xTTElZbGtUaWNnc0p4dFJBRGU2WV9uNG9EU0ZmX1Qya1pNMXE4WmwwNlQ2QW41UmJMSzR6VFdIbWpXNWJGRExZWlotbnJXRzR6UXlRRE9Ea1BYbjFhV1EtN3RMS3Z1MnJHTElyYjlNc0k2NExuOE9RaQ?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-05-27T09:00:56+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 09:00:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dfe36334a6f5a6b80d2d60a4484cf24ccddb7e35",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran accuses the US of conducting strikes near Hormuz, alleging a breach of a ceasefire—direct military action implied.",
-      "event_key": "us strikes near hormuz alleged"
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Oil-market piece mentioning US-Iran talks without substantive conflict or diplomatic developments.",
+      "event_key": "oil prices hormuz us iran talks"
     }
   },
   {
-    "title": "Iran threatens retaliation after US strikes test fragile ceasefire talks - KOCO",
-    "summary": "Iran threatens retaliation after US strikes test fragile ceasefire talks KOCO",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWs3Q2hJU1NyaFdNcmhRUEZoOTJ2UlczamJfbGtMTUZROWlQdHdXbUwzRS03a3pXU1JGR0VkdU1hVnlOemxGRng3SmZVM1hDUGhwSkc0MkROenlIc2ZjUlg1emloT1JKMU1lRjkyaGNzNHVlblVYcjN1cEZQTmlMR25rMmFPb2wy?oc=5",
-    "source": "KOCO",
-    "published_at": "2026-05-26T23:04:00+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 23:04:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "18d15a0e502c4cdd72605cdfb89eb28c315be789",
+    "title": "Iran threatens retaliation after U.S. strikes - KXLY.com",
+    "summary": "Iran threatens retaliation after U.S. strikes KXLY.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWJxOGZpQTk2NVhsRGRkSHRFR3N3SGRMU2ZvU0loY3lpdFJJOHFyMUlYM1lFQXphTjVCSjhvZGJ6dUx0MklrVnY0WXhhLWNaMWo0cjFmbVRUN2VLUGJPQ05OY0t0ODkxS2FGbl9WQkpyRGFqcXY1blYtbWRtRkstWkN2Nks2Q0ttV1o4TzEzbC1GTmFnWU03WVk0RmFjUEp4NFgxNlFudnFVcVZGQWJvbFN1X3ZXZTVoMERB?oc=5",
+    "source": "KXLY.com",
+    "published_at": "2026-05-27T06:48:00+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 06:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4e47ac64c86de4de51e983fe7f53276516085530",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "US strikes occurred and Iran threatened retaliation, indicating direct military exchange and retaliation risk.",
+      "reason": "Iran threatens retaliation after U.S. strikes, signaling rising tensions and potential retaliation.",
       "event_key": "us strikes iran threatens retaliation"
     }
   },
   {
-    "title": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said - The New York Times",
-    "summary": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYzdyRkVnYnVJbDBrS0Fpb2VULTI2XzNIQlN2ZVZSMlg0b01VLTJXY1VDeDJ6NTlTQ1BScXdKTGEzaTdUWWR0UFdyalJneDlyUGZEckFpSFMzcjJvVFNfVUhJblIxWFM0MktoeXBLcG94UFk?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-05-26T23:59:15+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 23:59:15 GMT",
+    "title": "Iran warns of retaliation after US strikes near Strait of Hormuz - National Herald",
+    "summary": "Iran warns of retaliation after US strikes near Strait of Hormuz National Herald",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGpuYTNZd2ZPYWJ2OWtmbEIyaDYyZFNUUVVEWkVaWHNFSGllakVhcTVGRGk4VFJLSE1qRVU5clpUWUxZdkp6VWREeTIzY2ZHdWNBTi04cXRKNi13cF9hQzJkdjRyTVRJNEN3S0pEX3M0UWw1S1RRUTdrU3JvX0REeWh0YUMwLURvUG11cjZzMUdTRWMtV2F3a2dyZjZHUU1HRFpIbGhBeW1ZeWpma2tPQTZsbmHSAcIBQVVfeXFMT1E5UU4yanRuQUticl9PLUUtdjI2YU5ZcXVwNVRrWTJmSEdhS3Y0bWFKbmZVN2ZuOVVucWhDN3dKNlR0b1M0aXFQSDU4NmRka0JOZzZNQ3loVHhQTVQ3NXNlT004bUlWYUplSWRqdEFsX21oZTJtSk1aaHNGNTVsSWp3bjBRVk9qUThnbWJWYWdpc0ZLSVFERnFmRkV4a3RuelN1bkp6Ry1zZUg2eVBURndiQUpOaHVhd3YyTkNmaWYtWmc?oc=5",
+    "source": "National Herald",
+    "published_at": "2026-05-27T03:38:31+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 03:38:31 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1d0b5fa4ef608839d632346f4141777e200dab62",
+    "article_id": "a77496671743005e3b99db6d9b8a0bc4627dcc5f",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "U.S. renewed strikes in response to perceived Iranian threats, indicating direct military action.",
-      "event_key": "us renewed strikes after iran threats"
+      "reason": "US carried out strikes near the Strait of Hormuz and Iran warned of retaliation.",
+      "event_key": "us strikes hormuz iran retaliation warning"
     }
   },
   {
-    "title": "Questions grow over Iran peace talks after new U.S. strikes and retaliation threats - cbs19.tv",
-    "summary": "Questions grow over Iran peace talks after new U.S. strikes and retaliation threats cbs19.tv",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRVVySno3bVFmMC1TY1k5eXppZUUzelp4SnE5MF9LaEhWOWhER3F4ems1bWRydmVWY1NPdnFNMXNfX0RLUWRXYUJ6aFdiZXBhT0VycWZPQ1NCTDBhMF9XUnJRYVZ2VU1EMV9BYzhlX2pia3dOT1VINnhJV1ZWTjBGVGpHT3RvRkVnT1dyeml6amFUMEFMN29hUWtFUUN1UTJWRW9xdklNS1MtRTFnd0x6blZyTE9kdmtvd09vMmJKRE9CZUQtQmRhdW5hZVBfUjBHYnBKSER2eC1JUmN5ZTk2TGlvLWR0ZUJ1M0V2MUR3cVZFUQ?oc=5",
-    "source": "cbs19.tv",
-    "published_at": "2026-05-27T03:27:00+00:00",
-    "raw_pub_date": "Wed, 27 May 2026 03:27:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7350bedeaa26dba607042dac5649285c681aa89a",
+    "title": "US military prepares new Iran target list amid possible escalation - AzerNews",
+    "summary": "US military prepares new Iran target list amid possible escalation AzerNews",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhWE5Hcm1yVWhrTUtEMnNJNm5LbWhLUDZHTlV6OHEtc2pBUVlVTFRNRzlPOEpsTjYtWjVwWm1xTDJraEdQcUc4ZTZtcWJnNEIxWjViSg?oc=5",
+    "source": "AzerNews",
+    "published_at": "2026-05-27T08:05:00+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 08:05:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d7b444af7bb38d496fbf49fae85d5fac0e90186b",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "U.S. conducted strikes and retaliation threats, undermining Iran peace talks.",
-      "event_key": "us strikes and retaliation threats"
-    }
-  },
-  {
-    "title": "Iran vows retaliation after U.S. strikes, but ceasefire appears to hold for now - CBS News",
-    "summary": "Iran vows retaliation after U.S. strikes, but ceasefire appears to hold for now CBS News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVFmc3FDekJRem5relFuc1FxV1FObkVTVkdkbmFuRU1BQVI2OU53eml6ODVmQ1J1SGZINFgxRU04MnJMRWlEZUhHZUZFTFdvTFp6QVo4OFBCU1dqUUE2NUNfNm5HUTBrbkRhT1FsSVpUTldRaXRGaS0xZHhhVEVrY1pmMjdBY2ZtdjRyMkN6Xy1YRjYzNjdDUl93?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-05-26T23:06:00+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 23:06:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d6dfebd7f69c07bdc5a874c81d51da8e4a548966",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "U.S. carried out strikes and Iran vowed retaliation, despite an apparent temporary ceasefire.",
-      "event_key": "us strikes iran vows retaliation"
-    }
-  },
-  {
-    "title": "U.S. strikes, vows of retaliation rattle Iran talks while negotiators keep working - Washington Times",
-    "summary": "U.S. strikes, vows of retaliation rattle Iran talks while negotiators keep working Washington Times",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2ZJYXkxTXVkZ2NxeFVoYWhscThFUHBmTUlHMlQ0NDMyVm05MExZTmgzMkxGLW52a0szNllxaEJPbE9GVlYtM1ZpLXJOZUtEbjZyTkUxX04zRl9aYzRFVmV5bkRwSGIwMVEzOXhYSTRfOUpsZ3NBblRUMjZEZEg5UFI0SzlQel9jOVdGRXo2REo4Rk90cHNDRE1IUUl1RXR4QmtzVkhrb0ktbV9EWHZRTENR?oc=5",
-    "source": "Washington Times",
-    "published_at": "2026-05-27T02:27:13+00:00",
-    "raw_pub_date": "Wed, 27 May 2026 02:27:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72abbdef6d317410d973413a050d6659468846d8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.75,
-      "reason": "Article highlights U.S. strikes and vows of retaliation amid ongoing Iran negotiatons, indicating direct military action.",
-      "event_key": "us strikes amid iran negotiations"
-    }
-  },
-  {
-    "title": "Brent crude climbs as Iran warns of retaliation after U.S. strike (USO:NYSEARCA) - Seeking Alpha",
-    "summary": "Brent crude climbs as Iran warns of retaliation after U.S. strike (USO:NYSEARCA) Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY01BWnBBdUQ5enZjbmJxdGRMM001ZXVjdTVZTllnY1psbHh3LVFFVHF5ZUwzcFdEUC1iai05RjhBbUpDLTVjMlY0RVJQLXhFT0NqdEY4cFRaWVYzMGtOZEJCd2x0ekV5THcwOTJSdkpGNld0dU5XVmNiUkpETURfdkFVblZySDh5SWt6NGpqV0dKNlRCV00zTUNwTG84ZWFkaXJz?oc=5",
-    "source": "Seeking Alpha",
-    "published_at": "2026-05-26T23:50:59+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 23:50:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9dfc7d6e71b7d3786428afbf9abe82803dfa2b89",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "U.S. strike occurred and Iran warned of retaliation.",
-      "event_key": "us strike iran retaliation warning"
-    }
-  },
-  {
-    "title": "Iran vows retaliation after new U.S. strikes - WFAA",
-    "summary": "Iran vows retaliation after new U.S. strikes WFAA",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanJQMmlvZmlnQmRaWlAyNVZLME9QZzNGSFlGcVl4NTNXQzA0NnhwVklDNzBWdjJGQ2t1QndTQnZSN0ctMHA2OU1PanVJY2t6TE9EUm0wYnhKTE1iQVJlY0c3YU5tOG4wdHBnT1hYS3M4RloxZlg1OGxWOHlnVTJtNTkyRXRKWUVSalBxZHVsMkd6OG56NnBfLU93dlM4VnBEZzhscVBtWEZOVlphVkR5cHNqOHpyWnhJd0w2eGRJS1dLbENyOERF?oc=5",
-    "source": "WFAA",
-    "published_at": "2026-05-26T23:43:00+00:00",
-    "raw_pub_date": "Tue, 26 May 2026 23:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3953369110e7a9dbaf1cf3b209bde4526e0c89a1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
+      "label": "escalation",
       "strength": 0.85,
-      "reason": "US carried out strikes and Iran vowed retaliation, indicating direct military exchange.",
-      "event_key": "us strikes iran vows retaliation"
+      "reason": "US preparing a new target list signals mobilization and heightened tensions, not an actual strike.",
+      "event_key": "us prepares iran target list"
     }
   },
   {
-    "title": "Trump news at a glance: Iran signals ‘bad faith’ US strikes will not hinder peace talks as Trump calls a rare cabinet meeting - The Guardian",
-    "summary": "Trump news at a glance: Iran signals ‘bad faith’ US strikes will not hinder peace talks as Trump calls a rare cabinet meeting The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0lPWm9sbHAtdXhZeHlPVzhoay1teEZDMTM0RWRZY2FYd0d3blplVGdzSjRsZXdsZWpZY3ZPaE41dllxR2xGOTdqamxhOGVlYmc0bFpkdUVOREx0SnVveWV1TGtMa29FTGxqYWFzLXB0NGtJUU5NSjBpTmZqc1Vobkdfc2ZTdw?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-05-27T01:33:00+00:00",
-    "raw_pub_date": "Wed, 27 May 2026 01:33:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2ad537dfd47172d07b9c793fd41d556c67b15a43",
+    "title": "'Graveyard for aggressors': Iran's BIG warning to US after attack on missile sites, mine-laying boats - WION",
+    "summary": "'Graveyard for aggressors': Iran's BIG warning to US after attack on missile sites, mine-laying boats WION",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzJFX3NldFdkRjVCUmUwQ1Eyb3Z6b21pVHlDY0ctTGYyR3NOeFF1M2xsOXJtQ212bm80SUVQNGN0UFJZVWhQYXI1REQ3Tm5pakJnemR5MWdpWU9ERTMyOW5SOW54X1NCRGFBY3JvSTl0bFRoVHVMZ0tISDRsdkpyVXBTVXZEUHp1N0VjTG5LekhSMFdJVlpsRTNCX2lWeDhOSXpzbW16RUhaaEEyOVZPWGhjREt2R0tTSnFwemd0WU93Vl9yaHdOZGpPbXljcGxIWVN6NEFKZErSAd4BQVVfeXFMTjRhMDVfVEZDRTlXcUJIZ3l0QUduVjV6Z0REcGwycjlaOG5lT3BIS29TMFE2UHJZNnU3R1dzV2N4aVEwNHFmZjlFdW8xakZrdEFBOU04VkJBcVJIRlNQZ01ldVEtcHliemtBZGVQMkxIdlk1VVBCVXZVa3Vua3Naem9BX0hxbzhaaGVLZ1UyT2RIeDI2YTg2b192N28wUVFmMW1Ma014djAzSExiMUJaVXlEQUlMS012NEdYWmQ5eFhhd2pPandRTC1VLWxjNkV0T2FleVF0RzFuOE9ZZDV3?oc=5",
+    "source": "WION",
+    "published_at": "2026-05-27T09:07:00+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 09:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9a45abbdfc8824a4d24a332b6b7367fe32e7f154",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Reports Iran saying US strikes won't hinder ongoing peace talks—active diplomatic engagement.",
-      "event_key": "iran continues peace talks despite us strikes"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issued a direct warning to the US after attacks, signaling hostile rhetoric and rising tensions.",
+      "event_key": "iran warning after attacks on missile sites and mine laying boats"
     }
   },
   {
-    "title": "US Hits Iranian Boats, Missile Sites; Iran Claims Drone Shootdown - Air & Space Forces Magazine",
-    "summary": "US Hits Iranian Boats, Missile Sites; Iran Claims Drone Shootdown Air & Space Forces Magazine",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GMnlpOVhBcy1wcC1HTWl0ZC1iNDYwQlpDTWxNRHUwUjRpRnhQVUpJNU02YW42bUFUam5WakJHaUZ6RmctdlR4WlpkanY3SHhVSlBrdEVObXdYM2FXbnhmWXVIOXN2aG5IamUtRTV3aTlwZnZDUVdDcnplZUt1UQ?oc=5",
-    "source": "Air & Space Forces Magazine",
-    "published_at": "2026-05-27T00:06:08+00:00",
-    "raw_pub_date": "Wed, 27 May 2026 00:06:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "46cf194b90bf812757a83aed70cd74272e4b6acc",
+    "title": "World Cup warning issued by Iran state media as US resumes strikes - MSN",
+    "summary": "World Cup warning issued by Iran state media as US resumes strikes MSN",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3lRY3VQSTludm5IdF9zbW16MWdDcF9Pc0VGWDdWODAxV0JlQXhvSUdPSjNlQ2gzQ2lLb0NjS0dfRVFTMXV4Z3NPamxIOVZSOUtYX1JzaDZycFlsSThpdk1JeGY5M3JPU0h5TDlIdFJhVk15MmpNaG9tRlZoeVFRN3FZeFJ1eDFSRTNWQzd5Y09HcHE0UHdBeUtCeURDUm5ralNZQzJFU3lDcmR0eVJOQVNocnVUQQ?oc=5",
+    "source": "MSN",
+    "published_at": "2026-05-27T08:17:06+00:00",
+    "raw_pub_date": "Wed, 27 May 2026 08:17:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5c93c572793a19cd2929c3eb89ba2fcd073ff8d",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted strikes on Iranian boats and missile sites; Iran claimed it shot down a drone—direct military exchange.",
-      "event_key": "us strikes iran boats missile sites"
+      "strength": 0.8,
+      "reason": "US resumed strikes while Iran state media issued warnings, indicating direct military action/retaliatory context.",
+      "event_key": "us resumes strikes iran warning"
     }
   }
 ]
