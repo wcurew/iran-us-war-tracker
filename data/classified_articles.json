@@ -1,53 +1,87 @@
 [
   {
-    "title": "5 things to know about tentative US-Iran ceasefire deal - The Hill",
-    "summary": "5 things to know about tentative US-Iran ceasefire deal The Hill",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdl8tcFdCa3BtUk1LbU05dnJrU0JlUGUyUWJocGN0MTRUOUtUWmJjLV9nUWhmN1FjcGFvaEx3MVVrLXNoRVNueGZpZzRMRlc2Zl9tazVQNkRPeHhDSlhGSERnLUdDazU0czRGVzFhXzNlZW1RanVvRGlfdDdNRFdINUJrdXU5UXV1VGfSAY8BQVVfeXFMTzlLZWpCbkNUREJWaTFLUWgybERFYkNXd1p0cEl1b2FxOTM0eDFxbUdSVWtSM25UXzV3VlQzSFZDUmpGdzAyaV81MXBuUzhwZW94SUxtbWNFMy1CZ2dpR3VhTUtlY09VZjI4d1JzX3Bhd1lVajFnNml0a1JYMGFGellxanRjbjBhSnhNMDhGMDg?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-05-28T23:09:00+00:00",
-    "raw_pub_date": "Thu, 28 May 2026 23:09:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d2b8d2ca3d8ab4ec64cd8d196d2a40da80c07364",
+    "title": "US and Iran Near Agreement on Hormuz Ceasefire, But Key Nuclear Issues Remain - Novinite.com",
+    "summary": "US and Iran Near Agreement on Hormuz Ceasefire, But Key Nuclear Issues Remain Novinite.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1E0b2h1M0hmNnFCbDdiOFBscDM4bF9vUThmRkpuZ0dJVG51MlFaRGZNd0ZNS3N1cFVGS0h0Q1VIbUdqNkRDbXdwcmJySEVHR2haaThUMnBTSDF5NC1nS2ZMYmdPdFUzOS1xWGRMaHF6aFZNWmZaUXhEU1dwYTVBQ3JqaVNXQXJyVzlHRXdRNU1KdnNqSHVHd0dFUmNMTzNEaVZJQXBSQ1lsYXBNUnZiemdjcnZaSzVZbmJTOQ?oc=5",
+    "source": "Novinite.com",
+    "published_at": "2026-05-29T05:46:30+00:00",
+    "raw_pub_date": "Fri, 29 May 2026 05:46:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e679a53e4db0c49c6814a69f4ee13f199defaf62",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Near-agreement on a Hormuz ceasefire indicates active diplomatic talks while nuclear issues remain unresolved.",
+      "event_key": "hormuz ceasefire negotiations"
+    }
+  },
+  {
+    "title": "Dollar Set for Weekly Decline as United States and Iran Ceasefire Hopes Calm Markets - Modern Diplomacy",
+    "summary": "Dollar Set for Weekly Decline as United States and Iran Ceasefire Hopes Calm Markets Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3NhY2lTbmtLMUpQVDN1a0l2TTB4elJWY29GNWNZRERqWGxVR0FteElubVZlS2tKZVc5UDUzYlZralNEV2RyUkRRRFJWbHdReGFsUVRNSmZWd2wtWUpvY0k0YzV6ZnJ0cHloYTlPVFF1bW1wQVlSUjNpY3h1U21wV082aXhXbFVYOWF4emxzdGgzTExPRThrV2NnY0RsdE5pT3NCVHVkUnZBdnVpTERfOFh3OXhtUGJwOS1NaWNta1Y?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-05-29T06:12:57+00:00",
+    "raw_pub_date": "Fri, 29 May 2026 06:12:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b18fb21b3c8d75de940e997dc21906c0406238d4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Markets calm on hopes of a US-Iran ceasefire rather than an explicit, agreed truce.",
+      "event_key": "us iran ceasefire hopes"
+    }
+  },
+  {
+    "title": "US-Iran War: Trump Threatens Military Escalation If Iran Deal Fails - WION",
+    "summary": "US-Iran War: Trump Threatens Military Escalation If Iran Deal Fails WION",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTVyWG5sWWhQV2EwUl9IX0JzZzdiRzNiR2l4Y1lNTVVOY3pZOTVQY3h0dXlCU0dyckU0OHhZRC04Ni0yakVjeGhEY0dzMG1TUEZsT2xsWW5SZnhPSE5YOXNrY29Eb2NHTWlFLXBUQVVOOFVMTEpuNmZtUGRBbVFacjdTdVZnVllGV3JBTVpsdXpycGx3U1k4UmI5Uzg4ZTdkcGNsa1o0dFMxczJTZWM1OA?oc=5",
+    "source": "WION",
+    "published_at": "2026-05-29T06:16:00+00:00",
+    "raw_pub_date": "Fri, 29 May 2026 06:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2bad5e1ab9eb33c937a98a082cd381e189a14d14",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US president threatens military escalation if Iran deal fails—hostile rhetoric and warnings.",
+      "event_key": "trump threatens military escalation if iran deal fails"
+    }
+  },
+  {
+    "title": "Iran missile attack on US ships escalates Strait of Hormuz tensions - Crypto Briefing",
+    "summary": "Iran missile attack on US ships escalates Strait of Hormuz tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGE2LXB0Xy1yenc4dFRpMTVDTEZGQ1dGVHlKUUdZMWJSV1lQWDlSQ1RVaWJVMVhCemtJUHBFbGZmOEJMSHdyWFFOLTVrbzZjeWNqOWZJSUxQQklMWU5NSC1oVm84bG50RHNmc0dSb05sODNpbG5UTXJSRWlCck1GbE5MdE8xOU42QkxOZFRRelNfZzdXRnMxR3ZCTQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-29T06:42:19+00:00",
+    "raw_pub_date": "Fri, 29 May 2026 06:42:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2a385da9489e80b881f8783c8d6a64714625a3d1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched missiles at US ships in the Strait of Hormuz — direct military attack escalating tensions.",
+      "event_key": "iran missile attack on us ships"
+    }
+  },
+  {
+    "title": "Iran, US reach deal to extend ceasefire, pending Trump's approval - The Daily Star",
+    "summary": "Iran, US reach deal to extend ceasefire, pending Trump's approval The Daily Star",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOGNheEdMa1JFWGZSeWo3RF9TS1QzdWhmNWF6UDE5UU5YaUtPb1JzT2NkcFpOeHhIMUIwbF9FWFktSjNVY2ZuSmFKZ3hsYnZDVW5HZXdKbjJjZ01lQTJvdkhTWWpkaFhvcmw4Z0VtamowOEgzbElaLVU0VWo4anZYNFFHaFZWVlBwMWNkc3EzQlZCZkdEVHhIMFRzX1JnaXU0eXNSYk1GbE1WNEFMQ241d0dwS0tyNjloOFNDY0kyTmR6RU5Ld3dhWDVaaw?oc=5",
+    "source": "The Daily Star",
+    "published_at": "2026-05-29T04:36:00+00:00",
+    "raw_pub_date": "Fri, 29 May 2026 04:36:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6c86c0a09ddcd919945f3f0a36773243e0f82440",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.9,
-      "reason": "Describes a tentative US-Iran ceasefire deal indicating an agreed pause in hostilities.",
-      "event_key": "us iran tentative ceasefire deal"
-    }
-  },
-  {
-    "title": "Trump claims US strikes thwarted Iran’s nuclear ambitions - Crypto Briefing",
-    "summary": "Trump claims US strikes thwarted Iran’s nuclear ambitions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVpKMzZqQnlIYjRzbm1jZGlhSnZYUWl0M29tVVFVWW9sZVBaX2hYZkdFQmUySWx0VVBvUGVoOHNRTEhVVEQtSjVsUi1UdDVIUUVIdWlqV0wzMUd1Tk1lQTUyQVpaZXFDSUxpVjQyajRPaWxQdjJDVmFGVThXQjd6ZDBEYlZBSlJHVmRLWA?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-05-29T01:07:30+00:00",
-    "raw_pub_date": "Fri, 29 May 2026 01:07:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1329f9ffa85f319348b06d04f3b53118c31fef5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.5,
-      "reason": "Reports Trump's claim that US strikes thwarted Iran's nuclear ambitions (asserts direct strikes).",
-      "event_key": "trump claim us strikes thwarted iran nukes"
-    }
-  },
-  {
-    "title": "Video | US Iran War Latest News | Iran Fires 'Warning Shots' At Vessels Near Hormuz Strait - NDTV",
-    "summary": "Video | US Iran War Latest News | Iran Fires 'Warning Shots' At Vessels Near Hormuz Strait NDTV",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0IxVjZ5cHVRd0EzdklwRG9WblhqZS1fRE8xczAwUUxLaTY2ampRSjBpWjAxU0NENndoOTE1ajViSGNpT3BRblk3OE8wWVROUTE0N09rZEtNS2lTZmpxN3FjcldONzBfVm5yNnhWek1Wa3kyc0ZLMWpyUU1PRG5TTlc1R1lMZVVYRDhSSzhoN003dHY4ZFhNRkw3WDEtN0dUcExhY0JFS1hrSWllSXJtQWlzYw?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-05-29T02:23:29+00:00",
-    "raw_pub_date": "Fri, 29 May 2026 02:23:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c0e591c6ff5733101f0b0faa04c1ba87ff2cf9a0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran fired warning shots at vessels near the Strait of Hormuz — direct hostile naval action.",
-      "event_key": "iran warning shots hormuz"
+      "reason": "Explicit agreement to extend a ceasefire between Iran and the US, pending approval.",
+      "event_key": "iran us ceasefire extension pending approval"
     }
   }
 ]
