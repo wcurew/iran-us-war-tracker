@@ -1,19 +1,53 @@
 [
   {
-    "title": "From $300 bn reconstruction fund to fate of Hormuz: Here's what draft proposal of US-Iran deal entails - Firstpost",
-    "summary": "From $300 bn reconstruction fund to fate of Hormuz: Here's what draft proposal of US-Iran deal entails Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGt4ZVVXcWlHWW9yc3JJT1UzUWxkczBzTm1HLW11QjUwWVpjNzM5R2hoT2dmQjVrYzZrQUxiUWFONGZ6SGpLdFg5R0JLWlRONXV1bzlseVV2cG03YmlqakhiZVNIeW5kWUV1NlJmU2VNXzl5NkZPS09tenVvZWlLSnlwVW16T3ZoWTBwZW9qblJSY0tJWlZiUzRnbXlwcUUyVHBJZ1ZleUo2d2hrQzNYNjVnZ3IzbVhTRmN5dTdycVViQ2V6S1FfMUZyb2hSeFJiSmFIRk15WVAwM1BYc3fSAeMBQVVfeXFMTXMyU3kybGRUX3BtNWNIVlFIS1FGSWZoVC1uWkZvc3I1TVlqVTVwVnZmS2FKUFRSZWZpdW5vUHVTcUg1ZWlYVjdCS05UVTZLMlJSNmVldjFadTAwam45QWhZS0Zrb3VTR0xDR1NJa0FIT2V1R2xRRERBYU5PLUEwalJvT1JQS1lLVENZcTBpOG5STkdRaVRCb3FRNllGZzlKYU9PMzZZQkpnbFlHZlB6RGwtMjd5TlZxbG5CcU9YN1Y3WWdEWnZrOVlJcmRwS0o5TXdsbmlWZ01jU2t2UlAydldrMGM?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-05-30T02:16:12+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 02:16:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "af05e099b2dd1616d2534aa9261ed45e6e04e712",
+    "title": "Strait of Hormuz transits remain limited as US-Iran ceasefire extended - ICIS",
+    "summary": "Strait of Hormuz transits remain limited as US-Iran ceasefire extended ICIS",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanRfWW0xSXg1OEw0bk1uZmc5X3RnTUpHNWV2cjF5YXprQUI4SnZlVERDZG15YXZ0U0Q2MWw1UGo4TWFCWVlycGhfX0JpZzV0bWhtRndKTTFaRWZhaDl6c2cxU1h6WkRMb1JsVGZicXQ1b3ZEUnFZRWdOazVGRERXckVZSlpZcnRTYU1URDc0Z0VZc195STZRbFFmQ0NneE1oWV9zX1lzYkhwN2dJcFZvNnpqa19BSkNLNXMwODhDREpKQ1IxMGl1aFJYZ1lBWTQ?oc=5",
+    "source": "ICIS",
+    "published_at": "2026-05-30T03:11:15+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 03:11:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cbfd3033ad6cddde108d3112a12f910b09ff4bc2",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Article states a US-Iran ceasefire was extended, directly describing a pause in hostilities.",
+      "event_key": "us iran ceasefire extended strait of hormuz"
+    }
+  },
+  {
+    "title": "Pentagon's Pete Hegseth says US ready to restart strikes on Iran if no deal - The Jerusalem Post",
+    "summary": "Pentagon's Pete Hegseth says US ready to restart strikes on Iran if no deal The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EWF9XNnhCT18yeU5NeGNUSVNIZ3FGT2pVY21DeUo3TWNjSFBPVlpqWG1JRXJfeUJxYmIxZFFWSDRwQ2tZQ3JlS1d1cmtnbmhmX2FCUjNHOVVWd3BjWmZwWnYzX0RmelJlR2c?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-05-30T04:37:14+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 04:37:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "02591e93b3e45d32c27cbb9843cb75bd47118058",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.85,
-      "reason": "Article describes a draft US-Iran deal proposal and its provisions, indicating active negotiations.",
-      "event_key": "us iran draft deal proposal"
+      "reason": "Pentagon official warns US will resume strikes on Iran if no deal, signaling heightened tensions.",
+      "event_key": "us threat restart strikes if no deal"
+    }
+  },
+  {
+    "title": "US-Iran tensions rise as Aguilar hints at strategic escalation in Strait of Hormuz - Crypto Briefing",
+    "summary": "US-Iran tensions rise as Aguilar hints at strategic escalation in Strait of Hormuz Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2F1Tm1qLS1pTHhpRjBGaTluMjZiakFJMzBGSW5mZUxLcnpxNzFyWW5yUDl6dzZFY09ndFZuMWd0Y3YteDdKSVBlTjNfSXlMZE5TTHVFdmw4MHJWS0FKQ2p2M2M1MmxyMVlZZ2doMy00MWl6YUlMbEI0aXpWZGtEbWtya3BTTXAyOGJ2OThDcjlRZFFlbzRnd3FmUHpIU3dHOFF4WEZR?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-30T04:51:34+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 04:51:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7c73adffcb3d8492c8a34cea5797472538a99384",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Official hint at strategic escalation in the Strait of Hormuz raising tensions between US and Iran.",
+      "event_key": "aguilar hint hormuz escalation"
     }
   }
 ]
