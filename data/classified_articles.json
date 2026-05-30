@@ -1,104 +1,87 @@
 [
   {
-    "title": "Trump still deciding on U.S.-Iran ceasefire extension deal - CBS News",
-    "summary": "Trump still deciding on U.S.-Iran ceasefire extension deal CBS News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1lhc2VJSXFzcWpCS0U1MDVUc0l5OHNRUjlLNkVOQ0hMb194TVM1SXpDR2MxR1ktZ0VkTFRsVWpCanNwcXdGR20zVUx6b3I0bGxGSG1NTHV2SkVoTk9tSktwbk16TWxwWFB0V1hTZ2FaY01ZMFJFOHFUTXN2YlVNMDVYck93cm5SM1FpTGFHaW54dTQzdWFlS3Z3?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-05-30T13:43:00+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 13:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ff4672fa2ee9a0cb0c05a2d7d0086dedb88b7364",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.85,
-      "reason": "Decision pending on extending a U.S.-Iran ceasefire deal indicates an explicit ceasefire matter.",
-      "event_key": "trump ceasefire extension"
-    }
-  },
-  {
-    "title": "Deal to extend ceasefire between US and Iran that would reopen Strait of Hormuz pending - kens5.com",
-    "summary": "Deal to extend ceasefire between US and Iran that would reopen Strait of Hormuz pending kens5.com",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSjRnVEg2UUYza2VNTjJja0NHRk0weTAxT1Y0WWtyOGpVTGJzOVNNazRXNWdiMHNVd05JU09vN1dueU1oeU12OHpGUERJTDVqTjB5ajJGVW9BdUhKeVY1dzA4cnJJck9KcHVnRnVUWmlwQk41ZU54Nzk4eXl3cEUtQmVDZzZPd2txdE41N1ZHMnNMZnJtRFdoR1c2OER4RDVtYTM1VlE1a2pRRmFNVG9BVjA3b1EtOXVoVlMwY0VibjdvcjhteVc0SVdVYzN2M1hfbkYyTjNNeTlBckxDNkpEcnVlaTNhb1lRX0JtV1cyc1hwczg?oc=5",
-    "source": "kens5.com",
-    "published_at": "2026-05-30T15:03:00+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 15:03:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dde24467705f337d89095cf6373b97337a559c5b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.85,
-      "reason": "Pending deal to extend US-Iran ceasefire that would reopen the Strait of Hormuz.",
-      "event_key": "us iran ceasefire extension pending"
-    }
-  },
-  {
-    "title": "Hegseth: US is ready to strike Iran if no deal is reached - NewsNation",
-    "summary": "Hegseth: US is ready to strike Iran if no deal is reached NewsNation",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjg2cDRNWU84ejRTVC1vMjB2cmlydXlHcGt5cGtOVmFtVzBoQjlaYTROMGktdlRTcXgxUUFIWDVtTHdreHdkM0JvQUFZNmtkWV9FNjVicm5IVEZzS3hMeGZ2bWN4U2IwWUlWU1JIRk1HSEhBSEF6MmpKWk5iUWRybTFEM3RiOEhw0gGOAUFVX3lxTFBPaUYydEVvODRLYU9DbEpGQW1sZVN2aHZ6WklNeWRYMFhjT3RhUGVHQXRBX01EYVh5NjFBM05MaEJIYTVDQl9LMjUxWDFhNl9xTmJOWXBqa1FjbzNvemUwMmdfMjhucGNleklCWmw1MmdTLVZCRXFuTlZ3VFlqS0tZVHBncnR2VXNzaEVhaUE?oc=5",
-    "source": "NewsNation",
-    "published_at": "2026-05-30T14:02:10+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 14:02:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "94384dc8fed730bb8a6b0f1a2af790294654726d",
+    "title": "Pentagon Chief Says Talks With Iran 'Productive,' Threatens Renewed Strikes - Haaretz",
+    "summary": "Pentagon Chief Says Talks With Iran 'Productive,' Threatens Renewed Strikes Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdzhUbUt4a0dNM3BfMzhrQlNGakFud2NPdGo5Tkg2TFlKRW9KUnc2UjdmaHdpM2JZUGdaZmEzS3ZZd0xvU1YtcU9VclliajlZNURySXVtc3JGRVBOMklfR2dwcGowMlUxMUxKQzJYSGxBaTQyWk94ZWdDVVh4MzJvTHFlcVpoZWhwbjdYTlc2cmphRElfYVZKYXBQY3ZzbUt6THRYX29NcGc3TjZWQUJsQ2gyQjg1N0pyZ0VuVUJDTVh2LWE0dVIydWItR3dXcm95T0ZkaGMxRXkyUzBQZHd4S2Z1eW1sS2ZYMVhqdlB1TnNoR2ppRjBLakQ0WlNweWZvbkttNVpGbW9scTF6dnk3NDE4cng?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-05-30T17:18:00+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 17:18:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "75bdb84d054de7b59e81218499dc74904a08540e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.7,
+      "reason": "Pentagon chief described talks as productive but threatened renewed strikes, a clear sign of rising tensions.",
+      "event_key": "pentagon threatens renewed strikes"
+    }
+  },
+  {
+    "title": "Iran negotiates with one hand and fires missiles with the other - Washington Examiner",
+    "summary": "Iran negotiates with one hand and fires missiles with the other Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWRQY21mc0lUMjRVcl91T3VaWVNxalh3VmtkZG9JVVFZRWhyR2x0WVphU2NGM3g3X2laOVhPVnFQUGw5OTZZSHJ0RHEyUmFFTElydXpyNm1FRTRmZ2RiWnRsTmZjckhOQTF0ZWN1SjQ1SjlRSi1Wbm1LYUI2YTVDaVhHUDRkSlhxMklOVmExaVZPRDFvQUhKczY2c2hCZ28?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-05-30T16:13:00+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 16:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "16b86807c25215d5624a8c902dbaaf650b8d2e1a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Public warning that US is ready to strike Iran if no deal, a direct threat raising tensions.",
-      "event_key": "us ready to strike iran statement"
+      "reason": "Iran conducting missile strikes while engaging in talks.",
+      "event_key": "iran missile strikes during talks"
     }
   },
   {
-    "title": "Truce at Risk: Iranian Ballistic Missile Hits US Base in Kuwait Amid Peace Talks - Kyiv Post",
-    "summary": "Truce at Risk: Iranian Ballistic Missile Hits US Base in Kuwait Amid Peace Talks Kyiv Post",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdUx2c0tGWGRyNFFKN3AtcEFkbkdFWjJSV2JpdGZlTHA1X3dTNGhYMzRFSURtWnJ3cEV2bkg1d1JqZ2xoS0JOV1RoWQ?oc=5",
-    "source": "Kyiv Post",
-    "published_at": "2026-05-30T13:36:10+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 13:36:10 GMT",
+    "title": "Americans reportedly injured in Iranian missile strike in Kuwait — as Trump weighs peace proposal - New York Post",
+    "summary": "Americans reportedly injured in Iranian missile strike in Kuwait — as Trump weighs peace proposal New York Post",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1k0Ri1XZlpKamRLdmU2NDU0eFppX0toc3puaHF2SEhPUmU1Vm5RWlFLM1JoS19zM0Nza0xWM1dhVnNMWDF1a0cxNkQ2V1M5OGRLY3R4UURBUnA4dURpSUpXZ1F1RkN4czJjMWVKdV9rM3RGM2MxUE5LNm13dmJsR0UwZEhuNzB5cVpWN2JUcll2UnhNblI3WHg2SFgxNDBjbm00SzkwTTB0RHFRYlFkU1Z0TUdMZHk4dUs2OU5tSzhVNWdYaUJkZ2pn?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-05-30T18:31:39+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 18:31:39 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "efb190180034c1bc6e9e1dcb9c8a37406cdac16f",
+    "article_id": "72249a5c332da90d07ca3af90eb58d71905badfc",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Iranian ballistic missile struck a US base in Kuwait during peace talks — a direct military attack threatening the truce.",
-      "event_key": "iran ballistic missile hits us base kuwait"
+      "strength": 0.85,
+      "reason": "Reports of an Iranian missile strike in Kuwait injuring Americans — a direct military attack.",
+      "event_key": "iran missile strike kuwait us injuries"
     }
   },
   {
-    "title": "Report: Chinese-made missile likely downed US F-15 in Iran - ynetnews",
-    "summary": "Report: Chinese-made missile likely downed US F-15 in Iran ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TSW5zLS00aTdUeVhsd0YtSzVpZTJ5emw0bGtHc0pGOEplNUZHeWJlRG1hSFFFUUt0c2o0bXJGNkdTNUlDMC02M1lWbXFkOGNFWnVXVVNNUQ?oc=5",
-    "source": "ynetnews",
-    "published_at": "2026-05-30T15:02:00+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 15:02:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f43dddf08102194718ffa4640eecc6120e877c32",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Report describes a missile likely downing a US F-15 in Iran — a direct military strike incident.",
-      "event_key": "us f15 downed by missile in iran"
-    }
-  },
-  {
-    "title": "US keeps Iran strike option open as peace breakthrough remains elusive - India Today",
-    "summary": "US keeps Iran strike option open as peace breakthrough remains elusive India Today",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd044LVhrVXRGdC1henVxc0VKT0xfTkJtdmhveElMb2V3a2tCNFZVYmxtXzVvZUN1TFZpRzJOc0ZoODdfVzhKakt0b0tmQ0NvMTB5NG9LTVdubEVoYndDbHVRcE8weFc1eE9rVEtUY3BRTGpGWnBIX2drZ1hPd05BME5SRWlvaDFlSEw3NFZ5andMZWhGZk1SM3Vya3FkYmJUZ0NHTTh6QjY0Ulg3YlhrNnM1ZzhVUFAwTnE0VC1VVnBSUi1IS05vMVBRMUJmTTJmLWMzYVROUkLSAd4BQVVfeXFMTTkyN3A4UzUtM1NvY1lKT1NULWRCTmZsRlp4VTBMQ0xEUlNHRFg4RVJCOTRFdmdSajc4ZHJwNFprUGltNm5BRkpDOVBneDE2TlhzVWlYREpfMGtla0dFejZ3cTVjS2dHcGVwNnpUVWJNb1E1UFpUcXpXdm04b0lxSWdMUjFteV8yLVEwM2tVUHk2U2c3M1RhUm1DWWs5Q2RxdFZUMzlIQVRLOGRoX2tscmV3eGN5bTFuekJTZFBkWWFfamxYSzA2LTgtM3N4eXZteFlobWk1R2pydU93Z1d3?oc=5",
-    "source": "India Today",
-    "published_at": "2026-05-30T14:05:04+00:00",
-    "raw_pub_date": "Sat, 30 May 2026 14:05:04 GMT",
+    "title": "US warns Iran of military action if peace plan conditions rejected - Crypto Briefing",
+    "summary": "US warns Iran of military action if peace plan conditions rejected Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTU2QlJDVG1YUDFYY3dPeVBob3ZweTlNZVFYQWxCV0M0UjVLamlXcXdENDEzLUVRMnNBUHRSWEd0WTZ1U3FSTlBaOU43SWFTc0xEcDlyV0V6T1VQOGxjTlJPVEFFQndoQWhTNkRrMGtGZF8yMzBMZ0VJdkVZYlVUVXExMkpINVh6azNDY3dwVlNsZ0Y1MzdwM253?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-30T17:08:46+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 17:08:46 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "94f8cfd0902ce49c80e774945ef319ebf4d570df",
+    "article_id": "7103318727990b376de18e72fb80fc11815c7545",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US retaining strike option and lack of peace breakthrough indicates rising tensions and threat posture.",
-      "event_key": "us keeps strike option open"
+      "reason": "US warned Iran it may use military force if it rejects peace-plan conditions, a threatening escalation.",
+      "event_key": "us warns iran military action"
+    }
+  },
+  {
+    "title": "Naval mine discovery heightens US-Iran tensions in Strait of Hormuz - Crypto Briefing",
+    "summary": "Naval mine discovery heightens US-Iran tensions in Strait of Hormuz Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2k3NUhhcmdjQzROWGUybDJzSlZoSXMxQ1BtOTRiM1F2emNuaTBfV2Q2aVA0MmVMTzB4eDJIRWozVjl6RG4tZ1Z2VDN5dUVYVEFWT0pkQjBIX3M1Qlg2X0p1TEhhcHF0UzE5X3hMVFVkbk1zeEdFMGZqSllhczhuTWtvTTVRRkJpYkVWZHVqcGhwQUNrT2NqRE1ENA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-30T17:08:46+00:00",
+    "raw_pub_date": "Sat, 30 May 2026 17:08:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b98ec66980294aa3c0c811c2ad311fe0524bb613",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Naval mine discovery raises US–Iran tensions, signaling an escalatory security threat in the Strait of Hormuz.",
+      "event_key": "strait of hormuz mine discovery"
     }
   }
 ]
