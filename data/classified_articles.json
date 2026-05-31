@@ -1,36 +1,70 @@
 [
   {
-    "title": "Iran’s reopened underground missile sites show limits of US bombing plan - CNN",
-    "summary": "Iran’s reopened underground missile sites show limits of US bombing plan CNN",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTJHUzFORjc0RFEzRFJsWE9BYWw3a3RwdlFDQmdIdldkejRiVWRCWlB5UVR1RUdaYXdZYmFseUdxdjVfWG0zUGgxcWZ6Y20zNTFBYldZUXFWWVNhSGJ5ODJpZjVzVFQ1eW1RczBwSUFGRWNtS0ZXZzU2ZTBwQTJuYUlEN05fYTQ?oc=5",
-    "source": "CNN",
-    "published_at": "2026-05-31T10:00:09+00:00",
-    "raw_pub_date": "Sun, 31 May 2026 10:00:09 GMT",
+    "title": "Iran latest: US fires missile at cargo ship for trying to breach Iranian port blockade - LiveNOW from FOX",
+    "summary": "Iran latest: US fires missile at cargo ship for trying to breach Iranian port blockade LiveNOW from FOX",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Sc18zdTBfVnZHcWRub1lIUVRYUlk1MTNuam9qME5iSXBBOU1JMVZlZG1fVEduMXBCcDkwOEpJWXZVemJOaHU3Vm5sMm1hUE5XVm5VdWxSV3JvdHNhYUZR0gFkQVVfeXFMT25sSFF4MmVQczlLaVctQ3RUM1ZDd0dON0F0Zi1Cd2MxcFVlbjdkWTd4MDdVclZyNG52VE1ObkxPMkoxaENRaFZvX3hWejhacG1YMTFzTFlqVXdrSHBxLWJzcHhzZg?oc=5",
+    "source": "LiveNOW from FOX",
+    "published_at": "2026-05-31T12:15:05+00:00",
+    "raw_pub_date": "Sun, 31 May 2026 12:15:05 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "441361a9f4f7c29c1c6c8a660c8dfb96fb7c1f5f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "Iran reopened underground missile sites, signaling military mobilization and undermining US bombing plan.",
-      "event_key": "iran reopens underground missile sites"
-    }
-  },
-  {
-    "title": "Iran Shoots Down American MQ-1 Drone, Issues Fresh Warning to Washington - Palestine Chronicle",
-    "summary": "Iran Shoots Down American MQ-1 Drone, Issues Fresh Warning to Washington Palestine Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnBINklkU05DMEpzandBX09JWGIxd2NUV0RDTUlWUm03bjA4WWZpcHhTMTNwMmVMR0lvLW9nQk5KTFJxcEVBTE9SLTdzQUREZFk1TDB3RExBbmdLX3p4SU9QODBJeThVXzl1TWRGdEFFeHBiTG05NS1MN2hWWUZVcmNYQ2pvU3BrZkpXay0ycFhwejBleV9ZRk0xU0RFV0YzVjU3SW1ud0lYYWc?oc=5",
-    "source": "Palestine Chronicle",
-    "published_at": "2026-05-31T09:33:45+00:00",
-    "raw_pub_date": "Sun, 31 May 2026 09:33:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "24610979436f0f465cb344bca940c8fc761618a7",
+    "article_id": "8cfb1940ecef2a7f1fe231de005ac7e4bc70d2ac",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran shot down a US MQ-1 drone and issued a warning—direct military action against US assets.",
-      "event_key": "iran shoots down us mq1 drone"
+      "reason": "US launched a missile at a cargo ship attempting to breach an Iranian blockade.",
+      "event_key": "us missile strike on cargo ship near iran"
+    }
+  },
+  {
+    "title": "U.S. forces use Hellfire missile to stop ship sailing to Iran; Tehran claims to shoot down drone - Washington Times",
+    "summary": "U.S. forces use Hellfire missile to stop ship sailing to Iran; Tehran claims to shoot down drone Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUE9aZGVMLVprSHJPaEp4UzJzQjJnZTRfZTJ5c2VvQzdlTFp1WmF5cjZtYVdTb3E1TmhSSXR3YWRFWWF2UHJYckN4N1RWVXIxMV84Qm5RZUZ2anNuY1ByNWZuQjZfUXlYQTdXWWpDRmdWdUU0UUtvWVduanc5Qy0td29ma1F4aGllMWMzZXJKMk9WUUpiQmhOMFc2MFZGOTJIZ2cwamVyR1NBaUtva3dsY1RUS2taLWZr?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-05-31T12:50:07+00:00",
+    "raw_pub_date": "Sun, 31 May 2026 12:50:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d8bdd5a947df5ef03608d7aaf5cd39a5929a40bd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US used Hellfire missile to stop a ship and Iran claims to have shot down a drone — direct military actions.",
+      "event_key": "us hellfire ship interdiction iran drone shotdown"
+    }
+  },
+  {
+    "title": "World Bank, WTO, IMF, IEA warn US-Iran war threatens developing nations - The ICIR",
+    "summary": "World Bank, WTO, IMF, IEA warn US-Iran war threatens developing nations The ICIR",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmxjN291Q1RRV3htbWRpY3E1TnJKanpCX05TeUZ5ZVgxUVRud2twUF9oVnlnSmoxTFBRUDFGbUdPSG55Tkt3Um12Y2xXckYzcFdibDl1RjFoWGZhLXZrcHZiZmpiY0Q3MTJBRUdERmdrOXg0c0t5T21waDdvR2IyNTBscm9Zd0hQVlpTR0x1bFpZTDBCMGktTTBPUnJCZw?oc=5",
+    "source": "The ICIR",
+    "published_at": "2026-05-31T11:12:39+00:00",
+    "raw_pub_date": "Sun, 31 May 2026 11:12:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f173b096e22c87999959507bccec684c05d0080e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Major institutions warn a US-Iran war would threaten developing nations, signaling concern over escalating conflict.",
+      "event_key": "intl warns us iran war"
+    }
+  },
+  {
+    "title": "US-Iran peace deal at risk? Why Tehran is ‘digging out’ its hidden missile arsenal despite ceasefire - The Indian Express",
+    "summary": "US-Iran peace deal at risk? Why Tehran is ‘digging out’ its hidden missile arsenal despite ceasefire The Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzhqQ2NGTmowcFpMZFFLd3h4UFRGLVBQYW1nRkl4dHE0ZVpzTjdtaEZMZUNGS0pSX2g0WlFNRzRLbGlBTWxNVlVyTzhUQTNoOTB3UVpsUVJFa2UwWlpFeEp2YVJlekM0N1ZLTFZfOEhDOWlvSmtqVVZFaklJbUxZMmktWmoybGpDTnMwbTJaNXg0bFg5b1FjLUxQd0RWZVFQWE10N0NjM3JheTVGSXdqNkdndDF4cG9lQnJDTdIBwwFBVV95cUxObTJTRDh0T2dxajdTcEtMWHB4UzVHbXJiTnp2eGpRTk9jUHRpYzltUm5vSDBEM05qdEZoVFBkQk1sVlEwWUpiQUhidzNxcTBHTVc4RGVmT29zZXhNRFdyTmhZVzVlRGh2YkJUclRkZEVGVC1zLWpnemlpakt4Uk9MLUJobjV3dlI0MnpMRzNIS2R3LVdWMzhhUlJzT1V1Mm9qaTNkUUtwUWJJTFhxSFZCN3NGWWFIUjNvbXZuUHFURjFiQVE?oc=5",
+    "source": "The Indian Express",
+    "published_at": "2026-05-31T13:33:38+00:00",
+    "raw_pub_date": "Sun, 31 May 2026 13:33:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0d5929535403cf3f66be508025b66e74522d9ebe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran unearthing hidden missile arsenal despite ceasefire, indicating mobilization and rising tensions that threaten the peace deal.",
+      "event_key": "iran rearming during ceasefire"
     }
   }
 ]

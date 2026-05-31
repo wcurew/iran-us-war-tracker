@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-05-31T10:54:58+00:00",
+  "started_at_utc": "2026-05-31T13:40:58+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-05-31T08:41:56.614615+00:00",
-  "window_end_utc": "2026-05-31T10:54:58.201445+00:00",
+  "window_start_utc": "2026-05-31T10:54:58.201445+00:00",
+  "window_end_utc": "2026-05-31T13:40:58.687167+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 3,
-    "keyword_filtered": 2,
-    "deduped": 2,
-    "after_seen_filter": 2,
-    "classified": 2
+    "time_filtered": 9,
+    "keyword_filtered": 4,
+    "deduped": 4,
+    "after_seen_filter": 4,
+    "classified": 4
   },
-  "finished_at_utc": "2026-05-31T10:55:18+00:00",
+  "finished_at_utc": "2026-05-31T13:41:32+00:00",
   "summary": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
 }
