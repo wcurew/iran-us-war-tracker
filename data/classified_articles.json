@@ -1,121 +1,393 @@
 [
   {
-    "title": "'False and erroneous': President Trump refutes claims of halted U.S.-Iran talks - KCRA",
-    "summary": "'False and erroneous': President Trump refutes claims of halted U.S.-Iran talks KCRA",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUEItaEJtY0J6aTJveHh6TXo4R2JVU3VSQ2Ixb0h4bE82dXNoSW55YWlVMUozSFNic016V0lPUmhBaFhQaHhCU25hbnpFX1M0T1ZzWXl1bUdwXzQ3eEZ5VjNpNVNJdUlncTNqaGJZaXdHWE16bW9qcEZEaG1heHk1VEJpT0VyVnhzekE?oc=5",
-    "source": "KCRA",
-    "published_at": "2026-06-02T21:21:00+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 21:21:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "95bca295895ac3e1b038d46abb491366760655e7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "President Trump denies that U.S.-Iran talks have stopped, indicating ongoing diplomatic engagement.",
-      "event_key": "trump denies us iran talks halted"
-    }
-  },
-  {
-    "title": "US-Iran talks appear stalled as Trump claims otherwise - DW.com",
-    "summary": "US-Iran talks appear stalled as Trump claims otherwise DW.com",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFFZOTFKSWVDZUdDOU1jRlc2UHk4OEhKbG9TQVBFVXAzZEc3RXhzT3hhdDBPWXJ4NjRrMERyd0p3VTNFTFM4ZThHU0RmaVBUSlZaakRCaWlpNGFXMEhPSHRwWWVnWnNTcVBSbmNfY3FUVGcydjRjZERZc3lnY2s0UEhSeGJaamd6a2d1TWNTUjFjLTZB?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-06-02T21:33:45+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 21:33:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "becfd05909d330174a896942469319a81b27cfee",
+    "title": "U.S., Iran intensify attacks as ceasefire frays, peace talks stall - CNBC",
+    "summary": "U.S., Iran intensify attacks as ceasefire frays, peace talks stall CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2dzWmEySFlHdWt0TF9VS1ItaV9JS2I5Qi1lMUk4eWFiRkI3S29kdHVnWGJWeEZJTk1DS194NlBRYkVfOFMxU0NNX2lqREZxeXhsWFNYTW8xWTdjaDJ3c0pTQ2V3OExSb0VJcUFpMDVjaW02eEpEUmVhd0M5X2lwSmRKSF9tWDln0gGOAUFVX3lxTE53RnhwajVjT3ZKejl6d1ZRZUJZYXR3elIxUFB3a3JfNV9fS3ZQUlROQlBoYjdWSHViZzNJWnZiaUNMYVZnMmxQdE5kR1dPWFdkN1pISlRQUFVobG5tN2NuNmp2SEcxZUx4enc1Nm02b3ZObFRqczFyM3VlNTQ3YWhZMHVIdjB1VzdsUE5vQ0E?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-06-03T00:50:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 00:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dedeeda54bbe3a06156a6eb12ab751c8db770d0f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Diplomatic talks are reported stalled, indicating a breakdown in dialogue and rising tensions.",
-      "event_key": "us iran talks stalled"
+      "strength": 0.8,
+      "reason": "Attacks intensify, ceasefire breaking and talks stalling indicate rising tensions and escalation between US and Iran.",
+      "event_key": "us iran attacks intensify ceasefire frays"
     }
   },
   {
-    "title": "US says it fired missile at Iran-bound oil tanker - BBC",
-    "summary": "US says it fired missile at Iran-bound oil tanker BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQlY0SWk3SW1lWWlyN19nN0VHNklGQ2xvVm04LU8zajZpWEZaOXVaWTk3YmZpRmFLYWUwQVc3T3pMMXc1dWdVZkdsVzVVajUzZllhN29aYVJJdw?oc=5",
-    "source": "BBC",
-    "published_at": "2026-06-02T21:49:00+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 21:49:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6ea859627b4cbe77a12e3e3a61f9a4ac6f0a0b4b",
+    "title": "U.S. conducts more \"self-defense strikes\" after shooting down Iranian missiles, in latest test of ceasefire - CBS News",
+    "summary": "U.S. conducts more \"self-defense strikes\" after shooting down Iranian missiles, in latest test of ceasefire CBS News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0NDZ0NpMnRwbkZnOHVzM0czVTdnY3lGQ2swNmhoaUEwbjFsYnlaZHZ4NmZoMDFqMXRiWVI2VDItUGMxanZhSzBEZ2RhZl84aTlrbng0WF9CQkZqMVRJWmM2TVNER1IweV9yNTFXNlpoUU90RlR1clJBaDA2Vk5ET2ltcG5lUFZDRDQ0bg?oc=5",
+    "source": "CBS News",
+    "published_at": "2026-06-02T23:56:00+00:00",
+    "raw_pub_date": "Tue, 02 Jun 2026 23:56:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "993fb16c61b08982008ad9fcf6aece5ddace3b22",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US fired a missile at an oil tanker bound for Iran — a direct U.S. military strike.",
-      "event_key": "us missile strike iran bound tanker"
+      "reason": "US carried out direct 'self-defense' strikes after shooting down Iranian missiles, indicating active military retaliation.",
+      "event_key": "us self defense strikes after iranian missiles"
     }
   },
   {
-    "title": "US disables tanker bound for Iran using Hellfire missile: CENTCOM - WJAR",
-    "summary": "US disables tanker bound for Iran using Hellfire missile: CENTCOM WJAR",
-    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTGtOLUIzUTFvdlVva1N5cVBpQl9UeENXOUxDV0MzMGhndFJJcTcxdVdRQlJwTGlZU2UxdFdCS3dKdzVTd2o4LWY1ZkdEZ1JKNHpfczdwdUZ0Qm5XSGVjc0FEWWpFRWxYOHZQQWVVZjFtcWhTMjBDWVM3S3B4MmNxcVJEeFEzQWk2VFNHdGpLUjVZU0J6T3hrZTFzLU5SOGx2ZVA1eFlGR0RKM2FzZnBGbFBSbHdSWVQtQzZsU2dUZFJjeXJsdzViQXY3c29OLU9zcWVqMlpmTFlRY3pGYnZJVkJXaDZmdzE1X0xXWmxnR2ZyazBXbmZYZzY4WU5kRjd2RG1NWFVFblhycTZxbmJicko2VUlXcmdmT3BCTmhMeWZaRGMzQlhRa1B0UXFzbFNGbHhFRFpnQXZndWp3OFlQREZPX0lTUVBqM3NHX0FxV2tQSmNTelA4RVVVamM5eUx4WXJOcFR3REEyakY1U2lheA?oc=5",
-    "source": "WJAR",
-    "published_at": "2026-06-02T21:56:15+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 21:56:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dc3fef31af8c0c89677c206bd07cf5c85f2aa533",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US fired a Hellfire missile to disable a tanker bound for Iran, a direct military strike.",
-      "event_key": "us hellfire disables tanker bound for iran"
-    }
-  },
-  {
-    "title": "U.S. Disables an Iran-Linked Tanker With a Hellfire Missile - The Maritime Executive",
-    "summary": "U.S. Disables an Iran-Linked Tanker With a Hellfire Missile The Maritime Executive",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVp3WlpXbjdtbHk1blU0RlBJbXQtWWhKV2VxcUFqZnZ5azhnM241Vy0wRU0wTllPZ28xWFB1MEVTQ0l3c016eklEYkRCeGdrVzJ5WlpQWWtXRnJtei1uNFhTODMwNTdLZXI4SmViUkR1eXhTUHdFUUlsbnFkdXduWEZXTWxoVFc2b2pOWnlMNkJRQUdsMksxSF9ERTRwUHk4ZW5EUw?oc=5",
-    "source": "The Maritime Executive",
-    "published_at": "2026-06-02T22:07:47+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 22:07:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "481798565ddf4e0d899fe79083cc66612cbaf0a9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "U.S. conducted a direct military strike disabling an Iran-linked tanker with a Hellfire missile.",
-      "event_key": "us strike iran linked tanker"
-    }
-  },
-  {
-    "title": "US Says It Fired Hellfire Missile at Oil Tanker Sailing Toward Iranian Port - Newsweek",
-    "summary": "US Says It Fired Hellfire Missile at Oil Tanker Sailing Toward Iranian Port Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjFvV25FNHgyQl9IOE14UjBGcW9PaGlRYXotYW4yZEJtRUVNcEN2R2d6SloyWGtOeVJTdmRxTDNJS1JmaVNtZ1pvcHpONGhiTVFuNjV4cXhZeUJITmNLOXNzdFBYM1FhTl91OUZ5WHhLc2hINnNLN3pTLWZfalhFNTBsczViSXZYNmhja3dNTnVJOXBBcF85bU0wN283aGM?oc=5",
-    "source": "Newsweek",
-    "published_at": "2026-06-02T22:05:00+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 22:05:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "30cd533c7c54fd11b55296125b61b64b8ea2897a",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US fired a Hellfire missile at an oil tanker en route to an Iranian port — a direct US military strike.",
-      "event_key": "us hellfire strike oil tanker toward iran"
-    }
-  },
-  {
-    "title": "US fires Hellfire missile at tanker bound for Iran, sixth disabled under blockade - Türkiye Today",
-    "summary": "US fires Hellfire missile at tanker bound for Iran, sixth disabled under blockade Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHM1OTU1dlBJdjBOZk9makp6cTY3Q3ZDVXpwTG5SRXprZXlqTU5jaEM0X3VQSHEwRUFTc0lxSjhUVk1MMUs0UmpKbFpNejRxLTBGTHdpWUtPdlY4NzNkZEZFTmZYV3RoUHpzR0FkLTdydkt6WEUta2tta3VYZm9MSmo5RGlmRU9WdWRveDdYRjJmV0pyYmw4SUZkZmM5OW5RRXE0ZjFQa3dGYTM0UUdkZGt1R2NmMDAxWjcxSk9YLXdmUQ?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-06-02T21:17:13+00:00",
-    "raw_pub_date": "Tue, 02 Jun 2026 21:17:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ab2612dae050eccbe3634885a5c66dcab06c2b64",
+    "title": "US and Iran launch fresh strikes amid stalled ceasefire talks - The Guardian",
+    "summary": "US and Iran launch fresh strikes amid stalled ceasefire talks The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDM3X2JqVkh5Sm5LbzdhMi1CTEFmdjhSdmE1c0VaVzBwM0cxN2dabzJfRERKTkpyNnBSVFJrdk5wTzlDSEw2dGRFbnVoekZ1R2J3TnZVaGxneTVuQzRMR1hHUEhkczZFQ2hZUTJHMnJEbEhxZGpYaHZzUmNxUFo5dHBHSVF1NU1yQm0wUS1obw?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-06-02T23:36:00+00:00",
+    "raw_pub_date": "Tue, 02 Jun 2026 23:36:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3a1c32f08ac22d39b34c0a4753f36cdad6dd0203",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "US directly fired a Hellfire missile disabling a tanker bound for Iran — a direct military strike.",
-      "event_key": "us hellfire attack on tanker bound for iran"
+      "reason": "Both the US and Iran conducted direct strikes amid stalled ceasefire talks.",
+      "event_key": "us iran fresh strikes during stalled ceasefire talks"
+    }
+  },
+  {
+    "title": "U.S., Iran Trade Heavy Fire in Persian Gulf, Testing Fragile Ceasefire - WSJ",
+    "summary": "U.S., Iran Trade Heavy Fire in Persian Gulf, Testing Fragile Ceasefire WSJ",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWh2bGkwOXlaRUItSlZXcHVKSTdTemdFRklsenoyNnIxd0ZSZzhyR3ppelFrYVliM0JBcVNvVE81LWJTYkYwNVk2VEdadFBRcU9sbnBHZGFNMU9jMlhucnJaQ2I1NVdqdUowaGc1QnB5dFVSTkxtOHRtaUlRMDRRTnVQejI5TEI1cVNhQUhSUFJfX0U0dVZTWXdVZ3N3NUJKZDVub2dkdUhMdVlWWDRlcjlPSF8?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-06-03T02:51:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 02:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4e5a41fb5ec5947eb456009a891dd0cea34bcb9a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct heavy exchange of fire between U.S. and Iran in the Persian Gulf testing a fragile ceasefire.",
+      "event_key": "us iran persian gulf exchange fire"
+    }
+  },
+  {
+    "title": "Trump news at a glance: US and Iran exchange fresh strikes - The Guardian",
+    "summary": "Trump news at a glance: US and Iran exchange fresh strikes The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTlmWFMwR0l4TXdRVDVnTTVPc01KTklnX3RCWjEwUE9reHE5WmRXSzRhRWQzbUxiRG1wV3dQRDZ2clQ1WWg5d3pHTS1FS0daRk9rTERzY3BqakZadmd0emk1TzBKcThKY3hMV2lPaW1iaEt5RGNRUDVKUkFfWTlKUzV5S0JWdw?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-06-03T01:41:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 01:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "646ba0b34899c6ce7fb8e2fb3be844660acf61e3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct exchange of military strikes between the US and Iran.",
+      "event_key": "us iran strike exchange"
+    }
+  },
+  {
+    "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks - AP News",
+    "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks AP News",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1BXWkhqeGRkRDRmQURFZW02aWM1NlZyTHl6Q3hIUjhRUUdaMV85bUpCbUl5bjREd1Flbk9YNE9ndldSSExSUkw2M3IzdkpreFRMTnBLaUFWdkRxSVlOY1d3TVN1bFZTZTd0ZVV5UTlsQ1Q3bDI2a3gteXBPdmtMY2J4MmNfdGFtZFg3UXZwU0wxN0VG?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-03T02:17:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 02:17:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cf1a60c8710e9041212ee0604b4cf53105227855",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched missiles and the US conducted a strike on an Iranian facility following faltering peace talks.",
+      "event_key": "iran missiles us strike after failed talks"
+    }
+  },
+  {
+    "title": "U.S. and Iran in fresh clashes as peace talks stall - Axios",
+    "summary": "U.S. and Iran in fresh clashes as peace talks stall Axios",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0VGQkt0QVYwa3E2VTFuYng3VE9rWXM0R3hXRkg2cFhBazNTOVFaOUNLRTlqQUljVFFzN1NqeEhfT3lNTDhNNmtyUnFiU1ppcU50ZzRTYjNLSFVIclk0RXR4RUFiMTZtdHE2V3VZSzU4a1RoRGJlQ3o1b3praWdqeWtXQVpvSllfcW02cW1PY09XeWc?oc=5",
+    "source": "Axios",
+    "published_at": "2026-06-03T01:12:54+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 01:12:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "32f2479923dde9f7fe0e4d9d0d9317a622ee30c5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Fresh clashes amid stalled peace talks indicate rising tensions and breakdown of diplomacy.",
+      "event_key": "us iran clashes talks stall"
+    }
+  },
+  {
+    "title": "Oil climbs as U.S.-Iran trade strikes while Trump says negotiations with Tehran underway - CNBC",
+    "summary": "Oil climbs as U.S.-Iran trade strikes while Trump says negotiations with Tehran underway CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGpCWGpzcm1XQl93T0dNSVYtUU9zSjByTGFEWGRmZGpHMjhleXZSMk5WOFR6YUQ0ZC1LUXhfTTY4M1hvclEzaWNaVldITWZ1Tkc5THFST211ZU5PMktxNlA1TEFsLUptNUJrZVBEc2I2YWZ2ZEt5MVE1d3EzaDRFLTRoTWxqTDBPSkhiY0hfSW9JX0U0Y2xhMEZWRTZhamhreUHSAacBQVVfeXFMUFNXVWVjYkQzLVNjLXg4OC1rb244eWRBV2JiOWJOYnV1MndzU200MmZWNk9ONEVpeUNPWkhWX1B2NXJ2NWxYNk1UVkhHNzJSNlk5akpaYVZTaFFlc1pXQkQ3MnFjWkRVNFlsRTJCM2ExQVVrMEdzVno3VktWOGpOWElpSEZzaDFoS3piWWtZQndrXzFxcUpyMjFNODdCZEdmV19YMDhXZUE?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-06-03T00:50:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 00:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c6c7720dcf85f26ed1068dbb476120da63185fdd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Article reports Trump saying negotiations with Tehran are underway, indicating active diplomatic talks.",
+      "event_key": "trump negotiations with iran"
+    }
+  },
+  {
+    "title": "Iran war: US and Iran trade fire amid stalled talks - DW.com",
+    "summary": "Iran war: US and Iran trade fire amid stalled talks DW.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV2dreDQ3bGczc2REVDJaMXlxczZ1WlVmTVBFVDcyN3hGMWtzcS1ha2ItSWdrRmRwSVdHSU1ORjBCcDViTXR5LXl1bFBPZy01dHhvU1JSU2FlMWxiQ0ktcWpGQm1icFNmSmRfSVg4TjlJUHJZeGJiTHZ5X1Zxb0oxLXBoeHFrc2Z0R2dHSnlCRQ?oc=5",
+    "source": "DW.com",
+    "published_at": "2026-06-03T01:37:44+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 01:37:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a4238277a74ea7d86f7b7be56b05030c089faaa",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Article reports US and Iran exchanging fire—direct military attacks amid stalled negotiations.",
+      "event_key": "us iran exchange fire stalled talks"
+    }
+  },
+  {
+    "title": "'False And Erroneous': Trump Rejects Reports Of Breakdown In US-Iran Peace Deal Talks - NDTV Profit",
+    "summary": "'False And Erroneous': Trump Rejects Reports Of Breakdown In US-Iran Peace Deal Talks NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3EyeUs4SlBUeWsyMmx3UlpBUUd1RURkN3BWQWlFS25VQlpXeHAtMEtrME1JWC1TTUR1MnRmbndWQUJvQzQtNVNZR3gzWFRyaGJtVDJ3Y1RNODhEX3lhaWZTRDlCWEhWMXFWN3lQSTc5TFUtYmJ0RUMzTzhiOEt2U01uaWdiNG5FUTBJNW9oVzZURXdfM0Y5cDhpZUN0cjdkQy1RaTVpNTRwV3NU?oc=5",
+    "source": "NDTV Profit",
+    "published_at": "2026-06-03T03:25:33+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 03:25:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "23072b3b54c18d86e9a4810ce368f315fe4df172",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Trump denies reports of talks breaking down, indicating ongoing diplomatic negotiations over a US-Iran peace deal.",
+      "event_key": "trump denies breakdown in peace talks"
+    }
+  },
+  {
+    "title": "Iran says attack on US bases in Kuwait launched after strike on Qeshm Island - Anadolu Ajansı",
+    "summary": "Iran says attack on US bases in Kuwait launched after strike on Qeshm Island Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWdFdjAzY253bmsyOE4tb2JiRFFYRVNKTlE2Qnp5VERjUzhsU0ZZSFBCazRJa3lVeFpUQXI2UjRpNWREOHlmN3NPTGYxYzczNlVqSjlFUi1UT0tYZlZrMmRIeXdSSXI1eVhxZVdQd2IzMFR2SWQybWZWa1NfZVJIQVMxbTVKNzhBVC1iWUZTMTdtcVUyZEphYlpEOXJhZWdQYnY0RkFIbEc2MkFXaFpEN3VDMklld3BuY0x4RS1FSTVjMGpCbnNF?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-03T00:28:12+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 00:28:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "da735571c1a9d0f98de4a6198cb6cedbc854113d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran reports launching an attack on US bases in Kuwait in retaliation for a strike on Qeshm Island.",
+      "event_key": "iran attack us bases kuwait after qeshm strike"
+    }
+  },
+  {
+    "title": "Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports - Reuters",
+    "summary": "Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUg2VkpmQmZKcDFqQlp0LW11a0FuTVQxTW9pR3AzM1pnMThoWGNMTE03QUlwSmw4QnlrTFphcVJueXpSMGJUZ0hjaEdHM2lESHNrQUhmczNxN3BhZlNsRlFnZHJpdlZidWljRVZ0UGJIZy13ZW1oYV8zVW1sTEVLU1ZPWl81Ynd6Y0tzRkRKU2tRcHFObUNqWFF3dEVhMENrVVZQWmstYVVQVHQtQ1ptZ1NTVmdwdTFlc0lrLTVHMkZZSGJTR2pF?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-03T00:11:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 00:11:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c7db3d399949e43463b0b5e8ac25f62ed516456d",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "IRGC carried out a direct attack on US Fifth Fleet headquarters and an airbase.",
+      "event_key": "irgc attack us fifth fleet hq airbase"
+    }
+  },
+  {
+    "title": "Iran's Revolutionary Guards claim attacks on Bahrain and Kuwait, say they targeted US forces - The Times of Israel",
+    "summary": "Iran's Revolutionary Guards claim attacks on Bahrain and Kuwait, say they targeted US forces The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTJ0ZmJIQ0VaY09BWEkzdk43bGMycFQyckxxNGZ5X0M4RFZHRDZlRG5VNVozb29tMndQYTI0d2NuNnFBQVdrSTJnU1lnNVp6WUtRcU9iamRmbG9zVTBEbXJkXzV4ZkxMUzVDZ1pZSmNCMFIwV2RHN3lJWjFaa3ZhQWdSY01VblRqdEt0a3UzdE9VTFpvLUpDNW9uTHk5X2k4czNJd0VwRm12VTNWSGxwT0IxMFVOSFRHcTZkbzl4aW5CNEdJbVFmQjlwcVJOLWVmMFE?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-06-03T00:25:22+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 00:25:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "76d6378934a09f4b39cacbb7cea5ba7f23a0a659",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "IRG claims to have carried out attacks targeting US forces in Bahrain and Kuwait, indicating direct strikes.",
+      "event_key": "irg attacks bahrain kuwait target us forces"
+    }
+  },
+  {
+    "title": "Iran’s swift retaliatory strikes against US bases sends a clear message - Crescent International",
+    "summary": "Iran’s swift retaliatory strikes against US bases sends a clear message Crescent International",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHdPT3liQXhjdGVKTHRJSDRTcVVqTVFBWGotWC14cXVxbDhPZG9Db3dKSEJsWnAtaWJ6M2hITWFFTkViZTFZR1pTcy1uZUw1aW9ydDR3MlpCcmlRMU1ONEYwcEM4WFRlRlBzX0ZrbExpTW9QVDg4d1ZWRVBVcTlSSDZjY3hwQ0hRUmk3UFN1cGF4SG9GX3dyTWdRZkRFR0ZKWE50cVNkbWkxQ3g3UjJnTllPYko?oc=5",
+    "source": "Crescent International",
+    "published_at": "2026-06-03T03:01:27+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 03:01:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ddaa1e1ce2dccd2ab8e8da07c28554398baf2f68",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Article reports direct Iranian retaliatory strikes on US bases, i.e., immediate military attacks.",
+      "event_key": "iran retaliatory strikes on us bases"
+    }
+  },
+  {
+    "title": "U.S. military says it has ‘defeated’ Iran missile and drone attacks in Gulf - The Japan Times",
+    "summary": "U.S. military says it has ‘defeated’ Iran missile and drone attacks in Gulf The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGZTeUdNa2UtZllYUEtYRjM4NHM4SUxiazNCTzhkYTNkaVdDZF9pNWFqQW5HYUJseHB3bUpVYUZDZzhwQ21Oa0xHVkJpRnZSeGFsOVkwME9mQkpieWNRTjlfNjBqR2R2V1ZqdHN1Zmg4N0tiX3ZmOEczV1hFLXg2bFFGeHo?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-06-03T01:32:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 01:32:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d7a165a87517190b457458d55594a30c0bc8885d",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports Iran missile and drone attacks in the Gulf and US military defeating them—direct military action.",
+      "event_key": "iran gulf missile drone attacks defeated by us"
+    }
+  },
+  {
+    "title": "Iran Fires Missiles, Drones After US Strikes Blockade-Busting Ship in Latest Flare-Up - Air & Space Forces Magazine",
+    "summary": "Iran Fires Missiles, Drones After US Strikes Blockade-Busting Ship in Latest Flare-Up Air & Space Forces Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVzhLRDFHTlRwN05LWlNaakZnUDM3a2VTd3dVN0psTVFneTdObjdtY0tRek0wVkxEWDRjNUw5WF9uRGExdnpBaHRZWFFBMEFnQ243NDN5YWVIQTZ2M3dYQlNfb1hBWlRCTUw3N2w1dy1pR2tfcGZLT0VLdURtc2VORXp4MDc0X1RaeV9EWjhDTThYbmEyS0NBSzIyOTAwemN3bFEzVktaQkUxSmJ2SFZuZWltWEYxWmwyY3Zr?oc=5",
+    "source": "Air & Space Forces Magazine",
+    "published_at": "2026-06-03T02:40:48+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 02:40:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8aa9ea804f3ac231fe680983ba5fdbedad28675e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Describes Iran launching missiles and drones in direct response to a US strike on a ship.",
+      "event_key": "iran missile drone retaliation after us ship strike"
+    }
+  },
+  {
+    "title": "US intercepts Iranian missiles, drones; strikes military site near Strait of Hormuz - Stars and Stripes",
+    "summary": "US intercepts Iranian missiles, drones; strikes military site near Strait of Hormuz Stars and Stripes",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjFGRWZIaG9zN1ZvazVNbnZtcjJvNFVPamVCd1JSOTNqNjEwaXpxVk5MRVI5UTVVTDFQMVJBdnZzSVhxdG1vaFY2ak1URXd2VzZFTlVzMWxOT21jV1NOemNBdmxFcXFyUU9tdVJrWEd4VWM1TnI4QTk2RjY2cTN6ci1KS3F6RnRPYWpXS0JRODd2WE83RUdYOTFxTXFVaVNKam1POEJ2QlMwSFE?oc=5",
+    "source": "Stars and Stripes",
+    "published_at": "2026-06-03T01:36:31+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 01:36:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8f8c1f892c936c698e8daacaff5eb0ecc6ad1b21",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US intercepted Iranian missiles and drones and struck a military site near the Strait of Hormuz — direct military exchange.",
+      "event_key": "us intercepts iran missiles drones strikes hormuz site"
+    }
+  },
+  {
+    "title": "US says Iranian missile attacks on Kuwait and Bahrain failed, confirms striking Qeshm Island - The Times of Israel",
+    "summary": "US says Iranian missile attacks on Kuwait and Bahrain failed, confirms striking Qeshm Island The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajhvUlFmeFg5dW9fc1doU1NnLVRfN0ZzbHlOR21RUFFQUWptUXV5ZTdkWGdzb2ExRHRZWUxCNGhLcHlDZklpR0s1RUMwN0xtekk4NFZtNDVtMkh5bEJTMjZtaTBvTWIwdFpOV1Ewa1NtTU5xSFYwbHY5YUFQRmpWRUp6ZlRENklBQWU2N0UwXzZtRFVONTVEb00wWHZuZ1RGVERfTGU0VEdHNXNSaWNOZFRPLVJmU0RkVmVRTkN0X3JMSFZGcVRQWkZ5b09Mcm9SNXhj?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-06-02T23:55:22+00:00",
+    "raw_pub_date": "Tue, 02 Jun 2026 23:55:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ed5072fbb00ced301a64a69744e22911e69ec7e8",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe Iranian missile attacks and a confirmed US strike on Qeshm Island—direct military action.",
+      "event_key": "iran missile attacks us strike qeshm"
+    }
+  },
+  {
+    "title": "US strikes Iranian facility after missile attacks on Kuwait and Bahrain - WISH-TV",
+    "summary": "US strikes Iranian facility after missile attacks on Kuwait and Bahrain WISH-TV",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkdPcnRNckN6ZjNJWHA0NjhFTFkydlBaamRURE5rSW9vZzlKbzVOTUJWZllrZFZpWVZvMEdsS2RpY2tQLVdheWJuaThSWjBDZmFBajhzN1VZMFZWOENpYklIdm5ETVJIVXc1SnBpRHo5c25VR0p0X1VLSF9OMW9JQnNmd1hCbFdGYnF1cFRUcUxSbVhLVkJ4eTNsekM0dHZWR0g2RGFQZzFCaFgxNFE?oc=5",
+    "source": "WISH-TV",
+    "published_at": "2026-06-03T03:29:34+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 03:29:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "beb61a17e919fe04cb776b36e9bfa406c109bd0c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out a direct strike on an Iranian facility in retaliation for missile attacks on Kuwait and Bahrain.",
+      "event_key": "us strike iran facility after missile attacks"
+    }
+  },
+  {
+    "title": "US carries out 'self-defense' strikes against Iranian drones and missiles, as Tehran targets Kuwait, Bahrain - New York Post",
+    "summary": "US carries out 'self-defense' strikes against Iranian drones and missiles, as Tehran targets Kuwait, Bahrain New York Post",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1R5ZENCN3dQeUp0XzlfdWRtU3kzblJLd1VQUDNMQ2pudG9Va2xlWi02dWlicW4tTnQ1NTNPamt4bkxnY3FqMkhkY01rcXgtNXFEN3I3Z05OYXJlcDBqbmpqTWhraHdacTE1cWRSUzl5bXc3c01vc3pYbjVKZ0pnYTExVHpsdmN3SDVDamlNRFl4Y1RuVk56dElUX21taEpQZVk0RFBOdlNqNWJ5MUx5elB1UHVCXzVHbVNXVnIwSTBjNVI3eVliSlJ0cW5vWmxaTml6cGFkR0o0cG9QeXlN?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-06-03T00:43:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 00:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "51a973422dc018bc3dfd983759a24532490251d9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct 'self-defense' strikes against Iranian drones/missiles; Tehran also targeted Kuwait and Bahrain.",
+      "event_key": "us self defense strikes vs iranian drones missiles"
+    }
+  },
+  {
+    "title": "US and Iran exchange new attacks as sides locked in stalemate - South China Morning Post",
+    "summary": "US and Iran exchange new attacks as sides locked in stalemate South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDU3Q1R3TllweTFObFZXbDIzSTZteXp4eDg2WGo3UkVvTGM3aXd5dmN4UTVzSXFmZzBfV1U4c0JPRWRmNnJJZ25iSzFnNEpxY1BwUWF1X1pobDJIVzR2OWFYeDN1YkxqSzMyTDBDNVJ5QkRoUUR4N0o0SHZvQjdyX1JHd1k1YzhHdllHb0lUUG9rMURjVHNnX2NhNWlOZ1dsNnhJdnNJWUpncVlHeDA0cEluNVlHdw?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-06-03T01:14:10+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 01:14:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7e673983a38e81b90a327054dfe3028daf2b20b5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Headline reports mutual attacks exchanged between US and Iran, indicating direct military strikes or retaliations.",
+      "event_key": "us iran mutual attacks exchange"
+    }
+  },
+  {
+    "title": "Iran Launches Strikes on US Targets as Gulf Tensions Escalate - Tempo.co English",
+    "summary": "Iran Launches Strikes on US Targets as Gulf Tensions Escalate Tempo.co English",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG8xcGRueXZWTTZydjZhYmc3eVdJTmJ1ZlBWc0k5Ri1wbmphcHd6aEtwcDFUcWVJOGN5MTJpX1YwN2JEeVlqUHFTNWVMZTFoZGxoMFFrb1M3OTdCeEdxcjZlMXFqN2Yzbk9jd2k0UTk4OUhpTkRBUVB0MTdVTXRCYlhxam5FNUJFbjcxdkswaWZ2NkhHZ3ptSXhR?oc=5",
+    "source": "Tempo.co English",
+    "published_at": "2026-06-03T02:28:22+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 02:28:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8f2d9ae990b83af5237e0779d38a29e153b3f414",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct Iranian strikes on US targets in the Gulf indicate immediate military action and retaliation.",
+      "event_key": "iran strikes us targets gulf"
+    }
+  },
+  {
+    "title": "Iran launches ballistic missiles at American base as US hits Qeshm Island - Australian Broadcasting Corporation",
+    "summary": "Iran launches ballistic missiles at American base as US hits Qeshm Island Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDBYaG9EbVRrZ2RJbnc3c05wbEVEQkNKejQxT185NHBJRGxyM1dMellQTU93RFhKYUVOc0Q1azh0elBWR2Y3S1EwWjdkdS0zSjU4RURlc0RCUnBJOUQzYnJwLUhlc0xnbkJDUGFmNFhCVXdGRmdpSXJQQ0VkMl9ULXgzbWd6OUNvOURUdlVWYjhkQQ?oc=5",
+    "source": "Australian Broadcasting Corporation",
+    "published_at": "2026-06-03T02:14:32+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 02:14:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "110f3fb7885ce550141962539c9fa5831ca4aa77",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct Iranian missile attack on US base and US strike on Qeshm Island.",
+      "event_key": "iran missiles at us base us strikes qeshm island"
     }
   }
 ]
