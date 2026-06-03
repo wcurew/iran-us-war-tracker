@@ -1,138 +1,70 @@
 [
   {
-    "title": "Iran signals readiness to retaliate against US-Israeli attacks | Daily Sabah - Daily Sabah",
-    "summary": "Iran signals readiness to retaliate against US-Israeli attacks | Daily Sabah Daily Sabah",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0tHZjAwVkoyZm5NbVU3RjdLSnp6Q1NNaTBQNjBLMmgwaDVlbjdMOTgtQVJrR01BbDRXRmVpWS1POTZOc2tvMjZIMVRnR1VsaUYtTjdOdEJBTnBSZzhWd3RHYVc2d013ejRPM29UckNWUmRLWkJzaUV4MHo5S2F0dFVrd0pRUmEyQzhtdW1jTlc3azVwRVp0emNjZFJOMEFxdEo0UmYxUdIBrAFBVV95cUxOWmdFM3pSSW51R21aV1Z4ZGk2cEVhc3NXcmNxSS1UYmVPUm9fQVF5OVZlR1otR3hyUjlPLTRUZjdkUlNCZEtseTRjS0U1MFFqUGV1NngyZXBKNmU1dmVsVEJWMDJYS3ZSbnlqa2FjN2Nzc29XQ3RjRjlZVWZvc3dzcV9BOU1pM0NNejQtRXcxNkdSZDcyUWtDeXh0Q2hwLUNVYmhtaE9OWDcxRU5Q?oc=5",
-    "source": "Daily Sabah",
-    "published_at": "2026-06-03T17:19:00+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 17:19:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d62dcd2ca9f98a655b4cfec42fbd1c9f75595491",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's declared readiness to retaliate is a threat and increases tensions without an actual strike.",
-      "event_key": "iran signals readiness to retaliate"
-    }
-  },
-  {
-    "title": "Iran’s Claims of Retaliation Include MSC Boxship and US 5th Fleet HQ - The Maritime Executive",
-    "summary": "Iran’s Claims of Retaliation Include MSC Boxship and US 5th Fleet HQ The Maritime Executive",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaElZdXc5YXdGaGgzbmZDMWg2d3NDQzcySW9Sd1cwNi1Gbkp5WTY1Q1FqSFJtX0tDZnZCc0NtVGg3MXh2LUVOMHY3ZU5mOGV0WFFCLTVZWDBCRWZJNHQzU3JsRmUtSEpMbi1MMVBYSmhJTE1LV0YwcnNORGVoZEZkZmV2d3kyLVM2ODFlSGQybTZZZXF2UGpXODVjQVZVV0hGRDRTandfSkI1NlE?oc=5",
-    "source": "The Maritime Executive",
-    "published_at": "2026-06-03T17:03:51+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 17:03:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bd1acc255ae7269fff0c93731d93eb34c9e2da17",
+    "title": "U.S.-Iran tensions escalate with new strikes despite ceasefire - CBS News",
+    "summary": "U.S.-Iran tensions escalate with new strikes despite ceasefire CBS News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSFNLS2Y0b2xTUFlzMi1Kc21ZYzRXWGkwUU85dGdXYk9SanFhNC01eDZUMHlzTUd4emM0b0JoUlpCQWt2MDZwN21WZlFoMkNmckhvdmlUMVVkNlNVSDNCcW5HdnhpSjdwTkJwQ3VoSV96VVd2VGhaNXNzemJtTkk?oc=5",
+    "source": "CBS News",
+    "published_at": "2026-06-03T22:01:00+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 22:01:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a78fe39a138590dfc036c1845edf73b3e9b9af5f",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Iran claims direct retaliatory attacks on an MSC boxship and the US 5th Fleet headquarters.",
-      "event_key": "iran claimed retaliation msc boxship us 5th fleet"
+      "reason": "Reports of new strikes occurring despite an existing ceasefire indicate direct military action/retaliation.",
+      "event_key": "new strikes despite ceasefire"
     }
   },
   {
-    "title": "Video | Iran Fires Missiles At Kuwait, Bahrain; US Launches Retaliatory Strike - NDTV",
-    "summary": "Video | Iran Fires Missiles At Kuwait, Bahrain; US Launches Retaliatory Strike NDTV",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZExuSElteFU1dTViaEhNOHNUMWtaRjh6dm1Ta2tNajBGQUJpT2Rwc0x0Y0dwdnNqMUJsZXVGOXF2UW1pVmNXRi1CalZyVlowbUVXZERiZ1VQbFNNTTlsckJIUDNMb1hFcDRjMDRFRVdmbVZhZW5NSkE1akpyRXhRWE81clBfVkJhMmRUNGhmbnk2bEI0b1VlWU9YTUVxZGFEaS1QOUhB?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-06-03T18:52:35+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 18:52:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ccc8d7c8de1417d9a9702c9566cf7a00e3aa67c",
+    "title": "Iran says it hit US naval vessel, as it resumes talks with Washington - Middle East Eye",
+    "summary": "Iran says it hit US naval vessel, as it resumes talks with Washington Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDZlODhmMzRfaDBTaDdjQVJreHQ2ZmNXRUFXRmF0RVVEN1lsTnI3X2tPWDdESllyTXQzdWRnU29uNlNELWNEM2FYSnZXTjBLa19XcnVoQTFMRWRWal92NFJIdzRzQ3E0Ny1aT2pyLXVzdmc0MVVEUElZSVkzdDJOd0RsN1pmTE9Tc3R6NWtKaWpBY2pCaTBzNEtjZw?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-06-03T21:14:25+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 21:14:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ccd15004fd7a14466dbdbf3c21ceeef22431d8d1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "Iran missile attacks on Kuwait and Bahrain followed by a US retaliatory strike—direct military action and retaliation.",
-      "event_key": "iran missiles kuwait bahrain us retalitation"
+      "strength": 0.8,
+      "reason": "Iran claims it struck a US naval vessel—direct attack claim despite resumption of talks.",
+      "event_key": "iran claims strike on us navy vessel"
     }
   },
   {
-    "title": "Gulf Hostilities Spike As Iran, US Launch Attacks - Marine News Magazine",
-    "summary": "Gulf Hostilities Spike As Iran, US Launch Attacks Marine News Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZE5TS2piQjFTX29hNldfVmpUNmFlYThMRzdfd3YyRWduNnVwZlJkcXluSHdveUs4dnlMTkFqbWVhTUdlbWVfUXBQYndNemh4QlNPNUtYSzd1emlrVFdxc3RoakFaSkZtanpqM28wQ2VORkhQT19NMWJJQm56QWZ4MjBR?oc=5",
-    "source": "Marine News Magazine",
-    "published_at": "2026-06-03T18:42:02+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 18:42:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e63920958564094a0f9131fc21a35f9eb318bcc6",
+    "title": "US fires Hellfire missile at tanker heading toward Iran - MSN",
+    "summary": "US fires Hellfire missile at tanker heading toward Iran MSN",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2lTcXU3ZkYybXZtZGstUC0tTms3WkV2WktaeXJYeC1rejJXWkp3OFhGY25rODZ2Z05WMl9JbTNvSi01RmVoTVRkcDlPZzN0OG8yWHNnb2NNNnpxRENrRnVXMWRDRkxnUXZoSEI4LVI4eWJBeU9QeXJ5aHQ0UU5zLWEyM2wwQW1uVjhHdmNEYU14UTNzZkVlWXQ4SHd5Q0lyQkp0V2w1NEM4dEl4b2F1aU1sVkJsSFFlVUY3T2FVNG9YV0QwNFNHb2RsWEZGcldUb0NPaWNRY1hlZ0R4andkUk9GRGRDR3g5?oc=5",
+    "source": "MSN",
+    "published_at": "2026-06-03T23:00:42+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 23:00:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1520c8ca8c22aa55db619fd49eecfeba1f2e7a83",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports both Iran and the US launched attacks in the Gulf, indicating direct military strikes/retaliation.",
-      "event_key": "iran us attacks gulf"
+      "reason": "US launched a Hellfire missile at a tanker bound for Iran — a direct military strike.",
+      "event_key": "us hellfire strike tanker toward iran"
     }
   },
   {
-    "title": "US strikes back after Iranian attacks in Persian Gulf - Fox News",
-    "summary": "US strikes back after Iranian attacks in Persian Gulf Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ODRxeWZxVElRSlc4U3AxSDFwUHV5bjFDUmRYaU9EQjFkSmhIMll0bS15OXBYNXBmWkI3WjFXOERxSEdwZHRwWnp1WVJNTnk2TnJyUDFR?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-06-03T19:09:41+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 19:09:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c786db496018f82ab8c60c96698c48ebe624cd54",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct US military strike in response to Iranian attacks in the Persian Gulf.",
-      "event_key": "us strike after iranian attacks persian gulf"
-    }
-  },
-  {
-    "title": "Iran alleges failed US Patriot missile hit Kuwait airport, denies responsibility - The Jerusalem Post",
-    "summary": "Iran alleges failed US Patriot missile hit Kuwait airport, denies responsibility The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TMlNtRlp1NmJIazBfajduYi1OZ1pISGZCeHhiS2xrSVo5R2xWb1NSYVdxVWxTOW5hWEU0ZHkwbGltQjZXVVVaTmJGZWxNQnBQcEJfa0dBb3RCVThK?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-06-03T19:05:22+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 19:05:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "76ce25000c49eced362aad172ee0b1132df1b04e",
+    "title": "US warning to the Iranian delegation ahead of the 2026 World Cup: \"We will be watching you closely\" - صوت الإمارات",
+    "summary": "US warning to the Iranian delegation ahead of the 2026 World Cup: \"We will be watching you closely\" صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVTdyOEt2YndReFZlckZkZ0JyQy1tQlZWTGNhVnpGOWRzUmdkMFFISEx5el8xcTlzdlFXR2d4UHBUYXJGZ3VsUlRmb2cxX0xnd3hiZWNnbjF3SmNHMUZTbHd4SkpzMWFaUFF4R3BlTzNQZnM2S0tZclhOaWk0WElwYlhiQXlORjFOaDVWVjNUNnNMSjJkUUxJekJINXp0QnNIWi1IbzNkaVRkYVZoVnRRSF9rT2o4d0luRW1paWt2bkx1SjdYMWZrVnlfcEl6OHQyVENmNDg4X0k1MlhvMm1Ycmdidw?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-06-03T21:55:41+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 21:55:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4f847bb37258ebdde9af85fd32ac7c944dd814bd",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran accuses a US Patriot missile struck Kuwait airport, raising tensions and blame between Tehran and Washington.",
-      "event_key": "iran accuses us patriot hit kuwait airport"
-    }
-  },
-  {
-    "title": "Iran says damage at Kuwait airport terminal caused by US Patriot missile malfunction - Anadolu Ajansı",
-    "summary": "Iran says damage at Kuwait airport terminal caused by US Patriot missile malfunction Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWlYZFVWd2Y5NGtlWmpUV1duenJOeG1IeElpdUNMeUVEOWV5U0lCZzZPeTNUbXJYd3cweWNMWG9uTHdjdXJIdE5PU2luVlB3OW1FWmpfcEJBYk92ZGh4NC1TNVM1dWpYQV84dEZOMWpReDk0V21SSEp3T00zZHdKX1RWaW1UdEhqQzVIdHR1cGIxWHRKVV9nRUtQMGVpMUtnSTQxTU81NE13Smhyb0hwYU9wR2V4WW1mblN6dnN4Yl9xeE5yNmdxdg?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-06-03T18:24:33+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 18:24:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "360a7bf08c90699c3397071403d0ef68c781e6ca",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Allegation that a US Patriot missile malfunction caused damage at Kuwait airport — a direct missile incident involving US military hardware.",
-      "event_key": "us patriot missile malfunction kuwait airport damage"
-    }
-  },
-  {
-    "title": "US and Iran exchange new attacks - SyriacPress",
-    "summary": "US and Iran exchange new attacks SyriacPress",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kam5IZjhDS0kxelc3c1M2MDRVZjRaMnNzY3AtMDc2RXFkWGVjelZibEJVU1JuUFEyRWE5ZllOSGNjbFhQLXRTb25KcmZsZmZ5eDBoUk93RWdjcGgwQ1Npd2Z5QVJONEVORkd4TGI5TWpYUGh3U09oeUptdmpzdw?oc=5",
-    "source": "SyriacPress",
-    "published_at": "2026-06-03T18:34:07+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 18:34:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "522635ce71b1b751db63b63c37e19d1f4b3ed2b5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Headline describes mutual attacks between US and Iran, indicating direct military strikes or retaliations.",
-      "event_key": "us iran exchange attacks"
+      "strength": 0.5,
+      "reason": "A public US warning to Iran's delegation is a hostile signal raising tensions without military action.",
+      "event_key": "us warning iran world cup 2026"
     }
   }
 ]
