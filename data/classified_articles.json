@@ -1,53 +1,223 @@
 [
   {
-    "title": "Trump downplays US and Iranian strikes that are straining the ceasefire - Scripps News",
-    "summary": "Trump downplays US and Iranian strikes that are straining the ceasefire Scripps News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlF1SE10MV9nVWxOaDZ1VnpqZzZnRGY1UVNlbjhqcUFlYkF1cEMydFp5Umx5S2tBNnpWM3BwRFNlTlZYNHZVNUw3MUktZnZOZFpOQ2M2MVZKa1EtMlMyUmp6REFYZFRJR3hyV2p0akhKUng2RVNUdldMY05kU1FkYklBYWNkb2x2ZG5zdDJ3dTFHXzV1cVFFM0ZhNk5kY3Rfdmt3RXdWSThjR2paeXloOVBxMG5nWkk?oc=5",
-    "source": "Scripps News",
-    "published_at": "2026-06-03T23:21:10+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 23:21:10 GMT",
+    "title": "US and Iran exchange biggest strikes in weeks, straining ceasefire - KPLC 7 News",
+    "summary": "US and Iran exchange biggest strikes in weeks, straining ceasefire KPLC 7 News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0dSUWdLb1FCQVJvNl9yQW5jS1V1WUY1Nlp6QXF1X1dVaDRBeDB3dHBza0pMdHE1TlQtVFE3UWxIWmNja2JkTmVMRmM2VUhMS01pR2hqeXQxZkcwV2NOcmlOUE1xTmRmTlVsT2VkWXFKMFd6ZWxmVEtiaEdkSExvUGVvTFZfOS1rTmVGOF9Od2lfUmlfcEpuOW5UcnVOczhU?oc=5",
+    "source": "KPLC 7 News",
+    "published_at": "2026-06-04T07:03:00+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 07:03:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ba54ee4aa22f122c3ce2e8c8082a26f2e4dc3c5",
+    "article_id": "c50a229d8d1489930014785fdd5d2dd3fdfd4e42",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct exchange of significant strikes between the US and Iran, undermining a ceasefire.",
+      "event_key": "us iran exchange large strikes"
+    }
+  },
+  {
+    "title": "Trump says he won’t end ceasefire unless Iran attacks kill US troops: Report - Anadolu Ajansı",
+    "summary": "Trump says he won’t end ceasefire unless Iran attacks kill US troops: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWxFMl9Fd3hTTHdZSXppU08wWkxjdXY3ZEJfN1VvNHZpRFBqOWU2aTRRaHJxR0JBQmMzQ3pzU0x2a2tybGlrV0R4THhka3pUSkl0Nk9SRERHQlFDeFlvQkhYX0JUbldkaHJUSldqQjRpQ1VKSXliTGVEQUxVQXFUUkVpNkhNYm13bHdydEJGQTk2MHpBaXl6a294U282OTY2aXVtdHpOM0Qyd3FqZEp2ek12Qjc5ODZM?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-04T06:54:17+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 06:54:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "74d2a7b8bbb53f568f00a3ff537e09041ffad1d6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "US president signals restraint, will keep ceasefire unless Iran kills US troops.",
+      "event_key": "trump wont end ceasefire unless iran kills us troops"
+    }
+  },
+  {
+    "title": "US and Iran exchange biggest strikes in weeks, straining ceasefire - knopnews2.com",
+    "summary": "US and Iran exchange biggest strikes in weeks, straining ceasefire knopnews2.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTRzM3gydHkyQjN4SUVKdC1vNWl0cGpVLTJFTW0yMHUybXBEdTVUUXNLajEwWTh0RTZDYkkzbnB6djJWNHdLV1o1d0RDR2hiU1NIMHo0NHpmUGdZZUMxd2oyQjJKSURGejhDWE96MmtzV1VDcVVUM05YLVNLS3ByaUVGbEhjQWFoRzNNdzUtY2EyU3Y1OUZ1aWZMVktlcnJmNXFOTg?oc=5",
+    "source": "knopnews2.com",
+    "published_at": "2026-06-04T07:03:00+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 07:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "65006e325e290e1017bc278b43273fb28f44271d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct exchange of major strikes between the US and Iran, undermining the ceasefire.",
+      "event_key": "us iran large strike exchange"
+    }
+  },
+  {
+    "title": "US and Iran exchange biggest strikes in weeks, straining ceasefire - WBKO",
+    "summary": "US and Iran exchange biggest strikes in weeks, straining ceasefire WBKO",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUdyeWo2MVI0dE9tbF9KWlRhV0xxX3BidUhIcWZlV2hzRkhIeUxDSm5jUEpZQUl2TGdtcC14dThUcW5CbXlEYm1hTU5mdEZIcmJ0M2RDZEl3MDRZVDV2b0hueWdZNEhmMGJKNER4QTJXZ0tjeTZUa2d3OHhEQW5uY1RKMm13YWtmLXlKUVBtZWUxM2NqM3p1WXpEb05iUQ?oc=5",
+    "source": "WBKO",
+    "published_at": "2026-06-04T07:03:00+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 07:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ddf4bbb3b4a1958e6c934040d25b1937913ed5f6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct exchange of strikes between the US and Iran, indicating military retaliation.",
+      "event_key": "us iran strikes exchange"
+    }
+  },
+  {
+    "title": "US and Iran exchange biggest strikes in weeks, straining ceasefire - WABI",
+    "summary": "US and Iran exchange biggest strikes in weeks, straining ceasefire WABI",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDNKNC1VT3JUeDR3WWN2ZkJ6ejUwbFVKb0tWVzN6WEdtNTJTSnM4RjdlamFJNnJLbTktby1aRTdSNFE3ZEZBQ2czRF9wMDVaTC03cjh1QVVKNzBxZFczUzREcjgwLWtyS05NTTkzTE1jSlRZdHVsN0tQQmQ1S2Y0eFlQUWZYVml4b05JQjNrQWVfdmJXS0xTQXgzWGM?oc=5",
+    "source": "WABI",
+    "published_at": "2026-06-04T07:03:00+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 07:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6c14c4897e3ff811e6ab2f2a6e9b40abbbeaff60",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct exchange of major strikes between the US and Iran, undermining an existing ceasefire.",
+      "event_key": "us iran large strike exchange"
+    }
+  },
+  {
+    "title": "US House Backs Resolution to Halt Iran Military Action in Setback for Trump - Kurdistan24",
+    "summary": "US House Backs Resolution to Halt Iran Military Action in Setback for Trump Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzVUYkJ1SlRsR0hWMW05emdpS0VMQy1uU3ZSUjI4SWFvNFZCMVlTbGNBRFZCN1ZweTJBLXp1Z3RaV1QtblNxRzZUdjNIZzZrNW0xUGV6VHRLS0c2NDBRc3pyd0NWUWdOV1R5bHFoMExvX2ZHcHh5Z0JBZ2Z0YUY0R1JHSTR3blJCWmRaZzc0b2kwV2s2UVdPTG9DcXNhTWw1bEFlVXFuc01ZazY5d2h1NURJdXIyOFdTMFNr?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-06-04T05:50:37+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 05:50:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fcc075df6643929f48526f98edd9b9b8384f4561",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
       "strength": 0.8,
-      "reason": "Reports of US and Iranian strikes directly straining an existing ceasefire.",
-      "event_key": "us iran strikes straining ceasefire"
+      "reason": "Congress-backed resolution aims to prevent US military action against Iran, signaling restraint and de-escalation.",
+      "event_key": "us house resolution halt iran action"
     }
   },
   {
-    "title": "New attacks by Iran and U.S. strain an already shaky ceasefire - NBC News",
-    "summary": "New attacks by Iran and U.S. strain an already shaky ceasefire NBC News",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGFGU2pkVEdWMFhBa0hOZDVVTTZ0eE5GQkZnUk1VZC1KUElaWHBscHR3cEVkVHF4WXNTZ2R1Y1BYQnRLcHNHQlJMYlFqajUtTUZJWWpjY2VITmFXbnI3eFJQbWQ4MlozamFOLWl5cnhmZFNzRWh1dUlvOHJNWnVwR2twWDVHb04wSUl2OXNDMXVwbkxMWWlVWTBaXzJiU3hDNktBVm5ILUZVSlQ0MXZKNV81NTZvNmxM?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-06-03T23:14:35+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 23:14:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ac6a864f9b842af1eac0e660697acd956506456",
+    "title": "US President Donald Trump has declared negotiations with Iran are “going very well” and a deal could be reached in the near future. - facebook.com",
+    "summary": "US President Donald Trump has declared negotiations with Iran are “going very well” and a deal could be reached in the near future. facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc0xlUGt5b2xwTC15NEo3eUl6elZZZk1MaUdrNkhXc0dMQ3k2ZGEyMjJiUDJEb05rbDVzWDh6MjhBMnVoWXI2RWd1YTJ2MmJzaUlldjRoYlktOGRyUkgwamZHcnhMUFVjTWE3QzItbmFSX1dQOGIzZ05SWU9DVnFha01Ia2ItUmJOeFlYcVNDaDBTVXk5eXlxS0FLQkV5ZjJOZFdUbEh4R2xSbFkxb1EzS0pmdVhoZ3VSek4zZGVWMnFZSzdVejVBX3N4OGpSZmtYZmhnel9FRXphN21CcDF3?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-06-04T06:21:15+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 06:21:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca054c3567b34963ef5eb6c8aa190fad532674ae",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Reports of US President saying negotiations with Iran are progressing and a deal possible soon.",
+      "event_key": "us iran negotiations progress trump statement"
+    }
+  },
+  {
+    "title": "US-Iran talks going ‘very well’ says Trump, Rubio says ‘war with Iran is over’ – but does Iran agree? - arabnews.jp",
+    "summary": "US-Iran talks going ‘very well’ says Trump, Rubio says ‘war with Iran is over’ – but does Iran agree? arabnews.jp",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzWkVQNWpxejY5QVhlV1VSTTlraTRzM21ka3FEbHlVTW1pNjNEVzNKd0VZa0pTZ3pMMW9LdXpzZlJ5RzBQNGJrZFZvbkhURFBTbjd4WUtzVmY2N3pjTW1mal9Valk?oc=5",
+    "source": "arabnews.jp",
+    "published_at": "2026-06-04T06:06:01+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 06:06:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "21c618778ee943adde4632862183e8c2c88462b2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Reports on active diplomatic talks and leaders' statements about negotiations, with question whether Iran concurs.",
+      "event_key": "us iran talks positive statements"
+    }
+  },
+  {
+    "title": "A question looms over Iran diplomacy: Is Trump being straight with the American people? - CNN",
+    "summary": "A question looms over Iran diplomacy: Is Trump being straight with the American people? CNN",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UM0ljVXhCb2tOc3ZmOEJCM1JZU01RRnZPWDZ2V3FGVVZlb2RtZDhUUG1HTlZvWTliUi1YTFVIeFBlVDdpYXZ0eDByTm4tc0NsNzhBMzR4Q1RLdThEUU9FdElyc0ZuTVI3VGtURlF4OG1RMlc4TGUxZ24tY1I1Ymc?oc=5",
+    "source": "CNN",
+    "published_at": "2026-06-04T04:00:49+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 04:00:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7984bb412fed80449f5d06393feed4c5162171f3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.35,
+      "reason": "Article questions Trump's honesty regarding Iran diplomacy, implying active diplomatic talks or negotiation context.",
+      "event_key": "trump iran diplomacy honesty question"
+    }
+  },
+  {
+    "title": "Asian Stocks Fall as US Iran Conflict Sparks Market Jitters - Modern Diplomacy",
+    "summary": "Asian Stocks Fall as US Iran Conflict Sparks Market Jitters Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGxlZ0QxUmpYWmJTdmlUNEIwejUzUXFWRTVnN19zdUJXOEk4eHg0U2tUektpaDZVYkR2N184RXhDc0dtWVVmbHZHZlZaYmZhQ0U1REMxWUN1V2VDOXRuek9HWHI3eGRPbmxDUFNLX1czdEtfeTRlTWJwcTFiMWlsS0pmdGJJd1lMRVVSMEc3azB0V1RMeGZDTmt6YUJLQjg?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-04T06:24:23+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 06:24:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "721885c4ed088b8fbe895f215880ad1c563284af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Market reaction article, not reporting specific diplomatic or military developments between Iran and the US.",
+      "event_key": "market reaction iran us tension"
+    }
+  },
+  {
+    "title": "Iran strikes Kuwait and Bahrain as US hits back - MSN",
+    "summary": "Iran strikes Kuwait and Bahrain as US hits back MSN",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWoyQWZYZjJPdldHbzVQY2FSUlVXUzBPZDBKaXFnYkgxcmpjUE95ODJSRWw0ZVhEMy1pWmZmZ1lzcWZRMk1UM0o2Y25NRmdqdFRrakJRUHh1ZW9Tc2NIYmpoY1BOb0wzRDM5T0Z1dUI3U1IxQXRLbmFKaFBTMzc3Y2U3b2ozaFNCVDZPMEtZamhJcWZaaWNad09KTmNDbGN5ZGc?oc=5",
+    "source": "MSN",
+    "published_at": "2026-06-04T06:57:55+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 06:57:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8b3f97dd0b899db1a4e01e644f5995a10c7417e3",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports of new Iranian and U.S. attacks undermining an existing ceasefire.",
-      "event_key": "iran us attacks strain ceasefire"
+      "strength": 0.9,
+      "reason": "Reports describe direct Iranian strikes on Kuwait and Bahrain followed by US retaliatory action—clear military strikes/retaliation.",
+      "event_key": "iran strikes kuwait bahrain us retaliation"
     }
   },
   {
-    "title": "U.S. military hits oil tanker as talks to end Iran war continue - FOX 9 Minneapolis-St. Paul",
-    "summary": "U.S. military hits oil tanker as talks to end Iran war continue FOX 9 Minneapolis-St. Paul",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43TWh0eGJIZDg1SUxnZkJycTJidWRUUlNpbnYySXhwNEhtWE1TdzRCdXljYkxtSEtSNXBRUHFOaTVZRUJSbDB0TVlhS1ZrdWFYZ0E0eHRsREVybk3SAWBBVV95cUxPYmZXeEFaOVpiNDhHcTB3ZmxnQWl2NGZBN3M3cDZZVGI4VEJUUUFQdWVBWXZ4WlREd1dDX2pMMTM1cHBON256LUFaWmxHV2tSa01MTGJDSnhVNlhDOVduN2o?oc=5",
-    "source": "FOX 9 Minneapolis-St. Paul",
-    "published_at": "2026-06-04T02:40:54+00:00",
-    "raw_pub_date": "Thu, 04 Jun 2026 02:40:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f048917842530471258aa2b887af5aa51ebc42f3",
-    "source_weight": 1.1,
+    "title": "Trump says he won’t end ceasefire unless Iran attacks kill US troops: Report - Anadolu Ajansı",
+    "summary": "Trump says he won’t end ceasefire unless Iran attacks kill US troops: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzNlbnllSTVwTEhQS2RTRjdhS0dVM3AxMHdMYTVpRzFaU1VzVV9GNFdwaUJQRTU1VS1HQUN0Qy1nTDJfaG9oQkdNbDFyX0lHOXQzTjFDU1hwZ2JIelVMMGVVdDdQbXpfdnNnV2lRd3Uxd29fQzZJUUhvNHZkQk81cDl5anpYdWRDTUZpWFljX2lSNDRVa2RaNTNWUG9tTjZJd3ZHU1ZPMnplRzdKTEpaTWoweGZ6Zw?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-04T07:00:44+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 07:00:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b828a8be81dea1b4d71addd83f65fac6cd9ec3a6",
+    "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "U.S. military struck an oil tanker amid ongoing talks, indicating direct military action.",
-      "event_key": "us military strike oil tanker"
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Trump signals willingness to maintain the ceasefire and avoid escalation unless US troops are killed.",
+      "event_key": "trump maintains ceasefire unless troops killed"
+    }
+  },
+  {
+    "title": "Iran War 2.0 Averted? US Mediates Ceasefire Between Israel and Lebanon After Big Warning From Iran - The Times of India",
+    "summary": "Iran War 2.0 Averted? US Mediates Ceasefire Between Israel and Lebanon After Big Warning From Iran The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUGE2WmN4VFJuUUc3eWFrTWdvdWlVTS13anlVWUlnOWt5dU54enRlT0gtTWVmWFZzYlA5aVozVWxfZWtTUUc5M3A4eU8xT2dMTDV4UDMtM0JBSW1JTDhFa0JmdHNfUjN6UzFsOXFkODF1S3dCUEJJVl83cWdYX0xvY3JyaExzWWtfZnZGNnNKVjAzVmlZVFlJbi1IUjdvYU9xSDFxZW9sc2NrcDZrZzFyMlZsUVFSSUVPdHlmY2hEeDBZdml4SWdBaXZoZ29NTFdZbDNhNnlKSjI2OURjczdxb2ZXa0R6QlJVcG9wb3g5LW1pdjJPTEk4d1ZsdTZIS2M0enJQc2hZelppd9IBjwJBVV95cUxQZkh5Y0JqRUdDaHZoSkt1MklHajZRV0VzR2taTEJpVW9vS1JDYzY2SWJweXJxMUZXSXFaZFRTWHU5cmpWOW5sVDJXYmxyXzFtRlFBU2lPUDdIdU1pN3BzZzF0c2x1Z3RGdm5DVzFMaFlSOTVmdUI1UmQyV3RyR1U5TVlTanhVYXo1QVhtTEowS0Y1X2FHaWNLb2FaY2NNd2diWldyVVo4dE54WEF2VzlROVZ5UkZBNXBkQWxUby01eVZLbVBXUkl5WUFBeHR6V1h6dWNnYW9kckhndFZZcGxma2lvN25SVEZqY1VraFNTenY2eEJNOXVvckFFMHR5SnZPUHBfRVRsVVpOMHd6cWtz?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-06-04T04:42:34+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 04:42:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "618786eeb7d1c33098aad5433f9347912baa61d0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "US mediated an explicit ceasefire/truce between Israel and Lebanon following an Iranian warning.",
+      "event_key": "us mediated ceasefire israel lebanon"
     }
   }
 ]
