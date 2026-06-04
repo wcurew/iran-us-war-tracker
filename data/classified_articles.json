@@ -1,19 +1,19 @@
 [
   {
-    "title": "US Embassy warns Americans across Middle East as Iran ceasefire frays - Ynetnews",
-    "summary": "US Embassy warns Americans across Middle East as Iran ceasefire frays Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tSVF2LWlQajZOVzNMRmdMdjE5VFdjWnlPM2E4UGYtUzdpVHgxaXVjTXJSVmJMYUVBSU9DVjJ0bVRRRWROV0REUmsxOHFzeHNXd1FGM253?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-06-04T18:53:49+00:00",
-    "raw_pub_date": "Thu, 04 Jun 2026 18:53:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2ff09c7f7693ca686630e68ed6ebcab8d19b1e19",
+    "title": "Iran strikes Kuwait and Bahrain as US launches retaliatory attacks - MSN",
+    "summary": "Iran strikes Kuwait and Bahrain as US launches retaliatory attacks MSN",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWm9ZcE02QkVmaTFmRVNLQmtLQzgyMXB2NjlvdDVaMk9kcUY1QzBCLWI1YkFkWXJqZk11dUpyVFJrZnpyVDI3QUZuZ3dBUVdzNjM0N2R5Mm96QkNMMGFhRnRIX1BsQXBmNWJ4eC02dy1aOUdtN1l2dXNXYjN3R3lRU3FILWhSaFJ4ZlgzalpvdkhUem5tUnNnd1hhbw?oc=5",
+    "source": "MSN",
+    "published_at": "2026-06-04T21:54:15+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 21:54:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "17186048405b6960938113396d82cc27ef3520d1",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Ceasefire fraying and US Embassy warnings signal rising tensions and potential escalation.",
-      "event_key": "us embassy warning ceasefire frays"
+      "label": "strike_or_retaliation",
+      "strength": 0.86,
+      "reason": "Direct military strikes by Iran followed by US retaliatory attacks.",
+      "event_key": "iran strikes gulf us retaliation"
     }
   }
 ]
