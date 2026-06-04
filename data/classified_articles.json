@@ -1,70 +1,53 @@
 [
   {
-    "title": "U.S.-Iran tensions escalate with new strikes despite ceasefire - CBS News",
-    "summary": "U.S.-Iran tensions escalate with new strikes despite ceasefire CBS News",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSFNLS2Y0b2xTUFlzMi1Kc21ZYzRXWGkwUU85dGdXYk9SanFhNC01eDZUMHlzTUd4emM0b0JoUlpCQWt2MDZwN21WZlFoMkNmckhvdmlUMVVkNlNVSDNCcW5HdnhpSjdwTkJwQ3VoSV96VVd2VGhaNXNzemJtTkk?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-06-03T22:01:00+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 22:01:00 GMT",
+    "title": "Trump downplays US and Iranian strikes that are straining the ceasefire - Scripps News",
+    "summary": "Trump downplays US and Iranian strikes that are straining the ceasefire Scripps News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlF1SE10MV9nVWxOaDZ1VnpqZzZnRGY1UVNlbjhqcUFlYkF1cEMydFp5Umx5S2tBNnpWM3BwRFNlTlZYNHZVNUw3MUktZnZOZFpOQ2M2MVZKa1EtMlMyUmp6REFYZFRJR3hyV2p0akhKUng2RVNUdldMY05kU1FkYklBYWNkb2x2ZG5zdDJ3dTFHXzV1cVFFM0ZhNk5kY3Rfdmt3RXdWSThjR2paeXloOVBxMG5nWkk?oc=5",
+    "source": "Scripps News",
+    "published_at": "2026-06-03T23:21:10+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 23:21:10 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a78fe39a138590dfc036c1845edf73b3e9b9af5f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports of new strikes occurring despite an existing ceasefire indicate direct military action/retaliation.",
-      "event_key": "new strikes despite ceasefire"
-    }
-  },
-  {
-    "title": "Iran says it hit US naval vessel, as it resumes talks with Washington - Middle East Eye",
-    "summary": "Iran says it hit US naval vessel, as it resumes talks with Washington Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDZlODhmMzRfaDBTaDdjQVJreHQ2ZmNXRUFXRmF0RVVEN1lsTnI3X2tPWDdESllyTXQzdWRnU29uNlNELWNEM2FYSnZXTjBLa19XcnVoQTFMRWRWal92NFJIdzRzQ3E0Ny1aT2pyLXVzdmc0MVVEUElZSVkzdDJOd0RsN1pmTE9Tc3R6NWtKaWpBY2pCaTBzNEtjZw?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-06-03T21:14:25+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 21:14:25 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ccd15004fd7a14466dbdbf3c21ceeef22431d8d1",
+    "article_id": "7ba54ee4aa22f122c3ce2e8c8082a26f2e4dc3c5",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Iran claims it struck a US naval vessel—direct attack claim despite resumption of talks.",
-      "event_key": "iran claims strike on us navy vessel"
+      "reason": "Reports of US and Iranian strikes directly straining an existing ceasefire.",
+      "event_key": "us iran strikes straining ceasefire"
     }
   },
   {
-    "title": "US fires Hellfire missile at tanker heading toward Iran - MSN",
-    "summary": "US fires Hellfire missile at tanker heading toward Iran MSN",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2lTcXU3ZkYybXZtZGstUC0tTms3WkV2WktaeXJYeC1rejJXWkp3OFhGY25rODZ2Z05WMl9JbTNvSi01RmVoTVRkcDlPZzN0OG8yWHNnb2NNNnpxRENrRnVXMWRDRkxnUXZoSEI4LVI4eWJBeU9QeXJ5aHQ0UU5zLWEyM2wwQW1uVjhHdmNEYU14UTNzZkVlWXQ4SHd5Q0lyQkp0V2w1NEM4dEl4b2F1aU1sVkJsSFFlVUY3T2FVNG9YV0QwNFNHb2RsWEZGcldUb0NPaWNRY1hlZ0R4andkUk9GRGRDR3g5?oc=5",
-    "source": "MSN",
-    "published_at": "2026-06-03T23:00:42+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 23:00:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1520c8ca8c22aa55db619fd49eecfeba1f2e7a83",
+    "title": "New attacks by Iran and U.S. strain an already shaky ceasefire - NBC News",
+    "summary": "New attacks by Iran and U.S. strain an already shaky ceasefire NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGFGU2pkVEdWMFhBa0hOZDVVTTZ0eE5GQkZnUk1VZC1KUElaWHBscHR3cEVkVHF4WXNTZ2R1Y1BYQnRLcHNHQlJMYlFqajUtTUZJWWpjY2VITmFXbnI3eFJQbWQ4MlozamFOLWl5cnhmZFNzRWh1dUlvOHJNWnVwR2twWDVHb04wSUl2OXNDMXVwbkxMWWlVWTBaXzJiU3hDNktBVm5ILUZVSlQ0MXZKNV81NTZvNmxM?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-06-03T23:14:35+00:00",
+    "raw_pub_date": "Wed, 03 Jun 2026 23:14:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7ac6a864f9b842af1eac0e660697acd956506456",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US launched a Hellfire missile at a tanker bound for Iran — a direct military strike.",
-      "event_key": "us hellfire strike tanker toward iran"
+      "strength": 0.85,
+      "reason": "Reports of new Iranian and U.S. attacks undermining an existing ceasefire.",
+      "event_key": "iran us attacks strain ceasefire"
     }
   },
   {
-    "title": "US warning to the Iranian delegation ahead of the 2026 World Cup: \"We will be watching you closely\" - صوت الإمارات",
-    "summary": "US warning to the Iranian delegation ahead of the 2026 World Cup: \"We will be watching you closely\" صوت الإمارات",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVTdyOEt2YndReFZlckZkZ0JyQy1tQlZWTGNhVnpGOWRzUmdkMFFISEx5el8xcTlzdlFXR2d4UHBUYXJGZ3VsUlRmb2cxX0xnd3hiZWNnbjF3SmNHMUZTbHd4SkpzMWFaUFF4R3BlTzNQZnM2S0tZclhOaWk0WElwYlhiQXlORjFOaDVWVjNUNnNMSjJkUUxJekJINXp0QnNIWi1IbzNkaVRkYVZoVnRRSF9rT2o4d0luRW1paWt2bkx1SjdYMWZrVnlfcEl6OHQyVENmNDg4X0k1MlhvMm1Ycmdidw?oc=5",
-    "source": "صوت الإمارات",
-    "published_at": "2026-06-03T21:55:41+00:00",
-    "raw_pub_date": "Wed, 03 Jun 2026 21:55:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4f847bb37258ebdde9af85fd32ac7c944dd814bd",
-    "source_weight": 1.0,
+    "title": "U.S. military hits oil tanker as talks to end Iran war continue - FOX 9 Minneapolis-St. Paul",
+    "summary": "U.S. military hits oil tanker as talks to end Iran war continue FOX 9 Minneapolis-St. Paul",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43TWh0eGJIZDg1SUxnZkJycTJidWRUUlNpbnYySXhwNEhtWE1TdzRCdXljYkxtSEtSNXBRUHFOaTVZRUJSbDB0TVlhS1ZrdWFYZ0E0eHRsREVybk3SAWBBVV95cUxPYmZXeEFaOVpiNDhHcTB3ZmxnQWl2NGZBN3M3cDZZVGI4VEJUUUFQdWVBWXZ4WlREd1dDX2pMMTM1cHBON256LUFaWmxHV2tSa01MTGJDSnhVNlhDOVduN2o?oc=5",
+    "source": "FOX 9 Minneapolis-St. Paul",
+    "published_at": "2026-06-04T02:40:54+00:00",
+    "raw_pub_date": "Thu, 04 Jun 2026 02:40:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f048917842530471258aa2b887af5aa51ebc42f3",
+    "source_weight": 1.1,
     "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "A public US warning to Iran's delegation is a hostile signal raising tensions without military action.",
-      "event_key": "us warning iran world cup 2026"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "U.S. military struck an oil tanker amid ongoing talks, indicating direct military action.",
+      "event_key": "us military strike oil tanker"
     }
   }
 ]
