@@ -1,53 +1,36 @@
 [
   {
-    "title": "'Possible escalation of tension, will lie with US', warns Iran after US strikes - WION",
-    "summary": "'Possible escalation of tension, will lie with US', warns Iran after US strikes WION",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0M5dlF4a1VTekFIYTJwNWdVM1FCemF6QVZXdFhHRGs1OG4tMkdxU3Jzc2s5QTdtamc1ZUxLUkV1anB2SU8zSjI5MkZVbjZKei15dDNnR2IzdXVPYWYxZ3YwTmFodVNHTUlFck9VdXhtNEYwb2Y5NGQ4bklZQ3YtSnYzNmw5X0VCd2ZMNzg2em5RcmVlem1PeExnN1Nic2QxS1hfVEphTjh6amVURVVkc01rakZCTjgxQ29F0gHAAUFVX3lxTE9QbmRXUUIwWXJoR3ZPbklCX2ljTkZYWHNEdTBiQ1dTRlNBem4tYUZ6MldHOVJUQ1ZENGF4MTN4eXNySFdueWNpcGV4aEhnc2tNbEpZRnJpa0kyajh2M003dG11Y1ZmcFV1Wk4wWlEyNXU1OVJjVDNJUUh2N19vOE5CeWk5NldLMWFwVVZDaXExc3RwdFBpMkhYRXc3ZHV0Y1FLNjZsYS14enpoVnZvenJNcFFwdVpjdzRpNzdfMTB6Ug?oc=5",
-    "source": "WION",
-    "published_at": "2026-06-06T17:18:00+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 17:18:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0271572f826e5c9d6ecfa2d9509ac2c0a1035ebd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran warns of possible escalation following US strikes, signaling rising tensions and threats.",
-      "event_key": "iran warns after us strikes"
-    }
-  },
-  {
-    "title": "Live updates: Ceasefire faces further strain as US and Iran launch new strikes - CNN",
-    "summary": "Live updates: Ceasefire faces further strain as US and Iran launch new strikes CNN",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaThld29lUFRLdTRVVlNPOV94LUxWVko2UkRZbXVpWGpVZnAxV2tLNDkzMHZuSEdyQzhSZXRLblhWanRyTG4yNE5VQjEzMFk0ODQybTBidEVWQzVaSlI5T2dfNWJwS241ZXVnRU5rZS14X0VndzJRWnJhNGJNbGFPWk13?oc=5",
-    "source": "CNN",
-    "published_at": "2026-06-06T18:12:00+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 18:12:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8739938fe7bfdf35e253e6d1f2e077112cdc5676",
+    "title": "US intercepts fresh Iranian attacks as peace talks stall - Boston Herald",
+    "summary": "US intercepts fresh Iranian attacks as peace talks stall Boston Herald",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1FlTzVINXlmTVJfVEtlenMtZU9GczVlZ194MkRmTGs0Mll6OE5HX09qN2FnaDVqeTBZSUU2TTlYMjFFeXRaVF9QQ3c3ZE90eDY4bTR5NnpDcS1XLWgwREZTRENvWTRsTW9NZ2pPREtIMDRHeFNPS2JaWUFsN2NOZ2dpMVFIalZZdGVWbnlrX0xxSmJFWkFXNFVPUzdBdw?oc=5",
+    "source": "Boston Herald",
+    "published_at": "2026-06-06T19:48:26+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 19:48:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2d9ea2ba7034bdc5b3c63074a46370c373f72784",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports of new strikes by both the US and Iran undermining the ceasefire.",
-      "event_key": "us iran new strikes"
+      "strength": 0.8,
+      "reason": "US intercepted Iranian attacks amid stalled peace talks, indicating direct military engagement.",
+      "event_key": "us intercepts iran attacks peace talks stall"
     }
   },
   {
-    "title": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News",
-    "summary": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFp6U0ZjR0RoUVFTWWlYU0dBTk1pRjh4ZTJmR0hDRDN4QmpDNkdCSTUzcjVOSEhPVFBONThnMTVwbklTMkc1bGI5NmpSNFVfYkE3Y2ZydmVIWkg3RWowOWhQNGZSSU5hYXpKS0czbk51UGFIdDRtU1BKRUdBQ2NxSzVsMGt0NXpqbUNQMFREM1ZFelJYN1haZGQ2cVdzcEtYblHSAacBQVVfeXFMT2tyWTN0c3VEdlNfam1mWEFxMUI0dlRTR2N3c2Y5ZUNuSnJISFZvc0VpbFNtVmIxbGV4dnNURGU4d01iajJIeTJIdURNVDNHV0k1eTFJU3VWZGt6RmxycmNCS3ZPYkF5S1dfM2VJbXJsVWVMSUQ0VTBwZk9nejk2X2N4TFRfTDFiMGFWWUdUMXppaHMwNVdaVjJnczlIYXl1U01kRHJNZ1E?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-06-06T17:22:57+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 17:22:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6405989311e41eeec43e742dabeac2662324f10c",
+    "title": "Iran Condemns U.S. Gulf Radar Strike, Rejects IAEA Nuclear Concerns as Political Pressure - Kurdistan24",
+    "summary": "Iran Condemns U.S. Gulf Radar Strike, Rejects IAEA Nuclear Concerns as Political Pressure Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHdrR2t5Z1h6TW95S3ktd0dWdW5hVWdfNkpnRTlYUC1DeEFhdDNuRGtKSnBlX21QRlBzUUZoTmlzS2ktVUtlOVEyNHRJN2taT1FKM1haTG04T3I5Wm1ONjdORlVad2xzTFdUd3pvNmxmZWU2dURSMTlzWExuUU9UaEczN3ZXTW1RYlB0WXRXYVJ2MVZOTnZDeUQ4MHhOTS1oZFJ4TzByYlZ4ZUNoNUdld0RIT0FoN3prTS1sZGZzel8wdldCa05JSkhR?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-06-06T20:14:00+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 20:14:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1cb163bf9c39c9c957e06b2c8ff6726d6e44b50c",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US intercepted Iranian-launched drones and carried out retaliatory strikes on radar sites.",
-      "event_key": "us retaliatory strikes on radar sites after iranian drone attacks"
+      "strength": 0.8,
+      "reason": "Iran condemns a U.S. strike on a Gulf radar, indicating direct military action and diplomatic protest.",
+      "event_key": "us gulf radar strike"
     }
   }
 ]
