@@ -1,87 +1,121 @@
 [
   {
-    "title": "US and Iran exchange strikes, threatening fragile ceasefire - politico.eu",
-    "summary": "US and Iran exchange strikes, threatening fragile ceasefire politico.eu",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjh0bE42T25uWWZjelJPVkpka01mZWdrOHRvVTBSS0pPV3NtaHFSci1QbS1LR3A0ZHVLYjBKbVpsTDlkanBnanR5ZF9vaXF2Z0syUlFIcWlIUVFUVEh3RTNVT2JpZ2pRZFZZekp4RlJJZkZEbG1MT3NISG1abGJFQ2JsTjBuT25tdDZUUTdCSGwyOXJq?oc=5",
-    "source": "politico.eu",
-    "published_at": "2026-06-06T12:29:10+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 12:29:10 GMT",
+    "title": "Iran condemns US ceasefire violations as endangering 'security of region' - Middle East Eye",
+    "summary": "Iran condemns US ceasefire violations as endangering 'security of region' Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemk0ZjVqMUZTTzUycW4yU2hFNTJhLTBhQWdUUzFCLXZocmRLc0lNV190V1o1aHhUSUpRVXM2VkpKZm1pcXNyV19kUnlxNGcxUXFISWJ4cGJTbmRzSHR4YUJIV0x6bzRqWUxHemJkOUF3aWZPeE5sUjg5cGF6akhsQUlsaEhXNnY5R3oxOG1qZWFmdTRrSnIxRTZTYzB4YWZ3WHB6WTNibkpDOFRUdVBjNWxUZ21NMy1Db0xsOEs4RQ?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-06-06T14:01:00+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 14:01:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "479d7d0183fcf4a6cf9a9f75cf5277ff120f9204",
-    "source_weight": 0.98,
+    "article_id": "a018268dc12aaeb1f2f132ece8b71cf1628bd39b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran condemns alleged US violations of a ceasefire, signaling rising tensions and breach of truce.",
+      "event_key": "iran condemns us ceasefire violations"
+    }
+  },
+  {
+    "title": "Iran Condemns 'Flagrant Ceasefire Violation' after US Strikes - Asharq Al-Awsat | Explore World News Today",
+    "summary": "Iran Condemns 'Flagrant Ceasefire Violation' after US Strikes Asharq Al-Awsat | Explore World News Today",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0FjTzZvemF0TklLMXNfUHlYQXlIWm5wTkxuNGNmT0t0T0pVd3h5SGJTQ2VPbFJDYnktNFF6ZHVYcXB5RjktMURMTXRXNVQtcW5rWDByenllS29fRGZnaHNnUURIcTlUellOdklRWElIenR0Ry1rRXAzM1U3bmJHRHhqM05YZnByamJsNzh1RFJLdEJkeF9CTmx1a1BiZ2hvTUE?oc=5",
+    "source": "Asharq Al-Awsat | Explore World News Today",
+    "published_at": "2026-06-06T14:20:09+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 14:20:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f5818487922a902d3bc6ce2367d6d8a5c590b90d",
+    "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct exchange of military strikes between US and Iran, undermining a fragile ceasefire.",
-      "event_key": "us iran strike exchange"
-    }
-  },
-  {
-    "title": "Iran: US will be responsible for any escalation - Breakingthenews.net",
-    "summary": "Iran: US will be responsible for any escalation Breakingthenews.net",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0x1ZjFSaEc4TWp4YlNSVHh0SE9oSEtxQURZVXhzREFvSE8zd3BVd19VX3pyM0NVYmpCUXJKRGFoWEtWTkJkT2x3eV8tazJ4clZuM3JDOUhDbHZCcGRPRGN0Y3VjUVA3c1o3eFZxYjRadklIS0lMTy1HTzctSVJubDhqckhKUzV3cXZvaXI5bHgtNy05aWdB?oc=5",
-    "source": "Breakingthenews.net",
-    "published_at": "2026-06-06T13:07:00+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 13:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eda9e7566aaf50fdec1edd8ebda4834627d6f214",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran warning that the US will be responsible for any escalation signals hostile rhetoric and rising tensions.",
-      "event_key": "iran warns us responsible for escalation"
+      "reason": "Article reports US strikes and Iran's condemnation calling them a ceasefire violation.",
+      "event_key": "us strikes iran condemnation"
     }
   },
   {
-    "title": "Bahrain, Kuwait condemn Iranian attacks after US strikes, warn of dangerous escalation - Firstpost",
-    "summary": "Bahrain, Kuwait condemn Iranian attacks after US strikes, warn of dangerous escalation Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHNBak9zcHl5NWZqTnpGeHlnR3NmemNUVDBrd0EzQXZqNndrOWE2cy1sa3loXzh1aUpoQ1p6VW42MnNacHF6QXlwcEJ0dkp4ZTdPcWpIMVdCM25ZV253MzdUMk9maHF4ajBwNVBfMzdqTVBneFlUR0RBZjE0a3Z6MFF0ZlI0ZzhwTkhEZE9kRm5GclNqaGFfeDZ2X1VZQnpWbEhrV0tzSjYxWGF1NDJ6RDdVVWFRWTNMVFRocUVFbVRINlhMMmdpcVV30gHPAUFVX3lxTFA0Ulc0WXJoNUw5TGUzNXk0OUR2VFZuVndVODI1NlhLdm51QndQYlNPT05LRS1aZ0J5a0tKWDhUQlBGWEdEdWhJOER6NDlqSVlrYVJ0XzNGLWRHVHBFUFZOUEtVZjdkcU5DN0NCMTB5ckowXy1xVU95VzR2WW9QUFk3SmNxMUFGUUJaSENiaEpNWFFjcG95Nk95MTB0a2VzSmYtcnZIdVpWNjlJNzlxYlB0eTk3YTRCYmdhMXhSVVZYMVZMWEl5VEZTY0lnNzd0bw?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-06-06T11:38:45+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 11:38:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "76dea0b40ae95d15b2837823e84099d9aa808514",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Gulf states condemn Iranian attacks after US strikes, warning of dangerous escalation.",
-      "event_key": "iran attacks after us strikes gulf condemnation"
-    }
-  },
-  {
-    "title": "U.S. Intercepts Iranian Missiles and Drones Amid Escalating Gulf Tensions - Kurdistan24",
-    "summary": "U.S. Intercepts Iranian Missiles and Drones Amid Escalating Gulf Tensions Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjdNWFNIcmhoSm82M1R2TVl4TU5MVG1QU0hFb29yNUJBNkFDbV9PX0dtSmdBVGYzTlNlMzh3S09kQk5XZTUtbkJjZEZ1eG8zbWtfWmh6em5hWktWdHJjOGVmRDVnUUJEdmNDRjQ5SVlSZW9aekRrSHd0VzRvWnJ4VlY1MXh5REhWelRRa3Y5TWd1ZkxNRmtNWHZ3Q0I0cF9PaTVuTm1tdjJCdVIzcnQ5YkRRaTQwUQ?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-06-06T11:36:00+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 11:36:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a1dbf0ea145014191f2e800144b96c176d017a52",
+    "title": "U.S. military shoots down drones, strikes radar sites in Iran as ceasefire tested in Gulf - Modern Diplomacy",
+    "summary": "U.S. military shoots down drones, strikes radar sites in Iran as ceasefire tested in Gulf Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlU3VXZXZEl3aDlHRVlpbjYzT3RwMXRZYTFOOTFaVmF6MUFSR2R3ajVpZ09kbzlQS2lfWk1zWl9ONkZSaFMxVVB5YVBrckl4OUkyX182WDZSb3NTUGx1RExUdm9VODRLXzNRZHRsaXFNdVhNbGp5Y09uXzBoQWRCVVZvOHR4LXNjSnQwVjFMa1lMNWQwUmNtamtMak5lUXNtcHhiTEFvaVBwd2kyblp0R0dPQUZ5LWFlVldXUUs2ZDFUZnU0?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-06T14:35:00+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 14:35:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0db6d826a21ebd9dbc2c1c8eae1dc984ff4157d1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports U.S. intercepting Iranian missiles and drones—direct military engagement in the Gulf.",
-      "event_key": "us intercepts iran missiles drones"
+      "reason": "U.S. shot down drones and conducted strikes on radar sites inside Iran — direct military action/retaliation.",
+      "event_key": "us shoots down drones strikes iran radar"
     }
   },
   {
-    "title": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up - CNBC",
-    "summary": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up CNBC",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemt1WmRyM01fRGd3NjFHalZ6OVlQdVl5TnNXRjVic2lwOXJYOEViZi1renJjc2MxMVJhX2szdWNxRGVJQXVHZmJTa1BlTmhpblJIUF9jeUlZWG1fV1l1ZlVoUDRwcDRBZEQ4VmtsSzZ5VUFLY3hUM0VKS24tS1k1S2w1M3p6UFFWX1pJeGJPTGVtZlN6Y2ZZcm84eEJvNDh4THhkXzY3ZlBmejJNM2RjNUlB0gG3AUFVX3lxTFAydi1TQ0RhN1R6YVJHYnFfVUpOWHN2V2sxMUdiWjFZZ0FZMGVRVnZOTldKeXZPRlpxRGV1UWpoOUJTZ2YtNzl0TGgtbHZYQ1E5QWdfZmVyV2J1Q2pkV1h5RUlZVnFmWHJvczZaQml0QVJDZWJBOWE2QWc4eHAzUjhKNHkwd0pocXBaM3FtRU9SSGV3Vkx2WUd1TWJ2YXhYTGZMZEM4NkdfTjNkaUp3SVp1Q2tFRDdtZw?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-06-06T11:09:52+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 11:09:52 GMT",
+    "title": "🇮🇷🇰🇼🇧🇭 Iran released footage of ballistic missiles fired at U.S. bases in Kuwait and Bahrain overnight. CENTCOM says most were intercepted. No major damage or U.S. casualties. Iran says it was retaliation for U.S. strikes on Sirik and Qeshm radar sites. - x.com",
+    "summary": "🇮🇷🇰🇼🇧🇭 Iran released footage of ballistic missiles fired at U.S. bases in Kuwait and Bahrain overnight. CENTCOM says most were intercepted. No major damage or U.S. casualties. Iran says it was retaliation for U.S. strikes on Sirik and Qeshm radar sites. x.com",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52bF80U0J6UFFjU2xIWjhxNll3TV83eTQ0eHJpdXYwZUpHYk51MUVuYlJBTkxLYlBsRzg1WW5XY2x6MUpsdS0yOGh4WGtrUHpXTnBmZ3htMi1zVWdNT3RyQVBR?oc=5",
+    "source": "x.com",
+    "published_at": "2026-06-06T15:45:00+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 15:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "851a694c9f3a451bbec6b738be6ab0eac4bac2b6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched ballistic missiles at U.S. bases in Kuwait and Bahrain, claimed as retaliation; CENTCOM reports interceptions, no major damage.",
+      "event_key": "iran missile attack us bases kuwait bahrain"
+    }
+  },
+  {
+    "title": "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post",
+    "summary": "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnhrZmU1dEJXQzRJQWFaelI4LVZlUE01ZERhS3VKUzhsRXNEa3N1elZRc3VTRXlnclJvNTNyM1FUOFpLdjUxNmplY0xub29CUzRmZFQ1ZThsT0hsT29IcU96TjlJeVk2Y2s3eHUtN0FVekRhRnhuVG0xMTBTSC1sal9JVkVGalY4UTFvOS12UXppY1RJdHVHaUFpOEJOenJiV1RZdmp1aVpqS2xVOElPYWh2VHJuZ3M?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-06-06T15:57:37+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 15:57:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "47e70528af2db5d2eb9278e03447c3f6a7ced85e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Direct Iranian missile and drone launches toward the Strait of Hormuz constitute a military attack/strike.",
+      "event_key": "iran missiles drones hormuz launch"
+    }
+  },
+  {
+    "title": "Trump says 'situation with Iran seems to be going quite well' as US shoots down missiles and drones - Fortune",
+    "summary": "Trump says 'situation with Iran seems to be going quite well' as US shoots down missiles and drones Fortune",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3VQeXZvTWd3c091U0tNaXpvZW5LMmdhZDg4a0ptX19CZS1zTDZ3Z1Y2MFM5bEZJNzZOWlo3aFhuc3J2ZFdULXZTdEt6NEIxYVVTdXZOMWprVjNWdVVyaUdTMGFER1dHU2dYeTk5eUs0UXFqeElmbVY4OVdHNGNSbEhCQ2E2V2VCSFNqZ2llWC05U2FRZGRQZ1dYQQ?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-06-06T14:33:00+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 14:33:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ecb5032980fe28d47a5d7214e19376960c4ed6fa",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US shot down missiles and drones, indicating direct military engagement/retaliation.",
+      "event_key": "us shoots down missiles drones"
+    }
+  },
+  {
+    "title": "Iran fires warning shots at US destroyers near Strait of Hormuz, raising oil and crypto market jitters - Crypto Briefing",
+    "summary": "Iran fires warning shots at US destroyers near Strait of Hormuz, raising oil and crypto market jitters Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qM09rZ1l2S3FFWVM2djhDRjhrMUdwNHY2Y1ZLTlA4Z05ZSzF2T1JpSkRqWldYMUF6Q2FTbV9IYjNXckNubHJHZHp2ZmpCbndRNFBhUlhTZGhONjZmdFRQRnBvOVgxeERaNnZXbDdIRUFpUTVMMmFVWUJR?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-06-06T15:06:33+00:00",
+    "raw_pub_date": "Sat, 06 Jun 2026 15:06:33 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "972bb318186167e0db1eff2aefbe196f731eb45d",
+    "article_id": "3be5ff66dbcad8d0fe55b112cd1ccb1a16fc0637",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US conducted direct strikes on Iranian targets following Iranian drone launches.",
-      "event_key": "us strikes iran after drone launches"
+      "reason": "Iran fired warning shots at US destroyers near the Strait of Hormuz, a direct hostile military action.",
+      "event_key": "iran warning shots us destroyers strait of hormuz"
     }
   }
 ]
