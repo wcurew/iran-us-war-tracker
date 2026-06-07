@@ -1,155 +1,36 @@
 [
   {
-    "title": "Middle East sees most intense exchange of fire between U.S., Iran since ceasefire started - CBS News",
-    "summary": "Middle East sees most intense exchange of fire between U.S., Iran since ceasefire started CBS News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUh6WXV5c05GbHhnR1RGX3ZHdzQwdlVQWWUzdkhCQ204eWNGVEVMdTNSQXNsUUM4WEptdzc0a1VUSzVSWmFoOU9vaUNqcGM1TVo0TUwyYXFRVGR0YllaTndRLTlUR05xWlVVWUZxQnM4R1d2SEV0bFpRZWtLYWh3TmhmQUEtVTVrOXVha09lMWltRk1LdUMwWXZpUEFnTWIxeXNyVnNtV2taVm5pdVZ1M00wbUw?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-06-06T22:31:00+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 22:31:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7f49993dee4692580293f653f3f1c548c2b4e1ed",
+    "title": "U.S. says shot down Iran drones in fresh escalation - The Hindu",
+    "summary": "U.S. says shot down Iran drones in fresh escalation The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZ0VjhIVW5mTDhWdlhGNlhGRGZNS1IzOWNwVHZEWEZESWExbzluTnFuWlBSQTZWakxWeVc3aC1NTUtqdlQ4dTA1LTBqMFBTNTlCLUo2VVNsQWpfRUhqSDFIZmkwTGw0Sks2MHpCRHhHRnBaNlNiM2UyVVlmWllxRV8tNkFfSGR5THphcWF0UF8xTDF2MHU0TGNQdjJrUXFrekt4QlJuTjBrMHpOdjhjYnVKTnhNcFhVdlHSAboBQVVfeXFMTnM2dFY4SFVuZkw4VnZYRjZYRkRmTUtSMzljcFR2RFhGRElhMW85bk5xblpQUkE2VmpMVnlXN2gtTU1LanZUOHUwNS0wajBQUzU5Qi1KNlVTbEFqX0VIakgxSGZpMExsNEpLNjB6QkR4R0ZwWjZTYjNlMlVZZlpZcUVfLTZBX0hkeUx6YXFhdFBfMUwxdjB1NExjUHYya1Fxa3pLeEJSbk4wazB6TnY4Y2J1Sk54TXBYVXZR?oc=5",
+    "source": "The Hindu",
+    "published_at": "2026-06-07T05:52:39+00:00",
+    "raw_pub_date": "Sun, 07 Jun 2026 05:52:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6e1d207aea9a322652b7681c8143476fd8fafd9b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.86,
+      "reason": "US shot down Iranian drones, a direct military engagement and retaliation.",
+      "event_key": "us shoots down iran drones"
+    }
+  },
+  {
+    "title": "US Shoots Down Iranian Drones in Hormuz Amid Fresh Escalation - Deccan Chronicle",
+    "summary": "US Shoots Down Iranian Drones in Hormuz Amid Fresh Escalation Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHFHMUtQSXZaZnhyYXMwMVhxLTJHSnNqX0NaeTlaWk9Ec2tIVEx3Nlp4cG5qZk5odmh1aE90UmRWWVZ3V3ZCSXJ4cmd1WFhKV3JNVV9pM0JjNVBYNHdCczJ5M24ySTB0amdacW5jcFdTRzJBalktME9uWDNJWEs5TmtaWEk3RjY0NlBkS2RRUHhIT2thVllZQkxtV2xDQ1V0dzk0SVlxSHhjYkRUMDE1S9IBtgFBVV95cUxNUWNHNW1KUE00TlBfWVRXMXZ0UHRxSDZEQ0k3bC1xdHZSblQ2QXNHY01reXM1RGwzZTFmdHB0cTdwVG9OMjkxQUdsUFZGNzlGLU50LUtaMFE4cmR0RnFMNGt3a0hKSWNDQU9CUk44OHNkQXFlSUNUcEN3SU9fY3JsM19CTm9LRTRZSndwU0Y0Y1RTdW9WZTNaVTEwcmhaYVRaWjVDNXNMWk5JTTM5REY2YWxtWGlBUQ?oc=5",
+    "source": "Deccan Chronicle",
+    "published_at": "2026-06-07T04:09:47+00:00",
+    "raw_pub_date": "Sun, 07 Jun 2026 04:09:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b2e8541eed7c4403796d9f686694b31914a0b918",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct intense exchange of fire between U.S. and Iran indicates military strikes/retaliation despite ceasefire.",
-      "event_key": "intense exchange of fire us iran post ceasefire"
-    }
-  },
-  {
-    "title": "Iran launches new attacks on U.S. allies - NBC News",
-    "summary": "Iran launches new attacks on U.S. allies NBC News",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1FJUjJnSVVYNHJwaDFGbU15YndkZ1hQWlpqakNtZ1BYNkxZbTdxRXQ4TTRtd05fX1kzNjRhVHdTUURQRXBCWnZvQlBSVTRUdmxQcmVUdGVyb05CYWZtVWNIblNheGQ2dUF6dHNIdDQ2Y0ZhelQ0M3Y4M2YxOWpINnd4Y25RQXhxU25GM001eDhyWUduVTdnemNOcw?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-06-06T23:11:11+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 23:11:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "759d8a68afb0bc825a804da287fcde3e9a8a5fe4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Headline indicates direct Iranian attacks on U.S. allies—military strikes rather than diplomacy.",
-      "event_key": "iran attacks us allies"
-    }
-  },
-  {
-    "title": "US may transfer Iranian assets to Gulf states to cover strike damage - Ynetnews",
-    "summary": "US may transfer Iranian assets to Gulf states to cover strike damage Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HV2tQS2k4OERWb19ZTVFnT2FsQ3dnLTRTVTVGMTZJSVFhWDNsRXBpYlphbVdXWlNjMHpldG5OZ203V2ZGQ2s3N3EwbndGNDBHaUZXTFdMVQ?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-06-07T00:48:36+00:00",
-    "raw_pub_date": "Sun, 07 Jun 2026 00:48:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "518696780cd23c23393a966159260adf8b2771d2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US considering transferring Iranian assets to compensate strike damage—a punitive policy likely to raise Iran-US tensions.",
-      "event_key": "us transfer iranian assets to gulf for strike damage"
-    }
-  },
-  {
-    "title": "Iran launches new attacks on U.S. allies - Yahoo",
-    "summary": "Iran launches new attacks on U.S. allies Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEl6bDFLSHdmUFFhVXJKM2JmOGhuUHBuTEMydEZMeFVnbllwNEc3Nlp2OTlKV0FIZDhOV0FBcWY5bHFaUUppUlN2M29XdVdlNDhkbEpCSlN4WkF1RTM3TGpoazdGanduQWRLcjdMUF9CajYycGJxdGFsWk5PWXF3WkdhSFNTZw?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-06-06T23:06:17+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 23:06:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "889c00cf2df2bab26ad89dc4d2b84edbcf730e2f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Article reports Iran launching direct attacks on U.S. allies, indicating military strikes/retaliation.",
-      "event_key": "iran attacks us allies"
-    }
-  },
-  {
-    "title": "Iran Army Says Fired 'Warning Missiles' at US Destroyers in Gulf of Oman - Asharq Al-Awsat English",
-    "summary": "Iran Army Says Fired 'Warning Missiles' at US Destroyers in Gulf of Oman Asharq Al-Awsat English",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmVqQ01nV1UtNEFlb2h5VnpOTFIxMnUzeWpVRmxscHZrZ3o3eHFLcWNRQzdqTjU4UGZTVmd4YjZfQ0t5cVJyWE5xRzVQeWR5Mlc3ZUFhRjVyNDlmLVRIdXVHQVdhMy0yZnBHdmdQM05Qdk0xNjNabTNPU09wZndXdlNJZHhJdXpoSkI2SVVfYll3Q2pjWFpoNGo1S2poN1BTbnMtdQ?oc=5",
-    "source": "Asharq Al-Awsat English",
-    "published_at": "2026-06-07T02:46:11+00:00",
-    "raw_pub_date": "Sun, 07 Jun 2026 02:46:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2b3a348f3a0026ee08a1ecc08dd0c68e27204479",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran military fired warning missiles at US destroyers in Gulf of Oman — direct kinetic action against US naval vessels.",
-      "event_key": "iran fired warning missiles at us destroyers gulf of oman"
-    }
-  },
-  {
-    "title": "US-Iran conflict hits 100 days as strikes escalate and Pakistan mediates - CHOSUNBIZ - Chosunbiz",
-    "summary": "US-Iran conflict hits 100 days as strikes escalate and Pakistan mediates - CHOSUNBIZ Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkx1eUVia09McHdGaFRxbWFKMXBGaVl1WkNTb0tublA3V2w4dVJKNEdWVjRiVkxDSFF4dmFMeXNsbWZ6d3BMcGw2VW9vLTItclVrRDdjUUtTdmY3NXhJTDNCWEM3TWNIdzJ1dElyRHR1M2dxS3N1REhsYVlMcGtZWU1Ha2lta3NW0gGcAUFVX3lxTE5kMlUySjBnQkNkY1VZclRaMDRfYW5HcWF6bHZ0MXE2UGZCMTBBYy0zeHN6TzRSVnlzUm1wSWVqam1hdlJuekZQdzByUWlYWnJDZkZGMUZHX0JRV1k3ZkJVekVkakdUTUhKUW5TaUdOTnhOd0hRSkx0alFJWnJrWUNKSjk4M29neEJia3YtQUEwSHVlMEdMSnJNN3ZDTg?oc=5",
-    "source": "Chosunbiz",
-    "published_at": "2026-06-06T22:44:00+00:00",
-    "raw_pub_date": "Sat, 06 Jun 2026 22:44:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0ff66e1d8129ab7912dd9848daf129bdc172e143",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Article highlights escalating strikes and rising tensions despite Pakistan mediating.",
-      "event_key": "100 days strikes escalation pakistan mediation"
-    }
-  },
-  {
-    "title": "US forces shoot down two Iranian attack drones in Strait of Hormuz amid fresh escalation - ANI News",
-    "summary": "US forces shoot down two Iranian attack drones in Strait of Hormuz amid fresh escalation ANI News",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYXo3YVlhOFNmWFV6UG5jbU5odjh2b2FFZHRDZGVBY1p2ZGJ2bkgyNjI4cFY3cy1kYmJjQTB6d19lUWRwMUZKZ3dyRGM0ZXJmUGRmMy1NWkxtbGJjRVRYN2F1VjF2TXFpcjVsUHhKaVNjRWlkUzhyV1Y3NHNWNjZidGM2Q3laZjFpR3U5blpsd1cyTU55TGpxUGxCM09VWmhNc3YtMjdPTWxhVExLQzlFX1JKejNEZVFlQWFXd0VRQjdJLVNVVXh3d3ZrT2ROaTlCWnVSRklB?oc=5",
-    "source": "ANI News",
-    "published_at": "2026-06-07T03:28:00+00:00",
-    "raw_pub_date": "Sun, 07 Jun 2026 03:28:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "756258e60ebbb9d0213a26a7367876e66443a3b1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US forces directly shot down Iranian attack drones, a military engagement and retaliation in Strait of Hormuz.",
-      "event_key": "us shoots down iranian drones strait of hormuz"
-    }
-  },
-  {
-    "title": "Diverging Allies: Is Israel Driving America Toward Endless Conflict With Iran? – OpEd - Eurasia Review",
-    "summary": "Diverging Allies: Is Israel Driving America Toward Endless Conflict With Iran? – OpEd Eurasia Review",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWpHakhadmtsdFdvWE1OTTdUempzOTQ3TldJX0dmZmxMQldHMnhaMnhwcW1nMUw5NlhSRU5wNnpWMktld2o1NmlJQWJZNkttZHNub3ZGUVJUOVlqaHN6LW4wVnVpYTNiaUI2TjRNeGo3WWlCemphbWNJRjJhT3hZeTJWSDZYaGl4c1dBT1dPWmpWZXpqZVVLYWNMZHZod3o1VV9BYzNxNnJQbzJWM2dvMDRfOHUxUzF4WjlMRDFn?oc=5",
-    "source": "Eurasia Review",
-    "published_at": "2026-06-07T00:28:09+00:00",
-    "raw_pub_date": "Sun, 07 Jun 2026 00:28:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7158dfed89c549d676f80b201e210bb147a64733",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.3,
-      "reason": "Op-ed argues Israel is pushing the US toward sustained conflict with Iran, implying rising tensions/escalatory trajectory.",
-      "event_key": "oped israel pushing us toward conflict with iran"
-    }
-  },
-  {
-    "title": "Iran fires warning missiles and drones at US warships as crypto becomes a geopolitical weapon in the Gulf - Crypto Briefing",
-    "summary": "Iran fires warning missiles and drones at US warships as crypto becomes a geopolitical weapon in the Gulf Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FUEEzRjZiSFB2Rk1ESlM2UXQtSkZiRjZRUDB5dnVmSnRodGxlVGpGMm5Wa0xGazVmMktEamFCNWhCMmRSY3BRckliSjkyN3NMd3JqMVAzRUhSNzZxb2V5T3RiaWo5cTBvWllsN3ln?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-06-07T02:30:53+00:00",
-    "raw_pub_date": "Sun, 07 Jun 2026 02:30:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cff481fc83f27a5fc290567892781c8fdb297877",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran fired warning missiles and drones at US warships — direct military action against US forces in the Gulf.",
-      "event_key": "iran fires missiles drones at us warships"
+      "reason": "US shot down Iranian drones in the Strait of Hormuz, a direct military engagement/retaliation.",
+      "event_key": "us shoots down iranian drones hormuz"
     }
   }
 ]
