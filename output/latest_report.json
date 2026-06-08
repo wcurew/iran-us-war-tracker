@@ -1,112 +1,132 @@
 {
   "date_utc": "2026-06-08",
-  "generated_at_utc": "2026-06-08T15:47:02+00:00",
-  "window_start_utc": "2026-06-08T10:48:59.835919+00:00",
-  "window_end_utc": "2026-06-08T15:46:01.848601+00:00",
+  "generated_at_utc": "2026-06-08T20:12:03+00:00",
+  "window_start_utc": "2026-06-08T15:46:01.848601+00:00",
+  "window_end_utc": "2026-06-08T20:11:19.304859+00:00",
   "total_articles_classified": 8,
-  "relevant_articles": 7,
-  "negotiation_count": 1,
-  "ceasefire_count": 1,
-  "deescalation_count": 1,
-  "escalation_count": 2,
-  "proxy_escalation_count": 0,
+  "relevant_articles": 8,
+  "negotiation_count": 2,
+  "ceasefire_count": 0,
+  "deescalation_count": 0,
+  "escalation_count": 3,
+  "proxy_escalation_count": 1,
   "strike_count": 2,
-  "irrelevant_count": 1,
-  "negotiation_ratio": 0.4286,
-  "war_ratio": 0.5714,
-  "avg_strength": 0.7571,
-  "median_strength": 0.75,
-  "avg_positive_strength": 0.7,
-  "avg_negative_strength": 0.8,
-  "avg_source_weight": 1.0,
-  "article_raw_score": 4.6649,
-  "event_raw_score": 4.5024,
-  "batch_raw_score": 4.4997,
-  "war_batch_score": 59.37,
-  "negotiation_events": 1,
-  "ceasefire_events": 1,
-  "deescalation_events": 1,
-  "escalation_events": 2,
-  "proxy_events": 0,
+  "irrelevant_count": 0,
+  "negotiation_ratio": 0.25,
+  "war_ratio": 0.75,
+  "avg_strength": 0.7313,
+  "median_strength": 0.775,
+  "avg_positive_strength": 0.775,
+  "avg_negative_strength": 0.7167,
+  "avg_source_weight": 0.9938,
+  "article_raw_score": 7.6494,
+  "event_raw_score": 6.9548,
+  "batch_raw_score": 6.9754,
+  "war_batch_score": 64.53,
+  "negotiation_events": 2,
+  "ceasefire_events": 0,
+  "deescalation_events": 0,
+  "escalation_events": 3,
+  "proxy_events": 1,
   "strike_events": 2,
-  "war_smoothed_score": 60.12,
-  "trend_delta": 4.54,
-  "trend_label": "up",
-  "trend_label_ko": "상승",
+  "war_smoothed_score": 63.18,
+  "trend_delta": -0.26,
+  "trend_label": "flat",
+  "trend_label_ko": "보합",
   "oil_signal": "강세",
   "defense_signal": "강세",
   "airline_signal": "부담",
   "equity_signal": "리스크오프",
   "gold_dollar_signal": "선호",
   "alert_message": "직접 공격/보복 보도 증가",
-  "summary_ko": "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다.",
+  "summary_ko": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다.",
   "top_negotiation_articles": [
     {
-      "title": "Why the Lebanon-Israel ceasefire hinges on US-Iran diplomacy - The New Arab",
-      "source": "The New Arab",
-      "published_at": "2026-06-08T13:35:15+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGV0YVBhcmpGNnhuc2s2Z3NXMkVabktWRWRKM1RsMlVsNHdyNkEtNEx0aWlrS3VfVlFUaFctOEpBaEVDWjJwRVNSaDR6Y1NYOThKbERQTzMxUjQzV3FSYUlIdW5sTWdXM0pMV1VzcFFhbHNIWEFYdHRGdGhLYXZiZE9GN1RDckVOamNacjI0a9IBlAFBVV95cUxQdDRIbUdzQjdNanZYMFZfZ3dpR0FtUWdsUko4ZThEVWRzWmFraDRJNlN2bDBqUzJISWl1RkVReE1POXZPa2V6UndoQlhWeVVoN3U1c0ZidngtUzQwZzRfckJBaFk4UFh6QXVhdDBRbF83STNWZnF1RENBaHpMZHlxbDVjb1ZUX19yT0xqd282M0otbnc1?oc=5",
-      "strength": 0.7,
-      "source_weight": 1.0,
-      "reason": "Article links Lebanon-Israel ceasefire prospects to active US-Iran diplomatic engagement and mediation efforts.",
-      "event_key": "us iran diplomacy enables lebanon israel ceasefire"
-    }
-  ],
-  "top_ceasefire_articles": [
-    {
-      "title": "How do recent strikes in the Middle East impact U.S.-Iran ceasefire agreement? - WISN",
-      "source": "WISN",
-      "published_at": "2026-06-08T11:34:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanJmSHREbWQ0Zm5XRWRXN1RNQ3JteVB2amdCUVcxbnNjUHZxSFNXNnpkYWxpWldVTXZUSXdfNDAtTkJJblh6anhqNDRtUzdPT0Z2cTVHRUl0MjB4V1FtbE80MHJYM0ZKX1F5SXRhd0g3ZHloRTJ6RE9FU19kbDlkZkdCNnFtZ1pPN3A4?oc=5",
-      "strength": 0.7,
-      "source_weight": 1.0,
-      "reason": "Article examines how recent strikes affect an existing U.S.-Iran ceasefire agreement.",
-      "event_key": "ceasefire impacted by strikes"
-    }
-  ],
-  "top_escalation_articles": [
-    {
-      "title": "Iran warns U.S. over escalation after renewed missile strikes - AnewZ",
-      "source": "AnewZ",
-      "published_at": "2026-06-08T12:44:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjBNS2NaRm5lQ1BuYVp1T1VIa1VCbUoxVkJUbnUtQ0oyU1ZST0IySXVrUExVTktuMk1JWDREMXZXSUExS19tVmctVHlFSWVFRVZlN08xOWlwd215OEpxRkdqX0NMTDc1UTZFWUZaZGVGbGc3MDZhZHJOdjhBTkhhTWdibi1JVlBMVE1MaW9HTjZZb05LWUJDV0daUVFkcnFnQzU0Sg?oc=5",
-      "strength": 0.8,
-      "source_weight": 1.0,
-      "reason": "Iran issues warnings after renewed missile strikes, indicating rising tensions and threats.",
-      "event_key": "iran warns us after missile strikes"
-    },
-    {
-      "title": "Iran Says Israeli Strikes Coordinated With US Amid Escalating Tensions - The Diplomatic Insight",
-      "source": "The Diplomatic Insight",
-      "published_at": "2026-06-08T11:31:12+00:00",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUpBR1B3eUwtOTRNWXBxTS13V0ExckpoYk94d1BSZWE4S1h0VlFBVmxITjMwQkFGQzFRYzEyRGJXY2lXY3pWMS1wMS1xSTVrUzNiTzIxcXRtOURNOTcwdFpBNmtCeUlpQzBMeVl2aW1VMGpfRnV4Zi1tTFVNX0x2SUhWMm0yQQ?oc=5",
-      "strength": 0.8,
-      "source_weight": 1.0,
-      "reason": "Iran's allegation that US coordinated Israeli strikes signals rising tensions and hostile rhetoric.",
-      "event_key": "iran alleges us coordinated israeli strikes"
-    }
-  ],
-  "top_proxy_articles": [],
-  "top_strike_articles": [
-    {
-      "title": "US-Israel Wars, Day 102: Ceasefires Collapse - Iran and Israel Attack Each Other After Israelis Strike Beirut - EA WorldView",
-      "source": "EA WorldView",
-      "published_at": "2026-06-08T12:45:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTm1oQXAxd2MteVBvRXN5T3AxV2tWczFCaHJ2blY3TXVxbzBDN29ETE9aYWxsQlRLTWFvdzdSNUp0OWw1ZEJiNFBHblpJeUszdGdhOGtXUW5sT2FVdjBvRUs5ejgza1Z4T1lyTVJUNzZnckZNdTVxU21CNA?oc=5",
+      "title": "Iran’s parliament speaker says negotiations with US focused on lasting security, not normalization - aa.com.tr",
+      "source": "aa.com.tr",
+      "published_at": "2026-06-08T18:15:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTJjcUpWS0hzTUJSRWNxM0ljbXhEYUZBdF9VUHdrSVlPWmlHYnUtcGhwM3htVjI2TlZNUlBDWEhrMXBMWU5TeWRNUGJfN0F1SDVFb3R4SWN6VHlhbGJUdGo1TXlPTXc5SXBwV0hFa0pCSmpkUEY1X2xfSWZiZmt6UExrREx2MXE5UFBzdHl1eWY4XzlXOTFrcVdnNzJjdVJJdHlXV0wzeUZIMlVPb243QlpDMjlsLTF1dTJXbmJRelVTQmFzWVc1Y1pjOFFnQ1pPMF9qVl93?oc=5",
       "strength": 0.85,
       "source_weight": 1.0,
-      "reason": "Direct attacks exchanged between Iran and Israel after an Israeli strike on Beirut; ceasefires collapsed.",
-      "event_key": "iran israel attacks after beirut strike"
+      "reason": "Reports Iranian official describing ongoing negotiations with the US focused on security rather than normalization.",
+      "event_key": "iran us negotiations security focus"
     },
     {
-      "title": "New Iran Strikes Put US Diplomacy, Netanyahu Strategy on Collision Course - The Media Line",
-      "source": "The Media Line",
-      "published_at": "2026-06-08T12:02:34+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlBQRnVBZV9rWE1hSzZBMnp6cHlGX0RUQUxZTnkzNzJYdC1rN1VsTnRhUFlzUjNtcTFnRk4xaE1Kb013bHpvemozOTQzTDA2bWFaSEs3MDhQY3JBSml3YmFDaWwtaVBILWVydUdhcGx3ejQtUHFJM3BnT0JsenI4WlFtTEg4dUl1OUx4VFo4OXdBM3BSbWt4VnZFZWIwd0JIUlJzazYtNDVjX29LUjlTcHVId3Q5WVRx?oc=5",
+      "title": "Egypt urges swift US-Iran agreement to avert wider regional escalation - Dailynewsegypt",
+      "source": "Dailynewsegypt",
+      "published_at": "2026-06-08T18:27:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGF0enRnbWt6U0hyN3I1eW1IcEJYM1piZ1lwa0ljdDVQWjZZVmZSZThpeWtnOTJKWjhLWmtsYjBDVFRibWhJcnRzU24tS1ZnZzN4UHlpUkZKRlg4dVp2UDB4cGNnd1EwN2c2TmU1eEFwWll6cmxueHlxVzlCMkROU2x3Zl9VTUFSejF6aWZVT2Uxb0k1dkNyY2p2UmZDb1h0bkRLMDlOZ1RIbC1wSTVFWWhuSQ?oc=5",
+      "strength": 0.7,
+      "source_weight": 1.0,
+      "reason": "Egypt urging a swift US-Iran agreement indicates active diplomacy and push for talks to prevent escalation.",
+      "event_key": "egypt calls for swift us iran agreement"
+    }
+  ],
+  "top_ceasefire_articles": [],
+  "top_escalation_articles": [
+    {
+      "title": "Iran warns US over escalation as it signals new conditions for Strait of Hormuz transit - Kurdistan24",
+      "source": "Kurdistan24",
+      "published_at": "2026-06-08T16:25:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QTk9ZRk9kUnk5SGJRZGpZUmwtSEdXdy1ETU9zcVJiOUZDcEF2Ymp0OGt1UWw1WW9Ba3NhbmhiRWVkQ0tpcVhvSE5iRUhwUDM1YWI4d2pB?oc=5",
+      "strength": 0.8,
+      "source_weight": 1.0,
+      "reason": "Iran's warning and new conditions for Strait of Hormuz increase tensions and signal hostile posture toward the US.",
+      "event_key": "iran warns us new hormuz conditions"
+    },
+    {
+      "title": "Ghalibaf says Iran not afraid of US talks collapsing - ایران اینترنشنال",
+      "source": "ایران اینترنشنال",
+      "published_at": "2026-06-08T17:34:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bFRZSTA0UTc0VENNZzJKQ2JBcXEwUUFxMFlyQlBSY3NWOXlGNFJFZWRheDlpVWZhVDZWcGNjTzF2MDc1YjY2Z3hWRWFXOWRPVFE?oc=5",
+      "strength": 0.6,
+      "source_weight": 1.0,
+      "reason": "Iran official dismisses risk of talks collapsing, signaling readiness for diplomatic breakdown.",
+      "event_key": "iran official unfazed by us talks collapse"
+    },
+    {
+      "title": "Trump says he warned Netanyahu Israel could be left alone if it escalated Iran fight, claims US got last-minute notice of strikes - The Times of Israel",
+      "source": "The Times of Israel",
+      "published_at": "2026-06-08T17:48:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY1NYdTlOTjBvRmxDd0JNdzU3Y2NRWDRIV2RVdFBmTTA0cUtUUWpUdjgyc0RCSV9mWGxNM3hyc3FBWnJTOTRHZUJSLWtjVmc5djd1V0NxTlZTeWhzQlpPcmdHNHczV0dpZlV4TUZqaDg0emd0ZEZ3SzUxYms2eXc3cFVMVEdITHhGd1pvYU5fYXBGNE1nSGRqbVA0SmEyOVBMSlFNQnNMdE1PdGl2VU5pX082S2dZUHd5ZjdrSEJ3SWRTTnc0VzBkVTczMnFUNXE3QlVSbWFzNW1SYTZTRmNCTERZSWdobklGbEJRZ0VMRVNCLXQtSjNNTmhXSXl1TldlVS1BRg?oc=5",
+      "strength": 0.4,
+      "source_weight": 0.95,
+      "reason": "Trump's warning to Netanyahu constitutes a threat and signals rising tensions over potential escalation with Iran.",
+      "event_key": "trump warns netanyahu over iran escalation"
+    }
+  ],
+  "top_proxy_articles": [
+    {
+      "title": "Lebanon’s Escalation Risks Derailing U.S.-Iran Diplomacy – OpEd - Eurasia Review",
+      "source": "Eurasia Review",
+      "published_at": "2026-06-08T17:04:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmV5SWZwbk4xdUFLdi14Uk1zLV81cDJOT0lsampJLVJnRVN6MkVDakJrelE0MGxmMkhHa3J3czdwMkNmZ2RZZDdxd2MxTlVTcTJvY1dXYTcyTkJxdUE5OHU5Zl91MFpQZEh4UWxob3o2NE1PUXlMY1VYb3RGMFFzQTBKWm1ZR1lNVDJDM2ZCSk5hVmYtVDNRV2dHbFlOekFZ?oc=5",
       "strength": 0.75,
       "source_weight": 1.0,
-      "reason": "Reports of new Iranian strikes creating direct military pressure and straining US diplomacy and Netanyahu strategy.",
-      "event_key": "iran strikes put us diplomacy under pressure"
+      "reason": "Op-ed warns Lebanon-related (Hezbollah) escalation could derail U.S.-Iran diplomacy, implying proxy-driven tensions.",
+      "event_key": "lebanon proxy escalation risks derail diplomacy"
+    }
+  ],
+  "top_strike_articles": [
+    {
+      "title": "Israel strikes Iran after missile attack despite US warning - MSN",
+      "source": "MSN",
+      "published_at": "2026-06-08T16:28:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcWFSVmNRSmVqQzhFa1B4bHA3dUY3MVY1MVN1cDNHWmZ4cF9Ec2Z3UVhkelBOd2FsQXRmSzVFeHZiRWYzYWZhMmh2UmtZN0F0Wkl6RzlZQmE2bnUyR0NSY0d2b0RteHNYOFdjaHFJTUhsRHlJWV9tbzVGVUEwM1F3M21rV190SVJid0p5ZHI4N2RyZ1RxTWtpOHZESklTSVF5TXNfRHNqZ0piOWdxV2N5b2hNVExhTUZGQ1dYTGZhY0xocUhvMjlSdWpnU200WHdSaXlRQXhWNHlHc3QyenBHdmJMX1BCci1iYjl5R2hLRVUxR28?oc=5",
+      "strength": 0.9,
+      "source_weight": 1.0,
+      "reason": "Israel carried out a direct strike on Iran following a missile attack despite US warning.",
+      "event_key": "israel strikes iran after missile attack"
+    },
+    {
+      "title": "US military helped Israel intercept Iran's missiles: What to know - Al-Monitor",
+      "source": "Al-Monitor",
+      "published_at": "2026-06-08T16:08:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0ZIMFNsaFhuRkM3ZWNXZ3pTZWstMHZyOU1MOHRIdTNrZFBtcW50eHJkZEJiNnQwMHdQRFRzSUprMzJMbjNqM3I4QzNLY2o2RzlpRGR2Q2M4UzV2R1dMMncwSlpWbmU1U1p2NjA0WFZBZG1CVHZnYnp1dE1SN3hqRmFFYUZKQWZyemJnaTBTLW9pdnY1TUh5MUR2SUttM0tCUVdVeFFHcTc?oc=5",
+      "strength": 0.85,
+      "source_weight": 1.0,
+      "reason": "US military directly aided interception of missiles launched by Iran at Israel, a direct military involvement.",
+      "event_key": "us assisted israel missile intercept"
     }
   ]
 }
