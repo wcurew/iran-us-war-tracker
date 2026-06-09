@@ -1,19 +1,53 @@
 [
   {
-    "title": "Iran parliament speaker: Tehran unfazed by potential collapse of US negotiations - Israel National News",
-    "summary": "Iran parliament speaker: Tehran unfazed by potential collapse of US negotiations Israel National News",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aZFY5Y1lhWXM1elRKSTZzc1hXNlVuc0VZaFRTR3kzOTc5X2JaeC1SX3RVdnVLRjNZVnIyOUJQZ0hyaW1KMkhYSkhiTHpibWR4XzlHV2oxN0hLQQ?oc=5",
-    "source": "Israel National News",
-    "published_at": "2026-06-09T01:25:00+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 01:25:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0e54c7f0d65246047094e78343ccea737f7cf41",
+    "title": "Vance says US in strong position in Iran negotiations - Middle East Eye",
+    "summary": "Vance says US in strong position in Iran negotiations Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWVXQjJLTk1tMEtJSlFfU2JBUEgxaXZ4UGtOM1ZVWUNuTDBrNzdVZndkZjJDeU9sWWtxb0ZPeXhkaUFTZ29pX2hmelFzcTZhYVk3LUtFaFkzdlpLajVwSXlfODVlc000U2NKYm41dG1pS2s4bE5ud2oxVlljeXRETm9LWU1JUERuQXZTeUdVX3d1NkJsRTVJeTliWU56OWJMc1pCLWUxVQ?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-06-09T04:22:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 04:22:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "627245a9b006fafcbac91d7d65d50dc46ff228cd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "US official (Vance) comments indicate active diplomatic negotiations with Iran.",
+      "event_key": "us iran negotiations vance statement"
+    }
+  },
+  {
+    "title": "Iranian Official Accuses U.S. of Lacking Interest in a Diplomatic Solution - 8am.media",
+    "summary": "Iranian Official Accuses U.S. of Lacking Interest in a Diplomatic Solution 8am.media",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3AyVmhlTGJUN2JoQXFDUlo3cjliQnJIMEVMbl9OcEVORGJQS1loV1ZYbHlPSlpHMkI0UVotUnN6bktSeUYxRkt2WDFqcVQ4SWNiZEF4dWthSkdzQ0QwQVI4ZU1sOWdwUzhXSnBJREZjTU1jNmFiV1BnR0tEZ3pvUFpXblpKbnp4Y2FYMUN5MVA2MVFRVEFjZDNVWVI?oc=5",
+    "source": "8am.media",
+    "published_at": "2026-06-09T03:04:07+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 03:04:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d74ffbbbd7a7bae367e9b812e7de4b1340490ea1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.65,
-      "reason": "Iran official dismisses potential collapse of US negotiations; hostile rhetoric signaling rising tensions.",
-      "event_key": "iran speaker unfazed by us negotiations collapse"
+      "strength": 0.6,
+      "reason": "Iranian accusation of U.S. disinterest signals breakdown of diplomacy and rising tensions.",
+      "event_key": "iran accuses us of rejecting diplomatic solution"
+    }
+  },
+  {
+    "title": "US-Iran ceasefire holds after Iran-Israel missile strikes - WDRB",
+    "summary": "US-Iran ceasefire holds after Iran-Israel missile strikes WDRB",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3JhZTZfSzJCOEhqYktsZDNmekRBUE53bE9pUzlTZGxPSm9VRnNIWGtWazBVS3d2RDQ1b3hGdE5Kc3BpY0w4dXFRcnVIZU93Z1R4NzBUU184MkZLOFVhdDJtb1Q5VkVadGdWUkpac2dhaHo0SUpRYmhUbnA5ZWZvUmUtS3V4VXN6T2Y0R092RVBMRkZlblBYZS14VDNnbjdPbjdBYkNEeVRFTVNVeS1lTnhLRHlGVmJscjVjYXZ0UC00LThr?oc=5",
+    "source": "WDRB",
+    "published_at": "2026-06-09T03:26:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 03:26:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3832a9f2368cdfc4c1870969469cfa52e2994bd2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "States a US-Iran ceasefire remains in effect after missile strikes.",
+      "event_key": "us iran ceasefire holds"
     }
   }
 ]
