@@ -1,206 +1,359 @@
 [
   {
-    "title": "U.S. and Iran Zero In on Four Nuclear Issues in Talks - The New York Times",
-    "summary": "U.S. and Iran Zero In on Four Nuclear Issues in Talks The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uWEtOZjBVcHJZTTNhTWlKbVVFWkhsRzdLNEZhQW5oVWhIR2dRVURHWjhnMmd6bjhTNHFFdERRVlljQkVMOXhLcHFYNGxOUzlLcDkzak80emk5MFZva0UyS0ZjandZSWxlVVRwVl8tZWs1U1NHN2VXNw?oc=5",
+    "title": "US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast - AP News",
+    "summary": "US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast AP News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFFLOUhHaFBaY2l1YWthbGVtYVByYlZkU3VhRXJxWEJiTmdwNVFWVU5FN0ZSRml0bVU5S3F1Wi1QdFp1bTQ0SE4zeXJadzZ5LVBtdFNHTHh5WWxnTHh5bHVCejk2Zl9HenVXQUNDSGNYWFgtdWVad0NFVWdwZjl0cnRuQ3ZLNUt6NW80Q2Q5cm1iRUpjMk9OVjFRZ3NIa1JNR2JkUHROZzZId2ZDUHJuQWNHcm5icGd1?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-09T22:06:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 22:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d6d5f32e917ecb63b5aedcf097561929142399dd",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US reported beginning strikes against Iran after an Army Apache helicopter crash, a direct military retaliation.",
+      "event_key": "us strikes iran after apache crash"
+    }
+  },
+  {
+    "title": "Peace talks on Iran War in question after Trump says U.S. helicopter was shot down - KCENTV.com",
+    "summary": "Peace talks on Iran War in question after Trump says U.S. helicopter was shot down KCENTV.com",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNk5QdmQ0VHc4YkhDdEExTHAwWE9pUGFMak1yWGZCWG9RQUhHOW5vcTZxRFlEdEl6eU41Tm9yUVBjQmhCd2R0cGtUUkFNUGxuNUdmN2N6YjVYV1hmZEphNVdTM2V5alRGU243Ymd4Yl9NN2xPZWxZMWJ5dWRiQjJsZDJoMzdPNkowcmtaNVhOOXB2Tno5RXp2TDhZLUFaeGg1YVdIZmhNdlg2cTdUY3NzVnBqVUh4bVNIMnRNTTJhSENiMXBjNnBzV1VyUHNEY2JUR0NRZHBGZmEtMFU4cE1NX2s0azdZcVNaNGdDNDBRdElDSzBaVHdvTUZqbERveHZ6U0JMU0RrRUJXeUczeUI4?oc=5",
+    "source": "KCENTV.com",
+    "published_at": "2026-06-09T22:19:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 22:19:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f3ca39821a78a25736addc19643490821aeccf77",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.78,
+      "reason": "Claim a U.S. helicopter was shot down undermines peace talks and raises tensions, signaling breakdown of diplomacy.",
+      "event_key": "us helicopter shotdown jeopardizes peace talks"
+    }
+  },
+  {
+    "title": "US launches strikes on Iran in retaliation for downed helicopter - The Hill",
+    "summary": "US launches strikes on Iran in retaliation for downed helicopter The Hill",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0tfb1VXZG9zWUJ6b2x2NnREV3liMG96TlBlVTVWVWc5MTk2cG9oaVBjNHRCZWluR2NvdXVpVEFSYVFjUVYyd01XQmhjTXpEOE1yZ2hJRkg0RGRLSlNmRFpGbHlsUnJiTkNyRVdxN3c3MU4tdGRIY3V1WkFrdWwxeGpicF95N01uS0lEMHFobHN2WTlIdGttR1pfQdIBoAFBVV95cUxNZ19kY1BnLTFscGxUVHJHdVhXYVNzMjZDdk5XdWV3WHNma1NLaWhXSzVSdTVDMUtpWnNMRGhyYXZqN293UElMVVdkWW1Fel9wWW80S2NoY1JENEFJS01tYXdZVDc2MWNrcng3bnZOYTIyWGF2V3BwdVF5VlJjaWJuN2FQQi02bml1VzBxWC04TU11R1ExYTNQSEtRMWQzMzJQ?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-06-09T21:39:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:39:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "27787990be07e0d4379df8afc6d0c5aed5f5c9fb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct US military strikes on Iran in retaliation for a downed helicopter indicate immediate attack/retaliation.",
+      "event_key": "us strikes iran retaliation downed helicopter"
+    }
+  },
+  {
+    "title": "U.S. Strikes Iran After Trump Vows to Retaliate for Downed Helicopter - The New York Times",
+    "summary": "U.S. Strikes Iran After Trump Vows to Retaliate for Downed Helicopter The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1Nfak0tYi1WWlM0bGR6YUhESzZvLVhqVEFMQm9WUnRfNzRjUlB6enJWY3ZBSmJnOUczR0pOMGxkMGROeTlfVUpjLWRGZkF0dGVRR1FGSDJ1NjhmTUZFUTRRT2didk15ek9vTnVLVkhtSWhBbkdTd081Q19IZGFGLVRIX2FZM1gzLVUyOVNvTGhOakVj?oc=5",
     "source": "The New York Times",
-    "published_at": "2026-06-09T17:18:44+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 17:18:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e21e49adda718fbf8cb77db5a61a8765324646cb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Active diplomatic talks between the U.S. and Iran focusing on four nuclear issues.",
-      "event_key": "us iran nuclear talks four issues"
-    }
-  },
-  {
-    "title": "Trump vows response after Iranian downing of US helicopter amid ongoing talks - Dailynewsegypt",
-    "summary": "Trump vows response after Iranian downing of US helicopter amid ongoing talks Dailynewsegypt",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHctWV9teF9fYmtSb3FFLVF2VWtORHd1RkdtZmI1a2hlelNxSDBIdDBYMWtoenZndW55VE9ZUTZ1bFhLRU8zTTc0YWhnc1JJOWFWbXRVWTlKT3YwdVRJNHJEU2RPOGVIMURaZmhycFY5SHkxbFcxc3g1aEpoRmsxUnVuSl9vNWtRdkZFNkd1d25wYUhDS2IwVFJwUVJNWENxN0lKUVdackdrbGJDVWNrckNkR2RtcDNpU1ltUg?oc=5",
-    "source": "Dailynewsegypt",
-    "published_at": "2026-06-09T18:53:38+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 18:53:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d4846ad8342e2f0c14b3be97a1ef155c3627f77a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran reportedly downed a US helicopter and Trump vowed a response, indicating direct military action and imminent retaliation.",
-      "event_key": "iran downs us helicopter trump vows response"
-    }
-  },
-  {
-    "title": "Trump vows response after Iran shoots down US helicopter - France 24",
-    "summary": "Trump vows response after Iran shoots down US helicopter France 24",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHo0N1pXeG9Ea3EtU19RUXh1dW1tS2NGOUl2TzNlSkhEQ1dZTlZReEpVa3dqQUlONHJVRWRUbFh1WjJEczdDX2MxcDJOU1ZfWEg4T3liOUpFc2NhWDFEZjVGc3hJcW16ODdZSjB4eEVtajZjQTljbjJaT2RGMmZtWHAwNDhFSDBNRXVaaFJRM2k1bUdXNEdBbzRvdWJQbUEyUGxCSUd3?oc=5",
-    "source": "France 24",
-    "published_at": "2026-06-09T18:25:18+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 18:25:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "73d52f32138ad989407f19554ae356c94e27df0a",
+    "published_at": "2026-06-09T22:05:42+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 22:05:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cb95411fe2d27323a3fae3d8922e407a97b56d01",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran shot down a US helicopter and Trump vowed a response, indicating direct military action and impending retaliation.",
-      "event_key": "iran shoots down us helicopter trump vows response"
+      "reason": "U.S. conducted direct strikes on Iran after Trump vowed retaliation for a downed helicopter.",
+      "event_key": "us strike iran retaliation helicopter"
     }
   },
   {
-    "title": "US And Iran Zero In On Four Nuclear Issues As Talks Remain In Flux - Report - i24NEWS",
-    "summary": "US And Iran Zero In On Four Nuclear Issues As Talks Remain In Flux - Report i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzN6M0FKSGUyU3B1cXF2Q1ZUWS11cWVWcVE3MERIclJJWU9ZN2xxbkZld1hsUEEyMHJhM3ZjOFQzeHJ2R0N5a2tBak9HdUg0S3lyQmEtdF9TR1JJZmo5bkpLQzIxbzBVRHhtaHhMLTI3RjRSdHdodUNLNDcxLW9TQ1pReWxQU1hpam5rd0RtOG5SVGsxTGhxanBYTXJwTlZjMTJlOUx3dkNtaUp4OTEyN0FVb0JmT2FTRXZtTHhMMXozTmFPUk9iaVRZX3NhOGpqSFNLMDkwYW0?oc=5",
+    "title": "US launches retaliatory strikes on Iran after Apache helicopter downed near Hormuz | LIVE BLOG - i24NEWS",
+    "summary": "US launches retaliatory strikes on Iran after Apache helicopter downed near Hormuz | LIVE BLOG i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd054eFViTWVHdkI3cmc4U3VNaEpTVDQyMFZuUFVYcHJORURxWTA2RUpMU2hRZTNMbVBHak1QNzRtQTVQam4taWUzVU5LVkJETWZNVlZoQVI0Q1JsMldDV3BZaHM1WTJ1TU1mR3oxTEZkMkphbVBSX2JUbk1ueVdUMTNLSmRtOWdNaXlKZkNjQlZtejVhc0duOHMwRnJ3NlBLOXhiX1lLQnl0Mlc4dURmSExzak1Nc2oyR0ZMLXlKZS1fa0hZUXlocGhBSVJnT0oyaEdrRzZ6UDNISUlYdEE?oc=5",
     "source": "i24NEWS",
-    "published_at": "2026-06-09T19:03:28+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 19:03:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "598469c340fa413724e91913ea671883d5d04181",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Ongoing diplomatic talks on four nuclear issues; negotiations remain in flux.",
-      "event_key": "us iran nuclear negotiations four issues"
-    }
-  },
-  {
-    "title": "Trump Vows Retaliation After Iran ‘Shot Down’ U.S. Helicopter - Forbes",
-    "summary": "Trump Vows Retaliation After Iran ‘Shot Down’ U.S. Helicopter Forbes",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjFDOFk2aGtaOEJHQzhuelhwWVA3bWk0eDljakFHZUhBMUtlSzI1UWk2eWpPR0h0aU9zX292SmJpSldoZGRVVmVETHZKQUxWZERyT1cwR2ZVTkJsVnJkQmFmRVFINDluekNRakU2VVFoVFJoZGdodDZIQnM5RkxuWkpJYTRtaWVjQ0VJcXF2YVFuQ2dWWWkwR3k5THFVUkFDUmtWZE11bVhnMzdPZktGRzZPeU5ZQQ?oc=5",
-    "source": "Forbes",
-    "published_at": "2026-06-09T18:27:28+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 18:27:28 GMT",
+    "published_at": "2026-06-09T22:07:48+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 22:07:48 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1676b36fce509a835bfea95c753ec437d61f0d4e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. president vowed retaliation after Iran allegedly shot down a U.S. helicopter.",
-      "event_key": "trump vows retaliation after helicopter downing"
-    }
-  },
-  {
-    "title": "Trump Vows Retaliation After Saying Iran Shot Down U.S. Helicopter— What Could The Response Look Like? - Forbes",
-    "summary": "Trump Vows Retaliation After Saying Iran Shot Down U.S. Helicopter— What Could The Response Look Like? Forbes",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd29zMklfZHkzRkp5ZWRtQlRrUFZTem9mY091SmVybjU4TXNHNDBZZmdfQUYyaFBOUGwtUTFTRS1YWTlSd1hPZ3dqVk5wTkZ0RnYtWnM0Wk04dVU3S0NDdE9WSk9aelRaUHFZd1FUbW5qUFVjWXVvVDNYOHZESTVZVkV4X3NJVmc1TEpJYUhsYnozenZBUFJCZ0psOWxxLVEtRUFkU2drR3ZwZGRkekt3ZFlGZjBYR0ZFMExnbzdIa3dndnJuRWZfUldURlp6dk56SG8wR0J6RHNLNzJMaHQ0RWZjOA?oc=5",
-    "source": "Forbes",
-    "published_at": "2026-06-09T19:29:25+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 19:29:25 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8556db00115cf406ba23a2205dbb97e0cba9f2bb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US president vows retaliation after alleged Iranian downing of a US helicopter, increasing tensions and threats.",
-      "event_key": "trump vows retaliation after alleged iran downs us helicopter"
-    }
-  },
-  {
-    "title": "Iran shot down US Apache helicopter over Hormuz, says Trump; warns of retaliation - The Statesman",
-    "summary": "Iran shot down US Apache helicopter over Hormuz, says Trump; warns of retaliation The Statesman",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONlJ0YVpzS3ZfQ0xhZ0U3dnJRbjg2aFNUNTl4VC1tNE9zLS1WZjJlckRqU1Q3RUpnVl85b0t4YTZnX0lDV3drRHJoZ29OOUUyRlFZYVVsMzBZSFVHbVVmUXo2ckc2U1g2SUJnMVZEWDZ4RUlzSUhDV1FmMEJ3V0hBVlE5ZWhBcVpNd0ZfX09rVmxOd3Jqd1pkWTVKMjdEV2pqOEV4WWFNbkVmYV92NVVLQ181bEhmR0plZ1JNSEZxYy1SZUxoMHFUUmV30gHPAUFVX3lxTFBrUi1VUloyMUJIZkQ4Wkh0XzJ4Tks3bzBjVHU3N3JfZzU0M1FrdjJ0U0xuUFhzM0pRQ1dFWWo3RHhBSG1NbHU4LXI5UlpIbFRWSHlYeWZoNXBkVW53WTBfNFBHWENQTVF6cFh2WUxXWEltTldfSGZ3anRZaEFMU1llSjdKV2Ywb1czM2dzWG12SVVIdU5BcDJqbjlHQ3hWWFBjcmRSSXBKaVdGSkpybjA1MFZrbHZPem1jc0cxYTVnYVlwc2FjNUViSWVBVUw1QQ?oc=5",
-    "source": "The Statesman",
-    "published_at": "2026-06-09T17:51:00+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 17:51:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "44d91280f480d23213354ed3c0e8b4dd8aa68dee",
+    "article_id": "8bc9ab985c33cbf6131503835b36c70179f18a8d",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Report alleges Iran shot down a US Apache helicopter with US warning of retaliation.",
-      "event_key": "iran shot down us apache"
+      "reason": "Article reports direct US retaliatory strikes on Iran after an Apache helicopter was downed.",
+      "event_key": "us strikes iran after apache downed"
     }
   },
   {
-    "title": "Trump Alleges Iran Downed US Helicopter, Promises Retaliation - Oz Arab Media",
-    "summary": "Trump Alleges Iran Downed US Helicopter, Promises Retaliation Oz Arab Media",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmE4emptS0YzT0hWUnBkUXQ4eEtSUlVxWDd4UFVJdERodUQ0U2pzRU5EV3d4RFRoOWUwaG55Z2xFMm1TWHd1ZmJSQ0xlXzFxbGFtT3dhZlAyU0FUUnZsLVBXQmZPS1l1MU9xTTlLOWdhSW9RVzkxS3doZ3RIc0swNHJkdzFoYy12WlE?oc=5",
-    "source": "Oz Arab Media",
-    "published_at": "2026-06-09T18:01:08+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 18:01:08 GMT",
+    "title": "US launches self-defense strikes against Iran following Apache helicopter downing - Anadolu Ajansı",
+    "summary": "US launches self-defense strikes against Iran following Apache helicopter downing Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0djUGpuRXF2eHdSanNScmg3a1NkR2NadW5FOEFkUTZJUml3SWgzdWwwQThVb1g0RjFqcDJFSEhSbXcweFZvYjZhWmVVRlJJMHM5WWlxbElqNFVUR2dENExNMms3NjI4MElZRllVTXVLcjZHeG9iOHdlZk41cXZRV3hsX3NTT3hjMXhWRDZ1Vi13V3lGUFBrZVdCckNTSkMzT29sdm96ZDFMT1FuQ09tLXE3VmxDS3VJUk5FRThR?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-09T21:43:28+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:43:28 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dbec246bb7564b076fe0af8bc4da35e160bb082d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Allegation Iran downed a US helicopter and promise of retaliation signals rising tensions and hostile rhetoric.",
-      "event_key": "trump alleges iran downs us helicopter promises retaliation"
-    }
-  },
-  {
-    "title": "Trump says US helicopter was shot down in Iran strike - KSBW",
-    "summary": "Trump says US helicopter was shot down in Iran strike KSBW",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclFGNTlOV01pZjVRY1dFRXhVcGY3aFUya2tNM21uN25YVTU3OFI3YmNSbW1KbUZWMnd6MU5QcEFNRWVQemRpRHRfNHNFWFVrVkNENHhmUW1tMXdZVFBMUUgtTjZlNm1KbFVTY1RUNGFBelhQaVY3MXJnU3hYeDd6eTVUQXZuTG40WVF0ejktTDgwREZU?oc=5",
-    "source": "KSBW",
-    "published_at": "2026-06-09T19:10:00+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 19:10:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a67b1f67d664e2b4f90a56c1fd6aa7744b103b0e",
+    "article_id": "adb7047c2a5a6ed557bb3dfec9b391dedda9df85",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article describes direct US military strikes against Iran in response to an Apache helicopter downing.",
+      "event_key": "us strikes iran after apache helicopter downing"
+    }
+  },
+  {
+    "title": "Ted Cruz echoes Trump's call for US response to Iranian attack - The National News Desk",
+    "summary": "Ted Cruz echoes Trump's call for US response to Iranian attack The National News Desk",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU21vS2pMOW9Cd2diUkRuSTdTYWMyRmI5Qm5jeVRIWnE3NUw4U0JzQ3JZNDZoUXgtSXlwM2RqMVlSWElla1NhTUhBMlF5SmFUdnZuRGxEU0xOTjc1NnYwdnZXb0xXR0gzZ1kxVlhEdVVTRFJfZFF1di1ORnJPSGFsSzFCcElPM3g1U0QtbnF1U0lJbjNOQUYyTGE2RzJaYUFJQzl3bzI2RTBHb3ltamFuS3dhWUNmTE10SXJwY3luYlNINjlnaHR6bDBWOGUyd19xVGV3blZmeW8?oc=5",
+    "source": "The National News Desk",
+    "published_at": "2026-06-09T21:00:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bfb35bc284aea6e91e315c448e65f601f4b0f216",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "US politicians urging retaliation heightens tensions and advances calls for stronger action against Iran.",
+      "event_key": "call for response to iran attack"
+    }
+  },
+  {
+    "title": "Trump says US will retaliate after Iran shoots down helicopter - JNS.org",
+    "summary": "Trump says US will retaliate after Iran shoots down helicopter JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXoxSW5qQnZNWkt6clhYd053SVpremNZOUo1S2tYTmc0cHNlbHRYMW8wUU5rQWYyV25QLUNNMDJYeUtMSlo0dGhyZ2NqbnoyZU9xZm5senVPMTFUYmFWRWNlSGhGVWdoNDlscVk4d0k1NlhuRUtsNUgwRVpmMkwxQzNHYTZyNEdQODVEdUNSczh3c2xNWTkxTTNCTWM?oc=5",
+    "source": "JNS.org",
+    "published_at": "2026-06-09T20:46:40+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 20:46:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "727d2abfb9fb41cc7a154b235a385bfd52787874",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.85,
-      "reason": "Reports a US helicopter was shot down in an Iran strike — a direct military attack/retaliation event.",
-      "event_key": "us helicopter shot down in iran strike"
+      "reason": "US president threatens retaliation after Iran shoots down a helicopter, signaling rising tensions and potential military response.",
+      "event_key": "trump threat retaliation helicopter shootdown"
     }
   },
   {
-    "title": "Trump vows response after Iran downs U.S. helicopter - Axios",
-    "summary": "Trump vows response after Iran downs U.S. helicopter Axios",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHctWTdhb2F6YkNDQnlEN2hqYUtBdm1VdkNsZlZxS2w5Y2F2Yk1VMlZKVVFjbnB5MUFVdTM0VlNGNzJ6YkxlTEs4N0stdHppX3Q5Uk1vV1V6aXVPTlFvVHhsU1RHb08xeDVTZlk5aWMtYW1JcWd1cmpJYU10aFgydUZOak4yZ2M?oc=5",
-    "source": "Axios",
-    "published_at": "2026-06-09T16:54:33+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 16:54:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "839122020d1d31588e813531da3e86965510d82c",
+    "title": "U.S. launches new attacks on Iran in response to downing of helicopter, CENTCOM says - NBC News",
+    "summary": "U.S. launches new attacks on Iran in response to downing of helicopter, CENTCOM says NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0lCdGM4alVyQVVLYXZyaWZVX3Fha3NZc1lVdHRwN2lxeV9XVnlDWGV4cURyWDRTeU9rUHE2ajZBUlJQd0dYQW4yR1NBM0poblhmQXhLTkhPMTBUTVRCazJXMllnVGJ5Z3V0dGxYbWRJcDRFUFZrVDBCOWJoMllEeE01YUxOQXFkM2FVVXM0d3BWVGpGMGdwZG5ZYkRabG1KQ05WRWVQdmpMUQ?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-06-09T21:27:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:27:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "046f2acca695906692f51ddeee1c5220ad081a22",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran shot down a U.S. helicopter and Trump vowed a military response.",
-      "event_key": "iran downs us helicopter trump vows response"
+      "reason": "Direct U.S. military attacks on Iran in response to a helicopter being downed.",
+      "event_key": "us attacks iran retaliation helicopter"
     }
   },
   {
-    "title": "Fears of Escalation After Trump Says US Must ‘Respond’ to Iran Downing Apache Helicopter - Common Dreams",
-    "summary": "Fears of Escalation After Trump Says US Must ‘Respond’ to Iran Downing Apache Helicopter Common Dreams",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBTmJjZTkxUTE0cDdYbWRrQlRqZThUWmdSWjFibmpxTzlGcGN5SDMwU3pxOWRiNmdJVm1PVFpjVHF0S29RYWhmMUd2cGdTc0ZYaDIwWlN6MjlTdE45Mk0ySnVLek5PbEpiSVJYazBhZXY?oc=5",
-    "source": "Common Dreams",
-    "published_at": "2026-06-09T18:56:22+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 18:56:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "52a13f4a6582bd9578836ebeed6dd204c7995da0",
+    "title": "U.S. begins retaliatory strikes on Iran after Apache helicopter downed near Strait of Hormuz - NBC News",
+    "summary": "U.S. begins retaliatory strikes on Iran after Apache helicopter downed near Strait of Hormuz NBC News",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGVoRzVha2p1bDRicklMTmlreGdLNWpyeVlmRk83NnNzT1VnbDhQbjFUY2FMYmQ2SHlxV3BYZEZEMnpXcm51bFYxWUF3LTk3NkxWX21UdTJ6OVlCN3BfeENQYlpyNVB2bUU4M0c1VU1KMWZMY3hsOGdMVk5FNGI0cEZpWmFnQ0RYWWxpVDVPQkVucUE0amlOaFFzOGZPbDBJVWdRYVM5ejVZcGJOR2hWSmVUMUgtU01QaHp4MHliSjVuZWxiRlBwYkVoY3BiMnc?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-06-09T21:42:37+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:42:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "543507c3f0afc37d5268e13ca2b886cd2f623468",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US launched direct retaliatory strikes on Iran after an Apache helicopter was downed near the Strait of Hormuz.",
+      "event_key": "us retaliatory strikes after apache helicopter downing"
+    }
+  },
+  {
+    "title": "Trump accuses Iran of downing US helicopter over Hormuz, vows retaliation - The Times of Israel",
+    "summary": "Trump accuses Iran of downing US helicopter over Hormuz, vows retaliation The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdThQbVhwNjZGZzV6UVZPcW1GTDV0eHl3bjI1cktnR3lwRlB3RXZWT0Q1V0lNM1VPRlpFOG5GRkd5MV9Dc2s5M21HakF5d1lhZnJOejYxT19fNG40VHpWTkV5RXBhbGpLaGMzclFTc3B1ODNDNUh2cWZ3MUoyZFVobTRuSDczM1dCRlB2QU90UEJRcV9SSkNwSkdvWFB5M1JEc3BFYkVB0gGrAUFVX3lxTFBFSnQyTS1VV09RUzNoQk9zVWpQWGJxdFlNOVJOdWE5NVQ2QmtWazY4RFN1aUlVcm03TlRqSXRBTjNDdWUyYXF2Q25xMXJHU3JHOVBKQWhVbVIxUHB5aTFiLXhOTEhfdjRNYWREQVViX09BRFgzOEwxRXo3dzhYa0hsU1lfOURHeEFNSlViN3A1bEtkdmVkQ0VLd0tFamE4ekNBUlZvVWlRZ01Oaw?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-06-09T21:18:00+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:18:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "db53ec9bcce376dc11c69c439634c72aa53651ab",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US leader accuses Iran of downing a helicopter and vows retaliation, signaling rising tensions and threats.",
+      "event_key": "us accuses iran helicopter downing vows retaliation"
+    }
+  },
+  {
+    "title": "U.S. miliary strikes Iran in retaliation for helicopter shootdown - ABC17NEWS",
+    "summary": "U.S. miliary strikes Iran in retaliation for helicopter shootdown ABC17NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2p1dm9CcEN3STJXN2M2T2tGdjNseHR6MjZDT05CWGF6dE1nTXNMcmFtbUVDbXpCNlZYYTBaX01Hc214VlA2X2VMX2NlUWhBLUhBYnNtYUFXQnZuWnYyMm9sVloxSjNLWHhtWi1QWnpnQV9KWkJSclFrNVNpYUlJWWhSYUdjQS1ETzhta25kWUVMN0N3ZWo0THcwUUQ5d3A4Qm5LanJSQ0lwRXc?oc=5",
+    "source": "ABC17NEWS",
+    "published_at": "2026-06-09T21:57:43+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:57:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "01422aaafa58f530b259d2f0abab2040235def00",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct military strikes against Iran in retaliation for a helicopter shootdown.",
+      "event_key": "us strikes iran retaliation helicopter shootdown"
+    }
+  },
+  {
+    "title": "U.S. Strikes Iran After Trump Vowed Retaliation For Downed Apache Helicopter - TMZ",
+    "summary": "U.S. Strikes Iran After Trump Vowed Retaliation For Downed Apache Helicopter TMZ",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Zc2hfUW9BdzdjMlZSb1J4LXNtS1hxMlFUN0xaNlRlaHRVbUtyME1lcm5nWG5JTUpZZE5WQUFnWEdJZWxTdDk0WXdqcC1yRUFZcDlrc2t6WW1uRXowNS1mQUlPbzY5aVNEYkl5bzhOMkFJMl9HbjJKOUY1OA?oc=5",
+    "source": "TMZ",
+    "published_at": "2026-06-09T21:49:56+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:49:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2620d9499d8c00e4be0e60d1e866f40955898e2d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports of a direct U.S. military strike on Iran after a promised retaliation for a downed Apache helicopter.",
+      "event_key": "us strike on iran after apache downing"
+    }
+  },
+  {
+    "title": "US launches retaliatory strikes against Iran after helicopter downed - Yahoo",
+    "summary": "US launches retaliatory strikes against Iran after helicopter downed Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFJKQ2Y2WW83aEN2UzkwaDk4Y3ZHcDB1ekdRSFVrMWc0bUhRT3B6VXJlNEdIaDRvTFJfeXdDN05ieVRtamFQRWlwLWJoQ1V0VWw4VUNrNVNjTlMwM3dLN01WOE1Ca3NmRDVpQm5mNGRNZG1FM1lnX0JnN2pzdS16aWE1MnJZOG9pcFByejNYVkY0TExJMlBCRGhFRHNmRzZU?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-06-09T21:55:29+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:55:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "228c0120bf03b63ec1ffc400fbc83dee8d26b749",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US carried out direct military strikes against Iran in retaliation for a downed helicopter.",
+      "event_key": "us retaliatory strikes against iran after helicopter downed"
+    }
+  },
+  {
+    "title": "US military says it began launching strikes against Iran - Reuters",
+    "summary": "US military says it began launching strikes against Iran Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN09WanUzUnFZcDRJcUFoVHdKY0tLUlZaeFhGZENDYVJ0MnUwb25zNWdOSU1VNTJJSDVWQ1Bkdlg2NzhGeDROU1pENG9wdjlPOE02enNacEEzRFR6NnpHOUhTOWIxVjN5QnFtYWlqOExubUprQTNUWGVUdkRrbFFOemoyZURyZS10dkFZaVBQR3Y1RWo3N0VhaVpIczBYbmM?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-09T21:24:07+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:24:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "336e94e36aa2bc4e72e5685458ce2bae796a9e7f",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US began launching direct military strikes against Iran, indicating active attack/retaliation.",
+      "event_key": "us launches strikes against iran"
+    }
+  },
+  {
+    "title": "US launches new strikes on Iran after helicopter downed - Yahoo",
+    "summary": "US launches new strikes on Iran after helicopter downed Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk80dVM4REU0SVV0a1MxVTk5RmVZNGo3bUM2VXJqSFMxenB1a25TQWxRRm9Lc3gwNkZGZ1VnU29Bc0NGSmFJcHliaS1CZXJ5TUNWdUFZYXY0SWRjUEZ4Wkg4aTRHd0JCVWlQa2xmVjBSUG0tdDY3ZWlCYVJSbC0ySzVOYU5rdE91cFU4WkhoQjRTbUh1ZEkySGswX1VERVhyZDBPaTduN1pKNkR2SkxDSkpUdW81Z1RBLURIT09EUTRpdHVnMnVBUk1xQnc?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-06-09T21:58:06+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:58:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "90c504a30dc91f5794f034277e9bf101cce6a95d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct US military strikes on Iran following a downed helicopter; clear retaliation.",
+      "event_key": "us strikes iran helicopter downed"
+    }
+  },
+  {
+    "title": "Senior Iranian lawmaker says regional energy infrastructure could be targeted if US attacks Iran - Anadolu Ajansı",
+    "summary": "Senior Iranian lawmaker says regional energy infrastructure could be targeted if US attacks Iran Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZi1EeDNrVGItZ185NmtWWlRXdGpGOE1sYUJGZzBrM3ZkX1lfRHlKaFVqRVQ5U1otMFh4cHlURW9tQ1R3N0hxbTdWUkl4eGNEUHFiT2NNRWx3N0ZUR1EyZVJhQzk2X1EtZzVFRUE0cDV1Si1CS0RlM2RoeTNOeFpvRnhtMDdWM2NfbjVfcGUyaVU4bFA4QU5zMDVfeDZwNW9BdmRwb2w0T0dnbXpjUXlMdW1HYU95RmlvTExlc1YwV1VNWVRSUFoxQUhpZWI4UTFmbmk1V1BOeHZNYzBacDB4OUtR?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-09T21:50:41+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:50:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2b1af6989acd4af43ef427ba561769afbfd6ed26",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iranian lawmaker threatens to target regional energy infrastructure if the US attacks, increasing tensions.",
+      "event_key": "iran threat target energy infrastructure"
+    }
+  },
+  {
+    "title": "Ted Cruz echoes Trump's call for US response to Iranian attack - WGXA",
+    "summary": "Ted Cruz echoes Trump's call for US response to Iranian attack WGXA",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEs0MnF2RFRiWEVUVm1WdTR6Q2ZWZ1c4cmQzZ3pkX1JGamVYNHZNQ2VOZG9VQ0xtZWgyVVh0TG5kT1hDYTdKNldsdFNGUUZjMjRqSWphdkdoZEJfajZ5X0JKRV9EOWdvaGdCTUdTUlVnZW5TUTJwUXBpUTNmZkQwQzY3cXliTzc3eWhjTDIzS3FmYXRmZVFGZWVOek1RMHF3SjRtbkZDb2pZanYzX2pjMXBsZDlZZHl5ci1uMS1yRVZXdw?oc=5",
+    "source": "WGXA",
+    "published_at": "2026-06-09T21:01:15+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 21:01:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ad7ed7267c0fdbd7fbc31944040bae71dbe0f033",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US political leaders urging a retaliatory response elevates tensions and signals escalation.",
+      "event_key": "us politician calls for response to iranian attack"
+    }
+  },
+  {
+    "title": "Trump Promises to ‘Respond’ to Iranian Attack on U.S. Military Helicopter - News of the United States - NOTUS",
+    "summary": "Trump Promises to ‘Respond’ to Iranian Attack on U.S. Military Helicopter News of the United States - NOTUS",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0pvWHZUS2REeERySlN6cFZpamlRY25jUWZ1RzFHdm5JbXhFZkVXcHJxT0cwQVVXUW5YZk5XekQyd1FESzljTWdWdGx5N2Nzd3hGZ3l6Ymd3Q3dLM1hYdWtBYlZKVk44WnJ1SkZNa2Z5ZE9zd1ROUkczOG82ZDZ0SA?oc=5",
+    "source": "News of the United States - NOTUS",
+    "published_at": "2026-06-09T20:43:43+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 20:43:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "55741143a56cbac78cc8ebedba73553b4dbc57f7",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Trump's call that the US 'must respond' to Iran downing an Apache signals threats and rising military tensions.",
-      "event_key": "trump calls for response to iran downing apache"
+      "reason": "President vows to respond to Iranian attack on U.S. military helicopter — threat of retaliation raises tensions.",
+      "event_key": "trump pledge respond iran helicopter attack"
     }
   },
   {
-    "title": "Brookings' Michael O'Hanlon: Latest acts between U.S. and Iran are an escalation - CNBC",
-    "summary": "Brookings' Michael O'Hanlon: Latest acts between U.S. and Iran are an escalation CNBC",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSll0dHFlVmIwNzA1RGVYVFNPMF9LQUs2Ry1TR2h5S091cjB0Wm4xWUp3Q0d2Y3B6eVBfSWMxbXdWMmpiRG5zcUZ2Vk1LZmFRS0NWa2pSd240dFFnYzJTMnhFcGxtdVgyNWJqUnZzdnZ0cVQ2N2lNa3hoRkpPYVlHemJiTjJZNW9lVXo3NVZ2VE51anY5cU9tNFdYVm13bGo1dnhMN0tFSFNxYjA1MUZGa2NMeDVHUQ?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-06-09T19:07:51+00:00",
-    "raw_pub_date": "Tue, 09 Jun 2026 19:07:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c34c0087d19b097d768d07a64cae4f456212e963",
+    "title": "Trump vows response after Iran downs US copter - The Express Tribune",
+    "summary": "Trump vows response after Iran downs US copter The Express Tribune",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkpFU2NQand5VXhzSkwzRlZibWxuUC1VbDliR0o1MFh6U200VUtRMHU1TTg2STNFTktYVktVRWp3ZGRNSWZNNnRsS0NYU21oTVNnUjNWXzVnYU9PY3lnaHczeExhX1RmbXg0NEFxR0kzdXhTdXZOcHlQSjVISWJaMXNYWTZXTDZMbjNv0gGTAUFVX3lxTE53aFE4UW1GMEkxeDZNZWloMFUxZ0owSUVmbkU0cHJ2QmNQcHI1S1hEb0pNOFJKczl4cC14UWhNWE0yLVRnam1CbzZ2WTJoZ3dKdHpGUXpQZE90TzJ2SjhJbDVDXzlqaml0OFRDOHQ3Y09CSWJwNDhwSWhBMmNsUW44QUdvbDJvQVozVk5YdHJUbmp5SQ?oc=5",
+    "source": "The Express Tribune",
+    "published_at": "2026-06-09T22:16:59+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 22:16:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3c905444040ecd9450a9f9590f943cf93f59e832",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Expert commentary (Michael O'Hanlon) characterizes recent U.S.-Iran actions as an escalation.",
-      "event_key": "us iran escalation ohanlon"
+      "reason": "Iran downed a US helicopter; Trump vowed a retaliatory response—direct attack and imminent military retaliation.",
+      "event_key": "iran downs us helicopter us vows response"
+    }
+  },
+  {
+    "title": "US hits Iran air defenses in warning shot as Trump says deal talks to continue - investingLive",
+    "summary": "US hits Iran air defenses in warning shot as Trump says deal talks to continue investingLive",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbU96TEh6ejVET2JlVWdMaDlVQUpUcjVNZk5acDhPdk00UlRYZm4weGlhZHpCSWxMclBTXzFsUkhacUlHN3YzYkJZOFdZdVFRN3g2Q05IeDZobWJUVGdMMGZIbFRxbS1zU2l0TnYyQ2IyUnJ3Xy1WQ3N1WFJ5TmFreG9PenVrcE9lMjlreklpNmhodV9QRXRjY0tFb3Z3Ung1UWhVM2VzLXBqbHd1QXFpa01MeHRqaE9mX2d5ZmI2ZUdSV202?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-06-09T22:16:19+00:00",
+    "raw_pub_date": "Tue, 09 Jun 2026 22:16:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ce41a61aa326e10e32af13a7c21a7d2dfebce705",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted a direct strike on Iranian air defenses amid ongoing talk claims.",
+      "event_key": "us hit iran air defenses warning shot"
     }
   }
 ]
