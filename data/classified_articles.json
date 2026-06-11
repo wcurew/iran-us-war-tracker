@@ -1,155 +1,53 @@
 [
   {
-    "title": "Iran, US reach 'agreement in principle' on ceasefire, Tehran tells mediators: Report - Anadolu Ajansı",
-    "summary": "Iran, US reach 'agreement in principle' on ceasefire, Tehran tells mediators: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWtNVE9hekw0RzBVMV81YklCOC1VYkFtTDRNeEROdEhXeXBGei11d3NOaFp4dFhJX3gteHc5RVNvRThReHoyLWlfMWdKMEtxb1IxMFNBLWVNQ1RCOVJCb0xMLV90OGRxZmVxbUxXNThDbEllanZKS0RkZl9pcWwwNkNsSnBST3ZQOVZwQTZvTlpnc0ZHR0oxVWY1dzBraWEtUGtJVWlhd1EyTndzN0t3NnptdVM5LWlEOVpqSlJR?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-06-11T18:57:10+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 18:57:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "26e5a4c6915e989311b026d60bddb118c208ba6d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "Report states Iran and the US reached an agreement in principle on a ceasefire via mediators.",
-      "event_key": "iran us agreement in principle ceasefire"
-    }
-  },
-  {
-    "title": "Trump says he has canceled plans to strike Iran - The Washington Post",
-    "summary": "Trump says he has canceled plans to strike Iran The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDlrbERzZVp6YW9PdnZwY04tb2U5c19zVDZyRTZfajNxeEx0dkFpS1o4anpXVUdEczZHYkJXZWM4WVRlYk9jM0E3MTdMdkliQVRvTmI3TkFsU0s0c0tkSGN5TzZtZE9KODQyTjlXbkRENXpHM1JuMDJzcTBRRENxS0ZzRVQtdExacHp1Nld5NXhLNlVCQjRIQnlBeWVRYVFFaUtYRkVOWFZwWGlT?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-06-11T20:00:27+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 20:00:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2765cbee23a23f66119e32eea019a4f3565e7242",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.85,
-      "reason": "President Trump canceled planned strikes on Iran, signaling restraint and reduced immediate military escalation.",
-      "event_key": "trump cancels iran strike plans"
-    }
-  },
-  {
-    "title": "UN's Guterres Calls for Return to U.S.-Iran Ceasefire - U.S. News & World Report",
-    "summary": "UN's Guterres Calls for Return to U.S.-Iran Ceasefire U.S. News & World Report",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEozOVpXbGs2ckFmVEQ0Mk1BRXcwYmF5SkFUeVRob2EzNkdCdm9VU1ltSDJELU5TS1dCb1FkTWFfcDlXd0tLYU9YenNEWkctNWdtV05hNlVVcjFOdVhjREhSb25sZml6Zk9HdEhzQ1l5MnBVV0NTd0VyaTJYQmhsNTdrUjFySGc1amxtUWlNLWppQmgxMVk5Z09FQVNaR05wQlJSNFJLU1M?oc=5",
-    "source": "U.S. News & World Report",
-    "published_at": "2026-06-11T16:37:21+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 16:37:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "67a1c8d2be0684a328318faaaf5fecbbf9585331",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "UN Secretary-General Guterres calls for return to a U.S.-Iran ceasefire.",
-      "event_key": "guterres calls return us iran ceasefire"
-    }
-  },
-  {
-    "title": "Trump cancels US strikes on Iran, citing progress in talks - The Detroit News",
-    "summary": "Trump cancels US strikes on Iran, citing progress in talks The Detroit News",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWlA1Qlhzd1hKTXQ0ZlFiRnNWZ0NGYmRDUnZITS1yZnFPbm42cDF2R19NV0ttaFRfWTRTT3pKZm5oNWx5cGhlLWxnRWlORkN3QUlCVUFUTDdxRkpyUkZKOGg5UXlRMC0tSldINExFdnV3LVdzU0hPbEtaWXVBdUg4Nkk4NmRPOERVU1p3d19SVFlXclptRmNNaGJadjJmZVcwRGJTTTBmQzBwNWJER3paR3g2MGxncjJoTExiTkFpaTVOMVBENkZ1cXFB?oc=5",
-    "source": "The Detroit News",
-    "published_at": "2026-06-11T18:22:00+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 18:22:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a3b91d71905842e85315d641c6c00fea7c02664",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Planned strikes cancelled citing progress in talks, indicating active diplomatic engagement and negotiations.",
-      "event_key": "trump cancelled strikes progress in talks"
-    }
-  },
-  {
-    "title": "Fox’s Iran hawks are getting the escalation they’ve wanted - Media Matters for America",
-    "summary": "Fox’s Iran hawks are getting the escalation they’ve wanted Media Matters for America",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLThMUGt2ZEQ4ZHpKMWVvNGpPQXU2QV94YjNocVZGV0hXdmtsem1pS1NlUV9uVlZUYVhEUzJxRXlHbzNWRVVfbW1lY19adlRwTHU1OW90SWxEbW1KQ0ZSeHl2TDVuOVFoU2liQy1hMTVQV1EyUHg1YzZWS3JKZlR5SEtWN3VSNFQ5S0pDSFd4TkVTRmM5RXlETU5JZWMzcFBh?oc=5",
-    "source": "Media Matters for America",
-    "published_at": "2026-06-11T16:21:31+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 16:21:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e74121dabe7e5f93f7a185821cce9f11bda2cab3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Media commentary claims pro-war commentators are encouraging and benefiting from rising Iran-US tensions, indicating escalation.",
-      "event_key": "fox hawks pushing escalation"
-    }
-  },
-  {
-    "title": "The Latest: Trump Says He’s Called off New Military Strikes on Iran After Threatening Escalation - U.S. News & World Report",
-    "summary": "The Latest: Trump Says He’s Called off New Military Strikes on Iran After Threatening Escalation U.S. News & World Report",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDdHY0ZZemV0Vm9POTJ6NzlHMFBoTGlUZzBlMlNKb3VaU01VekRVRU1QMXYxN1B5TXFGWlVGRnM2NU1VZnBMZGhYUTkzOXVnTFktYWdDTlVoWTYtb01WTlpsMFpWZ3FPYzVtRTVhN2doM0ZrLWNEb1F5NUV0UXNjRGVxMnVRd3Y5NE5MYktnV2NUd3lTcDN2QUdwaGJRV0NLcWl0bFVZV2ViNFI1QnhybkE5eEJEUDhkVnhDVmdFNUgtVlRzZEwzZEFSekdMcHRDUjN0ZWlRUUhFZGhaWFJoNQ?oc=5",
-    "source": "U.S. News & World Report",
-    "published_at": "2026-06-11T17:03:11+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 17:03:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a13f945ef7c4d4b286832b0581b62595da2b3a4c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.8,
-      "reason": "Trump announced canceling planned military strikes after threatening escalation, signaling restraint and reduced immediate risk of conflict.",
-      "event_key": "trump called off planned strikes on iran"
-    }
-  },
-  {
-    "title": "Escalation Fears Persist: Iran, Israel and US Exchange Strikes as Truce Efforts Remain Fragile - Georgia Today",
-    "summary": "Escalation Fears Persist: Iran, Israel and US Exchange Strikes as Truce Efforts Remain Fragile Georgia Today",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUpzQWdlSThCOFFjYlZLdnFTN1o0N0FqOEhPazdsRnZHNEUxQ2h2b2JuV1JJaFB5YWllSHVzQVFmVERMb1dBZ3Z1QnlOeE4zTzg2X3FZbDNCRkNzTFh2MDN0QUhCa0gzNE1wVnY5bFV0ekRNNlJVQ0ZVa29PS2ttTUFNZVllSzVjM29DazhfWEc0cWdVOTVHaWpGZ1NEYTdHc1NsR2ZXb1U2dEhjb0VYc2wyUXVxYkVh?oc=5",
-    "source": "Georgia Today",
-    "published_at": "2026-06-11T16:25:37+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 16:25:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7334bd09346284e12348bb30e1e3accc8038a799",
+    "title": "CENTCOM investigating reports US strike hit water facility in Iran - ایران اینترنشنال",
+    "summary": "CENTCOM investigating reports US strike hit water facility in Iran ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QbEpCc0Rxd200bU5vaFdJVHg0d1VKNDdXYkF1YVBtNGZKdUNPaHExNU1WQnZVSlUzNUQwTWc5cWNOQVI3MjVHTmk2VWZfRzJRelE?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-06-11T21:42:56+00:00",
+    "raw_pub_date": "Thu, 11 Jun 2026 21:42:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "567d012edeb9a37e7bdfab8c4f4c96f25ed09395",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Reports of strikes exchanged between Iran, Israel and the US; truce talks fragile.",
-      "event_key": "iran us israel strikes"
+      "reason": "Reports of a US strike hitting an Iranian water facility indicate a direct military action/retaliation.",
+      "event_key": "us strike hits iran water facility centcom investigation"
     }
   },
   {
-    "title": "CVA Warns Against Escalation and Deployment of U.S. Ground Forces in Iran - Concerned Veterans for America",
-    "summary": "CVA Warns Against Escalation and Deployment of U.S. Ground Forces in Iran Concerned Veterans for America",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDJrZEdQOVhoZ1h5cEd5a19uZF8za2tFSTdzYm9HY3VqaXBJRDZwcGhMYkJjSU5nb1VqV2lSTXJfbUxacFFrekZNSlpEOXRzVkY3MWE0cjNVM2FUU3E2bURyRmU2VEF0dEZHRjBWRUFtREJ3Yk1jUGJqbmpGcWZsdDNvSVRVTEt4MHF6V0duNVBkVUJuNTlJSHNzZk51RmxmNmFZ?oc=5",
-    "source": "Concerned Veterans for America",
-    "published_at": "2026-06-11T17:04:32+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 17:04:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "37b8ce7999ff21afb62258377b51ee6f01fff20f",
+    "title": "\"Iran agreement is in final shape\": US President Trump signals de-escalation - FXStreet",
+    "summary": "\"Iran agreement is in final shape\": US President Trump signals de-escalation FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNThLRmdYMFcyOEdhWTNpRE9qYW5LMEJXeFZVenpaS2FUZFd3UFVWcWdjUVVUaERmTVhaZWpicVE1NmswYzR3eU1XLUd2d0FPbXZKWjVGdUNYc2p2ak1ELV8wZ1RmVUF6RmQ4TmxoR21GNmtpT2gycXBpVTJKU05ENjRjdFducHNxeVo2TGRsTUI2YTJ5cDlZbTVENFpJUk0yZFZGc0VnTUtHQkV0Wng5TzhSeDdJZVE?oc=5",
+    "source": "FXStreet",
+    "published_at": "2026-06-11T20:32:04+00:00",
+    "raw_pub_date": "Thu, 11 Jun 2026 20:32:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "48809277e02e3e8d809f1015f05456484ebaf3fd",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Advocacy group warns against escalation and U.S. ground forces deployment, signaling restraint and desire to avoid wider conflict.",
-      "event_key": "cva warns against us ground forces in iran"
+      "strength": 0.7,
+      "reason": "US President signals de-escalation as an Iran agreement nears final shape, indicating restraint without explicit ceasefire.",
+      "event_key": "trump signals deescalation iran agreement final shape"
     }
   },
   {
-    "title": "Trump Cancels Planned U.S. Strikes On Iran - The Whistler Newspaper",
-    "summary": "Trump Cancels Planned U.S. Strikes On Iran The Whistler Newspaper",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVnowbDVtalZWTV8wTGdGX2JmY3l4VHU1SEJmZE9IOV83NE8yQUxBSERUcXB3ajZRNy1ybHFIdlJzOXM2TlFJeG0wS2NnX1N5OW9famFTZTN4cng2Qm1kVW0zTlBOVC1CNDA5TElxeHVhd2c?oc=5",
-    "source": "The Whistler Newspaper",
-    "published_at": "2026-06-11T18:24:26+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 18:24:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "801561e48fed11140a81ca9fb647bb2f299e0e1d",
-    "source_weight": 1.1,
+    "title": "Iran MoFA: Ceasefire ’Meaningless’ After US Strikes - اسلام تايمز",
+    "summary": "Iran MoFA: Ceasefire ’Meaningless’ After US Strikes اسلام تايمز",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzAwVW5iVl9xSzNLNG9sZnVHV0FFYm5IQzBxd1c3QlhDSWtLSWRrYTRtQjFQeXFJLUVhOWJ5U3QyNjlOQ0dBa3VfWEtvNVhKNl8xNmdmbmwyN3U4NzJxX3BVR1FGZzhHU215eDhVRjZvUGx1aThybjdSMUJNT29EcHdSYW0wbnUxSkJ1X3Z1Nkx4M3FtTnc?oc=5",
+    "source": "اسلام تايمز",
+    "published_at": "2026-06-11T21:47:54+00:00",
+    "raw_pub_date": "Thu, 11 Jun 2026 21:47:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7081b9df7d8abe199991a9d6e18ca150c9b902b0",
+    "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "U.S. cancelled planned strikes, signaling restraint and reduced immediate military action.",
-      "event_key": "us cancelled planned strikes on iran"
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran's foreign ministry rejected a ceasefire after US strikes, signaling heightened tensions and diplomatic breakdown.",
+      "event_key": "iran mofa rejects ceasefire after us strikes"
     }
   }
 ]
