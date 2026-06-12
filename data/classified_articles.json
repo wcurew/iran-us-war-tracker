@@ -1,53 +1,189 @@
 [
   {
-    "title": "U.S. and Iran Trade Strikes for a Second Day - The New York Times",
-    "summary": "U.S. and Iran Trade Strikes for a Second Day The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aV05JeGgybkVNbms1UjJ3N1lDSHcwUHMyVk1MeUg3TVJSZnB3QzZwZEdaRXVQcUZJWnNFSm5nU2xvQTBkalRlWkM4SGwtRm1zOVVROVJsbU5tLUo4dEZMQzl3S0hiWDBIQXkxbWlBMmM?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-06-12T00:41:00+00:00",
-    "raw_pub_date": "Fri, 12 Jun 2026 00:41:00 GMT",
+    "title": "U.S. and Iran trade attacks again after Trump pledges Tehran will \"pay the price\" for not accepting deal - CBS News",
+    "summary": "U.S. and Iran trade attacks again after Trump pledges Tehran will \"pay the price\" for not accepting deal CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vTExmRnBjdWE2OVBETi1wR1RFSXpYUVFhbldzcS1QLXBmand6SkJhc1NkZXViczhKeWZ0Q3dmM3Y1Qkh2MDM0WUZ4NzJKdldmNk40UUM2VFBTaVV3N0o2ZjN0NDh4cWJQVUlnTWQxN3dHc0pldkh1YWJ3?oc=5",
+    "source": "CBS News",
+    "published_at": "2026-06-12T08:36:19+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 08:36:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c9562d04a84c65f2953bf2bd0530093409d74302",
+    "article_id": "0c64b7b72a7f0038f5264d1630bb50fefd48177b",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct reciprocal military strikes exchanged between the U.S. and Iran for a second day.",
-      "event_key": "us iran exchange of strikes second day"
+      "reason": "Reports mutual attacks exchanged between the U.S. and Iran after a threat.",
+      "event_key": "us iran trade attacks after trump threat"
     }
   },
   {
-    "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show - BBC",
-    "summary": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wXzRnSGZYakdxem5yWWkyRWthWG1ydHJzakd6Ri1IY09ZcG1GOEN2OWhUXzBIM0NXOVBaUEFDYnVMRXhfVG01blVWTF8zeVlHMnp5QVY3S2stZw?oc=5",
-    "source": "BBC",
-    "published_at": "2026-06-11T23:37:15+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 23:37:15 GMT",
+    "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz - Al Jazeera",
+    "summary": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDhTX21qcUUxYl9GaWJYeHZkeXlUYlRMeTNuTDlvVDBpUkQ5ck01RHNjcVllMFFXTzZPZ2ZpSy1QNmdSdi1fRTVvNF9xckhRV3NGa0VhLTVmRDJFZFMtaGdVV0NlODZKaUhrbXBrVmhuWTFuanBad3lVa3VfLVNmVXAwanBxV0J5UWRQQV84WElyeElKRmNEQ1Rzb0FUOHpwM1pFdXp2VdIBrAFBVV95cUxOWC10aVQ0NzFHWG5QUWZrcEhOU19KT1dYSFFfTld1SjJIUE9WUnREMExIZ0YycVFjbzliRmhoQ285b2tuTGdzVFdxVjc2SFduZ1QyZ1FSYUZuOFlJNDMyblk0ZWdISWRfU2xsbjBGQk5HbkV2X0JlODFFSnhzYldoMDIzUGt6RkZkMzNXTHZEcUZabndwWFNCVHNtODV1bmVGMlpKeWktWkVhQ3BQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-12T07:52:09+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 07:52:09 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7b5087a15c83cd253d211c7a6dd4d2f119751733",
+    "article_id": "e7e03b4e618ce508180ab0a5b0cb02146d2a09e6",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports US strikes that damaged over 50 Iranian military bases, indicating direct military action/retaliation.",
-      "event_key": "us strikes damage iran military bases"
+      "label": "proxy_escalation",
+      "strength": 0.6,
+      "reason": "Reports Indian sailors killed in the Strait of Hormuz despite a US‑Iran ceasefire, implying proxy attacks continue.",
+      "event_key": "hormuz indian sailors proxy attacks"
     }
   },
   {
-    "title": "IRAN TO U.S.: \"EITHER OIL AND GAS EXPORTS ARE FOR EVERYONE OR THEY WILL BE AVAILABLE FOR NO ONE\" Iran's top joint military command, the Khatam al-Anbiya Central Headquarters, warned on Thursday that the United States would face a \"m - facebook.com",
-    "summary": "IRAN TO U.S.: \"EITHER OIL AND GAS EXPORTS ARE FOR EVERYONE OR THEY WILL BE AVAILABLE FOR NO ONE\" Iran's top joint military command, the Khatam al-Anbiya Central Headquarters, warned on Thursday that the United States would face a \"m facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZHdvemhsSVYySG9TdURWR2dUaExNY09kVXVpRlpFSWRKVTJPYXlWVnFyQjlzenEyMWpGOFF0OU5hLUpFcVBGLUpVQ2hJMnU4R2czekNVQTBoaEZoOE1jMDZyby0zeVVfNHJYVEsyb0thZ0dsa2JheDJZTGp6YnQwNHU4elBaRVhrSmd2cmF6ajFxdGc2bnFXSi03RUhPOWxUdFF0SzFQVXQ1d0RyV3o4QVdIamg3RFlrdV92QXZrbWhwUEpSM1E4WllZamFlRFNzU1phakluOEJ3UWs5azJLTw?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-06-12T00:29:18+00:00",
-    "raw_pub_date": "Fri, 12 Jun 2026 00:29:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7c7dbfc0f514e2d8c375275de7fbb7f54e2e55ee",
+    "title": "Draft U.S. accord sets 60-day negotiation for nuclear deal, says Iran media - The Hindu",
+    "summary": "Draft U.S. accord sets 60-day negotiation for nuclear deal, says Iran media The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckd1TGxWdGhTVnFkdlB3R2JRMXZUcHF3REdXZzJrcUN2eEhEZEVvTVZ2RWZfbVgwWUF3ZkdJV1M5Ulc0YTJHRnl5MkVhWmhXYjI5eUtRTlVEWmd5Y09DS3FNNVZkck5MbEdReHRnZGJCMUxudS1uSlRNR3ZZdFBzR2JKSW5HWEpDWll1MFJHR1diMGVISjNUNzFSdUpJTnUzamJKYzJBT0NHTWo5LUttc0JKMXI1eHIw0gG_AUFVX3lxTE42Z2dfcVZNU2RtdEltclc0VlRNbDVVd3NmTTkwNTlsVy1MRVM2ZV84Y2JhN3JFUUs0anUzVjNxV3VGVXdlNlc1UXFZZUhVSW1DZTBOUVRCWFBaZGJvS1FaRV81OExvZnJ4bzEyZ19vZEpRZ2RacFVkSUZzdnhUcUtGTndfVlpULXBXZENCZDJpWjRmR0YwbUV4N3ZKN1pYS1UzTmE1RC1HdTk0clo2Y21jYWxobjRuVEFubHIyWk5Z?oc=5",
+    "source": "The Hindu",
+    "published_at": "2026-06-12T09:44:57+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 09:44:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cb3b3757b8d316c15303d51ce217fe2016292340",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Reports a draft U.S. accord initiating a 60-day negotiation over a nuclear deal with Iran.",
+      "event_key": "60 day nuclear negotiation draft accord"
+    }
+  },
+  {
+    "title": "Qatar pursued secret talks with Iran to shield gas complex from strikes, security officials say - The Washington Post",
+    "summary": "Qatar pursued secret talks with Iran to shield gas complex from strikes, security officials say The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVng1ZXkzVEtCQVhkc1ZWajNYWmRiYjZ4bWgzRnlKWi1UUmRvSkNHWTdEQzlmQW1zM1dEb1hDVXpheS1mbzdoSkx0empVMkNfLWJ0MnFRSzVSalkxLWFveXJRVldjdzNocmVzMDdCOHlSRmtGRlNBaE9hSnIxZExnZG0xSEtBbnVmbVRubzJiU3h2alNweGl3Yy1keWRONF9veWt5eDRzVWtDSERvamJTWDJ3?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-06-12T09:14:21+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 09:14:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "061e38007dc4a0a5cc2b7f11e0f010378b4afc5a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Qatar held secret talks with Iran to shield a gas complex from potential strikes.",
+      "event_key": "qatar iran secret talks gas complex"
+    }
+  },
+  {
+    "title": "Iran says missiles off table in US talks, demands $300 billion in war damages - Ynetnews",
+    "summary": "Iran says missiles off table in US talks, demands $300 billion in war damages Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10NUFPanIyU0pjanh6VmVOQ3FFazNrRXV3ZllkbENRckdFTGpJWFhkME5WN1R4WEkyWG5NOW9adnlqNWg1eERNVEw0enJCTVdOV2YwNzhnQQ?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-06-12T09:20:56+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 09:20:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b6b9f6ddcf50f43b78d9ff6834bcbd041a33fdb9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Iran making demands in talks with the US, discussing missiles off the table and war damages.",
+      "event_key": "iran missiles off table demands 300bn"
+    }
+  },
+  {
+    "title": "The Iranian missile cities the US could not destroy - Financial Times",
+    "summary": "The Iranian missile cities the US could not destroy Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWFnTVZpS0dXR2VvdUtZdlZWRWpqQTBUT3Z6VjFkaXdXYXV6VVMwcjE4bVBZMlh6QzBZd181S2V5MmVCSW41X3RTRnc0NXRUVFI0TUZ0bDc1YTU3QUJqNXQ3NDhwQXV3VG1ySkZiVC1xVlhwT3pIbDVCaXAycGE4VTlrY0Y?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-06-12T04:22:43+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 04:22:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7311462ab9b2a8c43da514f3d511bde8c6ce714a",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Historical/feature piece on Iran's missile infrastructure, not reporting active Iran-US conflict developments.",
+      "event_key": "iran missile cities feature"
+    }
+  },
+  {
+    "title": "Iranian report: US will lift sanctions, release frozen funds in deal; missile program, proxy groups not up for discussion - The Times of Israel",
+    "summary": "Iranian report: US will lift sanctions, release frozen funds in deal; missile program, proxy groups not up for discussion The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeUI2LTNqZWgzNTBmVEN6SFZjWFJqbG9kc3RUVHJ6OHhWanM2TEEtRmxZdjJlUnFyMUExVGFJUlU5ZG1UajR5VjdKUGhWNjJ6d1kxR0x5MlZSQkRfZUQ2Wl9CWTFYRDE3M2Nvb3ZUeGNRQmpZczJTOEVpeEVNQUYyVml4RWhhR1RtalNpOTFsY0NXV2dnTTQ1cGdVWFlJNWpkbVFONkFpbXB5Vm9XN2xTYkpfU09oZno5ZVFTYk01LVpnRFlxN2RjWVJHbFdmRVVocmQxMkxYYmk3OUhVX3l2anZ0bEJUNzgwTUtfek9SS29fOVJTMFE?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-06-12T09:03:34+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 09:03:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a81f39b1cb46cedc4707d64c415b714d4a68acf2",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Report of a deal where US will lift sanctions and release funds; negotiations exclude missiles and proxy groups.",
+      "event_key": "us iran sanctions release deal"
+    }
+  },
+  {
+    "title": "Trump Says US Has 'Ended War With Iran' After Deal Claims and Kharg Island Escalation - Kyiv Post",
+    "summary": "Trump Says US Has 'Ended War With Iran' After Deal Claims and Kharg Island Escalation Kyiv Post",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sUzVwWElxMXZ5UlROemFvWmVBc05mS1NsTTBCV25DNDhWNFo4Y1c5c25nTWh2c0pHWHRhblI3SnZldThHQkpoSm5uRQ?oc=5",
+    "source": "Kyiv Post",
+    "published_at": "2026-06-12T09:00:21+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 09:00:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c210ae57d283c1e6afb6b0eb785f707b259ebbfe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Trump's claim of having 'ended war' signals calming rhetoric after Kharg Island escalation, not an actual ceasefire or negotiations.",
+      "event_key": "trump claims ended war after kharg island escalation"
+    }
+  },
+  {
+    "title": "World Insights: U.S.-Iran escalation signals war dilemma, adds uncertainty - Xinhua",
+    "summary": "World Insights: U.S.-Iran escalation signals war dilemma, adds uncertainty Xinhua",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3LW5rSFI5MkV5M242b1dSbVJBVDU1alhxNWxqSFFIeVJCM0t5OHFOVnJsVU1vZG5kV2N2RDlaUllhTFpNOVlpTzZUb2o3cENzd0wzam5Od0JjZHpKZVl0aVJFSHdNQmtTM0FSMDFycmtVM2piR09YT0ZYa0w?oc=5",
+    "source": "Xinhua",
+    "published_at": "2026-06-12T06:05:00+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 06:05:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7db8eba91ac61f2252fdf62c4cf07f966b8eaad2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's top military command issued a direct threat against US-related oil/gas exports, signaling hostile escalation.",
-      "event_key": "iran threat to oil exports"
+      "reason": "Headline explicitly frames U.S.-Iran tensions as escalation and growing war dilemma/uncertainty.",
+      "event_key": "us iran escalation signals"
+    }
+  },
+  {
+    "title": "Milan Stock Exchange surges at open on hopes of U.S.-Iran de-escalation: Banks rally, oil retreats - marketscreener.com",
+    "summary": "Milan Stock Exchange surges at open on hopes of U.S.-Iran de-escalation: Banks rally, oil retreats marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQzNHTy1SOW41Sk5MVGN4THQ0SDNKUVNNeVczVTMtNG15SjdHOTZNSFl1Q25LSGJ0NGZWd3AzaWNJbERsOUFFVHY0MGl0TnZxTjMxSHJ4N3pOMlY5c1ItZ1B0c1IycldobklkR2x5RTFKS0ZSclFDMmhfUFV5c2dnelV2d0FVZl9scTliUlNDM202VUFTeFpSQlZWSm5aVVJSQlU1YzVLYWlIaDVSVGJaMVBnY2ZCaG15NDBFUDJzQlA5Uzhfd2cyMmlXdks0TUNJaDR1cEdwY0xsdFVwdG80a1lR?oc=5",
+    "source": "marketscreener.com",
+    "published_at": "2026-06-12T09:16:39+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 09:16:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bb2e52b62ff28829d9d6feb0db18be59718091f8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Markets rally on hopes U.S.-Iran tensions will ease, signaling perceived calming rather than concrete ceasefire.",
+      "event_key": "market hope deescalation"
+    }
+  },
+  {
+    "title": "Iran Warning Forced US To Drop Kharg Strike Plan? Big Statement After Trump’s U-Turn On Cam - The Times of India",
+    "summary": "Iran Warning Forced US To Drop Kharg Strike Plan? Big Statement After Trump’s U-Turn On Cam The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSm9HaG1uY1NHUmJFYnZFZnp4dE5ic29HdFBmT1RjYmR0XzJrd3duWk1FdUpTM3ItWE1pT0NTenl6OTlGZ0lvb24xd0Z2VkxVTTJSVWoyRzFEMXlvWldON1l5NmswVm1jcl94bDduYm9mWWlDaG10VC1HTmg5NTBiNWdYLXd6OE56RFljcUUwSkVVWWxmTVBVdGMtMHZpbnpxUzc2QXh4eDZQb1k3MFRuSEJCa3QzRFJPSmYtdkV2SGJ5TnpvMGdiSjkzdWFoZm13M3FmWVdvc0xJQUtrbEJMNW9ydzdCWjlIUXJDbjRtVk5tYU9rZm92MjA5c2g2WW_SAYQCQVVfeXFMTVROUEtIWHhQZ0RndEN6WDZ5QVlYaTNpVHItU3kteUlQRXIxNE9XRWdUXzlmeldaZ05hZnFUaHlFZV9teW9jcWtQWnFwUG0yU2Z1aXFGVWdyTGFPYXMtM0kwWU1DRlVZVmNseWJEVUlRZDBOWFBJUDZlaVVORTlZZWw0VTNZWlp6ZVZ3a0lEdnMtUnB1Q1BaeFZobzF5X0JRWWJlZ2F6ek10ajJZNUNPZ2kxUDZQcFdZbnYxNjRVTXgtM3djUlpkY2w2R0N4czdfa2Z1Ti1JZlRfY3paOXh0b1ZfbTRjNXhtSUo1YW5xc2lpUWZWcUgwQm5hNVZfZmg5cXltRzk?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-06-12T05:26:45+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 05:26:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a42742c55b31f4027a19e6358ae1c7e7ca160ef2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "US reportedly dropped a planned strike on Kharg after an Iranian warning, indicating restraint and avoidance of immediate attack.",
+      "event_key": "us drop kharg strike after iran warning"
     }
   }
 ]
