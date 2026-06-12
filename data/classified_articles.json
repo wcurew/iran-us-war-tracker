@@ -1,53 +1,53 @@
 [
   {
-    "title": "CENTCOM investigating reports US strike hit water facility in Iran - ایران اینترنشنال",
-    "summary": "CENTCOM investigating reports US strike hit water facility in Iran ایران اینترنشنال",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QbEpCc0Rxd200bU5vaFdJVHg0d1VKNDdXYkF1YVBtNGZKdUNPaHExNU1WQnZVSlUzNUQwTWc5cWNOQVI3MjVHTmk2VWZfRzJRelE?oc=5",
-    "source": "ایران اینترنشنال",
-    "published_at": "2026-06-11T21:42:56+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 21:42:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "567d012edeb9a37e7bdfab8c4f4c96f25ed09395",
+    "title": "U.S. and Iran Trade Strikes for a Second Day - The New York Times",
+    "summary": "U.S. and Iran Trade Strikes for a Second Day The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aV05JeGgybkVNbms1UjJ3N1lDSHcwUHMyVk1MeUg3TVJSZnB3QzZwZEdaRXVQcUZJWnNFSm5nU2xvQTBkalRlWkM4SGwtRm1zOVVROVJsbU5tLUo4dEZMQzl3S0hiWDBIQXkxbWlBMmM?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-06-12T00:41:00+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 00:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c9562d04a84c65f2953bf2bd0530093409d74302",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct reciprocal military strikes exchanged between the U.S. and Iran for a second day.",
+      "event_key": "us iran exchange of strikes second day"
+    }
+  },
+  {
+    "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show - BBC",
+    "summary": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wXzRnSGZYakdxem5yWWkyRWthWG1ydHJzakd6Ri1IY09ZcG1GOEN2OWhUXzBIM0NXOVBaUEFDYnVMRXhfVG01blVWTF8zeVlHMnp5QVY3S2stZw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-06-11T23:37:15+00:00",
+    "raw_pub_date": "Thu, 11 Jun 2026 23:37:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7b5087a15c83cd253d211c7a6dd4d2f119751733",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Reports of a US strike hitting an Iranian water facility indicate a direct military action/retaliation.",
-      "event_key": "us strike hits iran water facility centcom investigation"
+      "reason": "Reports US strikes that damaged over 50 Iranian military bases, indicating direct military action/retaliation.",
+      "event_key": "us strikes damage iran military bases"
     }
   },
   {
-    "title": "\"Iran agreement is in final shape\": US President Trump signals de-escalation - FXStreet",
-    "summary": "\"Iran agreement is in final shape\": US President Trump signals de-escalation FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNThLRmdYMFcyOEdhWTNpRE9qYW5LMEJXeFZVenpaS2FUZFd3UFVWcWdjUVVUaERmTVhaZWpicVE1NmswYzR3eU1XLUd2d0FPbXZKWjVGdUNYc2p2ak1ELV8wZ1RmVUF6RmQ4TmxoR21GNmtpT2gycXBpVTJKU05ENjRjdFducHNxeVo2TGRsTUI2YTJ5cDlZbTVENFpJUk0yZFZGc0VnTUtHQkV0Wng5TzhSeDdJZVE?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-06-11T20:32:04+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 20:32:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "48809277e02e3e8d809f1015f05456484ebaf3fd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US President signals de-escalation as an Iran agreement nears final shape, indicating restraint without explicit ceasefire.",
-      "event_key": "trump signals deescalation iran agreement final shape"
-    }
-  },
-  {
-    "title": "Iran MoFA: Ceasefire ’Meaningless’ After US Strikes - اسلام تايمز",
-    "summary": "Iran MoFA: Ceasefire ’Meaningless’ After US Strikes اسلام تايمز",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzAwVW5iVl9xSzNLNG9sZnVHV0FFYm5IQzBxd1c3QlhDSWtLSWRrYTRtQjFQeXFJLUVhOWJ5U3QyNjlOQ0dBa3VfWEtvNVhKNl8xNmdmbmwyN3U4NzJxX3BVR1FGZzhHU215eDhVRjZvUGx1aThybjdSMUJNT29EcHdSYW0wbnUxSkJ1X3Z1Nkx4M3FtTnc?oc=5",
-    "source": "اسلام تايمز",
-    "published_at": "2026-06-11T21:47:54+00:00",
-    "raw_pub_date": "Thu, 11 Jun 2026 21:47:54 GMT",
+    "title": "IRAN TO U.S.: \"EITHER OIL AND GAS EXPORTS ARE FOR EVERYONE OR THEY WILL BE AVAILABLE FOR NO ONE\" Iran's top joint military command, the Khatam al-Anbiya Central Headquarters, warned on Thursday that the United States would face a \"m - facebook.com",
+    "summary": "IRAN TO U.S.: \"EITHER OIL AND GAS EXPORTS ARE FOR EVERYONE OR THEY WILL BE AVAILABLE FOR NO ONE\" Iran's top joint military command, the Khatam al-Anbiya Central Headquarters, warned on Thursday that the United States would face a \"m facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZHdvemhsSVYySG9TdURWR2dUaExNY09kVXVpRlpFSWRKVTJPYXlWVnFyQjlzenEyMWpGOFF0OU5hLUpFcVBGLUpVQ2hJMnU4R2czekNVQTBoaEZoOE1jMDZyby0zeVVfNHJYVEsyb0thZ0dsa2JheDJZTGp6YnQwNHU4elBaRVhrSmd2cmF6ajFxdGc2bnFXSi03RUhPOWxUdFF0SzFQVXQ1d0RyV3o4QVdIamg3RFlrdV92QXZrbWhwUEpSM1E4WllZamFlRFNzU1phakluOEJ3UWs5azJLTw?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-06-12T00:29:18+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 00:29:18 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7081b9df7d8abe199991a9d6e18ca150c9b902b0",
+    "article_id": "7c7dbfc0f514e2d8c375275de7fbb7f54e2e55ee",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran's foreign ministry rejected a ceasefire after US strikes, signaling heightened tensions and diplomatic breakdown.",
-      "event_key": "iran mofa rejects ceasefire after us strikes"
+      "strength": 0.8,
+      "reason": "Iran's top military command issued a direct threat against US-related oil/gas exports, signaling hostile escalation.",
+      "event_key": "iran threat to oil exports"
     }
   }
 ]
