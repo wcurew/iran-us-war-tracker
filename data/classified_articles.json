@@ -1,19 +1,53 @@
 [
   {
-    "title": "Poland to End Fuel Subsidies Amid US-Iran Peace Talks, Tusk Says - Bloomberg.com",
-    "summary": "Poland to End Fuel Subsidies Amid US-Iran Peace Talks, Tusk Says Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3psZFd6d25xMDZQQmRtdVV3aTBpTDBrcHpRY1FRZEVuQmRwTmgyVXRlZi1yX1RIQjIxaXB2anJ6a0pDeDFwV3Y2WmxSN2hfVURJY0dXVlJUU2dLb2pKN0R2M2dvbGxyOTB1UE9na09TS3U3NzQ1RjNtWm1oSXU0cW55U3ZKdzY1c2JOSThqUjdjRmMwOFRxSVJialZTMk9qQXIzNVZaOHUzSEdxZkluRTUzMmc?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-06-13T09:44:13+00:00",
-    "raw_pub_date": "Sat, 13 Jun 2026 09:44:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9162ee3209d3c33d1ff82fbc8bd269cde9bdaa58",
-    "source_weight": 1.1,
+    "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near - BBC",
+    "summary": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbDM5eldoWW54T1NESmcxenViSnhRMk1VaWh2UjB5eF9Lb194QW1IUmt1QUxLLUc5VF9Vc1RHNS1iTENwcTNMaHVJV2haaGx2UXZhN04wSFNodw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-06-13T11:15:18+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 11:15:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4f864799bd56e03715e13c845662c49e051d8bca",
+    "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Article references active US-Iran peace talks influencing policy decisions (Poland fuel subsidies).",
-      "event_key": "us iran peace talks"
+      "reason": "Article reports Iran claiming a deal with the US is near, indicating active diplomatic talks.",
+      "event_key": "iran us deal near"
+    }
+  },
+  {
+    "title": "Strategic Failure: Iran Defies US Bombs, Rebuilds Missile Fleet via Underground Bunkers - Kyiv Post",
+    "summary": "Strategic Failure: Iran Defies US Bombs, Rebuilds Missile Fleet via Underground Bunkers Kyiv Post",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01MnB1UWNGMWdNbGhmNW5mZ095REZCSmxxbTRNR19OVFNxS3RnTDZmY29nXzdRcUJRUkVPZ0JxN0NvWXhPQnJYSmhMYw?oc=5",
+    "source": "Kyiv Post",
+    "published_at": "2026-06-13T13:35:32+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 13:35:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "57b03885ac7a07b8f08232cb9cbfd989bb77fbb9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Headline describes US bombs and Iran rebuilding missile forces after strikes, indicating direct military action.",
+      "event_key": "us bombing iran rebuilds missile bunkers"
+    }
+  },
+  {
+    "title": "Asset Seizure Warnings: US Leverages $24 Billion Against Iran as Naval Escorts Guard Global Oil - Kyiv Post",
+    "summary": "Asset Seizure Warnings: US Leverages $24 Billion Against Iran as Naval Escorts Guard Global Oil Kyiv Post",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtaEk1aWdnN2l1R3NSLVpYYkdTOTBXQkpKYTdxNWtyTmVMN3VPejJQcEZxLU5lNzlZb2diVjlReUw2ZmFBSm5objFjZw?oc=5",
+    "source": "Kyiv Post",
+    "published_at": "2026-06-13T11:51:29+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 11:51:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "38d81fc120215f36d376819ade3935b1164b3878",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US asset seizures and naval escort measures are coercive actions raising tensions with Iran.",
+      "event_key": "us asset seizure naval escorts against iran"
     }
   }
 ]
