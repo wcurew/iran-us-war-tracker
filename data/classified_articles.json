@@ -1,53 +1,87 @@
 [
   {
-    "title": "UAE to unlock frozen Iranian funds amid US ceasefire push - Al Jazeera",
-    "summary": "UAE to unlock frozen Iranian funds amid US ceasefire push Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEpCOTZVYUpWWVZud04zZU9zYUZQUzVRbjJZWnJvbWItV0dXOTRid3dySUx1dHRwMHdaZ1YwQlhqNzgwc3BPeTBWR2JxZXBDMmlRNmlNbWJNcHZRNmlaX1VKRUJtb1VvYjM4cU9tQTZOU01qVWlsWW5MRmVLbERTalA0VVdLQlJfVXZpQ0h1U2dQWUQzRTdnTjh6U1pqdzTSAaQBQVVfeXFMTnMxWjVDVnZ3RU1sVE52OU9TcXlIMnhQclp0WTJtaHJwTUFwdDRNXzJrc1JiNEtwUTN1eDJqSmN2dUY0dGt1TXBZNGVncWx6amptamx0NmQ3U3MtRFlkck5QU0hJNFV3N1dfZ2Jld0I4M3dSQ0ZuTUhBYnNpa3kzaWlqekV3WklDUnRHTjhvaFlJaldFTEItcUdzc1kyQ3N0OGNsMnE?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-12T21:03:51+00:00",
-    "raw_pub_date": "Fri, 12 Jun 2026 21:03:51 GMT",
+    "title": "Is a U.S.-Iran Deal Within Reach? Six Key Issues That Could Shape a Ceasefire - Council on Foreign Relations",
+    "summary": "Is a U.S.-Iran Deal Within Reach? Six Key Issues That Could Shape a Ceasefire Council on Foreign Relations",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmRzbXB6UnZEUkNKVEpGZ0NyTWt3YlZzR3BfSUk1cE05NjA5QnNEeWFxNEZoV0ttUU9JeTVrRXV1RUJ3RHFaS0hMSFh2WDltRHJVREZReDB3NWNIVXJDRTB2ZkdNYVEyVE1UaDV6ZVJkMTVYaGotWmxFR3BhbFNiYjZoZlVoMW41c2t6b2RISW1QSUFUbU5oT0lFYzhnaGxHcjlJVVJldw?oc=5",
+    "source": "Council on Foreign Relations",
+    "published_at": "2026-06-12T22:29:42+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 22:29:42 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0e204a08b739060b2fbef788b729ef8edb50cba5",
+    "article_id": "6b8981bf049e1ebfc890de141993d32554934809",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.75,
-      "reason": "UAE releasing frozen Iranian funds amid a US ceasefire push signals restraint and de-escalatory intent, not a formal ceasefire.",
-      "event_key": "uae unlocks frozen iran funds"
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Analysis of diplomatic issues and talks shaping a potential U.S.-Iran ceasefire.",
+      "event_key": "us iran ceasefire negotiation"
     }
   },
   {
-    "title": "Trump said Americans' finances don't motivate him in Iran talks. How are people doing economically? - WRAL",
-    "summary": "Trump said Americans' finances don't motivate him in Iran talks. How are people doing economically? WRAL",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmEyMl9HdEJRbUthbDRVSUdBaUhfRUVTSzhGWHg4aUF1aW1tLVdLdHVzSjlUaUk3Ri1NVW1XeWtDb01HM0JEQU00U092LVpyOGx5WkY5d2o3WWIyazkwMVJWRHJ5UVZBSnhLTEdHU25Oc0dxanRoaVZFVkgzYng4OXdNTUYxTG0zQXdTeXNWRXQwUQ?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-06-12T20:17:43+00:00",
-    "raw_pub_date": "Fri, 12 Jun 2026 20:17:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2a5c794e3363193d058a7797753987f69d5dd395",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.75,
-      "reason": "Focuses on US economic conditions; Iran talks only referenced incidentally, not detailing conflict developments.",
-      "event_key": "trump economy comment irantalks"
-    }
-  },
-  {
-    "title": "Pakistan’s U.S.–Iran Diplomacy Sought to Prevent a Militant Spillover - The Jamestown Foundation",
-    "summary": "Pakistan’s U.S.–Iran Diplomacy Sought to Prevent a Militant Spillover The Jamestown Foundation",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTJTTmdHcXA2OG1pQmZWc01jem9mM1QtYXNJUVZScnp3U1V6MHN2bF9uNDRGWTB5cXNwdEZEWUhnVFRuTy1oNG9rQzdPcUIzaWZ2RFNPdXQ4RHlRbTA5WEV0UWE2LV94VldJcEZwcmdHZEh2SU5YejZJbWpOQ1o4dEI3MUNVMVhTQk5xWmJGVU9kNXY0?oc=5",
-    "source": "The Jamestown Foundation",
-    "published_at": "2026-06-12T21:00:00+00:00",
-    "raw_pub_date": "Fri, 12 Jun 2026 21:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fd2b6dee61dc8b2f2c43e74f33c82d9dc1c99c1a",
+    "title": "US and Iran approach a ceasefire agreement, but they're not 'at the finish line yet' - Scripps News",
+    "summary": "US and Iran approach a ceasefire agreement, but they're not 'at the finish line yet' Scripps News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaFhldFRBMmxEakktWVBPVEFZeEZVcmFmMU02TEdYbE9WQVpLa2hEbGRKeDF1R2RQTzRaYk1Ea1JZdktJSS1qX1JCY2EtN3ZhUXREeFh4cFR5UVlkV3R5c1I5REdSU1A2aHZXM0oxREtmSV9mUWNmcHpjcG1HeEVwVFplczVkVndVQTJYLVdBYk5pZ0taUTNXdFJ4NGxFUUpyaEtzWFRwWW5MVlpvdmhjdGZRUUQyT0pDcnFzRndwOHRRVDQ?oc=5",
+    "source": "Scripps News",
+    "published_at": "2026-06-13T01:14:14+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 01:14:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5aaf16d52128f31bc34039b531bd2ab5c18ec42d",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Pakistan mediated U.S.–Iran contacts to prevent militant spillover, indicating active diplomatic engagement and mediation.",
-      "event_key": "pakistan mediation prevent militant spillover"
+      "reason": "Active diplomatic talks toward a ceasefire but no agreement finalized yet.",
+      "event_key": "us iran ceasefire negotiations"
+    }
+  },
+  {
+    "title": "U.S. and Iran close to signing ceasefire deal, officials say - The Washington Post",
+    "summary": "U.S. and Iran close to signing ceasefire deal, officials say The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMldkdDk1MEIxLUZIZl9XVlB3WlF4U3ZGTUtlMjlHUXpvUUZac0Ywc016OEtoMmtsTFhhanlQN1hNQllVZXZUdFFtX1VBWlU0NWhuajByZ0VKNzJEMjVHTHc4ci1acDBsaXdIVTU1M1dFWmNScnhzQ2FwYTNlYUJfUmZ0RHlzcVpwS3hNZTZOdnU1SVpPdUN6ZGdHUzNfelZWQy1VY2JVQmo?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-06-13T03:22:28+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 03:22:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "41616552e1d3ca8ed56ae04f07fe4b6495a86e96",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.95,
+      "reason": "Officials report U.S. and Iran are close to signing an agreement to halt hostilities.",
+      "event_key": "us iran ceasefire deal near"
+    }
+  },
+  {
+    "title": "What to Know About the U.S.-Iran Peace Talks - The New York Times",
+    "summary": "What to Know About the U.S.-Iran Peace Talks The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHBjZDU3RnVZcjMwQ2F1RWdmM2VER0RfY2U0Uzhya1JRNVpaU3ltWnJTNW4yTFVWdGhUek5JTUs4TnZEVkRfajJXZlJYUS1iMWhSNDFDSW9fdVVLbzltaEU2eVc4TThpdU1YbGItdXJyeTlqY0ZORjdkYWg2cGEzSjNWU2E0UQ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-06-12T22:48:00+00:00",
+    "raw_pub_date": "Fri, 12 Jun 2026 22:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2eb7c84af21823240095498a777bf428bfe4cbce",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Overview of active U.S.-Iran peace talks and diplomatic engagement.",
+      "event_key": "us iran peace talks"
+    }
+  },
+  {
+    "title": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
+    "summary": "Exclusive: US forces shoot down Iranian attack drones, source says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpqblpRT0R6RGd1RUJmVjhfQi12S3JhbUJwM2dsM2hVSGRtMy02UkZYZTdseUI4YzRyMEFzOGpqNTdiRGkwdVB2R0oyX0otZDFQXzhENzYyVnpvMnNVUWZ4U0N5MzZETmp0OG5RcmdfWGV5elVlZktyeXVObThKNUlIa1N2dUtTdDUweGxwV0ZDeC1QeW9rd3p5RWhVVFRRRVdLYTJhQ2JxbnFt?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-13T00:40:00+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 00:40:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f2470bc3fda5a7d41c60509eec2ba00c3fe0705c",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "US forces shot down Iranian attack drones — direct military engagement between US and Iranian assets.",
+      "event_key": "us shoots down iranian attack drones"
     }
   }
 ]
