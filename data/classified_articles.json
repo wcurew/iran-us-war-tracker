@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "Israeli strikes hit south Lebanon despite US-Iran diplomacy - Middle East Eye",
+    "summary": "Israeli strikes hit south Lebanon despite US-Iran diplomacy Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUlVN0EwSGVvNDRhSk5MSENuaEo0eE82cWVURFA1T0g1cG1UOTlFRjJWcW5FNzg5NHo2QTR3dXpWQnNNUDNMTkhPT3kySm9iSkFFaVRyOURwcEFZSUpoLXNUZmxadXEtOFBla0hraEtFclZCbm93TGtkV1VDU0wtSDBtbU1INGJJZ0k3Z2hNS19KOU13YmpGMTVRaWVBZjJQQ3Q0MzFJUDJYa3RveVo5c3pWOHNOVDg?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-06-13T22:34:00+00:00",
+    "raw_pub_date": "Sat, 13 Jun 2026 22:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fa45fd1363a40ac633909e86e825b61c12f55aff",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Israeli strikes in south Lebanon amid US–Iran diplomacy imply Iran-linked proxy involvement.",
+      "event_key": "israel strikes south lebanon"
+    }
+  },
+  {
+    "title": "Iran envoy claims US friendship possible as World Cup sparks rare diplomacy push - AOL.com",
+    "summary": "Iran envoy claims US friendship possible as World Cup sparks rare diplomacy push AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDZETDdLa0tXNVd5M2kwenpBYVVCY2s0RVJoQ3hCcGxIZ2ZLVVQ5TC1LWFBVaU5wS2tSNmMyaEtzWGpqbnhTbElPcFZhZWNKaHpCM09ZNG5LYVl5SDhZRU8wZUcyNjdQTzdFRVBuSHRSUVFQU3ItaWZ3dC1aZTRmMA?oc=5",
+    "source": "AOL.com",
+    "published_at": "2026-06-14T02:41:27+00:00",
+    "raw_pub_date": "Sun, 14 Jun 2026 02:41:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a8aa5e6b4be4365a1a6667c8121f93256411d68f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Active diplomatic outreach by an Iranian envoy and talks prompted by World Cup events.",
+      "event_key": "iran envoy diplomacy world cup"
+    }
+  }
+]
