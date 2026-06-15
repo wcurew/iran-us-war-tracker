@@ -1,206 +1,393 @@
 [
   {
-    "title": "U.S. and Iran reach deal to extend ceasefire and open strait - Axios",
-    "summary": "U.S. and Iran reach deal to extend ceasefire and open strait Axios",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3dLRUwzdk1RYWV6S1dOLTNjYXFULU5BVGpCOFFkSEhrUksyNWpEZ1JmVV96RThKTnJUcXNxbXhyWG9xeDA5cUZpVW4xRllIMTN5ZGxnTG5obFdlNXpWSi0wb1BhNllsbURmM0h6SU1DVzM2Z0F2NzVCMmQyNzBvOVBRU1JQdw?oc=5",
-    "source": "Axios",
-    "published_at": "2026-06-15T02:51:30+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 02:51:30 GMT",
+    "title": "Iran and U.S. reach deal, Trump and Pakistani prime minister say, as Israeli strikes in Lebanon threaten agreement - CBS News",
+    "summary": "Iran and U.S. reach deal, Trump and Pakistani prime minister say, as Israeli strikes in Lebanon threaten agreement CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMy1fbWtVcXVDRm5ISTB2a2lrQURZSjduUXBFUUMwOTZFQkE4dmMyYVJuZVROektFV0xjRVFqNlVfc05LczVnTklEOUxKeTdkalVOY21GOGZ1dGZGMXczRTMyTU41SnpldEdaQ1VsSUszaVdxZm1SMmZGZnVvMXhKU1B3?oc=5",
+    "source": "CBS News",
+    "published_at": "2026-06-15T08:01:00+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 08:01:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3494815f4e8e2ef027347c30c3c5996c9132c1b5",
+    "article_id": "fabec6fbf04a79da07c1ae4db156e1515287838c",
     "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.92,
-      "reason": "Agreement extends ceasefire and reopens strategic strait.",
-      "event_key": "u s iran ceasefire extension open strait"
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Report states Iran and U.S. reached a diplomatic deal amid regional hostilities threatening the agreement.",
+      "event_key": "iran us deal reached"
     }
   },
   {
-    "title": "U.S. and Iran reach ceasefire deal - NBC News",
-    "summary": "U.S. and Iran reach ceasefire deal NBC News",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkF6MjM5Q0ZDbnlBeDlwaWltcENLMDNBNXkwUTloS1B6MkhydTg5Y3VHQWR4cnlHUVJ4NnJkdkQtWkhONzQ1NVdEQTdObkFzV0E3UnQxb0JaVXhVUTBsY2RQNHZBcldIbmVNb3N6MFZXNVJOdzZJaEdBclBUWllxaHd6bUlEbTA5eWRN?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-06-14T23:17:15+00:00",
-    "raw_pub_date": "Sun, 14 Jun 2026 23:17:15 GMT",
+    "title": "Iran US Peace Deal: Trump’s Iran Truce Has the Hallmarks of Defeat - Bloomberg",
+    "summary": "Iran US Peace Deal: Trump’s Iran Truce Has the Hallmarks of Defeat Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGI0YU40dXpKRXJRbUhkdEtrZUdGeVYwQmlnU1E3UFhSZ2NKRUZhNWZuZzhIWTU4bzU5dGlpbkU2Z21paldZWnZ4RVZad29pUG1ycnAyaHNtZXZ2OFlfRUpzcHFEVDc0WVEydlo4M0Y5WWtFVFg5MF9SejAwZS1ZNWQ4RkN3NjBlcWlRUDZvSFhmTm1PWDFQR3R1Q3JKQW9kLUl0d0pTdDN4Y2sxMmFKOWFzM3lZdjZjRTZj?oc=5",
+    "source": "Bloomberg",
+    "published_at": "2026-06-15T10:52:00+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 10:52:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "85cd24d12edb12e451479e61617584924c8f786b",
-    "source_weight": 1.0,
+    "article_id": "a6fd0dd52e1eb44206c08d17a89f8f032f758380",
+    "source_weight": 1.1,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.95,
-      "reason": "Article states U.S. and Iran reached a ceasefire deal.",
-      "event_key": "us iran ceasefire deal"
+      "strength": 0.65,
+      "reason": "Discusses Trump-era Iran truce/peace deal and its implications—an explicit truce/ceasefire.",
+      "event_key": "trump iran truce analysis"
     }
   },
   {
-    "title": "Lebanese remain sceptical despite US-Iran ceasefire announcement - Al Jazeera",
-    "summary": "Lebanese remain sceptical despite US-Iran ceasefire announcement Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTE1VWpFZ0I3Z2hKR0hpR2ZuUVNPck1QaGU0eFJtNTQ0TWctbWlyZGJ0Tk0xTUd5RWpQc3E0TWRPb3dZbEFwdFNqbjkybHM2YTJjNzBNazh4Y1VZczdZSS13X0NpdGI5RURCQk9EUHpQZ05TMnpEMjloV2RTTTk2ZWRmcXFiejFhaVNoZVJYNGV2THRqYkZXT21aNnBaVkhzNGJBS3JaZEk4TnRqNUs0UVpLNTBmdw?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-15T02:32:00+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 02:32:00 GMT",
+    "title": "The spin wars about who wins and loses in the US-Iran 'ceasefire' have begun - Australian Broadcasting Corporation",
+    "summary": "The spin wars about who wins and loses in the US-Iran 'ceasefire' have begun Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemxGc2k2TE5kS0FOeW9SRTlrS2RLWWdzbEliYTRMYnByRFQtV1R2WmwwYThRRWZsLTViSjFtMFF4MFQtYWtmVHNhcmhabExfUkwybkVTVk1WM0dEN2VlcDJRRHc4ZkRPblA4b1FoUkdPODJubmhJTGEtTlJOeXp0U1dTWkhNQ0htcEZ6VE9JRUhUVFdya0twMTZkbVpBN3llU3lzMkkzTHhMdw?oc=5",
+    "source": "Australian Broadcasting Corporation",
+    "published_at": "2026-06-15T04:43:44+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 04:43:44 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f095e8721c79434bc242287f9520516474532325",
+    "article_id": "cca93782ed8d58323a467c6cbbe6ad70c1010492",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.85,
-      "reason": "Article refers to an announced ceasefire between the US and Iran, despite Lebanese skepticism.",
-      "event_key": "us iran ceasefire announcement"
+      "reason": "Article discusses a US-Iran ceasefire and competing narratives about its outcomes.",
+      "event_key": "us iran ceasefire spin wars"
     }
   },
   {
-    "title": "US and Iran agree to memorandum of understanding and immediate end to military operations - France 24",
-    "summary": "US and Iran agree to memorandum of understanding and immediate end to military operations France 24",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjN0S1RPUk1PaEhkZE1uR1Q0OEJweEhXWmloNWpTN1lkYjI0YXNIdTNfVUZhYV8xci1hbjROaDdhZ2N0TEVHMzJSUFJCUXlTU1dfTFRUMlZNR2R0X2ljR0dfRl9RRTdiRVFFbmVubTFNTUlBN0ZlQ0RpWm96T2owMnVZVnlxM1ItYkhOOXVTTS1fRFB5WHJpUnRNSkpYQUtrQjlrNF9lcmpGLXRXUHRTYjd1OThSY1FlWk55MlNVTjZ0Y056NHhQSnozbmxiN0FqakZxZw?oc=5",
-    "source": "France 24",
-    "published_at": "2026-06-15T01:19:08+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 01:19:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3cd2f83454165b24c0b5f84e5e9a0d3216247d9c",
+    "title": "U.S.-Iran Deal Excludes Missiles, Support for Proxies, Iranian Media Reports - Haaretz",
+    "summary": "U.S.-Iran Deal Excludes Missiles, Support for Proxies, Iranian Media Reports Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPU0lzck5nNXYyVHhXdEtfblRQYjVodmNaeEVOZUUxY1daakoyc3g3WXdNdUNjaEJvRGh1T2UxUHFDc2VFdFhQU0lPVmU2Q0ZRVElCOVRQLUFUQjN0cF95bDNwMnNFM3U4ajYwTE1DRE9vWWQ3T1hsNHo1X2lpYVlZMHR0LU5TNmVJV3M4Y3FBQm1raTJsZF95emJYX2NyQlVLTnF5aWVxNFZvZjRCRHhwbXZQX01ETmxYWGRMMFFyejVIdDNwQVZSRzAzc2FmZjYtTUdfTUlzMHJEeExhVWFVenh2dXUzMS1RV2d6dFhRdW9Pb29NbmhGWGItdFNVWW1vSk9MVUpwa2VGNHBiSjlKV1pR?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-06-15T07:07:00+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 07:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b68e769c3db12c54185336f46696a4efe1ce7336",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Reports of a U.S.-Iran deal excluding missiles and proxy support — indicates diplomatic negotiation progress.",
+      "event_key": "us iran deal excludes missiles and proxy support"
+    }
+  },
+  {
+    "title": "U.S., Iran Ceasefire Reopens Strait of Hormuz - 조선일보",
+    "summary": "U.S., Iran Ceasefire Reopens Strait of Hormuz 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHhKbGV6Uk9pVUJBcEFfcWVYTWpHMTQwOEx0YXlERjJIX3BOSzB0Tm9wMGd5VXU1dHlrbHloaWlvNUFhQjZJajhLemRhbFQyZWRzTkNyeHIycnVXeUFhOVdNcnZrZFJCdmtJNUstRnpmVkZuNlU4TWdyRG9GbTVEc2VCdGg?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-06-15T09:03:11+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 09:03:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c2a695cd3260eb0ef24ae0150a61d17ce65ac09a",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.95,
-      "reason": "US and Iran agreed a memorandum and immediate end to military operations constituting an explicit ceasefire.",
-      "event_key": "us iran mou immediate end operations"
+      "strength": 0.9,
+      "reason": "Reports an explicit U.S.–Iran ceasefire reopening the Strait of Hormuz.",
+      "event_key": "us iran ceasefire strait of hormuz"
     }
   },
   {
-    "title": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks - The New York Times",
-    "summary": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkZvU0V5WV93UzRoRU1iNnRudkEwS3pUR0JteDZIdXJOWXZPbW5sNVMzd1NGa2VjUGctVFRSa3FpckVURjZrZE1RbHh6ZlpRdm9RUGRVRGduRzVKU1UwcEJTSFhSU29rM3RXTEdKQVRPNkRiSmlKcHhpM21CVmM1eUNkUWhCeS1zY0kwQ3lqaw?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-06-15T02:13:26+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 02:13:26 GMT",
+    "title": "Iran war day 108: Iran, US reach a tentative deal to end conflict - Al Jazeera",
+    "summary": "Iran war day 108: Iran, US reach a tentative deal to end conflict Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2hsWWpuZmV0MHJmYUdNZXNZeUpRQ0FqalB5VmtWNG1jdlUzUVMwRTU2RlFQN3hJbWdJanpPQnJ4V1B1WTB0blZOMTkyaFZaNjBYV3EwS1V6UzYxbWw1VXdTYzJ0UlRXMFdhSUdWM044WkljV0Rpd1ZuMnNzY1g3WWFHdXZJQnJ1emVGcWs1VVAxU1o3cURWTUxJWWdWSzFORThIYmdrWdIBrAFBVV95cUxNQ3RsaDFrTmk0QVIwX1ppeWlXaTlSNE9Ra1J2VTF3U2trUlFwbUFWT2hqZEpKcjVULS1FYy1jUHZ2VGZVX0ZURWt4bDlLdEdFY1ppVG1QQTZ3Y2tiSWNZZ1N2cmxnVFIxcXItU3BGUWI0YmkwX3JYdllaWWVCSGl2d2k1LVZZZ0dHbGNzcHFyM0hPTzcwdW9Wclo4b3FCZDNZb1dLSDNFYkNvY0pF?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-15T08:03:41+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 08:03:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c1c4eb2695cc21c4ac5e9dee9d73ad7f5528c766",
+    "article_id": "5ac0867a077edb88a0e16a7520c1a7390c2add39",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Article reports a tentative deal to end the conflict, implying an agreed ceasefire/truce.",
+      "event_key": "iran us tentative ceasefire deal"
+    }
+  },
+  {
+    "title": "U.S. and Iran Reach Preliminary Framework Agreement on Strait of Hormuz and Future Talks - The America Times",
+    "summary": "U.S. and Iran Reach Preliminary Framework Agreement on Strait of Hormuz and Future Talks The America Times",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3o5Y2VKSm95TXNheXVFeDNJcHltSEhpTzNueHBNRVdXUl9sR1QyRmhUdVR2bWlJTlpiX0ZUNmN0bkE0Tm45dkxnQ0FHVkRIc1NXal8zVWV4NjVSTldjcmdYSmJaOWtkME1xaFA5TzlUM0NnUkJGVlRiLXE4VU0yU2c2NE5ZMWFUMU04ZFE5MHlweXNyN2lWM2lPSHhiY0cyOHhRTUg3WGFGOXkwMGRUM2hVUUdjSjJsMVE?oc=5",
+    "source": "The America Times",
+    "published_at": "2026-06-15T10:28:53+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 10:28:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3de9c249a7f282718dcf5e05af9546492ca5faea",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.9,
-      "reason": "Agreement to reopen the strait and begin nuclear talks indicates active diplomatic negotiations.",
-      "event_key": "us iran reopen strait begin nuclear talks"
+      "reason": "Preliminary framework reached and future talks planned over Strait of Hormuz indicates active diplomatic negotiations.",
+      "event_key": "us iran prelim framework hormuz"
     }
   },
   {
-    "title": "US-Iran peace deal announced with 'permanent' end to military action - Yahoo",
-    "summary": "US-Iran peace deal announced with 'permanent' end to military action Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGdfV0ZhNE1kMjdXWkgwVnA2ZUNncTlmYk1HVnUycTdFZEllUVZzR29pTTZqLTBEbHo3QlhHNExUajR1dENFSThlenZoTXI1QWNOZjBPRVUzMnRDQUM3amZteUkxQ04yYnNCQktGTWZhaDEwYmhPdHJiOXNBNlB4NTlHZFZyUURNWURtZ2pR?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-06-14T22:45:14+00:00",
-    "raw_pub_date": "Sun, 14 Jun 2026 22:45:14 GMT",
+    "title": "A history of Iran's nuclear program and tensions with the US as an interim deal is reached - ABC News - Breaking News, Latest News and Videos",
+    "summary": "A history of Iran's nuclear program and tensions with the US as an interim deal is reached ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFNjUDJKMzNMSzB5bGJmRndyaVh0eFZHWVdSSnB5eDN4bWlsWTBpX2xLVXJEMF9rcXlQeVlnbW5tNm9uMzNVWEJwcjRnd0hfYTQ4QV9IS2d6TWpXTEN4NTRIbDNNdzhFbWlXSEd6a2xWZldvOGZDQ2Z3WjZaSjFQMnJGOHBKN1hseUFXd1JTMW9JaEQxTFJ5cXViS0hGd9IBowFBVV95cUxPZ3kwb25kZ2JnYVNsVVFTTExhSll4dXJyZmRTSFNVeDFKaXhpR3pPQWNVZ2lleFRra244NXFOYW5sUHpKazlBMXBXUzR5N0Q1aTFFX0psdGk2S1RSY1pOMlNaQ2wzTlJSSkcxSjZoX2hQSUFtTWJ1aWxHNDRibTYtOGEzRFFQNlZ1RDlIekFyTnhhV0NaQWNjQU1aTHhEblk2MGVJ?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-06-15T05:15:00+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 05:15:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9cdfd09918e9c0e6b2d83cbde83b02a5128f2af9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.95,
-      "reason": "Announced peace deal declaring a permanent end to military action between US and Iran.",
-      "event_key": "us iran peace deal permanent end to military action"
-    }
-  },
-  {
-    "title": "Iran, US declare diplomatic breakthrough despite domestic firestorms - Amwaj.media",
-    "summary": "Iran, US declare diplomatic breakthrough despite domestic firestorms Amwaj.media",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc29oWFE4bDNhQ2t2UUhVVG9EMWF1blN4eWloRWg1T19kSzVZWjc2UHRpc1RxT25faXh2VFdKM0l0Z0FkaEUxVGJpUEFNVmFmTjlZX3ZzbklIdUNqLVBaX0QzbW1XdVFBSUstckdISmxvMWNTdVlVYWU0OVJhcVVod2FtVDB0T0RnRHVrSnRGek1hTXpLRlp1MkRSRDBmbTBxd0dUMVBOSQ?oc=5",
-    "source": "Amwaj.media",
-    "published_at": "2026-06-15T04:01:45+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 04:01:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c6884dd44ad64bd910a699050d1834ddc3e45ea7",
+    "article_id": "73173d45f585d21e1a8fd6a027e869f6702b6c8c",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Both Iran and the US announced a diplomatic breakthrough indicating active talks despite domestic opposition.",
-      "event_key": "iran us diplomatic breakthrough"
+      "strength": 0.85,
+      "reason": "An interim deal was reached, indicating active diplomatic negotiations over Iran's nuclear program.",
+      "event_key": "interim nuclear deal reached"
     }
   },
   {
-    "title": "Australia welcomes US-Iran agreement, urges lasting peace through diplomacy - Anadolu Ajansı",
-    "summary": "Australia welcomes US-Iran agreement, urges lasting peace through diplomacy Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS19NNWZvYTdBUDNsUUhCcTdJa3RPX01EXzhBc09uTjgyS0U4TE1QYlZBUC1BOGtLYm5LdThoWnIyMW5rTlk2eTd1c2JRbnJmaFpiOTBPcmxjSGFMUUZxRGFkUFdjNllPNlloZGZmNjZJbWljMFpRaHRtNWNqclA3cGdoRm5VRlg2TmdyRS1weW04cTk3TWJ2VzhPdWxVT3BNZkRoZEI5VkkwY2Q0dnkzREE5Zw?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-06-15T02:16:30+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 02:16:30 GMT",
+    "title": "Australia Urges Continued Diplomacy Between Iran and the US for Lasting Peace - 8am.media",
+    "summary": "Australia Urges Continued Diplomacy Between Iran and the US for Lasting Peace 8am.media",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUl6MFNVUHJXOUtoY3cyLUdrN3ZnVmFJUzJ4eWRVdkdEZHEwektEUEVKdUZWR2dKN0lvQlhfMWpWLU44MjhFWW53STRzQVpsSGlycnNVa1FfM2g5YXU4VThqRUJMSEYxUFplQ2JkWFRGZ291TG1LN2tUNEh3Sm1fWDBLR2VxR3M4OHZqVy1mdmloMUxGN3ZScG82WW90VzQwLWc?oc=5",
+    "source": "8am.media",
+    "published_at": "2026-06-15T06:54:23+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 06:54:23 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1a0906450fb462f5b8817544a9833e0813bfdea1",
+    "article_id": "693e0baae2a5f1aa4b6eec64e4a810a512ba865f",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.6,
-      "reason": "Australia welcomed a US-Iran agreement and urged lasting peace through diplomacy, indicating active diplomatic engagement.",
-      "event_key": "us iran agreement welcome"
+      "reason": "Australia urging continued diplomacy and talks between Iran and the US.",
+      "event_key": "australia urges iran us diplomacy"
     }
   },
   {
-    "title": "US-Iran Peace Claim Puts Europe on Alert Over Hormuz, Lebanon and Fragile Gulf Diplomacy - EU Today",
-    "summary": "US-Iran Peace Claim Puts Europe on Alert Over Hormuz, Lebanon and Fragile Gulf Diplomacy EU Today",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xUEt2NGJHczloeWJqU21jc19PWkRUNl9UWVp0YmlnYTNaWGNnYTVJZUhieExLQmpTVVNmZkVBWko3bU02U0c1cmRjYjczQkF0NmdPNWp2S2pSaGk1V2FmeWVwQ3A2cUxwU2RaWnU2MA?oc=5",
-    "source": "EU Today",
-    "published_at": "2026-06-14T22:22:09+00:00",
-    "raw_pub_date": "Sun, 14 Jun 2026 22:22:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6fab769d7bd72963e20458ad19d093eca5881ae7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.4,
-      "reason": "Describes a US claim of peace and fragile diplomacy signaling restraint without a formal ceasefire.",
-      "event_key": "us iran peace claim europe alert"
-    }
-  },
-  {
-    "title": "US-Iran Peace Deal Nears as Preliminary Agreement Ends War - Modern Diplomacy",
-    "summary": "US-Iran Peace Deal Nears as Preliminary Agreement Ends War Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDY2YmIzRGM2VEZ0b2Rhb3ZxX3Y5UWdINERMWmNGTkc2UXIwNjNLeEhIWDZlbWNmVWE4QUl6UWNubE15bWhmT05xdVhORXBaWUNJd19ac080S2ZvS0VHVHFQTi13T0FyWjltMl9uaUYzcVBrSWFrelRXVW54TWRNQkdqN2RMRFdmNDFRM3pWcnp6cHZqNEpBMUpXYXpuZw?oc=5",
+    "title": "Inside the US-Iran Deal: What Both Sides Have Agreed So Far - Modern Diplomacy",
+    "summary": "Inside the US-Iran Deal: What Both Sides Have Agreed So Far Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2Y5LTFMVWljNFhjdnpHaGF2SjBZcHR0dE5jQTV0V2VuTG94c3Y0b0xwV2ZtS2Y2R2VNUlhHQ1FybVdJS1hvcGgzTHdVZnRHWFp2QTQwTENQMV9wS2xuYW1mQkpjaG9jcVdsMDRTV2F5Vlg5R2ZIMlVHVFJQc2ppYUtkd0dmQm1NV1dXR0w4Z3QtamF6allGUXlHVndndw?oc=5",
     "source": "Modern Diplomacy",
-    "published_at": "2026-06-15T03:26:32+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 03:26:32 GMT",
+    "published_at": "2026-06-15T09:47:57+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 09:47:57 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "19c6c1feae8f91f511f2b73d7db7052621ecb26d",
+    "article_id": "21379d6f7c12b965efed0348897945b518cfa5c5",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.9,
-      "reason": "Reports a preliminary peace agreement and nearing deal, indicating active diplomatic negotiations.",
-      "event_key": "us iran preliminary peace deal"
+      "reason": "Article outlines agreements reached between the US and Iran, indicating active diplomatic talks.",
+      "event_key": "us iran deal agreement"
     }
   },
   {
-    "title": "Why Are Asian Markets Surging After the US-Iran Peace Agreement? - Modern Diplomacy",
-    "summary": "Why Are Asian Markets Surging After the US-Iran Peace Agreement? Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWVWc1ZNR0tHTG93UGozUm9CVEcxRDcyaXByN2c4bFZWUUpIUGtHZ29Ob1B0enlGb0ZIcG0zNXJlaDk3YWZkWnZZZGhfX0Y1Ym9ueG9VcnRhU3lNWmZrNG5ja2JwUkZaWmNhRnFxckhRaG9HcW1FZUlkMnYxdjRlQ28xaldyY28yT1diVFdXLVZnT1R6UmdVRGswRDh6UFhBRV9pdA?oc=5",
+    "title": "After the US-Iran Breakthrough, the Real Battle Shifts to Nuclear Talks - Modern Diplomacy",
+    "summary": "After the US-Iran Breakthrough, the Real Battle Shifts to Nuclear Talks Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWtwZEVzN1RKQTV5d0VQc0x1ajA5dldrdXZyRl92R1V5LW9WVGV2ek5abG9rTkk3eVpXMjNRaTh4V19ZWXlxWUNVbUFRZkpxY3dIVjdLWUZDTkZVMmM5clp1dlVfZDd0RUM2Rzlqdm5TVFdnaDdqX0ZmOGFaQzVmVEpSRWZmeGhRSDhFbjRoX3B3YlVDVl84Q2I4RWxOVGRKdS1SMmRLT0NnSVpRbnc?oc=5",
     "source": "Modern Diplomacy",
-    "published_at": "2026-06-15T03:40:00+00:00",
-    "raw_pub_date": "Mon, 15 Jun 2026 03:40:00 GMT",
+    "published_at": "2026-06-15T09:40:31+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 09:40:31 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d136e9415f4a5fede41dbc93efffb0c6659f8fe9",
+    "article_id": "a45f3cadd31284faa526ec6e9abf12b508928255",
     "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
+      "label": "negotiation",
       "strength": 0.9,
-      "reason": "Refers to a US-Iran peace agreement—an explicit truce/peace deal prompting market reaction.",
-      "event_key": "us iran peace agreement"
+      "reason": "Discusses a diplomatic breakthrough and focus shifting to US–Iran nuclear talks.",
+      "event_key": "us iran nuclear talks breakthrough"
     }
   },
   {
-    "title": "US-Iran peace deal announced with ‘permanent’ end to military action - Al Arabiya English",
-    "summary": "US-Iran peace deal announced with ‘permanent’ end to military action Al Arabiya English",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDhPTm9XSFN3VXA0eklXcXJtRjBLd1J5V3dwczNYS1ppMlNBWXpObHlreVI3cUdJbll0UWdxLVpXTTZKcXFpbzNpUmlnOExzbDlWRkpld2UxWGlyOTNEQXFDYkxyRjU2a1dJcTM0WUVSUjVMZHd2UWxTTC14TXpuT1dsR0J4Tkt3LWlPejFpMVg1M05XcHVSc3g0RTYwdTlPVm1ReTUxeU5DSXU5amJMa3U3MklhSXhySkJXT0w5U07SAcYBQVVfeXFMT0tqRnVaek1aSkYxVFBCUW9raHUxb29RU1lNdkhWMVhvang3R2tvcXBtTG50eXZIcTE5Z2tqMnhFMkhGbU5lREhvcEhNWkhPVVlhMGdxc2FIOHE3ZEZNX0VxbmR4dG9RcUs5bDlpOHJmc3R2S25CMEhXejQwQlBQMG1LVW9ObTZwdnh2aXVPSUtmMEVXQ0V6bFNETkIwRlo3REg5ZXhrRmc2R1JCd2Y5by1HX0FUTTNMLTdjUEVmNjBTcFVEOVpR?oc=5",
-    "source": "Al Arabiya English",
-    "published_at": "2026-06-14T23:13:00+00:00",
-    "raw_pub_date": "Sun, 14 Jun 2026 23:13:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dfbd0e5b18e2cbe8c10315be0020c2080c914007",
+    "title": "US-Iran Peace Framework Draws Global Support as Key Risks Remain Unresolved - Modern Diplomacy",
+    "summary": "US-Iran Peace Framework Draws Global Support as Key Risks Remain Unresolved Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0RzSndGZE1MMmpRU2xPeW1XMTNzXzRhdUdudC1qT2VxSERENmNaQjFoTUtUejhiSzA5c0hxOXFXcnMtenJvRXY5bTI4bV9uWVdlb1VXOG9FTndtWkJ0aHBoTVZTU3RJS0ZtUlFGUGNzWDdGYTl5WHZxb0Y4VF9OZGV6NmhtTnBxVVVfbUlDLTRLTGJZVUhWVXFJYldDajF0Z3UtQkdFUGJzMVVBSlg3Vld1Wno?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-15T08:03:58+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 08:03:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "de0a2cdd37648bafd346cca552003a7de06ea564",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Diplomatic peace framework with international backing indicates active negotiations.",
+      "event_key": "us iran peace framework"
+    }
+  },
+  {
+    "title": "Spain welcomes US-Iran agreement, urges diplomacy to sustain ceasefire - Anadolu Ajansı",
+    "summary": "Spain welcomes US-Iran agreement, urges diplomacy to sustain ceasefire Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlNlWUlpYWNKTkFxZ05vWmYyUUlqQmlBclhUY1F2QlV6cFFoQWNSYUNzYmNhUGsyNjF4V3RKTkJCTnZtcGZfNU5WZlFReWQ5eFJUUEJ2TF80NGlPdE4yM2NFRXliNkxaMDhVQmFlbXBxVWVkUG16bjZTdTU0R0pmX0Zac0U4VUZnUDIwNzFLdk05b3U4akhxZVpZV1VpVzQyTE04Ri0xYUFoWUx4UGc?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-15T04:39:07+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 04:39:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7780bfe96ffe82db5caeb82bd8a9aaf57ea712b4",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.9,
-      "reason": "Announced peace deal stating a permanent end to military action between the US and Iran.",
-      "event_key": "us iran peace deal permanent end military action"
+      "reason": "Article praises a US-Iran agreement and calls for diplomacy to sustain a ceasefire.",
+      "event_key": "us iran ceasefire agreement"
+    }
+  },
+  {
+    "title": "Can the US-Iran Peace Deal End Lebanon’s Humanitarian Crisis? - Modern Diplomacy",
+    "summary": "Can the US-Iran Peace Deal End Lebanon’s Humanitarian Crisis? Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONFctZmJmcXRmbU8zNHAyY1NhWGdnUzdXX1M0Vy0wSmRLZHl0a2M0MXFoM1BxQWZtV2o2THA0TFdIcVo1dkZFRmR0Y1ZzcDZSOWdTYm1SNGt6bjJPc2JHWEgzaEZXcWhZcmlPTWhiNF9pUzlULXZ3b2FqcTBUQkhWVmtSZlZDa05rMGdKNmJJNjV5WTZwOWVHcEFjTzM0Tnc?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-15T09:10:34+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 09:10:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f86dfb3f22077266f6ae66077812be7518f5202a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.65,
+      "reason": "Discusses a proposed US–Iran peace deal and its diplomatic implications for Lebanon’s humanitarian crisis.",
+      "event_key": "us iran peace deal lebanon humanitarian"
+    }
+  },
+  {
+    "title": "Indonesia welcomes US-Iran deal, urges restraint to 'sustain momentum towards de-escalation' - Anadolu Ajansı",
+    "summary": "Indonesia welcomes US-Iran deal, urges restraint to 'sustain momentum towards de-escalation' Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQME9FV1ppd2c5M1VPYWt3N1I1b05rSTRHdWdLUG4xYko3V3ZyeU1JMTRMQkM3RWd5VU5OT25NcTIwbmcxamk0dzlFbnFwZTdyNDRKYkRPOGpzVmZvNkJzdE0wbDFCRFR4VF9IMHFpeUVsdTgzUFUyckdoSXF0QmRxcTNfbkoydDZNTWlpYjJpQjNVNGo1dUx0U2VWNEhwdUdsSDdpZlFaLVBDLVVxQkJGZ3REcEFsVWJCWElITU9ZQS1aQnU2YWx6TlZZSkh4X25E?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-15T11:07:30+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 11:07:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cb166be865add56c6093f2753b3538b7f6d10642",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Indonesia welcomes a US-Iran deal and urges restraint to sustain de-escalation momentum—soft calming diplomatic signal.",
+      "event_key": "us iran deal deescalation call"
+    }
+  },
+  {
+    "title": "Germany calls on Iran, Israel to avert new Lebanon escalation after US deal - Anadolu Ajansı",
+    "summary": "Germany calls on Iran, Israel to avert new Lebanon escalation after US deal Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0pMYmlNbFcybU5hSHpYLW9wSUg4M0J6akdzcHc5eThrQUJzYnh6eUZXczJNWWVuOFhQT3lnUGpWTHJGNEEtcUZYT2FlR0psa19jY2IxX1B3ekZwUnhlVWRXbnV5TXViRldlanVXcjZhem50QU9LSEVmWVROLXNMMUpjeUhQVmpzbGNqOTZkdXlscm5JMVJHT0I0Ny14cUE0S1htc0k1Q0M0UkVEZkppV0h2MUk?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-15T09:29:32+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 09:29:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0b4dcdacee1b6eeef10d4c1030566f2069a2914c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Germany urged Iran and Israel to avert escalation in Lebanon, signaling calls for restraint and avoidance of wider conflict.",
+      "event_key": "germany calls avert lebanon escalation"
+    }
+  },
+  {
+    "title": "Ben-Gvir Attacks U.S.-Iran Deal, Calls for Escalating Military Campaign in Lebanon - jordannews.jo",
+    "summary": "Ben-Gvir Attacks U.S.-Iran Deal, Calls for Escalating Military Campaign in Lebanon jordannews.jo",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1Zjci1qQldJMjNrTUJjMS1RMmNTZjAwUVZ3TkRxS20xeFpKaWFvNV9LbUVEdmJzaktVT2FmMVZUME5tUC05UFdUampZQ3ZYSDczRThnbXBHQUJvcjE2MGNwcjVPR0swOU54YVZVM3BfWV91RncxRHI5Q2hrUmRuOV84U0tfZWZ3UDZBNlJ5dy1OR3RFVjR4eGljNzZHbVZlTTN0VzdDT3BoVmJoTWpjdDN2S2c4LTJRQXNIODhQRUhZT3hEdlM1LXpHdjFjbGV6?oc=5",
+    "source": "jordannews.jo",
+    "published_at": "2026-06-15T08:05:32+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 08:05:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8917b2e8be8fde56d5ff0634810a1b089349fc95",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Politician urging escalation and attacking a U.S.-Iran deal increases tensions and hostile rhetoric.",
+      "event_key": "ben gvir calls escalation lebanon"
+    }
+  },
+  {
+    "title": "How US-Iran Military Escalation May Increase Social Security COLA for 2027 - News and Statistics - IndexBox",
+    "summary": "How US-Iran Military Escalation May Increase Social Security COLA for 2027 - News and Statistics IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHVWTU9hVERqRWhSWkpnYXZoWjVWV1FVeXZ2N2RNeko4bFNnMV9kR05OT21yb1JIbVh3NmFYOTM0YzRVMUJLV2lZc3JmMWJST0JUODNxSGxoWDhVeFNnOFoybndrdFgwb3duaEx3eVJaYk9Uc2lMN3NZZkNJX0xHX2ZtcXFSWC1PZ0NBbEhjd0NZQQ?oc=5",
+    "source": "IndexBox",
+    "published_at": "2026-06-15T11:43:00+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 11:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "52f789412cb7d5e27cb52c07423be53d30bda84b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Discusses potential US-Iran military escalation and its economic impacts, not reporting a strike or proxy attack.",
+      "event_key": "us iran potential military escalation economic impact"
+    }
+  },
+  {
+    "title": "Iran says US ‘responsible’ for implementing draft deal, calls for Israeli attacks on Lebanon to stop - Anadolu Ajansı",
+    "summary": "Iran says US ‘responsible’ for implementing draft deal, calls for Israeli attacks on Lebanon to stop Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLXVTY3pJS2RSUnF3cWdGeEg0Z3lyWjZVRFFJai16ZDRCVjAxdXROYWYtX2RDdzZXUHZPano1Y2FnaUh4YmMzcTlFc1VpVG5NcFNZOHlULWcwaHBwOFdzTlBoUTlzRTlxaGRrRFNkdzVxZm5UMkRGNWZSLTYtNk1JOWdnTU1ZNGhOVnZPNVFSbFYweHpydmJiZEtLZG5QTjBNUkxDcHhSY1JBQUllQzQtVUV3VWpLX1pYZkRyZDhQRkR6c3l4UTQ1dVFRODVSRC1CaDBsdmVGbUNJV3FudVE?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-06-15T10:06:48+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 10:06:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "00b3164d6258093aada9e02ad54aa5a43bf72810",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "References to a draft deal and assigning US responsibility indicate active diplomatic/negotiation context.",
+      "event_key": "iran us draft deal responsibility"
+    }
+  },
+  {
+    "title": "US and Iran approach agreement as leaders call for deescalation - mezha.net",
+    "summary": "US and Iran approach agreement as leaders call for deescalation mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hRHVGQmF1NHJ1cE1QaG5sSFAwUEQwRmZPdzVRNTg1WnRDOE9pYUwzSU96YXpvWkJ4aXJxX3dvQnlhR1JqRUFsR2NFdk15TjNfQTVRUUpJUmhKcU9aQ2c?oc=5",
+    "source": "mezha.net",
+    "published_at": "2026-06-15T10:57:59+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 10:57:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "16a4724c8c434690651a447b7b125f22cf20e08e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Article reports US and Iran nearing an agreement with leaders urging deescalation, indicating active diplomatic talks.",
+      "event_key": "us iran approach agreement"
+    }
+  },
+  {
+    "title": "US and Iran agree on ceasefire deal framework as oil prices tumble - Crypto Briefing",
+    "summary": "US and Iran agree on ceasefire deal framework as oil prices tumble Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ycGltVkdVOTVQU2Y3bWRGbmcwUlRyV1hYYlNaRXh2c3VORGJyUllXUnNnUHhHUmZWZkZTSHJLUTBEMU5fandLUkI5N2tfcm54N0dxZ3JXWTNEU0pGcmhqRWdJY3lZSFk3eTA1Uw?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-06-15T10:18:03+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 10:18:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ab57988f1c00622d49c8ba648de8d4141c0e1124",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "US and Iran agreed on a ceasefire deal framework indicating an explicit truce arrangement.",
+      "event_key": "us iran ceasefire framework agreement"
+    }
+  },
+  {
+    "title": "US and Iran agree to cease hostilities as Bitcoin climbs and $1B in crypto assets hang in the balance - Crypto Briefing",
+    "summary": "US and Iran agree to cease hostilities as Bitcoin climbs and $1B in crypto assets hang in the balance Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96a2RQaHVxZmdXZE9YYm9oaE50UE54OXlYeEFUYzg4MDNuQXFzc0hQRWtEMHNRdE9IVWRzUVBPbUNrdFlPd2d4TC1sTWNRVmVOY3N6WUYzYWN3dUFPdS1oMGJ1ajNrbmRRUjd6NWtFcGNiaUxJWHc?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-06-15T10:30:06+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 10:30:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b3b76486196669438b7e9f10169b5faf76581384",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Article states US and Iran agreed to cease hostilities (explicit truce).",
+      "event_key": "us iran ceasefire agreement"
+    }
+  },
+  {
+    "title": "China welcomes US-Iran ceasefire deal as experts warn Hormuz crisis ‘not over’ - TradeWinds News",
+    "summary": "China welcomes US-Iran ceasefire deal as experts warn Hormuz crisis ‘not over’ TradeWinds News",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTBmQ25ZMjlJQ2YwUnZXMlQwbmt2Z3dpdjQ5SzVSTERiamZPeUF4VG94ZGh4TGlOMjYzeTZrWW43dG5kN2pZbmE0ekZXMGtxWURGZ0hKbEIxc1JiZDh0bjY2VjVnTnRLMHRUNnpydm9MdThkRTBrX1dfeEl3OWsyY1JOeElzWmZZbzZfam4xX1JCM1M3N0J5VThpeEZsOW05Y09JM1pzVm1UYWVkTk1kNi1qWE11Nk5DY3Z5T1dZa2hmQmtnUTNN?oc=5",
+    "source": "TradeWinds News",
+    "published_at": "2026-06-15T08:48:21+00:00",
+    "raw_pub_date": "Mon, 15 Jun 2026 08:48:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ea4aeca5104ebb7a7f8077f5775b0811aee4d869",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.95,
+      "reason": "Reports a US-Iran ceasefire deal explicitly welcomed by China, with caveat that crisis may continue.",
+      "event_key": "us iran ceasefire deal"
     }
   }
 ]
