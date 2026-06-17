@@ -1,70 +1,53 @@
 [
   {
-    "title": "US-Iran Ceasefire Agreement to Be Public Soon, Permanent Truce Still Awaits Negotiation - GV Wire",
-    "summary": "US-Iran Ceasefire Agreement to Be Public Soon, Permanent Truce Still Awaits Negotiation GV Wire",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ01rQUdmWVdydlFtSnFQMHFfWWp6U3VITWZkS1lUaUJGaUxsVndNWl93dXBrY2tKaloxempIZndHcm1xcVI1OHNfNG41bnlRdUJQOHk0SXhvY3RkcHVhcHVWY3hmeWxTM1d6Z041WHhRbVUtdWVWYTV6QVlCT1k0NDI5N1JQZlBwM3pwR1FMWUlBa3FVaE5HWVlwVkl2TExmUHlzMHZDRVYtbUowNUIyQV8wVzdESHY2?oc=5",
-    "source": "GV Wire",
-    "published_at": "2026-06-16T22:23:33+00:00",
-    "raw_pub_date": "Tue, 16 Jun 2026 22:23:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8bf183d824340283c9c4e5d06b7caf8e3ffbdfda",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Reports an announced US-Iran ceasefire agreement, with permanent truce still subject to negotiation.",
-      "event_key": "us iran ceasefire agreement announced"
-    }
-  },
-  {
-    "title": "U.S. and Iran ceasefire deal reaction - FOX 7 Austin",
-    "summary": "U.S. and Iran ceasefire deal reaction FOX 7 Austin",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CLW5UWVR6TzVGSW42SXFkOUZOcWhTTktPMi1wMzdBTTc2UGxqQ2ZQcXFWRjF0OEFjTHBXRVNDamhkZExZeUpIakZEbDZXSE9HMzhYZTAtU1l6OUdmMmR4LWc2b9IBaEFVX3lxTFBJTWROT1hnOXpVeGc1LWl0bTZZT3ZzdFVvN0p6WDJtQkFnVG1kZmJWRWdrd050ak9KdWpNYmlmcjZMU3RXcFVYckJya3cwekpuOHpXMXIwM1QteHVvN2RleDFDemFkQkZ4?oc=5",
-    "source": "FOX 7 Austin",
-    "published_at": "2026-06-16T22:34:47+00:00",
-    "raw_pub_date": "Tue, 16 Jun 2026 22:34:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "89680ee8b0e12ad3c187a50a1bbcb30276be0be1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "Article discusses reactions to a U.S.-Iran ceasefire deal.",
-      "event_key": "us iran ceasefire deal reaction"
-    }
-  },
-  {
-    "title": "Australia lowers Middle East travel warnings after US-Iran agreement - Reuters",
-    "summary": "Australia lowers Middle East travel warnings after US-Iran agreement Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWJwRnV3bEdjWmlpdnVyTmlCU0duNEtnX2huUlJySnQtOUFDcHY0N3FjS21Zcm5VdTQzWms2UGFCV0ttNkExSG9hWlhEaGJXalo3REFrdHpPMjZoQUVJdlJqRG9pSVd6TkUwa3hRdFRodko1c2xJd3RVY1JWVVlCQW83R0ZnV1ZfVnpYQmZwRU1IdGpyT1g3dEF2eUtUclFRUFhvOTY5aGhSU3BwWFkxZm12Q1IwMXIwWVFkdWY4M2c?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-16T22:32:24+00:00",
-    "raw_pub_date": "Tue, 16 Jun 2026 22:32:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7b4c3700fae61375678f1193c84e2c1fee9a0439",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Australia lowered travel warnings after a US-Iran agreement, indicating reduced tensions without an explicit ceasefire.",
-      "event_key": "us iran agreement travel warning reduction"
-    }
-  },
-  {
-    "title": "Australia relaxes travel warnings to Israel, other Mideast countries after US-Iran deal - The Times of Israel",
-    "summary": "Australia relaxes travel warnings to Israel, other Mideast countries after US-Iran deal The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFBjNlBnaW9UUlhjcVhWSnFkVnA4N0JxMkZoWWJMaW1IdHdONFJ2cFYwdElGSER1SjZDN0psb0VLckNHY1ZzTTFrTmxlVjRURmg0a3pZdWRWTUp5RExuLXVncl8ydmhWOGtnbkgxTE9WNmRIZmFFRWpYUHU1Vy11aFhHa2gwU25UY0FWcVlrSFBWY2twZ0U4YjJaV1BzNnBRZXpuRExSWlNvUnBRSVgxSnRqSjJ3Y1prU0I4Y2JhcEpnVjlLeG1qbjF2dWM?oc=5",
+    "title": "US-Iran deal said set to halt regional hostilities, including in Lebanon, lift blockade - The Times of Israel",
+    "summary": "US-Iran deal said set to halt regional hostilities, including in Lebanon, lift blockade The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWNxRTh4N1VHMGREd0RHMFMtTm5CR1BRazdNeUFCMk1UT3d1czJwTkVaX3Y1YjhnR0NxM2xuWFVCcHZYOV9ZTzd6S1VVQnBESG1zV2xuN2FaeFFobVVoMjE1clEybVdieVhQR2VhRVh1ZE15eU5Ed1BVRTFwSV9XOXhoNFFVZThwV0hKRFFlS3dPNGtZYnZGXzN0VnkzZElJSDd4Q21Ea1pBY05BV2VxazVxVTRfZTDSAbwBQVVfeXFMUGNwUnczQ3FoZ25MRnNremthcEFtQzJOcFNzOFdyTS1xZWhucm5mUmVnMThEczZHRVBreWdZbTdQemtYQUN6QTVSZzRRU20wWkpCeFJ3UU1ldWRLUlVWZ2xwR1VKY2FQN2dZMms4bXF2M3JGbVFUbWtEakhqZmluZkV1Q0JGNlBBMTZsWk9YWU04MTJYdnRvclZnQmhYN1RnV1h6b1FZaHgtZFBmcURRT3otTXBxU0tRZmxmZ28?oc=5",
     "source": "The Times of Israel",
-    "published_at": "2026-06-16T22:39:00+00:00",
-    "raw_pub_date": "Tue, 16 Jun 2026 22:39:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bf1d19e6cc3b209ed01d2fc2440d2e7a7dcf0f6c",
+    "published_at": "2026-06-17T00:55:40+00:00",
+    "raw_pub_date": "Wed, 17 Jun 2026 00:55:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "05ffd79b2ce294c13de6a394b7cc5876ce5f72ac",
     "source_weight": 0.95,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Australia eased travel warnings after a US-Iran deal, indicating reduced tensions and calming signals rather than a formal ceasefire.",
-      "event_key": "australia relaxes travel warnings after us iran deal"
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Deal reportedly set to halt regional hostilities and lift blockade, indicating an agreed pause in fighting.",
+      "event_key": "us iran deal halt hostilities lift blockade"
+    }
+  },
+  {
+    "title": "Iran Is Returning to Nuclear Talks No Longer Afraid of America - WSJ",
+    "summary": "Iran Is Returning to Nuclear Talks No Longer Afraid of America WSJ",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGZPUnVKamZnOEVHZmd4Y1V1LTYxakFvS1VmbGJlY0NRS1RFRllXdkY3ejBoQUNyR0VmNGM2ZGFLSmxheWI5bk5MZ0VUUlNnZGhMUG9ZRDExYVZRMXdmWUk5MVZYcGRRelJiamhtSXZkWTJlaHBiSF9xbjJ2VkluS3ZiNWFVX09EV3BfUmRUN3RfOEVsMGNvOHV6MjdPQm4yNm9jcE1aREN2UGFaU1E?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-06-17T01:00:00+00:00",
+    "raw_pub_date": "Wed, 17 Jun 2026 01:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f4d4045673efdfdd2ef0cd706b68e01215abf5b6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Iran returning to nuclear talks indicates active diplomatic negotiations and resumed dialogue.",
+      "event_key": "iran nuclear talks resumption"
+    }
+  },
+  {
+    "title": "Senate rejects resolution to block Trump from further strikes on Iran - The Washington Post",
+    "summary": "Senate rejects resolution to block Trump from further strikes on Iran The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGhNZmVzazhhWkl2VjJEUlZ3WGozZG4tVmk5Q0dGOW9EVGtBZU9KbHhBN0JtamJsNWhnZWlVSHNnOG9qbUV2MVctN0g0bWxwb3VsazRGOHEtRllUSDdnMW5DVUw0S1RwSE8wWGZnQzhQY0RPdU9QdF9EOVFFbWNvSDZjOFFHLTFhS0xXMFJvQWhsbXFPZFcxLUp4ZV9PcWtkLTRyQ0U4cVUxRTFyWmRB?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-06-17T03:45:25+00:00",
+    "raw_pub_date": "Wed, 17 Jun 2026 03:45:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "49fc43dca786e1847d32a87979b93e27f1616798",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Senate rejected a measure to block further strikes, raising likelihood of US military action and heightened tensions.",
+      "event_key": "senate rejects resolution blocking strikes on iran"
     }
   }
 ]
