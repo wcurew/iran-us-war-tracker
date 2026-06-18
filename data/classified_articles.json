@@ -1,36 +1,121 @@
 [
   {
-    "title": "The new detail in the US-Iran ceasefire deal - Australian Broadcasting Corporation",
-    "summary": "The new detail in the US-Iran ceasefire deal Australian Broadcasting Corporation",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVm5SbUdGTzJ0cnItY2s4bDZvR2ljYldQZHRaNXZ2dXUtWjRaMXFfR2VsTW1UTi1kdnR0RnU4cmtBLWgtSWdrOC1rSUx3SVFfMDJKeVBDYWZHbm1mR3FrZ1ZSMU93c3c1eWZKU2xiWFZ4MnVyQ1RpZWdMNDZwall5S3dlSEd2MTY5bi1jWURSTjkzOThTRXB4M2Y3UHVLek55LVR2bGFLa2Vmb3J0MWdzUHVB?oc=5",
-    "source": "Australian Broadcasting Corporation",
-    "published_at": "2026-06-17T21:22:42+00:00",
-    "raw_pub_date": "Wed, 17 Jun 2026 21:22:42 GMT",
+    "title": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks - Reuters",
+    "summary": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-18T02:48:54+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 02:48:54 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "011e275e22af7d1c41744d78527a2eff92ebb7a0",
+    "article_id": "e1aece12ac03d28fdd49e6aad0ad6a4ff42adebc",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Formal ceasefire signed between US and Iran despite leader's threat to resume attacks.",
+      "event_key": "us iran ceasefire signed"
+    }
+  },
+  {
+    "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue - The Washington Post",
+    "summary": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2k1bVluS0hJRTBSU295dm1tQjN5dmJvSnNFZlVKNnFKdHROYXlTUUNBSmJ1R2ZoTFJkS1g3LTJWRUpnZ1B3UGxYaDE0VzFXUnNuUUVaeGNVSGs4R3RxdkhncC1DS2tTd2g1dThGbVIyWGFvVUwyMXJBVnRZR2Mya3BzMVY2T3RQTDROQ05wZzloRHE3YTFodkZzNThGaktINmZCZkNDZUh4QnNHZnYtTjlheXgydFpZbVRSZFd1VzItcDViUmNnaDN1UlpiVkc1TEdEM3JB?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-06-18T03:00:00+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 03:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0f79389e70d1d18d995cee128a9bf26b170cd4ec",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.9,
-      "reason": "Article discusses specifics of a US-Iran ceasefire deal.",
-      "event_key": "us iran ceasefire detail"
+      "reason": "An initial deal was signed to end the war and ease sanctions, implying a halt in hostilities.",
+      "event_key": "us iran initial ceasefire deal"
     }
   },
   {
-    "title": "President Trump Defends Iran Deal, Warns US Could Resume Strikes - The Media Line",
-    "summary": "President Trump Defends Iran Deal, Warns US Could Resume Strikes The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEtCRUFVY0FFQzl6ZDBJM1lmNndrQV8xN2ZOdndRYlRrb0dmQmZRWDRvTHNRRGxwdHFlVU5OWEtuRV9WaVY2YlNMbDJoMHZsMExBUEdrVGhHTEhyTnNnNUFraF9YVXU0bFNKZHlIZk5jR3ZaVjJKQXJBY25rV2RrNTAwS2NJcHhJU0VNamRTUG9XdVBxbVJrMno1MzNTdXZwMUJj?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-06-17T21:28:56+00:00",
-    "raw_pub_date": "Wed, 17 Jun 2026 21:28:56 GMT",
+    "title": "The US-Iran Memorandum and the Coercion It Leaves in Place - Modern Diplomacy",
+    "summary": "The US-Iran Memorandum and the Coercion It Leaves in Place Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVExqNnFwUlRHOTNjWFdDUS1wT0FDeXVhcUIzN3dfZWU5M2lVUUNzY2prbGJ2TzMzXzJ2VHlDNVl5SU9GTTR1X3luMlcwS2swMGFWcGdzZVR0Mnk0ZUNfMG04VVNLbHhmSGVwM1pvM2xvUVFpRTRsMHhnSTVXVzlmNC1INjNmWkg1eGItOFV1OTFBVGpJZ0ctTzFZd3RlUQ?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-18T00:00:45+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 00:00:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e1066541736524569028e81649f793daa8ebfd80",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Analyzes a US‑Iran memorandum and its diplomatic implications rather than military action.",
+      "event_key": "us iran memorandum coercion"
+    }
+  },
+  {
+    "title": "Senate targets Hegseth’s travel in standoff over apparent Iran school attack, boat strikes - The Washington Post",
+    "summary": "Senate targets Hegseth’s travel in standoff over apparent Iran school attack, boat strikes The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ191XzNrQ0dIVWZmRzJGRkYyWUpVRWtuSGt2NGlTbHdYSG9nRmJoQnJrRlZKenNTSTNCczY0Yy1uODgya2R6Y3FHN2JOOFJIQzlvOHRjWFRoUjY1NXhucmtWYldmMm5HZlRPelhKQWhwTUNCZlZVN0llSVJVak9YTzBqNzZ4TzFzLUJja3JzYjB4TXRBbFV0TVkzbDRUbnpxdTFZV08yZVg2dTFLVGhvZjJFUXFqMmtadlJseHVDZUxXbjR0QUdkODRob0w5Y3cwLUhR?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-06-18T03:27:19+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 03:27:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6e7495874b71bd177df226bd43c01a8fc63c0bdc",
+    "article_id": "eac0ee3af479c8ba5be6dae681319ad4d8e1b980",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Trump warned the US could resume strikes, a direct threat increasing tensions with Iran.",
-      "event_key": "trump warns resume strikes"
+      "strength": 0.6,
+      "reason": "Senate standoff over responses to apparent Iran-linked school attack and boat strikes indicates rising tensions and political confrontation.",
+      "event_key": "senate standoff over iran attacks boat strikes"
+    }
+  },
+  {
+    "title": "U.S. and Iran Strike 60-Day Framework to Halt War, Reopen Strait of Hormuz, and Ease Sanctions - Mahomet Daily",
+    "summary": "U.S. and Iran Strike 60-Day Framework to Halt War, Reopen Strait of Hormuz, and Ease Sanctions Mahomet Daily",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXZNd29iby11a0xhcXhXNXFWbkdwV2pUVjZ6dUdoazU3cTJOUXBhS01kMWthOW9JNG1GZUdlSlNweWt3eHg3cERwWlBxci05SGNIQng3ZFlvLTA4TmRUaUU1QldkV0s1SEpvRFNNSnZqSUpzX3kyRC1vY3lmWVVUWWZBYU0wNXJRU2lvV1NEOGQ4SFh6bEpXSmVPa1ZpOHlTU3JHSlRHTWdpSWxmRjJMVWpva2M5bWc3?oc=5",
+    "source": "Mahomet Daily",
+    "published_at": "2026-06-17T23:48:44+00:00",
+    "raw_pub_date": "Wed, 17 Jun 2026 23:48:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "66865a7af364d34c42ec01a8733841d1d4b12d1a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Agreed 60-day framework to halt war and reopen the Strait implies an explicit pause in hostilities.",
+      "event_key": "us iran 60day halt framework"
+    }
+  },
+  {
+    "title": "Iran and US sign MOU to ease tensions, reopen Strait of Hormuz - Crypto Briefing",
+    "summary": "Iran and US sign MOU to ease tensions, reopen Strait of Hormuz Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXzc3V1I4cDdvcGQtbHE4TVViYy16LTk1SW12TE8tZnZBM0lRR1dnZXlWd2VVcjJOTkNYemloNGV5TlgxejVqemlXNkNjaGw2dkNLVUFzWm50a3dscTd1N3NDbmpSSzNwV2lXVS1JS0ptSjlyQWRESjBPZGlOeUZZbnpvODJlRG1FX3BIQ0ljVkNRS28?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-06-18T00:38:24+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 00:38:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fd3826b6691f820acc25dda63d6755f579a902ee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Signed MOU indicates active diplomatic engagement to ease tensions and reopen the Strait of Hormuz.",
+      "event_key": "iran us mou reopen hormuz"
+    }
+  },
+  {
+    "title": "Oil prices dip as traders weigh US-Iran deal, Trump’s fresh warning - Investing.com India",
+    "summary": "Oil prices dip as traders weigh US-Iran deal, Trump’s fresh warning Investing.com India",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTZHUUJIckljT1RpM2dCZGk2MDh1cG1DbWZGcjA2OXlUczlYY05ONmsyUl9BS0NsNzNsMjdoT25XblM1VldCZ3htalRtbmtsQWEyQlNXQ3FvS0dpWTNhX0l3cGhZcTNHTnYzd0ZNVnFUZElFY2Z0bVYwNWRCcFlRc0dpMkNuNE9lcjY2TlVVdXRDbGhoazlZak5BXzZSQkdDbXBROGdiUGdUSGozMDRsY196M21rU0xNM2pz?oc=5",
+    "source": "Investing.com India",
+    "published_at": "2026-06-18T00:56:15+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 00:56:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4ad9e0724d302a259bf98b2aa2642ea29ca240dd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.3,
+      "reason": "Market-focused piece on oil prices reacting to possible US-Iran deal and a warning, not about direct conflict developments.",
+      "event_key": "oil price reaction us iran news"
     }
   }
 ]
