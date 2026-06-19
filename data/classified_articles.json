@@ -1,104 +1,155 @@
 [
   {
-    "title": "Trump signs MOU, putting US-Iran deal into immediate effect amid nuclear talks - Fox News",
-    "summary": "Trump signs MOU, putting US-Iran deal into immediate effect amid nuclear talks Fox News",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3k1c1B5Y0c2eENZVHBlVXpRaW1STkdfY1FBN3N1MTdTMEhVM1Y5ZW1yOVJuazVLSk5KcUlTT19UZGJwT3A2aC1uYmV5cUVEbVZjREFDdUVReS1xc0Flc0pocXhMUnFvZDlkNWZLREgwZXdmN25QYkN4Rll0Q21CN0g3Uml2dTY1bmtNWg?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-06-18T20:35:06+00:00",
-    "raw_pub_date": "Thu, 18 Jun 2026 20:35:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4ace093e964417a7181c2fe3e40fa62e70e1714e",
+    "title": "Trump urges ceasefire 'on all fronts' as US-Iran talks enter 60-day phase - chinadailyasia.com",
+    "summary": "Trump urges ceasefire 'on all fronts' as US-Iran talks enter 60-day phase chinadailyasia.com",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Mdjg4TXNiNklnME1GNEtOZEUxUG5nbUdGSkZqTWUtMmlWZVEtV1RUbU9QR2FPdG45OG1xbjFXTzh0RXpTdTJ4TnE0WHpucF9fYjNQRXJqMjk?oc=5",
+    "source": "chinadailyasia.com",
+    "published_at": "2026-06-19T03:09:41+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 03:09:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1f89d4ef694ee1fde036bf7a1983df9ba2d6d8b3",
     "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US-Iran talks entering a 60-day phase, indicating active diplomatic negotiations alongside calls for a ceasefire.",
+      "event_key": "us iran talks 60day phase"
+    }
+  },
+  {
+    "title": "US-Iran talks in Switzerland delayed, White House says Vance remains ready to go - South China Morning Post",
+    "summary": "US-Iran talks in Switzerland delayed, White House says Vance remains ready to go South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZkxzVC1EVkZEcGNSc3NsMkRwcDBOdEJhX1VSSXlDU3lxR2ZDel9zaEtzSlpwRWxMVjdKWnBKTW95Q0I2MEx2ZlMwcE51MFVzVkY5bWc4aEY2VzJVSThfdzM1b2YwaDQ0T1pDYUExQ05sZ0RjT1lfbEREeVViQ2dLaGdGbWtQZHM1SjlUTHRKWDAzV3VDWFd4VmI2Z1VsbWxGZWhPU2Z4MWhKSmljN0NLOVNqOXJZTHJYYlFvT0VTazBnQVdlZTVnQWh1SdIBywFBVV95cUxQQnFKLXlweHlRaVNTdlBhS0dBclRSUDlfT09WUzRjV2Y5NmdWaWVEbUJSRi1mcFRCMnpRMmxTLXRxYi12TXFpbU5mdTMwSllrdlV1TUI1eFEySEtMUUVqOUkwc1BhU0JtSDNjbGtEUFFIanVXMHNTcFdTWXZaU3c5RWVST1lXWWZ2YV9uemxVZDBjbU9EU1dvMVhjaFF0UHdaTVBGc1dnYndjbzV3alVSQXpvYlVjWXlPcU1VTFJRcUpsVHItaTNkT19ydw?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-06-19T02:06:06+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 02:06:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e8b5dc44def0141d2878d048ea4b18edbdaa1d06",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Diplomatic talks between US and Iran in Switzerland delayed; envoy remains ready, indicating active negotiation efforts.",
+      "event_key": "us iran talks switzerland delayed"
+    }
+  },
+  {
+    "title": "Vance delays trip to Switzerland to lead new US talks with Iran on its nuclear program - AP News",
+    "summary": "Vance delays trip to Switzerland to lead new US talks with Iran on its nuclear program AP News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenpZRmV3aHY4Qy1sQTBPclVSY1o4ZjcwMVpsYmlHdlV0UjQ5aWUyOHNsemkwSmJuOHNHNzNTUTdDRDNHeWhlbU9lTWtKa2VRMkRCa0ZTN3E5c3pUQkVDTTU3a2hjcE9ac2NSZUd1ZnZNaEtMSm9HYk5XXy1TbEJ2VTJpNkE4dmhYcjJ5TXM0dUtubzhMQ2hCTkRBQ3R6WExra3pubw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-19T02:09:00+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 02:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9d4097076cfebdfa0a0203bdc8ff94b9d565d4d3",
+    "source_weight": 1.1,
     "classification": {
       "label": "negotiation",
       "strength": 0.9,
-      "reason": "MOU enacted amid nuclear talks indicates active diplomatic engagement and agreement implementation.",
-      "event_key": "us signed mou iran nuclear talks"
+      "reason": "US official delays trip to lead new talks with Iran over its nuclear program.",
+      "event_key": "us iran nuclear talks vance leads"
     }
   },
   {
-    "title": "Iran says its missiles not part of peace talks - Washington Times",
-    "summary": "Iran says its missiles not part of peace talks Washington Times",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalQzN0JyWkxidFNHY3RIMkRkT1Bpa1E2WTNqTUJrQjk4Y0NiN3NjQWtKalVNT2N4SkppMXQtTTBSMVc1bTJWZGZNdi1QNXZBbWx2TWgzeklNRWp1NDdZeEYwa2VxancxdjExV3RxemJib0FRSnFSa0ZVWWUwNzYzYVVWQ1BzNXVmVkdlbHczZWRDU0k?oc=5",
-    "source": "Washington Times",
-    "published_at": "2026-06-18T21:08:35+00:00",
-    "raw_pub_date": "Thu, 18 Jun 2026 21:08:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ce9a1588bc269d7347b055c78db411d9f5fdcabf",
+    "title": "Iran Is Returning to Nuclear Talks No Longer Afraid of America - WSJ",
+    "summary": "Iran Is Returning to Nuclear Talks No Longer Afraid of America WSJ",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGZPUnVKamZnOEVHZmd4Y1V1LTYxakFvS1VmbGJlY0NRS1RFRllXdkY3ejBoQUNyR0VmNGM2ZGFLSmxheWI5bk5MZ0VUUlNnZGhMUG9ZRDExYVZRMXdmWUk5MVZYcGRRelJiamhtSXZkWTJlaHBiSF9xbjJ2VkluS3ZiNWFVX09EV3BfUmRUN3RfOEVsMGNvOHV6MjdPQm4yNm9jcE1aREN2UGFaU1E?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-06-19T00:01:24+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 00:01:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f4d4045673efdfdd2ef0cd706b68e01215abf5b6",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran rejects including its missiles in peace talks, signaling breakdown or hardening of negotiation posture.",
-      "event_key": "iran rejects missiles in peace talks"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran returning to nuclear talks signals resumed diplomatic negotiations and engagement.",
+      "event_key": "iran returns to nuclear negotiations"
     }
   },
   {
-    "title": "US gas prices drop below $4 as Iran peace deal eases tensions - Crypto Briefing",
-    "summary": "US gas prices drop below $4 as Iran peace deal eases tensions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREZRUXEyLTdIR0lZei1vTDBTNlc3N1Vyb1plMDZMV1JHUWM1c2tfWGVSTXY2UEZLeVBjU3ZVbDZmdmEzNk9XTS1FNGNBQkhWRFdhR0FtaDB1bkRWNDBLQ1NpdlBaQU9RcjB1VkU2RDRoV1NIN05SZkMwaDh1WUpha2x1cmprVGhTNXFSUUhqRzJsUQ?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-06-18T22:34:34+00:00",
-    "raw_pub_date": "Thu, 18 Jun 2026 22:34:34 GMT",
+    "title": "US says Vance not yet leaving for Switzerland, as Friday talks with Iran apparently delayed - The Times of Israel",
+    "summary": "US says Vance not yet leaving for Switzerland, as Friday talks with Iran apparently delayed The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUF5SUZ1czQ5cUwxM0kzTlQ1RGRxWGZLcHA4M3dJWWlLb0tod2NmSHZKX0Y0MVUyYXVja01NclRxcHJPandxNHFSSlUwdUVCNFhCS2NrY0RGdVhEY1BSTklEX0RVM0dQVmQ0a1JsOVdXQ2VmRU92MFA5TDV3WUpHMUxfaHJIMkM4ek1Qa2JIWU9xYVpZMFdxUERUa1Z6RFBRQ2lRYUt2eW5pM3hQd1JjX1ZvMGM0SU8zZVk4WlJocU02RkZrWllmX2N5QU9YZlNUWnc?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-06-19T01:39:10+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 01:39:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "163f6db7ce015a063b9aaf6f8ce7d9fd70d0b9d1",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Diplomatic talks planned with Iran delayed; envoy Vance not yet departing for Switzerland.",
+      "event_key": "vance switzerland talks delayed"
+    }
+  },
+  {
+    "title": "Timeline: From U.S.-Israeli strikes on Iran to a peace memorandum of understanding - Xinhua",
+    "summary": "Timeline: From U.S.-Israeli strikes on Iran to a peace memorandum of understanding Xinhua",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4M2lrMzIxQ0ozMUtTOTVwQnRxVWNxR0lwUl9GVmJ0am9HeXVZdXBaTXFsREdzUFlYUjFSdU92dE9Gd0FXRVVqYXZrYjdiRW1VYWdrUnYxU2tfRENsSkJLQjM5LWF0a0lWNnVpNmFfczEweXJITjlVM1V4MDg?oc=5",
+    "source": "Xinhua",
+    "published_at": "2026-06-19T03:21:15+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 03:21:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "425e6fd27bfc39be4da9fe1f2080bcaba44ab57e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "Timeline culminates in a peace memorandum indicating an agreed pause or truce after strikes.",
+      "event_key": "peace mou timeline"
+    }
+  },
+  {
+    "title": "Oil prices drop as Iran-U.S. agreement eases Strait of Hormuz tensions - AnewZ",
+    "summary": "Oil prices drop as Iran-U.S. agreement eases Strait of Hormuz tensions AnewZ",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3FCc2hZSFJnVzZBNVdDVzdka2RvRUZyenpseTloUjNNNW5YcXVPN2RyT0JZXzFGY1FpNk9QMVg4SEJfMUJ3Wl8yNmtkUG9rTG5SM0YwWjY2R2Z6cW50akFPRkZKclVuWUNzbjNLUFBsbVI3dUdfaTNMcDB5Smo2cUV6UC1WaFpjNkxSdWF1RC1vckw1TktNaVlxTDA3UTJaOVR6TEh1azB3Tkt0WDF4T3BkSUE?oc=5",
+    "source": "AnewZ",
+    "published_at": "2026-06-19T01:17:00+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 01:17:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "67ec5b890efe70b6401e73a427b7f7502c285c8e",
+    "article_id": "0f64b0b6d7efeb04c4d8220c04a8e6ff4fb9b1f4",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Reports a peace deal easing tensions but not explicitly describing a ceasefire or direct diplomatic negotiations details.",
-      "event_key": "iran peace deal eases tensions"
+      "strength": 0.8,
+      "reason": "An Iran-U.S. agreement eased Strait of Hormuz tensions, a calming diplomatic signal rather than an explicit ceasefire.",
+      "event_key": "iran us agreement hormuz deescalation"
     }
   },
   {
-    "title": "After years of warning about Iran’s leverage over the Strait of Hormuz, Fox News minimized the danger before Trump's war — and now they're grappling with the consequences - Media Matters for America",
-    "summary": "After years of warning about Iran’s leverage over the Strait of Hormuz, Fox News minimized the danger before Trump's war — and now they're grappling with the consequences Media Matters for America",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzhoQ2oyLU1KMHNZdlQ5ak4xbm1JZ2xKYng5dnM3QXY1SHZNUWlQMmduMTFJVkY5TkprRkdOV1EtYWwwQVhyUEg3cUtNd0VFcHJWWWM4QV9KYnRXeS14UnlIVVdKc2d3MllvOFNlYUxBZlVRRG8taUFlZWxvcEZUTFRqcTVqUjJfQmpYMmlhVmZGeDVGc0doMDRjSHlIaUxPQUtDZE03TWZNWnRQWnVDOFhYM1B4d2luYldGVVJzMng?oc=5",
-    "source": "Media Matters for America",
-    "published_at": "2026-06-18T22:38:06+00:00",
-    "raw_pub_date": "Thu, 18 Jun 2026 22:38:06 GMT",
+    "title": "Video: Vance Issues Warning to Israeli Critics of U.S.-Iran Peace Agreement - The New York Times",
+    "summary": "Video: Vance Issues Warning to Israeli Critics of U.S.-Iran Peace Agreement The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUxhbE9VVmZWcG03RF9nWWFqN3AwbENTbHVKTVJmRUsxOG9IM3ZqLTFpQV9xdF9mLXd3NW13RFNwY1dkQlozRlBMXzljTVY4Y2xCYTQ5R2UxVnFQWUE2RWg3Y1hGWEQzMW9hMmZWRElld1RzQWRpd1JvNHh6alpxT0x6VHVBVllxdWphVXhZNA?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-06-18T23:36:49+00:00",
+    "raw_pub_date": "Thu, 18 Jun 2026 23:36:49 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "93a8b00628c7be19871c258781f8c1f37d6be3b3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.15,
-      "reason": "Media analysis about Fox News coverage, not direct Iran‑US diplomatic or military developments.",
-      "event_key": "media coverage fox iran hormuz"
-    }
-  },
-  {
-    "title": "US Begins Follow-up Talks with Iran... Issues Public Warning to Israel - 아시아경제",
-    "summary": "US Begins Follow-up Talks with Iran... Issues Public Warning to Israel 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03eFdrcXFUZGloNFBDSUxiTk5wSGhBdXVaa040SVJZQ1BiQnhmMWExZ0VMeS02ckkyNlZIQTBoSXlTOG1xYXJ6UnJlU0tnZzRTVXN1OEVSX3BsZVVGTkFqeEZsdVhHcVNQLWlwdENtZmVHQk4tVHdZ?oc=5",
-    "source": "아시아경제",
-    "published_at": "2026-06-18T22:17:49+00:00",
-    "raw_pub_date": "Thu, 18 Jun 2026 22:17:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "291be2555b6e4aa4164e20e885958560b4d42a64",
+    "article_id": "9cf481e658d688c826177e75284a3476315ecd25",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Follow-up talks initiated between the US and Iran; public warning to Israel indicates active diplomatic engagement.",
-      "event_key": "us iran followup talks warning israel"
+      "strength": 0.7,
+      "reason": "References a U.S.-Iran peace agreement and diplomatic messaging to Israeli critics, indicating active negotiation dynamics.",
+      "event_key": "us iran peace agreement warning to israel"
     }
   },
   {
-    "title": "US Begins Follow-up Talks with Iran... Issues Public Warning to Israel - 아시아경제",
-    "summary": "US Begins Follow-up Talks with Iran... Issues Public Warning to Israel 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JcW00WHBQRGhKY3BYSUdha2FzZVhhTFNTbVlfN2N6b0Y0SUF4cU5NRWxpZVJtSUpkVF9velMtSjRXS3ZlVHlqWF94Mm1ERjcxLXJqaS1vQ2ZYUUNYaFpGX2RZNTk?oc=5",
-    "source": "아시아경제",
-    "published_at": "2026-06-18T22:17:49+00:00",
-    "raw_pub_date": "Thu, 18 Jun 2026 22:17:49 GMT",
+    "title": "Iran Warns US of ‘Crushing Response’ if New Agreement Is Violated - Open Magazine",
+    "summary": "Iran Warns US of ‘Crushing Response’ if New Agreement Is Violated Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGg2VERYMGx1cmJTQkszblV5bVpzVTR3U1NEVFhORUh2UXJJZFh6Y1ctNlRIMS1KU2YzYUFoYXpqZV9XQ1l2OWRKYnJOcndOaDUxdEViV1MyX2FCUzBMTGlWZnJuWjBSRGVBQ09IaGkyN0RfZm93N204VHdwcUlXNjUxOTduVXc3LXFPNWhvclhKSEJCUGNJYkw4QnhRZw?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-06-19T01:20:29+00:00",
+    "raw_pub_date": "Fri, 19 Jun 2026 01:20:29 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4a0e6d9a68899f8e6b117ff50a773fb1ddfcf84c",
+    "article_id": "2f888f99621abdac5f3fdcf4cc29e87ee9dd554b",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "Reports of US beginning follow-up talks with Iran indicate active diplomatic engagement despite warnings to Israel.",
-      "event_key": "us iran followup talks warning to israel"
+      "reason": "Iran issues a direct threat of a 'crushing response' if an agreement is violated, signaling heightened tensions.",
+      "event_key": "iran crushing response warning"
     }
   }
 ]
