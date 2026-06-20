@@ -1,70 +1,121 @@
 [
   {
-    "title": "Strait of Hormuz closed again as Iran heads to negotiations with US - NewsNation",
-    "summary": "Strait of Hormuz closed again as Iran heads to negotiations with US NewsNation",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PU01rRGh2V1Mzd0d3SmQxazJRWXpBRGIzTXdvME55UFJMN1dfbGZwSlVZWk95YjRsVzVoNW9abXhjczJ6YzlmeDZLQlZDRFFkQkFsM2xyRzN6NHNrOWxHTUh4SXFpT3NfUlBSN09jcFRiMldKZTgwdEZ3MNIBgAFBVV95cUxQYnFoMER6MjNNQy16TFlrZmlGQWRKVTZOQlR6TlVpZ1RPSDF6YndGa25WNnhjMm9ZWklyOHBlWnF3eURFaFF1bmVqb1pSMlVFNUcweU1NSldkM3EyOU5KUGFOUVRGZG9jVFRQX0tLVWo3WnpjbF9vM1MzVFRNX2kxRw?oc=5",
-    "source": "NewsNation",
-    "published_at": "2026-06-20T14:32:39+00:00",
-    "raw_pub_date": "Sat, 20 Jun 2026 14:32:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b9821a6447c2acb93e53a0f2469f1fd694628f34",
+    "title": "U.S.-Iran talks to begin Sunday in Switzerland as Tehran closes the strait over Lebanon fighting - PBS",
+    "summary": "U.S.-Iran talks to begin Sunday in Switzerland as Tehran closes the strait over Lebanon fighting PBS",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTRrcnRpeG5KTDUzVjgxbDRBOEs3RVV3RndOWllVVTZkQzhwR05WVG5Ya2ttTzlucnc4aFlZWmVkdnppZHI4c2MxZzFpbjVRR1VMd2UwaUUtbWZ3ZUNKdEl1QndQdjNiVmlmQnZTN1JTWW4zVzFoS0t2bVdYRnZOOUMtclRISUdJdGl3RXlWY2l2WEJ0OXNTNjNvc0lJcWtVM3V1TmlidFU5Umpnblc2NERRV1lwM0FGNUJDdm4tWkFRRHQxMEgyeUNR?oc=5",
+    "source": "PBS",
+    "published_at": "2026-06-20T16:59:00+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 16:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "44108ebeafca12155ad3d36573961ec67fa2d52f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Active U.S.-Iran talks beginning in Switzerland indicate diplomatic engagement despite regional tensions.",
+      "event_key": "us iran switzerland talks start"
+    }
+  },
+  {
+    "title": "Iran says it shut Strait of Hormuz over truce violations, but U.S. says it remains open - CBC",
+    "summary": "Iran says it shut Strait of Hormuz over truce violations, but U.S. says it remains open CBC",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVphYW9WOWJub3BpekdhQWkwYk5Ha1JDcDMtSTFTMllFa3RRUUpxU0xvUkYwRnUxWFRYQ3FOaXhwbzc5a2luV0ZMUEhpMDhBOVRBQjl4SlliRktjbDhWZExIaEZPakd6NjRiWmJBS3dFRjFUSVJDeXkwaHNLMEh6Vm9fdC1xSkN5Uzg1aFlRRmM?oc=5",
+    "source": "CBC",
+    "published_at": "2026-06-20T17:12:06+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 17:12:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7708d51740659239a4c03ceba543c0661f4b118f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran closed the Strait of Hormuz while heading into negotiations with the US, a hostile action raising tensions.",
-      "event_key": "hormuz closure during us iran negotiations"
+      "reason": "Iran's claim of shutting the Strait of Hormuz signals heightened tensions despite U.S. denial.",
+      "event_key": "iran claims hormuz closure"
     }
   },
   {
-    "title": "Iran closes Hormuz again as IDF attacks Hezbollah, upping pressure on US before Switzerland talks - The Times of Israel",
-    "summary": "Iran closes Hormuz again as IDF attacks Hezbollah, upping pressure on US before Switzerland talks The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSjNqME1SRUNHczhvMXI2cGxqWkxDYTdNeDB0VXRDellRSUphUUxtV0k4QkYyRnBVVG9qemlhZlhjT1lLLU9yVUpyTnItUWxWckhqTWhrT0lLOURaekNwU2dVVjBUS1AyTVgyTFEtRGtxNl9aX1ZJZElhcFpWdU90NjhTaG9YQzd4eVF0b3VROU8wZjJzSXpfMWUyTkEyZ3BwUF9vekZ3ejVaTUd4VC01eXpTQjBwQUJuRlQ3dXNiUGdjbUljUnfSAcsBQVVfeXFMTkc3ajRxMDNqYjNGV1ZIQUdMNHhQMU9kcDQ2dXVZVDY0TlZuQmZvTDgzdXRlaVJLc0pTTVlvamVWVTdRSko0dUYzT1Qxd2lGSmVuUkVhOTZ5YnNaSjg1aWZsU01DV1pudVg1VlYxaGkwUlFmSkxfN2IzU2FiamEzaG5Eajk4ZFVhR3dEc2U4Y2Q1amMyY0ZFX2pZOTJ0S0hXSUI5SWR6a1hKR1RuTGJ1MkJZemZBelJOUVdjMk0xVDl4c3V1MEVUNFZxcVE?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-06-20T14:41:40+00:00",
-    "raw_pub_date": "Sat, 20 Jun 2026 14:41:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6270c31e732bddddd8f34e208d4b0830f73ac7ea",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Iran's closure of Hormuz and IDF attacks on Hezbollah raise tensions ahead of planned talks.",
-      "event_key": "iran closes hormuz idf attacks hezbollah"
-    }
-  },
-  {
-    "title": "US-Iran talks delayed after Iran closes Strait of Hormuz - The Jerusalem Post",
-    "summary": "US-Iran talks delayed after Iran closes Strait of Hormuz The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vUWo3dEtJa2toV2hfb1BVbXUybUswU2RfbHVQb0N4MW1nNWNjNkp5THFwSkg4ODhQdzZDMnpXZkNhdmZWNE5PZ3RnVzRpaGdPQ0lxNC1JSnh5WVUz?oc=5",
+    "title": "JD Vance role in Iran negotiation expands as US VP becomes key mediator - The Jerusalem Post",
+    "summary": "JD Vance role in Iran negotiation expands as US VP becomes key mediator The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TQ2hKMF9WdF9JWDNVZVhoc2dhZ0pIWFpUOWpGNVcwTlRleXpJc3E3YkxNQ25JWWE2b2ZZSFVCVlZONDB6UFk5dk5PNXdvYnJac1EwbHFQWEhBTGNj?oc=5",
     "source": "The Jerusalem Post",
-    "published_at": "2026-06-20T14:38:15+00:00",
-    "raw_pub_date": "Sat, 20 Jun 2026 14:38:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d282800e25c75f2822f5e44aff57a81af607473",
+    "published_at": "2026-06-20T19:18:47+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 19:18:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c1a05262691635980a17269ef39bd6319fb42192",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's closure of the Strait of Hormuz and resulting delay of US-Iran talks signals rising tensions and breakdown of diplomacy.",
-      "event_key": "iran closes strait of hormuz delays us iran talks"
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US Vice President and JD Vance acting as mediators in active Iran negotiations.",
+      "event_key": "us vp jd vance mediates iran negotiations"
     }
   },
   {
-    "title": "Iran says Strait of Hormuz closed over U.S. violations, IDF strikes in Lebanon - Haaretz",
-    "summary": "Iran says Strait of Hormuz closed over U.S. violations, IDF strikes in Lebanon Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSVVJcGhMWFU3bjNxYlVJdUoxMFVCVXZrMlViek1CREloaEh6RmZrS1ZYVWRyalh4WXpOUjVHTjZMeEJwSnVGV25mbldpdXVTUUNnMFhuRFhGb3lfbWNyaVZpSS1DNkdUb2xVTHBrcGNBT21kdHRPdWxKbXBCamI2T1RhZTQzZFRlWUZYSFF5Z1Q4QXRQcWFlVkdld3NwWkdnMzFPcGlfaXpPbFJ0UG5fdXBDcE5NVE43YlVSa2VIUU11ZjhuN0VuYjU4X3pYZE5yZ0pxVGZMQ19mRXVWQXNYS0d4NG42eWl0YmxxbG5ZVjJaSk1ZWmVmSUZoZzVXVXcxVU81YmR4TVFVTFc1THc?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-06-20T15:41:00+00:00",
-    "raw_pub_date": "Sat, 20 Jun 2026 15:41:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "718c0b1a0b80ed05a8d83e18869ae667e4876b1d",
+    "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan - Al Jazeera",
+    "summary": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEJJM0JRb08ySVRZU3dob3Rjdk1EeUJQY1F3Y25JdzlmT3pIVWJ3cnNUZFFRUkxhcW4zcjBod3VWVTlOTHpRbDM4dG82bXZ2YmJhUzJDaTR1RkVSbWF6ZVFQU0J6U2duOGN5VmNmUzIwREJORlpzS3U1d2Y4ZUkwRWNiWTIxNnV6ZU05OTl2d3M5aFctQ2ZmT9IBngFBVV95cUxQb0FxU2lxbXVYTE9SU2YtemEtdG9pYWhHX3J5aXlkNVFSM1JoanEtSUlINy05T0ZEWTNPQ1RRaFNXNmEwUXVPdG9FTF9mdnd4S290V2lIeElfRTVZTUhid0FqNnl1ZVFydkxzMU9jS2RKSl96eDR5OHV4Uk00UzZxUERrazlIOGJsY2FwdjkxX2ZoeVBuSDYtajRqbjlLdw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-20T17:51:31+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 17:51:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e0e5c626abac71fab79cbabeee0570fa9c50e4f1",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's claim it closed the Strait of Hormuz over U.S. violations signals a threatening escalation in Iran–US tensions.",
-      "event_key": "iran reports hormuz closed over us violations"
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports scheduled US-Iran diplomatic talks beginning in Switzerland.",
+      "event_key": "us iran talks switzerland start"
+    }
+  },
+  {
+    "title": "Trump’s Fears About Economy Undercuts US Leverage in Iran Talks - Bloomberg.com",
+    "summary": "Trump’s Fears About Economy Undercuts US Leverage in Iran Talks Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT08zLVZ5RklVSnFNYzRmMEFyVDA5VzJJenRzRWIxUGVuMkZ3czk4Q1FoR3ZRblNrSDlaSFpXZUlYRjJXVXR2R0MyNGwtajExNEZHbGRSQWJHLVc5VEc2S0Zqc0tjOUFRNkdqRzFlaG1BMDRlaWVmTUl2V0VQNDhWeGk5VUoxSDMwVFlYVVYyME14dUlIOWhpSlkwZXppUVNtUDlWM1liaUZpUnpkRkVZdENuQUk?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-06-20T16:33:41+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 16:33:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "29190e1dd1bb580f7175fd6af460ed49c8f18e9d",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.65,
+      "reason": "Discusses US political/economic factors weakening leverage in negotiations with Iran.",
+      "event_key": "us leverage undercut in iran talks"
+    }
+  },
+  {
+    "title": "Kurdistan24 Inquiry Prompts Swiss Confirmation of Continuing U.S.-Iran Talks - Kurdistan24",
+    "summary": "Kurdistan24 Inquiry Prompts Swiss Confirmation of Continuing U.S.-Iran Talks Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzVYWnFwaTZfaW9BcVRKVi1yNE8zeF92MGVPUGpZUHlrck4wdTFMUnJDTjZFZkpqWmVUN3l1R3o0RU1sTURvODlscTZDSzJRYXIzUG9tSHpuRUkzenVhMjNPY1pub24xNlluQlVSdnR2eWlXdDZIY1NFOHVmZF9MbkdaY1R0TDMzOF9JSEd4eVpSQjBMb253SjI5YWV6VzN2Rm92M0hENDd6aGZENURUcW5KT0ZVbjdfWEE?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-06-20T17:59:16+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 17:59:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "05863c782b5499d58cb949703b5ad7d6daf98cc5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Swiss confirmation that U.S.-Iran diplomatic talks are continuing.",
+      "event_key": "us iran continuing diplomatic talks switzerland confirmed"
+    }
+  },
+  {
+    "title": "Shaky US-Iran ceasefire; escalation in Lebanon - countervortex.org",
+    "summary": "Shaky US-Iran ceasefire; escalation in Lebanon countervortex.org",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHN3ZWpYM2x0WU5WWVljTjlzYzZBdnhFME1XeGVlbjR1bWVrRGViYXVRTl9icGZUM1FDaTJ2N092VVctSmFzRXIxQWMyVnBCa2hSbUZOSUFmUE9nRGR4anFqVkJ2Q2tXbmlWUnp3b3JwMldBbXpDREsxUS1RU200cTl4dw?oc=5",
+    "source": "countervortex.org",
+    "published_at": "2026-06-20T18:25:30+00:00",
+    "raw_pub_date": "Sat, 20 Jun 2026 18:25:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "56be2ebc0b942b3598c3d7358aa3222e4fe7923c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.72,
+      "reason": "Reports a fragile US-Iran ceasefire while noting concurrent escalation in Lebanon.",
+      "event_key": "shaky us iran ceasefire"
     }
   }
 ]
