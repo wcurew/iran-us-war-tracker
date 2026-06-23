@@ -1,70 +1,87 @@
 [
   {
-    "title": "Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions - PBS",
-    "summary": "Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions PBS",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVF4RVVwUjVYaERLeHhURmF4S0hKYjlQU1hlNk96aXNVWi1QaHkyX1VYQlh2azQxbmZtVlUxdE1zdTNDemJSSlhYWldXcGFXd0ZVamFWM1hYWF82WnkxcHNLeEtXS09IMERYbTdBM2xWTEN6RGJnLXVkOEdOSDlUQjdnclNjYjdqYzRBa3otQS0tMmxUMUtDOGtYczFjZnVWSTN4cnpoa0RqbGc?oc=5",
-    "source": "PBS",
-    "published_at": "2026-06-22T22:55:57+00:00",
-    "raw_pub_date": "Mon, 22 Jun 2026 22:55:57 GMT",
+    "title": "US eases Iran sanctions after talks, Lebanon ceasefire still holds - Reuters",
+    "summary": "US eases Iran sanctions after talks, Lebanon ceasefire still holds Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSm1sOGxvckl3WndIYmZjbXpWRS1RYnNtRlJfRTF1TlhMN3lmQXJHSnNZenpVWkRxaDlxTTd5TEVuZzFiOGxPb2NBNmdqMjRwbkpqM2dCMl9aekZFdVhiZ0k0ZUdhbWM?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-23T06:30:14+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 06:30:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a8aab87e13b53058b8cebde182f5bff285cc68c",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "US eased sanctions following talks, indicating active diplomatic engagement and bargaining.",
+      "event_key": "us eases iran sanctions after talks"
+    }
+  },
+  {
+    "title": "Oil Prices Choppy Amid Mixed Signals From U.S.-Iran Peace Talks - WSJ",
+    "summary": "Oil Prices Choppy Amid Mixed Signals From U.S.-Iran Peace Talks WSJ",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkxzeFFtVl9hRWJ1QmxCT21vaVdpSTRXY2JMbzVzbHNUVWtIR3dUUmViYVVJVDY1dlRZUzRScjgwcUxuWWxzU2VpQVQxOEFhWXFyNTlMN1lGTW8yeU1KUTJhOGRyU0dWTi1hM1drelNVNnBYUnBFbmFhS3Bja1p3a2hoMUlTSWlXZnRkOEdzWTVFTHJwUHpPUzZNVE9hUQ?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-06-23T06:20:00+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 06:20:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "689f317a8cd983fbf00a3ae1a795cf81a795de2d",
+    "article_id": "d1077afc68ff3841bb3edc926d124780ff7ea2b9",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports progress in talks and temporary sanctions relief, indicating active diplomatic negotiations.",
-      "event_key": "us iran negotiations oil sanctions lift"
+      "strength": 0.7,
+      "reason": "Article links oil-market moves to mixed signals from active U.S.-Iran peace talks/diplomatic talks.",
+      "event_key": "us iran peace talks mixed signals"
     }
   },
   {
-    "title": "US diplomacy with Iran eases gasoline prices as national average falls to $3.85 - mezha.net",
-    "summary": "US diplomacy with Iran eases gasoline prices as national average falls to $3.85 mezha.net",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfZzQ1QV94ME9ybDFTWDZjdHhIS0VNc0Itb0JCQ1E2Mnp4UVk3TzlxSDE1cFQwMkFoc3pjOWlOYndpMC1FU3dQQnZfVlM3V2Rha0dMT3F6djlRcm90anlXQ2xrMjZGUQ?oc=5",
-    "source": "mezha.net",
-    "published_at": "2026-06-23T01:19:29+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 01:19:29 GMT",
+    "title": "Is Trump’s Iran Deal Straining the US Israel Alliance? - Modern Diplomacy",
+    "summary": "Is Trump’s Iran Deal Straining the US Israel Alliance? Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTNlWE1qQXE1Tm1JX18xaWdiTlZLMGFyT2lDdVpjUGRrZ3NmU2N1eWJMRDNsbmh1UEo4TzNOUzFZa3kwMWlxRnZ6V09OczIxRk5qNEQwb1dRSGVfTzkya0oyeFRKVF9nVmlkRnQ2dkE2M01OSHQwM2tyZFpZU3hONkJBM3VBcTUwbkxKd2luXzRya0VicUE?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-23T05:53:51+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 05:53:51 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2b6a4006796aecfaed0f2211e6526821fe933df7",
+    "article_id": "80bb886a7ae581c3fd7113acf07b313e3c492b51",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Op-ed on US–Israel relations over the Iran deal, not reporting direct Iran–US diplomatic or military developments.",
+      "event_key": "us israel iran deal tension analysis"
+    }
+  },
+  {
+    "title": "Can Iran Really Escape Decades of US Sanctions? - Modern Diplomacy",
+    "summary": "Can Iran Really Escape Decades of US Sanctions? Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVdBbzl6QXQwZHVaYjNqWG5qMW5fc3hTdVhLczR4VFhMREgzV0NnamdZWVpDLWNnTDN6eHpnajgyZkhVYm1uOFh4UUtQZi16RThpSjVUOU9KWXlBV2w2Qmd3LUNGazZKLXN4eDhrVVF1U1VXQjNhNXBHZzF2YWpRRFRWWTdvbEtZR3NMZ0RB?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-06-23T05:33:02+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 05:33:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8a40196f429d98512a0d6785954f00ef8ec81dc9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Policy/economics analysis of sanctions, not reporting on diplomacy, military action, or conflict developments.",
+      "event_key": "sanctions analysis iran us"
+    }
+  },
+  {
+    "title": "Swiss US-Iran talks leave Israel vulnerable as Iran regains its strength - The Jerusalem Post",
+    "summary": "Swiss US-Iran talks leave Israel vulnerable as Iran regains its strength The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VmFiRFdKaVAyYXVWT1N2SWVmanVFNGpxN1ZrR2M3R0NxZ0ZiSmo4WUZUM3ZsUHROcjh3eFE5el9EeXVicE1tTGFRM3dyQzVHRENNamRMMA?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-06-23T03:00:03+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 03:00:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7c3dd439395cfb3f595d98cfd4d4f9047b079e57",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports US-Iran diplomatic engagement affecting gasoline prices, indicating active talks or diplomacy.",
-      "event_key": "us iran diplomacy gasoline prices"
-    }
-  },
-  {
-    "title": "'Don't Test Us': Trump Signals Tough Retaliation If Iran Violates Islamabad MOU With U.S. - The Times of India",
-    "summary": "'Don't Test Us': Trump Signals Tough Retaliation If Iran Violates Islamabad MOU With U.S. The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeWpKSkdMQlhqbWxpMngyRnJFZEl2aEZaY2VMWFE5Zlg4WHY5V1VEMUlJVjJoZlQ4R3IzdXAxY2ZlV2t3dkdOU3F5UWJfbkxPMmF3RmRkVDl5WUZxUGhLaXdFSnVRc2pjTUp1aFgzQzFmLWVsRzExVXNvRVpLX1lJc3FqVzFTenJ1cWlRdFRUaFFma3FvMmVqZlFrek45OUluU0FCZm40SE5rUHowUEJsazlNQm5JbGlZNVF3dmpicklEWkhnNGhqeHNYaWxwd1BiV2hlYjEtSlc2cG0tNFN2dW0zSEdxRkpJM1BzckVWcUxLT3dCRHkzYVd30gH_AUFVX3lxTE9WQUJCZUxsUHk0QXI4OWl2a0FaZEFZcmRRT0NVXzE4V1lKTWF1Tmg2ZVV2RGZRVTR3NEtKMG5QZC1nUUZPQVV3Y1g4ZllxLTRrMUVCWFNNdUVheTIzMGIxUzB0cklSOVVRYWxhc0h2NVJmQzRuM1VDVjFPSHZlTVd3M2txbnRFZjJRSlhLVnFuSGFzWmxtNWFHN0RPcFBIX05yLTd6ZE5Lc0Y5XzRrT0taWVVJSFFTc2NPRHU3QkltbU1vcVhDTEtvZEpaNU1CckdJTW5VZTV2Y1JuVzFyVHA3RnRpUVNzdGRxVENoMmhxTURDUDRYRERHVTZOdjVvSQ?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-06-23T01:15:21+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 01:15:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7e7ead1e5b1d6ad5d04ffe9a7ede4e2b502aa5cb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
       "strength": 0.7,
-      "reason": "Trump's threat of tough retaliation and warning to Iran increases tensions and signals hostile posture.",
-      "event_key": "trump threats retaliation over iran islamabad mou"
-    }
-  },
-  {
-    "title": "US pushes Lebanon-Israel 'de-escalation cell' as Vance seeks to prevent fresh Hezbollah conflict amid Iran... - Moneycontrol.com",
-    "summary": "US pushes Lebanon-Israel 'de-escalation cell' as Vance seeks to prevent fresh Hezbollah conflict amid Iran... Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdXZaNnFqTS1mSy1sNmVWcTlwaGhVckdYaFpjTGhCcTZsUGNLaWFLZzVIMmpBdlM1X05ZMnZyd1BxWXJaSTNXY2VSTDJGcnRRNDBYZFpCVTBLUWxnRUFDNUtFMThucmNON1Q0UDVWQVhSWnNnRWd3V01XSzk1OW9xWGUzR09mT1g1UmxhY3NVWU55RHhsdlYwZDJ4QVI0ZG1ROVZoLUFRbzJWeEdfOXkwTGxwdEt4NFNEazlTWVN0RFlCRjVLQ21kTkJlQU5PVkNYTllQcGxnRzRrLWw1ZW9scHdpcU9DVTZlbGUzYU1xYThWb3BGRjBCQy0yUXJZZUdjUE530gGIAkFVX3lxTE02YWl5TXpTcC1TQzMzVWhNa0lMby1TNmVCV2d0MFVPaHhFRnNmUWplTHlJX28xUXBYTVB4TEtseHI5LWVEMFQ5XzlBbWZ5N2hnVHUwWjdTMVhwS3hKb3FnV1VfbFpfaHZvcUJ6WWFrVGdsbExFQzVncFdURHo4ZWZ3Rm9DLVpfOG5zc25KZzAzTHZ4QzZ0aWZYR2ppY240dkxOQ2pZZW00MEhYU0lqa3dhNGM4dEp3VENENm1nbndHUE02N0dCVzZSOW84cmhfLWZxQ0FnRkdOZThYS0NiM2x1T0JFTTBnU2JkRFF4Q3B0UHN0ZFpSLUNDTGFKTGN1WWktS0JmX1k0SQ?oc=5",
-    "source": "Moneycontrol.com",
-    "published_at": "2026-06-22T23:41:51+00:00",
-    "raw_pub_date": "Mon, 22 Jun 2026 23:41:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6a1aa414148fec92700340acbf6b36e7d5d9b0df",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US proposing a Lebanon-Israel de-escalation cell to prevent Hezbollah clash—restraint/diplomatic measure, not a formal ceasefire.",
-      "event_key": "us deescalation cell lebanon israel"
+      "reason": "Reports on US-Iran talks in Switzerland—active diplomatic negotiations affecting regional concerns.",
+      "event_key": "us iran switzerland talks"
     }
   }
 ]
