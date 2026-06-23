@@ -1,155 +1,240 @@
 [
   {
-    "title": "Marco Rubio to meet Gulf allies amid division over US-Iran ceasefire deal - The Guardian",
-    "summary": "Marco Rubio to meet Gulf allies amid division over US-Iran ceasefire deal The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjJJeFBRRkI0SzNHTEQyOFFxdFM1anVBaE43UXZYcDNoLUx5clU5OWhoOEdSNE9lN1N3VmRlWW9sZDNjQmZiZlhwOEpINldHOThsYjVub0w2bUtJcU02TEtUYTRaY01uSXYzNy1qckZMcEphbHMzbkxVVnlGVXU4c1g5aFJ3NnhnWVFidGstVDNCdTVOc1Ew?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-06-23T13:42:00+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 13:42:00 GMT",
+    "title": "Steve Forbes: Iran believes it won strategically with premature US ceasefire - Fox Business",
+    "summary": "Steve Forbes: Iran believes it won strategically with premature US ceasefire Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2X2dXbXg4QkRUMmU2MXEtQU04QkxPOVB3aUlYQi1DTml0SV9tSHA2TlRnclZqZVF0M29xZjlsY3E2ajBUeUNiMmJJeFE1ZVVTZXdtSmhhU3c5V1k?oc=5",
+    "source": "Fox Business",
+    "published_at": "2026-06-23T17:29:51+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 17:29:51 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4aa470933e6c5222e401057ccfc97c5f98bfba36",
+    "article_id": "f40fe8f0ca61a4d6eb5dd5fc36016b0e4c6c6ebd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.6,
+      "reason": "Article centers on a claimed US ceasefire and Iran's view it benefited strategically.",
+      "event_key": "us premature ceasefire claim"
+    }
+  },
+  {
+    "title": "Shehbaz Sharif: Ballistic Missiles Are Among the Negotiation Topics Between Iran and the U.S. - IranWire",
+    "summary": "Shehbaz Sharif: Ballistic Missiles Are Among the Negotiation Topics Between Iran and the U.S. IranWire",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjFOaExNMkxzUDZ5cVVCSjVmS0dfOXVvWVJvUXNfM0Y1aTNfZjBMUmlUU0lteTB6WGg0aUV3cnczNWJleUlFWTB4Y0pkdHpMVWI2dkQ5bVFQRHBSYXpSYzhfWktiMjFNZ2dSX2Z4cGd4TmFWc1RDQjVGVzRRMTYxS21meVI0WVBIemcxR25vWFJIUnd5b0ZiODl5RzdnUVFnNFNSTUQ4VENEMFRxQVhqdEROendKZXpCZVZ5b3lmWFg4S1pZMVE?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-06-23T17:45:12+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 17:45:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cc653e47d5bb202533213a081cf378a950703d92",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Ballistic missiles cited as topics in talks between Iran and the U.S., indicating active diplomacy.",
+      "event_key": "iran us ballistic missile negotiations"
+    }
+  },
+  {
+    "title": "Corn, Cash, and Missiles: The Hidden Narrative Battle Behind the Iran–U.S. Understanding - WANA News Agency",
+    "summary": "Corn, Cash, and Missiles: The Hidden Narrative Battle Behind the Iran–U.S. Understanding WANA News Agency",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0pjeExiZ0RpSjEwbUtwTXRnUXQ4bW1DNzhGdV9reGlscVFZZnZFTGRrS3V0MU03S2xuNEFLWDJxM2RhZHVkTG9lQWpZaGZpUWcycjdxTXFxRU5tY2IzamtoLVZPakg2TGhJWXNwOVBuc0E4cHV2Y2FsMFktUEdiSDljcXJiSUUxa2lHZk9QSVFudnVmdjY0ZF9aMEQ3QUdkN2hQdnBRdw?oc=5",
+    "source": "WANA News Agency",
+    "published_at": "2026-06-23T18:48:00+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 18:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8f4064a5d1fddc0a7f5bd194abfc2230215bf09b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Opinion/analysis on narrative battles, not reporting direct Iran–U.S. diplomatic or military developments.",
+      "event_key": "narrative battle"
+    }
+  },
+  {
+    "title": "How U.S. peace talks with Iran could impact oil and gas prices - KERA News",
+    "summary": "How U.S. peace talks with Iran could impact oil and gas prices KERA News",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15SEVXanU0aVZQSFhfV3VXc3JpMUlRM1JVVzZnaW5zOHZPQ1J0cWttYm02Y1I4SzNXTmY5T0phUmUxZ3N3UnBTNDB6VUc2M1h4U25FZDFWTzJIT3BLbDVKYWJCbGQ0S3gwb3pQRnhFeU1STTRVR2VHWklB?oc=5",
+    "source": "KERA News",
+    "published_at": "2026-06-23T18:29:00+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 18:29:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fc5cb884bf929bb84f5b4364ca5ea999d8ef4f99",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.67,
+      "reason": "Article centers on U.S. peace talks with Iran and their implications—active diplomatic negotiations.",
+      "event_key": "us iran peace talks oil impact"
+    }
+  },
+  {
+    "title": "Hard work lies ahead for US-Iran negotiators after Bürgenstock talks - Geneva Solutions",
+    "summary": "Hard work lies ahead for US-Iran negotiators after Bürgenstock talks Geneva Solutions",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDJxanJpYXJTRk9vT2VqVWdMRWZoMDAtWGFPZGo4Z1lwcnBndVROMG4yZHR1SDJyZUJfd0oyYmVkSUY3V0JaaU15MlRaQ3lVVTFramxyVDdnQXY1dnU2cTBoRDFyd3dJWXg3eExvOHV2RUZtQUpOdzhIWlpIQ2lqRU1iaHNEOHAwaV9VS2g2TXRETk5tYmF0aW9nN1IzcGtHbWRYaVd3dTg3eXZLS0lHLTZXRk5qYVk?oc=5",
+    "source": "Geneva Solutions",
+    "published_at": "2026-06-23T16:36:00+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 16:36:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d76ef72649c582b4e5472dc306c1d918fa1103da",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Article describes ongoing US-Iran negotiators and follow-up work after Bürgenstock talks.",
+      "event_key": "burgenstock us iran negotiations"
+    }
+  },
+  {
+    "title": "Lindsey Graham Says Wants Diplomacy To Succeed But If Iran Tests The US 'We Will Obliterate Them' — John Bolton Says Regime Doesn't 'Honor' Agreements - Yahoo",
+    "summary": "Lindsey Graham Says Wants Diplomacy To Succeed But If Iran Tests The US 'We Will Obliterate Them' — John Bolton Says Regime Doesn't 'Honor' Agreements Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXN6UkJUN1M1ODBJdDhIRzJxUWJ5WS1Eb2dMWmY2OHMwQVYzOUxCaldxNW5Da29HMm9URGM1aXRHcXpWQ2JSd1l4YjJrZEVoQWg4ZEluRC1zaXF3MFdYQkdEM2t0eW1pTnNvZUpPSzNTenNDZGtoNXBrYkFaVUcwRllqZWNXeXVLNnJhbjRQempLSEZYbzlGV2w0bw?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-06-23T18:31:03+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 18:31:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "54bae5e0665df936fbab0a3929a453b5d0cb9cfb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US officials issuing threats and warnings heighten tensions with Iran.",
+      "event_key": "us officials threats toward iran"
+    }
+  },
+  {
+    "title": "Iran refuses IAEA inspections after US and Israeli strikes, complicating diplomacy - mezha.net",
+    "summary": "Iran refuses IAEA inspections after US and Israeli strikes, complicating diplomacy mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16MThieHVyMUoxUWNUVDVQekV3emNVT2pnSXItTzA1czhITTM0ZGVaZmQ0SV96NFRlNl9JRUVGSmwyQWhKUWo1STd5cU9YMkctcEpKWXZWd19iazlaVWNpOVNaUjdLQQ?oc=5",
+    "source": "mezha.net",
+    "published_at": "2026-06-23T16:09:18+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 16:09:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "92644ed355af7a184e3def7d9ac408c4bc47b3ab",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's refusal of IAEA inspections after US/Israeli strikes signals diplomatic breakdown and rising tensions.",
+      "event_key": "iran refuses iaea inspections after us israel strikes"
+    }
+  },
+  {
+    "title": "Israeli envoy warns Lebanon talks risk becoming ‘a train wreck’ amid US-Iran diplomacy - JNS",
+    "summary": "Israeli envoy warns Lebanon talks risk becoming ‘a train wreck’ amid US-Iran diplomacy JNS",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckxpb3FQeTMyODFvcW14TW5WZXZrcEhsNkRXZEZ3RlNUNTR2YWpyWU0zaktFcGN6NFM3em5VY3lnZ0xBWDFNcUtYS2thYkJsVkdEcVlvSEVpWXB0YjRJTld1ZmFTVWpYY3djak5kWm5fZGp0cWpoMmgyYzQ3ejY3dHVJeEg0NWw0di12aHJxWEY0d2RqZ3ZYRFhpazNyY2o1Tjd3V2diakNVX0wyMkpLSHpHX0NGRXh6aDNyQ0pR?oc=5",
+    "source": "JNS",
+    "published_at": "2026-06-23T17:03:01+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 17:03:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0da77f20c0639472de8fcd797530841adeff6d54",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.6,
-      "reason": "Diplomatic outreach—Rubio meeting Gulf allies over a US-Iran ceasefire deal indicates active talks and coordination.",
-      "event_key": "rubio meets gulf allies over us iran ceasefire"
+      "reason": "Article discusses active Lebanon-Israel talks and cites ongoing US-Iran diplomacy affecting negotiations.",
+      "event_key": "lebanon israel talks risk train wreck us iran diplomacy"
     }
   },
   {
-    "title": "Iran and US trade rival readings of MoU before 60-day talks mature - ایران اینترنشنال",
-    "summary": "Iran and US trade rival readings of MoU before 60-day talks mature ایران اینترنشنال",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1meHd2Y0tFbVlXYWJBWnlWaFlxXzl3a3YycGJldnR4VjJ5NEtHNXItQ25hSEh2ZENydklXdjJPRGwxZmZMbjNreHloUy1uMFpUbmc?oc=5",
-    "source": "ایران اینترنشنال",
-    "published_at": "2026-06-23T12:48:00+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 12:48:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5c56e4405ea3735176a48bd5d95b0e768114d5c4",
+    "title": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
+    "summary": "Live Updates: War returns to Iran with Israel, US strikes Dawn",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+    "source": "Dawn",
+    "published_at": "2026-06-23T17:49:27+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 17:49:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "abc3b8bb39b94857cdcf91a83bb1008c5f9729ac",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Competing readings of an MoU amid 60-day talks indicate active diplomatic negotiations.",
-      "event_key": "iran us mou 60day talks"
-    }
-  },
-  {
-    "title": "What the US and Iran agreed – and disagreed – on first day of talks - Al Jazeera",
-    "summary": "What the US and Iran agreed – and disagreed – on first day of talks Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY21DTVdsVjFuUXg3VXBVQnFIdExnODVob1QxMUdCRThOd1NPVjJ5VDduLVgzNnJmYS16TTNiYWtTY285UmpQN1NwN09zcFZUS0EzcnVVT2Vpd0J0bGRGeXVlckcxdE5ib0dFQy1wR3NSbzZsU25JT3pDd1dvRVZJU1R6bWhNYmVTX3lvWXhYckptMGJtQzd3Y0dXV0otdjVfRzBseFNrONIBrAFBVV95cUxPTHkwOTRNRk5TSHZBT0l6ZS11MUtSMGdSYVg3NzlrdExpV1FwZVZSYWZlbzhaZHkzc3d2bFBpWEtLVmFWUE8xMlNOMnpJc3NoOXBIcHl4QzNpX250Sk9IbExNaGYyb2Y0UzEwRDYzNlQzRlRqSTRtZVpzSmp2UUVyazgtRGRpZExQNkVrQ2VRdFRoLW8ydHBzRlN0eUpEU29xRU14TE5aeHhIT0JD?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-23T13:14:30+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 13:14:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f8d87166f5ea95c340a1d969c26eba9a8f3ea95",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
+      "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Describes active diplomatic talks and points of agreement/disagreement.",
-      "event_key": "us iran talks day1"
+      "reason": "Article reports Israel and US strikes in Iran—direct military attacks.",
+      "event_key": "israel us strikes in iran"
     }
   },
   {
-    "title": "Both Iran and United States exploring options as talks continue - Center for Ethics and the Rule of Law",
-    "summary": "Both Iran and United States exploring options as talks continue Center for Ethics and the Rule of Law",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDByYjIwR1dhcjVrSmZUTlRiODA4WUc0ZmpoT003WTJ4SG4xdkNxUXVSams1RFdZUGlrTVYxanR1Zk0xYURsVTZOU1pHZ1JIUWxpMl84QzVScUtnbEhsTFBZQmlpdTJEUUVIYzlBblhiZTU3NkM3MVlOT2hmVXo3aExUcGVSdFctOTlSTnRFS2lYaXl5S0RWcURn?oc=5",
-    "source": "Center for Ethics and the Rule of Law",
-    "published_at": "2026-06-23T15:02:53+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 15:02:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "92001e9969cb47e49a11eeae8760b3c0ef373119",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Article indicates ongoing talks with both sides exploring options — active diplomatic negotiations.",
-      "event_key": "iran us exploratory talks"
-    }
-  },
-  {
-    "title": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal - Al Jazeera",
-    "summary": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUhFcFVQN2tLUjVnU29ibm84Q2tKMlQ1Y0oxMVFUTm9ESVhnQlRTcng0aWhyelJqd0VYTkxqYzdLU1JTcWVpZ3FfVVp2TTRyV3UwVkNjX1RKalRwMmw3UzBfMjc3Z0ZjQ2Nyc2pPakd4RDhDVVp6eDJ2VjZoZkg3QWJuTmNabTJWNHRaeVRJdG9CaS13LUtzRUljQkVodWJndnRDNNIBqgFBVV95cUxNc0pPT0pfLUhtbU1lNzBQVlZ3Mk9hNGt5UFBTRDBfTGNUOVNNQ1RBZEItT0ZidE9mNHlhejdTRDFrQ2N1NkNva2hCbzZGbTNyUlN2WDZ1LVN4aVJYV3NSUEtZSHI5MklxejNLTDQwOTdWX2xBc2tIckNPakF2UG5vODJ5b1dTYlNjZGdRbjdlcV9jclJfNEpHSE9pdW1ubl9EdFhBcjEwazRGUQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-23T13:39:22+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 13:39:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4f4b9301933df488538cb6e87e6dad082db6b39e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Iran's president visiting Pakistan for talks indicates active diplomatic engagement after a US-related deal.",
-      "event_key": "iran president visit pakistan talks"
-    }
-  },
-  {
-    "title": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks - The New York Times",
-    "summary": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzlaQlozLVhqUDJzZDFlaU1KTDJaWmVBRWVmVlBKNDFsRlpqUlJZNHFZX0dJZWVhRV8tLXFtcExaYU54UmtPRE9rM3hEWld1aWdkWTBEclRKdENmdDE3b0tKa3JId1VfRmNibXcyaFk4N3pOaWZTOWlndDdaeDQ5SHZlRUJUczFoVDY2UDlsb05HcWxq?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-06-23T14:02:39+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 14:02:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a47862dd4715b72e996bf460bf2499d6c56b75ba",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Article describes active diplomatic talks and cautious optimism about U.S.-Iran negotiations.",
-      "event_key": "us iran talks resumption"
-    }
-  },
-  {
-    "title": "A 'successful foundation': Vice President Vance reports progress, more to come in US-Iran peace talks - WJCL",
-    "summary": "A 'successful foundation': Vice President Vance reports progress, more to come in US-Iran peace talks WJCL",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOelhmSjAwdFpzMV91dEZBTUVOYXlRbzlSUnJ6NTFNdTJ5dXFmeVpDNUhsZXRLaGNUVGllcm1hMy1peV9seHUxYTloelJWdDYwdndqYWd2cHNjcFlLWEE5TThnM3c2VlRMb092UXBsbW9kMlZUdkhIc0ZOUGoybEphaGZMNzRQbUh3OWRHbVVTdHVaekJ6SkZJdW5EOFJzd251WHd2QTBWeEFHanUz?oc=5",
-    "source": "WJCL",
-    "published_at": "2026-06-23T12:22:00+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 12:22:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d77e3c511b5be78c77763b0a66ccd75561b948fc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Reports of progress and ongoing US-Iran peace talks, indicating active diplomatic negotiations.",
-      "event_key": "us iran peace talks progress"
-    }
-  },
-  {
-    "title": "Lebanon, Israel to hold Washington talks as US-Iran diplomacy advances - news.cgtn.com",
-    "summary": "Lebanon, Israel to hold Washington talks as US-Iran diplomacy advances news.cgtn.com",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONTBfdFBNeFJUWFBoMHF0N19hSVFVZEVOTFUzQzJrVHc1aGFjX2xRb0JZci1TMURfZ2I0NHZhM1FDMU5kTm1tdEgxelpDZTByTWEzTWUxbFEtSWJpSmZwSzhHUlNpNDN2UDFJMzMxMHdGaWFTbnpvX3ctUWVQYmk3aVNKVHlHcVh4Sm1ScTYyd041cGdEVmFRRENSMWNBa2lrZ3FvNjM2aWdqOTd0aTVDQzhqeGtSUk4yeGhVT0NFeFJPZXhm?oc=5",
-    "source": "news.cgtn.com",
-    "published_at": "2026-06-23T12:38:06+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 12:38:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d4386a55684a51bc21c4e37ed44f7bb90ec48eed",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Lebanon and Israel to hold Washington talks amid advances in US–Iran diplomacy — active diplomatic engagement.",
-      "event_key": "lebanon israel washington talks us iran diplomacy"
-    }
-  },
-  {
-    "title": "Iran Rejects Claims of Missile Talks with U.S. - WANA News Agency",
-    "summary": "Iran Rejects Claims of Missile Talks with U.S. WANA News Agency",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15TFlCQnVoZ0JoNTFmRml1T3hyQnFLTTdpRWM0RjltOXFRMnBRX1owdXFDX0FqdXN6emJzVHhSd1VFMl9TR1dnb01qTmdoUm8xR25QZ25NQkowamo1LTQxRzZGMXFLbVJoUHVjQTFTRHk5NDA?oc=5",
-    "source": "WANA News Agency",
-    "published_at": "2026-06-23T14:07:58+00:00",
-    "raw_pub_date": "Tue, 23 Jun 2026 14:07:58 GMT",
+    "title": "Iran president says missile program will never be included in US MoU - The Jerusalem Post",
+    "summary": "Iran president says missile program will never be included in US MoU The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMVVdfa0lBbW9ZRGxCMHRNV1cxMVU0MnlYUElXVjhsMmVPellZMExaYzBVS2lhRkpVOFBMTkM3ekxoTDVQRmNrYlRGSHNacjRNT2t4WjN3a0J3cDcwRWk0?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-06-23T18:00:41+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 18:00:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9b63a4b7b4ce4b2cd06eca2d3a01177df88e29f1",
+    "article_id": "b7f7fb8589b6eefe033fcd10cd098524bc8f75f4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "President rejects including Iran's missile program in a US MoU, signaling a diplomatic impasse and heightened tensions.",
+      "event_key": "iran rejects including missile program in us mou"
+    }
+  },
+  {
+    "title": "Live Coverage of the Iran–U.S.–Israel Conflict / June 23 - WANA News Agency",
+    "summary": "Live Coverage of the Iran–U.S.–Israel Conflict / June 23 WANA News Agency",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNjlnVGlJNUphMmJMTWlUdndWNTdkTXk0WEIzZkM4SDZSNEhEMENEanVnLTNHUXV1VXhSZEwxMFBLRUlmeThuc3F1OFg1Z2RIWll4dEpHdzd4dDV2R0pCZWw1SlZXT0NOdEI2VGdMSGNKTDNkYm5yNTlfVV9zZw?oc=5",
+    "source": "WANA News Agency",
+    "published_at": "2026-06-23T18:53:03+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 18:53:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "de9587d4c0eab41008a74a2417c9f0168a83e664",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.25,
+      "reason": "Live coverage implies ongoing tensions in the Iran–U.S.–Israel conflict without a specific ceasefire or diplomatic detail.",
+      "event_key": "live coverage jun23 wana"
+    }
+  },
+  {
+    "title": "'Never Let You Down': Sharif Assures Iran President US Pact Won't Affect Missile Program - NDTV Profit",
+    "summary": "'Never Let You Down': Sharif Assures Iran President US Pact Won't Affect Missile Program NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUV9oRnFTOERFaEF6dnlzX1FaOS12ZmppNzZ1cHZhYmNxVTllV1pYcWJMWXRWQlM1OVEtV1lPem54TEpHT28zaEpmbTFoT1FvRXBRSmNkS0VUYjZiQ2szZFN4VlV2X2FaVm1lMUtRczFLYzk2dlZFckJRTWo0ZnFnNW5FZU9Id2dZckN2QUdibVp5c1NNLTg2b2x3emtnRGEyTEpJa2hyTVIzZ0JZZHk3ZWtuNUppY3FTWFdVSk5xRkdHM1Jq0gHMAUFVX3lxTE5Xd2pvWnNHSENNa0tkZUpWT2RMdDk2SFBJZDBRN1JrRHRyRW4xWnVva3Q2YUxfTl81LW1ZbUFVdGhWdVg0MnJCREM2WWFXMUtQaXh5ZTBVUHprMGRKc1R3aWNaalE4UHZ5VloyLVk2Z05XRE5ERm9INTZlTnVybmRFVEZNOVBFZGlHRG8tOU5NTmlldUZWMERtTHdEWlBDMEU1TGZOV0IwLUt3V1NxZFBqVFZOeFBxLTdsUm5BZnRfa1Vfb05IdEhNMTVlcw?oc=5",
+    "source": "NDTV Profit",
+    "published_at": "2026-06-23T16:12:42+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 16:12:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3e6c44f1fc7f7eaef4ec2f242e055cb8d16bee10",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Official reassurance reduces tensions, signaling restraint and calming concerns US pact won't affect Iran's missile program.",
+      "event_key": "sharif assures us pact no impact on iran missiles"
+    }
+  },
+  {
+    "title": "Iranian source rejects claims of missile talks with US - Mehr News Agency",
+    "summary": "Iranian source rejects claims of missile talks with US Mehr News Agency",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORi0tYXJoSXhXZlVkamRzN1pFLS1USFRMbzJXTzU0clhsOFlpaUctRkk1RFJMOVp0RWxsRWRSOEVVUjlMY3BkU3U2LU10cS1Bb2U2Y1BWd3pmZ3RoUkFMYl8wLVZJQmx5QktzSWtta25PMXdtZ053ckhUdXpYNmsxRU5UaEFrOXpreEJ6aElhbEdxN3JC?oc=5",
+    "source": "Mehr News Agency",
+    "published_at": "2026-06-23T17:00:00+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5d410ca2a3ecf33031582f7677cc63caea90762d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran's denial of missile talks indicates a rejection of claimed diplomatic engagement, undermining negotiations.",
-      "event_key": "iran denies us missile talks"
+      "reason": "Iranian source denies existence of missile talks, signaling rejection of diplomatic engagement.",
+      "event_key": "iran denies missile talks with us"
+    }
+  },
+  {
+    "title": "Iran's missile programme never part of US-Iran talks: Pakistan PM Sharif - The New Indian Express",
+    "summary": "Iran's missile programme never part of US-Iran talks: Pakistan PM Sharif The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUdBbXhpakFWRzNnWC1GNl9kd0JtQ2c2MWlDMzJySzVYZHZFWlhRS2lkXzlaU2dJaWtodWtUZjBlTHk5S00zbTJ1QW1HbWU5TGJyQjBkU0xaVHF4NzdzWGFNaUNUQTJNMUpyMGJQaWRuZldYSHVHSmt0OERkSWdSTGFrZDBEdnkyUFZuLXdpaXVSSEhXSDZJSFNuRTdudC00Wi0xc0xkelNtZUJlWkRjaW9ITzRDS1k2cnpJVkZ30gHLAUFVX3lxTE9ndUJUTjl1N3RzN3RxY1RTUE9qR2xvZ3FBeng4WE41RUdpcWtZUnN6allkYnBmRWlFV2JzemxyN2ZCSHFtYkdyLXg4NzhzVWlld0Y4aEYyU1ZjXzdPOXJiblRyUXpiVG5HaThOaFlUdjkza1JrRDZiVHNzSjRmczJKQW04T1FfekJmVVBhSFh0X3poWDdkcV9EV0ZCUWE3X0NzM1JZRlM3dzMzMl9HNWFxX1BsYTdTZDZkdzUwVVNtaEpDTDRVUExEVVBv?oc=5",
+    "source": "The New Indian Express",
+    "published_at": "2026-06-23T19:13:35+00:00",
+    "raw_pub_date": "Tue, 23 Jun 2026 19:13:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0664233307ae2f79869d7b62294df1ebaabff116",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Pakistan PM states Iran's missile program was not part of US-Iran talks—about the scope of negotiations.",
+      "event_key": "iran missile program excluded from talks"
     }
   }
 ]
