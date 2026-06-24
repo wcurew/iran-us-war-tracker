@@ -1,53 +1,36 @@
 [
   {
-    "title": "Iranian, Saudi foreign ministers discuss US negotiations, regional developments - Anadolu Ajansı",
-    "summary": "Iranian, Saudi foreign ministers discuss US negotiations, regional developments Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWphanA0TkpGYXdVLUpwS1htMGY0MUtGdGdFLXJIbXdERFVPalJtRkZ0MGVZdVh6Qkc1YmZDbWVjYlB4SUFDYk1Wa3NNa04tRGpQbDE5OThoS1pHWXkwSDFjaDd0R3BCcUQ0SmVVdUN4TncwbjlNZWJhQlBxenhtZ3ZVUGhpcGwwN1FVYzZBbFJqZGpnZU1Ed2lpczJsY1ozQndBaFQ4Mm5aanc5SVBqa1FDeTk2LVJWc0RBUUN1NElqVzh3a1p6Mg?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-06-24T16:57:59+00:00",
-    "raw_pub_date": "Wed, 24 Jun 2026 16:57:59 GMT",
+    "title": "Ocean shipping recovery still a ways off despite US-Iran ceasefire pact - Supply Chain Dive",
+    "summary": "Ocean shipping recovery still a ways off despite US-Iran ceasefire pact Supply Chain Dive",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0Z3RjhFRDY5SS1ZS1Q5dEFMOFBkcHA4dVplcVJzSXpLb1VkSFItVmR6NU5mZFBta2pjTDZCNHVuWWRFVDAyeWZ3cVZXNVhZTlZCc0dkbE5TOHRjc0M1NHZFLWI4TlNFVUluckdLTjRDYkdaNnNYOVdfV3psaHdxOTFadks1NEhHZkJabkNUYTRDVzdzM19IUURMMEx6N21UbTVxTEZ2OXlscTJwMC1WcjZNd2RCSFk?oc=5",
+    "source": "Supply Chain Dive",
+    "published_at": "2026-06-24T19:30:00+00:00",
+    "raw_pub_date": "Wed, 24 Jun 2026 19:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b43055194f7bd60e6d22c5bb85480659b9d52abd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Article references an explicit US-Iran ceasefire pact affecting shipping recovery.",
+      "event_key": "us iran ceasefire pact"
+    }
+  },
+  {
+    "title": "US promises to protect Gulf states' interests in Iran talks - Yahoo",
+    "summary": "US promises to protect Gulf states' interests in Iran talks Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWx2SkpZTHNtWUd1ejk4Uy1rNklFY1RMajVjZnZHWGJmOWRPdklWbS00d3hDTzJtLXp6TUdSSVNhWHJZclZmVXhXcTN2WDZnQTB5MlVtZE5ESVo0eFN0RXBwLU5uVndBREprSXktZ3ZxWWxQRFNrOThUTnJjbXZUQzRkNjE3bFJ6MFY1UmstWQ?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-06-24T17:50:38+00:00",
+    "raw_pub_date": "Wed, 24 Jun 2026 17:50:38 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "92baf5c89066c4282b0a2e373fa3c8075f970227",
+    "article_id": "8d155a13c5ededc886df87f50e7f2cf53ae550f6",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Foreign ministers discussing US negotiations indicates active diplomatic talks and engagement.",
-      "event_key": "iran saudi fm discuss us negotiations"
-    }
-  },
-  {
-    "title": "US reopens embassy in Kuwait months after Iranian attack - Al-Monitor",
-    "summary": "US reopens embassy in Kuwait months after Iranian attack Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0djVGJ0VW5qZGhSR19yRms2LWhRZ1hlM2Q3RTNJV083QmN6MDRWUlk2RXZYYkQzeXY2UUJ6NDRXYllLTHYzWUJWTVpRRWY0SVBpN0xCbmpmQmdCcVRuVHZJRy1aYURMSkRBOTVLQmVya0R5RF9yS3NtaEhWXzFYQXcwbmprOTRNVlh2Ykx2dFhHS0YwR3A3MVJMc2xpb1k?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-06-24T15:25:17+00:00",
-    "raw_pub_date": "Wed, 24 Jun 2026 15:25:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "30f8c23ba47953e3b9c98404c9962458d6398636",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Reopening embassy signals normalization and reduced tensions after an Iranian attack.",
-      "event_key": "us reopens embassy kuwait post iran attack"
-    }
-  },
-  {
-    "title": "Oman, Qatar discuss U.S.-Iran talks and regional de-escalation efforts - سانا",
-    "summary": "Oman, Qatar discuss U.S.-Iran talks and regional de-escalation efforts سانا",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQkV1UmFENEowYVo0S0ZZd3ZnNDUyd0x4N2NvVHhwN3pVbV9GajdJV1hCTTJUcUh5aVVhZ2tvZ0hDTTRTV1FqSnRYMEh5Zkk4b3Rv?oc=5",
-    "source": "سانا",
-    "published_at": "2026-06-24T15:39:02+00:00",
-    "raw_pub_date": "Wed, 24 Jun 2026 15:39:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "acce2eb5a147f96ae84c78d20f1fc4c0ab0be479",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Oman and Qatar discussing U.S.-Iran talks and de-escalation signals active diplomatic mediation.",
-      "event_key": "oman qatar us iran talks de escalation"
+      "reason": "US diplomatic engagement assuring Gulf states' interests during talks with Iran.",
+      "event_key": "us protect gulf interests in iran talks"
     }
   }
 ]
