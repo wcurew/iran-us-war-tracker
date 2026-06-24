@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-06-24T06:53:20+00:00",
+  "started_at_utc": "2026-06-24T11:43:22+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-06-24T02:58:40.305285+00:00",
-  "window_end_utc": "2026-06-24T06:53:20.512078+00:00",
+  "window_start_utc": "2026-06-24T06:53:20.512078+00:00",
+  "window_end_utc": "2026-06-24T11:43:22.331043+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 11,
-    "keyword_filtered": 8,
-    "deduped": 7,
-    "after_seen_filter": 7,
-    "classified": 7
+    "time_filtered": 18,
+    "keyword_filtered": 6,
+    "deduped": 5,
+    "after_seen_filter": 4,
+    "classified": 4
   },
-  "finished_at_utc": "2026-06-24T06:54:03+00:00",
-  "summary": "협상·완화 신호가 일부 보이지만 아직 중립권이다. 확전과 완화 신호가 혼재한다."
+  "finished_at_utc": "2026-06-24T11:43:44+00:00",
+  "summary": "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다."
 }
