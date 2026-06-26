@@ -1,36 +1,87 @@
 [
   {
-    "title": "Ship attack in Hormuz tests fragile US-Iran understanding - ایران اینترنشنال",
-    "summary": "Ship attack in Hormuz tests fragile US-Iran understanding ایران اینترنشنال",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HZ1gzRXBVeFVZakNMTDk4bWZ2bFQ4ODduNVQ2VzlsTWdsdG9wejVSeUZiNWxfS0I4cGMzRDh3c0ExTDExb0h4bEx3S1VlbU5FbUE?oc=5",
-    "source": "ایران اینترنشنال",
-    "published_at": "2026-06-26T00:05:49+00:00",
-    "raw_pub_date": "Fri, 26 Jun 2026 00:05:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0baf8bda297880a4493d783c997d8e43803f9772",
+    "title": "Ceasefire But Not a Grand Bargain Between the United States and Iran - CounterPunch.org",
+    "summary": "Ceasefire But Not a Grand Bargain Between the United States and Iran CounterPunch.org",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3AybkdwR0J6bmhleGJwcURTVmRlSWcyLWdadE1Bams1VzZIVnkydDUweG9HUmRjdmdrdHZWbEI5bVY5Y1FldjliYTUzbExIelZtTmh0MDZ4RUxvdXh3bGpZa3ctdzExMkVzcEg5QlNzVVIxcVVzOFNGUl9yVkpBNGtNTmxPQzBGb0E5Z0RkbDFpVzlfM3o4LTJKU2VSRFdNOGZLTGZjQkhUUXkxSVE?oc=5",
+    "source": "CounterPunch.org",
+    "published_at": "2026-06-26T06:00:41+00:00",
+    "raw_pub_date": "Fri, 26 Jun 2026 06:00:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3b03057e19652d4e563fbc3a7aa6845efa66ea9c",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.7,
-      "reason": "Ship attack in the Strait of Hormuz raises US‑Iran tensions, suggesting proxy or indirect actors testing the fragile understanding.",
-      "event_key": "hormuz ship attack tests us iran understanding"
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "Article discusses a ceasefire between the US and Iran, not a full grand bargain.",
+      "event_key": "us iran ceasefire"
     }
   },
   {
-    "title": "Gulf states press US not to ignore threat from Iranian missiles - The Times",
-    "summary": "Gulf states press US not to ignore threat from Iranian missiles The Times",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmlCWk9KNjlNcGM4dHo1YTRTamxmNFZpQk82ZmIzbEgtdWI5QnBJQ2xnb051NTBpN0tQWWN1QXFjSUNjcmwxUlA3RUxWaTJNaU5YNVY1TDhObHNXclFiSGtaNUlzZnZzVmNuLVg5RWhiUmdWZ1p0NDZsSnBqUDJEYW84cWZHQlVjeHNNdk9ad25hMEZxSzRKWVY5OHN1Y1h3T1lZejFXbDJyNXJNT0E?oc=5",
-    "source": "The Times",
-    "published_at": "2026-06-25T22:45:40+00:00",
-    "raw_pub_date": "Thu, 25 Jun 2026 22:45:40 GMT",
+    "title": "Two Views: The US won — Iran enters negotiations defeated - The Sun Chronicle",
+    "summary": "Two Views: The US won — Iran enters negotiations defeated The Sun Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdjNVOXdWMEp6Um1YMFJaa1FtTW1xd2xwUXlhTG5oRm9IMUZ1eTNuaU9MbE9EaUtxTzdyZ2lHZWJJRE9kWjVqNDhUclZZMEcxMG9hM0VNTGY0amNXVGQtalhmYmRsVEZ4MFpLZExoM011QVY4OXRoOFp6RjJNRk5zOWljcDAwclVlWUU0VWNpWmp1TFB0eDF1dnYtZU1fb3ZvYkJEanpyU1hMbmpSSDd4ZDJlbWdRN0RsamFZTWJQV2dBcnFSeGs1Qk5IYkUtZ09qYnZneC1KY01uY3VGMGktbWhDVEhEWm8?oc=5",
+    "source": "The Sun Chronicle",
+    "published_at": "2026-06-26T04:30:00+00:00",
+    "raw_pub_date": "Fri, 26 Jun 2026 04:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7d9fbacc147363b9521016812dd4fe7d2b444d92",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Headline states Iran enters negotiations, indicating active diplomatic talks.",
+      "event_key": "iran enters negotiations"
+    }
+  },
+  {
+    "title": "How the Iran war exposed a bigger problem for the US military's weapons stockpile - Moneycontrol.com",
+    "summary": "How the Iran war exposed a bigger problem for the US military's weapons stockpile Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkhtbzN0VWVoV19ZbFpRZlNYMzB3WmlOSUgtNjZEbDMtbjhfNlZWXzJfSHRjcTVBcFQxeTk3MUthZ0JrdUF6YnFBWjM3eXROWVlIQzVtY1llNEV6ZVdnM3hMUGMyQVl4T1N5S2Z6QnhZNjFJU3ktbkNoSG9INVpiUHBYQ3g2dldxMk9zbGJ4Y3oxZWNqRVphdEc4MHZNaE1oNldkVzJsWEdxTWZjWWo0WFNDZTFYNWRYcHg2ajJ4Y2tNbGZfR3dwbjBBcUZBSGp3Z2ZGOdIB2gFBVV95cUxOWElOSUJweFJZV1ZmSGl6czVSMFZybUFGc0o0Qm02TmZ1TDdORjVicVQ5VFNXdWJISUoyMHlRa1F1NFJTNW1WeFBiVlo3VHNmMHZKOUFlZWtwOHJzYjZ0ajZScDl1T0VEcC1SelMzTUk4cXFQTkkzTzBkckRZMWdMWWVHQmNFRlRYNVBBem5acEVZcUM1RjVSVVI5OFNpLVpjc2lPUlE2UjI3a0JJR3B4Z1U2SndZVndIckFxcElFV1ozYWJET09hT3FQSGdsTWxnTXZEVGM2WVVxQQ?oc=5",
+    "source": "Moneycontrol.com",
+    "published_at": "2026-06-26T08:45:13+00:00",
+    "raw_pub_date": "Fri, 26 Jun 2026 08:45:13 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9a83cff14b9aa95d8061c7371862122414cc40a1",
+    "article_id": "a38d2316f1f38d07365a51774d5321604a69d82e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Policy/analysis piece on US weapons stockpile, not a specific Iran‑US diplomatic or military event.",
+      "event_key": "us weapons stockpile exposed by iran war"
+    }
+  },
+  {
+    "title": "'DIRECT HIT': Iran BOMBS Hormuz Ship; U.S. Navy Admits Surprise Strike | 3 Vessels 'Reverse Course' - The Times of India",
+    "summary": "'DIRECT HIT': Iran BOMBS Hormuz Ship; U.S. Navy Admits Surprise Strike | 3 Vessels 'Reverse Course' The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU19wbW15YkZYRzJrQXNnZUFoaUNZNUtEV2sxT2JNUzlJUzFmZERzLWJ6MFBkc0Q0VVFITFJiZWhTSWZuenp2X3M5cENMUUNEblNvRlNDX3l1R2VUaUdDTTBqTmxRbDFPS003N2RXRDc5Q2NTM0JrdWhoMGhCUEw4aWctS2NqU2lIVGIyS0Z2QWV6YkNYYnlJbWlpYUNMdzJVb1huUzdwU1JLbng2WURWczExNUY1amJjd1dJYnBaU3g2bkl0RnhRLWY2aG9jOXFKMW9NdkdjZ2lDdjNlbmtnSTVPbmpVWDh5VW53dFlTdDluYThON3pYT003TmdPclBK0gGGAkFVX3lxTFB6QnlDalBvMWg4bWtjakNzRHd2Rjl1R1d0b3JEWXJEeVprR08tU3NXQi1aMV9MSEhRSXpjWUthc21sSUZ2YkFBQXRidXBpX29PWVVfUXV5TmREREl6a0FabFF3Z0d0TXZFTG14MzBOWVhYTG9sVDB0cVhDeUJ4RlNndnZTSXJBcDlWSzQtWUFxeDQ2c3J6LVEzOHpldG43Sm9QQzhGTXVjdDNrNjB6SHJKcDVZT2NzU1hGWVhqVmdEVjNpcWFjZTZTcU9DYXRVR1lHUUs3RjdLdi1qQkxwTFBEMkFZVGYtLUxKNDN6MWVnZ0dMNGZWcVVPc1YwZjItU1h3NDZLWEE?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-06-26T04:49:17+00:00",
+    "raw_pub_date": "Fri, 26 Jun 2026 04:49:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec82d4c7e933c924fcb5aefd3a0da7f6a3ec4744",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe direct attacks: Iran bombing a vessel and a U.S. Navy surprise strike admitting to action.",
+      "event_key": "iran bombs ship us navy surprise strike"
+    }
+  },
+  {
+    "title": "\"If America is unable to contain Zionist regime....\": Iran issues warning over Israeli aircraft movement - ANI News",
+    "summary": "\"If America is unable to contain Zionist regime....\": Iran issues warning over Israeli aircraft movement ANI News",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEdJM2EzSUZBdVR2Ynp2ZzBrQ2JJUzRpWXpobWJwcnV0aXBFMTZxUVc4NlNXQ1Q4V2FoUmpna3NGSTk5ZzItOHI0bXY1MTlhZTVxWGpJOVF3MzVOYTdZNng3ZzE1SFVqeWlBX2ctdmNnTUt0Q0FSVE41ZHNJZjNPUUVTelV3ZEZIZUt5MEZmS0xKQ2hONy1VWXU0OEtQYlF6T1Z3REtwTlhLSzZlR2ZYVHo5NlBwVk51MFdTbnZMdElxRlkxdWFHbnpWQ0Job1dMSUh6NlJrNkN2TGJvRXZxX1BOWGxkcE1fVWl4d1ZR?oc=5",
+    "source": "ANI News",
+    "published_at": "2026-06-26T09:02:00+00:00",
+    "raw_pub_date": "Fri, 26 Jun 2026 09:02:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "855dc661f075eadf6e40d9a85fe79a4fb3d23626",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Gulf states urging the US to heed Iranian missile threat signals rising tensions and pressure for a stronger response.",
-      "event_key": "gulf states warn iran missiles"
+      "strength": 0.8,
+      "reason": "Iran issues warning and threats over Israeli aircraft movements, increasing hostile rhetoric and tensions.",
+      "event_key": "iran warning israeli aircraft"
     }
   }
 ]
