@@ -1,172 +1,104 @@
 [
   {
-    "title": "Iran says delegation heading to Qatar, denies talks scheduled with US - Euronews.com",
-    "summary": "Iran says delegation heading to Qatar, denies talks scheduled with US Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUtyRS0wc0dlMTVnSjRyWXpteGItZGZoeF9RRlB5Q1hEZkgxM3lndFoxOUxGWmpwNWlucHhWczRwWmtCeENpNFZySXpfSmJiM3lxcVVSd1RMMmFDSTF0WEw4MFBxQi1TSjF5dlk2c1otVF9SQ3dTQm5UQTBoeTIzMkFETGFQNlhzQ3ZSMkJWcTBvZ1BxOU9oQnRWZFRWbEdUMlB5Sm1lX3hfcFg5YUxkSFMyWVZxWVl2UFhDNjZCam9oMjll?oc=5",
-    "source": "Euronews.com",
-    "published_at": "2026-06-29T20:20:15+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:20:15 GMT",
+    "title": "US and Iran pause strikes but disagree over next steps on talks - KFYR-TV",
+    "summary": "US and Iran pause strikes but disagree over next steps on talks KFYR-TV",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOV9IalF5aVM5bkNjU1VTSE5BLUUxUHJIRkFwOG5paUxXVHF3YnFGREZHa3FTYWlGSm9KVHplMGpvdy16cHZpaGNROGpSaGNSOTFMc0ZWcVo0N1JoVUV2UDhLZVh3UmpjNXRYa2tGX0RCQ08wR1JYSFBfS1lVS2FKWmtXcnhvWmtRMF9fWnJWeU8?oc=5",
+    "source": "KFYR-TV",
+    "published_at": "2026-06-29T23:17:00+00:00",
+    "raw_pub_date": "Mon, 29 Jun 2026 23:17:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4e0130b3b30989ef376b7377b0536ecc49c56863",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.5,
-      "reason": "Delegation to Qatar signals diplomatic outreach without confirmed US talks, an indirect calming/avoidance signal.",
-      "event_key": "iran delegation qatar denies us talks"
-    }
-  },
-  {
-    "title": "Iran denies reports of US talks in Doha, says sending team to discuss asset releases - The New Region",
-    "summary": "Iran denies reports of US talks in Doha, says sending team to discuss asset releases The New Region",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wWEZSWGlsbndXRW9NRjJmZzk4OW9kT3liOXBWV09GUnZYNTBXYl9hWlFFd1paZ1Y3bDZ2T0RPTkgyc1FKcTRtU3o2QQ?oc=5",
-    "source": "The New Region",
-    "published_at": "2026-06-29T20:40:56+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:40:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "97a588b78c664d278c2906f2366fe16da86c82e6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Iran sending a team to discuss asset releases indicates active diplomatic talks.",
-      "event_key": "iran us asset discussions"
-    }
-  },
-  {
-    "title": "Peace negotiation may be on the table for the U.S. and Iran - WDRB",
-    "summary": "Peace negotiation may be on the table for the U.S. and Iran WDRB",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVl6LUlYT0tCZmotSnNEY0pzNmJFaFUzWXZONk00eGJ5d0lvNlQ1Z2pVV3dJZTVzR09XdEpMWno5WlU3emZXRUZHLU5XOGIyazBXY2xEa2lMaDhnYW0yTE5DcUVnVkFvMElVc0hrd2sydzdCVVY4NlNEQV9jUVk3a0k5NFdIeUtjemtNWGN0QjBiSEFDVklBSHVSQUx1dktuMEs2Nkg0eUNTZFh3U2kxUkpMR3RvTFl3dGNzUFZXU29BOWdNei0wbkhqUDU5dFpNbmtoWE0xdC03VGs?oc=5",
-    "source": "WDRB",
-    "published_at": "2026-06-29T20:55:00+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:55:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "83029178afa138a1b819a146ed5adabe0a8d9bb8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Article indicates possible peace talks or negotiations between the U.S. and Iran.",
-      "event_key": "us iran peace negotiation possible"
-    }
-  },
-  {
-    "title": "Iran says no talks are planned with US after Trump’s meeting declaration - The Independent",
-    "summary": "Iran says no talks are planned with US after Trump’s meeting declaration The Independent",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0hfZ240NlpEUWwyTy15OGVhYVJVcXpQQl96dXM1TS1jT213UDBsN0FFWVoxWTg1ckUtYTlvWjJScmJlSmFGMjVnd1hSSng1SEFTX21aWExmdWEzTjh3ZnNyZHdrRzg3R2FlN1VRQ243UXB3dzBIZjRVWUlscVRaTnU4RGhjMC1RbEFTSWVFaXpkQkRLU0tz?oc=5",
-    "source": "The Independent",
-    "published_at": "2026-06-29T20:59:00+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:59:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c558c4d1d0cb61b06815d7aa50115fcd86475e7d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran's denial of planned talks signals rejection of diplomatic engagement and a breakdown in contact after Trump's claim.",
-      "event_key": "iran denies talks after trump declaration"
-    }
-  },
-  {
-    "title": "U.S., Iran Prepare for Talks on Strait of Hormuz - Foreign Policy",
-    "summary": "U.S., Iran Prepare for Talks on Strait of Hormuz Foreign Policy",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEJqOGRzMnNjT2k4YmdwdlNna3J4djAyc2FGTHlSMXpTUTJyNTBHVGVYclNDRzYyeDRnWTNFMXAtNG51VkF5U0l6MW56NXFZV1Y4clJiZnBmbWo2MVQ4VnN1dmRNejdJSlVlYThHTnpYOWhKTmFFQzVmVW1Bak4wN2FXLXFyY3Bqemc1dw?oc=5",
-    "source": "Foreign Policy",
-    "published_at": "2026-06-29T21:23:13+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 21:23:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3895e9e373aef808d53d8ea157ec943161715061",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "U.S. and Iran preparing talks on the Strait of Hormuz indicates active diplomatic engagement.",
-      "event_key": "us iran hormuz talks"
-    }
-  },
-  {
-    "title": "Trump says U.S. and Iran will hold talks Tuesday, Iranians say otherwise - CBS News",
-    "summary": "Trump says U.S. and Iran will hold talks Tuesday, Iranians say otherwise CBS News",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVFFUktNdjVFakR5NXpIMnFrNTk0djQwdnh2aDl2RGNZYnZzaVNSZENuQVlUdGM0cEFiaFIybHZ0NVM3WVl3YTFZM3E4TnN0aUVRTi1NOXdXVTVaMlY1aUZrdVB2cGgtaWhYVUllTlpjd1VaUmF5ekdqMkQ1S09ISGFjUQ?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-06-29T21:10:00+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 21:10:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cc5e76acafb03baba78fc9f20bb7c612e50643b9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "US claimed scheduled talks with Iran while Iran denied it—disputed diplomatic engagement.",
-      "event_key": "us iran disputed talks"
-    }
-  },
-  {
-    "title": "Peace or posturing? Conflicting US-Iran signals keep Middle East on edge - Gulf News",
-    "summary": "Peace or posturing? Conflicting US-Iran signals keep Middle East on edge Gulf News",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2EzSXBseWx3eUZzdjdTNFozSF9GTU1qckg2ekdkXzJMVWNFV1dGZ3p5b0lpd1Nvc3lwbmx1Q2NEVkUyaVM5bGRxMERnT0FEV1djM2l3WWsxQ2xlMy1sYnNvNjhoOG1aeWVfUWFENzBZOGpkZzhUS1loSnNGVnVJOEJRTjlQeGsxMGMwNDJiWlpXbW1LUHpYUFpyUkp1WDdUUEk2U2Y4UTdfeXlndzVtZjdVWEotUdIByAFBVV95cUxOa25Fblc1OHV2SmtmeEsxQ2NXRkZTZmxZX2NlaXNlM2kzdi05VXpmWHBCZEs4Vl84S3NBWl9hYm9hY1FZN0NqUHFVRXlKNXRXdmxUeXcyNm5vTTZwbmpWUi1zVGMtU1BJX2FmYzBORTNrYXhWWmN5YzRDUENKbjRzcU5zX0FjenhvbjFVR2lvUEZodmZXaVNheTkzeWkwRVRGbEV1WUN2UFNjdjE2cXlQLWtIcGF4UDByWTBCRUI5U05MZ2xZZVdJUw?oc=5",
-    "source": "Gulf News",
-    "published_at": "2026-06-29T21:27:38+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 21:27:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "627dbf0c62de5a7738d4a4f3f7c1cb111d2ab65c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.3,
-      "reason": "Article describes mixed calming and threatening signals rather than explicit talks or strikes.",
-      "event_key": "conflicting us iran signals"
-    }
-  },
-  {
-    "title": "Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Gulf Attacks - The New York Times",
-    "summary": "Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Gulf Attacks The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0azJlM0sxUTQ0ZTdNWWtDdWR4bUZXX2NQYnEwNjctS3M3dnpLM1N0U2Z0Q3NFNGt0a2pNcXdVcTYzU2tCNzlsZnNSV2JYbVdJb2RCN3ZudWE5Y25kU2Rjb3NEQkNxaC05OWUwMkI1SEhWWGJ2SUE?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-06-29T20:18:41+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:18:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "857a3ef02f7e9ce5ea38bfb042a440346af72f06",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "U.S. and Iran are discussing a deal to suspend Gulf attacks—active diplomatic talks to halt hostilities.",
-      "event_key": "us iran discussions suspend gulf attacks"
-    }
-  },
-  {
-    "title": "Economist: 'Very Notable' A Lot Of Escalation Between U.S. & Iran Happens When Market Is Closed - Forbes",
-    "summary": "Economist: 'Very Notable' A Lot Of Escalation Between U.S. & Iran Happens When Market Is Closed Forbes",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVlQxUlEyUVhxSVFyMnNpS29tWlhpQ3RaM1ppYWNFeExHWkhjU1g0ZXJfUWE3YUlIeXNDSWhUeDBJeXUtTko3Q3puV0o2OU9mQkxfNUxLd1RQVUNzNkVFbXVEUkdyYUFSdlZDVXFqZUxtVnlBTzEwNm5saVRWYkxWOWY5QkZqOEQ4OGpEYVRYOUlGLTFYQkNxaGloN0ppN1VLdTI1YkpWQlM1Z0k4eDBHSWtrNGpHMjJMNzJMWnRtMzlQaU1rTHkwV0Z3NDhfLU80UXBrM09B?oc=5",
-    "source": "Forbes",
-    "published_at": "2026-06-29T20:30:51+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:30:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c80b38870ac8a6f4cf87d73043d88aae0c89d7db",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Commentary noting frequent escalatory incidents between US and Iran occur when markets are closed.",
-      "event_key": "escalation when markets closed"
-    }
-  },
-  {
-    "title": "NASDAQ 100 rises 2% as US and Iran agree to halt strikes, resume talks - Crypto Briefing",
-    "summary": "NASDAQ 100 rises 2% as US and Iran agree to halt strikes, resume talks Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3F3WTQ1UzJGcng3aktVWmJjUDBOUlBPSC1BOXdmZS1ROFNrY04xTkxYT0szd0U4a0FUWE9fdmpSTEdnblp3RFJpeXBlNHB2dFZ5d2dNSVlraVRPbWJCREpZdG01eTRrUWhQcXNKRjlaRUoyS09zQzVBdHY5THBaRmJRZVlHSVd5N1dCblB4cnpJSVRSNGowNzM5aUI?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-06-29T20:18:52+00:00",
-    "raw_pub_date": "Mon, 29 Jun 2026 20:18:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "22715db3244051a84a6377778bbc72c25119d482",
+    "article_id": "f223eb81754febaf86579d365538284b7a62e9b1",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.9,
-      "reason": "Article reports an agreed halt to strikes alongside resumption of talks — an explicit pause in hostilities.",
-      "event_key": "us iran halt strikes resume talks"
+      "reason": "Both sides paused strikes, indicating a temporary halt in hostilities despite disagreements over talks.",
+      "event_key": "us iran pause strikes"
+    }
+  },
+  {
+    "title": "Trump says Iran requested Doha meeting as Tehran denies direct US talks - France 24",
+    "summary": "Trump says Iran requested Doha meeting as Tehran denies direct US talks France 24",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREZQdmhyLXNsTnZlMkVzOVY3WEN5TzJzRmYzTXFCaGN5OVQyRWJJQlBaUFJWOVd1ZmJEQmhaRkhNY1JhbUIyRkE0Z25HOFFtNzNtRjBEN2ZtZkhyano5R0pYUEtyejRiTjVEM2NjbExkdGZMbER2QUVtOUI3U0xvckRSRnFKMEsyVWRENVlaNEVzUEp4UUt0RW8wMA?oc=5",
+    "source": "France 24",
+    "published_at": "2026-06-29T23:46:00+00:00",
+    "raw_pub_date": "Mon, 29 Jun 2026 23:46:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8cbea62ffcc8b242d42ae2702e23713f009ab7f7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Report of a requested Doha meeting and Tehran's denial of direct talks indicates diplomatic contact/backchannel activity.",
+      "event_key": "iran doha meeting request denial"
+    }
+  },
+  {
+    "title": "Iran Says No US Talks Scheduled In Qatar, Final Negotiations Yet To Begin - NDTV",
+    "summary": "Iran Says No US Talks Scheduled In Qatar, Final Negotiations Yet To Begin NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1dlczE4SXRzUThRMTZMVnpPUkRhZFAyOEJPdjZKUURXSDJYM2dabWdPNURQZmlwX0RIVjY4VXNpRENrSUhwd2hDaWVJdExiQnFaVkxTTVdvNmh3RHEwSV90QVplN0pkY1ozZE9DSWxPMlBObXFkTmQtNV93VHdmYWJzdUhYRE5qd2lIRjUtamJ3eklLYkpYZENTYzlRTWZtQS1UVGp4SWhvYVVRd1VyRDk2WdIBuwFBVV95cUxPLXJkcl84OGNsRzh0Y2NJZTZLTzNma0w5bFNFVEhfTF9mVVNRcmNwVVZWb2pnbVM4OGpxN1FIQzVrNHpwT1JSa1FVaXdhdWVMWjNTdHVJNHZMQjE3NlgyM2Vqd2dkcy0tOWtyRnZ2VWhQUmNfR29Yc1JLNnpjeFRseElYNXoyRW1zWU95UlRYeUJqNDNWR1ptWjVmS18tOWYweGFla1hjNGJNcFRaQ0cydlRjaDd3V3NBX3Bz?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-06-29T23:43:56+00:00",
+    "raw_pub_date": "Mon, 29 Jun 2026 23:43:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3ff5c9a5edb9ea560babf6d6605c1c752f4e40c2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "Concerns status of diplomatic talks—no US-Iran talks scheduled and final negotiations pending.",
+      "event_key": "iran us qatar talks status"
+    }
+  },
+  {
+    "title": "Oil Falls on Possible Position Adjustments Before Expected U.S.-Iran Talks - WSJ",
+    "summary": "Oil Falls on Possible Position Adjustments Before Expected U.S.-Iran Talks WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblpsczVCTjFWLTBXcVJBa05VZnhPLXFzRFc1ekt5al9MUjhqMVpKY0hUNGhTNlhveEtoTVVyb29fcVE0YXJ3THBrT3dGODFOQzY1VVRqaHdPYkhja094TTBMREJTaUVTYjc0TnVsaTVySkhNMGY1anBTbVdSRERJekU4SVVlZlA5aHNLdWctSEpPNlc1Mzh2OF9CS0FYRld2NlRkQ01adnBXWF9pN3JnTnVXdzlCM182RExZclN6bzVCMldIM2lUc0Jn?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-06-29T23:50:00+00:00",
+    "raw_pub_date": "Mon, 29 Jun 2026 23:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2aaf45eaff6fd5d816546e29ac3fca23c984f84a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Market moves tied to anticipated U.S.-Iran talks indicate active diplomatic engagement.",
+      "event_key": "expected us iran talks"
+    }
+  },
+  {
+    "title": "US-Iran diplomacy or deadlock? Steve Witkoff heads to Doha as Tehran rejects Trump’s talks claim - The Statesman",
+    "summary": "US-Iran diplomacy or deadlock? Steve Witkoff heads to Doha as Tehran rejects Trump’s talks claim The Statesman",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZkVreF9INkIwYW5UbDBwbXVsRWdiMkpxdUlmZTQ2UnhNbjdySThjUHBKb3AzbHNta2N0aG40WVZDNVhJejk1alVxNHdTNXE0aG9RVDNCNTFLRHhBNlNkU2oyeFB2V3BrTjloekV1VE1oMkVSeHhkakJjckdERDg3QWdSbkJkXzNtT1dTOFRqbGZrWE9NcFZXUkZ2eXFSdTdRQkswVGJEVjRLME9BMTFzRkZoUFdJd2ZEckc1VnhfRjkxMHFFa0VfV2diYzRtVWNfV2ZFeXpENHF5bU5CalHSAeMBQVVfeXFMTUgwLXZmX2dJQm4tajI0MW0xZlhMWUFfeFM4c0o3cEU5c0VsWjRBbmxVMl9yN0RwcWphWV9nQ2dUSGwtYXQ3MFU2RjBpTEZqVUM5RjJJWEFMeFhUdnM1NnEwOXJzanBRT081UElRS1VBdWtsc1VlVXQ2LVl3RV91d3lmbl9qNS1NeTVBSldaZXFUclF1UVNHX0IxQ0JUbTN3N3lsbUtOZlR3YzVTVHAwZDJhLXBCSTAxdnJwREs4aGkxckxJM2c0VFhTS0RVNHk0bkRsRVlvZkx0MlRkSjRfb3VBTE0?oc=5",
+    "source": "The Statesman",
+    "published_at": "2026-06-30T02:30:00+00:00",
+    "raw_pub_date": "Tue, 30 Jun 2026 02:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "21753e36b094cace3fdf85f08540e70878cf1f57",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Trip to Doha and Tehran's rejection indicate active diplomatic/backchannel engagement amid claims of deadlock.",
+      "event_key": "doha visit witkoff iran diplomacy rejection"
+    }
+  },
+  {
+    "title": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains - The Business Times",
+    "summary": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains The Business Times",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHoxa0ZlVG5qZWFMN1JhREgweVpHeUJhbDgwZGMwVnB1X21KQU51ZHplUmxxVk5aZ1VvTm9aSmJ3UlRfUHgwSEljTFpBeGtobkt1ckt2QTRjdjVzeVhSQWhJZTVKcE94TkZPU0tsN0JVOEZYWkZmU3h5VVJBeXo0cTE4UWRVTDZFR2NuTFZ1cjA0U25teGt5Z2VBeEhzN2Yxc3dQR3FXdmZOMGJYUEQ1M205Q0xVaVZWN0ZPT0xKWDlyVHNkc3kycnUtUQ?oc=5",
+    "source": "The Business Times",
+    "published_at": "2026-06-29T22:53:00+00:00",
+    "raw_pub_date": "Mon, 29 Jun 2026 22:53:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "601e11d695b2e127e6bf06eac8309866c3484452",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.7,
+      "reason": "Reports of US-Iran strikes affecting oil markets.",
+      "event_key": "us iran strikes market reaction"
     }
   }
 ]
