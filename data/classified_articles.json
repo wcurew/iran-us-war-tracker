@@ -1,87 +1,206 @@
 [
   {
-    "title": "US envoys arrive in Qatar with state of Iran talks unclear - DW.com",
-    "summary": "US envoys arrive in Qatar with state of Iran talks unclear DW.com",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEJ3c2FydS02RzZMWW5BLW9yUEFjazUxSTdWV2pxOWE4NzkzYl9CdmpmSG9TM21taWpKcENWd2tWVUNTOTJYa2pYSUQybVBUSTNwaHpJektfRDdNbVhkRXVtMVlfLUl0TklCNFlFeElzMWxKQjlhN3lGeXlOX0ZsSk11T3hDRmVOTVEyeWF0OFItSEFaQ2liek13?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-06-30T20:35:29+00:00",
-    "raw_pub_date": "Tue, 30 Jun 2026 20:35:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e63094b45dd2806bae398b99dc35180e4025b732",
+    "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says - BBC",
+    "summary": "US envoys in Doha to meet mediators but not Iranians, Qatar says BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LZ0gwQlVJTkp3TWh2Y05aOG5yVUUtT05vRUFsb1FzVUtFOGQtYXROSm5fVzlVUTFmdUM0dHFkb2FVRi13WGZWeXdzcnNLTm5NbVdSZnVrazhVUQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-06-30T23:41:11+00:00",
+    "raw_pub_date": "Tue, 30 Jun 2026 23:41:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c7ebc8500d8129995e33e77af5ce33946431d4d5",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "US envoys arriving in Qatar indicates active diplomatic engagement/ talks regarding Iran.",
-      "event_key": "us envoys qatar iran talks"
+      "reason": "US envoys meeting mediators in Doha indicates active diplomatic engagement, not direct talks with Iran.",
+      "event_key": "us envoys meet mediators doha qatar"
     }
   },
   {
-    "title": "Iran Prioritizes Diplomacy with U.S. but Warns It Is Prepared for War, Ghalibaf Says - Kurdistan24",
-    "summary": "Iran Prioritizes Diplomacy with U.S. but Warns It Is Prepared for War, Ghalibaf Says Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXBlelNmbzFBb09qX196T19IdFV0Y1NKYUljZGdNdHFaUEZmbEY3TkFaOWhuekpDSHFrYVNCQmxodjdaaEtnNmlOZHZ5cGswdm5NdGF6SklIOG9WSnJOZF9QQlo5ZEpwLUlpeFNDckloVWt4SXVLUmdVNG1FcEZ1eUZKMlg4bW0zb1hpTkVQaTZ5UXRiRjFMYU1XaWtHS19UUWVhdGhhdGtIRTczeF8yMVBBSjM1V3dsVWN3NFphdzQ1SEk?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-06-30T20:13:47+00:00",
-    "raw_pub_date": "Tue, 30 Jun 2026 20:13:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0654caeeb833b5a1df15574e0333ed430d8f5deb",
-    "source_weight": 1.0,
+    "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes - Reuters",
+    "summary": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-01T00:45:00+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 00:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d417006640e69e4e7f92acfc66fa5ff83595383a",
+    "source_weight": 1.15,
     "classification": {
       "label": "escalation",
-      "strength": 0.65,
-      "reason": "Iran issues explicit warning of being 'prepared for war' despite prioritizing diplomacy—hostile rhetoric indicates rising tensions.",
-      "event_key": "iran warns prepared for war"
+      "strength": 0.6,
+      "reason": "Iran's refusal to meet US envoys undermines ceasefire prospects, signaling diplomatic breakdown and rising tensions.",
+      "event_key": "iran refusal us envoys"
     }
   },
   {
-    "title": "The U.S.–Iran Framework Of Understanding: Strategic Compromise After Military Deadlock – OpEd - Eurasia Review",
-    "summary": "The U.S.–Iran Framework Of Understanding: Strategic Compromise After Military Deadlock – OpEd Eurasia Review",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWRuNll5SzU1WWMxOWxKTnB0bGxaZVRSVDR3Q25YRWxpR2dYQ2hKNndidGRLRnJRWTJhbzA2dlBLMFBvZjZRRVZBcHJUcXJxLTRlX3E4NU5vNGtWX3p2M3JEZkxXZ1NoR3M0SmFiZWJZM1BqT04wY2ZKRjgyeTg4NmVtalVSTE5mNlkwREdSZTBGNUxwUUc1QVEyV2lWRDlwWG01b1pzbDZaYXhRemcyTVNDai1fZXo1TUpVT2hPWk9LaWxtamRENg?oc=5",
-    "source": "Eurasia Review",
-    "published_at": "2026-06-30T21:12:55+00:00",
-    "raw_pub_date": "Tue, 30 Jun 2026 21:12:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bb3dd051d83c9935b1eb6e9cd6b548286df3d305",
+    "title": "U.S. and Iran meet with mediators in Qatar - Inquirer.com",
+    "summary": "U.S. and Iran meet with mediators in Qatar Inquirer.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGtkeFJ2dVN4b3J0b1F2ekg0d201MC1QYlVSV2c5b2NlZVVFVlMtRGJ1d0hscF9wbzlBYUFOMWs1clNHN0dTbW9MQVd2enpPRHdVcF9xNFd2ZGVxeDNNY0ZzWlpKQ2xRNzV2b3ZBQ0Z0VVljVThveXdWeEoxcGtCTEpiWEFHckNiMlBCZU5kRkt6X2trMWRUVkpEVkNPME84T1E?oc=5",
+    "source": "Inquirer.com",
+    "published_at": "2026-06-30T23:02:49+00:00",
+    "raw_pub_date": "Tue, 30 Jun 2026 23:02:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "406dfa937323beaac08bcc7dc403c752d074621f",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Op-ed about a framework of understanding and strategic compromise indicating diplomacy and talks after military deadlock.",
-      "event_key": "us iran framework of understanding"
+      "strength": 0.9,
+      "reason": "Direct mediated meeting in Qatar indicates active diplomatic talks between the U.S. and Iran.",
+      "event_key": "us iran mediation qatar"
     }
   },
   {
-    "title": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal - Yahoo",
-    "summary": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUw1NTNmd0RkWE5EQ09OWFF2N1VuX2NIcmRqMmhYalc4S3BkOEtjNU5hbnRRSy1CWWxhd3FjVWp4Z0lxZ1pBWGs0MFFYY3VzUmlQMUxHVmROckxNZzVFNUNoSDd6aHpMTldBLXlpSHVTWmJYN1g1d1JpV3NnU3pBQUhWTUZIME04ZFo4TV9rQ24yQng2OG1wSm5Zem1Ua1pH?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-06-30T21:01:42+00:00",
-    "raw_pub_date": "Tue, 30 Jun 2026 21:01:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eb4da81fa4c8b65c23c5e3cb778216be03a0be28",
+    "title": "JD Vance Says US in ‘Great Position’ Whatever Happens in Iran Talks - Newsweek",
+    "summary": "JD Vance Says US in ‘Great Position’ Whatever Happens in Iran Talks Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmIwT01ucTZ6YmloQmFlSHcxMWtXbktjMEh0amJiTElnRHFLQzBRNDAwTHhJNkZMcDJEeXIzZEtOR3VVMzZpTjUtcU5RMk1LczdZZHNCQjNuNEhVOGNGZmJxa09OWDVkTWcwLXdnZkxrYkt1ZWRYbzc4LUl4TlhjalFYNmVLNXhUaXRDRmktbF9EaUxwRGlueGotQ2dzbEp5?oc=5",
+    "source": "Newsweek",
+    "published_at": "2026-07-01T02:58:00+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 02:58:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0fc08488bdb90c304e4f65d59857ca2c054b89c2",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "Commentary on US posture regarding ongoing Iran talks and negotiations.",
+      "event_key": "iran negotiations comment"
+    }
+  },
+  {
+    "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic' as US envoys traveled to Qatar - Anadolu Ajansı",
+    "summary": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic' as US envoys traveled to Qatar Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVUhnbzZBYXdScmdEdWJEOXJCakhUMmVRRUdiZDhXM29oSzFrU1hKQTFqbDBLX2ZldExtTnNRMUhlRlE5OVNoRXJqYTdQTzJzVmZtUUU1NERRUjVLZGcyRGZIQTEyLW5mNzhQdVdqWTlIS0JNdmEyVmhTeU04Z1c0Smdnc2ZmMG9qdW1jamFxdlBWamgzTTh5cnB5eTM0LXV0UnRrdl9VWTBNSXljenBYTnZsNEpmVENEU3N0U2owZXdLOTg5TW00V0FiM0V0by1LZVlN?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-01T00:13:08+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 00:13:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "68e870f6d97c0935edc51dc3b68f00b8d1bce180",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "US envoys traveled to Qatar amid reported Doha talks and Iran's denial, indicating backchannel diplomatic engagement.",
+      "event_key": "doha backchannel envoys"
+    }
+  },
+  {
+    "title": "The United States reported a positive course of negotiations between Witkoff and Kushner in Doha regarding the agreement with Iran - Українські Національні Новини (УНН)",
+    "summary": "The United States reported a positive course of negotiations between Witkoff and Kushner in Doha regarding the agreement with Iran Українські Національні Новини (УНН)",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFNlRy1WODVldEpta0NGclJ3Tmx3UmRLLU1oQWJpcHpIYTZJUGtCRE1WYXRyRDBmcjhWNnA2VndLVEJweXBWQndZb1ljWW9aNU5qRFdyaUc3M0hoVVFMRWRTMTVEOTVHYVhlSHIteDdsd0dER1JSWTM1R25XOURLY0o3c0NlMWJWS1ZRVjd6eGtDXy1OWTlyUUFjOGlaemVwM0ZnaHZKLVVZbUhBM1BURGI5b3QxZnMxUXBQeDdlWXNLd0RmWHRfVTFNakZnZ2ZYOHRqNW5Fd05sZksyOVJORjdqcDd4bGFr0gHnAUFVX3lxTE9YU1Q5V2IwMUo4VlRqYnBycUFIWHBzNFNOMkg5Y096SDg0Wm9waDhnTjdxSkc5RG9ieS1PYUIzMDJ2MjJienRocFpTaDZiOFo3Qy1jRmpjVTA5OThDTFc0eVdob3JUdE1IRTY5QU45VWctRnVwZ2xkUkRXeE42NEhpUF9OQ3V1ZDZWbks1LUZVWFItUmJOVmM4anhJek82aUdFcnZRUHVNVkQtZDU5anlRTVNqX2praG9NX0t5c2JjQ0hXQWZJclZDOWtULWZIUGtPRVEzbFRKWEdmampseHNWeXBUcGVfbw?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-07-01T02:38:06+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 02:38:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eb15783aea795512a1a156292b22084c5f7febf2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Positive course of diplomatic talks in Doha between US envoys over an agreement with Iran.",
+      "event_key": "doha witkoff kushner iran negotiations"
+    }
+  },
+  {
+    "title": "US envoys met with mediators in Qatar, talks with Iran up in the air - France 24",
+    "summary": "US envoys met with mediators in Qatar, talks with Iran up in the air France 24",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEQ4QVRpYTY2cnpScFh2UU5teUhabHhkMEROWmJZZTRTTktyemlNNkhRRlBvUi1QNVdXUHNEMll2RGtjRWJpaC15OFV0OXNUTC1PRTJRSl84dUpSX2pTRmJmRVFPdHh3a2hDM2dsbVpCNEdUeDVSUzFFUUtHakFrb3lMUjdsWmlrQzh1RW01bzJ2N3otRmJmU3g3SklWaTQwRUlrQ0pwa3QwS2V3NzdzUEJ3MENVRHM?oc=5",
+    "source": "France 24",
+    "published_at": "2026-06-30T23:18:00+00:00",
+    "raw_pub_date": "Tue, 30 Jun 2026 23:18:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d84754a57c2aa2d146ac6b12c0f0c2c7425f12f4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US envoys met mediators in Qatar indicating active diplomatic talks with Iran, though outcome uncertain.",
+      "event_key": "us envoys meet mediators qatar iran talks"
+    }
+  },
+  {
+    "title": "US-Iran talks wobble as senior clerics call for assassination of ‘criminal’ Trump - SMH.com.au",
+    "summary": "US-Iran talks wobble as senior clerics call for assassination of ‘criminal’ Trump SMH.com.au",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXpXOGhTM3FMX0s4MkdwSElFVUdjVS1rdHVkaFZKYmFNNl84Q1ZrYXc0MVZHMVRPcGhLZElSeGVjQ3RLVUZxeEpvbDB4OUNsYUx5WWxIeDRxSFFaZ3A1bFJDN19ycm9nclEwQUlQbG8xMS04SGFjSW4waDBfUjcxbXptN29BLXVlZmtRbzI5NU5VVjBQNEdsQU9ld1pON3pfZVdmR3ptNFl4Y1YxbHBpc2ZCbWM4V1ZvVWZ5YVd0UWhMdjYwZmFWTzJZenoyZ3lZdVVuUnMxZTU?oc=5",
+    "source": "SMH.com.au",
+    "published_at": "2026-06-30T22:56:58+00:00",
+    "raw_pub_date": "Tue, 30 Jun 2026 22:56:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "63ee047c87fce4c3158dfd2ad6d415f73ceda01c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran's refusal to meet U.S. envoys rejects talks and clouds peace prospects, signaling a breakdown in diplomacy.",
-      "event_key": "iran refuses meeting with us envoys"
+      "strength": 0.8,
+      "reason": "Hostile clerical calls for Trump's assassination undermining negotiations and escalating tensions.",
+      "event_key": "clerics call assassinate trump jeopardize talks"
     }
   },
   {
-    "title": "Iran prioritizes diplomacy with US but remains ready for war: negotiator - Arab News PK",
-    "summary": "Iran prioritizes diplomacy with US but remains ready for war: negotiator Arab News PK",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95YVl0X3QxcDlMMVc3Q1ZzczNpVjFRdGlWRXVqNG1QdlB0Q2cyb3NXd2k5Z0NESjZ1Zm5VLTlqcmtOMlJwV2pVNWV2NmUyT2lzS0tEUHNyTnd1ZEFq?oc=5",
-    "source": "Arab News PK",
-    "published_at": "2026-06-30T20:25:24+00:00",
-    "raw_pub_date": "Tue, 30 Jun 2026 20:25:24 GMT",
+    "title": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal - 1470 & 100.3 WMBD",
+    "summary": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal 1470 & 100.3 WMBD",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEpfNEZCY2tJeF9LVjIxME1SQ1NIM3JtczRlMnpkTlExdFM5M3lvZEREa2hFRC0wU0c0eXNlVEMzRldOaXdlTjNqeGlwc256Tm85NjZaaEg3WnVFeUdmVW5uXzVvM0NkeVNxS0ozc2paSmNmaTJRZHN4SFdVbGpyaTZ0OXVMZXlHdmRIUGZnbjl4cU92U3oyekJQbWZDeExGQWc?oc=5",
+    "source": "1470 & 100.3 WMBD",
+    "published_at": "2026-07-01T02:13:43+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 02:13:43 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1eefa38dcc12bd30aed1004837def4224161f30b",
+    "article_id": "a781ff07716f623682d2060de3ca25d4da1ba8e8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Uncertainty over Qatar's mediation undermines prospects for a US-Iran deal, affecting diplomatic talks.",
+      "event_key": "qatar mediation uncertainty us iran deal"
+    }
+  },
+  {
+    "title": "Trump Briefed On Iran Military Options, Chooses Diplomacy Even As Iran Says It Won't Meet US Envoys - NDTV Profit",
+    "summary": "Trump Briefed On Iran Military Options, Chooses Diplomacy Even As Iran Says It Won't Meet US Envoys NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2poUE1WcmQ1Mi05ekIyR29LNHhQNTJxVWlxUFdlTmc5X1JxbXowTFB4N0pSdjdTNGJqQk1TNElVLTk3aVAwZkJMQi1nSThYWktNX0hZMTFtYjlHYjJPX3loNkd3a05nMFl0Nl9EYUlkcFFpVm5penNwQ2dvMDNfSXBFRHBKNVlrOVlCVHJFQ1dWUzdJMXV1MFZBalpzNl9tS3lMYWFJQnFlVTQ3WUJ4R0JrU1NYM2pObWRMR0s1eDhUU0VjNTZ1SHZBZFpJc0MyY1pfUW5n0gHeAUFVX3lxTE5JVVRWU19QSjJEUjZrbjh5X294bXNJRjVWVXZTSzRvZTlManJzRFl3bUVTUHlaV21nc2FWb1JVdU9pS1F6X2ZoWmZvd3JveGxiTEh2aEV0OXZiVDJyWFVpTHphenVQWnNHejlZVHY2b1EyWkN3MGg0MEhRTUJsLUFyZF9MeVpkVGlUdHZValItMXJXcm9oUmxndE5YRjY1ZzRJZ1VHbkZzSWhRdHZIb2EyZC1MSXlFQS15bUZ6MUtEa3Q3Wjh6REJGU296WjllTHc5ZkljYm5hb3ptSXdJdw?oc=5",
+    "source": "NDTV Profit",
+    "published_at": "2026-07-01T02:44:32+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 02:44:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0207370258bb101151ea8d4cca0beff5248ceb75",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Official emphasizes diplomacy but signals military readiness, a calming yet assertive stance.",
-      "event_key": "iran prioritizes diplomacy ready for war"
+      "reason": "US chooses diplomacy over military options while Iran refuses envoys, signaling restraint without active talks.",
+      "event_key": "us chooses diplomacy while iran refuses envoys"
+    }
+  },
+  {
+    "title": "Oil Falls as Traders Digest Escalation in US-Iran Strikes - EnergyNow",
+    "summary": "Oil Falls as Traders Digest Escalation in US-Iran Strikes EnergyNow",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLTJjbzNoVjZ0VnNrSlQwMkhIVG9hZmJFM2FuTTMyOVh2bzlJem9IN0c3N1NFOWg3TlNhY2hjMzlrSWw3U2pnNGdSbVo2RGNRTFc1cWlwN1J5SGd6SnlPMkZmWFFwc01Gb0tJaDNYNW9ZbC03Z253OW1pN1lwbXp6NmZCNC1Uem1Jem9tLWdEMTE?oc=5",
+    "source": "EnergyNow",
+    "published_at": "2026-06-30T22:24:36+00:00",
+    "raw_pub_date": "Tue, 30 Jun 2026 22:24:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "df038a593dfe7d3a4c679412c2249e89fc139802",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reports of US-Iran strikes indicating direct military exchanges affecting oil markets.",
+      "event_key": "us iran strikes"
+    }
+  },
+  {
+    "title": "US-Iran War: Iran issues stark warning, says 'ready for war if...' - WION",
+    "summary": "US-Iran War: Iran issues stark warning, says 'ready for war if...' WION",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXh6VUE3OUt4eGNKWkdZUGktZ1cwRWpmMHFXb0wzMnpXYUF1SE1hM3lPcG5yN1JBT0ltVEpvTU15bjh4SnhrajVZenhfdnZZNlFxQmNhUVp5WFRwX25aNnZiSDVySTltdW4wQVQxUnpyNTdIeVM0MHU3aGRWQy1sazBNMDE5TUdfamNaWjhHU0t6VlFySFdzMnViODZFdDdpZHJJNVhEb9IBrAFBVV95cUxQYWxOMmRqNFZQTTc2UEx1ZGNpV2RYZko1NDlWY3owZlNqWFk1b1dUTWtYRUhXU2NsYkZ6XzRuNVJjanhjdm1yaXhKMlRIQ081X2FDSmJlM0IzdWxYTzJOTkZlQ3pTNmtvRmJidm96WFFFejZRckZrTENPcDBSYXQxcnVLT2JuUEFUSmVjYnJMT3pLRWp0Rk1MRjM3SWlLTTVFSUhlT0hOQkx2ME82?oc=5",
+    "source": "WION",
+    "published_at": "2026-07-01T03:27:00+00:00",
+    "raw_pub_date": "Wed, 01 Jul 2026 03:27:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4735804af43d6542c0b50a2d24584c236babb43f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's public warning and 'ready for war' rhetoric signals rising tensions and threats.",
+      "event_key": "iran stark warning ready for war"
     }
   }
 ]
