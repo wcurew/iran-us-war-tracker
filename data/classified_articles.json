@@ -1,53 +1,70 @@
 [
   {
-    "title": "Trump sees progress as US and Iran hold Qatar talks - Le Monde.fr",
-    "summary": "Trump sees progress as US and Iran hold Qatar talks Le Monde.fr",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHgxS0lvdmFYZXk5U0plMXBVaDVGRlA3ZElxMjBqQWc1RXhWRkU3VlZuNEpmbF9PcDAtSmc2MDI4R000SlZnRGM4MlB0eEdSUzFVeEVCdmZDYldxUF9MakdBZU9uMVRXOTM1YnJxQ3pTRVhqemczQmtfYnFwakZFQTRfRUdjWk9LTk1kenBmbDlVa0NUaFloZEtGaUdoelM4bHRqNU5BR3I1ajdyQmsycmtFajc4ZzZtZ3ZUdS14VWt1eFU?oc=5",
-    "source": "Le Monde.fr",
-    "published_at": "2026-07-01T23:15:38+00:00",
-    "raw_pub_date": "Wed, 01 Jul 2026 23:15:38 GMT",
+    "title": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Encyclopedia Britannica",
+    "summary": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Encyclopedia Britannica",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+    "source": "Encyclopedia Britannica",
+    "published_at": "2026-07-02T05:00:00+00:00",
+    "raw_pub_date": "Thu, 02 Jul 2026 05:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f438fca49d795e07bf0a0741b3f82d585d703b5c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Encyclopedia explainer, general overview not reporting a specific Iran–US diplomatic or military development.",
+      "event_key": "encyclopedia explainer 2026 iran war"
+    }
+  },
+  {
+    "title": "U.S., Iran conclude two days of indirect talks in Qatar with major questions left unresolved - Washington Times",
+    "summary": "U.S., Iran conclude two days of indirect talks in Qatar with major questions left unresolved Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVU0V0h6bDhKTnJlV2NyYnNZdFhsTHp2THBSSDJUWmhsbU5DMjBpYUs5T25zdm9UZTlhUGR0VWstcU90WE9PWXVNQzB0Um1ZMFljTjYxWHdEc2ROTVdZc0NpYzJWR05uR204RlAwb2diQUdHcUVEUGZiUEF3MEtFTEZOMVBXV3FfWGctdmxkZk9UYXY3T1JnSWg0X1BZT09jTHlyT1VVYzdkSHNINWlfMGlpeENNUk0?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-07-02T04:47:59+00:00",
+    "raw_pub_date": "Thu, 02 Jul 2026 04:47:59 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fb84126686b2f76661db48768d487ebc38f68d8a",
+    "article_id": "1d30abd777dd58d3bdc1da0464e1f78d189929ee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Two days of indirect U.S.-Iran talks in Qatar indicate ongoing diplomatic negotiations despite unresolved issues.",
+      "event_key": "us iran indirect talks qatar"
+    }
+  },
+  {
+    "title": "US-Iran indirect talks to resume after Khamenei funeral - Bangkok Post",
+    "summary": "US-Iran indirect talks to resume after Khamenei funeral Bangkok Post",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLUNIQ1BtRUQwYVY2N05jRmstTG90YU54eFpaNmljSUNPQkdsY1dPeHNzQmNPX29rVGVfUGpQWkR2NmlLUVpkOUtvMVJyQWRSODBYQmthUU9uaXZsZzNfeUF6OGN4RmpiOU9wcTZiQVppa2IzNjBIejJKc2dxR3ZMU25IbGFmZmQwOTZNbDdCeTRnSEl3N2VaMnBfakI?oc=5",
+    "source": "Bangkok Post",
+    "published_at": "2026-07-02T06:45:00+00:00",
+    "raw_pub_date": "Thu, 02 Jul 2026 06:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b04a9ffb4e7cb508e39012448faaaf481c3caf91",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Reports US and Iran holding talks in Qatar with progress noted.",
-      "event_key": "us iran qatar talks"
+      "reason": "Reports that US-Iran indirect talks will resume indicate active diplomatic negotiations.",
+      "event_key": "us iran indirect talks resume after khamenei funeral"
     }
   },
   {
-    "title": "Trump administration silent on US missile strike that killed Iranian schoolchildren - San Mateo Daily Journal",
-    "summary": "Trump administration silent on US missile strike that killed Iranian schoolchildren San Mateo Daily Journal",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLWU5TUV4cHF6cFNTaDV6SjJ3ZjdRcUJBNnFtWEZYRURQUHlEZE1PaU13NkU5X0xLQW1kYV9BQktKQjRfMkllcFY2Rk5fbmlKSmZoMmJrREVwbHRqOG1XT3pnNkN3MjE4Tk9WQUh5ejE1bEwwWldmenh6Vm1yMkNFZVRKYkxMeVN5UkhRZElYdkFLUUU2ODVZSjFocnhzNXg1T0NEUnJaOXdXdlpLcnJmTkVjNklBa0VwSS05VFpyaDBreXgyQm1ETXAxOWIyS1hxU3dpRjk0eFV3NUV5dnRFaW9yUW1qSTBSdTMxbmpFdkk4WHk4SE9BYU9Nc2k1ZG4wSHdZTDEzaw?oc=5",
-    "source": "San Mateo Daily Journal",
-    "published_at": "2026-07-02T01:00:00+00:00",
-    "raw_pub_date": "Thu, 02 Jul 2026 01:00:00 GMT",
+    "title": "'Positive progress' in US-Iran talks despite Strait of Hormuz missile strikes - lbc.co.uk",
+    "summary": "'Positive progress' in US-Iran talks despite Strait of Hormuz missile strikes lbc.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSF9WbTlKVW02R3RPSWFkSmpzYUJ1cGI0Y0tNei01MTZUMnFySGpzZTdaWTdrUVZLdkpjV1pVUkV0OU5YRVVZMWx5bUVSbF9SeXk1QW4xM1VONWh3Ukh1aG44Ymdad3JPMzhhRkthaHNvcUNEMzFwUVV0Y1VKZU1odVVRLVl4WlR0?oc=5",
+    "source": "lbc.co.uk",
+    "published_at": "2026-07-02T04:54:22+00:00",
+    "raw_pub_date": "Thu, 02 Jul 2026 04:54:22 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "98dc333e415c6648bf6737687880c7e6c2f1a411",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Report describes a US missile strike that killed Iranian schoolchildren—direct US military action.",
-      "event_key": "us missile strike killed iranian children"
-    }
-  },
-  {
-    "title": "US-Iran Indirect Talks In Doha Focus On Frozen Funds, Hormuz, Crisis Communication And De-Escalation - NDTV Profit",
-    "summary": "US-Iran Indirect Talks In Doha Focus On Frozen Funds, Hormuz, Crisis Communication And De-Escalation NDTV Profit",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcF9CZXhIWnRlZHd3NUltdW5CWTh3UnN5SW5TcVEyLW44czhOOEtjbFY0U0VJS2RUQV8xQkVSR250TDhIUDVON2dzMXJfZ0JvTmNySEVRWHE2VVFadlYyeTZrMkVVamgtWG95aVpibmJ3Q3lzamFNNDJlUVJfVWlxMHlkWUoxSUFxcjhkcVQyblNnX250Q05yZng5MEF0cl94M2hQMGZ4Y2ZacDRKTG81YmlPNmJDc01uWnczeFNhaUJGeHUxMGJ3ZnR3alJiZUVRXzVHZjN1NNIB3wFBVV95cUxPZTBiWW1qZkhMWFpybTFLaFViUjBUd3o0SUdMckpxU2ZwNm5NOXZFVG84Nnk0amJ4WjJzd2I0YTJpbmNlLWtOcUdfWFYyN1AzeU9sb3JRTkVxWEhnR1E1OWxjaGVuSXdCZS1nbkozdHhIbGwyZXFqdVl6ZW1zdHZjSWNmT1FuWTgzTG55SGFUY1M1SHhfWWFVYU05WldTNGdlaXhudGdhdmYzQW1RbF95dEo5bHpFUU1LVnZFQ0d5dUVTeE10d2NZbllockFNOGl0eUpmcWFFWUg4RFFZTXpz?oc=5",
-    "source": "NDTV Profit",
-    "published_at": "2026-07-02T02:50:47+00:00",
-    "raw_pub_date": "Thu, 02 Jul 2026 02:50:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "86b76c5fef89801224631734028d3571d5707f57",
+    "article_id": "198cb3df71d4bf5cf40460f5547e78539d4f1ce4",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Reports active indirect talks in Doha on funds, crisis communication and de-escalation between US and Iran.",
-      "event_key": "us iran indirect talks doha"
+      "strength": 0.8,
+      "reason": "Reports of positive progress in US-Iran talks continuing despite missile strikes in the Strait of Hormuz.",
+      "event_key": "us iran talks progress amid hormuz missile strikes"
     }
   }
 ]
