@@ -1,19 +1,19 @@
 [
   {
-    "title": "Iran And U.S. Continue Nuclear De-Escalation Talks - WFXB",
-    "summary": "Iran And U.S. Continue Nuclear De-Escalation Talks WFXB",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDQ5MXNrbHJxOHJ5aWNRNGUzTG9zUFBGZ3I0RTBMRkpfWWZsM1V4Wi00c1RuWGtFd1ZyY0kxRkJydEpWUlVpMTRaWEdyeUNkSWFXSFd0VEhfX3ZnZWZPVHFmbzlQcTVDcnM2Ymo3QnpNdnpwZlc5Ujk5bWtyQVhUWGk5VFROWVdvWGc?oc=5",
-    "source": "WFXB",
-    "published_at": "2026-07-02T17:27:02+00:00",
-    "raw_pub_date": "Thu, 02 Jul 2026 17:27:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f9e4234058098090b0ae3822e1ce2decc4d98f4a",
+    "title": "UN warns of 'risk of miscalculation' with 'each new strike, each new interception' amid US-Iran tensions - Anadolu Ajansı",
+    "summary": "UN warns of 'risk of miscalculation' with 'each new strike, each new interception' amid US-Iran tensions Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmxVNnRlV01Ka3phaTI1M1lYSmFGWDdURElSRmNUMEhiQmNOQUMtWjF0TTIxQjVLQU5hSlh4OFFWM2RLUG1Ec3RaVUtIbW9FZDFITUstUGdCQU9QWFpUczJPaFdEWnk1VjhFVElSS3AwdEFoMFFHal9fZFZZZTdkTFlTTnp4Qk9URHNhZkk2QzlCUnk3eEROeWRkUHZ5VXQzZkVpM2kxWV9YM3VMYW5EQnJERjdGN2Uwd19rT1V4NnRCSm5ib3kxb296aWg3NGM?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-02T20:44:46+00:00",
+    "raw_pub_date": "Thu, 02 Jul 2026 20:44:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3367d4488bf58ba84ee7b09de726901121c266d3",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Active diplomatic talks between Iran and the US on nuclear de-escalation.",
-      "event_key": "iran us nuclear talks continue"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "UN warning urging restraint and highlighting miscalculation risk from strikes/interceptions amid US-Iran tensions.",
+      "event_key": "un warns miscalculation risk us iran tensions"
     }
   }
 ]
