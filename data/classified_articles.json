@@ -1,19 +1,36 @@
 [
   {
-    "title": "UN warns of 'risk of miscalculation' with 'each new strike, each new interception' amid US-Iran tensions - Anadolu Ajansı",
-    "summary": "UN warns of 'risk of miscalculation' with 'each new strike, each new interception' amid US-Iran tensions Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmxVNnRlV01Ka3phaTI1M1lYSmFGWDdURElSRmNUMEhiQmNOQUMtWjF0TTIxQjVLQU5hSlh4OFFWM2RLUG1Ec3RaVUtIbW9FZDFITUstUGdCQU9QWFpUczJPaFdEWnk1VjhFVElSS3AwdEFoMFFHal9fZFZZZTdkTFlTTnp4Qk9URHNhZkk2QzlCUnk3eEROeWRkUHZ5VXQzZkVpM2kxWV9YM3VMYW5EQnJERjdGN2Uwd19rT1V4NnRCSm5ib3kxb296aWg3NGM?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-02T20:44:46+00:00",
-    "raw_pub_date": "Thu, 02 Jul 2026 20:44:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3367d4488bf58ba84ee7b09de726901121c266d3",
+    "title": "Oil Steady As \"Progress\" Made In U.S./Iran Talks - Despite Iran Warning It Controls The Hormuz - Ship & Bunker",
+    "summary": "Oil Steady As \"Progress\" Made In U.S./Iran Talks - Despite Iran Warning It Controls The Hormuz Ship & Bunker",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblZNWVpjNGpDTk43OXkwYVBYbFZtaE9tUG5ZU08xS1RLQjZIZ3QzcjI5RW1MdzR6d3EwNHlpV09CS3ZaRWFJTGRVV0k0NWdXekowSVRzZlVZNDdoTk5Eb0UwQnlfRmthU0FEaV9XSXc2SGtZYjNMVGVhZDVETmhLTWh0NjlkUXFHMWNzY0tadWROOWpzN2dNOVE5bDI4Slk4RE8wdUlONzdha19oYTh1aXJkOFhFU00xQ1oxV3g5T2VncExndmt5bDh3MA?oc=5",
+    "source": "Ship & Bunker",
+    "published_at": "2026-07-03T00:39:10+00:00",
+    "raw_pub_date": "Fri, 03 Jul 2026 00:39:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2826fe1826e58fe19533ef0186a571cd604927ca",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "UN warning urging restraint and highlighting miscalculation risk from strikes/interceptions amid US-Iran tensions.",
-      "event_key": "un warns miscalculation risk us iran tensions"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Reports progress in U.S.-Iran talks despite Iranian warning about control of the Strait of Hormuz.",
+      "event_key": "us iran talks progress hormuz warning"
+    }
+  },
+  {
+    "title": "Iran envoy slams US military presence in Persian Gulf - Yeni Safak English",
+    "summary": "Iran envoy slams US military presence in Persian Gulf Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjlYSUcyMVhzeEJoY1B3Ukl4Z2t3Y1dQekNaM2pSNzh4VDh4eGVkVERRdHRJcVZyUTVfc2lSU2s5Q0ZMaEYyNFRSTllIQk1XSUh2NzNKX0x4TFF3NnRabmZNdHNrLTVMM2JySFhQQ0VQbU5iT3c0M1cwUG5lcm9aODdVUEVvVUdrRjkxbFA2QU9ka3Y5WHRV?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-07-02T22:12:34+00:00",
+    "raw_pub_date": "Thu, 02 Jul 2026 22:12:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6466e7bbf814cd3123a0099d743c2e8891502570",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "Diplomatic condemnation of US military presence signals hostile rhetoric and heightened tensions.",
+      "event_key": "iran envoy slams us gulf presence"
     }
   }
 ]
