@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "US-Iran negotiations reportedly set to resume June 11, will include nuclear talks - The Times of Israel",
+    "summary": "US-Iran negotiations reportedly set to resume June 11, will include nuclear talks The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN01jdWwxRjBmS2swR2JBbHBzb0RXOWxUU1hkWkpldGVQOHk4dUFDUngzZVByVDEyWS1FME8wd1ZsazhsTi1XcXM2TXJSeG1ZSFZLT18wVk1xVm1BbjlkcmhfNElseF9vaWwxNHk1ZmItc2lpOG1QV0JFRHhlSUdxOW9QR2N0Q3ZGdUdyZUhSa3A0cjNsaFZYaFRKcHotam9FeDBwMUlfaTBQbVVjeVd2MTY3NjE2TE8tN0hjTllQbjRtUmI2?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-07-04T14:00:43+00:00",
+    "raw_pub_date": "Sat, 04 Jul 2026 14:00:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9f541e7fca2fe8cfd25b632d30b34e8bbc121468",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports that US-Iran talks will resume June 11, including nuclear discussions.",
+      "event_key": "us iran negotiations resume jun11"
+    }
+  },
+  {
+    "title": "Report: US-Iran talks set for Pakistan on July 11, with sanctions, frozen funds and nuclear issues on agenda | LIVE BLOG - i24NEWS",
+    "summary": "Report: US-Iran talks set for Pakistan on July 11, with sanctions, frozen funds and nuclear issues on agenda | LIVE BLOG i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcjBQTDQzenhmRmFvRkE0d2xmblI2emkzOGl3QVlhajQwSURHQjMtOU1VV2xaTXFDLWpYV1VGWGpkYTRhbWNSLUZiT3FyX3dQRktlcGt4QWNJczVRY3NzVUdsTUNaVmVrUi1uWjhPWUxlTW82N3FKSEtQX3hYN2F6M1BaNmt4NGxUZHBnQmV4UnZ2U05yYlRqUTlQRlpfYnFIcG5rb0pNUmUzbDM4R3RNc3M3b1BRUzNUNFJBLVotT0t2SWVYNTNfVEN6SE1UYWtKT1B6dTA5dmNuQ1JWY2VfUldjb09fQnlRbnhyYnMwVGllZ05KeUE?oc=5",
+    "source": "i24NEWS",
+    "published_at": "2026-07-04T14:48:14+00:00",
+    "raw_pub_date": "Sat, 04 Jul 2026 14:48:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "043b56564f0ddd5e78f599075bcfa24dc88ac9eb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Scheduled US-Iran talks in Pakistan on July 11 addressing sanctions, frozen funds and nuclear issues — active diplomatic engagement.",
+      "event_key": "us iran talks pakistan jul11"
+    }
+  }
+]
