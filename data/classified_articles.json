@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "title": "The Vengeance Paradox: Inside Iran’s High-Stakes Duel Over U.S. Talks - IranWire",
+    "summary": "The Vengeance Paradox: Inside Iran’s High-Stakes Duel Over U.S. Talks IranWire",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTV0bl83T0I3VVRaenZ2Y0xZMFBkLVY2b29ob1JfaF9LT0I0dWQzNEtncHk0Q210ZlZ2Rmg2WWV3bzQzYWFUYjI1Tk1SdGtZMFoxZHdQSUp5NUJEU0c2eXJrZDNsVE1vVnRaYkpiWDJfdVdWWi0tRGlieW5vYWktZ1dMVUFKeEpzZkVjUWlYYUtqNG44dFVXVHlpVEFoOGxBeGwzMA?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-07-06T11:27:15+00:00",
+    "raw_pub_date": "Mon, 06 Jul 2026 11:27:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0a64c6928c191efa2e8c87c7508b04b3cda59755",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Article focuses on Iran's internal struggle over engaging in talks with the U.S.",
+      "event_key": "iran us talks internal duel"
+    }
+  },
+  {
+    "title": "US-Iran talks stalled amid late Ayatollah funeral - LiveNOW from FOX",
+    "summary": "US-Iran talks stalled amid late Ayatollah funeral LiveNOW from FOX",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rd1pTUmkwaXZDa1JmSUJLREZfRG9PaEVweWtFQUNfV2hSYmM1MTNtM0RwbmE5RGo4QlAtSFBuWm5uSjdpNlgxUlAxZ1JjYUVOdG8yaUhPZ01xMlQtU18yWnR6QdIBaEFVX3lxTE04VUI4TjRBYTJqSHgyTXNiRjM4UWJsS0pYdzBZVk1rRGU3cXljZlljZ3gyVkFzaUNDQnJMcWpGMGpZMFZrSTAtUThuVFRpMmlZTENlZDI5LTFES2V4NDh6X1d4QUVWZ19F?oc=5",
+    "source": "LiveNOW from FOX",
+    "published_at": "2026-07-06T10:22:56+00:00",
+    "raw_pub_date": "Mon, 06 Jul 2026 10:22:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f50dbc1c00d44806465e912679362a4f071690ef",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Diplomatic talks between the US and Iran have stalled, indicating a breakdown in diplomacy and rising tensions.",
+      "event_key": "us iran talks stalled funeral"
+    }
+  },
+  {
+    "title": "Trump Says He Will Press Israel to Hold Back after Iran Retaliates for Beirut Attack - The Washington Stand",
+    "summary": "Trump Says He Will Press Israel to Hold Back after Iran Retaliates for Beirut Attack The Washington Stand",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczJIZUJFUnpZMXRBemhLSnhHWHlvVXZwTmNpMEV5RG5hWnRLWjl3RnJsUzlDUTNZTmJqUUN4akstOTF5dDRST3BFVVJxcXpQZnlHVG1GNGdFbE5SMURtNGFwdkt0dUZRc0ZlMGFpeVJlU2lJS1QtYjJnbFNCd0gxdW41RV9RWHY3NzdBYnIzUEZWdDF1Q0NacDJscDU2VUplQ3VDQmo1Y042eV9mbXBMaXkyZkUwZGZjMExIQg?oc=5",
+    "source": "The Washington Stand",
+    "published_at": "2026-07-06T12:04:55+00:00",
+    "raw_pub_date": "Mon, 06 Jul 2026 12:04:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a8b4250c23b6f364916f0495ab572b284ce78264",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Trump urging Israel to hold back after Iranian retaliation signals restraint and a move to avoid wider escalation.",
+      "event_key": "trump press israel hold back after iran retaliation"
+    }
+  }
+]
