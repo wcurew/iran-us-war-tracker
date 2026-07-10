@@ -1,223 +1,393 @@
 [
   {
-    "title": "U.S. and Iran trade attacks as ceasefire deal ends - NBC Los Angeles",
-    "summary": "U.S. and Iran trade attacks as ceasefire deal ends NBC Los Angeles",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1J3MUhUUVlWVEJJZFJNZXMzZDBYVHA1OEd3aklYbGpHS2lYbHpFNWcwb05KSVhQaThQa21ybW5yR0l3X1M5a2NlWTdBWlJhNHVHanF1WW52c0FBa1VwQ3V0R3NOWDQtZjZLXzh3ejJwTkt4VmhiSDhVWHVnSVJ3ckJCNkVocDNNaFBHNnRpVDZGOGxHMU4tdkd0QnpUYmVBVEVDc2F6WmZXR0E1SWdCNUVaVmTSAbwBQVVfeXFMUG9YUHBZU095YnVlQVB5ZE1VZlIxd0ZEQ0VfdzJqT1BqaG05eVFnOHQtdVE1ZkktRWpjNVo2a0dnb0pzVWNJaVRFcTBBNjhtVnF1V0VkME9ZTU5OeXEwVXNNSVU4YlkyUlFoTlNCb0dENVBjUk5GbmVmbGdEc3A3N1lwbTJCd0x6RXg3cGlwdXlsOG52R2xUTDM5djRtbWJ3UFNoeVdwbEVqd0JHWnI2czFleTk1T1RVZjh6eFY?oc=5",
-    "source": "NBC Los Angeles",
-    "published_at": "2026-07-10T06:21:55+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 06:21:55 GMT",
+    "title": "US-Iran ceasefire had a built-in detonator. This week it went off - The Conversation",
+    "summary": "US-Iran ceasefire had a built-in detonator. This week it went off The Conversation",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkpqc2NDeURvVHEtOHJfTWV6TEpNU0pnbW1USFkxOElVVlZzVlNhVm9HcUt4dV9uX2dGNEFUSVlvaHZIN2VlREJnMjItb3FnUzQ5dUpmZFhxWnVRMW5qMXpwUHpaQ3lqX29NcXNHdWY2bFJZZVJGZGI5cDR6MjNZbFFsOF84eUlORE5qVm11SkhlLWpTbVQwWTNMYUd6dnk0?oc=5",
+    "source": "The Conversation",
+    "published_at": "2026-07-10T06:54:02+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 06:54:02 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "27204838b410560ec097618edc8fc855920b07f1",
+    "article_id": "e2376ff4ae7a4a9d941748e6c39980f9bd004a8a",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
+      "label": "escalation",
       "strength": 0.9,
-      "reason": "Direct attacks exchanged between the U.S. and Iran after a ceasefire deal ended.",
-      "event_key": "us iran attacks after ceasefire end"
+      "reason": "Article says a previously agreed ceasefire collapsed this week, indicating heightened tensions and breakdown of restraint.",
+      "event_key": "ceasefire breakdown"
     }
   },
   {
-    "title": "US-Iran Technical Talks Continue Despite Fresh Clashes - Bloomberg",
-    "summary": "US-Iran Technical Talks Continue Despite Fresh Clashes Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmxabmR6d1B2bEFrcU1fN1Fza2FjNWJpQnVZSlhUNnRJTk5nMnNlOEQ3ZVpqOFE2LUotN0V1aGMxR09peEtSRXVOOFhWbXByN0dhSF9UdWQ0aGJJUDRRNjFTSE0xbGtISlhuLURpcy0yQnFlMFNXSGttRFpiWGl0YU5zaU8tQ2N0WWVyV2VlSFozWWY0SjViOFhUY1NJblNuNFlvNTJiQ05YSGdI?oc=5",
-    "source": "Bloomberg",
-    "published_at": "2026-07-10T05:36:00+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 05:36:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "09623becbcf76ebc2f014e491b4710afa05623a7",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports say US-Iran technical talks are continuing despite recent clashes, indicating active diplomatic engagement.",
-      "event_key": "us iran technical talks continue"
-    }
-  },
-  {
-    "title": "US pauses strikes on Iran as diplomacy takes lead, officials say - Ynetnews",
-    "summary": "US pauses strikes on Iran as diplomacy takes lead, officials say Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51eXl6UXUwSXlscnNGc0VkNmVoVnlUb1JhOEtiRkhBelp0ZFpUQzJwV090eWpqSDE1UHMtQXc1dW1qYnRHMFp4YnpPc2JPUzZpSzh5ZWNR?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-07-10T04:47:48+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 04:47:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8f65ea85fb8ba6e0efc755013f9dd41ad101099b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "US has paused strikes and diplomacy is taking the lead, indicating a halt in immediate hostilities.",
-      "event_key": "us pauses strikes diplomacy leads"
-    }
-  },
-  {
-    "title": "Iran diplomacy continues amid Khamenei funeral, airstrikes, US official says - The Jerusalem Post",
-    "summary": "Iran diplomacy continues amid Khamenei funeral, airstrikes, US official says The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zQ2w3OVNMVEljZEZra3B4SVFwWFVRTDhvOVo5bGI1TWUxQk1ibzZRWjJTOWVFQkJqRmpwUHZiS3RBa2pKdGFSeFlEV1ZCNlpRZnhGd2hsNi1CV0NWb1JCUXpyMHVaYzJoVlE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-07-10T06:05:21+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 06:05:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "44c53e00d77244bdad277c96f5a0f662e7828546",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.65,
-      "reason": "Reports state diplomatic contacts/diplomacy between Iran and US are ongoing despite funeral and airstrikes.",
-      "event_key": "iran us diplomacy continues"
-    }
-  },
-  {
-    "title": "US and Iran engage in behind-the-scenes diplomacy to ease tensions: Report - Firstpost",
-    "summary": "US and Iran engage in behind-the-scenes diplomacy to ease tensions: Report Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczIzd3pNSGREVlN4SDVtYmt0MG9iVWIzc0cyRno5NjFKeWUwNVFSSUxLWmI5SzNVS1dNRGtlNUpLZklWeUpPNUtIWVlmSlB1RTlGRzNFT0hBS1JDdXF1VlR6ZUI1TDB3M1NSN05QN3hreUhZVU5tYXlpRWRaZ0RTeWdlQXJSUDIyR29oSEQ5UWU0c05vVXBGZEFTanU2SVVsSVhRZzRpSGVCYnRYM1N3dnFYcmVJUU9vbGtZ0gHAAUFVX3lxTE9Eb1o3b3E4OHNzbVJJODVJbjFZdUlmaWJtMTMxN0Z1N3pnWTVvYjZMdU9fQ1BPQzB5MFFFel9iQWxWTlpJNU1STV9UaFhzT1RKOXRHMjZCT1J5eERtc1pvYy1nMU02bUU2M2ZGbklBVFo5NkFrclNNdjVtazJsdXk3R2xKU205OVhwTE1vOGhGY0NJR0xlVEh2aXR4eTd2MmNMV1RGZkltaG42c3NoelFSeUZoQmdEaVdRM0VzN1Z2bA?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-07-10T02:49:29+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 02:49:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d3e435311f11937e030d9cd74aa5ca9c9b74f299",
+    "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say - The New York Times",
+    "summary": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONU8zMkw3MFlpRzFIckhLWGY1eHA2ci1pMFpIOHFzZ2dBWTRmV2lWOWpYMWFqU1JRNmRKdXJnNmVoVktuZXMtSGdhZDJsVDl4SDBOaEItdmx3TXhfTHRDNzFzNnNKRFhXODZWcE1vTHk5Rm9Fb0hYQml2NzJQak50UDlmSUdqTUE?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-07-10T11:11:40+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 11:11:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "743f2abcb206f8870f1aedb3b4f2ae935f7eb745",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Reports of behind-the-scenes diplomacy and talks aimed at easing tensions indicate active negotiations.",
-      "event_key": "us iran backchannel diplomacy"
+      "reason": "Mediators actively trying to pull the U.S. and Iran back from the brink, indicating diplomatic engagement.",
+      "event_key": "mediators pull back us iran"
     }
   },
   {
-    "title": "U.S., Iran launch missile strikes against one another as war escalates - KCENTV.com",
-    "summary": "U.S., Iran launch missile strikes against one another as war escalates KCENTV.com",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMHdxallnUllPdXRHdmlPcXpkcGk0TWlDMFZ0ZDkyRFBaUzNSd1UwWTRFX2RvbXRLZm1JR1NBMnY3Y1JDb2ZZd0JyWVlPdk1oOWxxaHJCYlZ4YlJFeXpFSHhTWVRNNmtWX09Kb0VVTjVfdTlNeVNNWTJSaUJJSjFsVEExd2ljNWxLcllJcnJPbGIwbWdmeHc3My1xaC1RbG5FaVI1RTY5dDB3T0FiRGpzSWNIaV95THV1ZjhLeGl2TTBtZy1VQTU5cUk4dE5aV09VVXp4dGxxbmhEamEtcEdtYUZNX3Jydw?oc=5",
-    "source": "KCENTV.com",
-    "published_at": "2026-07-10T03:16:00+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 03:16:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c0930a3a2f2d901baad15432d31cb713c9c72053",
+    "title": "Gas prices climb amid U.S.-Iran ceasefire breakdown - WABI",
+    "summary": "Gas prices climb amid U.S.-Iran ceasefire breakdown WABI",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJoUVlLWTcxUE1ndmlRQXRRWWZMLVA0bk5FRHpYOHNtWjM1Y0NQdTVuSVZEZVZxTHEydEtQQi1WX2E0dE9LZjRJdHlicEw1YmdfbXAwOHRyTUpPVWZGemVEOFEzNVlSQXNVTk1fOHJGQ1JoSWpGa2tkY3FpaFZ4ajA5RXpIb0RqbUFJRHFkeDk?oc=5",
+    "source": "WABI",
+    "published_at": "2026-07-10T07:21:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 07:21:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b02b405c34e0018c1a4af2a414aa7177ee68260d",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct missile strikes exchanged between the U.S. and Iran indicate active military retaliation.",
-      "event_key": "us iran missile strike exchange"
+      "label": "escalation",
+      "strength": 0.82,
+      "reason": "Reports indicate a U.S.-Iran ceasefire broke down, signaling increased tensions.",
+      "event_key": "us iran ceasefire breakdown"
     }
   },
   {
-    "title": "Qatar, Saudi Arabia, Pakistan push for de-escalation as US-Iran war wages - Türkiye Today",
-    "summary": "Qatar, Saudi Arabia, Pakistan push for de-escalation as US-Iran war wages Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkE4bS1aS3VZR0VPd190VjlTNE9ZYTE3OG9yenlMSUtqZDB5dHM1WnF2YjFPaHc3WHgxSWlHdDd6UVJrcWdsbkhkdHRWYVRpTk5TQnphampIWVAxTUx6Z2VRdFN0WVBSdGVKSklYVnJ6dzNxLWJLTDRiSWNYaHZ0WWZxMlgxWTYyZ0RnZE9laEoxVG5DLUUzRUszYWNvbkQyZXFvYWZMTG53YXVQQnFLbWRwalYtZw?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-07-10T06:27:31+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 06:27:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bfac9f680f6b1c123700dfce0671bf38bbf81ff9",
+    "title": "From ceasefire to crossfire: How U.S.-Iran tensions spiral in 48 hours? - mronline.org",
+    "summary": "From ceasefire to crossfire: How U.S.-Iran tensions spiral in 48 hours? mronline.org",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0Y5a21tc2o0bVgtVHZSTE9SZlZnb2JSeVJKZjBteDUyRG9SVlZNUm03VERPNlZWcGlydDFiRG1HRWVKNEpLYk9kNU52cVJscFNnVnRMUm1pa0V2M2Z3ZTFaT2dMNzAwYzVHNFFzdnZLTFA2dTF2cDNaTG4zVVVFdE1yRHF6ZVpndFFOMGppT0liZmV1X2RjNmFING9nSE1IdnF3?oc=5",
+    "source": "mronline.org",
+    "published_at": "2026-07-10T11:03:01+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 11:03:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a847631efe1983eb60c6b85e247e3336b367e5d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Describes rapid deterioration from ceasefire to active clashes, indicating rising tensions and escalation.",
+      "event_key": "rapid u s iran escalation 48h"
+    }
+  },
+  {
+    "title": "US-Iran war: Will peace talks ever resume, and when? - Al Jazeera",
+    "summary": "US-Iran war: Will peace talks ever resume, and when? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNS1tT1FpZHlmNTlrblgyWnlEOVB4Yk5lbW9hUlVCZ1BiYTFhU2RaNFdDekpxR20zVjl5ZWVLLW9NU2xqUnZ5UjA1Y1N2V3dSOTludGhqaHNjb1NDM0hNNk9tVXdwT0JVeVRTZmpwS0Zldjd6aWxUWl96MTFiTEYzUmI1TWszRTNLVWdqRkIyTUxqdWdh0gGaAUFVX3lxTFBrRUdnNUIwbHY3Sm93M1B5cDZudUdvdEltWjRIYnpULXg3bWd2bTF1d2s0T2lOdkNmM3RZRG83d3JOSFNla3NNclhyNmV1YTBGc2REYUFsanZTbG1mNEdyNHFtYmE0QlF3d0ttd1NZemktcU04NkRYVzVQcE1nWllCTGlyRDNXREVEdVlBeTF4UnRwaFZuU2xwNVE?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-10T11:45:38+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 11:45:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4f8a8412cfe6fb0818578fd9bba8ae4761ec461b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Article discusses potential resumption and timing of peace talks between the US and Iran.",
+      "event_key": "peace talks resumption discussion"
+    }
+  },
+  {
+    "title": "U.S. Says Nuclear Talks With Iran Continue Despite Rising Tensions - IranWire",
+    "summary": "U.S. Says Nuclear Talks With Iran Continue Despite Rising Tensions IranWire",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk5wV0l3MkR2NU1EMTJFelB3cmE5NDk3dmdoTTZoajkyM29FSzZoQU95dEg4VmhJSWtsUXBmRjZMNWNkRVR3Ny0zSjJBU0h0Z3lEMmRZVlROanZYdU5qMWpHeWxpOVpJNlVQWU1hWnRPUm04clR2Zy12cE92RHMtY2JMS3B4Ull1ZVNVY0IyWkxzd0lLYS1MeVBqRXJrSS00b1Jv?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-07-10T10:08:55+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 10:08:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1027ec66f2c0e8a0780366203b2780343ef37de9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Active nuclear talks continuing despite tensions — indicates diplomatic engagement and negotiations.",
+      "event_key": "us iran nuclear talks continue"
+    }
+  },
+  {
+    "title": "US Says Nuclear Talks With Iran Continue Despite Recent Strikes - The Media Line",
+    "summary": "US Says Nuclear Talks With Iran Continue Despite Recent Strikes The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNldPZGRTS2ZuVmhnMHVKRmNWSHVJQldyM0dWQjIyNTNDSnB3S1hicnNsVk5aWjF3QWJiMTNmUXBhUUNrNWpReXFYcnNmbjEwOW5Bd0JTS19BVFpfX2FQZnVCR0VWNGRWUWRuZm5Vd3RQeVVFdG9EdWY3dmluZmpuSVF2THNVWnh2bjdTZFVuMmJKYWltTXhmQXAxRlZwM2x4?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-07-10T08:52:25+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 08:52:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3a606d903702b072d1c6b593494bda15eb641cdd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "US reports nuclear talks with Iran are ongoing despite recent strikes — active diplomatic engagement.",
+      "event_key": "us iran nuclear talks continue amid strikes"
+    }
+  },
+  {
+    "title": "Lull in US-Iran strikes raises hopes for diplomacy amid mounting regional tensions - The New Arab",
+    "summary": "Lull in US-Iran strikes raises hopes for diplomacy amid mounting regional tensions The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jMkw0YXNLVDlDRXlBRWhFNHFod3Y5NFFuRURIZ1YwOHgwZzBER193WEFzLWlQaUJWYUc2aDZ2VnVraDQweVg4YjgxS09yV3hhakRQM21TZUtYYlZNMTMwOGhDLVB1ZWVqbFVTbGNob0VFZnFKVHNnY2NBQzM?oc=5",
+    "source": "The New Arab",
+    "published_at": "2026-07-10T10:00:59+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 10:00:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8004f4fbfdbadde6a4c4c4961ddccd3b4ce1f41e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Temporary lull in strikes raises hopes for diplomacy without a formal ceasefire or active negotiations.",
+      "event_key": "lull in us iran strikes"
+    }
+  },
+  {
+    "title": "US pauses strikes on Iran to let diplomacy work: Report - Anadolu Ajansı",
+    "summary": "US pauses strikes on Iran to let diplomacy work: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMG5WVUZBMUNPNUh6MGpCejhRRjN2NzM0ODFFNnRIZVB4VE5OWUR4aGl1bjNqSFluMk1xYU45UTVZWnMySG0tenppOGU0Y3JodG5yMTh1S3lwSEk1bEZmZ18tZ1FNZHFFaHVmMGNZdGR2LXVMTDhVak5DUjJEXzU0Q0YzV3FseGFNZXoyd2JLbGc0ZllRYnlnczFQMEI?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-10T07:59:44+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 07:59:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fa1b624c0318d96b02eb00edcaa74bcde22b1889",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.75,
-      "reason": "Regional states urging de-escalation amid US-Iran hostilities — calming signals, not a formal ceasefire or direct negotiations.",
-      "event_key": "regional deescalation push"
+      "reason": "US halted planned strikes to allow diplomacy, signaling restraint and reduced immediate tensions.",
+      "event_key": "us pause strikes for diplomacy"
     }
   },
   {
-    "title": "United States Dollar Index falls to three-week low amid signs of US-Iran war de-escalation - FXStreet",
-    "summary": "United States Dollar Index falls to three-week low amid signs of US-Iran war de-escalation FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFdtNTMtSmtyU1F6ajNvcGJPUmRDTElXaHF3YXg3QmZNTkh1QjFBcnFQVEhWZ01EOXhXM2lwaFczRW1xd0NHNW1VQkxKRHVaYkJCX2ZPUjVsOExFNTBQRFlYbGxORENXY2dyc3Z2UGY3cWJkRE9TYUpNN05valZlTFJoSHdzM3ktbDl1dm9hQ0cwbVRsY0prNjlmR0h5NElmWHBTRUVTdDF6YndyVktvMTZnaEFMNUM2cDdtWU5nUWlJLUhwVUhQM0dwTkpMdw?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-07-10T03:24:01+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 03:24:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6542818dcfffc062f436e082189599a055689b8a",
+    "title": "The US is building a new pressure architecture against Iran - Al Jazeera",
+    "summary": "The US is building a new pressure architecture against Iran Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVpncm96YzZUUnF1MHJyOWJESTdTR214Z2U5bkZnaHZTcFNnZmYxQ25pZ3piRTBtUGpZbkRPNHUtSXBRcF96Y3FaSUY0QnFHWjhBMjBETUNwbmMxY3E4XzlySnQ2dElyRVF2eVZIZC1LWWtCZVBCSXRCZWVaOG1QTkpqY0RYcUQtbjdCSWZYM09YMDNSQllNZTJTaUR4clBaUHh1ZTZ2c9IBrAFBVV95cUxPV3FDN0dJOHlZZDF0SFpUNHY1MFpxa0czMHdoSU1tYkdFYWNNdmZQTUI4N0FWeXhvZWZLTFJwX24ySDFEN1FheDlVZl9mT1NPTGwtNll1OG5DQzlsWGN3LVNtTktjdk9RbVRRUFRwSlNrV3NyMElOYWZCejBQbnhaMEUtUEdHM3dreEJudC1zQ2hkeTQwTVJOQlg5M0RBVndIQWRzR19zYlRlTTZN?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-10T07:39:12+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 07:39:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "196cadad83d4371d9ca647a6c0fc41afbbf29e84",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Markets reacted to indications of reduced US-Iran tensions rather than a formal ceasefire or negotiations.",
-      "event_key": "us iran deescalation signals market reaction"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Describes US constructing a pressure strategy against Iran, indicating rising tensions and escalatory policy moves.",
+      "event_key": "us builds pressure architecture against iran"
     }
   },
   {
-    "title": "Pakistan, other mediators race to salvage US-Iran peace deal after fresh Gulf escalation — report - Arab News PK",
-    "summary": "Pakistan, other mediators race to salvage US-Iran peace deal after fresh Gulf escalation — report Arab News PK",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9paFRqTGlmYUhJTUNMdENIYXB2TVBaZ25URG8wS2c0cHZwWEhyY1IxQmVkU0JXYnpCVUsyTnlhR3ZGQ3ZLa1Q1UkxpM2p0SW4xWDhlVWxLYWo?oc=5",
-    "source": "Arab News PK",
-    "published_at": "2026-07-10T04:10:06+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 04:10:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "36837bfdc791dfa6fbac1fad935ec13f07965181",
+    "title": "Official says diplomatic efforts underway to ease US-Iran tensions: Report - Al Arabiya English",
+    "summary": "Official says diplomatic efforts underway to ease US-Iran tensions: Report Al Arabiya English",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkVwWmJPUUVRbjVBek5lY040d21xNnBWMDZQdF9PQWE2dklJOVI5LTJIT1R3d0lwcEt3MlY5eS1VVTFndDViWU84MnBrNHk0Q21JLUVKTXh2bU1uUk13SmxnYXZPcnduVkdoU3hOaG1iYkQzWHJ3VE5zU1RsZGV1R2UyQ0ZKOWhBRFRxbFFTekdqdWxPbnN2eFFZdGV6WnVuZmhVNHlPMEV3d1BEcTNBZzNMR2JVSHJoX1ZraU5DX3B0VmdoNjAyQmNDQdIB0AFBVV95cUxOMUZwNjFZX05JXzNaYzByWlpBT0lXZkZGLUFiVVBzOUR3Tkg0c1B3cXh1ZVlLTFIzR0d4dTN2cEhFRVIzNm5XWVZZRjQ3dEVBTnJpWU1MTzRFMkRaTUJ5WFdXSlEyUjlud01LUG1kbjN1SXBOR1pqd2UwTnBOVDNpTEpST3h0ZDJnU05sWS1xVXRPbDczWnB2aXpYMFZQQk85M3kzTU5GZ1MyYWFtSm5VOW92N00tTUdQQVB2dTRmQUdyUEktTkgxMk8ycS1zdXMw?oc=5",
+    "source": "Al Arabiya English",
+    "published_at": "2026-07-10T09:45:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 09:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b789096853a3a20de8f0ccb5e87b79c1e8acea29",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Reports of active diplomatic efforts to ease US-Iran tensions indicate ongoing negotiations or mediation.",
+      "event_key": "diplomatic efforts to ease us iran tensions"
+    }
+  },
+  {
+    "title": "US and Iran continue technical talks after strikes, diplomacy aims to prevent escalation - Межа. Новини України.",
+    "summary": "US and Iran continue technical talks after strikes, diplomacy aims to prevent escalation Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbG9KMmtWY2FZZDVpbXdLaU82ZWZTUHhXZ0JFYjV1VGpGVThjSE9STGM5WEhQS285c1dmY0NsZml6eFk5ajBUUVdWenYtQzhjdDFYRVhjUTZQSHVhTGc?oc=5",
+    "source": "Межа. Новини України.",
+    "published_at": "2026-07-10T09:12:46+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 09:12:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97c39a43532135e653e9a1bca7d4357e13f6a707",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Mediators racing to salvage a US-Iran peace deal indicates active diplomatic talks and mediation efforts.",
-      "event_key": "mediators salvage us iran peace deal"
+      "reason": "Ongoing technical talks between the US and Iran after strikes aimed at preventing escalation.",
+      "event_key": "us iran technical talks post strikes"
     }
   },
   {
-    "title": "After Strikes And Trump’s ‘Deal Over’ Declaration, Mediators Move To Revive US-Iran Talks - News18",
-    "summary": "After Strikes And Trump’s ‘Deal Over’ Declaration, Mediators Move To Revive US-Iran Talks News18",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcThLR1V4RjQwYUlneGVCUnhOS2E1U082Tm1fcktXZDNRVmVEdlI5RUFQOHNvSTlVa1lGY3F1RngzV0dKTmtpMXNXeDRIRFNKekYzWHVLZ1FKTU9LdGNTanBQZFpkaHB6U2NDQ0p0X1BkbkRMMjNLRWZSdU9WUGJEMEFuSXphT2FyN2pGNFI1dzJodjhSMGNnUXloR1FUZTdweE91V1dlUHpscUlLTEhuUTRJTFZWcmdGR0NTYXA5ZEVjd9IBxwFBVV95cUxOY0pxbUNIcU9NZVgxV1Z3UFktN1k1LV9DcmxJM29EeC1lR0tPVS1NUk5zbWJEWWgxLURpcjJXd1FVMDF0bGtmUjlhRzNvM3hFcC1vZkJ6TFVkcmlpZGFSMlh2NmdyaFJNR1RSN0h2eVVsVHY5TU5NRkxnM0U0MEhFdmY0ZGI3ajQ1VGgtQ2VnZ3VsSkQyNTZMSDFuV2VwdTBUbEtSS21WaFJNNUFUdlhQandneW5LTG4wSEpYR0hDcnVTSWFHVjRZ?oc=5",
-    "source": "News18",
-    "published_at": "2026-07-10T04:22:50+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 04:22:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1cf50a8a642b4b575b99d7464796deae2c860c56",
+    "title": "Uneasy calm between US and Iran as mediators push for return to diplomacy - thenationalnews.com",
+    "summary": "Uneasy calm between US and Iran as mediators push for return to diplomacy thenationalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGtwSzFzUW1vX252X3NsWnh2TnJJcWJRalFqeFBkWWZfWElCMS0yOTdCNTZMU0xHWW1ENGJkUzV5M2NKM0JWZDRwRUdqaWxSR21UbzRPNzl1UVNQbm9NU3JjTjdTN1hjWTgzRUh3VzRWNWZzSDFCNE9QMFJZNmtxSjh6VXdjMU50c2tWeTUzQ3hwSzBVYXZzbFVJZmNlZkdhXzVuVW9GSmx2eUdNakh5WWNUd2Z0V0ZlRTRBeU5NYWRFdktOTGc?oc=5",
+    "source": "thenationalnews.com",
+    "published_at": "2026-07-10T08:44:41+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 08:44:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "66a73d0f374b43c094e2d880e81b3dde0612b441",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Mediators attempting to revive US-Iran talks after strikes and 'deal over' rhetoric indicates active diplomatic engagement.",
-      "event_key": "mediators revive us iran talks"
+      "reason": "Mediators are pushing for a return to diplomacy, indicating active diplomatic talks and mediation.",
+      "event_key": "mediators push return to diplomacy"
     }
   },
   {
-    "title": "US Iran War | \"War Is Not Over Yet\": Netanyahu Issues Fresh Warning To Iran - NDTV",
-    "summary": "US Iran War | \"War Is Not Over Yet\": Netanyahu Issues Fresh Warning To Iran NDTV",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGdMYlhmMzk1WHRkQkRZMHV6eUFsYTItMEwyOGliRDB0RDF2aVYzX3MyVWJrOVVrdTdndUVtaFBNWmN2SkpwcThEeG1YNHFSaXNRRG9mbGZEaExJdFNOOGEwVUt3dWM1MEw0UWpEQnBFYmpFYmwtQndabTZ5aGhIWmxiS2Q4WmY3MDkwdElSc1dFT29QOWQ3c3B4RzEyd1NDODJCOGdURW9Hdw?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-07-10T04:50:17+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 04:50:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "373f2118433b4eba823e4e773fad72bd3ac3cfdc",
+    "title": "Israel ‘will not be spared’ from Iran’s retaliation if US keeps targeting infrastructure — official - The Times of Israel",
+    "summary": "Israel ‘will not be spared’ from Iran’s retaliation if US keeps targeting infrastructure — official The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQngtX0JGajJGd0NRZVJCUmx0YzQtTVNheG9RUUZwYlJ5MHhPWEttcXhRbEdsR3VGelItcmN6Mkx0a0t0dHZ4VnE3OEh5TDVCOHEyMUZZVjRuYzhLb2IydlAxVk90N1hvTkdPUllSQ1ZxWVZDUEd3bEp0NDNQeHoteGhGdDk4OWxUVm9xR0Y1Vzg1Tk41VnB5Z3F1aXJiRjJiazgzVm5VNHU4TU5MTVFnenpXY3lNZmptTVp0b3ZBVDhyQzFlTlBDcXlqUElYenkzdHFXVHhrWQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-07-10T11:45:42+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 11:45:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4f4bb5e000e414027fb165ce1cf2e10ad195636b",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran official's threat that Israel 'will not be spared' signals hostile rhetoric and increased tensions.",
+      "event_key": "iran threat retaliation israel if us targets infrastructure"
+    }
+  },
+  {
+    "title": "Mysterious airstrikes target Iran after US attacks, raising questions of who launched them - Hartford Courant",
+    "summary": "Mysterious airstrikes target Iran after US attacks, raising questions of who launched them Hartford Courant",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtellIM3gxSHNUcnFKWkxHUGtwbkNJa1V6eDFWT21OZldYYmh6Y2ZqYmdGZGl5WUg2R0tRcS1MeWZ0SjBIM2R1RktCYzRUMXZvVkpzT0JESXdpMmg3RjZwdTBmYko?oc=5",
+    "source": "Hartford Courant",
+    "published_at": "2026-07-10T11:13:12+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 11:13:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5f6321f9f8a4327996fbd6c9b2e15f2847621422",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.75,
+      "reason": "Airstrikes struck Iran after US attacks, indicating direct military strikes/retaliation though attacker unclear.",
+      "event_key": "mysterious airstrikes against iran"
+    }
+  },
+  {
+    "title": "US-Iran escalation could threaten 2027 oil market surplus, IEA says - Reuters",
+    "summary": "US-Iran escalation could threaten 2027 oil market surplus, IEA says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcS1IS0o0Q2RIbVZsMWFQc3hWY2lheW5Zb09jdVlENDBxeFVOYk0xRUozaTI4NFVUUzlGem1tLUdnVURUYXcySHVNdk5kd185ZTAzOHFkUjV2MHYxQkNOejZSbTl3VlQyb3c5NWM4ejhFZUlNN3FUYnA3SW1uWGtzaFVXTDFYY2MzRHRBZzh3N2tfeUw0ZnlELXRNX2JKb1dsalpzVkppVmZjMTVTZ2ZWcnZCRUNGMzByaFE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-10T10:04:10+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 10:04:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "73c34cfce891a40500aba3d247889bb064363ac1",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "IEA warns that potential US-Iran escalation could threaten oil market surplus, signaling rising tensions rather than direct attacks.",
+      "event_key": "iea warns us iran escalation oil"
+    }
+  },
+  {
+    "title": "U.S.-Iran escalation, Israel warns Trump of assassination plot - MS NOW",
+    "summary": "U.S.-Iran escalation, Israel warns Trump of assassination plot MS NOW",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFRSYnBxWElNNXdIY1ItNEdkRUlEWGRZSzBLM1NCUTl2QlFZOG5FVGtwMjFrMnBRVW1Yb3NzUFFadmVZeVI3ZGRRLW5Yc0g0NDl1ZVpwMmU0VFZDbTFtNlJxYnl3SHlHcWI3czdKWFpjQVp0Ukg1dUx4V1RlWVBIUnF0T1B0UDVsY0dBZEVzZ0taS18tLVA3YUdKc3Nha3FmNm9oYVl2UUNlQWNzeVRqeWZITQ?oc=5",
+    "source": "MS NOW",
+    "published_at": "2026-07-10T10:17:29+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 10:17:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "47e2c80329e61eefc0674954727d5b2689db56c9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Netanyahu issues a fresh warning to Iran, hostile rhetoric raising tensions and signaling escalation.",
-      "event_key": "netanyahu warning to iran"
+      "strength": 0.8,
+      "reason": "Reports of U.S.-Iran escalation and Israeli warning of an assassination plot indicate rising tensions.",
+      "event_key": "us iran escalation assassination warning"
     }
   },
   {
-    "title": "‘I don’t really care’: Trump shrugs off alleged Iranian assassination threat as Israeli intelligence warning reaches Washington - The Statesman",
-    "summary": "‘I don’t really care’: Trump shrugs off alleged Iranian assassination threat as Israeli intelligence warning reaches Washington The Statesman",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdnRvNlkxR1Z0ZGpVNC1NUXlPYVdSRS0tVGxmOGdUQzEybHFtM3ZPU0FGNm5YQzVPT0RPVDE3QWxYLVFxcWs0T0FUZWtoUnNZS1p2dmQ3V2IwQzZRa1BPNEtJd3JnMzR4SkR6U1VqbzlBekpKRHUtR1EyY3RSRlc1QTRxLURMYjdXemR4ZnJtYTFSSGJ0MTY0TjJLSFZ5clk5dmoyYnhPcm1CdXBOSUM5YVBrWTlwd1R5WnM4TFMzdmZPT1BjdExReEZYYjdJVi01VEpZQUhwR2NSZEVBUWpIMHlZWUFHa1BidThDdHpfak5Ubm1VVGl3RklFQWc4bmh1dTJvdtIBigJBVV95cUxNTXpZN3ZwdEhSeF9HV3BUSEEyc3NieXZrZWpOZGJ2X1VMTHJtakwyY0l2enR6VFQxRXFySThiYi1UVXdWNUhJUkt2aEpjWWt2QURJN3NJaTZmVG5aRXlyaTIzcXNIM3V3NnoxU3dpQVc0Rnd4U1VBV0VqTXM4Yy1zV21CQWNCWmwtME04aF9iRERyU1d2dTBfV1NoRzZxWl9TUlljYWg1QVlRTGd2a0F5alVqWjN3NWtVVE91UElCaFlhZy00VHJSSXpJekF6WlZGMEZCNUk3RFFXcFBrWmxjR2g1cnJxMGFVSUlOdWJ3cXlmWnNRd1pYNC1BRS1ra0FENEpfREsyb2pQUQ?oc=5",
-    "source": "The Statesman",
-    "published_at": "2026-07-10T04:35:00+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 04:35:00 GMT",
+    "title": "Oil Demand Recovery Is Under Way But U.S.-Iran Escalation Clouds Outlook, IEA Says - WSJ",
+    "summary": "Oil Demand Recovery Is Under Way But U.S.-Iran Escalation Clouds Outlook, IEA Says WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalkxak4wWk5iNnRYRExqd1NZQ3g0dzlpeTE2YzNQTG9aMWxkTlNOc0tLeUJJeDEyVG9WQklWUi1pZnFuNHZBMWl4alljeXppeC1FYlNwVXcyR2xzZ21lWWFNQjZaMWdyVlpaWEZTczBoWnJsSFJtb1pobnNwb1N0ZWhMTFZPQ000TFpjTGY2dmQ5eXhWcG5UbWxoeVFmZ1VBenRyRWJfd1Y2OWQ0NklUSXRUaGptQV9aRHFrdE9jMGthQjFvd3M1aQ?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-07-10T08:54:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 08:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "457194ae79678c2354235c5516b4044fbef8e75d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.0,
+      "reason": "Focus is oil demand; U.S.-Iran tension is only mentioned as a market risk, not a conflict development.",
+      "event_key": "oil demand with us iran tension reference"
+    }
+  },
+  {
+    "title": "IEA: U.S.-Iran escalation clouds outlook - CNBC",
+    "summary": "IEA: U.S.-Iran escalation clouds outlook CNBC",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2hYU0pEZUVJSEdrdFMwUlZYM1lBMElHSlhveUNQdUw0MU5ZbnJ0NnNSZHBpa1lxVmI1RlRYaWxGNnZpSVZua19DWkp2ejB4ckQ5QzFFMGFQYm9TSEJXM0FZWUYzY3FSWXVzSkJVTFB1dE1OVExfbEVWVHdSeGg2cjF6VnJkM0k?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-07-10T08:19:09+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 08:19:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "432717957108d8aa59a515b46f694f69b573ea46",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "IEA warns that U.S.-Iran escalation clouds the outlook, indicating rising tensions.",
+      "event_key": "us iran escalation iea warning"
+    }
+  },
+  {
+    "title": "U.S.-Iran escalation, Israel WARNS Trump of assassination plot - Modern Ghana",
+    "summary": "U.S.-Iran escalation, Israel WARNS Trump of assassination plot Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPaC0yZjRZUUFleFM2NUd4YVZmdGM0MFVfS2d5eVZUOGtNaUhCQTlYcmpZNGNTTHZxdTJWbTItX0ZBZ3NZaVp3RElyUi1lYVUtRnRHeThTTTZINGhkbC0w0gFcQVVfeXFMTWM4eXVaajZuQVBBcUNaNV9FNFJ4bms2TWVZdnowaVllcXlodWJBTENFQXJTZUpVdzNvQ2ItYjJWckhEaWZBa0tmSUNvZWdTVkdKQklnSXhVci1KbUM?oc=5",
+    "source": "Modern Ghana",
+    "published_at": "2026-07-10T11:18:37+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 11:18:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "57932b0661aff4eb1b89b5112e5bad531ee41666",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Article signals rising tensions and warnings of an assassination plot, indicating escalation rather than direct strike or negotiation.",
+      "event_key": "us iran escalation assassination warning"
+    }
+  },
+  {
+    "title": "Regional mediators seek to defuse US-Iran tensions - A News",
+    "summary": "Regional mediators seek to defuse US-Iran tensions A News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWJHX0FBR2ZaREVZSVNCLUIzWkNSbHdHVFBBdS04cS1xQW82LW5wSXVWcHo3M1puWU84eXQ5VnI5bVZ5a1NVLTI2dW9vcUFoazRybmM0eXJ4TlgtS1l4SU1zalltZFlJSWdNRDJidVI1M2o0NFBLQ0JMVU42QUVLYm04V2s1ajU5T0V1Y19HeXBEOUtjNktqZ05LQ3U3UWvSAaQBQVVfeXFMTkJqZFN6Q05tbWlVaE9felYtMWlmYWVfdWFMd2h6bHl4ODEwcHpiOWNXQnczOVpFNUpZWFo4M1AxdGR0SWx0NlVDdFhsYm9PWldVSVJfc1EtZnZad2oycGYwWTVHYWdYb0JZcVZEejBnZE9ESHBkMFF1LWtsS2pUcDZKei13UU1FV3lHQW45RFZidm4wWmVXdVQ0OUF6b0poNWtvUUg?oc=5",
+    "source": "A News",
+    "published_at": "2026-07-10T06:55:43+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 06:55:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "02196b060672759ceca6e2a4f73f78dc22cd6a5e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Regional mediators are actively seeking to defuse US-Iran tensions, indicating diplomatic mediation.",
+      "event_key": "regional mediation defuse us iran tensions"
+    }
+  },
+  {
+    "title": "Regional mediators push to ease US-Iran tensions, revive nuclear talks - Caliber.Az",
+    "summary": "Regional mediators push to ease US-Iran tensions, revive nuclear talks Caliber.Az",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1BBQ0laY2xaSDhZUzNxM21jU2ZaZFNVZ1ZpendNOWJiVmwtLVZKVUI5R093WWdjalh6SVRxSF9idWViRkQ4eXN5V1dUNlh0S2JCeWtOSXlPS3JRYUd5cGdXNU12YUhPbjhPdEFTLURPTHBFV0dSRTJvMFNMd0lPXzg4UHpRXzJzclpNWmd6c1RkRld6YzB1MTBpeHM?oc=5",
+    "source": "Caliber.Az",
+    "published_at": "2026-07-10T10:58:42+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 10:58:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "54d50076656974063a965237d787697995fd74ec",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Regional mediators pushing to ease tensions and revive nuclear talks between the US and Iran.",
+      "event_key": "mediators push revive nuclear talks"
+    }
+  },
+  {
+    "title": "Israel shares intel with US warning Iran plotting new Trump assassination attempt: report - KGAN",
+    "summary": "Israel shares intel with US warning Iran plotting new Trump assassination attempt: report KGAN",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTAwb1Jyb3JUOUY0Z3NxTk1jTWsxbDVHckcwaEk4V0pFcDAxcVBKY2E5akYyNzg1WDdlc2QzVFp4c0pFUERMamdJWENJR2gyTmlfRjFmYWtPWVZwX2t4VlV1QzZGMG5TMVlrSUptaXhGNG5VTEpHdWgyOXJuY2UwS3hIZTdhS09yOHpuUWdaRXNuVmYxT3RIbnFWblNxY2lYbTRZNmFJdThVN2pHTTlPZVY4czdidGJGRUlnSURWWGZ4Q2JPNHZqX1VBcGhhekdnaDNob3ZQdDUwNHBpa0R3UzVpNVp5UVE5Qm5BbjBhNkJZbmNITFJKOWpIOA?oc=5",
+    "source": "KGAN",
+    "published_at": "2026-07-10T07:28:57+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 07:28:57 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1ff3584435643d6ba90dd51876a05f4fa9bf0263",
+    "article_id": "93aed5003e73538ae49e9551ced62dd8681f95e8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Alleged Iranian assassination threat and intelligence warning to US indicate rising tensions and hostile threats.",
-      "event_key": "alleged iran assassination threat warning"
-    }
-  },
-  {
-    "title": "US-Iran war: Israel’s ‘assassination plot’ warning an attempt to sway Trump? - theweek.in",
-    "summary": "US-Iran war: Israel’s ‘assassination plot’ warning an attempt to sway Trump? theweek.in",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkFpXzZFNXpjcmc4LTkydGI0Y21abzdDUVNjaGhUY2hvbmQyOW1lLXNiZUxyeFBrX24tcURWUjB6ZnljN1UzQ1pwUEh1S0h1WUI4dW05SWVjOXk4RnBKNzdmNnpISE8zZnlBZHJlb09ON3pfUTJYUVBzeEdYakJBMWgwS1ZzMnBfWTl0UG1EN1lZeDFYUU4wOHlRY1k3MWt5SHBxSjlkRkRhYlJVcVRzWHJ6enk2T2lqLUxIaS1kTWFmVURnTGfSAcsBQVVfeXFMUERDV2IwczBqVnA4R3hYSnc5QnRZZ0QtYk9RWG9sZEk2QXc5RVdEbnRPOFhtQzNFZjFQZE5kakJfbjM2eUptZjdNZExKd2dkUmIyczBJSUt2SXQtR2JickxWUHdBTEd2ckZxTV84QzI5YzdlWjIxcWM2aWZSZlpjQ21zazJfRUpiWjNQS28yQkhQVnJERUlBU1lKLXcxTHpaM05KLUhuSFpiaUxMMDQ0eG9fOHVEd0l2WHpjTm80Tk5jZFpzWUNGdkFEdDQ?oc=5",
-    "source": "theweek.in",
-    "published_at": "2026-07-10T04:28:38+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 04:28:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "05546955782d8140a94f344abd7ada8d4197a3b5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Israel's warning of an alleged assassination plot raises tensions and hostile rhetoric in the US-Iran context.",
-      "event_key": "israel assassination plot warning"
+      "reason": "Intelligence warning of an Iranian-plotted assassination attempt raises tensions and constitutes a hostile escalation.",
+      "event_key": "iran plot trump assassination warning"
     }
   }
 ]
