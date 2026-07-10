@@ -1,206 +1,308 @@
 [
   {
-    "title": "Israel warns of Trump assassination plot as US-Iran ceasefire teeters - Scripps News",
-    "summary": "Israel warns of Trump assassination plot as US-Iran ceasefire teeters Scripps News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVhZZW9MamFCUW9LdmRscENQbDdyVjhTV0NQRFJNRFEyTXhrdmJOcF9Ec3NwS2VlRXNGNWUycTg5R1hFNXJoNXZkNlZVcTZvY0NHc3kya1FfS1NuMXVfSDJ2SUpFQkR0d0daWVJYWFlxOUhhY3ZJcEloanBad0o3SWN5dlBTeGhBdkhSUnpOX3hTM2pFUWxEa21pWXVTbkxGSEhMRlQxNlRVRUFMU0FhNjZjMEc?oc=5",
-    "source": "Scripps News",
-    "published_at": "2026-07-10T12:26:42+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:26:42 GMT",
+    "title": "Iran and US to continue talks, but ceasefire is ‘OVER,’ Trump says - Politico",
+    "summary": "Iran and US to continue talks, but ceasefire is ‘OVER,’ Trump says Politico",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1dGdDh4LUdTVGVYM2VEbWFCY3JGemwySzRlYlJYWkdQOGJZV1M2Wk9qR2syVTJldlZULXlQeG9ET1VuWjFiQ1BPMFJVMTBuSXBWcWV6N2pjRzlEd3B1ZnNLQ2lTWmRmSWZfRW1vMmk4U3Q3dG9pNWdXcDA0X19TYjFzUUZIWEQ3SFE?oc=5",
+    "source": "Politico",
+    "published_at": "2026-07-10T15:52:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:52:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9e5e915b338743a311a78d94195813b0b17649db",
+    "article_id": "a6e56e905eb1ff1f9468edcc690509c2f6d88237",
+    "source_weight": 0.98,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Active talks between Iran and the US are continuing despite Trump saying the ceasefire is over.",
+      "event_key": "us iran talks continue"
+    }
+  },
+  {
+    "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
+    "summary": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-10T15:26:14+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:26:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "142e60e845a4d441365766cd5a42ecac9faa1edf",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.78,
+      "reason": "US agreed to continue talks with Iran, indicating active diplomatic engagement despite ceasefire ending.",
+      "event_key": "us agrees continue talks after ceasefire end"
+    }
+  },
+  {
+    "title": "Trump says U.S. and Iran will keep talking but declares ceasefire ‘OVER!’ - The Washington Post",
+    "summary": "Trump says U.S. and Iran will keep talking but declares ceasefire ‘OVER!’ The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUThsQXNEODMyN3d1ajgzLXRkblpvdFFtTzQwOHJyMmpZTWNCaDNFTElLeDJUY05aclE4dEk3REpCYmJwVk04ZzlSU09KQXN4VktucUNnVnc4N2VfNUcwVlNQRE5aYS1XUGFJOVNJZVg0NURLbnI0QjZMX0xZYkU2eTdJZVVHODhQUUpPa0UzMUJfa3hSaERYZE1mVjRVSHhrR05UN09LV09saTlTM0E?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-07-10T16:34:52+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 16:34:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6ec2057689332778975cd79bd5b816e5218a2ca9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Warnings of an assassination plot and a teetering ceasefire signal rising tensions and potential breakdown of restraints.",
-      "event_key": "assassination plot warning ceasefire teeter"
+      "reason": "President declares ceasefire 'over' signaling breakdown and heightened tensions despite ongoing talks.",
+      "event_key": "trump declares ceasefire over"
     }
   },
   {
-    "title": "New airstrikes target Iran after US announced end to strikes - NewsNation",
-    "summary": "New airstrikes target Iran after US announced end to strikes NewsNation",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQXVobXk3T0xQaVlfSlBsa2phR1R4cXJONmdENjVCc1UxRm9vcDhLTjcyWDhIR3RfWjRNbkJlNHBTNFgxckxWNF9jby01NU9Wdk1tSUpucm9zZmc5WkJkeXVJalVLOEdSZTVnNmVVb18wd9IBd0FVX3lxTE85a0M4RGw1YmVtN2NqZW5zNm5QN2JncGJGcE9VRmZTeDJLRnphZTlLUzNZU19pWGxvOWwySHYtdkxyaXdsWUZiQm54VWFGQm0xNXJybEpzX3BqeVc2OXZLa01rTUxJTWRUTEpmWXBfM0h3aTYyNXZZ?oc=5",
-    "source": "NewsNation",
-    "published_at": "2026-07-10T12:37:17+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:37:17 GMT",
+    "title": "Breaking | Trump claims Iran wants to resume talks with US despite ceasefire breaches - South China Morning Post",
+    "summary": "Breaking | Trump claims Iran wants to resume talks with US despite ceasefire breaches South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczdtZG8tUWpNWWxXMXZXQVlUb1hUc2staGoxZkQwdnE3RFRabUljbnY4bWJadjNWQVZhS1BBWXVCZ3Y1QzY4MFJQamhSaVVROHpCRE9mN0JXVUV1UGtPVzBIVnhCVHNtRW0ybFFwQWJ6YVZ6YndyWVNaeXNTdjFBRWU4MTJZMEZuRU1ESlFYQlRfWGN4a0FQVVVXemRuekFxTENLWVVrb1dhNGplWVJOWTBZVFNWUnBMLS130gG7AUFVX3lxTE1zZFFzSDVHNzZ6UmRCY04tVFFTN2JORDN1NW1EWHFWRE8wM01icTFRZWpRTUdQa3phb2RDa1NWLV9kNFFZV1ZkQ3JST1FPLVdlUHpwMWZicmg4elh0TTBUQnhXQTEzMTNGcDRXR1cyN182V24yNm45WU1qMW0tem1POEM3TVREVnozNHF0Y3RyNHRmNkN3YUpBcGhOVVp5dk9JX3ZrM1NYWURDMUZXQThYWDlmQWJQN3I0dFE?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-07-10T15:14:41+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:14:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0c27e940bff360c0d3fdd2c546b2629591124da9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe new airstrikes targeting Iran following a US announcement about strikes ending.",
-      "event_key": "new us airstrikes on iran"
-    }
-  },
-  {
-    "title": "US Says Iran Talks to Continue Despite Hormuz Skirmishes - Military.com",
-    "summary": "US Says Iran Talks to Continue Despite Hormuz Skirmishes Military.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzdyX1QxdWpJR0MxVmM2cnMtTklYODMyenk2dUVCVjl2S0xQdTVhRnNKaVljb3NZOGJZWmNrbVN1dVpSazdiWnhaWHdwOTV2allyMjFPMkZ0R1NaT3VGa3ZuZF92WGlKY1B1RWxyZG9qNjNIek1ESFBINDVYLWt2MFpmZW1ycUww?oc=5",
-    "source": "Military.com",
-    "published_at": "2026-07-10T14:06:32+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 14:06:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0b1bb981f9c5db4404387756878284ad65bf2e8d",
+    "article_id": "454663c2024966609d58a358936f10ceb7b712f4",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "US affirms diplomatic talks will continue despite skirmishes in the Strait of Hormuz.",
-      "event_key": "talks continue despite hormuz skirmishes"
+      "strength": 0.75,
+      "reason": "Iran reportedly seeks to resume talks with the US despite ceasefire breaches.",
+      "event_key": "iran resumes talks with us"
     }
   },
   {
-    "title": "Regional Mediators Are Trying to Save U.S.-Iran Diplomacy - IranWire",
-    "summary": "Regional Mediators Are Trying to Save U.S.-Iran Diplomacy IranWire",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmhHaFNSUHdnQXNFVWdWTXkyQ0o5LVZyLVNkLVB3OGZoZldUaG1wbEpYMl9Hc1JCdGt5eHYtYUpaMktOYkxESjdicG9NeUxwWnpTZmhjSjk5SzRpX094LTUwTzlTNkhhUHNCS1R6akZZR2p5ZUpLbW94cmgybnd4OXZqZG5WczYya2JyMjBJLU5CVnUyMmVB?oc=5",
-    "source": "IranWire",
-    "published_at": "2026-07-10T12:18:48+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:18:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8fc71b3a632d6f7b0256b0af04cc5775c8ff510b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Regional mediators actively working to preserve and revive U.S.-Iran diplomatic talks.",
-      "event_key": "regional mediation effort to save us iran diplomacy"
-    }
-  },
-  {
-    "title": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
-    "summary": "US-Iran escalation threatens oil supply recovery, warns IEA Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUFEYlNEcENmdkw0c3dKQVY3RUMtcjlfWDFFNnYwdEMwRmVwcGVrM0NHQld2SE05eXdSZlBqX1pHMGlVT05TRnpRUXN4NHBnQndvRVRTSzVRQ0djRlVZYkJiVDhxVHNDclJJLWc2UUJqNkpYRVdLbmR0ZDVXbjItcUtPZmxENUJKTGszdWNwZnFfOExZeXpaS19sa1c3aWti0gGmAUFVX3lxTE9DU2tuZkdWVG04LVRUX2JjT1pNWjlRMGxnd3A2SnlScUIya2FZbTFjV3BrY2VpRWFIeG8zRGNCdzlueDJUeV9GbGdpS3dNdE5oQl85VXFYVExLLTA4anpTaEw3bEd3eTlnNmZsWDB4ZExiMjhxcWt1bDBDWVJxRUpxc3ByaDA3elZERHlwbjE3YVNCN3pJUWs4bi1KZFF1blUzV1ljOWc?oc=5",
+    "title": "Trump says US has ‘agreed’ to continue Iran talks but ceasefire ‘over’ - Al Jazeera",
+    "summary": "Trump says US has ‘agreed’ to continue Iran talks but ceasefire ‘over’ Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXZiMzJVWlVmbWIzd1lxckxjbTJQUmxBNjNORmcwVjRuZGNpaUp0ZHZoZDlGQjNFT0pDcHptVTM4U3ZHa2ZJbWZkRFllc081akotdlp0NXBtNU9xa0Y5Zzg0alI0WjF2QVBkQXdqbU5XY0Rtbkc3UHFKMm9OS1NSSndBWnF4N253aUc1U2pXQjh2UGJyVVdEZk8wQnBGQlU0S0I4SXZvbFdJb03SAbABQVVfeXFMT1E4Y084am5wNVJuOWJrVzJ3VlhpS0o3dlNhTngtajJGUThkLUI2NHNqd2ktcjE1ZjdYcktUMDFUWXlWeUZLcUFldEN4WkVFSURVQVJHODV5VUx4WjNhWXUycGVFU2gyaERZaXBFbEZFRzRKMUdnSkJXMXlNZUxmVnV4YVdqMHExbmk5MTNhY3FIV1JMOXZZM0hCYWZJVG11RXZtR19xUlJCaDQxeWVaS08?oc=5",
     "source": "Al Jazeera",
-    "published_at": "2026-07-10T12:27:04+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:27:04 GMT",
+    "published_at": "2026-07-10T16:37:17+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 16:37:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5cf1c28868d68990ab9b8e5fd6cf8ae9265ecd6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Statement says US agreed to continue talks, indicating active diplomatic engagement despite ceasefire ending.",
+      "event_key": "us continue iran talks ceasefire over"
+    }
+  },
+  {
+    "title": "Trump Says US Agrees To Further Talks With Iran, But Warns Cease-Fire Is 'Over' - Radio Free Europe/Radio Liberty",
+    "summary": "Trump Says US Agrees To Further Talks With Iran, But Warns Cease-Fire Is 'Over' Radio Free Europe/Radio Liberty",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVhhRXpYWlRPVGY4MGlLeFFBTVVQUUFEMTRUeE9wc3NwREs0VGRScDRmTFYwX0ZObG5PU19BWFc3dHVFOThVcFQ1Nk85RkQ1Q2RDX2laandJYTlsTFpRbkFaQUUwZUhpLVF3UzhXd20zejlwZ1FNMFdaOW1rUkoyekJSd9IBhgFBVV95cUxQZklWUXp4Qk40WWo1NXV5T0NNVzRzUnBFTVc1SjEwSnU0QVZuM2dKTlFyWk5YWnpJcnFYN29yX1JKem92RXVza3BhdExuWWFESkt4cmVaVjZDMHhKaG42bFZDT2Q0SDlwQTNrMnJBSXJsU0xscXBqVW45Z2xXOGVpUVVNZVNNQQ?oc=5",
+    "source": "Radio Free Europe/Radio Liberty",
+    "published_at": "2026-07-10T15:19:06+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:19:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "73f6bb8fd3be0b2b84a9dcaa25040e8e34d488da",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "US agrees to further talks with Iran, despite warning that the cease-fire is 'over'.",
+      "event_key": "us iran further talks ceasefire warning"
+    }
+  },
+  {
+    "title": "Trump again says Iran ceasefire is over, but US open to talks - Yahoo",
+    "summary": "Trump again says Iran ceasefire is over, but US open to talks Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHd5S2g4Mi1ySi0xalluM2paRExIUFJhcHRwaU1zOWtmZ1dER1VrQWFxSVRXXzlhWWducDljVUNPY1ZhLXZxdk9FbHFmRUo1WUIwQ3R1dmRBRW5OWWI1VEFZSTV4a01icUVoakJ4Y1hBWjJHWmJVQTZmeEptTklkS2RyendKUC1URTE0b3dMR0RmVWJwd2c?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-07-10T15:48:47+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:48:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "98afa55470562cb0717b0a8a2810dd63a37ae9f3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "President says ceasefire is over, signaling a breakdown and rising tensions despite openness to talks.",
+      "event_key": "trump says iran ceasefire over"
+    }
+  },
+  {
+    "title": "Trump claims Iran asked US to continue ‘talks,’ declares ceasefire 'over' - Anadolu Ajansı",
+    "summary": "Trump claims Iran asked US to continue ‘talks,’ declares ceasefire 'over' Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzlPQ2R2bmMxaFN0Y0MyUkx5NHdvblhDa2ZycWVmVk5XRGJ6d1FVeUFteklRTmNNM1RzLUhDRDIwcHBMeFRhR0JVcEtTejVid2NZZVNlaFdTdllaazJ5X3pYd0w5d19iS3plaVJMTVh6VE5sS3JxWDhXYjNXelJuQ0hwYW9JdnFpbkE3OHZ4RHdIMkt5WU5pUGxYYmd4b0ZNMWYyd1pWQV85eHRDeHBmemI2Vzhvd2pZZ1ljUw?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-10T15:11:43+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:11:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0cd774d241047fc2f10e2e47911564faf2879ac5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Reports Iran asked the US to continue talks, indicating active diplomatic engagement despite ceasefire remarks.",
+      "event_key": "iran requested continued talks"
+    }
+  },
+  {
+    "title": "BREAKING: Iran and US are back at the negotiation table! Oil takes a step back, stocks tick up! - XTB.com",
+    "summary": "BREAKING: Iran and US are back at the negotiation table! Oil takes a step back, stocks tick up! XTB.com",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa1V5T0RPM2M2UkJkR0V5NzlvS1czWGxpVjVlUHk3R3lmLV96dzFOSS1fZUpPN1gwaUs0Qm1OQXFOYzNMTXZxZzdzTnBsVTFnNUtvTmhlNENIVFZmdkR3TTExMjQ1bW94TmZDTGQtU2pWTkVMZW5jVVNmaENrWHJISHBLcHhiV3BBZjdtVjU5OUZzTElWODRrZlctQkRHcTNTUFMyZEZPRDJUd2ZSQ1R6RHA4RGJXb3N1QU1zR1FwV3J0SkMxTEdoTEJsUWcxWm1iYXdwV09aZFIyTlJZRTcxak9jRQ?oc=5",
+    "source": "XTB.com",
+    "published_at": "2026-07-10T15:04:54+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:04:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "174ddf2842e8971a4191cb88c6a68ebf0b4b5a64",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Reports Iran and US resumed talks; markets react.",
+      "event_key": "iran us negotiations resume"
+    }
+  },
+  {
+    "title": "The United States and Iran continue negotiating despite the last exchange of attacks - Diari ARA",
+    "summary": "The United States and Iran continue negotiating despite the last exchange of attacks Diari ARA",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnd5S3FIbVo2blQ2UmVXSDJUWW14SWpUTlFRZU50RURhNGtRLTFyTjFiVk5SUTd5d21xMFIzVXJiQXk0RFJaZXNKeVJBSWtGX1lyc1dmTTFUbWdxOTB0RnhTdHFEMTB4N3oxUkFDOW9qVHg2dldzR3o1UW4wX0hTSDVqSEJvTjJzaF9Hc25WVmJMWTlfX0ZzWmdNaW10WHJSVjJNejdJbTJNc2RpVUJIRHRJLWpCNDE5YTZtSkZYMUhBOUhCTUlNUWk4QXnSAdIBQVVfeXFMTlVJQXo3dGxkTi1YbmduOTU4RmxjTDFydzdvbUk2cmdEYVF0WVZiYmZVeUJ4b2t6TlpCRXBaVUZpdUlxa0VMZVlGZnNxNkJOc2M0WW52LTI0eVNJYWFtcUlBbkd6bE0wVDRqUmRuaWw4UjNtaDlFX1d3VUZMdnFrWGQ3ZGM3M2t3UHZXTTBtQnE5MWk5eTlReGkzaGxKUDJJdFZQVDZXc3g2SkhBWjdtYk9lcENnOU1Vel90NnlTcDFvWlIyNE5GMTk5dDlaRHlHS2Z3?oc=5",
+    "source": "Diari ARA",
+    "published_at": "2026-07-10T16:00:58+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 16:00:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0f49b3919267b933ef9ba27b1b5895b9f70815cb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Ongoing diplomatic talks between the US and Iran continue despite recent attacks.",
+      "event_key": "us iran negotiations continue"
+    }
+  },
+  {
+    "title": "Iran has asked to continue talks and the US agreed, Trump says - Reuters",
+    "summary": "Iran has asked to continue talks and the US agreed, Trump says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUtqQnRSYkhpd2ZXamR3RVhpdVVWaWIwVFc4RGRNT2xzaUpaNEdkOENLbHN0SUU3Yzd3ZXZsT3k3WFhEcEpOZWZFbEhYSXFJbGpiYlpsRnp2MTAwc09DLThKOU1meXJBS0l1SXhyUHhGZmhUR0R4VFBjeG9lVUVGN1Jnd2RaQllDTC1EQnlNTEZEQzdqNFhkSE1CYTNYZk5KVTdlSm9iUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-10T14:46:28+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 14:46:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "49b07dd839dbda51adaf519122645b2369afbe83",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Reports Iran requested continued talks and US agreed—ongoing diplomatic engagement.",
+      "event_key": "iran us continue talks"
+    }
+  },
+  {
+    "title": "Iran has asked to continue talks and the US agreed, Trump says - Al-Monitor",
+    "summary": "Iran has asked to continue talks and the US agreed, Trump says Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVE2RjdjSWNOMVBBeGxPRWRKOEFRRW9zNUYxQzR5Q1lpUmFzbHZsM3pNOUFzVnFKd003WGJ2eVl0YjRNN1kwS3hrY0kwbnQ3UEwtdll1ekxpcW1mS0luMF9VM1pMaU9xVXBUYjM3aUx0WmdJWTZpUUtsRmlNZG92dzJpVkNneWlFWmlCdlpXbTJWRm9LcVZsMjZ4VHpJNUxU?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-07-10T14:39:03+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 14:39:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a0611419624999f7ed8ac81d2cab04dd99f805b8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran requested to continue talks and the US agreed, indicating active diplomatic engagement.",
+      "event_key": "iran us continue talks agreement"
+    }
+  },
+  {
+    "title": "Trump says Iran asked to resume talks as US-Iran ceasefire declared over - Ynetnews",
+    "summary": "Trump says Iran asked to resume talks as US-Iran ceasefire declared over Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PRDdkcHJjMFRJTWlPUzE0c3dRUjNLd0hrVXNHbTRXbzQwVGpnWHhreGUxb2ZrckRxWi16b2s1SWQyckdRSkxwRV9Gb3huR1pubDh1WmF3?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-07-10T15:15:25+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:15:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec6cf3a650bf3e89d05fa71e4ed43a0fdd618d40",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran asked to resume talks, indicating active diplomatic engagement despite ceasefire being declared over.",
+      "event_key": "iran asks resume talks"
+    }
+  },
+  {
+    "title": "US says door to diplomacy with Iran remains open but warns of accountability for violations - Anadolu Ajansı",
+    "summary": "US says door to diplomacy with Iran remains open but warns of accountability for violations Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekFTSUFOcFpNb2FNMFdJNlRURzN6eTg3ZFFVSk94TUFwTy15OGRWUm9VTXptWEZmTVUtWmx2bnNyd2wzT08taGtGS3h4cERpSzdEQ2JXQmJtMHlCQzV4NlplSl9Oa2d2YUJiUVl0TVBfUmJuYXN2aWdWZjZ6WkpiWFg4czZyU2UtaGlTbjFGRjluY3FBTkx3dHdlWmdjWml3dkVqQmE2TEdLN0xsb2poTWdRMkVBaFViUXJPUEdFMGdkT2FtaGJqeTB1NFk5dw?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-10T15:45:49+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:45:49 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f4dce8921baa39cb4e271125e3f6fce1a60dbe08",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "IEA warning links deteriorating US–Iran tensions to risks for oil supply, indicating rising conflict threat.",
-      "event_key": "iea warns us iran escalation threatens oil supply"
-    }
-  },
-  {
-    "title": "U.S.-Iran tensions remain high after days of exchanging strikes - NBC News",
-    "summary": "U.S.-Iran tensions remain high after days of exchanging strikes NBC News",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWlV2Yk1aWjFZall4cFh3Nk9DRXJBczlRLXI4dGk5SWtDZXdxVVU3eE5QeHNnWW90NWJzeEhYYzEwdnFtcVVoMzBIWnpYblA1a3RlTkM2S1BwNWd3Wl93empzeWhZclhvQXVSZ3YtNks4YTFhVklIdW9ZUmdtWEpPUmVpbzRMWml3WUN5ZlVUaUtRRldJX2VYYlE1UFcxcnBvN21oWVFDaGpOMXBqNnc?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-07-10T13:49:08+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 13:49:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "adfbda83114f1a8d8e923b03d88dfbac23b9ca58",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Article describes days of exchanging strikes between the U.S. and Iran, indicating direct military action/retaliation.",
-      "event_key": "us iran strike exchange"
-    }
-  },
-  {
-    "title": "Today’s News: Iran Strikes Expand and ICE Investigation Faces Scrutiny - U.S. News & World Report",
-    "summary": "Today’s News: Iran Strikes Expand and ICE Investigation Faces Scrutiny U.S. News & World Report",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPak9ORFhJeUhER01MUkdONUJ4alNBY1l3a1dOTTloa0lSbmRnVlpldk16S2dJaHRvdDVsa0ZPNzRUQlM5Q0dUR3NKZTBpTVROcGVFZnVRczVGeTZtNnBWWVNOU3hiT2E3VlBKWFRBNmd6UHhodVlLMnpGT3ZqaEQxMGgtN3BmclJSMHlzYmV4dzlIZ3Ffa2JBaG5vZXZETnd5MzhBT0NMTXoyVldPakdyUG1heUctbkE1QVN1U1lMckhnZGNYaEtnOFVLRXU1ZFk?oc=5",
-    "source": "U.S. News & World Report",
-    "published_at": "2026-07-10T13:25:10+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 13:25:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fcd17b141d288a913c21d57b6c9f1becdfb11985",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Headline reports expansion of Iranian strikes—indicates active military attacks or retaliatory strikes.",
-      "event_key": "iran strikes expand"
-    }
-  },
-  {
-    "title": "30 Iranian Fishing Boats Destroyed in U.S. Coastal Attacks - IranWire",
-    "summary": "30 Iranian Fishing Boats Destroyed in U.S. Coastal Attacks IranWire",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFBuWkJWWVcwNXIxUVN1WE8yMEtQcWtQWVhudlJyVVp2SnpTSHEzeF9tTGJTazBNMGpKRFhTZzQzZGlhWDVRMVhIYVEyYXg1SzZ4WXlXbVpMRHAza3czb3RUQ2puY2pjZGN3NGktWVJWQzZjRG9mZURwQkxFM1l6T2ZNSlN2NXc1eWk2bzM3d283TGg3aGxDZw?oc=5",
-    "source": "IranWire",
-    "published_at": "2026-07-10T12:18:48+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:18:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "268b67919dc0acb2f193cf25312b9aba5bc0b27c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "U.S. coastal attacks reportedly destroyed 30 Iranian fishing boats—direct military strikes on Iranian maritime assets.",
-      "event_key": "us coastal strikes on iranian fishing boats"
-    }
-  },
-  {
-    "title": "Iranian Official Threatens Israel Will Be Targeted If US Strikes On Infrastructure Continue - i24NEWS",
-    "summary": "Iranian Official Threatens Israel Will Be Targeted If US Strikes On Infrastructure Continue i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMVVCbERWUXJwTnROTi1HVHBRTDZmNnJSVzNqdEtTT3VwTG1GTmNnTG14SzI5bjFmbGk1SWQweUowVVBPbjZUQmVmVnBjbHVtR21kVmR2TVZvT3NuWDh6OENfZEd0ZFRka1FzNzNyV3dyc2J3NWxnSW9ySUUzWXJiSEpZUndMcnB5NEhSRkRfU0s2b2FvWkdjRmVPdTljSWQ0aF9NWnJBU2RPVWJJU0VaMnIxMUZzd3h4SkNIZ2tBWHpQOVNWaGd3R0FGRUhnM3JuM25XUjhn?oc=5",
-    "source": "i24NEWS",
-    "published_at": "2026-07-10T12:48:34+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:48:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6e404e909bbb07ecd06fefb610dcbb2d45a2ddf9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian official issues direct threat of targeting Israel in response to US strikes, indicating rising tensions.",
-      "event_key": "iran threat target israel over us strikes"
-    }
-  },
-  {
-    "title": "Qatari negotiators in Iran for talks to de-escalate US-Iran tensions, source says - Al Arabiya English",
-    "summary": "Qatari negotiators in Iran for talks to de-escalate US-Iran tensions, source says Al Arabiya English",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3MxTDZVREFqOEZZQzVkdW52UThOZmR4WlhicXQ1d2FBWVdGUDB4MmtYRGN6ZTVXekdEdnFWZ3dsUU01SGNtZnZlYW5RSVJPWTRUdmVjeWNPa2JXb3VGM1pvVVFNdnI0cHN4ZExSVFpZSXk0WGJyM0lVM1dGOU9rMnVNVHJ5MVE5bVZHZEFfTlUxd1gtNm5UWXc4X3c5aTMyOWh4TDNHYjN2UlZfT2Jxc1ZfSkZGZ2FDYlZqRWtOMUZFY2NMclB0N3ZWc3JNOHYwbnfSAdcBQVVfeXFMUFE5ZEdPbVNpeFJ6Um5aWGdpUmlVTnRTUDIyWWZxSzc5S0xZaU5IVUd1ZklKN1ZMMGFWRjBYUHVsVklWSEtNd1ZqZzExSEhybEl4QXgtZUcyV0l6QmlnRzhCRnM3anRVM2JtTmFPb0EyYUdtcW52N29oeTVXemU2dV9RT29PdDFOSW55MmtrODg3U25uNVdwQ2hic2JpbEtHenBOVV8xNkM1UXdZVi1oYmNkVGJ5dVVoM2gtRnJIckQycm80ajZDTHZKZmxwQmZ1WWhXMkJHNk0?oc=5",
-    "source": "Al Arabiya English",
-    "published_at": "2026-07-10T12:23:00+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 12:23:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5e05829f087c82697d7df41231d275842244c7a7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Qatari negotiators in Iran conducting mediation talks to de-escalate US-Iran tensions.",
-      "event_key": "qatar negotiators deescalation talks iran"
-    }
-  },
-  {
-    "title": "Qatari negotiators in Iran to de-escalate tensions after fresh US-Iran escalation - WION",
-    "summary": "Qatari negotiators in Iran to de-escalate tensions after fresh US-Iran escalation WION",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVFKVWxtbjNkRGtHRXRQbTU1WmJfc0NRSXJaRmxRZXljMWN1SHpyM0VXSXVzMHQ5YVVhcklBQy1lN1JsQVZwUG10LXBKUlJhb015cjdLUzFDblY2XzhVVlNCMFhub3h1SVppMjdHOVg0T3NYOWVxTE44MUMwSkxPMEdFX2J6S1RWeDlzSEZlTDg2bTNmMkxkcVl4VktQU3RxVmZjbWRPRDZTSEpVRE1JdWVCVndVTldwekYtYWQ3eFJnWGPSAcgBQVVfeXFMTnVzZUxCRjlxVFdscFdpMThpNjU2d2ZOQWxEcU9ZaHkwRGhzUW9oeU93Xy1mSEpkQXdYZGtOZzhvZjVYczhJTjV4RHZDRkI2S041S1hDVjh5VHJQN2RZd2VDSFRBSlhtc3J0bWFvdnZuVTRxcDRRVm5tS0o2YjNWZ2pLUUN1TkhYZDVOQ2d2akxHczkxeDIxVmJ2TmJfTnpjdW9FcU5fLVlTZk5aQ3NTbW1LWkhrbVpRR0RUMXNxS3Exa1hSODQyRW0?oc=5",
-    "source": "WION",
-    "published_at": "2026-07-10T13:23:00+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 13:23:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "29696e477e9a4520c4326be1bcb7543380ea45ab",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Qatari negotiators are in Iran to de-escalate tensions after a recent US-Iran escalation — active diplomatic mediation.",
-      "event_key": "qatar negotiators iran deescalation"
-    }
-  },
-  {
-    "title": "WTI price holds near $72 as US-Iran talks offset Hormuz supply risks - FXStreet",
-    "summary": "WTI price holds near $72 as US-Iran talks offset Hormuz supply risks FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckpDYTNKWXhKWjVmUnhHZ3lEcnBRTWxHMTdwLUhENHh3NWdvenhMbWlqVURfcHN4X1NGa25EY3JYUmliaVQxRDFPT2dxSFY1VHY5QjlIenB5S3dWXzlqVDRJSkFxMjN1U3d6RmNqRHZPTWxpODdDZXh4SGlhMnNHbWwyVVUxZFZiQno2aF8xdk9qVmdJbXVtUTc5SlQwb3B4NExRcXlTX2xEbldEQjJoelVZY2RsNUhMekdjeQ?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-07-10T13:23:34+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 13:23:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "18fb7e66125d802739455b4073bdcbca5ac69af2",
+    "article_id": "9f3f3f60bfe364d3baa9849aa457ddca0577e521",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Oil-market report saying US-Iran talks ease Hormuz supply fears, a calming signal rather than formal ceasefire or direct strike.",
-      "event_key": "us iran talks offset hormuz risks"
+      "reason": "US signals willingness to engage diplomatically while warning of consequences for violations.",
+      "event_key": "us door open to diplomacy warning accountability"
+    }
+  },
+  {
+    "title": "US says it still prefers diplomacy with Iran despite tensions - Amu TV",
+    "summary": "US says it still prefers diplomacy with Iran despite tensions Amu TV",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBEb1h5dWJVZlF0VWhQNmVfdmgtRXFEWVVDeE1qMTY2cXdvUEZtWDN2NU53eXA0ODQwb2c?oc=5",
+    "source": "Amu TV",
+    "published_at": "2026-07-10T15:13:16+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:13:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "36c9c25162a91133c588e82922f1b705eb4f736e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "US expresses preference for diplomacy and restraint amid tensions, implying calming intent rather than active talks.",
+      "event_key": "us prefers diplomacy with iran"
+    }
+  },
+  {
+    "title": "U.S.-Iran tensions escalate after strikes, retaliation and collapse of key agreement - cbs19.tv",
+    "summary": "U.S.-Iran tensions escalate after strikes, retaliation and collapse of key agreement cbs19.tv",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdnRWUEV4SDB5U3lOSDZWRjdMM3drWXdSQ3Z5c29oM3hPNU9rc0hFYVhYVTd1Yi1wMWxwSHdJSHFUQU5YTWp2MW9nTzVVQzVyaml6YzN0TzRxYmJuVndOb2ZmYnI1eDFVRkFEMEpTbnZOX2xaczJUT1doR0R1OC0wNHhlRHZqLUlHQWctR0k3NGk4MExRM0RJLUkxSFBvNnNPVzJJX21DaFppMVk4UVE5QmRCek9jUGgtOVFiN0JCMFNPeGp5bU9YdE5tVG1qT2doTGFJbFUxQktibjUtcldzV3BHa1lwMDBOQmRUSGtpMkNKQQ?oc=5",
+    "source": "cbs19.tv",
+    "published_at": "2026-07-10T15:41:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c1ecb6d12d81697ca9139d98e9cb7b761ce6e48a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Strikes, retaliation and collapse of a key agreement indicate rising tensions and breakdown of diplomacy.",
+      "event_key": "tensions escalate after strikes and agreement collapse"
+    }
+  },
+  {
+    "title": "Iran condemns fresh US strikes, warns of retaliation while pursuing regional diplomacy - Tehran Times",
+    "summary": "Iran condemns fresh US strikes, warns of retaliation while pursuing regional diplomacy Tehran Times",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUNvQlA4SmxjUEI3MW8tLTVIa01PT29FaklHM2JjbEJrTHFuS1V5anhLMXpRQlJfaVB3Q2N6N0xrdkpqZ0xpaExhVWN4SzF3QmNIZnktNnFJeGJXNHp2a0xrd1NVRFNBdkk0RElreVFHOFRrYW9GZ1BIZW1JUUdHU2dCMWRXeVRabFdUS2V4Y1ZvaW9lYnJOaEpEdFRya0xtZ28zOHhqdnNzQQ?oc=5",
+    "source": "Tehran Times",
+    "published_at": "2026-07-10T16:19:55+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 16:19:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "be08d1c2cd5e0fd253c7b5d87d8123adbc719368",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.75,
+      "reason": "Reports US conducted strikes and Iran condemns them, warning retaliation—direct military action with imminent threat.",
+      "event_key": "us strikes iran warns retaliation"
+    }
+  },
+  {
+    "title": "Two Days of U.S. Strikes in Iran Signal a Sharp Escalation - The New York Times",
+    "summary": "Two Days of U.S. Strikes in Iran Signal a Sharp Escalation The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-07-10T15:05:23+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 15:05:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cc86291c6fc31f7a898629602b07d6fc9a218c11",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports direct U.S. strikes in Iran, constituting military attacks/retaliation and signaling escalation.",
+      "event_key": "us strikes in iran two days"
     }
   }
 ]
