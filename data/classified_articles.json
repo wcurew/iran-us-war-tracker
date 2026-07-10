@@ -1,70 +1,172 @@
 [
   {
-    "title": "Gas prices climbing again as U.S.-Iran tensions flare - CBS News",
-    "summary": "Gas prices climbing again as U.S.-Iran tensions flare CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhUER1THc0c2ZRcDIwTm5Hc2cxbGhETkVVTUhpR0pOQVNuci1TUXRPYVRiamdQV2dWUzB2dExMU2xEQUhSeUZQRTVhb2ZONG1IQnNXRlBScmVSZVF1czBwNzNaam0xTGVG?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-07-10T17:27:00+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 17:27:00 GMT",
+    "title": "What does Iran stand to lose if the ceasefire with the U.S. collapses? - NPR",
+    "summary": "What does Iran stand to lose if the ceasefire with the U.S. collapses? NPR",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3RBbXBHSzRrcXZCUm5mSGNPa1ROSFZZYzhLb2x5dDY5MXlOV2F6VzNVR0MwcHFzckxRaDF2ZWw1TlVDZE1FcG53bXd5cEZZNjlGWl9Fd005NHIzNTBocnVWcEMwVlExSjVVc0l6VVBzdEp4Z0tBNzhLVWQ3RjFnamVpeXhLZUExSTQtVmxvSnBTZ3FIT0xrZG9xN3U3bnE1enA5WktuMVFRRkN4aGp1SU9oMA?oc=5",
+    "source": "NPR",
+    "published_at": "2026-07-10T20:27:28+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 20:27:28 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d89a6c732f431b7a830163b53f56a5bf445067d7",
+    "article_id": "6bdc82a721799f6012ea116ae030739b7e1ec14b",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.3,
-      "reason": "Focuses on gas prices and market effects, not direct Iran‑US diplomatic or military developments.",
-      "event_key": "gas prices tensions"
+      "label": "ceasefire",
+      "strength": 0.75,
+      "reason": "Analyzes risks and consequences tied to an existing Iran–U.S. ceasefire potentially collapsing.",
+      "event_key": "iran us ceasefire collapse"
     }
   },
   {
-    "title": "Trump stated that the U.S. has agreed to continue negotiations with Iran; U.S. media reported that a new round of talks could take place next week, while Iranian media denied the claim. - 富途牛牛",
-    "summary": "Trump stated that the U.S. has agreed to continue negotiations with Iran; U.S. media reported that a new round of talks could take place next week, while Iranian media denied the claim. 富途牛牛",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0NGQjA1dm41TE5ueHFEd0FNY0M1S3U2aHVhUFNUdTJPMXRNdUJfMWJvNUZja283ekprbGxWazBDZ1hGNXNNekFGdnlLdGdiM1d5ek5MNUJmUUNXUTVBajJaTEJld0tiS0VMVnVRajhGQkhYUFFodGEyZnd0el9KSGF4SkFMN1Y0bFZiaFhWVzNDZW9Ec0t0X2p2bWswVUxaWnZZ?oc=5",
-    "source": "富途牛牛",
-    "published_at": "2026-07-10T18:21:46+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 18:21:46 GMT",
+    "title": "Trump: U.S. agreed to continue Iran talks, but ceasefire is over - Honolulu Star-Advertiser",
+    "summary": "Trump: U.S. agreed to continue Iran talks, but ceasefire is over Honolulu Star-Advertiser",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa25LR1NWUlIxZTYwU093ZW83TUJkeU8yWGluaC13RDV2MnlfeU1OUkpXY2V5VnRKR2NtaGN4TEtNSHh4TkFpaW54aVZXNTlwZm96dnF3WTRFTGtsOUJvSFVxOGxwT0w1YjhfaVU4RF9VZWZSdGNIejRUYURqWkRpS0tSVUcyMTVjTnRTWlV0Tk9QLXpaUFVWS0hVVEwxVjFBbWYtaFQ1eVZiRGRWc2piaXZaT1U5UGs4cHc?oc=5",
+    "source": "Honolulu Star-Advertiser",
+    "published_at": "2026-07-10T19:51:49+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 19:51:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "341e774c21162ea325d705f13b8a341306d414dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "President announced the ceasefire is over despite talks continuing, signaling a breakdown and heightened tensions.",
+      "event_key": "ceasefire ended talks continue"
+    }
+  },
+  {
+    "title": "US declares end of Iran truce as diplomacy collides with retaliation threats - ایران اینترنشنال",
+    "summary": "US declares end of Iran truce as diplomacy collides with retaliation threats ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qNDQxTzFqTFFOeEVFSnJVS2tsTUl3YWh5SkM4SnZtWW9VYnJrRWx3QTBsdGRzV3VSU21JcldXYzRVUE1NUkVka21idTBEX1RVREE?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-07-10T21:00:19+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 21:00:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f1636d090c63a7f0bf7fe2aec35e528e53caf4a0",
+    "article_id": "6fa6e4e6e8bc86e21fd04bac48e7c6981d4778b8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US declared end of truce and diplomacy is colliding with retaliation threats, signaling rising tensions.",
+      "event_key": "us declares end of truce"
+    }
+  },
+  {
+    "title": "U.S.-Iran Talks May Continue, but the Cease-Fire Is Over - Foreign Policy",
+    "summary": "U.S.-Iran Talks May Continue, but the Cease-Fire Is Over Foreign Policy",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3hKR3drdnRhWGcza3hLeVlqMWtMbDNuVnBnbmxRVC1fZ3V1c1k3eVJadHZuZmUtOF9PRi1BZC1pUUdlSXZscmtuV3oxVDBmUi0zdTZlWTZZNER1OTFIdmpfTnVqMDlIbGV4SWI3dDBnYWg2M3BDdERac1UzNUI2aVhWXzBmV2pyTVNadlY4LVdsMFJRNDZHSy1iNkExRkhOSi1ycA?oc=5",
+    "source": "Foreign Policy",
+    "published_at": "2026-07-10T19:58:18+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 19:58:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a5bbcc909825dc67de5caa75bf16acc89d501f1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "Article says the cease-fire has ended, signaling rising tensions despite talks possibly continuing.",
+      "event_key": "ceasefire over and talks continue"
+    }
+  },
+  {
+    "title": "US President Donald Trump has announced new talks with Iran while stating the ceasefire is officially over. - facebook.com",
+    "summary": "US President Donald Trump has announced new talks with Iran while stating the ceasefire is officially over. facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDdTSVNHUzFYTE5kMzcwOTR6RDZjendfdlRnX1dSWDBndVNjUUJtUzVuOTM1cW5UQlBvbGNDYXhkbVB5Q3VaV0djUnJrU2kxdHJJZkpDQXZlYldQT29RaTMzcHB5a0ZQUVA3OGdaVUcwX3RCV0x5cnNpZHVHMmNDTVdYRWdVNXRQcmtXbzAzbGZ6NEgzOEloM3FidUpkMFJ6eHBWdndSekJOS1RuUC03cVNQc1BNdXhEREtaMU9rYWVoc1BNcHJ4YUI5NVJrRm84ZE05VnN3WEpCb0FsbkRB?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-07-10T20:29:09+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 20:29:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "192a45ec4771344322227878625439d14925d2dc",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Reports claim the US agreed to continue talks and a new round may occur; Iran denies the report.",
-      "event_key": "us iran negotiations continuation claims"
+      "strength": 0.45,
+      "reason": "Announces new talks with Iran, though mentions ceasefire ended—diplomatic engagement is primary.",
+      "event_key": "trump announces new talks with iran"
     }
   },
   {
-    "title": "Feared for years, an Iranian attack on U.S. soil has not materialized. Here’s why. - The Christian Science Monitor",
-    "summary": "Feared for years, an Iranian attack on U.S. soil has not materialized. Here’s why. The Christian Science Monitor",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uWXpnd2xTeHlyU1F1azFvZ0VLa2tPVGxRSUpJOHlJMm42OGMwYTl4UXNSc3BXZC1EUDVKakNPWm1yYlJRQjRJYklBRFNscUl4ZHN4VU1Icm5GMjlrY1pWUVVEOXhzZmZLM2lvUUpiQVliX0dMaWdPNDdLcW1zZ9IBlwFBVV95cUxNaTVpdlVsYmZHeE5YQnl3emYtbG1xZWhZTjF6YWtOWGRGVE5RZS1OTzc1VFNneTNUSWQyTnNoWGFLSWVwUnYzSUN5SDE3WVlYcXVGTDFzM01xU0RKcm5uR1BmMlJocFVUU01DMTFWcUtqZnkyeF9lVFd3UjBsa0pIcHdUZWFUcS1mVlU0a3VTb3MxVXRfWFJR?oc=5",
-    "source": "The Christian Science Monitor",
-    "published_at": "2026-07-10T17:22:55+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 17:22:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6581a381aca8f115d15cbc2b301306e65af75175",
+    "title": "Trump Says Ceasefire Is Still Over, Even After U.S. Agreed To Continue Talks With Iran— What's Next? - Forbes",
+    "summary": "Trump Says Ceasefire Is Still Over, Even After U.S. Agreed To Continue Talks With Iran— What's Next? Forbes",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbTJXUWFaN0tRQWpBYlJ0WE0yeHI2X0RXS2hUZlRkZUxUSEtpakU0bm1IWmtxT3E5d3ZNdmctejctRS1iaHRHSVRsMzBlMFJkRlU3ajBwbW5PdWlURklhRklQekI5bjJyd2NUcjkzZXl6dEhma1ZTRnMybTk5blo1Q1hoMUd4UUhieGExTXVCMXlDTEtNNEZIRWdXSWRMNWNLOElGbVltUDEwX0cxcFNienlOR0NPTWxyXy0xVmlsVXhSNGNMaGpIekR3TDZDb2FrMDA1cXkybzdBQVd0c2c?oc=5",
+    "source": "Forbes",
+    "published_at": "2026-07-10T21:04:14+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 21:04:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "34bb5adcaa8ed7c416adf4a40ac057d29342bdd8",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Explainer on why Iran has not attacked US, stressing restraint and deterrence rather than active strikes or talks.",
-      "event_key": "iran no attack on us explainer"
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "U.S. agreed to continue talks with Iran—active diplomatic engagement despite Trump's claim about the ceasefire.",
+      "event_key": "us iran talks continue"
     }
   },
   {
-    "title": "U.S. forces sharply ramped up their attacks against Iran this week, hitting more than 170 Iranian military targets on Tuesday and Wednesday, the Pentagon said. It was one of the most intense rounds of strikes since the war began more than four months ago. - facebook.com",
-    "summary": "U.S. forces sharply ramped up their attacks against Iran this week, hitting more than 170 Iranian military targets on Tuesday and Wednesday, the Pentagon said. It was one of the most intense rounds of strikes since the war began more than four months ago. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWVyaFFZTUh4WVhXdVFqM21pWTV3Rnl3NHY5UU1hY3hzTEFvM09PN0h2c19wTkVQTjBMdk9Lak1ncmxPUW94OWcxT3RfODRFTUhZQXdHWnRWSGQyWU9sMnNabjg2cVdxVUpUc1ljX0JjQ2h1RktrLXNJR0pyUHZVTjdKV3JmZEhXX281RHJ2c0tuRk1Ubmk3anpZT09wQzBnX3lPY0Z4MU5SOFhDb0E4c3lPWkVxZ0VuYUpRa01vaktwaW0zSDVfamZnMDJZUHhSU3Rr?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-07-10T18:55:04+00:00",
-    "raw_pub_date": "Fri, 10 Jul 2026 18:55:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "44e803ad084bf8bc502b9a87d2f446628d22d5cf",
+    "title": "US-Iran Diplomacy Treads on Increasingly Precarious Ground - Energy Intelligence",
+    "summary": "US-Iran Diplomacy Treads on Increasingly Precarious Ground Energy Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFZ0hQV0xROTN6QVY0bjh3RmR3MmRJeFQ3T1FjUmJkR0NQcDZLVmRuc0V4b0NjMzZXRmpZemFqWFpSbHFIUlc5RzloZGZnVk0tTWREWW5veS1WZjZPMjdiYWFKSzFxd193NUpEc1lTSE9WZw?oc=5",
+    "source": "Energy Intelligence",
+    "published_at": "2026-07-10T21:07:05+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 21:07:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e73c60f2299d1ba424c25093796a0473785f33e3",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "US conducted intense direct strikes on 170+ Iranian military targets over two days.",
-      "event_key": "us strikes iran 170 targets"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Describes diplomacy deteriorating and rising tensions between the US and Iran.",
+      "event_key": "diplomacy deterioration"
+    }
+  },
+  {
+    "title": "Iran Warns Israel It Will Be Included In Any Retaliation Over US Infrastructure Strikes: 16 Sources (West Asian: 6) - NewsCord",
+    "summary": "Iran Warns Israel It Will Be Included In Any Retaliation Over US Infrastructure Strikes: 16 Sources (West Asian: 6) NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUzN3SHU1RFRDZFFkUVRQMm1VUzlLNE9uRVppZjF0QXBFaXpPSUxQa3lsQ1Fual9zWkw0azhzemJ1R2R1dHlsR0dDMEdBdm1EcHNfLXdyanU2cVB2UDRlOWZGa2RLZU1KTHJVbkdUemJDNEhaWmo1QVNjRklnRjlzNnRyRXc1Z3drc0NPMThERW15YzR0ZGRRSDBKeER0bFVjeU94My1KRkY3NGFmY1Y2aWg1MzNvT1dDdnNSWnlMSndTNDNBWHlqdFdrZngyVmpQTzY0MG5wZklXb3ZyRTByOTRKNkVPaVEz?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-07-10T21:12:10+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 21:12:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f6da50a7af4c3c9e2259e055c995f902ab7936f8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.78,
+      "reason": "Iran issuing threats to include Israel in retaliatory response raises tensions and signals escalation.",
+      "event_key": "iran warns include israel in retaliation over us strikes"
+    }
+  },
+  {
+    "title": "Satellite images show Iran may be rebuilding nuclear and missile sites damaged in US-Israeli strikes: Report - WION",
+    "summary": "Satellite images show Iran may be rebuilding nuclear and missile sites damaged in US-Israeli strikes: Report WION",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQczAyRDlZZ25BaXZRZDJCZmRhR2lIeUpaUXpRWHlpdTdhVEpGWUNTdy1EVENYYnBsU3BsdnJ2TnBnY1pBcXNqSFF4OVU0Q0dXWU5XcVpLZk82MkNxZjhjSmRreTFwVDZwalhxZ2R3X3c5OEhyNl9UYnVudFhTempSVkQwRDdmaXJ2eUlIWE9xdXdlSDVxclZPQnIzUnpsRTdRZVU4SW9XV3JhSUZFSUU5NUVIUUpCMFQtb1czRmNwWmQ0VUlzdWp0dHhCTTNnb0NYajd0OTZ1aTY0SzZQZWJ5UHFzYlJXZ9IB6wFBVV95cUxNWE83WGVXR3BaUkMtbFVXLWxKX0hvdHptRTJmRFVEenpEeVdBUDYwMDdNVWZKcWlmZGNvUkdsVm9SbFVSV1p1bDMxcnF1bTUwUHZkXzF2amdPN3VvZXdHeXRhREN4ZnZkZ0tIUGhwc2lnYlNWWlRwSE14MzRwMWpmS1c5ZVItNGY5NV8yRVdyS0E4VmxFNU5lbHJ6LVZkbWt6T1l0THpjSU5HZU82SlkzU2ozck9DRkFDdHh5bUtnWnRxMHhMR1FQalRTTndVY3ZrZ2hYaGxfVHROUDh0MXJ3RkgwbEJxdU95cDRr?oc=5",
+    "source": "WION",
+    "published_at": "2026-07-10T21:15:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 21:15:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "864a7e839e4f6a87770218f8bbed86b4ef117f3d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "Rebuilding nuclear and missile sites damaged by US-Israeli strikes signals continued tensions and potential military escalation.",
+      "event_key": "iran rebuilds nuclear missile sites after strikes"
+    }
+  },
+  {
+    "title": "Satellite images show Iran rebuilding nuclear and missile sites despite US agreement - Israel National News",
+    "summary": "Satellite images show Iran rebuilding nuclear and missile sites despite US agreement Israel National News",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iQW1xMGlqM0tVaUQ5SktaYXFaY0c3VXZET09RcXNFbHBiVmVTNVVkTGhVbWtPX01RMGtzbTdGYUlVdWJNZjZPc0xJc0lVa19XdDMxS1d3TXdUZw?oc=5",
+    "source": "Israel National News",
+    "published_at": "2026-07-10T20:31:00+00:00",
+    "raw_pub_date": "Fri, 10 Jul 2026 20:31:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "95a87bd54455b0792fc4089acd799f2fd6d3f9c5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Satellite imagery shows Iran rebuilding nuclear and missile sites despite US agreement, indicating rising tensions and breakdown of commitments.",
+      "event_key": "iran rebuilding nuclear missile sites despite us agreement"
     }
   }
 ]
