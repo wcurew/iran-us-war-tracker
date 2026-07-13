@@ -1,104 +1,70 @@
 [
   {
-    "title": "US sea drones strike Iran naval base, first combat deployment - Crypto Briefing",
-    "summary": "US sea drones strike Iran naval base, first combat deployment Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3YzVmNkN096SlNxZnJQY3A4OUt0Zmk4SkF6Y0s4UGpqd0RmY2VrVDRNekQwaWFaSHpPLTJRTktMSEdBNDVWOUUzY1ZRYXFNSEhnVEc0MnVicU1oMThNc3ZldDNuT2lQcUk0R1hLR0MySFJmSjFfdUI0Q1czOFhISEpabnBOWm1ZWmFSVFlkRXBidw?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-13T14:58:07+00:00",
-    "raw_pub_date": "Mon, 13 Jul 2026 14:58:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9e17435538d2ed6a766107d12b4c5ae1ba9fe95c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct US sea drone strike on an Iranian naval base, a combat military attack.",
-      "event_key": "us sea drones strike iran naval base"
-    }
-  },
-  {
-    "title": "Oil climbs after US strikes Iran, Trump vows to control Strait of Hormuz - Al-Monitor",
-    "summary": "Oil climbs after US strikes Iran, Trump vows to control Strait of Hormuz Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTENNRGZ0NWhmamxYZEdSaUNKSXlNdkJwT1kyZm8zWG9xd0VpcmtEYnhSa055YkNyX0RUSW9EazcxTm4tQ0haZy15amhFR04yQV92eXQyLWtxT0tFbXAtTkpvOW9lU2U3elAzOUtUenpaODBKY3Jybnp0ekJjTmttenpQMVZuUC1nS3NnZElhdjFPMmdlVUY4UVdHMFBYRlQ0N3R5T0xzdlo0NURFdnY0?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-13T15:03:21+00:00",
-    "raw_pub_date": "Mon, 13 Jul 2026 15:03:21 GMT",
+    "title": "VIDEO: 3 Lethal U.S. Drones Attack Iranian Sub, Port Facility - USNI News",
+    "summary": "VIDEO: 3 Lethal U.S. Drones Attack Iranian Sub, Port Facility USNI News",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSk8xTExSNEVaakU0aldKUnJBZ0JtcHVROC1IYTh6QURpRG9UUk0wcWd1d3Z0elppZndObS1RYUhkMzlzQVB6MjlVMVM2MENOcmV4Rkh0QWc3eGIzVGJTSFA5Z296MkxIVmNJMzFWNjctUC1FYzZpMEExMGp4a3FJQkthMHlnLTNlbWdwd3dIb2pnaUlRX0E?oc=5",
+    "source": "USNI News",
+    "published_at": "2026-07-13T17:16:00+00:00",
+    "raw_pub_date": "Mon, 13 Jul 2026 17:16:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d69daba632d43b3543007a95e55064ea5e095c20",
+    "article_id": "79fea5eebe2b55806bbdf75f7130c5ff919a4549",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports describe US strikes on Iran and a vow to control the Strait of Hormuz—direct military action and retaliation.",
-      "event_key": "us strikes iran strait hormuz"
+      "reason": "US lethal drones directly attacked an Iranian submarine and port facility.",
+      "event_key": "us drones attack iran sub and port"
     }
   },
   {
-    "title": "Trump says U.S. is reimposing shipping blockade amid renewed Iranian attacks - CBC",
-    "summary": "Trump says U.S. is reimposing shipping blockade amid renewed Iranian attacks CBC",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40cGh4ZUtWV3k1VWsyYnlsWWpUODFQOUNvSmRoeGJWeUlLaE9Telh1NEd6cXJ1cjJrU3Z5Z0I5QXZZUDI2MVVBaUMtYmR6RWI4eU9ncWpkVEJyM2pmNVktaXRNT0JDclJyVUZMSU55QzJDRC1ldUp3Rks2QlJoQQ?oc=5",
-    "source": "CBC",
-    "published_at": "2026-07-13T16:19:49+00:00",
-    "raw_pub_date": "Mon, 13 Jul 2026 16:19:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "981e1168cdfeaaad9e929f4234c013cb7d77fcbb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "U.S. reimposing a shipping blockade in response to Iranian attacks is a direct military/retaliatory action.",
-      "event_key": "us reimposes shipping blockade in response to iran attacks"
-    }
-  },
-  {
-    "title": "Strait of Hormuz conflict escalates as U.S. and Iran exchange missile fire - cbs8.com",
-    "summary": "Strait of Hormuz conflict escalates as U.S. and Iran exchange missile fire cbs8.com",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcU5MajJYM3NvRlZWeDljRnV6OTlfLV9QTi1ZVW1lTHZkblVOQVlQcENVVXM3X3hmbU5XSlRjUHJYb0RaVEVwLUxJZExLQUZWQTdvZ0pCakFKZDFELTdoRzNiYXZqR3I2dEg5TGdVbEREWl9XX1o5Y3VkNk00S2pnSmpQYzdheFVfa3VoWXVnMWhSSWdXbXJZWENBdVBaaENYQ2luSEpLMm1PYlliRFU1THNvQ2dIVE9UWGRXRW1oTFJydl92a09vU1o5T3lPOWR5WFE3TXVPNWY2NjNubXc?oc=5",
-    "source": "cbs8.com",
-    "published_at": "2026-07-13T14:52:00+00:00",
-    "raw_pub_date": "Mon, 13 Jul 2026 14:52:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f09a5bb328a9a8f7dd5a3abb8707ef9437c409ac",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "Direct exchange of missile fire between the U.S. and Iran in the Strait of Hormuz indicates direct military strikes/retaliation.",
-      "event_key": "us iran missile exchange strait of hormuz"
-    }
-  },
-  {
-    "title": "US and Iran trade fire as tensions rise over Strait of Hormuz - BBC",
-    "summary": "US and Iran trade fire as tensions rise over Strait of Hormuz BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Xy1nMWxVU29PLXNSVGdtMDNwdy0tUTNCamFndFFXQk1uOUFscUFYOXBxVVRUQ1AxRE1pdTBMU01QSFpPZU9KME9YQ0M3bTc5TkNldlJTaGxGdw?oc=5",
-    "source": "BBC",
-    "published_at": "2026-07-13T15:16:09+00:00",
-    "raw_pub_date": "Mon, 13 Jul 2026 15:16:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "df455352902701a3b161fffb6cefae7c23146fb5",
+    "title": "In a first, US military used seaborne drones in attack on Iran port - The Hill",
+    "summary": "In a first, US military used seaborne drones in attack on Iran port The Hill",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Id0NodkFGdTU5R1FTeElqY3BYOEpleC1hX21wYUp4LW5fbEdnTXRtR0F0YlZZdnJOaGtScEVxdmxlaXBkMmtlYW9NMG11SmxsVG0tUTltYzJTTno4MmhZWGY2MU5NS2NlSTJmOG5uTm5GWmc3NndnMURUa9IBgAFBVV95cUxQYVc4OVNmTlBJaG9zaFBNVkN0eUotdFZlQmpoR0tXOURjMGZ3V05XRWR2OGYxU1lCTGdZRHRVSDI1YWt3d05LS0k3NlhTZ3QwcUxWRmdaQUQzS3dxakZSekFIeC1RcjE0MUlkMXNRZTlCd2xYbC1lR25Yby1INUhuWQ?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-07-13T18:09:00+00:00",
+    "raw_pub_date": "Mon, 13 Jul 2026 18:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d82f87179d16d9d86d110e5625a478a88f725cec",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Headline indicates direct exchange of fire between US and Iran in the Strait of Hormuz—military strikes/attacks.",
-      "event_key": "us iran exchange fire strait of hormuz"
+      "reason": "Report describes a direct US military attack on an Iranian port using seaborne drones.",
+      "event_key": "us seaborne drone attack iran port"
     }
   },
   {
-    "title": "'Flames Of War': Iran Issues Fierce Warning To Trump's Gulf Allies Amid Fresh Fight With U.S. - The Times of India",
-    "summary": "'Flames Of War': Iran Issues Fierce Warning To Trump's Gulf Allies Amid Fresh Fight With U.S. The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd3ZHNERrbzZReGx6V3BwS3k0aVYwNXFjN1hHbGpPQTBwc2U2ZjhOd29QZUF1TW13Mk15QjRoelZLYTJUME5Yd2EzS3FWR1M2MzM4NjZPeW9lMFZtRXIxcjhNSEFCMFJKMjZWVWQzZnBzX2RIUUVfTnk0TW9xSGVxQWJTYmM5QzhGQmJacDdPYWlvanNvUlFjWU53R3NUVlRmQ0RaX0NscXJfa093Vk5iSnVfRVRpTW95bkpMWmNmdWpGX09sdlpucHM1Z3N0VTNHSnpIX09YclRmMmFnaEN4MUlqeU1hVFZaQ2N2V1JZOTdYejdRaGRQZkxxakF3RmPSAYQCQVVfeXFMTm1ZZ2NPVklBVS1vNDhwY1l1aDZyTndGOTdEU3VHaHVZanpZZjRSdHRyYk1ESERUNUR3ME0wSm9RMjNCa1RYeTFLWEFsaGxnNnNUTEx0LVFQdGVYQzR0NmE2XzF0Vk9UMkFPQnZVc3p5VXNXb0dZcE5uc1Y4V0hCN2U3NVZYRUlqcmZwYVI4MnM3cGRUT1h3TjZvYnhCcHlQNU1xbHd0ZmxMY1JXYzdrZV9FNG1DNXBpRlk1TEk0N3pEb2dBY2RhX1h3bTBEcGl4bWVaMHNRbUNNQ0JISXRYalE2c01fM2RCcGhOQ1hXRUNiWWZWc180VUtFdl9ENWVRbHAySFI?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-07-13T16:10:42+00:00",
-    "raw_pub_date": "Mon, 13 Jul 2026 16:10:42 GMT",
+    "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike - Reuters",
+    "summary": "Lawmakers demand Pentagon release findings from probe of Iran school strike Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFpXV2hLVHVQMmdvSC1Zd2JjNjZRMlFXN3ltcFFMOVRobWdwUjNKb1hkUnlyUnZ2RUZ1MEtqbTNkUkp3RkxIaEh5N3Fzb290QnhjeWdrVVJJNFlGNGJPLURERnpnM09tTVF5T0tDQ3ZoWEdHdngxQlVhcXA2cGN4MWVhT3kta245Sm5LN3dqT1ZVcGdtbS1GQ2sxMmJ0Q2xUaXZTXzNIWXNaYUlGODlwX0ZwbUtPSnRjbm1TMg?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-13T19:14:28+00:00",
+    "raw_pub_date": "Mon, 13 Jul 2026 19:14:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6121947e5de99f602e26dff45d5518fc095aa61a",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Lawmakers pressing Pentagon to release probe findings into a strike on an Iranian school, indicating a direct military strike incident.",
+      "event_key": "pentagon probe iran school strike release"
+    }
+  },
+  {
+    "title": "Trump Reignites US-Iran Showdown with Hormuz Blockade and 20% Shipping Fee Threat - Novinite.com",
+    "summary": "Trump Reignites US-Iran Showdown with Hormuz Blockade and 20% Shipping Fee Threat Novinite.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVpBb3lrMXlsaWMxXzUzNE42OXBSZ0JHSWdablNHU2hKWTA5RXNqVWZiT0JGTHlQS0V6RHo0cm9mUkJaSnlHZVVyWkF5NzQ2d3VGdzNsV1JLcWswaG43Q0JoZkNhSzBBcFVpTEZQTnBIRnJQcEl5bzgzTFhtVkMwSG03ZG9xVnlWUFkwWHViT3B6SURmc1NXUVFGS2ZPemYzN0lLelF0WGFfSTNZQnNRWTk3bmxfZk5qbzNnVkpR?oc=5",
+    "source": "Novinite.com",
+    "published_at": "2026-07-13T17:42:31+00:00",
+    "raw_pub_date": "Mon, 13 Jul 2026 17:42:31 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "81290c5e76834c235d591aa67ac42363c5769761",
+    "article_id": "bb40a375465a1a865a0fcc4979e00defaa573c1d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran issued fierce warnings to Gulf allies amid a fresh confrontation with the U.S., signaling rising tensions and hostile rhetoric.",
-      "event_key": "iran warning to gulf allies"
+      "reason": "Threatened Hormuz blockade and shipping-fee threat constitute hostile rhetoric escalating US-Iran tensions.",
+      "event_key": "hormuz blockade threat"
     }
   }
 ]
