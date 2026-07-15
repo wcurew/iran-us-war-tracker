@@ -1,206 +1,240 @@
 [
   {
-    "title": "Iran live updates: US launches daytime strikes, IRGC claims targeting of US bases - Yahoo",
-    "summary": "Iran live updates: US launches daytime strikes, IRGC claims targeting of US bases Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkV4dEZRM3FMcGhybWdja0FoemJVQldWdWU5a2tLby1TMWhUYWNSMmVaSUtBNUpsUkh4ZGwtYVpoM0VkRDY4ZnIzTTcxRU5oTlVxMXJ3WE55NXdNaVpMWC1Hdlc1NnJKVERSTW01VDFuZnRNZ3kxS1AtTHBYTmx1bmtPdkJWaVRBQUYzVW9od196SE0?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-07-15T14:23:19+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 14:23:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5653f2347fb8a07c5d05800a6202b7e1138d225b",
+    "title": "Trump and Iran signed a truce but still can’t agree on what its terms mean - The Washington Post",
+    "summary": "Trump and Iran signed a truce but still can’t agree on what its terms mean The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbHFkZDNiZFFTYVJDMnduT0ZTMmFSekxlUUNPaDhIMVY3endEM3pWOGFSd3JNOTlJWEJxd0JWaVhTa1RnRGJGaWxmeXYteVpaZWRRSkFZTVNsY0pyUTJwREQyeHVUQmF6TUswRXM1OUdUVDdKcERMQVRJalllcmVYNFNGN0RvcUZxZG1ZSWZSdG15RzdKYWNGaTg3Y0hteE5uSUw0WUFtNG9hU0hzRlE?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-07-15T18:19:02+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 18:19:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "13805b42dadae610b11455e718382a1796279ee7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "A truce/ceasefire was signed though parties disagree over its terms.",
+      "event_key": "truce signed terms dispute"
+    }
+  },
+  {
+    "title": "The US-Iran ceasefire is over. What’s next? - GZERO Media",
+    "summary": "The US-Iran ceasefire is over. What’s next? GZERO Media",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3UxMHFZbm90SFYtSzMya2pRV1owdFc3NVlsSW1zV2lmTW5KMEVfbFZabnRJSDBqYWxldXc0WDNZdm1RejBCRDRrXy11OVB4ME0yckhjU3ZnekR5azNUdWhnLUMzX25ja1lDTnVNUGlSOFhNSFlZTkpYVTRmTklXVEZ3cVdDS0N4MHfSAYoBQVVfeXFMTmlEMFMtZ1ZuN2VnYkZGVUtlM2hRR0ZOMFd3SzJEcWZGbmVZbjhHMG5DRC1ZZlNDNko3Uy1TTVNWOWg5WldCSzFzdWxKRnB2WHg2T1V4TDhKUGN3eEE0VlVYN1BqNURvdnpqWnVEckQ5R0tmRUR3LWcwOFpoQ2x2WHdXV3NlYnB3RzRn?oc=5",
+    "source": "GZERO Media",
+    "published_at": "2026-07-15T18:45:00+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 18:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c04e21cc3c27247eb1d598ec4d3634231c17cb78",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Headline indicates the ceasefire has ended, signaling renewed tensions and breakdown in restraint.",
+      "event_key": "us iran ceasefire ended"
+    }
+  },
+  {
+    "title": "Mapping the latest US strikes across Iran - Al Jazeera",
+    "summary": "Mapping the latest US strikes across Iran Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2dKRE55SF9WbEEtTXRtaXNfLXBJTUREMWNXbkNlRDdOalppb0hRc3o2eGVoUnFqeW4xSHhxNGE1ejg5M0lZSzE2UTdlblEteU5QNlZEUjdEdFNPUUc5cTBpQXhlNUVnNWtPNHhvU2VoWmlqNHJ1TmdBNFZhUE5pRE5RWEt4eEVJUkHSAY8BQVVfeXFMT1R4LW04TmlvcUY5QnFMaGQ4YzNxV3NRb3JhSFNyWVRKZ21EU0ljNVNJV2xOajFta0wzYksxSWw5OWRCeXlobHZHV3hwRFZXaTg0eGZYTmYxMk9DaHNFcGpPQXpHRFAyX1Z4TFZialNDN2R1YS1kYjJibV9iYkR5QXJ1a3hUVEJNSER2S2luTEk?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-15T17:44:34+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 17:44:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c9d980361a3cceb383719962c53d4fa3c510be7",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US launched strikes and IRGC claimed targeting of US bases — direct military action.",
-      "event_key": "us daytime strikes irgc targets us bases"
+      "reason": "Reports and map of recent direct US military strikes across Iran.",
+      "event_key": "us strikes across iran"
     }
   },
   {
-    "title": "Iran condemns US attacks as ‘aggression,’ vows retaliation - Anadolu Ajansı",
-    "summary": "Iran condemns US attacks as ‘aggression,’ vows retaliation Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHgyZnZfaGtQZ081T3Z5bHk5UnBYVU9sU2dNV3JjdEZfcG14UVhDcWJYc2RKQnFWZUltb05Ea2JnNzJfdVY5MldHZ1ptVTBtMjN6RUZZRmJiRFNRX0J2YUNWRnFfZXJncWo3OHJRZzJacWZiaXllSGpzZm5wX1ZYeWFiRmFBME1CVTBsNU5ta3dYYkZwcGU2dElQYTZERm03bFE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-15T15:55:52+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 15:55:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fcbecd8404289ba242fd8a7b18ee4e4a77c6e18e",
+    "title": "Iran rejects Trump’s claim of 11-hour US talks in Oman - Muslim Network TV",
+    "summary": "Iran rejects Trump’s claim of 11-hour US talks in Oman Muslim Network TV",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnllQUplR3F2dUhSbWZtMko5ZVFENU43ektjMmdiNTNXTENXZ2U3YXVQcG1RdXN1YzItYmxYWm50cDFSVVlwME9VNnpmLU5Md2Y1UTJIRkVrLWxkVUNjUW1fdnhqVE1tQUpOeDhtUGtCcGk2eUF4NjdGVGZOMHBybURFV3RLTV91czQ0?oc=5",
+    "source": "Muslim Network TV",
+    "published_at": "2026-07-15T17:48:45+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 17:48:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "78dca334f82323cbf8c2d822a19ac518f42e5b74",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran condemns US strikes and threatens retaliation, signaling rising tensions and hostile rhetoric.",
-      "event_key": "iran vows retaliation after us attacks"
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Concerns alleged US-Iran talks in Oman and Iran's denial—about diplomatic contacts/backchannel.",
+      "event_key": "iran denies us oman talks"
     }
   },
   {
-    "title": "U.S. Blockade Prompts Iran Base Retaliation - 조선일보",
-    "summary": "U.S. Blockade Prompts Iran Base Retaliation 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzZ3bUZfdlVnVEZBOV96U2NUbFo4UHg5OTJWcHVDQTVWSll5MlVwdHhhcDdWWFlGTFBoZUl5OXhDamZ1MVB5dVc3MGFneHZ3bWZQemhZTVFXUGIyc3lCTjdsZi1tczQ0SGhSRDI1UFIzQ1ZycC10eF9DOG1uX2ZKQ3VsbUs?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-07-15T15:59:28+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 15:59:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d012f4789534598f842e3e84cdb00ab6a68a2de8",
-    "source_weight": 1.0,
+    "title": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say - Reuters",
+    "summary": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmxvcGs1aXFWckc4eXhtejF1N0hTeUlYakpDOHRfdTFRUk1ab3lTaXE0QVRNWlUyQnhrWnhaVEsySmE0R0ZuODVuUy1iMEdPbFZxNXotNkF2bU1VeENlZ3kwQTBKU3E3WDYwdnlPT00wZi0zeVplanZIbjZtWjY4TVNqRlBST2VENW1OMzFRb3VGSFgtalZodnF6c2ZPc2kyM1NDeUc3LTZnWUF4SXlaeE1LYzNWcExPamZubmhWRGRLQQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-15T18:56:14+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 18:56:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "72bcc49f3ae62fced6eb10774b8f134849e1ca02",
+    "source_weight": 1.15,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Iran launched a retaliatory attack on a base in response to a U.S. blockade.",
-      "event_key": "iran retaliation against us base blockade"
+      "reason": "Reports US strikes on Iran and potential for further escalation.",
+      "event_key": "us strikes on iran"
     }
   },
   {
-    "title": "US launches new round of strikes against Iran - Military Times",
-    "summary": "US launches new round of strikes against Iran Military Times",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWUzSDgxV0ZISzJhT0MyRVVwbHJOUGtHbmFlMmhJS3ZrT1JILWE0UTkwQzNqZ2RTN1dlNWpvc05YWnM2RE5CdHpUZE9fMHdMdlVRUlp5LU1DQXM1Qng5dzE3Skw4bWFSUnhLOWhjTVdaN0ZJWUcwZnJkYlRlcjFyNk9wNFd4bm1iOVhVMnNPaWlmaEZFcWdzbjA4R1hpYVhR?oc=5",
-    "source": "Military Times",
-    "published_at": "2026-07-15T14:20:46+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 14:20:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c7a4d5f90bf78ea7b5238e8f11affd39de2f5cdb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Article reports direct US military strikes against Iran.",
-      "event_key": "us strikes against iran"
-    }
-  },
-  {
-    "title": "Iran war: US launches fresh wave of strikes - DW.com",
-    "summary": "Iran war: US launches fresh wave of strikes DW.com",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1KZlpXUEF1U2xIRmxNOG5hbk5fR3dtYmhEQXFwM2FZaXRIMncxUXZLZnRnMnFHYlpZd3IxZEhwa2t1NWtjLXNFLXZyVXhSRHhoN1ZkRnJ5VWJ2a29CcTVicHVFVnhNU29pNS1GYUFIVDg5NWxvRXRfZGJnNzFKQWJRZkw?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-07-15T14:15:22+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 14:15:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6cb3f71e93e8d6a38ad3ca64541c9125e8905035",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Article title reports US launching a fresh wave of strikes—direct military action/retaliation.",
-      "event_key": "us launches strikes"
-    }
-  },
-  {
-    "title": "How US-Iran escalation will test Iraq’s balancing act - Al Jazeera",
-    "summary": "How US-Iran escalation will test Iraq’s balancing act Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0ZRQVlPb256OTBHaFk3cUc5R2FpNEhTWmF0SkROY29tWklRcHNLNlQyekVJQ3hrQ2dKZVVxUHg4UHgtdjQ0eEYybXkwTG9HUUxHbHdTRlZiT1JiVTg2UmZOMVBpSmxGRjFtc1YtS3JnY3lWV0FLd05qMTM5U2p6NUxzQTdIa1EwSlFGcTRBSU0walBWbDNCVjNNOW_SAaIBQVVfeXFMTTZlR0d2Z1hmYkh1NVk5czkyTXFIY0k3T19BdVgyQUVKd0NEcEpLRTdyT21vLUJvRXo4NkN6OEdwSnpHS0E3d19wSjFyQ1paVmdnaTA3WGFNLTVMQUswN1Zwa2hsUE9md2ljQVZKNTNYNTFRdVpUUUl3VU5mU3FsRklNU01jd0swQnZtOTRuN3A1TU9tdnFkbTBoRk40RXE0RzVn?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-15T15:11:15+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 15:11:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3ef054871b8dd516b44e881623440e1478efffd3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Discusses rising US-Iran tensions and their impact on Iraq's balancing role, implying escalation rather than direct strikes or diplomacy.",
-      "event_key": "us iran escalation impact on iraq"
-    }
-  },
-  {
-    "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports - AP News",
-    "summary": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports AP News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
+    "title": "Iran releases video of missile launches as US military says it strikes Greater Tunb Island - AP News",
+    "summary": "Iran releases video of missile launches as US military says it strikes Greater Tunb Island AP News",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnpqcWxueHE2NTE3dGR0UmVWUm1IM2NBeUJ6OUo5RzVVNkFQazBNUmZGY0t6LW5seThsRC1nMFBnUkhPSlpHa3hObHdCbkRSZ0ExYVNTMVFYWlNxU1Z6ZEZlaGg4SlViX0R3eXFVcWdtb3VIMm1PaG4wMFhoWlhrUGhfSEtlWl9GZDROeF92UnJSaWhhRnhNSkY4b004Sk1XakZSTnA5dnM4VE1keGJfckpXVXN4ODdDOUxDRExMS2ZnYS1LdFlLZlU1bjRuZnk1SjZUVlE3UEdkS3F4czBlQnFB?oc=5",
     "source": "AP News",
-    "published_at": "2026-07-15T15:50:00+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 15:50:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9982c91b29c7d6fcb73fbd64da004d21674583fd",
+    "published_at": "2026-07-15T16:47:00+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 16:47:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "178addf28d797fc6f5966c0f511131162eaf2415",
     "source_weight": 1.1,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US reimposed a blockade and stepped up strikes while Iran threatened to halt regional energy exports.",
-      "event_key": "us reimposes blockade and strikes"
+      "reason": "Reports describe Iran missile launches and a US strike on Greater Tunb Island—direct military actions.",
+      "event_key": "iran missile launches us strike greater tunb"
     }
   },
   {
-    "title": "US missile attack on Iranian Army base kills 7, injures 13 - Crypto Briefing",
-    "summary": "US missile attack on Iranian Army base kills 7, injures 13 Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLU92cjYyd0hZSmVUcnBlZ3NLTUpjQXNHNmd6czRtbmlkVFlkaXhLRDVXVUtFeFlqQ1hhZ0o3a3dsM3FTWGlWTHAxWUdiWFBUVkVsSEdacEwyQ2VNZzdTNE5lOEN2a190SUNTOHFPVV90UXVoWGhBakNac1NmYVZzV2RCZ3JoOU03aERKZUFB?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-15T14:54:51+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 14:54:51 GMT",
+    "title": "U.S. strikes Iran again as Tehran warns of 'existential war' with America - CBC",
+    "summary": "U.S. strikes Iran again as Tehran warns of 'existential war' with America CBC",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJcENqQlAwenNFQkJPa01PaEtWT3h1YW5uLTBaUlBKczFScGNGQ1NYdkpNMlkzNlBtSTB1TXdLdWRRa0J5alVOSk1UTW5ObXhWUmlEUTh1UUZpREI2RG5TV1ZlSS1mcTBaMmN1VXAwZWRCTUJOeXJwV3NR?oc=5",
+    "source": "CBC",
+    "published_at": "2026-07-15T18:52:56+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 18:52:56 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "987905e481a05393e7559d446aabf4f4d2d18d8d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct US missile strike on an Iranian Army base causing casualties indicates a military attack/retaliation.",
-      "event_key": "us missile strike on iranian army base"
-    }
-  },
-  {
-    "title": "Most Gulf markets subdued as US-Iran tensions escalate - Reuters",
-    "summary": "Most Gulf markets subdued as US-Iran tensions escalate Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUxLaW9PYWVNQjdpNXZiZ2U1RWNYRllQQm1WbkJrQWJWUDRGcXpneXZVUnRqajVtVmtWS0QxNHh1Vjc3cFZwaTVyZGRwSmpPamRrX0VMWVFPczRlTXFsem9aSFJzbDVsUFVTdHZuLXdEWG5pT0RtdEpPVlk5LUFOSjFIQmxWSWpNZnhsM0owYzNyZ01HMmJVMDhVWFdObFYtcGhZNTgyVnlRMmI4SEpnNFlPVVlRMDV0ZGFMZVVZR2JRdTBsUVVmaTJsOA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-15T14:04:20+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 14:04:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "912e3c016e8c9c90418679c8bd32b30465cc8a28",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Headline explicitly states US-Iran tensions are escalating and affecting Gulf markets.",
-      "event_key": "us iran tensions escalation"
-    }
-  },
-  {
-    "title": "The US has struck new blows against Iran amid the threat of escalation to shipping - Українські Національні Новини (УНН)",
-    "summary": "The US has struck new blows against Iran amid the threat of escalation to shipping Українські Національні Новини (УНН)",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRV9KU1NiWVdDem4xalppdnJTVTVReHJvLU9JNUk4RG5jTnJWOFFsbTV0WGVrNVFnbDZxd3ZGN213V2htSEZfYXZsUTRTMkdZMjZOWWlQTXR0bkpESURTNklXQ0dwTVg5SXFCN1I5bDdET1A0ZnJqS0FTX0tRdTdaRjZ0TkhTeURGdDRQVERGN0J0OHBvaWU3N0hDVVNZY2ZvX2JzRzRDRkbSAacBQVVfeXFMT2NoMmR1RzhtQ3lIUnF0RUNUd2FHS2R4eHR6UExjWWp3aU90dlhrbWs1bXg3dnpwWVV6V0Q3cnBsczJFbTNDak1YM2VoWktaTlBReGNEdHZWN2FqQTc5WkdRX0lVVVZPLWp5di1kOHBzemVORzVJSDFzYnpqZFMyN2J5bVp2ai03Y3htcW85b183bHdySHZuZEtmYlUyRE9MYldnc19yNDQ?oc=5",
-    "source": "Українські Національні Новини (УНН)",
-    "published_at": "2026-07-15T13:51:41+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 13:51:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4127b2c05c0cb31df6bbfa90864d92c347c2e4e1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports the US carried out strikes against Iran amid rising tensions over shipping.",
-      "event_key": "us strikes iran shipping"
-    }
-  },
-  {
-    "title": "US launches 4th straight night of strikes on Iran as Trump issues new warning - FOX 32 Chicago",
-    "summary": "US launches 4th straight night of strikes on Iran as Trump issues new warning FOX 32 Chicago",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZNmxxWTl3RE1hM3IyZzBER2Y2V0Z0NVFxSDgweS01dnp3RDBqZjZVdi01TkpmTERPY2lkcktQc2F0bVlsZFBzWEdxekhHQUxjbDRGVTBhbnhUZVBOS0RYOEx5d0tvZ9IBa0FVX3lxTFBHOGN1N0pJR2F6bmlNeU1CUDZaZ25fb1U4WDNaRnFwYmNNRVBiT2lNeEZWNWM1WTlKdDJSM0pIR2NlNlB6YnFhM1Awc3h2aVZkNGJtYk4zVy16V2ZNUEFpVWdwRjF2VE02RHMw?oc=5",
-    "source": "FOX 32 Chicago",
-    "published_at": "2026-07-15T13:52:30+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 13:52:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9aff3c795080e792ced47d183268aed84c88a628",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "Direct US military strikes on Iran over consecutive nights indicate active retaliation/attack.",
-      "event_key": "us strikes iran 4th night"
-    }
-  },
-  {
-    "title": "Iran says 30 civilians killed in US strikes as Trump warns of 'hitting them harder' - The Times of India",
-    "summary": "Iran says 30 civilians killed in US strikes as Trump warns of 'hitting them harder' The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYzJrbkpIblBCNENrY2pMbDhVa3NrZXl2V3J3QnZFOEU2SzhNd1NzVGxuWjkxYTl0dWJYMnczSzIzYmNnS2JZM3NqQmxCWGpLQld6SmlTZTlhVUNWdHVLaGpoOThwNF9JcHlwQzJVUVJTSHhseHlTLVY0RDFrS3gwX1FvVWdiRWQ4dVBFc1lxd2ZBQndnRFFQb3RjTHB0aGhfRXRmcjZLcUtlYjF5SW5uVE55SlJwLUtad3FRa1RONzQ2MjNvY2ZtTDFRb0ljNUVodk9OcEpOT2VMWEd4eWZCLWwyWUp2aTVqWkg3R0lhRHRGOXPSAfgBQVVfeXFMUDZmTXd3RzV0MHlyQ0lBWjg5dmxlQUMxeU5pbE5oY2l2RlNUVHl6QmtnajYyR1U5eVNKemxKZkxUM1gyVm5rdGJQaUhDOUg0VFNKRXhnM0pqb1N0bTI0NVh6QTBDQk43aHJVZjdtc0VaWWc5QnVQS0lIRENTYVhQblV3M3Bvb3l6d1J4elZvZk1YTlRNaHQzMG9ZQzhNd0cySkZ3OTVsZ1MxbUZ5MERGN25BR1kxTjB5d2xBaUxzN0FEcUd3LTc4V1oxSVVCeXA2aWNMc01GWHlVWlhkRHlycGdEa2ROcmY3LTNIeERPanYwSmozanV4VzE?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-07-15T13:41:00+00:00",
-    "raw_pub_date": "Wed, 15 Jul 2026 13:41:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fdf1880c0d3115e185c22d0639303482f7816def",
+    "article_id": "541a5a78b2fb4030446dfde193a0e4389babc1af",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Reports of US strikes killing civilians and Trump's threat to 'hit them harder' indicate direct military action and retaliation.",
-      "event_key": "us strikes civilians trump threat"
+      "reason": "Article reports direct U.S. strikes on Iran and Tehran's warning of existential war—clear military attack and escalation.",
+      "event_key": "us strikes iran tehran warning existential war"
+    }
+  },
+  {
+    "title": "US hits 'missile launch sites' on Iranian-occupied Greater Tunb island - thenationalnews.com",
+    "summary": "US hits 'missile launch sites' on Iranian-occupied Greater Tunb island thenationalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnppakZQVHNjb0RodnBMT2tvM0xlMVNMVnVISVVYcndsQTlreGxocHJGcDdVQUZES0ZjWkg3UUNxV1FEYVc2WlNQaDRYNV91VFRDNG9CU1VtY0o4NW45R3Z3TG5pYVphcjA3RjRYTF9Yc1NQam1USHRTWElyY21fYXpMZ2RERHVlYkNmVTdqMlZLN1lWR0hfYXVwdlhRTVNsVWRUdVVGTlZLMmkyZWh3amtRS1dPWkp4UU1JNWpjVQ?oc=5",
+    "source": "thenationalnews.com",
+    "published_at": "2026-07-15T17:48:45+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 17:48:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7f002cd0466970e393414d1d92ac2304132ebf24",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on missile launch sites on Iran-occupied Greater Tunb—immediate military action.",
+      "event_key": "us strikes greater tunb"
+    }
+  },
+  {
+    "title": "The US military is striking Iran day and night in this new round of fighting - Yahoo",
+    "summary": "The US military is striking Iran day and night in this new round of fighting Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEtka2V4WjIzcTRXUEhEd1g1YWR6UXB1cG52VzRhWjluYndnX29KVURDOVVpTGhuelEzTUNrZ3prTE9VMTNRaVd4a2VKLTJjMU9iTFFnSUQyT0wzdWtBckxibUZ1SVk2d3VLNE9ySXBZV0EyNWRUcHR5b1p3TVBtRnpVOHBIZjM1VGpyclVRVW96Yk0?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-07-15T18:10:33+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 18:10:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "362b45e1b9fca84448828162cda5d96e15a1ba85",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports of direct US military strikes on Iran in a renewed round of fighting.",
+      "event_key": "us strikes iran new round"
+    }
+  },
+  {
+    "title": "US launches fresh strikes against Iran as escalation threatens shipping - Al-Monitor",
+    "summary": "US launches fresh strikes against Iran as escalation threatens shipping Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVFXUjBtcTE1djhBN1J2d2JiS0ZGbXozMl9wdS1uZ2VlcmVfMWdTYi1iSmNtSVpjdFJtYkdSZW5QVFFSRnVCUkJCX1Q5d2lpMG9hSThBVS1BV2xMd0NBeC1JR1FRanZacWFZOV9HTmFhODdYZndBa0M2MEwtVG4wZTdMOGJVZkRQYS1BdWdZQ1ZhekwyRldBLWxXQ251aE5zSkVZZVdFWnlZREpFcDNjVkhmMA?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-07-15T16:49:19+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 16:49:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a8474145414330971722edc5e3ae685a451a17c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted fresh direct strikes against Iran, indicating immediate military retaliation and heightened tensions affecting shipping.",
+      "event_key": "us strikes iran fresh"
+    }
+  },
+  {
+    "title": "The United States and Iran launched new attacks on each other's interests in the Gulf on Tuesday, as President Donald Trump backed down on his threat to heavily tax ships passing through the Strait of Hormuz. | via ANC 24/7 Link to full story in the comment s - facebook.com",
+    "summary": "The United States and Iran launched new attacks on each other's interests in the Gulf on Tuesday, as President Donald Trump backed down on his threat to heavily tax ships passing through the Strait of Hormuz. | via ANC 24/7 Link to full story in the comment s facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkQzLV9PT2xtbGRfbmFpS25VRmJCRmNCWkRlWkJWem1WVDQwSl9wUDhvQkpJeF9jOVdDeUVudXRFLU1BNXJDS2QycExhZmRDd2t5WVRxVWsxS0ltemZHSVRWRUxGb01zY2ZnRTdfenk5bEo0SXZhYXZSeFBFTVBPcHNnUGJyT21hUzhLa0MzSkQyQXhwa25wVHFOTDZtbHlDT2ZKbndtR2RkRXN5Nkg4TW9fT3E0V0liVGxDNHpia05hOEFKdnZhNTlOUmFRcU5LS0hyM3BNbw?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-07-15T17:00:01+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 17:00:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3561a31f0d83aab6b868a626b457d93fff5fdefc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US and Iran launched new attacks on each other's interests in the Gulf, indicating direct military strikes/retaliation.",
+      "event_key": "us iran gulf attacks"
+    }
+  },
+  {
+    "title": "US strikes on Iran strengthen escalation options, reduce 2026 deal prospects - Crypto Briefing",
+    "summary": "US strikes on Iran strengthen escalation options, reduce 2026 deal prospects Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmRwbmpETzg4ZzIyNlZwbU85cUVOcFUtT0lnTEljMVFfWkZOR19QZkVpZ19STV9Zb05Yck85am1seHRrYUxwRlN4VTNfSEV4UEFjVGZZLXJGYklhVzBKUk1YalZsLWZOSm8wczctVi11WkNLYVgtal9OOVlZdlUzVGwxSFhFdC05SElmQkZSVHc5UGVoR0s5QzdibkZnUFR0Q3VqOWtB?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-15T18:55:39+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 18:55:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "598cb95cd8c88ccb38d7486cdb7f2c1196896885",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports of US strikes on Iran and their impact on diplomatic prospects.",
+      "event_key": "us strikes iran reduce 2026 deal prospects"
+    }
+  },
+  {
+    "title": "Iran threatens more trade route blockades after US airstrikes - Crypto Briefing",
+    "summary": "Iran threatens more trade route blockades after US airstrikes Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1JDSWZrNEN5TDFVQjdKSUFKaDAwZVZJeS0wOThFQkRySWRMTEx1M1UzT3Q2a3dOQzBKRGxEdjd3UVpjMHF1YmFJdzVxQllJQ2YwTXZfX1lhMkZSa2Y0QW1wcy1ERnAwTmxUZE9mTy1WaHdlVUljNzBJN3dERkJIQWNPM1VwWVBxVENKSmNtXzlxLTQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-15T19:06:00+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 19:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4ee68af800504b1b27cf0f4065a7f5af773414d3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran threatens further trade route blockades in response to US airstrikes, a clear hostile escalation via threats to disrupt commerce.",
+      "event_key": "iran threatens trade route blockades after us airstrikes"
+    }
+  },
+  {
+    "title": "Iran Unleashes 3 Types Of Ballistic Missiles On U.S. Targets With Direct Warning To Trump - The Times of India",
+    "summary": "Iran Unleashes 3 Types Of Ballistic Missiles On U.S. Targets With Direct Warning To Trump The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYnl6Y0I3V3doZHUwemtXTXFXQUZ0NWxRTTZKakkwMEJIdjduSW9aY19CNEdxc09CcEk2Mk1QUFFGNXpVNy1KSWtadndDVXVMWkdTUGlLU0pFRTNzXzdiQndIRDlwZ3MwaFFsMFdrcjBIUFgzNXBXeEN4RVJRckVPS3lnb1hZbGtDM2RoUVRFZHFueW1pQ0NjT0YwT0p5bWNTeWtuUmZwTzVtaXI0U0xqeXdXSXJ0clpqWmRMOW93TWdHZHRnekVIOV9VSVYzZFgwR2xPekV3RUdFQkROQzFtVVMtcFBGQzh0V0tIM3NrWkxQZWpNS1NORUpMcWpBUdIBgwJBVV95cUxOQ0tDa0FoZzlwUTdHQlBtLUEtZ0JWYmJCZE1mN05QVDhZRy03WWtncENjbGkyR3ZLaDR5c1NXZ2ZmekZ4TXhiMVhoTnB4aTQzZEw1VjRnZXlpTm4zR2hiSDNnMHprNkYzNml6Tm5xWWdUeUpaWXRQaThjamVUM2RUUzUwVVdQTWtIT0hkY21zZVdXWGRrUEZFVFlaQjQxRkUtcWQtRnBsYWlpMjBxNEllWGtRZTFQeTZMM1BleGZJYjd4bGZERFNDV3FDQm93WWQ1OEx6UXdpSmE1RmhlaE5XeVlMd1BOSk8wNVZWNjJ2OF8ya0dmWmJGX0F2RTRSV253OFFR?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-07-15T16:25:44+00:00",
+    "raw_pub_date": "Wed, 15 Jul 2026 16:25:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "78d9dd8ed1d80acb8106e5c363f6b84622c8119a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched ballistic missiles at U.S. targets, a direct military strike/retaliation against the U.S.",
+      "event_key": "iran ballistic missile launch against us targets"
     }
   }
 ]
