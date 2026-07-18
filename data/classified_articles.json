@@ -1,257 +1,189 @@
 [
   {
-    "title": "Latest Iran war news today: US military launches strikes for 7th night in a row as fighting escalates over Strait of Hormuz - 6abc Philadelphia",
-    "summary": "Latest Iran war news today: US military launches strikes for 7th night in a row as fighting escalates over Strait of Hormuz 6abc Philadelphia",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdjlXZVpETEtMN1N4c1YxUzludFFaUE9IeUl5VEl2MVh6SEVRb3I2VEI4OFR2VzJzc05EU1ZlS0lqSXZxT0tWaXFfUk5zMTVVN0duUFpjZFBUczdpUU82dUtxbHB1VzBVM2hzLUg3QWUyR2hweHJsLWthWENRWnM5X1loRTZiLUJtMldPcHFGN1NlMXIzWjR3YVdsOEpKVlVBVl9zSWtwNlZpTmdJc2Q3MTVEODQ0Zk81N0ZqSWhWNERESXg1cS1ZYWQ0S2ZSelhXMkgzQ1lTZGdTM2JxMktldnRPWdIB6AFBVV95cUxQV0N2VHoyWHlybHk5Rk1pREtEbEdCU044U0Z5c1BvdHozTXdXT2dyOHlyZDBtWUNZQ3dRU1VoOV8wUlRQdXhNbS1Ocy1rdktlMGZkUWdGMGNHd3lfdE50VHBLcWRkUTNYQl9SRnVKbE9SV3Bqd183d1BYUUZKZU9WRUlYNGNZUlJfUkdXM1JjaEtuMkdnNkRZX3h6N3RXY0NXVGFWX1J5N3RQNmU0VXE3TGFMakFUenRKWXNvTUhYRWFrMWlZMUJhZVlKZUJTOV9ObXlsSk9xM1Y2RFZhYWlvZl9IZkJMbXpY?oc=5",
-    "source": "6abc Philadelphia",
-    "published_at": "2026-07-17T22:07:32+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 22:07:32 GMT",
+    "title": "US strikes hit Iran for seventh consecutive night - BBC",
+    "summary": "US strikes hit Iran for seventh consecutive night BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaGhLUndVdDNoZERNejRHOEQ4cUc0RS15bFo4YkV5bEtCb2NFSHB4T1NFM2FBSHFMVnNjX2I2TWNVWWlESFpoRTAxdGR6SkxMZjQybUw4djRpUQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-07-18T03:02:01+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 03:02:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e190c845571cf307b7ad161f011fb1c6e6b26437",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct US strikes repeatedly hitting Iranian territory indicate ongoing military attacks/retaliation.",
+      "event_key": "us strikes iran seventh night"
+    }
+  },
+  {
+    "title": "Bombing intensifies as US strikes Iran for the seventh night - Le Monde.fr",
+    "summary": "Bombing intensifies as US strikes Iran for the seventh night Le Monde.fr",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjdXbVRzWlhoNFUtMWtVbnlOdWdCMEpRMi1EZHp0QlJFcVVPUU52MmFqc0ZKRm94T2pnNE1iRWhFVEctbmZlLTJFOU1EdGdxdlRxY0dpYzg0TUduR0puaTh5ZnpaNnNBNGV6VGhac1pQQkJnMGN6Mnl6OGJDbUt5OFpiZHFRVWNrTmFfTGJIVkkzbXdjLW9CdUhBeTk3NDk5MEk0LWg2bzV5OU5DTF9DTm5kNEpOcFNGVGlfNTFfZEdpN0NNaTgxUjFBVWJXbVk?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-07-18T02:54:05+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 02:54:05 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "919783b81b0118febaf4aeed1898a5d384a1ec4f",
+    "article_id": "49bed3e07348a575176dfc374cb35d02ebc69ed8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Repeated direct US strikes on Iran over multiple nights indicate active military attacks/retaliation.",
+      "event_key": "us strikes iran seventh night"
+    }
+  },
+  {
+    "title": "US conducts strikes on Iran, Tehran vows retaliation as Persian Gulf tensions rise - Межа. Новини України.",
+    "summary": "US conducts strikes on Iran, Tehran vows retaliation as Persian Gulf tensions rise Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qdmM5NVZNZndNWlVZeGpzZUFQal96OEhvZXVMUU9YNjVka09TbUFxZktwZGlGU0xVZWNCb2o5U3NXb1JZTllLZWNDdjBnVGw3QUpuM0JzUnRyakRFWlJGaklNc3poYjZI?oc=5",
+    "source": "Межа. Новини України.",
+    "published_at": "2026-07-18T05:07:35+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 05:07:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8449de2914649db8b8297eb5807b60eff3d83cca",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US conducted repeated military strikes over the Strait of Hormuz, indicating direct strikes/retaliation.",
-      "event_key": "us multi night strikes strait of hormuz"
+      "reason": "Reports direct US strikes on Iran and Tehran's vow to retaliate.",
+      "event_key": "us strikes iran"
     }
   },
   {
-    "title": "Iran targets US Navy vessels as US strike on Iran continues - Daily Finland",
-    "summary": "Iran targets US Navy vessels as US strike on Iran continues Daily Finland",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUZUMlVaLVZyZ18tWDhVQnhERVpvUUNnRHdpV3FMWkZfZ2VBWWhZLVNNRG9EdDhvcVdZeWgxMU1FV1laWFJ2c2hfWTFBeXJhVHNvdTlkWWFneU9HQzJYaDlsSE1FaDR1WTBpVG5wTFRZZFUtcUdiWjBCaG5qZjdtWXJnOWtITVZkcnFvTGFhcVN4MjRxTURram9kM3NuVzdiWk1aVHhn?oc=5",
-    "source": "Daily Finland",
-    "published_at": "2026-07-17T23:56:45+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 23:56:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9201a5631e8da11c0d578332e0dce3b410c02bc2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Direct attacks: Iran targeting US Navy while US strike on Iran continues.",
-      "event_key": "iran targets us navy us strike continues"
-    }
-  },
-  {
-    "title": "US-Iran War Live Updates: US launches another round of strikes after Iran widens its attacks on regional allies - The Indian Express",
-    "summary": "US-Iran War Live Updates: US launches another round of strikes after Iran widens its attacks on regional allies The Indian Express",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVRwM0F0ZXhaV203M2tpOUYwTDhZLWt6bmhhTjBqYS1MV1RUUm1kMVl4RVhFcGV5cFNRMDZyY0w5TEZDdjNvTktFRzAwdkZNUmkwN1hXcm5TeEhPMjk2UWdQbXY0ZlR3ZXA4SjJHWmgzWjBWaGRHb3ZCbVNGNHlJMDRuVU1TbnpxQjVDOEtkLVZSMGRNc0ozalFBcHVPSngxMDk5RDA0R21FX2VFNGVOeEtWbTRqQzVXczlYSzlSV0RyVlNB0gHLAUFVX3lxTE9ZQVVzWXI1Y2pkeW5CMUJBQ3B5aTljenM3NUZZQVF2dzE2UWpwVE5ZSlRpVEQ4MnpHbEtNYTVvMFlfajBnYlJfeW9hYzhWbVEzQ0tUVGphOTd2Qi1SQmg4MjRzbjVwQmFDTnJIeG1obE9BWEkxeVJGSzlMakpvck1PZkZRVTczTTJpNFJleDBpck5QWjljdWFSUklXZkYzeExVWURnS1pDX010SjhPRVF1RmVncU42ZTE1b2hnOWFpcjN2U3pqNnNhb2tv?oc=5",
-    "source": "The Indian Express",
-    "published_at": "2026-07-18T00:09:52+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 00:09:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "38044ad5a3cc6094388f5d4c0c897ee8484ee8f1",
-    "source_weight": 1.0,
+    "title": "US and Iran escalate strikes across Mideast - AP News",
+    "summary": "US and Iran escalate strikes across Mideast AP News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41TWY2VnBhZjU4ME0?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-18T04:51:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 04:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "472e84678d757aa9a7aad2ca4da5b91a02220d98",
+    "source_weight": 1.1,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US launched direct military strikes in response to Iran widening attacks on regional allies.",
-      "event_key": "us round of strikes after iran regional attacks"
+      "reason": "Article describes US and Iran escalating strikes across the Middle East—active military attacks/retaliations.",
+      "event_key": "us iran strikes escalation"
     }
   },
   {
-    "title": "US launches seventh straight night of strikes on Iran - Al Jazeera",
-    "summary": "US launches seventh straight night of strikes on Iran Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3F0Tk5uODljNVJMbFh5OS12WlAzeEE4VTBJRFd1NzU4UDNDVTlNUzBNNnBTaXFOODZYN1phZ2JyZ3FEVE5udkJka3ZILVFSQ3hab094dmhOUnJmdC0xUnhJWjJSaG4yZ0R6VFJTTUpKd2ZfY1dsSlRDeC04WEFpZXVad0V6SEp0QnQ3TlhtbkVSckdYNmd1YzdB0gGfAUFVX3lxTFAxbFdvUUcwd3BSUWNsak5VYlN2SmxHYU5yYmlGOVUzbm0ybzlPczhobE1NMDJDSFNkdU1Da1V2VHNaZDZVajFtY0FDcDdtVF9sc05CdzEwdW1zVnc4T2o0c1EyQjdKWnN3YXNhendhdGhXX2xwYnRMUEtZamNPS1dUTVVnUWlPQ1hGWmQ3RTJ0Qm14U0ozd3J4S1ViSmN2Zw?oc=5",
+    "title": "Iran renews attacks on Gulf states after another night of US strikes - Reuters",
+    "summary": "Iran renews attacks on Gulf states after another night of US strikes Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-18T03:55:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 03:55:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "06618a318b1f899c6ce2e0e3d60b2010e762f0b5",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article describes Iran renewing attacks after US strikes—direct military exchange/retaliation.",
+      "event_key": "iran renews attacks after us strikes"
+    }
+  },
+  {
+    "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+    "summary": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-18T02:40:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 02:40:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9464d3d441b93e7c1369208546a73ab5c36b71a2",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US completed direct military strikes on Iran for a seventh consecutive night.",
+      "event_key": "us strikes iran 7th night"
+    }
+  },
+  {
+    "title": "Iran threatens 'full-scale' offensive if US keeps bombing - DW.com",
+    "summary": "Iran threatens 'full-scale' offensive if US keeps bombing DW.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdjJIZzhyTHhNXzBMeEVXZFo1aWxSSkNMWENJdFREbHg0d2xxbm5vTmZrMlpvMXpVckxnbXRsYlhzZEVlME10cFhQQTNqekNQalNWbmpMT01jRWFPYkIwaHdFMHRZbThrV3NTN1Z3aTBXeG4yaTdteGhJOWhGV29HYTJlNmZfYlQ5d1BKTDIzTEp6cFAyREE?oc=5",
+    "source": "DW.com",
+    "published_at": "2026-07-18T03:22:38+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 03:22:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "58a93f2438616267980b4756d70d54ed9cea5c17",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran issues a direct threat of a 'full-scale' offensive if US bombing continues, escalating tensions.",
+      "event_key": "iran threatens full scale offensive if us keeps bombing"
+    }
+  },
+  {
+    "title": "A seventh night of US strikes cuts water to villages in Iran’s south - Al Jazeera",
+    "summary": "A seventh night of US strikes cuts water to villages in Iran’s south Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnp4bXVXai1STlR6Y1ZWc2VmQk5DeXMzNkpnZjMzQXBpVU1QRXAyMVNQcWFSTVRBM19DTzBHMVczbmRsWjBnRXJjUjNJdHFPeXlZOVJSeGVPS3VUT1pjMHo1YkN2d0FvNmc4ZlBZZkk5MWdqRUUtUTNWaTE3NnUtQU8yWnZqSzRNVkMzSS1FakIwMEhYNXB6WTU5eWs0S1VhZkdLb0d3aG5DM3hCNHBhZlUxdlJNelBZUlHSAb8BQVVfeXFMTXBxT1dGdjYyOW9MRk9jc0p0cDZrOHczLTlHV01EenRKdllVQmJyOTJmai1qSlB5aUp3U3JTM0UtWVJTbGdZdF9wLXVtV2oyRU9sNHdPakkwSU9GUW1MR2lQX21jc29MYXdyNjFkSXVYcGJMdnQyWUNIZjE0MGJXWVJpY1E0Szdfa1BHeGViLUdnLW5VQ0tNcFpRWm1lNHNhMVVHdXpLWXVqaE01ZW9OSms5RjhwZ2VpdHgwMTEzV1U?oc=5",
     "source": "Al Jazeera",
-    "published_at": "2026-07-17T22:14:48+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 22:14:48 GMT",
+    "published_at": "2026-07-18T05:15:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 05:15:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5a7220dc17c77be09185babd42cedc1bcaf896dd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct US military strikes on Iran over consecutive nights indicate active retaliation/attack.",
-      "event_key": "us strikes iran seventh night"
-    }
-  },
-  {
-    "title": "US and Iran target infrastructure as strait shipping comes under further attack - Al-Monitor",
-    "summary": "US and Iran target infrastructure as strait shipping comes under further attack Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkxTbzYzZXlxWXJHT3BEMjZBQm0ydExUbURJMEp4cEpBSkxoTmZ2SmJsb2JFUFBiRnh3eTJxLWs0QXhlTUdveks5MzVNaGdXT3V5aFlDRTFWWEhGSEM1azlKdmhKc2xxenZ4NHVyX1M5YXc0UzRIOWtXR0Qwa0VWdG9TQUxpb3lPTUlyUkF0dnF4dVJ0UF9Zd2NtTzV4T0d5MHhlZWRkU0dqd0pSLWxqMXVjNnVrTGRpZm10bVhn?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-17T23:49:51+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 23:49:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0b1de20c2414743fd872b0d99c1df8ca5c49c47",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports that US and Iran are targeting infrastructure and shipping indicate actual strikes/attacks rather than diplomacy.",
-      "event_key": "us iran infrastructure strikes strait shipping"
-    }
-  },
-  {
-    "title": "US launches 7th night of strikes as Iran attacks military sites - Al-Monitor",
-    "summary": "US launches 7th night of strikes as Iran attacks military sites Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXotNnFxRHNic0dfRFVESjNqajQ1S3plX3pRQ0J3UnhZVlFHZDdBTHZ3WkdFekFDU2Y2Y0pUbFRKRzE0cjl2TzRYTEIyTHRnNkhoc3FYdThXR3lzc1NOelB2bjhqYjZOcnpWb0NpNFZGQVZtb1owZldLbHBqX0RUeS1GU0lqdW1lTjBuTXZlUFNZblYzbkZrNDJkTmV2RDE4YUpWUg?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-18T01:30:30+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 01:30:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "37658aa56b62526980b95ef9ca8e1f2e7c53ce17",
+    "article_id": "1e5d620741ba77263ca38a6ea1d5b58299546209",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct US strikes and Iranian attacks on military sites indicate active military retaliation.",
-      "event_key": "us launches 7th night strikes iran attacks military sites"
+      "reason": "US conducted multiple nights of strikes hitting Iranian villages and water infrastructure",
+      "event_key": "us strikes iran south water cut"
     }
   },
   {
-    "title": "Iran fires ballistic missile at US base in Saudi Arabia: Report - Anadolu Ajansı",
-    "summary": "Iran fires ballistic missile at US base in Saudi Arabia: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1ZpSFpVOHFWVUpURzZnaVhFV1VlSEozMWlFN0tBckhKcDRGSzR0RVgwcmJBYlp6a21NR1Y1RTRDVE9HWG5oWExrQ3NVX1VBeWFXY1pfdTRNZlVtRW1ZOHBndm1ncG5TWTFTdmJVNDVyYkJDX3NMMXAtYXZIZWhQSFJjVUJteDhMX094OFkxRkliZjhoWFg1MW5hT0swa1RsaDRnb2ZCN2FvWEE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-18T00:21:52+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 00:21:52 GMT",
+    "title": "Live - US strikes bridges and tunnel as Iran widens attacks across Persian Gulf - ایران اینترنشنال",
+    "summary": "Live - US strikes bridges and tunnel as Iran widens attacks across Persian Gulf ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-07-18T04:28:26+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 04:28:26 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "38b6a87b00cb2fd5548ad8491e41ed1433951ee2",
+    "article_id": "6667209f8085d6695423a69802152e4fd4a1caf4",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct Iranian ballistic missile attack on a U.S. base in Saudi Arabia indicates a direct military strike/retaliation.",
-      "event_key": "iran ballistic missile attack us base saudi"
+      "strength": 0.9,
+      "reason": "US conducted strikes while Iran expanded attacks across the Persian Gulf — direct military exchanges.",
+      "event_key": "us strikes bridges tunnel iran widens gulf attacks"
     }
   },
   {
-    "title": "New US Attacks On Roads, Bridges Reported As Iran Hits Back At Gulf States - Radio Free Europe/Radio Liberty",
-    "summary": "New US Attacks On Roads, Bridges Reported As Iran Hits Back At Gulf States Radio Free Europe/Radio Liberty",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzZFNkpURk5ieEhPWVhQSjVXb0JaN3Z3RTNNQ1JjU3dldC1FWXRpaURmWmpkblpueEtLYmdPRlJoMC03c25OemtfM3ppaGprNkpxdHA1bDZnS0RQdHRIWUZDVHFRa1ExZDI0VUxhSkVJN3BlMktJTkpjS2N2bTNzNU5GNEhBVGdfTXYtUzhn?oc=5",
-    "source": "Radio Free Europe/Radio Liberty",
-    "published_at": "2026-07-17T23:07:48+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 23:07:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "946d8b94ce3eb5bfa85c1051d74481fd7c98115e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports describe US attacks on roads/bridges and Iran striking back at Gulf states — direct military strikes and retaliation.",
-      "event_key": "us strikes infrastructure iran retaliation"
-    }
-  },
-  {
-    "title": "U.S. Strikes Iran for Seventh Night as Gulf Tensions Escalate - Haaretz",
-    "summary": "U.S. Strikes Iran for Seventh Night as Gulf Tensions Escalate Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUEsxM2pGdDd5TDJBMzVaUmZRa24tUHNkemh3QktpNzRsZXoyeHZNdzVtd3pxNlRBREUxdzB1cmQ2eEFjSFVoM2kwSEZtdkZ3SmxRZE4yeU9waXJBT0lSc2U0aXdhQ1VXRzlZTmh2OXlMN0RTcW02Z2ZyVkJraEtGbVVfODlyRW5RaTRhRHlndDd6TWI1SXJGbFp1akNFOHg1TE1nRENLdklQX09aS1NCWURoR0tOaU1SZjhwRmVDWGhNQlFYZlRfR3ZZMkc5c0MtSFdtbVZrdzU0cjl4Vk5mUWh6ZWkwTWR0VGt1aGZfZUZFeTdidW1nRmZ1bkNjaWZ4THFld2hvMHNFdw?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-07-18T00:00:00+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 00:00:00 GMT",
+    "title": "War between US and Iran expands as bridges and water plant hit, more ships attacked - SMH.com.au",
+    "summary": "War between US and Iran expands as bridges and water plant hit, more ships attacked SMH.com.au",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMU5CeGRuTWg2akdnVXRsWnRuNlkydGVBYWtNWmpVdzdIYWFiVXNOOGlwOEE4VHd0ZHBBTjFEX29fRmUzSUVjdmxUUVJWRHNQQ056QzBOTTN3d3ByMHdmWEN3MlpxN1BpRWdhcVRUQ20yQllIREFGREpEOTBlZ29JWWhsMU1kbTZzaEM0Yk9PUVB2YVF0Qk11YXVZbkdmcVEwSHpZRkZzVmJNVEZUSDJwaEU3QW1PR2pzMXI0VzhMamtfNlZLUWxYVExQRW1rVnJiZmppd0FZekR6VEdt?oc=5",
+    "source": "SMH.com.au",
+    "published_at": "2026-07-18T04:49:49+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 04:49:49 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9238821edbf9765f7ca85566552812fd77799388",
+    "article_id": "69458a6bd074b071f0c17465150e9f2f4bda5e54",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Repeated direct U.S. military strikes on Iran over multiple nights, indicating active retaliation/escalation.",
-      "event_key": "us strikes iran seventh night"
+      "strength": 0.85,
+      "reason": "Reports of bridges and a water plant being hit and more ships attacked indicate active strikes and military attacks expanding the conflict.",
+      "event_key": "infrastructure and maritime attacks"
     }
   },
   {
-    "title": "Shipping in Strait of Hormuz under attack as US-Iran war heightens - ABC News & Headlines – Australian Broadcasting Corporation",
-    "summary": "Shipping in Strait of Hormuz under attack as US-Iran war heightens ABC News & Headlines – Australian Broadcasting Corporation",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQnI1dTVkSmZhUEhFc1JJWkF1LTFJUmdENDRzcWJHeERuMnpxeV9UUUl0QWJRTkdad0RieG9WTWZXRkt0eTBtNEtna1hHcUNYSVN5V3cyRDZqZnB6dzFVY29KczFEcnltRld0WlJxRGtTRDJsZ2pXcFliNU9sM1hpamd3VlVNUWFDZDVTWTBod3RCd2pQZm5WcC1xakF2TkNLSG1ZZVJxb0ZaVEI3QkE?oc=5",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "published_at": "2026-07-17T23:21:59+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 23:21:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ac44a29b2a0977310c1e0d19ab3b593fd90308fa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Attacks on shipping in the Strait of Hormuz suggest Iran-aligned proxy operations escalating tensions.",
-      "event_key": "shipping attacks strait of hormuz"
-    }
-  },
-  {
-    "title": "US expands military strikes in Iran, targeting inland sites: Al Jazeera - Crypto Briefing",
-    "summary": "US expands military strikes in Iran, targeting inland sites: Al Jazeera Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjNIeHdDb3M3dlV6dTJXQ1JVSmY3NjBFTXdPNkpJRHFWSGl3ZDlBS3lpMk5RbkZzcGNWMEVkRGx6NzM4UmhXYnlnbHM0RHJZVUhUeHFfS2x5WFpocE1UNkx6QWxBX1FwLXVjbWRMSTZHSXBETmR2TFJLbkxHOWsxbW95N083OGYwbHFFME51MWhCTG13ZTBoUjBJeElmdw?oc=5",
+    "title": "Iranian army targets US military assets in Bahrain amid 2026 conflict - Crypto Briefing",
+    "summary": "Iranian army targets US military assets in Bahrain amid 2026 conflict Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTdiYk9yWEw3THlLNjB2QjN3SVBvUDRXWmQ1b2ppMzVQcFc0OU14U2JkdDJaNWtqS0wzeWFPWU9nWUJxdENYMndBbG9UTjFfa3BNT3gwODRSVV9RR0NoRXZycE81bWtKVldiNGRncEhsMElfY2FuTUVaUlY2QWFUcFVpelBUSnZYUWQ4SEdwMHBmVFlOVUd0V0hnZ3h1Zw?oc=5",
     "source": "Crypto Briefing",
-    "published_at": "2026-07-18T02:07:33+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 02:07:33 GMT",
+    "published_at": "2026-07-18T03:44:08+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 03:44:08 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c37084e825339272f8a6c2295a12d186bfcc9dde",
+    "article_id": "bd95fc549f55b1677dad2a7547de786be2743aa1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports of US expanding direct military strikes targeting inland Iranian sites—clear direct military action/retaliation.",
-      "event_key": "us expands strikes inland iran"
-    }
-  },
-  {
-    "title": "US and Iran escalate strikes across Mideast; bridges and a water plant hit - The Economic Times",
-    "summary": "US and Iran escalate strikes across Mideast; bridges and a water plant hit The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWcyWGpSZ2doSWpUX3hUQi1fRElJaUNycXVDTGdsT0tyd1dUVmRIeXRNRkF1WFl2ZEZoRzNDZnhsQkZkaDhCTzdHV1BfX2JfeXMwSzVwTDZOX2MtUmVqWF9NcDY1MXZpMDBLbVB1UWVjYmZTNWoyRk5PYmp2S2VBQ3lLYjBZQ2wwZzBVaG1OUzhrVGhETU5tU1NIMXYwX29TRW1EVWhaZ3lZOHR3THY1bVU5SVgwdFNwYlZJd2tGLTU5dmM2ZVFFaGY0NktPOHV3c011SDYtWdIB3AFBVV95cUxQVUJvMUh2aUR6d1NiSjNTdWpMWlY4LUZySHpRdnNpYmtBQkM3amhla19vN21iOTEyT2dxem1NdlpGYUxWVVJscUNJc01odXkxT1c0OEp0OXRPdjVscWtGTzlCbi1CUEluN280WXd6Tnk1U1NRYXJvUkhya2d4cGViTkVIZmx3ZUlKemwwZ1dBd1VjUUV2NGJEZ21WRUFKRmxFMk0yNC1XdDZETTU3VG1lUFp1SW5EXzBKYnREcWh1RkVheFlsRjd6c0xPMGlrTTZ1cWMwc0Y2M3VwaHhu?oc=5",
-    "source": "The Economic Times",
-    "published_at": "2026-07-18T00:48:58+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 00:48:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "09169fe7fbeae99b272fc9f0272233ed64fe918e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.82,
-      "reason": "Reports describe US and Iran conducting direct strikes across the region, hitting bridges and a water plant.",
-      "event_key": "us iran strikes mideast infrastructure hits"
-    }
-  },
-  {
-    "title": "US Hits Iran 7th Night In Row, Tehran Replies With \"No Border Safe\" Warning - NDTV",
-    "summary": "US Hits Iran 7th Night In Row, Tehran Replies With \"No Border Safe\" Warning NDTV",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSXM1SkFwU2JsMXdNZUQ3Z25GTUxzRDMzRENVZk1KZWVyaVdwVVJ3TV9TeDJrNnU4bEdsWHZLbEVRQkNSbHFZZ3VTRzNBS0tiSzd6ZEp0LXhIem1ZeDJiVDdCYXlmT1NIT182VEVNUGpOOTNLZ3lCR1lLaUVnbFVGamhDR2JvTDQ0N0dKdNIBlAFBVV95cUxPN1VWc0YzUUo2bTBvM0t4cU1sNzl1bUNqdXExUmlpVnM4cnJvR1RtWllHQmo3Q1BkSWs4Vkx1Zzk2Qk1wQ3VGTDVXbDF4VHBfajM3dFZRMUpTRk9uR2ZCdTNzQ1NPZ29MSDQ5NEt4YVlEWm1RQVdWWXNoODdPUk5OekVmbG9wTHJsbzNtWGZRODROT014?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-07-17T23:26:02+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 23:26:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5b941b910c74e79427a0333c44b4d684798b886b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US carried out repeated strikes on Iran; Tehran issued a direct warning of retaliatory danger to borders.",
-      "event_key": "us strikes iran seventh night warning"
-    }
-  },
-  {
-    "title": "Video | US Hits Iran 7th Night In Row, Tehran Replies With \"No Border Safe\" Warning - NDTV",
-    "summary": "Video | US Hits Iran 7th Night In Row, Tehran Replies With \"No Border Safe\" Warning NDTV",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMExIeHZjNFNCVnVqVkJfeXJIelE2VFAyemt4US1OVnM5LVpwdElXMVRfdjdScEdsLVJmcnpjRUU0UVBTRWdURS1tREhQZGNsY2dxNXVveEZQZ19iN0RsYjlXaklVdDVuZXhPdkw0RkdOdllhZHlrWnI1cW5Ja0hXQUU3X3VYdVd5dk1NQ0xZOUxJSmZaaVJNbGhncWRwX284ckdmdlFmR3FIdFk?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-07-18T01:30:38+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 01:30:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f2b8e30604e14a9d42f5388168a9e0e6f56fcc3c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US carried out repeated strikes on Iran and Tehran issued cross-border warning.",
-      "event_key": "us strikes iran multiple nights tehran warning"
-    }
-  },
-  {
-    "title": "Iranian missiles fly over Amman, target US base in Saudi Arabia - Crypto Briefing",
-    "summary": "Iranian missiles fly over Amman, target US base in Saudi Arabia Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVczV3Y0eV9QUUtUal80OHlESFd1dDZ0X2VqSExIaFdzVW1PcFBuUVhiVTNwUFVMRVF1YXRLdzVFc0lTUDN1bng4LU9iZER0QUlvc0x1dHh1dnhsSUFPUHVRRmtoWXZ5VVZBUFVUa2RLYm5ZMlVNWXR3QkdyN0Zjdm5kNmVCOVFHXzdmZkt2a3ItWjhz?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-17T23:49:47+00:00",
-    "raw_pub_date": "Fri, 17 Jul 2026 23:49:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e5d2630fb7f2a23d290a7719461972bf1c8fff25",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Iran launched missiles over Amman aimed at a US base in Saudi Arabia — a direct military attack.",
-      "event_key": "iran missiles target us base saudi over amman"
+      "reason": "Iranian army directly targeted US military assets in Bahrain, indicating a direct military strike/retaliation.",
+      "event_key": "iran targets us military assets bahrain 2026"
     }
   }
 ]
