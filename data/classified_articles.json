@@ -1,172 +1,240 @@
 [
   {
-    "title": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. - WSJ",
-    "summary": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S. WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUFyRm95ekJ4VEpzZzBaNUlLV3FEcHFuUWpaX1poT21ibWJSOFNHbmlCdUZyOWp2TmJfY2xEXzFxTW9JeGh6WVFSRE1DT3ZNLWVYZ2wxZ1h4MkdxQ2pqUkwxSWdrSU9BaUVkUzRaU3dyVHVOeElZZThwUFQ3TUJOVTU2clBNckxPQk5TWGlFczFnTWhNSkpMNEFQT2lHQjFSUjAyRk05TVdoalk?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-07-18T21:00:00+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 21:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0bd1e73ed0bc015e583be0daf7884844d184e10d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Reports Iran exported $6B of oil during a brief truce with the U.S., indicating an agreed pause in hostilities.",
-      "event_key": "iran oil exports during truce"
-    }
-  },
-  {
-    "title": "Mojtaba Khamenei Threatens Trump, U.S. Assets With Retaliation After CENTCOM Strikes Iran - NewsCord",
-    "summary": "Mojtaba Khamenei Threatens Trump, U.S. Assets With Retaliation After CENTCOM Strikes Iran NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV1Z1cTFkOWFoM1ZLczh5dDdjb2VSRjYxd3BJVFlRT1hJTnlodjBxbUxtZGRYMDBSenFUY2xlcXpQZXhPNlNoLU1fbHhiZWUya2REWlRsM1ZBR0RlRE81c00yM1VLeC1nTkQxYVBsQ0VCSGpxcV93aUpDeDA4VTB2ZFM3bE9sSjU5WVZSZnFMOWFSOFhxWVFuWU1BdmJUcFZxWTN0MVY2cWFvZXVBTGl5b0FsTHY4UDllZ19wdnc0RWRxX0ZWZld4RG55YU91V2R6WTBmR1VUblRIMGpNV0ZPZ3hpOHpNWDIza3c?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-07-18T21:40:24+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 21:40:24 GMT",
+    "title": "US military unleashes retaliatory strikes against Iran after soldiers killed in Jordan - The Hill",
+    "summary": "US military unleashes retaliatory strikes against Iran after soldiers killed in Jordan The Hill",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xaFdKdXFqdkU1X0g3STh3V0J3SHVMd19ZUVhBV0pZcTVHdVlVbkNkRWpya01ZT1JDX0EzX3lrUl9iNXRTTUN1THg3RTAybEpjZVl2QnNvOWFhMGpXd3kwaHRRRzZmWTNOWUpnbGhINEw3R1E?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-07-19T00:21:00+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 00:21:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "097f4c0f848b642a0ddae9658f3987288a3e5a70",
+    "article_id": "294c6c4fde17aca8d9510354af4246888019323c",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.82,
-      "reason": "Threats of retaliation against US assets following CENTCOM strikes indicate rising tensions and hostile rhetoric, escalating the conflict.",
-      "event_key": "threats after centcom strike"
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US launched direct retaliatory strikes against Iran following deaths of US soldiers in Jordan.",
+      "event_key": "us strikes iran after jordan attack"
     }
   },
   {
-    "title": "Iran threatens 'unforgettable lessons', as two US troops killed - Yahoo",
-    "summary": "Iran threatens 'unforgettable lessons', as two US troops killed Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaW1fUXQ0anlWNG1saWtBdUlocm5ZbTdHVEtxeTNmaUtUYVl3MTB4UzZKRGxqMk5ZbE9uczZ4T3pXYlRKLThHOUhmbmRhWTl4bFNvSGtoNXVFeEoweXZYaWJoLVdwZnVpZGdfWFMyLXBnM3VJQ3pDU1l2aEVGdHVNaXFDblZVbjRjSlRiaWFHbzlqMjc4a2YybHY0Tlc1YU0?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-07-18T20:42:58+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 20:42:58 GMT",
+    "title": "US launches retaliatory strikes on Iran after Tehran kills two American troops in Jordan - Firstpost",
+    "summary": "US launches retaliatory strikes on Iran after Tehran kills two American troops in Jordan Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3F3aE9TR08weGcxZEVmLUppeTl3M1FucmlEdmFrYnVjX3NodWpZc3RzVmFSbTNIMlkxQktEMFdQdGs4MDQ1TVZxU3JjdldxRFF1dlNmc1NNV0dGdl8tLXRLQXZVMzBEU2dyQmFDeFZGSjhSbTh3UWhNU1ZFY2VJVHk0RWFjenJxbnIzQ3BheWVUaDFpbjNTQVdPclFGX3RmTmMtZ2RYY3d4aDFvQnB0TUdSd3psVjU2S25OWFowSk1oQUwtZzYxVDBtZFFHTGfSAdQBQVVfeXFMUFEyQ3duQWlsU21JVGFvb1lrVFlxRGl6WjBEOVp4YVpUNUZ4ZnJPY2Z2eWxpLXh2UU15bHBOdVdmZ0wtOE81Wk93YkhzQjFTUWFXTEFDWXdYNWZRclJzTzJNRlVTN3djMnpBRHUtWmZxOEFaOURFRnNDSWxVWUs1Ym9WN0ZzX1N0ZVRQeENoNzNvSkxuRHdMOXlOVjM4SmlRaktfVG9HY1paQjBWQXVwWmZhcXNNMzVEWUVkdVJxWEpFNGNLMkQ0M2lYcnNYZFVWSUZ1dnE?oc=5",
+    "source": "Firstpost",
+    "published_at": "2026-07-19T00:40:48+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 00:40:48 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6ad362317021307b33aaedbb696ca94be5bbab20",
+    "article_id": "d8abb2f023218760b0c48e9b4eb270000a20b580",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran's threats after two US troops killed indicate rising tensions and hostile rhetoric, not a negotiated pause.",
-      "event_key": "iran threats two us troops killed"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct US military retaliatory strikes on Iran following deaths of US troops—clear retaliation/strike event.",
+      "event_key": "us retaliatory strikes on iran after us troop deaths"
     }
   },
   {
-    "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue - Al Jazeera",
-    "summary": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0ZOdFAyZklEbUthaUZXa1dHWHVFRlhPcmRrMGxCdHpPT015b3dERXp3aEstOS1jNEhiQnR2bkstQ2pob3Y4czJEREpfcHRXUnpsMVZYTGg0SExmS0xmVDgxS0pZWHZBOXhvQUQ4NXhSM19zcXpqZjc2bXdGYkdzemRGZFNYR1BsTDlSYmhURHNoM3B2aHRld2ZUWnh6cUpKcU5KVU9WNWZvak5QUWtDdXA5WlnSAboBQVVfeXFMTTQzY0dCUl9hUmxMaEk3M0xWdEZjTHVLM245LXc3TmZCbEpzQTJTaXVfRWFBMTc1dUxsU2hVV1Ryelp3VUNDdnRmNVNacEpxbHFqZTBrOVpQSS03SEdQUW43cGVTY2VuT08yZlhMbjBNY0lIZEZ4S3EtLTJfWFhVOWJRM3Z5UE9tUHVUdGFxelNRa2R0ajJNbHA1ZTJleVZjNWx3RGQ2SndvV21PSUdXemxscXBDNFpVSV9n?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-18T19:05:31+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 19:05:31 GMT",
+    "title": "US-Iran war: Donald Trump calls soldier deaths ‘a shame’ as US launches retaliatory strikes against Iran - Nine.com.au",
+    "summary": "US-Iran war: Donald Trump calls soldier deaths ‘a shame’ as US launches retaliatory strikes against Iran Nine.com.au",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZTF0bDVncW1jVkJGTzZ0QkxpYnk0dEEwSXFsNXF4NlZ4QnZzLUdxTzBiZkhZVXY5cHk1LUotZzdwVThuRVdKQXFtOFd5bVRSMjc1TUVHTTdURGtYUlNmM3BDRGFhZ2Z3ajdfeEZQZjBybS15ZDFfc0I5WjJHQXBFb2R1bG1hcmZLLUFEX0NBNl9ia2ZuWGp6V3dZdWliYUtpdGllT0hGRUNWM25vaERMNVNKNXhmb1FMaW9TQU1vbWZyOUFzZU44UHV6bi1TRy0yeUFQY0pRT2RRZGc?oc=5",
+    "source": "Nine.com.au",
+    "published_at": "2026-07-19T01:38:00+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 01:38:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "67d31ef78129dd4048e0ba92d4b48c70e4906ab2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports US launching retaliatory strikes directly against Iran following soldier deaths.",
+      "event_key": "us retaliatory strikes against iran"
+    }
+  },
+  {
+    "title": "US launches new strikes against Iran, citing Jordan deaths and Hormuz threats - Türkiye Today",
+    "summary": "US launches new strikes against Iran, citing Jordan deaths and Hormuz threats Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGJPREtUQVNhem1HMlZ6WFNwMjZ1c2l2NnZXcU03U3QwN2luT2hvRmN0QzJJMV9rZjc5MWZHbWVPOGQyZDlUU2NybjBHYWVOV1pNOVVEUmVGZUJVZ3lSUzJVUUVSZ2gxUlljdDBxUHFCM3p2bXU4M2dwblBoRW9tRW1nZ2R5cllTbFpvN1VrRzgydV85cW9mWDRnbjJESDdXNnhDM0dKTGtXcm56MlNIQ1Z3TEgwdkV3aUpjaA?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-07-18T22:32:20+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 22:32:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bc0815d5ac534acc73eba45a4f20e0e96673d5e9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct military strikes against Iran citing Jordan deaths and threats to the Strait of Hormuz.",
+      "event_key": "us strikes iran hormuz jordan deaths"
+    }
+  },
+  {
+    "title": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+    "summary": "US renews strikes on Iran after two military personnel killed by Iranian attack Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-18T23:21:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 23:21:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9bbd5766a531dbc28b4f19763f7746c61897f169",
-    "source_weight": 1.0,
+    "article_id": "9705451a8bbb4922bc227eb67a27f40c92db4d6e",
+    "source_weight": 1.15,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Supreme Leader issues direct warning threatening consequences if US attacks continue, increasing tensions.",
-      "event_key": "supreme leader warning us attacks"
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "US conducted renewed direct strikes on Iran in retaliation for an Iranian attack that killed two U.S. military personnel.",
+      "event_key": "us renewed strikes on iran after us personnel killed"
     }
   },
   {
-    "title": "Death Toll of U.S. Service Members Rises to 16 After Iranian Strike on Jordan - The New York Times",
-    "summary": "Death Toll of U.S. Service Members Rises to 16 After Iranian Strike on Jordan The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVRXVlVqTjdFemN0RXZhN1dhS0FOOUJSQnJRVU5iTkx1Yjc0blVvUVduTVEwc2VhVFhFdnJVdms4OEppdnJEMHdNeGpNcWdKQ3ItdmVEWTVTbllEbHdiQzk5WHo5Ry1pdkEzVkVIM3BKaVNkVVlSQU54MVotNnI2UEhfNjNYVlpiQUU4SzcycC1aYmM?oc=5",
+    "title": "2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says - CBS News",
+    "summary": "2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says CBS News",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14TjVrN1ZtOW1JOUExS0dfN2xxaHZneW1lN3g0dGp4Ql9MRUx3dVBzTlVkbVNvOVFnb19GR1hXNTFDSG5PbHBZdmJFdnd5NHpKTHpnV0JyUXBWeHVlOWNSel85LW9GdWt0eXFHM2doT2FfXzQ?oc=5",
+    "source": "CBS News",
+    "published_at": "2026-07-18T23:41:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 23:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3949fb410f152936d43bc76ffc746f6c6ff381f2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.88,
+      "reason": "Direct Iranian strike on Jordan killed U.S. service members — a clear military attack/retaliation against US forces.",
+      "event_key": "iran strike on jordan us service member casualties"
+    }
+  },
+  {
+    "title": "Video: Two U.S. Service Members Killed In Iranian Strike, U.S. Military Says - The New York Times",
+    "summary": "Video: Two U.S. Service Members Killed In Iranian Strike, U.S. Military Says The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmhQbkM2dmc5dnZKOEgzelozdDZrNC1HZkZ5MzlKbEpYYmZ6cEZJNTBVblBXd0NTTG9VbktkaXZySGlHRU95S2Q5bmUtcXFtbzJRSWRQUmd0MDJPZjlSU24xaHNNWUJja2VmSHpxTVJiMk5xYlZ6RUdxWXRpZUhZTXRMY1BWQzBDQ2ZTeGVLYklrUG91Vy1pQ1Z5XzdVQUFmeHc?oc=5",
     "source": "The New York Times",
-    "published_at": "2026-07-18T19:19:31+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 19:19:31 GMT",
+    "published_at": "2026-07-18T22:28:42+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 22:28:42 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a248a62033f91188266785889a0a6e2d5bd8c204",
+    "article_id": "446c07035ab9ec9bcee0e3661addb0260f982fc3",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.92,
-      "reason": "Direct Iranian strike killed U.S. service members in Jordan.",
-      "event_key": "iran strike jordan us deaths"
+      "reason": "Direct Iranian strike killed U.S. service members, indicating a military attack/retaliation.",
+      "event_key": "iran strike kills two us service members"
     }
   },
   {
-    "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan - NPR",
-    "summary": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan NPR",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHdrMGtDbk9GejZad2dqd0k2TWVKSnYxcVhpVHNPbDVKU0xyOEJSXzhHbzEzTl9EOE1jVjNSZnIydVdObUFCNXEtZXN5dW1qU2RfUXdqX28zSVJCaE1vTkN1NHA1SjZiMHVzNUt1VkdKVTFoZ0tPYjJZV3hJLU81OTVxRGgwMGJq?oc=5",
-    "source": "NPR",
-    "published_at": "2026-07-18T21:17:18+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 21:17:18 GMT",
+    "title": "US must be 'very smart' about taking out Iran's missile, drone capabilities: Ex-Air Force intelligence officer - Fox News",
+    "summary": "US must be 'very smart' about taking out Iran's missile, drone capabilities: Ex-Air Force intelligence officer Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTUZwS1hLamxTUlRGMU0tUUtrWlhMRFpqc0tPelJtS0hxajc5S0ljMkdmT29mNFZHWTBoak9UeUZDc3Jxb2U3eTY2Skc5Q3hpRklrNDJB?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-07-18T21:54:16+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 21:54:16 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8022b1af6bbcd581a7ffc599c46e39b5b7aab198",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct Iranian attack in Jordan killed U.S. service members, a military strike with casualties.",
-      "event_key": "iran attack jordan us casualties"
-    }
-  },
-  {
-    "title": "2 US troops were killed during an Iranian missile and drone attack, the Pentagon says - Business Insider",
-    "summary": "2 US troops were killed during an Iranian missile and drone attack, the Pentagon says Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUs3eXlYeU9kUC0ycEpIT0plRHZLVGk0TlNvLVZCRkdIaFFvWUFKTUE0a0VpVUFXS2RKS3FCSEZqUlhnZVMwYWNGNTA0LTQ0R0EyZjJ0VVZyNkQxMHRmYmV2a0MwZTVIZU5TZ3BwaUpRMExjemVQekN2MXZLMzdZWGJQWjJFNm8?oc=5",
-    "source": "Business Insider",
-    "published_at": "2026-07-18T19:20:57+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 19:20:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4377cdf172ac1d7e7d1b0c26e53cd5adb25c5e2c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missile and drone attack that killed two US troops—direct military strike/retaliation event.",
-      "event_key": "iran missile drone attack kills us troops"
-    }
-  },
-  {
-    "title": "Yesterday's US-Iran escalation is a mere prelude to what is likely to come - Trita Parsi | Substack",
-    "summary": "Yesterday's US-Iran escalation is a mere prelude to what is likely to come Trita Parsi | Substack",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XakxQMGFYSGRzaHUzTkRVWW1Pd3RyOUVhcUJYTXI5NEZXdFZlb0tDbzV0WjVZZDZ6STh4bjJhNE83OUUyY1BZTF9qRzVrbno3TWUyWWM1UnhsVWxzcm5QQThEV1o0bXo1cUNwbEtrcjB1eGwt?oc=5",
-    "source": "Trita Parsi | Substack",
-    "published_at": "2026-07-18T20:15:10+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 20:15:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d41e429fe382d9a73e6fdf521e55ea87648ca6f8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Opinion piece framing recent US-Iran clash as a prelude to further escalation and rising tensions.",
-      "event_key": "us iran escalation prelude"
-    }
-  },
-  {
-    "title": "International oil firms halt production in Iraq’s Kurdistan amid US-Iran escalation - Al-Monitor",
-    "summary": "International oil firms halt production in Iraq’s Kurdistan amid US-Iran escalation Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXFxVW1FbmQtQmUwNEhha2FTTGo5R3piZGIyRjc0UXpCM0NhSkwtc0EtS1A4N1NiV0JpRU5IYzZRbEpYaWJ2aDVJQ2tRY1NIMm1TQzZiU3VhcHR2aTI3elNUYWxEczcwalNiMXlmNzRqcTdnVDRrLVFpdUpsMndNUHdpOG84WW1jeXNTOTB5azVBczRPUVZyWm1IUjVBZERYSm5NOThIT21pRWtWeWNndF9JRXlOZkpic2dmQnhqcDliQQ?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-18T20:11:14+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 20:11:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0c8a8dd0a0216f000e26303d9143f17f5352e4c5",
+    "article_id": "08199a1a72f696c72ca40217340d575d11582310",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Firms halted production amid reported US–Iran escalation, indicating rising tensions affecting regional operations.",
-      "event_key": "kurdistan oil halt amid us iran escalation"
+      "reason": "Commentary urging US to target Iran's missile and drone capabilities, advocating military action.",
+      "event_key": "advocacy strikes iran missile drone capabilities"
     }
   },
   {
-    "title": "Israel watches US-Iran escalation, offers to join strikes but Washington urges restraint - Ynetnews",
-    "summary": "Israel watches US-Iran escalation, offers to join strikes but Washington urges restraint Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VYlNvMG1MbFhEZnA4ZnBIVlFUdHZMZm5LTGs5SDlva2FPMlF0T29FbFBOWU56TnhXM1duVkl2ak0wVmJCb0w5dDhUa3VvVy1MSE5vMFZn?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-07-18T20:32:28+00:00",
-    "raw_pub_date": "Sat, 18 Jul 2026 20:32:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c9aa8d6b40aa5b9c8c12f8df81f5676f212f991c",
+    "title": "2 US Service Members Killed, 1 Missing In Jordan As Iran Steps Up Attacks, Threats - Radio Free Europe/Radio Liberty",
+    "summary": "2 US Service Members Killed, 1 Missing In Jordan As Iran Steps Up Attacks, Threats Radio Free Europe/Radio Liberty",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlRwNEg3NWl1YWVZd2NCOVZ6akh1YWFFcTc1UlZkRlJfeVFSZmUtajBDcHBFSElEZlhwbG1wdFlDQ1FiYnppeVFRM21fdE12dFVOdnhjejVtNWpabHMwemh2dzJVRG1MQl9PY2RqTy1WWWt6NGtwckl3aHBuNjhSaG5xWTMwd1ljUnQ2SENSMGt4UdIBlAFBVV95cUxOZU9oZmxlMTBWUnlvTFBVSnBPZHRYbUlidERncjhlN0c4T2xYZE9Kc2ROZ3FOV2J4dTBsOVZNUGI4a1hfcU0wSHc1M3J3NmVaNEkyTHdMcGFxRDVfVWNZbjNvcUV5S3F4RThGeUtLWnBlQld3UGh6blhmcnBKMGlLQ3k1R2tzZVVCZk9LQ2xZdVhURWRy?oc=5",
+    "source": "Radio Free Europe/Radio Liberty",
+    "published_at": "2026-07-18T22:00:40+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 22:00:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d0607421d42dfb1b1c9cf1c2c0c35fda40cb2ca7",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Offers to join strikes and watching US-Iran escalation indicate rising tensions and potential widening conflict.",
-      "event_key": "israel offers join strikes us iran tensions"
+      "strength": 0.7,
+      "reason": "US service members killed amid reports Iran is stepping up attacks and threats, indicating rising tensions.",
+      "event_key": "us casualties jordan iran attacks escalation"
+    }
+  },
+  {
+    "title": "US Strikes Iran to ‘Punish’ It for Attack That Killed 2 Troops - Bloomberg.com",
+    "summary": "US Strikes Iran to ‘Punish’ It for Attack That Killed 2 Troops Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWC01Y25CS19vZjAxMUpMeU8zallocGM4ZmRGV0ZXYlpOUTJ1S2Nxc3lJaUZPNWhMY1pHbDZYeHAxWEp0Zl95RVVsVjhkb0xFXzduREJNN0RjM0FzSVRpMlNaOTN3RUtmSVpXaW04ZFJpeFp2cmhKVkhWMF9YU19JTlp5d0FIMGd2dzB4bDhTNHMxWVNXRi1PbEVHMGI5dGp1MjU3SDRQWUdidkFuV3NuZi1wNA?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-07-18T22:24:57+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 22:24:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6628c73d29422e9a51e6c90f1e87a5cf1ade54a0",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US conducted direct military strike on Iran in retaliation for attack that killed two US troops.",
+      "event_key": "us strike against iran retaliation killed two troops"
+    }
+  },
+  {
+    "title": "2 U.S. servicemembers dead, 1 missing after major escalation in Iran War - 13newsnow.com",
+    "summary": "2 U.S. servicemembers dead, 1 missing after major escalation in Iran War 13newsnow.com",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVzR5OTJrZ2hxeWc5OENsMjZwREJVSGF2X2JMRlpPaVpNcWY0cXVGOTRSNTBWaEtGaVMzZGFjNDVDcWdRWHhhVldfZFF3blk4eTlCLU9uclFnNWNldDk4aERLTzZ4NEFaMFFrSGE4VjZWT2NQelZ5TWs3TTdnVVp6VDhDdWNmSTBhcUFTODVJMHdlLU9oMXVLdGNpV01YeTZSVGJfOXZlVGxqVWo1bVp2bGRUd3ZiSDRPSjdMeklKUEpUZXdQeUtfTV8wYkh1TVFHZktiX3JycUYtb3MwWTIweDFnem05SWJZa0F2bnROcFRsQQ?oc=5",
+    "source": "13newsnow.com",
+    "published_at": "2026-07-18T22:33:00+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 22:33:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "30c0f1d12249fbf2c68c08446261ac69b63ca7c3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.86,
+      "reason": "Reports U.S. servicemembers killed/missing following a major hostile attack/strike.",
+      "event_key": "us servicemembers killed after attack"
+    }
+  },
+  {
+    "title": "Pakistan and Kuwait Call for Peace Amid US-Iran Tensions - India News Network",
+    "summary": "Pakistan and Kuwait Call for Peace Amid US-Iran Tensions India News Network",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3otVnZuZU1OYlBtSWxUeERJcExfQWg0U3U4N3Q4RHpzM1BfNVdBamZhbjFTNWxBVFZwVWZtd3ptQVY3b05SbGJJYnFQSkZSTmpiLVRpQkdCSzY4cVpTZjZ0WkQwX21hWDhyajZqZzBOLVdmaU1Mc0xydGZUSXRyLTU3djdCdVFHWnA0SHJhRU15VldVRzlYQQ?oc=5",
+    "source": "India News Network",
+    "published_at": "2026-07-19T02:24:01+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 02:24:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7dc135bfa155bb9d0d9c1d84299ad61f43204001",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.65,
+      "reason": "Pakistan and Kuwait urged calm and peace amid US–Iran tensions, signaling restraint without a formal ceasefire or negotiations.",
+      "event_key": "pakistan kuwait call for peace us iran tensions"
+    }
+  },
+  {
+    "title": "Escalating Strikes: U.S.-Iran Conflict Threatens Strait of Hormuz - Devdiscourse",
+    "summary": "Escalating Strikes: U.S.-Iran Conflict Threatens Strait of Hormuz Devdiscourse",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYU14S3dtOE1tNzZyQXZHdTlsTWFmYVZuZmgwUTFrWHNFMkYzZG9uWTE3MTdja21UUktsM3RLLVlsX2JIWU9HVzZJbU1DdTdGOGpMNXE2S3d2U2RsQ1phNTlkX3Rtb0dfdU1GUUw1ZHNSdkNZakxQTlYxN2RQZkZFZVY3aElaUXlXSldsaGpzM1g3OGF1VVFLRGhFU19SbkxhY3ZQUks5VTdiNk5DVW9WNG1kWG1sWXlK0gG-AUFVX3lxTFBHVTc3Z2VuVXR5SFZOWmdPWnFycGo2UVBZRWdpWXdFWEZIX2NXMEFkZmhUV05iX0ctQnF5d0Y1SzhpZ2VuMDhpeF83aW9KLXZqZTU1LWtCNjRqY0tVWDZDRllLQ0FmRlM5amhxYkdxbWZiS3VpaVNCZG9FOTRGRHRVLXdxbElBMjlqZUJfcUZITlZKY3JzUy1LOW1PX0hyRTVpN05KbGtoTHlSSE5Idlg1YTVNWFJyeVg3S3pkemc?oc=5",
+    "source": "Devdiscourse",
+    "published_at": "2026-07-18T23:19:28+00:00",
+    "raw_pub_date": "Sat, 18 Jul 2026 23:19:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "466663a39affa6a00a1de5ffd8bf411d0289e200",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Title indicates ongoing/escalling strikes between the U.S. and Iran threatening the Strait of Hormuz (direct attacks/retaliation).",
+      "event_key": "us iran escalating strikes hormuz"
+    }
+  },
+  {
+    "title": "Iran Warns UAE Airports and Ports Could Become Targets if US Attacks Continue - Palestine Chronicle",
+    "summary": "Iran Warns UAE Airports and Ports Could Become Targets if US Attacks Continue Palestine Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2g5ZzhtZG5NTTlyUUZOb0NSZS1VSng4MWlGZzBaQk9ZZnV2SmFLQ2t1bm1KTzNNWHAzdGtHcnlHNzUyaFNKTzZ2aWh0S1p0T2g2Mk56SjZzcVAzZjlhLUdrZ211Y2hpTE1Kc3VFSmhmQnFlNkM4b3NnQTc4YlAzYjRsTXY2X2tTVXF1OVVVQk9ibm1ZbEFPRmltSzVZbnBGOER5N3dvNXRONHNJYTJvbHNHbw?oc=5",
+    "source": "Palestine Chronicle",
+    "published_at": "2026-07-19T01:08:25+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 01:08:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d13a714fc8a989a24f9030f7c859ca220b63aa48",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.86,
+      "reason": "Iran issues threats that UAE airports and ports could be targeted if US attacks continue—escalatory warning.",
+      "event_key": "iran warning uae targets if us attacks"
     }
   }
 ]
