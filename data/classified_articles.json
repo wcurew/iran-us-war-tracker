@@ -1,87 +1,240 @@
 [
   {
-    "title": "Iran’s foreign minister says talks with US should be pursued ‘even if chances of success only 10%’ - Anadolu Ajansı",
-    "summary": "Iran’s foreign minister says talks with US should be pursued ‘even if chances of success only 10%’ Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2t1R1BTMXplcHI5U01aTFpVQjltN2RMOGJMMFltSGFJaFJrczBSeEdReUowc20tVkVWRktJMzViQ1lWbkVtM1ROc2w1ZnRlb3R2dUowV29wdk1uMDhQbkJyN3lpcUhwYzhwY2tDa2JGTWNzVHE4eHp6MWI4Snl6ZlROV3Y2QWYyTTFuMnhXaWJHbmJhdWw3Z2c4a0dERFVFeDhjcDRzY2NqS19KQ1RtemxKYTFlOGppUzNuZkMzbGVEUmtVRnpvWGZYZndKdWdMa01NWHU4MnU?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-19T19:57:17+00:00",
-    "raw_pub_date": "Sun, 19 Jul 2026 19:57:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c3003f78e043539d2c0ebaabbbb64326deb8c0df",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Iran foreign minister urges pursuing talks with the US despite low success odds.",
-      "event_key": "iran fm advocates pursuing talks with us"
-    }
-  },
-  {
-    "title": "Diplomats Fear Iran-U.S. Tensions Nearing Boiling Point, Could Spark Wider War - Haaretz",
-    "summary": "Diplomats Fear Iran-U.S. Tensions Nearing Boiling Point, Could Spark Wider War Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdmIyMEV6Z21tbVE0YUpCb2tOTWhaNXVCaUFMSXZxbnlmOUZsMTV4S09mVXE5bFN2UlpNY1paTEJicENxaXkxVENXc21XaXQ0VFNRXzJhd1VFMUl0Z2dDak5ObXIyUzM5MVktZ0c3Vk9kUEMweWZJdk0xd2xDR3M2ZmNyYkNHblM1V0FtVWhwNDBrbzJ4STF6UnFwRC1OWXZEd0ZFUnlpTXRCWE9jV3NybTNvS0xRM1hDMjlKYzVSTVpXamtwX2tzeWVsaHFZYWJ6Z2hyNkl0TU9FYVltaktuQlc4ajRqYXF0TWlUcHhfd2twNFROZVE4R01ZYTRyV1lVcmJqWEFEZm1GZjRZV0l2eXNYRQ?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-07-19T21:02:00+00:00",
-    "raw_pub_date": "Sun, 19 Jul 2026 21:02:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "27ce10e1da78022ea0fb17decb6df53c1dd0641b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Diplomats warn Iran-U.S. tensions are nearing a boiling point, risking wider war and signaling rising threats.",
-      "event_key": "diplomatic warnings tensions nearing boiling point"
-    }
-  },
-  {
-    "title": "US says another troop killed as Israel warns Tehran’s attacks coming close - The Guardian",
-    "summary": "US says another troop killed as Israel warns Tehran’s attacks coming close The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHFLaklRSVdGWFlqcWlwY1otdVY0RExtSkhnakpkck1KcFo5MG44ejdfWjFkZU1ZWHJTd0xrSm9DTnBQTWJEVTZMQ3RKRjZMNVpMYXFmcmVHT3NMakhfSHhfT3U0bk1JLXNRa2psTUdIUEYyNjFWcm5vSTFNSHY3Ty0xYldJTE9lbEhFeU10ZU9XQnZfd3ZqVQ?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-19T20:17:10+00:00",
-    "raw_pub_date": "Sun, 19 Jul 2026 20:17:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d7911b66e2c0b1153d87d6c5a3a4e8eb4fcb2fa5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "US troop killed amid warnings of imminent Tehran-linked attacks, implying Iran-backed proxy violence escalating tensions.",
-      "event_key": "us troop killed proxy attacks iran tensions"
-    }
-  },
-  {
-    "title": "U.S. military finds unidentified service member's remains after Iran attack in Jordan - Axios",
-    "summary": "U.S. military finds unidentified service member's remains after Iran attack in Jordan Axios",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWEJjeWpSMm1qVVVxV0RTVFlKdk1TUTRBVEJKbjJELXBRTFRweUpxYlVhTThNYXBRWS1jeGdZdXVGV2RPaHJOeGdHMjgzUjkya2NhM2tOQ2tMbWpmTmJUSWZDV213NTNBXzZ3cDVCeGVpUmFicGxpNi0yYmlEQXA1X0h5bmt3RU0?oc=5",
-    "source": "Axios",
-    "published_at": "2026-07-19T20:04:36+00:00",
-    "raw_pub_date": "Sun, 19 Jul 2026 20:04:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "31270c978f9024e32d5db3ba675520012a97f2ea",
+    "title": "US launches strikes on Iran in retaliation - WQAD",
+    "summary": "US launches strikes on Iran in retaliation WQAD",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYnNRNDNNRklXOTU1M1p1TmFEOUtCYWowUnkwY3lkUGQyMUhldEt1cVRSZTBlTlFuc1lTb21IaEd6OVh1ck5TSUtqYnM3eHBaWlByUHpjelVoYkVGZnktVXlacTdfMG82VEFPbkIxbnNMQ3VLSFROZWVSVWNaUUV1S2lia0FFa1ZBZ2RqcElHWFBQY19NbHhUVGd5bV9CWFpsbTJKQWpiTWljekhGQ2tWWUlnakxTWWZOU2VPQ2xmSTF4d3dBejNxWjBqd0NydkRmb1JweVdkbVZFVGs?oc=5",
+    "source": "WQAD",
+    "published_at": "2026-07-19T22:54:00+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 22:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1fc8f5c9d18970a2f88e07f95a23500141642a53",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Aftermath of an Iran attack in Jordan; U.S. recovered a service member's remains following the strike.",
-      "event_key": "us remains found after iran attack jordan"
+      "strength": 0.95,
+      "reason": "Article reports direct US strikes on Iran described as retaliatory military action.",
+      "event_key": "us strikes iran retaliation"
     }
   },
   {
-    "title": "At least one more US servicemember dies after massive Iranian missile attack - New York Post",
-    "summary": "At least one more US servicemember dies after massive Iranian missile attack New York Post",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTJrVW9vVk9tcGpXU1BEMWJDMmR5WkZ3b243dXhvOUdkX2JqZlVoWDVaMl9VSjZzNExTRnZhSGRIUHRmbzVsYlpQVkFGeUlyZF9hUFFXaUJEZFNJQlBrU2RFOGNoTklhdmVfbEZLS0lCc0NBV3lHOTlmOTFFdGVRbEg1aGNVT3BvbUFRMV9GMGg0YmxvWGwtZUU3dzBiSW5ZazdBQ2NRYW9BcjFsZXJYeEt5VUJ3d2V2OXc?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-07-19T20:12:00+00:00",
-    "raw_pub_date": "Sun, 19 Jul 2026 20:12:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1e6e6f521b7afa2aa7fb746ac31b1950d1c61227",
+    "title": "U.S. strikes Iran twice in one day in retaliation - WTHR",
+    "summary": "U.S. strikes Iran twice in one day in retaliation WTHR",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdFhmeE10TlBwMGZmVjJJNHVTMndBVU43bEpQaUM3ZHZBQmlXRm1RSXBOZjhLRDF1RGFSZXJiV1A0cHdVR0puWUp3MGxJemg4TldXeGpTWGt4aUJKSmRLSHR1anZMYmp2TnVvX2xuTkpWY05uZXEtYm9aTUVYZFlreERMUlRIRjFBR0gtNnhnN2NqM29Na21UcXpIZGdtODRlOG9HTmdQbE4wcEdNUHZTMXp2TjhkZjl2LTg0RFNURlVyRS1sODVTaXN1M0FXZw?oc=5",
+    "source": "WTHR",
+    "published_at": "2026-07-19T22:13:00+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 22:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0cab21dc706d3cc536bd67075a3a992f31f631e2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct U.S. military strikes on Iran reported as retaliatory.",
+      "event_key": "us strikes iran retaliation"
+    }
+  },
+  {
+    "title": "Iran war: US conducts strikes for 9th night in a row - DW.com",
+    "summary": "Iran war: US conducts strikes for 9th night in a row DW.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi0zUlByVmtyRkFtTHBDM1BhNUt0eGNPVG5ocG5nOHRPUFpWcmZzVGxEeFN5XzdkZTNRSkVvclBnam1LdjZkSTF1VG93Zl9XdDIwRDdlcmpzRC0yQk9KTk5zYVg2VFNlSUlxMUh6elZCU0twZnV3ZUFLMU1sUTdxeHJmMjdGREd0RHIzLVR4WnY?oc=5",
+    "source": "DW.com",
+    "published_at": "2026-07-20T00:15:35+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 00:15:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d7ec09ab4758bdfcc93c404d5820a0087d91d477",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Reports US conducting consecutive nightly strikes—direct military attacks/retaliation.",
+      "event_key": "us conducts ninth consecutive night of strikes"
+    }
+  },
+  {
+    "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate - Al Jazeera",
+    "summary": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMllfMFhRY016dnp4MXpEQjB1eUR1UHU2dG9JeGJqcUlqWGJNN2dnVE9nc182SkZwMjV6UFFqWGZmV2lzN2dLSUQ4Vm5OanJWUmd1cGNfT1hzOVR5VzU0dGp4b2ZuWDFkQjY2S3IyQjVTRWNCSzRwcUpSRUU2ZTFmdndRd2paN3QxaGRxRWRNUDVvblFsZWlLY3JnTmh3VEhQZ2pocFM5Qm9yQlhVT21J0gG0AUFVX3lxTE9uaWxwX0tIVnliUjBVTGdVaXBHYVo5QnR6cFZoeE9wUXd4c2tyUDN1c0J4Vk1jWEVkaHNMU19VdkgyS3FpVVhhLUZMbjNQNTVHdk9MMUY1NjRTeXZGcXJaZEJGQUl6UDFOSHk4cEpJWXdzVzBycncxU0t2enZpb3FPM2JoOTN5blF5cUQ5aXlDN1Y3VXltdzZUMlRLSHFDMC1QQVFhN1o0Mmw5RURfUEdFdUJERg?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-20T01:57:59+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 01:57:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9114de2e21934d52da6608e1dc9388dd33086d6d",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct Iranian missile attack causing US servicemember deaths constitutes a military strike/retaliation.",
-      "event_key": "iran missile attack us servicemember deaths"
+      "reason": "US conducting direct, consecutive nightly bombings against Iran indicating active military strikes.",
+      "event_key": "us nine night bombing of iran hormuz"
+    }
+  },
+  {
+    "title": "US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel - The Guardian",
+    "summary": "US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqYURIaDAySDVzVnJYZ2kzMVN5WjJLeUNxc3NKZmNRWS1NZGZ2RVp3Vkt3VWxBMFpDb1RoV1YzTWxsQ2RoVWN0UUhfQ09oQkM0T00zbElUV0tWbVNQVDVoNGo4TGZCeEt4Y1c5T2pwcFFKcEJUeVA3eGJNRnNLMDJqLW8xR1ZwcGV4dXdWSExpa3M?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-07-20T02:01:00+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 02:01:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5b9bd0a4577692c362a12ba03c1f060b7b6a2dce",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US launching consecutive nights of direct strikes against Iran, a clear military retaliation.",
+      "event_key": "us ninth night strikes iran"
+    }
+  },
+  {
+    "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air - KCRA",
+    "summary": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air KCRA",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGxsR3lQQVpJYlVRT0xSQVk1TlpPUTY5MU1WUVJpd0tpTzBfR1BHS3BrRW9waGZxY2h6OG9PR0V0LWhjMUJoYkx5WGRfbnJKT1AyNV9SVWRSbmRIVTNIZmFWNmNpUkM3VEhiSFpXRk9Ga0lSVFJEZ29oelA0Ykl1X2RLc2ZvV3pIenpj?oc=5",
+    "source": "KCRA",
+    "published_at": "2026-07-19T21:57:00+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 21:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f0d275fac9e1dfd35b9a353094602c5b171eefc2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports US service member deaths from air operations in the Iran war, indicating direct military strikes.",
+      "event_key": "us service member deaths air warfare"
+    }
+  },
+  {
+    "title": "Iran says US attack targeted nuclear power plant under construction - Anadolu Ajansı",
+    "summary": "Iran says US attack targeted nuclear power plant under construction Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZl8tR0pfbTNqRDY4NTR4YXZnWHlLTmVjVVEwNUhZWGhtUG5oMEJqUjlPWm1JWFo3Vm5XTEtsVUdkM3dZUjl6TkE1OXJ4bnhOaGd0cGdtRWpiZ0lrQS1yV0lka2pqSVVid1NrY05CWWZ5Nll0SWsxZFN0dHB0SlZ5OXR0OEo5T29ZdFgtV29rNkEzQlN6MFhUU3AwLTk2RjZvVnFJQ2dxUTgzWDg?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-19T23:54:20+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 23:54:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c49edd7109aeffdf44f6dfe267fc84d17c3e0746",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.75,
+      "reason": "Iran alleges a direct US attack struck a nuclear power plant under construction.",
+      "event_key": "us attack on iran nuclear plant claim"
+    }
+  },
+  {
+    "title": "Explosions hit Iran’s Tabriz in 1st strike since latest US attacks - Anadolu Ajansı",
+    "summary": "Explosions hit Iran’s Tabriz in 1st strike since latest US attacks Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU055ZVVFTVptTzdtOTN6WWllb3JYcU9icW4ycGlteWM3aXdyekpudnRyNHQ5U3JQejYtNHJsSklrYUxwWEFHN21CNzNfQ2dCdmN5SXJGbHlJYnpZWHNCMnBiLWpGYzA4YmJGNVBfM2poMmxoXzFxcXR0cWd5WTBOQ1UzbTk3dmR1X1NGTnJHb19IaXNGbU1WX3hDcVg5LTRpeGZYMUllb1ZlQmZH?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-20T01:26:44+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 01:26:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "76dc17738771184076843d434c348cee44773d87",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Explosions struck Tabriz — a direct attack in Iran following recent US strikes.",
+      "event_key": "tabriz explosions first strike after us attacks"
+    }
+  },
+  {
+    "title": "Iran conflict escalates as U.S. announces third troop death - The Spokesman-Review",
+    "summary": "Iran conflict escalates as U.S. announces third troop death The Spokesman-Review",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckpoRzVhUm5kZWFWQ0ZFS2Z0MjFsd3YtUi16dmRKNjBtZHhLZjlnamRRcWxfY3luVmhXOTdUZ2FoTmpfc1FObTAtTzV3TjdVbVFlMkg3alR1NGd5ZXJmVlVOdUtyZnlFbnhNdWMtZXBXaUExZTR3dDk2SHpDX0E4LXdMT1p5eUdVeDBuZmxHUHpYQ1NhNG5GRDBndGlsQQ?oc=5",
+    "source": "The Spokesman-Review",
+    "published_at": "2026-07-20T01:14:39+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 01:14:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d3c78b9dad8f1662059acb9d401b1e6f52922a6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "Third U.S. troop death signals rising tensions and worsening conflict.",
+      "event_key": "third us troop death escalation"
+    }
+  },
+  {
+    "title": "Trump: US ending Iran’s nuclear missile chances amid military escalation - Crypto Briefing",
+    "summary": "Trump: US ending Iran’s nuclear missile chances amid military escalation Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3loQkhHcWNMTGI1VTk3SUUybzFYOUFrbndYcW1EN1k0ZkMxWXRJakNSeE5nUkZpS2lZTHk1U2pLQTRPZ1kwbkszcDlwS3ZDLVlicE9hN2kyakVuWk9RQ2lMeVV5d2kxTXo4U0duc2ZycDQ5Z05IVFZJUG5VdWNRMy0wLThfdlEtRzdxWGRXdGFtNjhGUHRxS2lZSkFmMTA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-20T00:48:51+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 00:48:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c21e7043c014ffba0ac401c8d3d7667f0480cf0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Presidential threats about ending Iran's missile program signal rising tensions and hostile rhetoric.",
+      "event_key": "trump threatens iran nuclear missile program"
+    }
+  },
+  {
+    "title": "Explosions in Iran as US airstrikes continue amid escalating tensions - Crypto Briefing",
+    "summary": "Explosions in Iran as US airstrikes continue amid escalating tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVklhTndhZGgxOEliUUE2RURFamFpZHhuLVc2TVFBS2c4UmtJeDR6N2pkY0laWV9zRzE3Z1pyR1MxY3BSS0V1aWNtcXh3Rkl5SUtXZXlvUzlQejg0RFFTVHBXN0o4YUFBazExWDNQcDJONTZXU0hCX2VaVWNza1N2RDZWeG1LZGxNc3pMUDlkQ29RSmRZVnphdWlKVTBrQQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-20T00:15:12+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 00:15:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7b467b3ffa95a57872590bb4ca91bb377a15b4c4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe US airstrikes causing explosions in Iran—direct military strikes/retaliation.",
+      "event_key": "us airstrikes in iran"
+    }
+  },
+  {
+    "title": "Arab League urges U.S., Iran to de-escalate amid regional tensions - 巴士的報",
+    "summary": "Arab League urges U.S., Iran to de-escalate amid regional tensions 巴士的報",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFAwbktSaVZMZDViMTUtS3BNVlhSYTVCUmtWclNnR29UNGZ0ODctSlhzMnhuUnBrV2J0cGlHUFVOU0tadVFzUUM0UlEwS2o3VW1PMm40Y0h2cGdHLVhSWmRGTk5mQTZ1QzgtRm1GZ0YyQXRFemhXSmtOX0pHVmpPbUlSLXd6eG1nR3ByXzFEMUJDRGlHeWNCZER0X01xRnhRRjJrNG01VWRucFpLQTl3UURHLWZfdnc?oc=5",
+    "source": "巴士的報",
+    "published_at": "2026-07-20T02:13:00+00:00",
+    "raw_pub_date": "Mon, 20 Jul 2026 02:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5c1625f13daa450c98188fac2ae4813ab6135ffd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Arab League urges U.S. and Iran to de-escalate and show restraint amid regional tensions.",
+      "event_key": "arab league calls deescalation us iran"
+    }
+  },
+  {
+    "title": "Islamic Resistance in Iraq threatens US bases if attacks on Iran escalate - Crypto Briefing",
+    "summary": "Islamic Resistance in Iraq threatens US bases if attacks on Iran escalate Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGFZV0xQMDJJR0dtekhpRmt4Y0VWaHBac2NLSmFLVGlxejhnb1p5N25KdC14ZDJEdVJmLVdjcm84OXRCZXpXbi0zRTFmZW1BOFVndFRGWmFJMGJremh1ajZMMG5XTl83Z293SUpRejBkaUV2ZnczNHh4bVNJUlRwaUlPOEFGX1FXVVVZNHZ3c055UjZOMWQtRjROa1BscXdyellF?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-19T23:14:21+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 23:14:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8b68acc88cf0824a04a06dcb5d780b120ab3e943",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Iran-backed Iraqi militias threaten US bases, signaling proxy escalation if attacks on Iran escalate.",
+      "event_key": "iraqi militia threatens us bases"
+    }
+  },
+  {
+    "title": "US embassy warns Iran may target central Manama amid rising tensions - Crypto Briefing",
+    "summary": "US embassy warns Iran may target central Manama amid rising tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeko3UUhENlBrZEZ2RW1zcU9Kek5vbVJYM3lONUplQnV5VExEUS1MQmRKV3dFeEMwNWU3eHdGb3NGU0ZoYUQzT1NadERHaHNXc2JjS1huamx0LWhMMEJLUkw1SEgycG1rQzhGQ2ZZM3ZzMzdQVWZZWE1IS1QyYWl0bmo5aTVoQ3JXZ09tTG9NcVAtU1pHTHFIcTZMcWk?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-19T23:57:02+00:00",
+    "raw_pub_date": "Sun, 19 Jul 2026 23:57:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "12214d09e419f3507b5970223eb32ee9df41e1d9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US embassy warning Iran may target Manama is a direct threat/warning indicating rising tensions and escalation.",
+      "event_key": "us embassy warns iran may target manama"
     }
   }
 ]
