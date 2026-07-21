@@ -1,274 +1,121 @@
 [
   {
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers - BBC",
-    "summary": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jVzBxZlFoajhFYjBpOXBiTG9HQjhqa2x0UU5zSTNFNEhRRVA3SndCa0REY2hCWjI5NmFjSEJGYUplbDcwX0JxYVRmR1ZYZXV4RW1JTlRadmxfQQ?oc=5",
-    "source": "BBC",
-    "published_at": "2026-07-21T02:41:28+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 02:41:28 GMT",
+    "title": "Oil prices ease as mediators propose US-Iran ceasefire - Euronext Markets: Real-time Stock Market Data | live",
+    "summary": "Oil prices ease as mediators propose US-Iran ceasefire Euronext Markets: Real-time Stock Market Data | live",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQWZYSzVqSll4a0xMeUlwSjFBQkp6aU5UUGNkVlUyQUJhMDNNVkpRaUtYajREMFllSl9EOUFEYXN1ZWhONFE0ZlF0YUh4c3ZWbllHVHc3NnFHdlNtZUtCZ2c5aWVHYm5Zc2pOYXpWdENDRGZKa0pQeWVHeDFKMnlrckFRdzktaW96aGNIaVBIM2pRV3ZnWFdKOHE4VQ?oc=5",
+    "source": "Euronext Markets: Real-time Stock Market Data | live",
+    "published_at": "2026-07-21T06:49:58+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 06:49:58 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3ac2997f7c1014f4ff8eb56c8fcde6a90be323a9",
+    "article_id": "6a14e623f20dbca018eadd93ce8058483c1d6a9e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Mediators proposing a US-Iran ceasefire indicates active diplomatic mediation and proposal exchange.",
+      "event_key": "mediators propose us iran ceasefire"
+    }
+  },
+  {
+    "title": "How to stop US-Iran conflict from becoming endless war - Middle East Eye",
+    "summary": "How to stop US-Iran conflict from becoming endless war Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWQzaHFlVzZBSUxVRGctZTh2RVJZOWVlR25PaFhFbUpmc09ORjRKSUdTRHo2TkgxNjJKRF9jNnJ2Q3hLd3RhemxaeGthbm1LS2NlV0NpR3JCQXNxN1M5NGZWaTNFSmxBVVV0cHNrRHpxOUVZSkQ4RkNJV1J3NGFtSVQ1YnBNVTA3b2txQg?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-07-21T07:40:00+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 07:40:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8ad94b76af056f562876d1b2e1df5294b15375c1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Opinion piece urging restraint and diplomatic measures to avoid a wider US-Iran war.",
+      "event_key": "prevent endless war opinion"
+    }
+  },
+  {
+    "title": "Will a US Iran Ceasefire Push Oil Prices Lower? - Modern Diplomacy",
+    "summary": "Will a US Iran Ceasefire Push Oil Prices Lower? Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVNLbzgxS2tPa1lyeWR4eVY1S1dJMGtCLXl2VHVPbDFYaGx0RWRuNjZmT0V1STl3YVBubTZDVkczLXJiZ3pLdnFxTFZMQkNBQmRxbG1WcnhGRzB1YVJ0N1Y0ZDVtdVF5MDVKckdZQ0daWnNkT3ktX1B1RWlTdmk0MEg5WHZjLXdDdFVTaWZ3?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-07-21T07:50:03+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 07:50:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9f69ba7b559f75551204e990e175005d5e6904a2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.25,
+      "reason": "Market-focused speculation about oil effects of a possible US-Iran ceasefire, not reporting conflict developments.",
+      "event_key": "oil prices speculation on ceasefire"
+    }
+  },
+  {
+    "title": "Trump vows harsh retaliation against Iran following recent US military casualties - 巴士的報",
+    "summary": "Trump vows harsh retaliation against Iran following recent US military casualties 巴士的報",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVExIYW1EWmFsaVdGWldPQTdkeVZBdXdNZGFoTERKZmNUejlDNVdCX0tsZnZINTVrTmdFUnJYX3JVODU1d21aN1E0NklIeDJSVzJtdmJadTRYZFpSU1RPaWxEdGJyVEJyYU9SZ2pNYkg0ajJfUTJGUVlST096eVRhNEpzeUVrY0lvclQ5RmlFaC1SSzZ1LVVKTUFKWUVjMW1FdVR3MXRsZllZUlRfd3ZITmxtbWVvOURmbWd1S1RzbjAwVHcwMzRRLTMyeTVyUQ?oc=5",
+    "source": "巴士的報",
+    "published_at": "2026-07-21T05:52:00+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 05:52:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d4a183455f68275f9b659a7df093a1104b2a5d4f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "US leader's vow of harsh retaliation raises tensions and signals potential move toward military action.",
+      "event_key": "trump vows retaliation against iran"
+    }
+  },
+  {
+    "title": "Iran's interior minister arrives in Pakistan amid escalation with US - Anadolu Ajansı",
+    "summary": "Iran's interior minister arrives in Pakistan amid escalation with US Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVno3QU1rZ21ZcDBPN18ybW9DbUFLbzcxOHNMbEIxOHFTc0ZBeWVUVFZNekJCU2NJSmtvTzlSSTEzcGFNWjd6ZUFkVDRBS2RaSmhKcW5OZXdaNGVzMTFwVF9XLVpQTGM0U0F1bW44dno3bXgxOVVHV3pib1JpZlVQNjBHTldJOWhjSzJMcFNRNDV0al8yQ2Y0dkxHWEVLbkR5cWlkbllDOU5oa2lVSjk0d3BwY1R3U21wWlQ5cQ?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-21T06:21:50+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 06:21:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "40882a49daaa35c1696c445bfea4a1ad6f8dc46d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "Visit reported amid rising tensions with the US; framed as part of an escalating context rather than talks or restraint.",
+      "event_key": "iran interior minister pakistan visit escalation"
+    }
+  },
+  {
+    "title": "US strikes Iranian targets, nearly 100 soldiers injured since July: Pentagon - Crypto Briefing",
+    "summary": "US strikes Iranian targets, nearly 100 soldiers injured since July: Pentagon Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGdxLWRlUXQwSDhRUloySnZDMjJlNFJZaDIyRW5IUHdiSTM1Ny0yeU5EekdKc2dVdWkySVlmczdIdk1XTzZwUHdQMkRGNUc5cFJ2OXZPc0M2ckZRRWFsb1JZQkE3VTVFRTU5Zm5oWm9yUVpKOXE0ME11eFNGSDlxOWFoeHZfUHQwb2g1Z2NkN0xBQWpyMkNjZzFIZU5WNVdiTmxqUQ?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-21T06:32:31+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 06:32:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a5f0aa065c57c36c43fc6cf93157e679adb87d75",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.95,
-      "reason": "Direct US military strikes on Iran and presidential threat of retaliation.",
-      "event_key": "us strikes iran trump warns"
+      "reason": "Reports of US strikes on Iranian targets causing injuries indicate direct military retaliation.",
+      "event_key": "us strikes iran targets"
     }
   },
   {
-    "title": "The U.S.-Iran War Cannot End Without U.S. Pressure on Israel in Lebanon - Defense Priorities",
-    "summary": "The U.S.-Iran War Cannot End Without U.S. Pressure on Israel in Lebanon Defense Priorities",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSEpodHQyN09PRHhudGYzUmNBMTNNMHZxZloyN29BRzNBU2U5SXEzcGF6MDkzWWVuM3I3bFJjazFxREtaemE0Q2plVVZyZFFTSWt4cTZlYWN3aEh0RjhsaGVzOExXbVczdGxqRzlseXRHZ05lNkZHeGE0MmpuRVlWaGxfem1LRGE3Z0lwdUpuempJakgxYWV0TlpfT2tDTEtFbTBWc3Jzblp3eHd3MWhN?oc=5",
-    "source": "Defense Priorities",
-    "published_at": "2026-07-21T03:11:15+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:11:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "320ddf14a08536ce32013492337e86b89b332a7b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.25,
-      "reason": "Opinion urging U.S. pressure on Israel to end the U.S.-Iran war, advocating steps to reduce conflict.",
-      "event_key": "us pressure on israel end us iran conflict"
-    }
-  },
-  {
-    "title": "ASEAN's top diplomats meet in shadow of US-Iran conflict - Al-Monitor",
-    "summary": "ASEAN's top diplomats meet in shadow of US-Iran conflict Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE1qR2xxSmkxenk0VTE4c3RzOHFITnhXckRibkRsSmh5UF9oTEt3SEVSWlJWcHVlU256eUFOR1ZFUkt6SklEUldTanh1dTQzUjhsYjh4VkpkXzMzeTBxWmxCRGc3Z0xnb3FOcmhzMjc3TE00RnFIQXRJVnVac3FmeDA2WVZVTWZ5WDZybDRzT243SnUyWEpwVkd3?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-21T04:41:15+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 04:41:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cce515a93f6b1cf3a1bb11986b83dc2015753994",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.0,
-      "reason": "Contextual coverage of ASEAN meeting, not reporting direct Iran–US diplomatic or military developments.",
-      "event_key": "asean diplomats meet in shadow of us iran conflict"
-    }
-  },
-  {
-    "title": "Escalation: US Blockade Strategy Could Bring Iran to the Talks Table - Security Risks Asia",
-    "summary": "Escalation: US Blockade Strategy Could Bring Iran to the Talks Table Security Risks Asia",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDA1MTdxdlp3bEdUTWpUcDlfMEc5Tm1oMHliMzkyNnlqYURIZUJCMDE5aVM0dXJHQ3p4X01MYk9ZVXFSUHJpX1l1SDZXM0NvZzlRWHRaQzlzb2tOOTFPc3pMUEJZeDFLTGlNYkpoanpMVU9ranNuREpYMFNWYkxEblBRZmdhOHNVQm9RTU40OTlsZEhlSjI1NzJ1WWJvRHVCTDNIVU1n?oc=5",
-    "source": "Security Risks Asia",
-    "published_at": "2026-07-21T04:39:52+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 04:39:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c607dcb9518c9fa2b30fde65de3d137576e1b6a3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US blockade strategy is an escalatory move intended to pressure Iran toward talks.",
-      "event_key": "us blockade strategy"
-    }
-  },
-  {
-    "title": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally - Reuters",
-    "summary": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally Reuters",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-21T04:08:00+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 04:08:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0fa9099ec84f25affb3fd688947174519c3e04b",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.4,
-      "reason": "Markets reacted to hopes for US-Iran diplomacy easing tensions, not active talks or strikes.",
-      "event_key": "hopes for us iran diplomacy pause"
-    }
-  },
-  {
-    "title": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes - The Boston Globe",
-    "summary": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes The Boston Globe",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yRUFCMVE2d1ItZ0JjWHgwRHJUNlJOYXVfbktkd0FLWWtFblBHOFdwY2tzLUtWNUdJZEdaN3dXMU1ndlUtNzF2NE1GOXZ5dFFobG5KVGlPRXJQcjdHRmNBR0tQcWx2dXBCMVJrRHYzaEVSdWl1QWY2a2RsaDNWZG8?oc=5",
-    "source": "The Boston Globe",
-    "published_at": "2026-07-21T04:49:43+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 04:49:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c4b2a1afe71732f6d36cf82bf68f8495af259c12",
+    "title": "'Iran Would Pay Many Times Over': Trump's Big Warning After US Troop Deaths - NDTV",
+    "summary": "'Iran Would Pay Many Times Over': Trump's Big Warning After US Troop Deaths NDTV",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjVLc1d6N2daSFZGWUotNW5nWGM2ODRvOEVBM3U3dFVGSlEyQWNKVVdKWEtaMnNFSFpJRzdlM2JsZkMwQjB0b1lhWDZYeGhaR0tsb2hTRWZyTEV1ODcxOHdMUFlIRUpyNnNDVUZRQ21FMU5UQ2M4XzBHc0s1dHlXTzNDbEM3dEZhdGswMU93NXdQLXFUQjRhaGtVd3k2QTJSWlNDLWd5cVBOWUdDdlNKdC1R0gG6AUFVX3lxTE1SbEliay1MYUpQZmR1am1kSHh6TnctTEtaWEpnby11ZzJmRVdRLThaMDJZSU1oRDU5Q01ZM0IzZnQ1MnNPQldTaGk2bExESTR3NXhsVVNzcnNxM01SRXRWY3UtNEJpU0t6anF6bGtaaXZkdFNKSUVBa3ktN2NDb1l3RkpVUVdpeVhfRVUwRjJkRWdiSG9JdGFsN1hTZGlvWnd5YTZUUHpBOU5zNzRFUGp0SS1PdzRabzEzUQ?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-07-21T06:37:35+00:00",
+    "raw_pub_date": "Tue, 21 Jul 2026 06:37:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "18606ec9454a9a10d0eba59d2c0b115f452fdeec",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "Rising tensions and intensifying airstrikes around the Strait of Hormuz indicate worsening confrontation.",
-      "event_key": "us iran strait of hormuz airstrikes escalation"
-    }
-  },
-  {
-    "title": "US strikes on Iran lead to more retaliation - timesdaily.com",
-    "summary": "US strikes on Iran lead to more retaliation timesdaily.com",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0o1WFFtNFM4dHZYYlhlNjJ2UEt3T3NJXzNxZ1lDZUI0azhMM2Z6WlZfQWlCMWJMS0t6YmdQREI1R0RGanM4akplMUNLaXg0NllBYXRlUkpkcm1fV3IxMFlGVnV3ZkcxdTZCUzhCLXpsSFBWTHY2QUl0ZV9NX3IwR1FxdnVOYk13WlZXRTFFUk1MQ1g3eTlsTWFMX0g0WXpNRkVERW1NczQxcUxnZWxxejliMjNvVDB5eTB3S1AtSHljSEJueFRQckhuWWg?oc=5",
-    "source": "timesdaily.com",
-    "published_at": "2026-07-21T05:07:00+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 05:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d36fa08edf2190b91712324b5379adbc7dcdc906",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Article describes US strikes on Iran triggering further retaliatory attacks.",
-      "event_key": "us strikes on iran retaliation"
-    }
-  },
-  {
-    "title": "U.S. military identifies soldiers killed in action in Iran war - CityNews Winnipeg",
-    "summary": "U.S. military identifies soldiers killed in action in Iran war CityNews Winnipeg",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzl1ZGpETGo0d1pka0IxVE9jeEZ0NE9WZVBabmc1WlVucG5IME85eHNZS01GSXExbmJmVFJZYU0tSERBOTZKbUpXYXhvbDdOTjhPeXo2UnUySXJtNk02LWF6SE9MZjNJOFhERVZvbVYwR0paNjZxTm9mcUZhNmhsRkZRajR6VUhvMlc4ME9iR3lmZVVva3ZuVHRDTTI4ZjZsWTdXalI4dzNXUDc1?oc=5",
-    "source": "CityNews Winnipeg",
-    "published_at": "2026-07-21T03:24:29+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:24:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5fddbad0e7d7da5b38f1999b7eed4e9e9252f575",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports U.S. soldiers killed in action in a war involving Iran, indicating direct military engagement or strikes.",
-      "event_key": "us soldiers killed in iran conflict"
-    }
-  },
-  {
-    "title": "Iran says missile and drone strikes targeted US military facilities in Kuwait, Bahrain - Anadolu Ajansı",
-    "summary": "Iran says missile and drone strikes targeted US military facilities in Kuwait, Bahrain Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR3gzcGZYempNUFQzMDZMMGRYNFZaSUYyazRvX0U5Mm50eHExNElmUUZpRTFEVzZDTzhpSkZQb0lQSGVtT3JDeFhtOHFaSWlVYjVOVjdFendsM053cEhEaElMc3loc1hiQUhRakZsQm5sOFE0YkRNWl92S1haejAzWnRUQlBvOTBpS0M4NjFBeWl3cVk4VmNkXzd5N3VaWFlEaEdxRGNzTTVKTjVxdnNIVFBPR1BUaktHZzBRZjhtQ21jM2RaZWstc090V2FXSzNnbVVN?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-21T03:37:29+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:37:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2a3abf05ca1fc248dd848d6851fcd80125b5a0c4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran conducted missile and drone strikes targeting US military facilities in Kuwait and Bahrain.",
-      "event_key": "iran missile drone strikes us facilities kuwait bahrain"
-    }
-  },
-  {
-    "title": "US doesn’t have enough missiles to return to all-out war with Iran - The Telegraph",
-    "summary": "US doesn’t have enough missiles to return to all-out war with Iran The Telegraph",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtQU1RXcGxFSnd0cUtHZ3MxNmk2aVlSaDJCVUFQeHJITU9BX1ZnZHJkbTdyOUFHOFJuTDIwa2hXcWMwNk5qNDYxQ3BuVnEyRVJVbFdieWtEUGNtbk1Ua0VxNDdCZ2xjX2daVzd6QTVkNnBJMWI1RFdnbXBycGdWZVQ2MGNrTHVzMzhzVnd5ZFhqR0VEdlJDS0R0b0JKNkVyaVVjZUNzT2YxbWhKQ2c?oc=5",
-    "source": "The Telegraph",
-    "published_at": "2026-07-21T03:54:00+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:54:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1c265e3bde44f3f62331ef0c045a6271d83261cb",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Article argues US missile shortfall limits ability to resume all-out war, signaling restraint or reduced escalation risk.",
-      "event_key": "us missile shortage limits war with iran"
-    }
-  },
-  {
-    "title": "US says it completed latest strikes against Iran - Anadolu Ajansı",
-    "summary": "US says it completed latest strikes against Iran Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmU5dXlERFBfTnhMTTdzMTZjZWRMcjNwYVJ6OV9ISFBIa291Rk1Gb2dHXzktY3FHbHdFZHA1N3BKRTducGU1RDgxSGxwS3Zpc3NxZmpNaGdWbUFhbkhRdTRQcmRpdm9YclFoSFpWOXdhd2Zxc3d3c0hTM24yak13eF83OHJCNnVCamxvbTV2ZnIycF9PRG1Jd0h4RWRITlVTdnc?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-21T03:33:37+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:33:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e2957d56d98f3d4487ee95c2337a5013b5f862a2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Report states the US completed direct strikes against Iran, indicating actual military action.",
-      "event_key": "us strikes against iran"
-    }
-  },
-  {
-    "title": "Tanker attacked in Strait of Hormuz amid US-Iran military escalation - Crypto Briefing",
-    "summary": "Tanker attacked in Strait of Hormuz amid US-Iran military escalation Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmVGNEJoa0hjMlhsM3UwbG1HaHdhdE9OODMwZnU2cVc1RnF0MU1fRDJ0UkVDVW1QbXhwWGdGSUl1bXc0NUhBUzh6enFQV2RJa1F0SGVyM2hLM2V1cEZYZzZqczNLZDAxaF9Rcnl0d1VHVU9lRnJnYTFuMkI4dVR3TXBSaDBQQVNsb2lfVHp6am8wNDZFRGU2Q0E5LUE?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-21T03:26:35+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:26:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f792867ce0fde5e0bf57dc4b00d3a2b78d8105f5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "Tanker was attacked in the Strait of Hormuz amid US–Iran military escalation, indicating an actual strike incident.",
-      "event_key": "strait of hormuz tanker attack"
-    }
-  },
-  {
-    "title": "US military concludes 10th night of airstrikes on Iran amid rising tensions - Crypto Briefing",
-    "summary": "US military concludes 10th night of airstrikes on Iran amid rising tensions Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2k3dGxGLVg3TEJMblhfSFdteW9WNW9KSUdFQUtDejVsTl84V2ROVjRGaHhtcDBnWHY1dURhdDVOQ2FSbms4bG13end5VjlZNFU1QWFBMHduYTB3TVB0VnctWl91cnVJRVoxdmcweFdsVnNEXzBwc0hkSzd6VlJqNFZadkNpQkhvQWNteTVURXNLSGs2U0hjS29kNVZJdkVHakNsVmJn?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-21T02:50:46+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 02:50:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0f1a579c5c8029ed3889f0b6ee36a8be48385008",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct US airstrikes on Iran constitute active military strikes/retaliation.",
-      "event_key": "us airstrikes on iran 10th night"
-    }
-  },
-  {
-    "title": "Iran targets US military assets as Houthis threaten to expand Mideast war - Yahoo",
-    "summary": "Iran targets US military assets as Houthis threaten to expand Mideast war Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmE5cXN0Uk9XNkVIYzlGOFVVeWdwNkhTM29aMFR4LU1ncGJwUHcxTkNGNGRoV3hrWGtqVVhlYVRxRXVKQ0NodDdZQm03QUlEdHYxMWRHWlFyRllNUHpWQXlNY2VwOHdsQ1lJYWdFZlhYWEhnS1F0NFNZMzJqVDYydTVkeTBTLUozZGc?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-07-21T04:28:00+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 04:28:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "49a987d4e8db23f9bbbe5902e29137116a9ecd65",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.75,
-      "reason": "Houthis threaten wider war and Iran is said to target US military assets, implying proxy-driven escalation.",
-      "event_key": "iran houthis threaten expand us assets"
-    }
-  },
-  {
-    "title": "US Issues 'Worldwide Caution' Alert for Citizens over Iran Tensions - ASHARQ AL-AWSAT English",
-    "summary": "US Issues 'Worldwide Caution' Alert for Citizens over Iran Tensions ASHARQ AL-AWSAT English",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZk4zajJXbUVVRE5Cb0lDZndESnI1eWtVaExxM1FHN29HbVZjb0NGcHkxUHNwSml5N0J2MFNBOHFXN2d4OXdqSHFGYXdab2hiUnlQdm4xaEMxN1BMLWtYNnRlUkVpVE9ydHNTNnZpZ281YzJ3cFlKNldIN0k0SmJnZnlBcFhUOHljNmItT1VKY1hCNmMzdVdVRnhmdGdicnZ3Y2xhbw?oc=5",
-    "source": "ASHARQ AL-AWSAT English",
-    "published_at": "2026-07-21T03:35:10+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 03:35:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e17398f258f2d591f462d946eb0bf4ddfa223678",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US global caution alert signals rising tensions and official warning related to Iran.",
-      "event_key": "us worldwide caution iran tensions"
-    }
-  },
-  {
-    "title": "Tensions rise as US-Iran trade fire, Houthis threaten Saudi shipping - news.cgtn.com",
-    "summary": "Tensions rise as US-Iran trade fire, Houthis threaten Saudi shipping news.cgtn.com",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa013NWtOU1pYdHJPXzEzZFl0amJudW4xS2ZHa0wyOEpfOThIVzNXSklLZlN2MEFFY01LNlpnYUpVR2w2R2stQVZvRXloTXJqX0FOUEJOLVlqckMzamx6X2daaW1YZUVZU0M3OHprRE1RT2thX1Y4ZWNYYllTdmQ3cHFIc29hLTlLVkJ1Zkl0b1NvUVRySDdXSDJYbngwNEZCSjk5RkRKcndBYUJsZW1MeThHUmVHallPaHJtS0FEbWR3QQ?oc=5",
-    "source": "news.cgtn.com",
-    "published_at": "2026-07-21T04:05:16+00:00",
-    "raw_pub_date": "Tue, 21 Jul 2026 04:05:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a7337fde6cea8f82adc11a6d68b72e7a8911851a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Reports US-Iran exchanges and Houthi threats to shipping, indicating Iran-backed proxy escalation.",
-      "event_key": "houthis threaten shipping"
+      "reason": "Trump's threat that Iran 'would pay many times over' after US troop deaths raises tensions and hostile rhetoric.",
+      "event_key": "trump warning after us troop deaths"
     }
   }
 ]
