@@ -1,223 +1,274 @@
 [
   {
-    "title": "Rubio said that Iran is not taking the negotiations with the U.S. seriously - UA.NEWS",
-    "summary": "Rubio said that Iran is not taking the negotiations with the U.S. seriously UA.NEWS",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjAyRXFxOTZ3QXlSV2pjUzdQdTB6ZzVxbHFLNlNLNDZYZFF3RkxBM2dUOGFDbWh0NGxiSTh1UzdVT0k4LVZnM0FISDA5WUZYYTY3Q2owQnR3anhVcExLWVE4bl9XRjlwUHdVRi1TaWZKcERkVlZaZjZ6NVZ3OUljMGpaVTVPT2NISFlERDBLTmJsdDdGTXJvYw?oc=5",
-    "source": "UA.NEWS",
-    "published_at": "2026-07-22T08:14:31+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 08:14:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f2db5a26ae6f60328386fd7580f87e2289d9610d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US politician asserts Iran isn't engaging seriously in talks, signaling diplomatic breakdown and rising tensions.",
-      "event_key": "rubio iran not serious in negotiations"
-    }
-  },
-  {
-    "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says - Al Jazeera",
-    "summary": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGRWUDRNcm8xSDZuUXlWakx2MVFUbXh2dDluZWVyUngwTFlLbk1xNjFNdlZWaHZIVnZRbnYwRkJXaGxTVmY4QWZnenowZUtaejV6UUlYalFyVmMya2hoZmc4WG9Ta3JXRS14dkdsUEZQNC04aHk5UWJCUm1VajMwX2xaOXAwZG5tVWdmb0xkQkNiZkdqZmlMR2FSTHFlLWJ4dGJnZU9FQzdhU2lB0gGyAUFVX3lxTE9MRlRlZFhwU1dwcHcxR0dJS1k5cGJkQ3NvWEtyY1hpeDQzM0llYWxBT0ZkQWhuSVJ5dWI0bFUycHloS1l2bUpZQWRTSjZicE5vWjNJOTZDQXBZOU93Y2NqTEFCbU4xUUx0QjhpVWN2Ny1ueTRyQl9iOXZiYWRyWW9LTTdBOFgyejJ3NHlPaXJ2Yk9oYzF4WkdGdnBfM2J2di1sMUp1MHJyelZGUW9GYUlqN3c?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-22T07:42:29+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:42:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c40144a1b026b7fd944aea32781ed6ed97db2c5d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "US says it is open to talks while Rubio claims Tehran is not serious about negotiations.",
-      "event_key": "us open to negotiations rubio"
-    }
-  },
-  {
-    "title": "Rubio: Iran Not Serious About Talks; Tehran Warns US Against Striking Nuclear Sites - The Media Line",
-    "summary": "Rubio: Iran Not Serious About Talks; Tehran Warns US Against Striking Nuclear Sites The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmZFVTVaNmdGa2owS2VZRXFTZ0ZhMGJXTUcwWkhiQm5xZ3JxQXkwcloxYjY1MGpVV1lZRjFkTzNkNFVnSWV6X0VmQTZuZlV4Z2Q0TUd3TjRHank1eHBvd0QzcUUzYWhOSFV4OUwxTGdxT1Exd1BQSDRDTWljSWhtaXc3Q3VUOWJubE83cWY4WWV6NkVuSWNCRTlHZEY5TkVEdi1kbzl4OURrTHRxcWFzRHpQcDFxbWIz?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-07-22T06:28:30+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 06:28:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2adaff1b5f89bb7fe78a60678bcce635cf090b6c",
+    "title": "US War on Iran, Day 146: The Ceasefire Collapses - EA WorldView",
+    "summary": "US War on Iran, Day 146: The Ceasefire Collapses EA WorldView",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JZ2pTUVczX0JQbkgzTDdPd3BBYnl1VzJQTkc0UUdxWGl0ZTJ0UGJQSWc0dmxmWThlZmw0T3p1TF9pUDk5cHIwcjBTelVyRjEwTDV2eTN6dzJfdkZ0NURHLS1zbmlhYmhUb093dGxBOXJHQ2tWNUE?oc=5",
+    "source": "EA WorldView",
+    "published_at": "2026-07-22T09:44:00+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 09:44:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "73977bcd6b2a228c20bd6a00c31e2b874674d269",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US senator says Iran not serious about talks; Iran warns against US strikes—threats and breakdown in diplomacy.",
-      "event_key": "rubio iran talks warning against strikes"
+      "reason": "Headline states a ceasefire has collapsed, indicating breakdown of truce and rising tensions.",
+      "event_key": "ceasefire collapses day146"
     }
   },
   {
-    "title": "US Widens Strikes on Iran as Trump Downplays Prospects of Talks - Bloomberg.com",
-    "summary": "US Widens Strikes on Iran as Trump Downplays Prospects of Talks Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkdKbjlJQUhuVWhwZHQ3Z0VYeF9keGFNYXMybzFWby1JdkZqanlCeGVxdlFWVlZzbTAzd2I4Y3Zvd1FqY1c5Q0lhOWh2Y25rRHNHTjV3d2ZwdDlJM282b3B1VVkzcGF0Z2tfN3hBSlRfZk52TnV4UVV4dXljZ2daRUxPTU1DZmtJODZCQ0pkUGRLUEp6VFFhY0lFM183R3ZxTHNOTEdTVjJlSzRTQzFqNnR6Ykg?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-07-22T07:53:32+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:53:32 GMT",
+    "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea - NPR",
+    "summary": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea NPR",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmVHBOV1ItYWFfdHBVZmEyQnRtTnlvVVozMjA3UnMzbFBZWDh0YmpwTHZXM2k3SUtJcGZDSlpNWklVNzhkMkxNRnQ4emZRR2VWdm1CbXo0QkR3M2ZVeEpDM1RsTjExanBVdHJqcw?oc=5",
+    "source": "NPR",
+    "published_at": "2026-07-22T10:46:01+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:46:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "47e165b200ced879ebe50bc7b9b7727a070ac19c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe ongoing U.S. and Iranian attacks in the Red Sea—direct military strikes and retaliatory actions.",
+      "event_key": "red sea us iran attacks"
+    }
+  },
+  {
+    "title": "US expands airstrikes on Iran as Trump signals no talks imminent - Crypto Briefing",
+    "summary": "US expands airstrikes on Iran as Trump signals no talks imminent Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVG1CQWZhVlVaMEFCNHNkdGxNT01HZG5KWVlnX05xd0hKUGhmZ2pjYi1RdzFjMVdrNHZHMlk5b1RzSVZzSC1qczZXUDZsS09YaVRaYmdCS1cwUTFQT2tqQ0tVZVlDbW9QSTV2eG5SRS1rOUM2VzQxRFdRdkdqRFktT2k3eVpfVExNV29SLVlHV0ZtMEpEb2RR?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-22T08:26:48+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 08:26:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e55ca4c932957a218934604c3350f00ed9812cc4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports say the US expanded airstrikes on Iran — direct military action, with Trump ruling out imminent talks.",
+      "event_key": "us expands airstrikes on iran"
+    }
+  },
+  {
+    "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes - Fox News",
+    "summary": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes Fox News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmJIZ2ExWVZwb1VhYVdZWkJaLWdJZ2Z5WTRzYVM3clZlUm1yX3RWcDRZQUJjYjRpTzdqcnRLUzc3MXVUYWo2Vng0Z1ZiRDJNb2s5TE5uMVdld1pJeDZXRl9fVEUySWktaW9nd0IwcGpYd3dhQ3h3NDM3NjRhMmRCZjVmVE5INmNmaWMta2w4aWFnczViYVNpMnRQSDlLeE1pYmJQajkyYkRjLUFSVVHSAbMBQVVfeXFMTkVYdThYSGZleG9jVlR5c3NWZkZJcmtpWVExeS1GcERRdFNDb0ZEdEdDSEI4RWxFSV9Bc2dfRDBjTE11OU5nLXdoWDBabkdMUFlJWmdKOWlDZEVnVU1MSjNRb2Q0M0FoQ09qdnhSU0ROdC1hUW9TdEJ0Z2tKRERqbEhjZkNfa1J0MkRRUlBBWWtuZzlTNFZlR2l3ZjNFZVlXaklrSWFCaWVTSFFCdVVQRGJMVk0?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-07-22T10:00:06+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:00:06 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1d92df6779b43dfd731253f4b2b8a68596456e8c",
-    "source_weight": 1.1,
+    "article_id": "ede52e831cbb9b475c75ade7fba9fc147caf5056",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.7,
+      "reason": "Reports US strikes alongside Trump saying Tehran 'wants to meet' amid regime-change talk.",
+      "event_key": "us strikes tehran meeting"
+    }
+  },
+  {
+    "title": "U.S. says open to talks with Iran after 11th consecutive night of strikes - Haaretz",
+    "summary": "U.S. says open to talks with Iran after 11th consecutive night of strikes Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdkxBRnFaT0MwZEVHMkZ0THpBbFBra296cnFodzNqa296YUhsQXV2VUtURWZLM1FqTTdDbHItX0E5clktTTN1UG5WSWh0RTlEZjBqRXNOWHBFbVBfVlFnTE9mcS1jTlBXcEFzdVlyajFRZThBcHc0c29CX2lmekJ0SWFXdGY0WVNkQzQ3QXpqMlJRcURGbWg5dXIzNG9FS0ZQdWdZbzRGaTBmeDU1MFRVbHg3Ylh4dDhyTUQ3RDdoV3BEWkVMQVhxMEhiTWV1Z24xQk4yTmZ1Z2RHdFNDS2sycHkxcXNsWlkxSXhzczN2N2pvaHMwQ0E?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-07-22T08:51:00+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 08:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "43b08f9ef565357b14e4b00f19c582ea096a3628",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "U.S. publicly open to talks with Iran after repeated strikes, indicating diplomatic engagement.",
+      "event_key": "us open to talks with iran"
+    }
+  },
+  {
+    "title": "Trump Warns of Imminent US Strike on Iran’s “Kolang Gazla” Site - IranWire",
+    "summary": "Trump Warns of Imminent US Strike on Iran’s “Kolang Gazla” Site IranWire",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjA4N0QxanAwSmduU182aU1OZUUyckU2Y2xuaUR0VW5td0hQX21UZVpZNWQyaTRjU3NGVTY1UXhwUmZjZGtlSHBVTkY3cXd2SmNUSUg3TWVEVEI4eW1FWlBBQmwzZzgteGlDQ25xWlJXRHk2UUt3NTJvX2VabkU5NUxkazZLOG11OXRGSlM5NW9JVktITW1STUtXR2VnUQ?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-07-22T08:53:22+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 08:53:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3c346abfd550541e99febc84adb06f4dc2d99f8a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US threat of an imminent strike on an Iranian site raises tensions and signals escalation.",
+      "event_key": "trump warns imminent strike kolang gazla"
+    }
+  },
+  {
+    "title": "Rubio says US will strike Iran shipping threats, remains open to diplomacy - ایران اینترنشنال",
+    "summary": "Rubio says US will strike Iran shipping threats, remains open to diplomacy ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMjFrS0RFRmZoNzhmQUoxOHh5Y0tzajk5MTFTRDhOTjBwME5QRkgxbXNVU1Fkd1lLdzFaSXk2bDAtdDZHcHZ6TlhZTW5kVzdPV2c?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-07-22T09:35:24+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 09:35:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2f6552eadbaefdec6108c01b8bdf7be550b44db0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US official threatens strikes on Iran-linked shipping despite openness to diplomacy, signaling rising tensions and warning.",
+      "event_key": "us threats strike iran shipping"
+    }
+  },
+  {
+    "title": "US and Iran attacks rage as officials question whether diplomacy can stop it - Inquirer.com",
+    "summary": "US and Iran attacks rage as officials question whether diplomacy can stop it Inquirer.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDNWSi1zTEV3eElWdlVudGtPNHhqSjBpMkg1eU1sZnpFVlk4eFZiMjYtRm8tSTAxNS1pWG1CRUdVN1pMd3NaT1lZTWtOZWhnYnZ5U0dqM3pYQ1hoT2t1SU1WS3V3UjdJSTVqNm1WMGN5M3lGcVZJalVBQlVXZkw1WXo4T0VseXZucUNWZGl1UmlmOXcySk5MWHpR?oc=5",
+    "source": "Inquirer.com",
+    "published_at": "2026-07-22T10:54:48+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:54:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7cc6f323be96ad9357c38b5b41a7619c6d30ad49",
+    "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "US expands military strikes on Iran while talks are downplayed, indicating direct military action.",
-      "event_key": "us widens strikes iran"
+      "reason": "Article describes ongoing attacks between the US and Iran, implying direct military strikes and retaliation.",
+      "event_key": "us iran attacks"
     }
   },
   {
-    "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences' - Fox News",
-    "summary": "Rubio says US remains open to Iran talks but warns there 'will be consequences' Fox News",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM2ZyU1FOTnRXMWdiWHQzakFiYjlWUmpKZExCa2o2X2ozRzJNSXBFTnc5Q2RTX09ZelNiSGc4OFdpN3ROTlpVQlRUWGgxMWtYU0RfbXFQNlVoQ3hDZXNQYUdrRXZNTjJDRlAxaEo0ZlB0ZzdhUFQzaXZWUENfNW8zYjdiRnpQdm0wV1Z5YUtxUUp5TW1jYkRWNHZOSkdoZ9IBowFBVV95cUxNZmRzY2lKcUVlbFVPaWRLVzQxZllmdkRDV28wTFNTaXlndGNGSldSMkxWWFF3eEVCZlZxMmJjYTJ4UTlKbzNmM0d6dUVnU1RyU092RktTUmpGcXJaU05FNUhKcndpRHhlTWNXR0ZtWkNhREo0V3paN3JLd0Z3XzFKNDJhOXZMSldLc2hHelBISkVUSzU4N3pheWVuTUJHcW1QTzFv?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-07-22T07:11:15+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:11:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1135a9c9168e5d6576b4eacacdfa14f7a40e7a10",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.35,
-      "reason": "Signals openness to talks (de-escalatory) but includes warnings of consequences, a mixed calming signal.",
-      "event_key": "rubio open to talks warns consequences"
-    }
-  },
-  {
-    "title": "Rubio Says US Open to Iran Talks as Conflict Threatens Global Oil Routes - Modern Diplomacy",
-    "summary": "Rubio Says US Open to Iran Talks as Conflict Threatens Global Oil Routes Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEEtT3dFLWVRNnhKdk5DUWdsNWYwaEJfcWQ0dGZxenNyb2dQQUUyLVZqWHFfNnBpc20tUHNwYnF3blZ4cDFKRklmbUJVTkN5YktXcFI3ZUZaSG9XYnV3ZUVCU0hoTFFyYU1PNjU4UGhHMHFpNnpLNnhYUzJJNjd6c21SNy05NkpiNXUybm42Z2xLeGlGV3JiVDdlNXdaUDl2ZzcwRTJNNjZVSDE2YzdDUQ?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-07-22T07:17:29+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:17:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "96ee2800542d8d8e48f4115c51c4b25fbd8c87aa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.78,
-      "reason": "US signals openness to talks with Iran, indicating diplomatic engagement amid oil-route tensions.",
-      "event_key": "us open to iran talks rubio statement"
-    }
-  },
-  {
-    "title": "Rubio: US still open to Iran talks, but Tehran is not serious - Ynetnews",
-    "summary": "Rubio: US still open to Iran talks, but Tehran is not serious Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DSVRfaDlGSm9WUzFFdElwOHJtU1BYMDhTZEpMSlZ5Sm1fcGRaX3lFV29waGl3VlFYVWxldW01ZlJab3hZM2puSzVpb204M2hVRDdTaVJ3?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-07-22T07:03:05+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:03:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e17d6ad2c59426e76b6d966c89aae404f4f1ad07",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "US official signals openness to talks, indicating restraint and willingness to avoid escalation despite criticizing Tehran's seriousness.",
-      "event_key": "us open to iran talks statement"
-    }
-  },
-  {
-    "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy - nashuatelegraph.com",
-    "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy nashuatelegraph.com",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3pmREFRYmFCcmM4UzZ4NlJQZnlPdmZILVlGdzU5R3Q2XzYyeGtrMzNFNDNrdEZURVg2eV9WSHRkWE5Ka0RQVHZ2NWpueWZmNzdicWptMWZMYVVQWmhka0I0WmwyOXlpVkZQSUdBNDVuOHJXNFhtVG4wMHhOZkdPU05IUXktSENVSFhjLV94TUdUT09GMWhCYWpWb1haR0tXUFBJMnlPeFN0Y2NBNXM0b0ItWDNWR0ZmTGF4VGhCV2pEMk9qdk1UU1M1VnJXdlRLQkk2ZHNDQ1RvZTA?oc=5",
-    "source": "nashuatelegraph.com",
-    "published_at": "2026-07-22T06:56:15+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 06:56:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "44df4a47a13f895543f872dc53287c387d8c31d1",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "US completed multiple nights of direct strikes on Iran, indicating active military action rather than diplomacy.",
-      "event_key": "us 11th night strikes on iran"
-    }
-  },
-  {
-    "title": "Iran’s Army Launches Retaliatory Drone Strikes on US Bases in Kuwait, Jordan - تسنیم",
-    "summary": "Iran’s Army Launches Retaliatory Drone Strikes on US Bases in Kuwait, Jordan تسنیم",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNtOU5yLWZIWklyUldjcWNuX005Vi1Td2F5bWRWb3pIZEQyNjZ4V3BYb3dWWEVUY3FxRnJMSjJ6YTNyVHN1QlY1M0lVaDV1OXMyOXhrYWwxR3RTRnNWRnlCa0FnZHBablEyVkh1UEYyWlMtSTBnb01pUGk5Z1JveVlRanZ2Q3N6YWtjeDlxY2ZjaDJoWG12V1BlWGQ1WHBmQjQxNGhQMFhCNnFldnlnUFNwdkxPYzhPR0xMWWN4ZnJRckIyclNv0gHMAUFVX3lxTE1yX0dXUUV3bGk3ZEpWSXl1WEhwa3ZRYklVRmdxak5qR1dIRVZPanFRNnN4SEN5UW5XMzlMWmpiZkJPVDZnZ2w4bk8xSmU4bVpGM1ZBSEhFZjNMZV9xNTluTDFnRHNBaWF5NXNUWVdLV3Rvc1JOcG5EZ3JGUG1uTDJlTmI0Rk8wczFiVUt3d1RSUlo4Y2QyNXlsYWl6ckVMNzBhVWQyTDBya25Ya3AyM0h2RHJHei1sLWc2V2ZReUVBMkdubHVBMWg4RVNKZA?oc=5",
-    "source": "تسنیم",
-    "published_at": "2026-07-22T07:05:06+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:05:06 GMT",
+    "title": "US hits Iran for 11th straight night as Tehran strikes bases, Trump threatens nuclear site - Egypt Today",
+    "summary": "US hits Iran for 11th straight night as Tehran strikes bases, Trump threatens nuclear site Egypt Today",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcV9WOUIwdjBWYnlaMno0Tkx1NjFmNW1sM0ZjNnA1NUVseVc2VmRhZ0RnRWs4VTNRbHl4d0tWRHNra0xJcld4a1J6WUdLQlcxaVdfTnkzQldyV1RCY01zUTZQVWduaHdRVks4dVJFZGNxajR1X1BsTjJWWllWRnFNSFYwVGRvTDUxTDZfNG5FbUwyY0E1TmF2WV8tMV9UUTQ?oc=5",
+    "source": "Egypt Today",
+    "published_at": "2026-07-22T08:44:00+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 08:44:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0cb0bfe186840f316bb6c226c244e60533c9e8f8",
+    "article_id": "4116111853a1c08ae40df4deb08c9b53d054e18b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Mutual direct strikes and threats—US striking Iran nightly while Tehran strikes bases; direct military retaliation.",
+      "event_key": "us iran mutual strikes"
+    }
+  },
+  {
+    "title": "Iran Warns US Strike on Nuclear Sites Would Trigger Region-Wide Retaliation - Palestine Chronicle",
+    "summary": "Iran Warns US Strike on Nuclear Sites Would Trigger Region-Wide Retaliation Palestine Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkxvRmdFZW9aOHljazdkZk5IOC1ROHhRUWZ5aGgwZ2FBSnBnUVhBNndOenF2enJ6U0dzQTBPS3JCX1ZOTmdUcy16TUFDb2JodkhSOFVFOXBsZWFwaE5oN0RTY1NncHYzSkFzdzB5OHhFcGlpejJuNXVJMG0wZWlxWG45b1ZOaGNzUGpreWdUZzVLT0VmRzRlcEprTWtuV20tXzRMWDFvVUpYSHd5MUxwcA?oc=5",
+    "source": "Palestine Chronicle",
+    "published_at": "2026-07-22T10:06:02+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:06:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "afb7cc6a31968da7185e8869014eb3deeddfa687",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran issues explicit threat of region-wide retaliation if US strikes nuclear sites, heightening tensions.",
+      "event_key": "iran warns retaliation if us strikes nuclear sites"
+    }
+  },
+  {
+    "title": "Iran Warns U.S. Attack on Underground Site Would Mean Regional War - IranWire",
+    "summary": "Iran Warns U.S. Attack on Underground Site Would Mean Regional War IranWire",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXZPd25xX3JpaFNJdXc5ZGhfd0FlY2NrbWdsaGZJSHZyaWQzNmNZVFJsdm1fWllFZlBLYnVLWFFORUdQSEFOZm92Y1E4Q3RuMGVPcGtpbTk1TVZNNW9jcXpyQ0ZBSlp0dkdIUUNMYU1ZOGh3bmZqYTE3RG9SdEFWaW1ldTFCQnd6ODFIbDBJLU5sN2oyWndYQ2NZaGxza2lmQ3J3?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-07-22T10:58:22+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:58:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f872441e389f18636de485afd60e7f57eb4eac59",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran warns a U.S. attack would trigger regional war, signaling heightened tensions and threats.",
+      "event_key": "iran warns us attack underground site"
+    }
+  },
+  {
+    "title": "US and Iran exchange fire across Middle East, raising concerns about diplomatic efforts - KVUE",
+    "summary": "US and Iran exchange fire across Middle East, raising concerns about diplomatic efforts KVUE",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZkZiTS1nMUJVelNaZS15QkZhLU1BWGh5UkVQcGtXVlJienNiRHJJU0pvVTA0ZnpYU1lKU09ENmpyZnJUbzlsd0lQV2FRb2tOZFRJYkxVSTIwX1RJS2plRkVBMDVON0M2c2E2NU1SNkpjcUN5eVNXMllmVWRyMVlYclpxRENDeWE4aWthZEtUampwcm5WQ1lkbnpLYWFTdlQ3dGRnZVRYblozQ2lmVXNrdUtuSmZldXJOUHNIXzFnWDFlenBsS0pjLVZFaVBuNzhWbk9DR2V1QjRfQS1BRVgwTzl6REVMTDhLVHh4ZHNxb2w5SjVvMUNQR3dnNWhVTTZBU0V4S3NtbEdBQQ?oc=5",
+    "source": "KVUE",
+    "published_at": "2026-07-22T10:57:00+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "13a1cd06aa8df567dd85b1e41ac791017bdcc187",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct Iranian drone strikes targeting US bases in Kuwait and Jordan constitute retaliation and military action.",
-      "event_key": "iran drone strikes us bases kuwait jordan"
+      "reason": "Direct exchange of fire across the Middle East indicates military strikes/retaliation between the US and Iran.",
+      "event_key": "us iran exchange fire mid east"
     }
   },
   {
-    "title": "Advanced Iranian missile capacity poses ‘problem’ for US amid strikes on Gulf, American troops: Report - Anadolu Ajansı",
-    "summary": "Advanced Iranian missile capacity poses ‘problem’ for US amid strikes on Gulf, American troops: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa1lUQWdpMEFlSVhvQzlXVWNMWmdwZzItMWxwazJTdkdGWkh2bjNLODhyZVpsSFJmODYtTDBrOFF5a05yaUliS3RHWTRONHF3T2xXSkwyYmJlLXlGbjZvMWhMUXloME56QVRhS0tMQUVEVlB4UjJhbkdubkt4NUhkSU9ZbjRSd3FiXy1Pd2QyMU1QSWJnTHk2bUdfenR5a0YxNEtYdW1rbGo1d0dOYkVtUkxiMGhXd00tUHBRckJGejluMkZwNFo4UkVUd0hLaTNZZ1l6Z3B0NDFEMVU?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-22T07:16:15+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:16:15 GMT",
+    "title": "US and Iran attacks rage as officials question whether diplomacy can stop march toward war resuming - The Washington Post",
+    "summary": "US and Iran attacks rage as officials question whether diplomacy can stop march toward war resuming The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVpqUm1CYlQ0VERmSXNKUmV4ZjVNQm5SVlh3cVhCUUtFeEd6OUZncTdzdVR0Nk95VDhPeDlDNjNnTE5ZWTl6YkRYVnZlbnVXZHRfRzdMWXpoclhNUHVKdlhDOFJFWWxoRXdYNnJCdzBwZHJRakJUMHJ6b2E5QkNreXBQMDdIWlh0eVBBbS1DZjRncW9zZzM3M1pPLXl2UlFmMnB1Um0zWGhRb1dTZll1U2dYU0ppSkhQN19FQXg1dUdrdlo4RGtpNlBmZjJiMGhKdmNR?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-07-22T10:27:03+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:27:03 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0e24fdb967960cc2dd75ee2ccdbf31283aa03da",
+    "article_id": "3c5b27ae3cca2c592dd974dfa4ea481fc47cdf22",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.75,
-      "reason": "Discusses Iranian missile capabilities amid reported strikes on the Gulf and American troops, indicating direct attacks/retaliatory actions.",
-      "event_key": "iran missile strikes gulf us troops"
+      "strength": 0.8,
+      "reason": "Active US and Iran attacks are described, indicating direct military strikes and retaliatory actions.",
+      "event_key": "us iran attacks rage"
     }
   },
   {
-    "title": "Air defences activate in Iran and flames rise from US attacks - Al Jazeera",
-    "summary": "Air defences activate in Iran and flames rise from US attacks Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGgyRC12cHltX0dIX19WQUJGWW5PYl9uZ2xMZ0lOS0xKNVE2MG5Wb1JoRTRjajJ2aVVRZ0hoamQ3cnFzdzZobkpkenFFeEZIeFF2Z3dHYzc0ZG9ZMGoxSUxNY05UY2RMeDZ4SlJYYU5Qck02dnBoVkkwVkRCTHRzcjc3RC10Vy1wbEtjdG5hbUNHOTQ0WWJ0OEhMVXZheXVYd2tSck81dUg4Uzg1eElUZ0Z30gG3AUFVX3lxTE5ZbXFncWZwV3pUMHEyR2M3eU1QN0lJV19IcFNVc1Btb3F2RHlMZmlzT013Z2YxT0VsTjlFRnlSaGRWdUNwOG1RNVYtWTNZXzluakxBVEpUa2gxa3ZrSWhXSVZ6RzgtZy01d3lQdUtsdTRYMVdoR2trd2kzZklWZUIxaDgyWEpsQzZIdU9UMi1sanUyRXVzbDdyWGNUYlplenp4d0xnbzJJam9MREMtVGd4NEF1NlZNUQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-22T07:43:31+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:43:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "879639f254d9b6f9e975a621848a1d21f610c9e8",
+    "title": "What is Pickaxe Mountain, Iran’s secretive facility Trump says the US will attack ‘pretty soon’? - KTVZ",
+    "summary": "What is Pickaxe Mountain, Iran’s secretive facility Trump says the US will attack ‘pretty soon’? KTVZ",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSm5tWVVRYWtuYXlhaGJNcnRSOVRyVGFtSG1TU2JoRlZnVUIxZlhGMFQ2bVZSMWcwdThuWUx3RG54SjNaS0Fib2tLd1RRSkltM2wyWFoxeEdFSnE2dlhwYW9mQl9jU2dhaVZWdnA5ZS1EVGpGMzlDNkxZZmdVWG5Tbk1tOEVVekdtOEV1T2lyd25MZTVLTnpVek9tVmdDQk1ZYV9hQzVzVXVTX0xuNTNTZU9TVlRhLWxQb0VhSEoyQmlDYVpDdUtaeFc5ZHlybVBUR0hEeE9hT0JHd0NFYUpOOHhCTEhiTFk?oc=5",
+    "source": "KTVZ",
+    "published_at": "2026-07-22T10:35:41+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 10:35:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f78ae9822f190b92f4fbc65f207143c5a34a08e1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "U.S. threat of imminent attack on Iranian facility raises tensions; no confirmed strike reported.",
+      "event_key": "trump threat pickaxe mountain"
+    }
+  },
+  {
+    "title": "Iran violated memorandum by attacking commercial shipping, US says - ایران اینترنشنال",
+    "summary": "Iran violated memorandum by attacking commercial shipping, US says ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ESEhzZVJHVHpMNDBkNUhhZzNtSmpFaEthNEtVOUVHN0U5eWo1RFcxQ2tDUlhnTFk3cnpPUE9EM2EzVjVvZDlZOWJ1cGtWSDBGT0E?oc=5",
+    "source": "ایران اینترنشنال",
+    "published_at": "2026-07-22T09:53:13+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 09:53:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cafcacf6926d6838f28c402c5fadc346f5d9ffb7",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe US attacks inside Iran with Iranian air defences activating, indicating direct military strikes/retaliation.",
-      "event_key": "us attacks trigger iran air defences"
+      "strength": 0.7,
+      "reason": "US says Iran attacked commercial shipping—a direct hostile attack rather than diplomatic action or proxy-only activity.",
+      "event_key": "iran attack commercial shipping"
     }
   },
   {
-    "title": "Jordan caught in widening US-Iran conflict - Inquirer.net",
-    "summary": "Jordan caught in widening US-Iran conflict Inquirer.net",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVc0LS1iS2RLN3pxbnNNQ1c4SF9Ua2tMQkRMTGpFMGUxS0VUckZReVJQWEFyOTVBX184T2xscTVWb0t5WFpVWDFacEI1SVA2d1dFZWNnR19yRk5NQzE1TUZWSTEzd2Nab21LSXc1NlQ5TlE1eVFvdlMwS0Z1MXRidUFUVzlJUzU1Y1Rr0gGQAUFVX3lxTE5BeUIxZ1RWQ3ZJSWpMQnFyQWc3amVDTjF4S2NEOWllRmpKSkkzSXFBTVpyTkpZR1NZY00tSGhiT3FSazk0eUVLUWE3UU02OG9BMXhjQi1KVkFueGljdS12Q1lRbzJ2MkozNXFBVm9kckYzSGZkZkxHejBIc1BuYmZuTnJjVzVBelBoeGNIalctSA?oc=5",
-    "source": "Inquirer.net",
-    "published_at": "2026-07-22T07:08:00+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 07:08:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "65549dc4be3a2bb6c76e2d9a5e87883b8e684434",
+    "title": "Bulgaria seeks approval to host US tanker aircraft despite Iran warning - The Jerusalem Post",
+    "summary": "Bulgaria seeks approval to host US tanker aircraft despite Iran warning The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2X1F6M0QtMWUxNHFmQ0lpSURCU21LR19Hb3I5eVFJQlZia0p1MzJWNXZuelh6OTVVcnN0VERWRkVSZTZYTXhzZ2pTRmxWWnM3N25peEN5SjBVeC0xcWhV?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-07-22T09:47:10+00:00",
+    "raw_pub_date": "Wed, 22 Jul 2026 09:47:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "db7e0c92d67035057002339762020cdbee2b33b2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Reports Jordan affected by a widening US–Iran conflict, indicating rising tensions and regional escalation.",
-      "event_key": "widening us iran conflict jordan"
-    }
-  },
-  {
-    "title": "US escalation against Iran could draw Israel into joining campaign - www.israelhayom.com",
-    "summary": "US escalation against Iran could draw Israel into joining campaign www.israelhayom.com",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhhQ1ZtV3RmeEFHVE9MYWR4UmZNcUp4dmczeHhYS1ZtZ2lpeGtTeU1VNzBwRU82WXZ4NEVKbThobFBoY2phWXVzclpHaEtTcHBXSkhLWVdnQ3VKa05YaHNYUzRZRXNLVnEwX0tGVnp5cFpaVUpnZVVOWndvQ29KQk9raldpUXltZEdmZHBEUXVmR3lxYjRpem9ETlNhbHBZWkh4LUpKcWVJUQ?oc=5",
-    "source": "www.israelhayom.com",
-    "published_at": "2026-07-22T06:48:32+00:00",
-    "raw_pub_date": "Wed, 22 Jul 2026 06:48:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ab6d446a23869b67e8da85028b1e0782d6b07214",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Article warns US escalation vs Iran could draw Israel in, indicating rising tensions and broader conflict risk.",
-      "event_key": "us escalation could draw israel"
+      "reason": "Bulgaria hosting US tanker aircraft amid Iran warnings raises military posture and tensions.",
+      "event_key": "bulgaria hosts us tanker aircraft iran warning"
     }
   }
 ]
