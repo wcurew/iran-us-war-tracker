@@ -1,121 +1,70 @@
 [
   {
-    "title": "US House votes to limit Iran war for first time since ceasefire breakdown - Al Jazeera",
-    "summary": "US House votes to limit Iran war for first time since ceasefire breakdown Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkFVaHJmUl9qSEVScjZQN0JxdkdVRm1IbzVGWFNVanIxaEtidjJVaWRYdnN5b3l5ZGdTbW83aVZteFZ5U2JCcWZaT3dVbjZfd05vOTA3Q29aZFRRZzZxcFJ0NzBhdUh1UXpVNUlOUmt6VzhUUzBld0QxSmRIZW1aV09WQ2J1dDNjbU9UNmZVRFhqclJkT2F2dGJUeFhlWF9PTUtULW9DWHNQT2ZxYk1iMFM2elHSAboBQVVfeXFMTVMxUXRKR0xVZzlIQW5scnVfWlFiaVhVQ0pkaV9xeTh6TVVQVzdPblBibVB2Qzc1QWRLdGtEQ1luVzQ0M0xwT05EZnB0dy1vSkhRSk5NZFhkM0QyY0RzalVFaGxKaXdTNjJ0M205Y3ZKN05MU2ItSjhUOG1GWkJiUFFvSnBqVDJjNWExUjc3cDBLNWV5eFY0SWpzNS0wcS1VTndmeVNQbVQ0Z3lCc3VIQ1VJVnh5U1VqUVlB?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-23T18:33:45+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 18:33:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "877dab5b111b7d3f667796dc4709b4001fcfe531",
+    "title": "Iran FM criticizes US focus on 2028 election amid stalled negotiations - Crypto Briefing",
+    "summary": "Iran FM criticizes US focus on 2028 election amid stalled negotiations Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNak5QODB5c0NtdkM5UjVRU3lweVZ6dm9tNzJRVEdpRi1RS3U4ZUNROFo1RF82WHVJOENYUW1SRWZOQ2szLTBkb0lUVjRvakctcjR3Mk1xcXBXbzJSaVg1WnFDQlhwZjFqckpIYm5wS0c1bm8xa3FSOFdjazJBdnFxdWlPNGppQlZPbVhxM0I5TElnRUJ5Ty1fNGFLS3FndEE?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-23T19:56:11+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 19:56:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "79d779125a9ae398b37bcd2c66539c7a65ab8381",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US House voted to limit military action against Iran, signaling restraint and efforts to avoid wider war.",
-      "event_key": "us house votes to limit iran war"
-    }
-  },
-  {
-    "title": "UK says armed forces ready to defend country after Iran warning over US bombers - Reuters",
-    "summary": "UK says armed forces ready to defend country after Iran warning over US bombers Reuters",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUtaMHdwUWNQbXpNb0IzUXMxZm5sUFRDVlJGclZmak52YVFySlE1LUV1aTBiRDhqT055V2pIMWFQNmFILW1GSnRCRTBLYi1oSVY0Vm0tRjJPX19CazNmeUQtQkdDUXZmbVU2TFlhcnFKZVNMbVFZS05ZR1VlenRFSXRUa3d2dzhlSTNBeDQyOFA2Z3k1RXBYSWQ1Rm5Bd1FKT3ItT0UzT19nYkEwcmpPQlc0TDZSdlBCT3owXzJGMHFCRmp3dklCU0NJWmNFeTZTVy0yVy1n?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-23T17:48:05+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 17:48:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9c06cd35bdc361f1c3229707f3984e2c27cbeeb7",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "UK military readiness after Iran's warning about US bombers signals rising tensions and mobilization, not a strike or negotiation.",
-      "event_key": "uk military ready after iran warning us bombers"
-    }
-  },
-  {
-    "title": "US beefs up military might in Middle East as Trump says he’s weighing ‘massive attack’ on Iran - New York Post",
-    "summary": "US beefs up military might in Middle East as Trump says he’s weighing ‘massive attack’ on Iran New York Post",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlVaU2lzelNqbHo4Q2ZBTHh3TDRKeFU3aVlCSUVmSXEzc19reHBwMndEWTRJVTBSQUdVNkx5dUV3Ti1tSlJ2WnM3YmlqR3dEdDhXY0hyNU1nLTB4eVREZzVhLU53RnZQc2F4QXhJUVVQNU5hcjdnbUtBQ0pvcDhVV1JYb2pBbF93OGdQRW5ld2FWaWFCWW9IaFpBSXdXNGUxTlJjakZIQm1CQTB3XzNyOHRtclY4UWIxaWtpbjlvRFZ0RzE0eUlKd1RueGxJY3p6a1E?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-07-23T17:25:42+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 17:25:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "038883a2ee3e5ddb641ecac9ed46cae4e3727506",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US military buildup and Trump's threat to consider a 'massive attack' on Iran signal rising tensions and mobilization.",
-      "event_key": "us military buildup trump massive attack threat"
-    }
-  },
-  {
-    "title": "Americans have no stomach for Trump’s escalation of his war against Iran - The Boston Globe",
-    "summary": "Americans have no stomach for Trump’s escalation of his war against Iran The Boston Globe",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHBSYUNPdS0yRTg3U1ljd1pxLUxWVkFOUGVuaFFoS3lpdlR3U0ZvU2NyNmF3SmNlU1lXX0lnS2ZpSWZpMlRuM0NkYWJCbDNtWVFaelgyX3BWQUxEeTF0TkNSR1V2bjR0XzhCa0ZEbDJPOXBBdmc2SjdBWHJWUVdQanVzR2Y5eTFINk9VYmFmRHhjR0ty?oc=5",
-    "source": "The Boston Globe",
-    "published_at": "2026-07-23T17:42:35+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 17:42:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7119b85912e786c38c23a9c5a962ce06d6a9248c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
+      "label": "negotiation",
       "strength": 0.6,
-      "reason": "Opinion piece describing Trump's escalation toward Iran and rising tensions, not reporting specific strikes or ceasefires.",
-      "event_key": "trump escalation against iran public backlash"
+      "reason": "Reports the Iran FM criticizing US amid stalled talks—indicates ongoing diplomatic negotiations rather than military developments.",
+      "event_key": "iran us negotiations stalled criticism"
     }
   },
   {
-    "title": "US President Donald Trump warned of striking Iranian infrastructure in response to attacks on shipping in the Strait of Hormuz, as Tehran reimposed its blockade and fired on vessels. I via ANC 24/7 Full story link in the comments section. - facebook.com",
-    "summary": "US President Donald Trump warned of striking Iranian infrastructure in response to attacks on shipping in the Strait of Hormuz, as Tehran reimposed its blockade and fired on vessels. I via ANC 24/7 Full story link in the comments section. facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlJFQUVHS2gxMzJLSnRwVGFId0tNWGRrbHRfcEpGU21LU1lQOFBXTURhaUtwOEo1NFg0aUc4QmM5ZWN1NXF0RjdUVzBMWDZlRmdWQTR1VUNhZGEzbi11cmtzaXhBcHVqWUktcEpKZnIwQXh6bXAyRUR1al9WN1p1VUE2NkN3VFFBb0p6YWVJRTI5Y3dWNHljSXEtcVMzLUVYakotSlhaOFBEdE1DSDdrRHdsSGtTYkpEakNKT01jX0hfYml2VUlIXy1WZ1U3ZWZHME9fdndYVQ?oc=5",
-    "source": "facebook.com",
-    "published_at": "2026-07-23T17:15:00+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 17:15:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "711e3ce269ee679deed53c29373844dadbea0555",
+    "title": "Iran delays US talks on Strait of Hormuz, pressures Trump amid tensions - Crypto Briefing",
+    "summary": "Iran delays US talks on Strait of Hormuz, pressures Trump amid tensions Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDJURmdLaTZZUUhsWEZjRzBUSVktWTdBelJNdTY1ckJQa285eGsxaktKdFV2ejEwNmRrRTNieFAxMExWLXVLQng0Q0RnQ29JNzZRcDVVWVJZdldTN3J4MGFWYW5XQjcxWUQ3MTBQR0RPSFkxSlE1VDlNWEJ1LUc5UktyeGxnd3FlUVdGdWE2WlJON3ZmTUljUm1ZbXVLTjA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-23T19:54:39+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 19:54:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b27aeffa46b76518dc8743e51f186f75f6274309",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran delaying US talks is a diplomatic stalling/pressure tactic, signaling breakdownescalation of talks and rising tensions.",
+      "event_key": "iran delays strait of hormuz talks"
+    }
+  },
+  {
+    "title": "US vows to punish Iran after Houthis strike tankers - Al-Monitor",
+    "summary": "US vows to punish Iran after Houthis strike tankers Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3NmcEpYSzk5ODNEZ0tqQ25UVThOb3NCb3Qya3JwbXYyUlpnaHNPYVJqOWJUVmZ4TWlzOXJTd0VZdzBkaEt3X3hTMU02dGJpU3ZVdGFET1B4R1BwSVF1ZWlzTE56dEtyVnA3eVp2TElnel9UTXZZaE5KRXppY3hqLVZMdnpiZEVid1NZTHA0a1ZRRnZxXzg2WA?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-07-23T21:30:36+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 21:30:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "80caecb1c4acb776662ce76afa3fc332b55c7630",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
       "strength": 0.9,
-      "reason": "US threats to strike Iranian infrastructure and Iran's blockade/firing on vessels signal rising tensions and hostile posture.",
-      "event_key": "trump warns strikes after hormuz attacks"
+      "reason": "Houthis (Iran-backed proxy) struck tankers and the US vowed punishment, indicating proxy-driven escalation.",
+      "event_key": "houthis tanker attacks us vows punish iran"
     }
   },
   {
-    "title": "UK says armed forces ready to defend country after Iran warning over US bombers - Middle East Eye",
-    "summary": "UK says armed forces ready to defend country after Iran warning over US bombers Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzUwWTFJbjgwdEJlR1JrS21uY0l1NDBoTHFNVTlrZzZIeWZqVHRnRS1tb0JoSWZDaF9PVEgwOFUxQXUtNG5ORWZlYkgtX1BvX1hlOGliODJuUl9kMXMtZjdqSk1ZMzJ2MTBQRWtqVVI5dmZLQnFhWmh0TWcyMFk0N2l5YnJWUGZtSVRiYVNhaGRTbXB1U0c3MGV4Ukh4Y0NoRDBUM0RXNUNIcnBvd0paeGh1RzhLakpxSTM1ZVNJZDRESkk?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-07-23T17:45:00+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 17:45:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c470cf6d09de37747998e8c6d0a245474aa47451",
+    "title": "Iran’s frightening missile accuracy sparks fears adversaries are helping Tehran target US troops, CIA sites - New York Post",
+    "summary": "Iran’s frightening missile accuracy sparks fears adversaries are helping Tehran target US troops, CIA sites New York Post",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEhCaTNRX2NiOUdRaEFLRGRFQWlmbG1leUY2V2NpcWpsbUpXelF5V1FVQ1FNWVpPN1FmcGRCSWJiSHN3V3NONzNjLWRzSXd2aENMUk1EUHJ3MU1acW94UElXSkViQ2dmUXc3VVRrRmh2TkwxcnFMXy1EekJQVGlaYlpXTVNId3FUd2ViWmpoSWg5bEFZVVJaNFNhU1hvdElIR1NkYndTdUp6dC1lVU50MmJMVWR5OWhpSU1qOERmdTkzblViOS1MX2F3YU8zTE4talFhUGg0TDdsZUU?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-07-23T20:19:00+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 20:19:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cf7e0cacbf0d50fa7d94c9a078546ca55cbfa8d9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran warning + UK military readiness signals rising tensions and hostile rhetoric.",
-      "event_key": "iran warning us bombers uk readiness"
-    }
-  },
-  {
-    "title": "UK vows to 'defend itself' after Iran warning over US bombers - TRT World",
-    "summary": "UK vows to 'defend itself' after Iran warning over US bombers TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oQUZvZ2ljSTlfMDNCVkxpeWxxb2haZDA4NE9XTkhOdVYxNElpQ3pENEV4QllLY1BUdV9jNmdmWmRlXzhYZnVGdUV4c0FoMWpkQ1pIbkZUSWo?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-07-23T19:11:08+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 19:11:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "10acea07d8986e7555457910afbe8fd85b4301b5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran issued a warning and the UK vowed to defend itself, indicating rising tensions and hostile rhetoric.",
-      "event_key": "uk defends after iran warning us bombers"
+      "reason": "Reports of improved Iranian missile accuracy and suspected external assistance increasing threat to US forces and intelligence sites.",
+      "event_key": "iran missile accuracy external assistance"
     }
   }
 ]
