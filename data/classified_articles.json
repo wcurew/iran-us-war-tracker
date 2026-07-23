@@ -1,121 +1,104 @@
 [
   {
-    "title": "Why Iran's negotiation strategy could be a trap for the US - The Jerusalem Post",
-    "summary": "Why Iran's negotiation strategy could be a trap for the US The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FTXVzR0VpUWFmNGMxcDg0YjNsVXFsTWxKa1lGVlk5UFFNanZFSzNpVjIyWjdhOGVJekZEZ28zWm5vXzdESXc4YWRzVVVheTN5cU5HTkZjM1d5eEhMcTBYemxSaw?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-07-23T13:27:51+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 13:27:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "92746f4460ca2a3cd25155748743d4ed389c0563",
+    "title": "US House votes to limit Iran war for first time since ceasefire breakdown - Yahoo",
+    "summary": "US House votes to limit Iran war for first time since ceasefire breakdown Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmJYdDBoOW81eDhkejJ5Ujk3ZDhnbl9CemdiTl9Ob3lJYUxNRmlXZGVPa0dmSWQ2Y1RsWGljTzZKcTRRWVJ1dDRfMVVuZDNKdFBuM211NWlJRzFNWDlSRUNUMjZPZktEeXYtbjRwUE5NRlEtWmJ3STktb093Zl9qU25PdWZBX0dyT2FQdG9n?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-07-23T16:12:43+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 16:12:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "23930fa79e1858ed511ae532be09a5ac0d89b570",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "deescalation_signal",
       "strength": 0.7,
-      "reason": "Article analyzes Iran's diplomatic negotiation strategy and implications for US talks.",
-      "event_key": "iran negotiation strategy trap us"
+      "reason": "House vote to limit US military action signals legislative restraint and intent to avoid further escalation after ceasefire breakdown.",
+      "event_key": "us house vote limit iran war"
     }
   },
   {
-    "title": "US-Iran strikes: latest developments - France 24",
-    "summary": "US-Iran strikes: latest developments France 24",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWVp5YjhsWGJGUkoxOWNGcUtVamIxdWl3N1RwM01PRGdKV2tONDNiS29POWZ0aEUzbmcxNzM4enFSa21lLUxlZlVNRkJSRDFzUW1CRkhoOGR3WjdzclRibGRLQlVhbFRVN3MyQVZhOERhLXppOTFSQWt3Xzg3ZHdnWnNVYWx1TkVXWUE?oc=5",
+    "title": "Iran’s Strikes on US Bases Reveal a Global Vulnerability - American Enterprise Institute - AEI",
+    "summary": "Iran’s Strikes on US Bases Reveal a Global Vulnerability American Enterprise Institute - AEI",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbndtZ2RtYTBueHdvanpvS2J2dVk5eGhKRGdQcnhmYXNGY2ZZNDQ1WmVPNGQ0bGdvcFZ4LW5xTGJrM0lmV1dLQmhqUU5BdzNGS1BJOUM5VWdYTzk0ZGkxQ2NzSTFraW1ndmxYNFVqRjlwTEU2aTVVNnpQeUc1MVIzYW9rUUxxUzRZb2xQU1lmOFM?oc=5",
+    "source": "American Enterprise Institute - AEI",
+    "published_at": "2026-07-23T16:03:21+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 16:03:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "43bd28c6fbf462ecd2ab9d54b9d5441550aa6a12",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Discusses Iran's direct strikes on US bases, indicating actual military attacks and vulnerability.",
+      "event_key": "iran strikes us bases"
+    }
+  },
+  {
+    "title": "US vows to punish Iran after Houthis strike tankers - France 24",
+    "summary": "US vows to punish Iran after Houthis strike tankers France 24",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWtTdEhLNVNLQzlRV2xIT0pGR0ZyZXV4OXB3NUY3dFY4Qlcwb2FiVHE3OHRhSUE1T20wTUVlRXBTVm5TXy1TNFdwMVJQcmNnQ2ZLN29WZFdFd3VXMENEM3N5bEZJbEctUVltVXdXNGxtSFhuT2JpY1ZWWXl1WGpwSFBLckp5T05NUU95V3FGU3c1YTh5Zktoc0ZyMzBoWjg?oc=5",
     "source": "France 24",
-    "published_at": "2026-07-23T12:25:13+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 12:25:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0f1474fcd5023f5cce1155a835d6492889ceb049",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Article covers direct US-Iran strikes and military developments indicating active attacks/retaliation.",
-      "event_key": "us iran strikes latest"
-    }
-  },
-  {
-    "title": "US Military Completes 12th Consecutive Night Of Strikes On Iran | LIVE BLOG - i24NEWS",
-    "summary": "US Military Completes 12th Consecutive Night Of Strikes On Iran | LIVE BLOG i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMEFTN2UtcHhoU1ZVVGlBS1VTZERNYVlyeUxKdTZKbENRVl9ZWklSUXVPWmlEaHROZUdxSFN2OWIwYUVNbHFGUmpvbTk3Y0tWQm1WWF9va1NnX1VnMXFobzdfSGI5bkJIZlRnc0lfUmdISVlCektsOWhMbDAzMGFrTjZ2WWR1b01hVXE3bmRQRmN0dldYWGpxODU0NjlRaHNlM2hHMWxPRktKMm9CYkc3MWtWZzlTNEMwT0V5SmJR?oc=5",
-    "source": "i24NEWS",
-    "published_at": "2026-07-23T13:21:41+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 13:21:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0024018b15c526751a55946d2a1cd1ec941370d4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Repeated direct US military strikes on Iran indicate ongoing military action/retaliation.",
-      "event_key": "us consecutive night strikes on iran 12"
-    }
-  },
-  {
-    "title": "US-Iran strikes: latest developments - Al-Monitor",
-    "summary": "US-Iran strikes: latest developments Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGQzNGUySDlFdkJvcXVuT0FCSXJKV3J0ZDhJX29BaGxkbXR2bkZGZ1VDWnhSXzRLdWp5ZzdoMHJkMUF4MzE3VzRxbnMzRW1aRDBpc0FjVXo1Q29TR1RhU2UySFdZNWdtUnBEd2tKY0F2ZW1hTURIMEF1b3BDU2dnSlI5V0ktM0NpQmtN?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-23T12:30:41+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 12:30:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "998194dbabf3464370de90d7db39119388b91394",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Covers ongoing US-Iran military strikes and attack developments.",
-      "event_key": "us iran strikes latest"
-    }
-  },
-  {
-    "title": "Tensions escalate as U.S. launches 12th straight night of strikes against Iran - CBS News",
-    "summary": "Tensions escalate as U.S. launches 12th straight night of strikes against Iran CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWw3cmI2clFUS2JadkVhaXJ3ajRzMFRtVW10X0dWaGkyLWJ5SXlmMVQ4S2V1cHc4Ym9aemstSHU5NE1RUzZFdDlpY1FGdWpDbUoxWF9aekoxMEw1SEJkMGl0R1l1Rmh5ZGZWYldNV00zRGdXSUZESDlhQVR2d2l3NVh1OW1OSXlEWDEzcFdjRnZRNUNJSy1BNmMzWHc0MTRNbVA4V3ViYklEQTQ?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-07-23T11:07:00+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 11:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3b3124524921dc4f125fd0b6616b753de7172ae1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducting repeated direct strikes against Iran, indicating ongoing military action.",
-      "event_key": "us 12th night strikes against iran"
-    }
-  },
-  {
-    "title": "The US will hold Iran responsible for future Houthi attacks in the Strait of Hormuz - Trump - Українські Національні Новини (УНН)",
-    "summary": "The US will hold Iran responsible for future Houthi attacks in the Strait of Hormuz - Trump Українські Національні Новини (УНН)",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhSSkVnYVRyVVQ3Nm12NmZ5VUhFQkhncWs0M01US3B2TGlMVmgzdm9jWjF2NVFJNmVQeEtNWG9WbDhseTFtd0t2OWVkVmpvSElqdUlxMjB0REcxeUZNbDNPcGplY2I4Q25vQ2g4X3RVLU1GZ3NQOHBVMjNlSWZ5eFZHN194bzRGdTZuYzFtbEtMWlg1Z2MxNUEwMW1NN0hPV3V4czJHY1Z1bjVsY0ItS2RR0gGwAUFVX3lxTE9HUVVjdC1IbHRVTVgtUk9IS1NmRWliS3pjSTVsN3pEWV9KaDZWOGpUcW1YZ1EyVEFpVVYtSGYtWXhqNUgwdnVCT2FmSm05bmtGTTU1QmtPeFY1Z2NHUExTU1hpOUJHVG04Zmc1TjRVaXVfSFZSZkdIN2Z5cW85TXVjdHp3ckRvYTdLZHd4QmRnOGVWY0d6TmFCVWlNY1k4SHB4UkFMRkw5eEI3Z241RzFM?oc=5",
-    "source": "Українські Національні Новини (УНН)",
-    "published_at": "2026-07-23T12:54:27+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 12:54:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "385fd3c6d0cc7920de7782cbb7112ec5cba98a50",
+    "published_at": "2026-07-23T15:01:14+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 15:01:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "16523ab158452062cb49194bdb63d985fbce9895",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
       "strength": 0.8,
-      "reason": "US warning to hold Iran responsible for Houthi proxy attacks in the Strait of Hormuz.",
-      "event_key": "us warn hold iran responsible houthi attacks"
+      "reason": "US vows to punish Iran after Houthi tanker strikes, escalating via Iran-backed proxies.",
+      "event_key": "us vows punish iran after houthi tanker strikes"
     }
   },
   {
-    "title": "UN experts condemn renewed US-Iran hostilities, urge return to negotiations - Anadolu Ajansı",
-    "summary": "UN experts condemn renewed US-Iran hostilities, urge return to negotiations Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlZmZWNWTTI1NGt0aXhnbHJzTWlnRFFlM3BNWjl1cnE3MXFLTWxQcnhxNlplY2xOM3QxMmU2T0VYdTB0VXgyZ1hRXzRnTTZWT3pmNHJGX3l0cnh5cU9iY3lTM3d2ZThWVnRIcE44N3Q3TExVaFhNbWtHc0N3YWFsVXhtSFNtUm9jb2s4Skd3RlY0eGJlVkVPN2duRW5aNlVOYnpGSmlpZ0ZsaER3VkxWRENpZw?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-23T11:50:20+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 11:50:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e97cc6eae1099e8495cc69e3a9abc22f61136c36",
+    "title": "Tensions over Yemen chokepoint threaten to ignite another theater of US-Iran war - ABC News - Breaking News, Latest News and Videos",
+    "summary": "Tensions over Yemen chokepoint threaten to ignite another theater of US-Iran war ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEMyQ3ZCczBHeFkyS3dqUzJtQjcwbjNocWxTT3lRdHJzbmJWQWVKaWF2S2NUMWlMamhrbXRlYTdmYUNrYXlGQktxV3Nid3c4c1JSbkFPdUxPWXpncUZhSHFUMS1mbEp4cklpdHhGTWRGc3hpNnJQTlZaMThEUlFTeHhpalVCLTZfX0VEYVNGNFhCYktXRE1tNW9fZl9EcGZ6X1dhRnJyeHNnOTc4VnBj0gG0AUFVX3lxTFBmU2N0THVRSUMzYndQSC1vcXhJOEhoalk2RFV2djNlaVNlRnlVTDBRaWFMeG5XSFd6QV9aMDYzdEI1VXVwTEd3X0VJak5XdTNGbTM5RGoxVEtUMkFxNTMyZHFGek01NlBvc0h2bk8xSFBaRHFVNnU4QVJybVhpYndDTldrWGlkS2lZQlFselhzUzZwM3VwWXVEREpPb3VleldjOC05SERwRmNUbjJibGgxVWdQcw?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-07-23T15:49:33+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 15:49:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dcac81650c98ff26622574af4708ace4847ebbe2",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "UN experts condemn renewed hostilities and call for resumption of diplomatic negotiations between the US and Iran.",
-      "event_key": "un experts urge resumption of us iran negotiations"
+      "label": "proxy_escalation",
+      "strength": 0.85,
+      "reason": "Discusses Iran-backed Houthi actions around Yemen chokepoint risking wider US-Iran confrontation.",
+      "event_key": "yemen houthi proxy escalation"
+    }
+  },
+  {
+    "title": "Iranian strikes hit Ali Al Salem Air Base in Kuwait, escalating US conflict - Crypto Briefing",
+    "summary": "Iranian strikes hit Ali Al Salem Air Base in Kuwait, escalating US conflict Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGhvaFpWalIzaXh0OWVzYzk2bGlTUWprXzZNRG5HQmkxZG5LU3dDVl9iYUFPZ0c0ZGxKS2V6UUdEdVZZT010bmRXeURxR0VaVnU3eVhZdVBiYmx4SUdEbG9Ib1gxbGYzS1VJWjcxdUNHRHhfcFM4eW85TlRhREU3THRYU0RJS01nTGVsdnF1YXM5enpaN0E1amlIdGtmSjBhWTczRA?oc=5",
+    "source": "Crypto Briefing",
+    "published_at": "2026-07-23T14:03:28+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 14:03:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "05c58f51b137ff9ffb5a324dbc470b1fd465a4bb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Direct Iranian strikes on Ali Al Salem Air Base in Kuwait constitute a military attack escalating conflict with the US.",
+      "event_key": "iran strike ali al salem air base kuwait"
+    }
+  },
+  {
+    "title": "A Crucible on the Waterways: Escalating U.S.-Iran Strikes, Maritime Paralysis, and the Humanitarian Toll - The Daily Scrum News",
+    "summary": "A Crucible on the Waterways: Escalating U.S.-Iran Strikes, Maritime Paralysis, and the Humanitarian Toll The Daily Scrum News",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFUxODd5WHZHbXJ5Ry1RUTJSUzZBR2JLTUhuc2JOcTUwa3ZXeHFlX0dQbEtQNk9VMmZEcXdVd3A2ejdNWlZvZWd1ODA3UDl1bjd0U3dlbzNiR1JzS04wVHZwbFVqaGF5bVBZMDZ4RHlWY2pDYnVCdWdTdTZ1ZVo0bE9LejZaM1I3Q1M1bk85b2dXRkdZd3YycklFZl9fSExEeE1md1I0Ykt6YVJkNURBeFp1VDlMUUR6bjVnRG9YNHhuTlQ5ZDlHcEd0eG1lbGt2?oc=5",
+    "source": "The Daily Scrum News",
+    "published_at": "2026-07-23T14:09:48+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 14:09:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "80e5fb6243a15da7e2dd9167118798477e3f1c89",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Title reports direct U.S.-Iran strikes and maritime attacks indicating active military exchanges.",
+      "event_key": "us iran strikes maritime escalation"
     }
   }
 ]
