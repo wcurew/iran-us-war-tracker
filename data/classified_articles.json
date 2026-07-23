@@ -1,172 +1,70 @@
 [
   {
-    "title": "U.S. deploys B-1 bomber as attacks on Iran intensify - Axios",
-    "summary": "U.S. deploys B-1 bomber as attacks on Iran intensify Axios",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qV0NXSktTaGxGVlctS1kyTGV4SU1oaDhHY2xHdGxzZFNyMFVHRm9PR0F5dUJ1SnlGMXBfSGh2d1A1WlVqck9FSXpaM3hyWlFxbkVxcUxjYnZkUGVrZHBQZGxR?oc=5",
-    "source": "Axios",
-    "published_at": "2026-07-23T03:09:19+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 03:09:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "766297e52c2e41227d12877c5465154fe08a8824",
+    "title": "Live Coverage of the Iran–U.S.–Israel Conflict / July 23 - WANA News Agency",
+    "summary": "Live Coverage of the Iran–U.S.–Israel Conflict / July 23 WANA News Agency",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FMFhEVUFFYVEzOGhmN2xCNmdFX3pham1yVG04WTNMa0pobHNSeGlnNnE0eWZBVmN3T2ZMOEF5Vy1kc181d19jMkZYRGtBZWlhWWNBWkxzSTlwbzY3dEhuM2Y5MlpGWEJ0UDM1NWpPeTNhVGpJcTVYUEQxbUtlZw?oc=5",
+    "source": "WANA News Agency",
+    "published_at": "2026-07-23T06:15:34+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 06:15:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "150c1a7a6d244840f6adc9cbe69fd2ef715663dc",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Deployment of a B-1 bomber signals military escalation amid intensifying attacks on Iran.",
-      "event_key": "us b1 bomber deployment over iran"
+      "label": "irrelevant",
+      "strength": 0.1,
+      "reason": "Generic live-coverage title without a specific diplomatic or military development to classify.",
+      "event_key": "live coverage iran us israel jul23 wana"
     }
   },
   {
-    "title": "US military completes 12th straight night of strikes on Iran - Al-Monitor",
-    "summary": "US military completes 12th straight night of strikes on Iran Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYU4xSnVpUUUybVJQX0dvbFhQaDhzMXlRcy0zaWZfRTJsM0FMZlJyVUpUZ05ZNVdlelhwbGotNDNGZG83ZURHT3dDSl9OenQ4NDdBbzN0eTNQbE5sT2I3MDgyMDRrMHNuNWgxWW9VTVk0M19SZ3FKekNOVVdCcWZwSGZLS2s4VW01aEkxRk9NYjhLclBYOHlyb053Zi1rOW5N?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-23T03:36:00+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 03:36:00 GMT",
+    "title": "US intensifies strikes on Iran using B-1 heavy bomber plane - The Jerusalem Post",
+    "summary": "US intensifies strikes on Iran using B-1 heavy bomber plane The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CY21mR1RzQ3QtY2sxbDFuV1JKVy14V1JIcnFoTFd0d0hKWHNKVmtwZFpFN0ZMMGNId1VndG56R012bFFsSWFYNjZNSkNrczVoSEYyYXpMcFhoSnpZc1VVWk9aRDZRc0Y0VlE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-07-23T06:03:11+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 06:03:11 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f756f6ab212fa89123f93043b108059fe8fb6e5e",
+    "article_id": "c2bf430eac2a8113567309367b49810067fe1fe9",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "US conducted direct military strikes on Iran for 12 consecutive nights.",
-      "event_key": "us 12th night strikes iran"
+      "strength": 0.9,
+      "reason": "Reports of US using B-1 bombers to intensify direct strikes on Iran.",
+      "event_key": "us b1 bomber strikes iran"
     }
   },
   {
     "title": "US military completes 12th consecutive night of strikes on Iran: CENTCOM - Anadolu Ajansı",
     "summary": "US military completes 12th consecutive night of strikes on Iran: CENTCOM Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEVMT0JxdE51MTNXamJ0cWVWNk45dUhqOHByUjBmcVR0UnI4NnZNNlZTNXdkNUZkcEFWY0ZHTEFlRElhNDF5M29DZy1IZkdZcDlNb29oeDY4bEd4ZzFTcDUxZS1wY3d5UmVBVnRzR0FNNW9kdzlEV095Q1pBTUctSjNaUEZQSlBzMFRUN09QRnRrYXZUMEdTdndsZk81UUZFMDV5bVRuSnViUHRLQU1NX3gzaUVpQ1N6c2tR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1VzXzFyN1VmZVVGbGtWNVVqbFJiU3daeHY1dXRxUEd1NGVQaHZmbnUxcDhfX1drNm1GUVo5ZVVodUVwWG1tblJNR3d2YUx5eDI3LXE5MDZjbVpHU0JaNkQ0LUV5Ni1tX0tHVkQzRzI4VUlHbE1paHZpeXZERzRGZmZBek5DbWpWU2huSV9LWTdYbkxRSVhla2w3dlZISEZJLUhMM3RCRl9TOU9jNEhpWg?oc=5",
     "source": "Anadolu Ajansı",
-    "published_at": "2026-07-23T03:40:10+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 03:40:10 GMT",
+    "published_at": "2026-07-23T07:00:49+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 07:00:49 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2a4bfcb917db39e127a338a068180eadb6f1b210",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "CENTCOM reports direct, consecutive US military strikes on Iran — clear ongoing attacks.",
-      "event_key": "us 12th consecutive night strikes on iran"
-    }
-  },
-  {
-    "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure - WRAL",
-    "summary": "US military carries out strikes on Iran as both sides threaten civilian infrastructure WRAL",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWJKVkUydDN0ZUx1X1p0UW1hRmtKWXF2UVJWbmRCVDRPSnhZTndYZHdMMTIwS0VhNG1XaGFQVXhqcTZKOXNnNEI2dE96VHR2QzcwMVcwaTJiVHRkWkdqZUNJdnVxWTNKSkhtMDI2YXk2VjJvZHZyMUJPM0IzZ2UxcVY0bV9KaExNR3hiZW96UTlaVEF0V0JWNThrS0pGWERxWWNWNG16bkY4NmZFNUUtMkZtSDYzWGtB?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-07-23T05:26:15+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 05:26:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "21a31cdc84ee787d40b6ecd361618cda5b5e1d32",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US military conducted strikes on Iran while both sides threatened civilian infrastructure.",
-      "event_key": "us strikes iran infrastructure threats"
-    }
-  },
-  {
-    "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen - The Guardian",
-    "summary": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1JsblNHaHJYUGZkamxpRE45THVhZ1htLVhaczA3VVJla3ZOWHhjVGtESVljTjRKTFZPSmhpY0lvTndkdlk4QU9uVi13Z3BQRG9CYVNsLWh2OGl4QmM3V2g3VWRnNnp1MGNUMzhEOXp2VTFMUjBiX1cxbXhzb0doNy1BNGZGdF9CWThfbGIwREtxekh5bGdCY0QzbXVod2k0?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-23T04:19:00+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 04:19:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "801bfadfe47ae4edb723689f97496b61c2e9ffef",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "Houthi strikes on Saudi tankers indicate Iran-backed proxy attacks amid widening US strikes on Iran.",
-      "event_key": "houthi strikes on tankers"
-    }
-  },
-  {
-    "title": "US increasing military forces in Middle East as Trump considers escalation against Iran - report - The Jerusalem Post",
-    "summary": "US increasing military forces in Middle East as Trump considers escalation against Iran - report The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xQVRueHN2QWV5M3ZrSUdUd2x6VmZ0TnJtRDBtYVIyblBNd0pRaUFja3dNenI0QUxJd3JsbXpoQzF0NjdXZ2xoWUQyMTF1WW5BSXhYLTVZSXRFTk15MVQ1Zy1IaUxJSGRRa2c?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-07-23T02:35:55+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 02:35:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5136f422faf73bea4ce38d5145f25b006eede0a3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US force increases and consideration of escalation indicate rising tensions and mobilization against Iran.",
-      "event_key": "us military buildup considering escalation iran"
-    }
-  },
-  {
-    "title": "US deploys B-1 bomber against Iran in biggest strike escalation yet - investingLive",
-    "summary": "US deploys B-1 bomber against Iran in biggest strike escalation yet investingLive",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ25HZ0dIaXQ5STZZMF9rUlNxazVEVlUzMENEaFphTjk3TEgxaW5KRlJFVnZKaFlpUC1NQkpTODFMakpPR053SXpLSVowcUtSQkQtWmVWWVNhNlFkZk83aUloM2Z0Z1d3U3ZnV2t2NDZQSEFnZTFEMHFIZkxsd0RNcnl1TXNMVWNqWEwwdHpBTjBab25MTE9ySU1NMjRKTGhpaVhyTzNLMV8?oc=5",
-    "source": "investingLive",
-    "published_at": "2026-07-23T03:27:49+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 03:27:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4cf6b7cc6bf091a5056945464b61d6a2bd1c557c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Deployment of a B-1 bomber against Iran is a direct military strike escalation.",
-      "event_key": "us b 1 deployment against iran"
-    }
-  },
-  {
-    "title": "US deploys B-1 bomber amid escalating Iran conflict: Axios - Crypto Briefing",
-    "summary": "US deploys B-1 bomber amid escalating Iran conflict: Axios Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWNHa0RZSDdmLUtqbnlYRWxzRmNkZXVTWkRMWXdDMHY4dHJIakdpQU9ZWUZUNmZkV0xiVkpLaFlseG5rUTBvOV9nTW92T1VQSUJWaTktWjdzOW9vQjNZdVNFV01jUnBnVmdicjFXU3h6MHlFQ09Lcl9KaHdDN2c3Q0Iwc1VFOXc4SEF2NHBB?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-23T03:30:07+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 03:30:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "803f32a50d61200f4d517f3f285fb0948742f948",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "US B-1 bomber deployment indicates military mobilization and rising tensions with Iran.",
-      "event_key": "us b 1 bomber deployment escalation"
-    }
-  },
-  {
-    "title": "US military strikes IRGC targets in Iran with B-1 bomber - Crypto Briefing",
-    "summary": "US military strikes IRGC targets in Iran with B-1 bomber Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVE43Z2t4VlZGU24wcDcwcENqRlR3QUFhdXlXMU9HbWk2Y0MwZ1hwV19PR1RNa2czNmcwNDZvMVZVc0NGa0M2VXNoSFQxZmJ5QklmajA1d3g3RnB1VHY0WEFYamJ4ZkZqWmdUS25oVGttN3ZyT29SdXdGSGd2eDBxMjJ0VjRyWkxnd3d0Rg?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-23T03:36:09+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 03:36:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb8e4c294ae36a109f769697ddb1edf49b2b5507",
+    "article_id": "9df7ac33c28b1566facb7205cfdf78ff0b99e8de",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.95,
-      "reason": "Direct US military strike on IRGC targets in Iran using a B-1 bomber.",
-      "event_key": "us strike irgc b1 bomber"
+      "reason": "Direct US military strikes on Iran over multiple consecutive nights indicate active military retaliation/attack.",
+      "event_key": "us consecutive night strikes on iran 12th night"
     }
   },
   {
-    "title": "Houthis claim attack on oil tankers after US strikes on Iran - Crypto Briefing",
-    "summary": "Houthis claim attack on oil tankers after US strikes on Iran Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTl9mTDJrenNhV19pRVU4MTBocGlTNU1aR2J1NDlIMUVNTGJwazhiVnNLU0ctaUZVM0w0TkpNVEQxVWNIaWZxVTJiY1pHV3ZKT3I4M25lWHBOc1p6dTgzajBDanZGakU3dlRrVU9fZDdfYjBiUEh2UG1CR0tUeGxxa3dXZzBsQUE5RGVFV3dBcURoUQ?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-23T02:42:34+00:00",
-    "raw_pub_date": "Thu, 23 Jul 2026 02:42:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c3e42397c0496186ec1adcc191dd86114945325a",
+    "title": "Oil prices rise: Brent crude touches $96 amid US-Iran military escalation and Houthi attacks - صوت الإمارات",
+    "summary": "Oil prices rise: Brent crude touches $96 amid US-Iran military escalation and Houthi attacks صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZng0YjV6ZERYeGVhQWFWcTUzTmxCaHJ5UmpaSzlva0o3RDlhX2dNaENKODdHUXhKOWVNX1RiWEJNYkhJSzNLNGFGaEFTVzEtNjBiT21PbkdyS2JCZDllYnI4VUh6Y05qclM0bHkybGNvZl81ejB0VGtFYi1wRkxIU1AtWEU5TlJaZFA2MnNFRFNiT3ZuMUJGaTRHa0RnWWVLcmFvdmxiUU8tVjNKdm9OVUY4bzE4ckV2NjQwa2JhWHdZVDVQZG1QeFJDTXBsdnh3U3BObC1oemFyMV9CeWdj?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-07-23T07:05:04+00:00",
+    "raw_pub_date": "Thu, 23 Jul 2026 07:05:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "10270d3af84678931eca5ee6eda11aec5ede9c0e",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "Houthi (Iran-backed proxy) attack on oil tankers following US strikes indicates proxy-driven escalation.",
-      "event_key": "houthi attack after us strikes"
+      "strength": 0.8,
+      "reason": "Mentions Houthi attacks (Iran-backed proxy) alongside US-Iran military escalation affecting oil prices.",
+      "event_key": "houthi attacks us iran escalation"
     }
   }
 ]
