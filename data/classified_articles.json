@@ -1,155 +1,121 @@
 [
   {
-    "title": "War escalating five weeks after US and Iran signed initial ceasefire deal - whas11.com",
-    "summary": "War escalating five weeks after US and Iran signed initial ceasefire deal whas11.com",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZnh6ejZYdHJ1a2d4RG1rR2JMVnJNU0F5eFRmdVJqSjJuVHl1NGowRTR0WlJ1eExkZGo2X2xocGlTZ3NrWGJ3VGVtdWFMamlpUVNvTnp0UWhndW9xaHBVNEl0YTVlTmNKMnF2bXdyd1ZNZ0NIYk9zckVPdFFDZkk4SGxiaTNzaXlhZWh5VDFKbi1RZ285Y3dTa0FfaDA5bkN2SjBzMkctXzFqSWJ2VjhEa1lHUFlGVXoycWdwMGdHQ3VkcW1nSGN3QVIxNHo2Y0xZV0NmejI2bjZQdmZjUm80UDhCbWw5bzU3T3c4WFdfR0sxTjg?oc=5",
-    "source": "whas11.com",
-    "published_at": "2026-07-24T12:02:00+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 12:02:00 GMT",
+    "title": "Iran pushes back on NYT report that it rejected U.S. ceasefire proposal - CNN",
+    "summary": "Iran pushes back on NYT report that it rejected U.S. ceasefire proposal CNN",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd3RrVzRHSU96aFFhSmdBVjJfWXBaREFobnpmdThyeW9kUndSMDZERTlRRmlFd1h6UFBZenJlMi1ybkxMemtleE4wVkxUUE9zWjBOVXBtZU9NZ1pNUEZzMi10UEFxWmN4Z2wtQTd4YS10Y3FGblU3Vmo5ajg2OGFHZ1c1VzJXWVc2dDFtbTF1TXY5Y1BlT1pydWw0Umx6UTF2RDNmVS1WbFBVOGp1UnVRUmRYc1pUb0JNMmdFRWJmNF95U1JWUWZPNHFnUnNQZlpBMmFncHdUQzdCVHRaTWpCbmFn?oc=5",
+    "source": "CNN",
+    "published_at": "2026-07-24T15:40:39+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 15:40:39 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "79190a6eb2123cc6e9ff743d0e7d583e302330fe",
+    "article_id": "8637f72cd16b6ae7e818f66e8df2d87c76530a3a",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Reports indicate conflict is escalating despite an initial US-Iran ceasefire signed five weeks earlier.",
-      "event_key": "post ceasefire escalation"
-    }
-  },
-  {
-    "title": "Iranian cleric rejects US talks until behavior changes - Crypto Briefing",
-    "summary": "Iranian cleric rejects US talks until behavior changes Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEgzWDBLZlUyYUpXWi1HMFJVSmYyWFFkajdTd1VfdHRsSTFRT0ZyQXZoU2t3amVZYUFLV1ExZWU3T3c1Z1NlbWh2ZUR2MEtDeVcxVk81QVRBbmVONmRRWWhxaWRGOUpTMnU1cVpQOUt0RjhVc05LSjFoLWNfcDQ5NWJDeWVnbEVnUUE?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-24T11:53:44+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 11:53:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "73e80538bf9918708e5e5b9d96217c8d9260d509",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
+      "label": "negotiation",
       "strength": 0.6,
-      "reason": "Cleric publicly rejects US talks, signaling diplomatic breakdown and rising tensions.",
-      "event_key": "cleric rejects us talks until behavior changes"
+      "reason": "Diplomatic dispute over a U.S. ceasefire proposal and Iran's response.",
+      "event_key": "iran denies rejecting us ceasefire proposal"
     }
   },
   {
-    "title": "Iran rejects reported Trump truce as U.S. completes 13th night of strikes - Haaretz",
-    "summary": "Iran rejects reported Trump truce as U.S. completes 13th night of strikes Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcnNGWGp0YmJvQXdHTzNmOGFwZC1RcGJZOWxHY0duUkN0NVVBMldHQmRZOE5TT3I1ZE1oVHZHeDNlTi04SVlKVlhyZWpuanBERldCcEgxbDVUZjlkbUZGZWt3bERGbktxTWg0UzEtVUtMeEl1YTFwZzlDanMwdExUZGt3cW13LTJoaEJGZ0hGXy13LWd4QmJDaFRpV1dzRjFQdEY1OEJjLUFrY3didzVxSVRNemtRSGhISUpWYUwyRW90QWlpMVlzbmpVWkZUT1laVV9EU1lELXpUYUwwMGxNUmVHQUpmVC1TMUFHRE5vQkdYbGo1RnY4ZWhpOVhqZ0R3WUpydkJXTno?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-07-24T11:11:00+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 11:11:00 GMT",
+    "title": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say - Reuters",
+    "summary": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeElZbVRDTVhmbnotSkZKNEZLT3RiOEZCOW9ISVF3MWNYTTBqaWVKS29GNVJuc0Z2bzVKN2RKbm9mdTREaWx6WWh0UGhDMS1Cb1pRQ0xQOEJSdTlBRGhZVlZPS014X05BcjFDX2x0Q0JSTG45R2c2eEdGMzNiQk1lVG1vSDFnb2xDTkl2dHo0RFJ2eTN4aXRhMmI5RHdjZXdySWFzWlE5TDNQZ2V5bnljUEIyanJyTTZjY2ZUVWZn?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-24T15:16:37+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 15:16:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97ed50d223aa3538f8d57e2e5eac0771a48a71f7",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Pakistan and Iran exploring new talks with the US in a China-initiated push, indicating diplomatic engagement.",
+      "event_key": "china initiated push for iran us talks"
+    }
+  },
+  {
+    "title": "U.S. economy had begun to speed up — until Iran peace talks failed and oil prices surged again - MarketWatch",
+    "summary": "U.S. economy had begun to speed up — until Iran peace talks failed and oil prices surged again MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcjJPU0hKTGwxdUZ4SEp4Sk12M3A0SFB1Z1VXTWtLXzNJcE5jaUs3cmNUZlRrUUs1aTZ5WF9pNTktdVhhQ2c2ZDMzWWwxNFk0M3lpYWE4ZkpBaXhUTENRS3J3TTl2MHZjNTUyTU5QRlRpdVVHSmpDR1dmZmtjNFpBdlNtdXc1d1dNaDBVZ3dPd01SWUc2a1ZHTDNVSmhta2hGLWFJaVlER0UwVlJuMUp1Tmo4dC1mRnJQTTZwNFZ1N0VIYXRwa3MwQWd3?oc=5",
+    "source": "MarketWatch",
+    "published_at": "2026-07-24T14:43:00+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 14:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e5f64dfac555581be77cdbf3dada9d238608f87f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "Reports that Iran peace talks failed, causing oil surge—a breakdown of diplomacy and rising tensions.",
+      "event_key": "iran peace talks failed"
+    }
+  },
+  {
+    "title": "Iran's military says it carried out drone strikes against several American military facilities and bases in Bahrain, Jordan and Kuwait. The strikes were in retaliation for the latest US attacks against the Islamic republic. #dwnews - facebook.com",
+    "summary": "Iran's military says it carried out drone strikes against several American military facilities and bases in Bahrain, Jordan and Kuwait. The strikes were in retaliation for the latest US attacks against the Islamic republic. #dwnews facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmhrOVV6WGJjSDd6LUIzSEV0aVRoS0p2cHNyalFYVHg0NXpJZnR2NGYwcldjZlRNLWRFaVc4cHNPMFhSRWNwRDlaTVAyZ3JMYVBIazUyNTh2eElhcVhSclhXbm5PT0xma2pjNHQ4QjhLUzdrdkR5WE03c3lHanRKOElwOUhqMm9FeEQzcGFadWVDRHFFc1FiaW1kYzBvcEVQMDBBb1ExOFlYV3hQaWVmTXc4MUpVNWxlb3VObFhyNnVkLUtQbGc0by1FTzlvenY2WVBiajRLRm94TzhJU2R4cA?oc=5",
+    "source": "facebook.com",
+    "published_at": "2026-07-24T16:29:38+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 16:29:38 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c17f2d991aec787a09914169b0ce199472b6c635",
+    "article_id": "8f5fa918f1fceddc91e2a9e5c5b99b9360cf3264",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Iran conducted drone strikes on US military bases in Bahrain, Jordan, and Kuwait in retaliation.",
+      "event_key": "iran drone strikes us bases gulf"
+    }
+  },
+  {
+    "title": "Explosions heard near US base in Iraq after US strikes Iran - NewsNation",
+    "summary": "Explosions heard near US base in Iraq after US strikes Iran NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTlNM0lodDRIV2hST1psa19IWDVGMmU0aEFCQ3V0Y1E3Rnltc1d3aEJ6blZ3VXVnVDQ3RHRJenJyeGVCaENpdGdsckZHZDkzcFpvNXRTdHQ0SS1fTUJibzl6QlViTGdBMkZZNk1aSWNldllMSmlHdjBIMzViQWpEUVIwZ0NFeTBwaHBz0gGQAUFVX3lxTFBLV01QUy1vYmxhNG9IWWxncU5nZ2tFU293Z2hfRkgzNWhKazdVTzZhbjBrRnNiWXZIYm1qMy1DRVRCMFJxMDdURWpkOTR5US11dWh4NkMyeHdydnNFSVdsT1huZ21pbmxSR0UyNlhqTjFaUy0zdTcta3l3cjdKMWFOMFBWeThjc1FKV0tlamF6Qw?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-07-24T14:04:20+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 14:04:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eb28704d4928a52a7dee0a965f81bb57e5eb34b4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Explosions near a US base in Iraq after US strikes on Iran imply retaliatory proxy attacks by Iran-backed groups.",
+      "event_key": "explosions near us base iraq following us strikes iran"
+    }
+  },
+  {
+    "title": "Iran Claims Drone Attacks on U.S. Bases in Bahrain and Jordan - IranWire",
+    "summary": "Iran Claims Drone Attacks on U.S. Bases in Bahrain and Jordan IranWire",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2QtWHFCcklUUzVUQUlRVEh5VThxZ1ZTX0lvUVR3dkN6dXhuczI5QUM4b2VxVEZOai0wMUg5ZlNXbFpiWVozdnQ3N3d1T25JelpkS3ZuNW85UUV1SDB6ZnJSSzhQdGM5ZFJ5c3M3b3B2VjB4bk5iYkpiN1dLdnJrVGotblZtUExQYUxHNnBGcmlyY0RSZ1lGMzdfaUo?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-07-24T14:58:15+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 14:58:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c222764d32534405106cf6fd630b70a2b9674f5",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "U.S. completing 13 nights of strikes while Iran rejects a reported truce.",
-      "event_key": "us 13 nights strikes iran rejects truce"
+      "reason": "Iran claims responsibility for drone attacks on U.S. bases in Bahrain and Jordan.",
+      "event_key": "iran drone attacks us bases bahrain jordan"
     }
   },
   {
-    "title": "Iran Military Claims Drone Strikes On US Bases In Kuwait, Jordan, Bahrain - NDTV",
-    "summary": "Iran Military Claims Drone Strikes On US Bases In Kuwait, Jordan, Bahrain NDTV",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONm90Q3gwZkR2eGxZSnRxV1g3UUl3cVlQTFo0YW5CcXdNSHdUeWF3aGpudUl1MjJHOUhIOUQ0UXp2VVdnTEJTX2Z6TGtkU3lhVnNkSUE4MUxIcmxkak1vRllWejZUZ2Y2Z2RhbWM4ck9ZUGg3LTNwVFFNbE1rSEhTSDVoaHQyQkRxRVdhRWJRV2VzTE5BRVZ2YWhpSEgwcDNYeFlKZTdTY19KQzRxWURaZm9lOXFxa0ZJNF9NNzVmUkxQeE5ua0pJVDdZQdIB0wFBVV95cUxOMUkyNXZYWGR4WTI0LUw5VmMwZkxFeTVORG12eUxBYXZrZGhySWNGWmRFaE1vZEstR3lja3ZLUEFfWDN4cVMtSnludzg4ZWtqN2JoNzVYaklLWE1EejFQeFhlU1k0ZUJ2WlJaU0ZoR1hVMlVQamxlRUN2WnJXODlfZDZCZm1PNVB0MGJzTENfY2xfUTZiSnMzcE9ZV3drMnNQbTV4NFRhcDRSWkRBTVFhWjc4SmRSSHUtWndPQkFjMkYwdmdxWDFWSGozWW9ybjNQakNV?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-07-24T12:48:30+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 12:48:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dc46f093607d1d500947f5eb605414f3431f502b",
+    "title": "Jordan intercepts 7 missiles, 6 drones as Iran warns civilians near US bases - Al-Monitor",
+    "summary": "Jordan intercepts 7 missiles, 6 drones as Iran warns civilians near US bases Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUZlYVo4ZlladTREajFxQktvUjNFOExoOUt2MldBY1o2TU1ybm10MS1FdzJoWURzTXBWeElHdkdiTjNYcFpVRFNTWF9jT2F4ZTd1WUZyd3pIblY3eGdqWDlxMW01SW9BeWNFSjRhak1ydzQ1REhtcll2UDM0SV9sZ3ZCb3ZGczhFWktmQ09XMFRwT0FWNGotYTd5NXlZT0Vvc2FjX05zRVM3eDd5WE9fRV84b1R0LVE5?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-07-24T15:17:41+00:00",
+    "raw_pub_date": "Fri, 24 Jul 2026 15:17:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9a030de006b2926e1df55903275a485e38b61ea1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran's military claims direct drone strikes on US bases in Kuwait, Jordan and Bahrain, indicating direct attacks/retaliation.",
-      "event_key": "iran claimed drone strikes us bases kuwait jordan bahrain"
-    }
-  },
-  {
-    "title": "Iran Claims Drone Strikes on US Military Facilities in Bahrain, Jordan - Kurdistan24",
-    "summary": "Iran Claims Drone Strikes on US Military Facilities in Bahrain, Jordan Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0FPSWx4ZzJWMmNUQXRVTWdlb1B5cVlULWo5RC10THdUTDFQSE1VZGs3TnQ1R0VjaEpzYThVX1l1Y2RCQW05ZmVlLWRBZ2JjaHpkZEhmZWJPbjI3M0puWE12NEN1c055M0pkdG02Z2stdnBZZmhwa1Vqdy1GZFczeU9MVW05SUtGY2tJRkZNdDZQZzNKWXhhSk5heElUSi1lVkxVdS0tYUdiVXlZeFlWV2FCaw?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-07-24T12:33:00+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 12:33:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0e8d4a71548174929979d077508bd9e600b3d976",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claims drone strikes on US military facilities—direct attack/retaliation against US assets.",
-      "event_key": "iran drone strikes us facilities bahrain jordan"
-    }
-  },
-  {
-    "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
-    "summary": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war NBC News",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-07-24T11:13:56+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 11:13:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d51a7b4fb7011dec47fa4cd75a4bf3fad3ce764d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "U.S. launched new strikes and threats of a ‘massive attack’ amid widening conflict with Iran.",
-      "event_key": "us launches strikes trump threatens massive attack"
-    }
-  },
-  {
-    "title": "US and Iran trade strikes for 13th consecutive night as Trump nears decision on escalation - Straight Arrow",
-    "summary": "US and Iran trade strikes for 13th consecutive night as Trump nears decision on escalation Straight Arrow",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0EzaU1lWTVLazZuMDdmbU1GUGVBNnhmUktLcDR1dEZRRXducXJ5a01ESkM1MDBJdkpoZFB1NTRkRmJNR1FBNmpVMVRBOVpobUswOTBrcGRTaDNRSW9qNkFDaDdCU21ZUjdWUUY4dTdHTmxNU0MtZ3FTVjhxejc2eUpydHBXV3V3NWVYUTNPblFCRGs1WHVlMmNVaDI4MFUzb0RPQmpjN3k4eTBGZG5Z?oc=5",
-    "source": "Straight Arrow",
-    "published_at": "2026-07-24T12:18:00+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 12:18:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d07cf36ada2c64c4ad1c6af7f915cbc3ae786dc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct, consecutive exchange of strikes between US and Iran indicating ongoing military retaliation.",
-      "event_key": "us iran consecutive night strikes"
-    }
-  },
-  {
-    "title": "US targets Iran for 13th consecutive night amid escalating conflict - Crypto Briefing",
-    "summary": "US targets Iran for 13th consecutive night amid escalating conflict Crypto Briefing",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0xFUklYZFU3eUlWWE1WVmljYTltVjRoeFQ2TkVHb3ZmMU1HbHV5VnF6YjdyLVQ5SUoyWWdZdmpPQVB6ZlVwZkN2UGlNSEkzQnZBWFhIWG1sN0Y5ZWNaWDFKaDA2aDlnajdTLWFDa1JMRGdaaDZQLW5MYmFwOFhiRmw4WTlkQjZIQ0Q1MVVqTmlqeGRPX1RQX3dEMA?oc=5",
-    "source": "Crypto Briefing",
-    "published_at": "2026-07-24T12:37:48+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 12:37:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fe6f74665f6444ba44cf5290caa5edfa9eb69e6e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US carried out repeated direct strikes on Iran (13th consecutive night), indicating direct military retaliation.",
-      "event_key": "us targets iran 13th night"
-    }
-  },
-  {
-    "title": "Pakistan urges dialogue, de-escalation in talks with Iran as fighting with US intensifies - Arab News PK",
-    "summary": "Pakistan urges dialogue, de-escalation in talks with Iran as fighting with US intensifies Arab News PK",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QS2tZOXJWMC1BN013T2dTY0VzVEc3bGtFMXNhcEFlbFVFd0xELUxWYUFsUmt2bV9oWDhPWFg3TE9SOFl1QW1tc3hDS084NzZTeE1zLXpyWU4?oc=5",
-    "source": "Arab News PK",
-    "published_at": "2026-07-24T12:23:03+00:00",
-    "raw_pub_date": "Fri, 24 Jul 2026 12:23:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7da2d4c1462f296ed4d5e7ced95b68f78c88675f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.75,
-      "reason": "Pakistan urges dialogue and de-escalation amid intensifying Iran-US fighting—call for restraint rather than active negotiated agreement.",
-      "event_key": "pakistan urges dialogue deescalation iran us"
+      "strength": 0.8,
+      "reason": "Jordan intercepted missiles/drones amid Iranian warnings near US bases, indicating a direct military attack or imminent strike.",
+      "event_key": "jordan intercepts missiles drones iran warnings"
     }
   }
 ]
