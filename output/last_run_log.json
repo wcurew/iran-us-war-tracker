@@ -1,8 +1,8 @@
 {
-  "started_at_utc": "2026-07-25T13:19:03+00:00",
+  "started_at_utc": "2026-07-25T16:02:04+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-07-25T10:24:43.631722+00:00",
-  "window_end_utc": "2026-07-25T13:19:03.412195+00:00",
+  "window_start_utc": "2026-07-25T13:19:03.412195+00:00",
+  "window_end_utc": "2026-07-25T16:02:04.858714+00:00",
   "steps": {
     "raw_fetched": 0,
     "time_filtered": 0,
@@ -10,6 +10,6 @@
     "deduped": 0,
     "after_seen_filter": 0
   },
-  "finished_at_utc": "2026-07-25T13:20:28+00:00",
+  "finished_at_utc": "2026-07-25T16:03:41+00:00",
   "summary": "이번 실행 구간에는 새로 올라온 관련 기사가 거의 없었다."
 }
