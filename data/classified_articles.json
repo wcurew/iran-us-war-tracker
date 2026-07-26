@@ -1,240 +1,308 @@
 [
   {
-    "title": "US pauses attacks on Iran for a second day as peace talks continue - The Guardian",
-    "summary": "US pauses attacks on Iran for a second day as peace talks continue The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXpRZUVKLWdPbXlybXhsRDdrOG9nLUMtVGg2RkFhdHF3SGxTZndLTDJ6M2xKaDRWd1JJY3VjMVd5bnMyUjhFT2JIbF8tY3lfM2tncUl5bjJTWlI2UjBpR3VlN2ZwbTc2cXRaNXJyZUJwbHN2OFI4cGw4djRJcHhNV0ZfNHNOaEpSdXl3cXdSM1RqRFhYV241NHRoRjVTd2tsRFE?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-26T11:58:00+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 11:58:00 GMT",
+    "title": "US pauses attacks on Iran for a second straight day and Tehran does too - AP News",
+    "summary": "US pauses attacks on Iran for a second straight day and Tehran does too AP News",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-26T14:57:00+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:57:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2591b96f741a341501d9dd797096f41ff0b6f0a5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "US paused attacks while peace talks continued, indicating active diplomatic engagement.",
-      "event_key": "us pause attacks during peace talks"
-    }
-  },
-  {
-    "title": "US and Iran said to submit responses to Qatari-Pakistani proposal for return to talks - The Times of Israel",
-    "summary": "US and Iran said to submit responses to Qatari-Pakistani proposal for return to talks The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTU3V3ZGUlRGYzNvblZteWhDbEpydGY5VXZQVS1MQXdFUzdxNVFJTkhPcUlVNWJSblNXNW44bE5SSHdjUmdOREQ1ZTlKYzJLLVNSd00zN2VlVk5LYThIS1dreXF4QXp3eS0wejhvS2lucVVtYzVPMHNRUTVfSnh3eUFMQU5HTGVOVmJ0N3ZTeEVxRlpnemR6c1RMV3M2U3RtOVkyeEhYcC1wV1hNUU9Rd0QzZ21Tb1BRanBSbXZPak5KaXdZaVM2U0ZzMA?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-07-26T11:24:22+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 11:24:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "60e5108b764e42e0565061470a6d727d2149a0f0",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Both US and Iran submitted responses to a mediation proposal to resume talks.",
-      "event_key": "qatar pakistan proposal responses return to talks"
-    }
-  },
-  {
-    "title": "US pauses Iran strikes as Oman pursues Hormuz transit deal - Financial Times",
-    "summary": "US pauses Iran strikes as Oman pursues Hormuz transit deal Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMi1ucVNUazNJel9scXVLV3dtZk1LYzZEYXNxWURJa2Jhd2VGRy1TOGRRMVJiMTE4R2hsaEZGUlRLM29MRGZqWjRMUXBRb3NyZlpKSEVwSGpfdWpiTWxya2ZtemFrdzdFb2xyM0RJM0hjeDRtYUVWYzVvb2t4aFJRSWJiQWU?oc=5",
-    "source": "Financial Times",
-    "published_at": "2026-07-26T10:58:39+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 10:58:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bd794f5f9f80ef46231a662c15773d3feb1d3afa",
+    "article_id": "fbbd92f3c136d736548ce8799a6507456a2fec6e",
     "source_weight": 1.1,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "US paused planned strikes while Oman pursues a Hormuz transit deal, signaling restraint and reduced immediate tensions.",
-      "event_key": "us pauses strikes oman hormuz deal"
-    }
-  },
-  {
-    "title": "Iran, US respond to proposal to resume peace talks by mediators Qatar, Pakistan - report - The Jerusalem Post",
-    "summary": "Iran, US respond to proposal to resume peace talks by mediators Qatar, Pakistan - report The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnX2xsQUUzR3dYajZBOG9iR1pQdGVicEN2MXhjQ0twOHdJMXk5NldlQ3ljWHlsSXNXUm5teGlCN3BIU3JFam9lNXlhSWtueUJVbkZ4S1Myb3ZFRjNjOUtOc0dkNGxuejdRZFE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-07-26T12:37:27+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 12:37:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "96a196df550546ce10042224bfa89ce3df5636e7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
+      "label": "ceasefire",
       "strength": 0.9,
-      "reason": "Mediators (Qatar, Pakistan) proposed resuming peace talks and Iran/US responded.",
-      "event_key": "mediator proposal resume talks qatar pakistan"
+      "reason": "Both the US and Iran paused attacks for a second consecutive day—explicit mutual pause in hostilities.",
+      "event_key": "us iran mutual pause attacks"
     }
   },
   {
-    "title": "Iran threatens to expand war if US resumes strikes, which it says Israel is pushing for - The Times of Israel",
-    "summary": "Iran threatens to expand war if US resumes strikes, which it says Israel is pushing for The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEU1blJ0ZjFodmdqYXM3MzdXeU9PbXcwUlNEUWx5aktWY29NRXRHOC1XS2F3QTFpMWhKMnVhX0dUMkh4TmNYVEl0cDN6ZGtHb0dOMzk0SlE3SkdOT1JzVmZJQjFHYUYyUzZjUkFKNU5tZ3JmbDZTRXVYdUNDZXVFWjg4cG5QQmZKcFhKZnd1a2tMMENKS05LNFZMUC1henZCRERMcUVTaXRoRGYyV0Z4UmRSdmgxNUR30gG-AUFVX3lxTFA1UEhCVnJkWDRyNHRNYUItcVpsWDRfVXgyR0xUX3VyVXdacXZKMWgxSmtmWFFpVjlFVW12NHplMDFhXzZpYVFmbTdQRmFJajFGenhOdWtDZzNraEV5NEZXMkFCeElTQUVDbW9FaFUzS1lWam81NG5QMnpQRkcxclpUd2dGTTNsa05IeTRwd1BTclM2Q0RoMmtxM0FsZ2NvQWdLd2lfNWwyQ3BwcnV1d3NNanFrQVBBY3lxSXVtNUE?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-07-26T10:58:43+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 10:58:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "948e1abfd1bacedbd3ae0a7d72d4797a010a305b",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran warns it will expand the war if the US resumes strikes, signaling rising tensions and threats.",
-      "event_key": "iran threat expand war if us resumes strikes"
-    }
-  },
-  {
-    "title": "Iran says Hormuz talks with Oman advance as US sustains pressure campaign - Muslim Network TV",
-    "summary": "Iran says Hormuz talks with Oman advance as US sustains pressure campaign Muslim Network TV",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1MzLUNWWGFCMXNfMWI3bUx5aTE3czVOb04ycFdWekhyeE5aNDh1cWkzXzBvUVh0MTZVX2Jsa3RQRGlmYXF2d3FUQlB0djFFN1VIS1U1a1N4VjlhRmM5cnhqV1NVNjZVSVRENGl3dVc3akczOWxPNjF4OGI4dE5Yb2IwMzJ5TG9oYWNrc1ExTlhuQktMRkpKV1BUc3AwQ1lJSkFSUGt3?oc=5",
-    "source": "Muslim Network TV",
-    "published_at": "2026-07-26T12:55:56+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 12:55:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ed6b919c3cb5ca3b0899d27626075b87f0b7073c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Iran-Oman Hormuz talks advancing indicate active diplomatic engagement despite US pressure.",
-      "event_key": "hormuz talks oman"
-    }
-  },
-  {
-    "title": "US military reportedly pauses strikes on Iran; Iran’s move to legalize Hormuz Strait governance demonstrates resolve to make control of Hormuz a strategic objective: expert - Global Times",
-    "summary": "US military reportedly pauses strikes on Iran; Iran’s move to legalize Hormuz Strait governance demonstrates resolve to make control of Hormuz a strategic objective: expert Global Times",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DdjZPNTlSM19MNmMyQ0lMajNqRVpxWEtGbnB1M0Y1UERqUndtajc2eUtnQ01wVG0yZDRCSFNMblBkaC1QaEc2YW1zVXZjUHZGcjAzYnpVZ19KeWtsQWs0dWZR?oc=5",
-    "source": "Global Times",
-    "published_at": "2026-07-26T10:50:00+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 10:50:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fb6e8846a9a5999e4bcd04aa90068a6d02cb28ea",
+    "title": "Trump pauses US strikes in Iran after two weeks of attacks - USA Today",
+    "summary": "Trump pauses US strikes in Iran after two weeks of attacks USA Today",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1BZdlhvcjl1eS1adkRUVG0tV2VPUkFXVGV4V2IxcHdfaUgtSzczMlZLRXkxNGJDcFA0cTlnLVBLNzNtNFRhN3dlN0kza1ExR242V0xFblpZMEQ4b0dsOFcwc0tweHE5YWR6T191c25TSmNGM2djT1BpS2N2ZHdWYUNYdFdqWU15Nmp5REVGNkRVUzZ4d1JpQ3N3?oc=5",
+    "source": "USA Today",
+    "published_at": "2026-07-26T14:48:00+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "87e605711b336c46b934a0bd2a278b375d1e3484",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.75,
-      "reason": "Report states US military paused strikes — a suspension/pause in attacks consistent with a ceasefire-type development.",
-      "event_key": "us pauses strikes on iran"
+      "strength": 0.9,
+      "reason": "US announces a pause in strikes against Iran after two weeks of attacks.",
+      "event_key": "us pauses strikes in iran"
     }
   },
   {
-    "title": "US Halts Iran Bombing to Allow Time for Diplomacy - Kyiv Post",
-    "summary": "US Halts Iran Bombing to Allow Time for Diplomacy Kyiv Post",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91c29admNDZlJJSW0wVTdBVW4xQUZSVHpNNTNpM2daRzdsMmdnbVRrOE5LUF9ZRHVvOHhWQ0g4X0k3S2Z1UkVFcl9yZw?oc=5",
-    "source": "Kyiv Post",
-    "published_at": "2026-07-26T11:50:26+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 11:50:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "21ef6bf11f7e1313497dcd102465e6249d84d83e",
+    "title": "Al-Hadath: Iran suspends negotiation process with US - Caliber.Az",
+    "summary": "Al-Hadath: Iran suspends negotiation process with US Caliber.Az",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHI0cERNM0F2MzR0VWdpWk5Gcm9KWWFHN3RhQlcwZGIyMVZwLTVWQUUtU0ZMcDE2ZkFoMXh2SkplZEJLZHhZRFdWNzhsbG5UOHpuQ0dReUk5WXphRlc1ZTVJbi1DVXg4VGxjMWVJN2hqWmltcmNBeDNhbElpYmFBb0pTbE0?oc=5",
+    "source": "Caliber.Az",
+    "published_at": "2026-07-26T14:18:24+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:18:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5a937c49655e42b056ba390c644fae146dcb9857",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Reports Iran has suspended negotiations with the US, indicating a diplomatic breakdown and rising tensions.",
+      "event_key": "iran suspends negotiations with us"
+    }
+  },
+  {
+    "title": "Trump is giving Iran talks 'a little bit of room,' US ambassador to UN says - Reuters",
+    "summary": "Trump is giving Iran talks 'a little bit of room,' US ambassador to UN says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0pLZTJjRGRTWW02bXNWZW9QdjlJV3JWbHkwR2tRNFMzR1ZPa0NLLVBhUGxUVzVKbTVfZ1RhTGs3Rk5vZVFYVHNaRnA4dU5melZIeEYta3Y4YlpUZUtxcTlpOU5oTWtybGlxUkVjMU9heUR6V0xhbVFaUWJTTXlVNmg2VW8zemJETEN4VUgwLWdxN0VyVjJjcGxoSTU1djBfR0pnbENheDhNdU16d2ZnZl8ycGZtNnYzdHVQVQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-26T14:42:04+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:42:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1c06627470650cd0b6d7f11edeb0a88ccfc767e8",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "US offering space for talks per UN ambassador — active diplomatic opening.",
+      "event_key": "us gives iran room for talks"
+    }
+  },
+  {
+    "title": "U.S. forgoes strikes on Iran, but conflict escalates in the Red Sea - NBC News",
+    "summary": "U.S. forgoes strikes on Iran, but conflict escalates in the Red Sea NBC News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWVyNHlmdS1zUk1OOFRSdWJDNkN5a2NNV0JleEM0d2tnV0dBOG1XUEhWTTJROXNFMzlHODlOSnh3ZXFUQm8tUEw1OHZSWGhwR2wxWENrN1ROdUJjT1htaXJTdXppN0V0MTNWWXNsQmZtU2wyTjNaUVFKTFpXU0pRVTRDZlVWOWRnWG93Z3o1MlM3eGFvdmJUal9ZdHE?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-07-26T14:34:08+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:34:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1fc1a5dab560d80b3a57c1f0dbb0bf0b2d5a8000",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "U.S. withheld strikes on Iran while conflict escalated in the Red Sea via Iran-aligned proxies (e.g., Houthi attacks).",
+      "event_key": "red sea houthi proxy escalation"
+    }
+  },
+  {
+    "title": "Trump giving U.S.-Iran talks ‘some space’ amid pause in attacks, aide says - The Washington Post",
+    "summary": "Trump giving U.S.-Iran talks ‘some space’ amid pause in attacks, aide says The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcF9sY3BpTUlqMXVNUHdkeE5XMjNDSXhsUVdMQ3pGXzZXSjVzWnlHQ0lSZlJVNkhnM2VveENSRS1waTZlMjBvT0U4NjJ3b2VrdkdxLVVuWTRpU21FVW5WSkpfQ2xMcWdWUFhnMk9hWVNLQVlZSmo3SWY2VURja2hlZ2drcmJHN0lqRVExQmFJeUlGRUd0a3R1QW1vRnVzOVJNM3R6dWRPdzhQaDJVc3NaVU5WSGxLZjJQM0RJQ29mOFpjTzYwbkE?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-07-26T15:55:21+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 15:55:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5373aedad5944014ee4191cd3d14b8fffed5b667",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.8,
-      "reason": "US paused planned bombing to allow diplomacy, signaling restraint to avoid wider conflict.",
-      "event_key": "us halts bombing for diplomacy"
+      "reason": "Administration is holding back and allowing talks space amid a pause in attacks, signaling restraint and reduced immediate escalation risk.",
+      "event_key": "trump gives space for us iran talks"
     }
   },
   {
-    "title": "Why Trump halted plans to escalate US military action against Iran - The Indian Express",
-    "summary": "Why Trump halted plans to escalate US military action against Iran The Indian Express",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnVwV19XRUdnLUREd2RvMTBSN1FNTTRXbnN5cEE2OEZQUTV1ek1SSDhZRnpXcHp5eTdlY3EzclhuYWNYdEI2VXVFQlNjTVVoZWZoSGNYZ2hsQ1o1UERuVUVOUllJZDNna0Q5YXVHTnNnUDh6Q1BpdC1helQ5aEhyMHE2YTB1dXZRNDhQTDVrV1NpQWk3dDhvX292MlB2Wll5Vm5xdnE5aXJYSl9vYm0zUklrSEQ4Wk5ZTE93RHJZSUNkaVlsT0E00gHOAUFVX3lxTFBxUy1rM0tVLTFLeUh2ZF9yME9NdkMzaXNieG1DVl9ETFltNHl4V2hfV0FEYmNid1JnYUVsbnIwdl9DS0I0NF9TNGUzMS1Ia1djeEI4ZHB2OFJRZVFLOWFISnRNOE42ZjJsSGxGTW94ei1wY0N5QlBobDN3WW44LTZ4OHNpVkVQM09sTnZKQ1JveTRoNF94R3AwUUVDREEyZEQtVGlwT1dId2Vhay1fXzltNzdDWjRjVFp2SlNuajdPQmxmU2dEV0FyUG1BUUNB?oc=5",
-    "source": "The Indian Express",
-    "published_at": "2026-07-26T12:58:47+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 12:58:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "95479648a52a098c2a3c8f30492acf8821a902aa",
+    "title": "Iran says it will halt attacks if US keeps up latest pause in strikes - The Jerusalem Post",
+    "summary": "Iran says it will halt attacks if US keeps up latest pause in strikes The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XUlIxS24yUndINU01RVVXUWdpVEVxTTE3dzhnX2RZNVV0RmYwNnk2cDd0bllQdDhTWGpBaTNRNGhTSXNGODFJaXA5dzZoT25pekk0MHlNWE5WN1g5blhCaGZjQjlyb0VMenc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-07-26T13:32:57+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 13:32:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8454a5f2938a513f61e1af2b98c27ebed185ad9a",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Trump halted planned US military escalation, indicating restraint and a move to avoid immediate wider conflict.",
-      "event_key": "trump halted escalation plans"
+      "strength": 0.75,
+      "reason": "Iran offers to halt attacks if US maintains its pause, signaling restraint rather than a formal ceasefire.",
+      "event_key": "iran conditional halt if us pause"
     }
   },
   {
-    "title": "Iran using cheap, accurate missiles to strike US assets across Middle East - The Jerusalem Post",
-    "summary": "Iran using cheap, accurate missiles to strike US assets across Middle East The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSEtPb2FZTmkwYXg1ekoxRWFEX3Q1VTlHaTFuemdJMFB1Y0FBMnRxY3BZLUFOdGp4QV80cXNxVmUyNFdiVmNhU3FtOHllWGg0RkxVODc0bVlSa1luckRhTGlYZlM3YnRZZHc?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-07-26T11:15:27+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 11:15:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f7238d40e505ce91ad9b1eed6f7ef806aebe382",
+    "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes - whbl.com",
+    "summary": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes whbl.com",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTR2UFRaZlNIdzU5Qmo3eXB4cEVPR0htZjFJRzNrYS1qUnp5Z256bWp5bXp3QWY0NWk5MmFCeHBTZTIxSUdnRS1fcndQRjV4M3pCMHozMURIUDFRSEFIV2NRRmk2MmU1MnJkTXpVSmVIQXg4d3BNYTVxT0xfMzIxaEkwMk50WUE0eUlnQ0c5cUVKZTV0YTFxV3BoV2JXc1RYS1I2MjhjQ29SNGlkQ3ZUNjh3bFp1WGpIWjl5Z1FDNzhBcVF6U3JBenZrbw?oc=5",
+    "source": "whbl.com",
+    "published_at": "2026-07-26T14:55:17+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:55:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a5ff6694b3faecdd8b77911cb7cba4ea7b3cdc86",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Iran conditioned halting attacks on U.S. pause after strikes were called off — a restraint signal rather than formal ceasefire.",
+      "event_key": "iran conditional halt on us pause"
+    }
+  },
+  {
+    "title": "US envoy to UN: Trump pausing strikes to 'give a little bit of room' for Iran talks - Middle East Eye",
+    "summary": "US envoy to UN: Trump pausing strikes to 'give a little bit of room' for Iran talks Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBEbnRxNDk2QmVXRWVQY1R2NEI0aTZOMXZPWWd4M1lHVUY1VU9YRmJrR1J2bXlMYlpUZV9kZUZkekhsQ2FvTGZBUkx2SG9IRGJfX0p5VGNJdk5WSXlGRDNYTUR6SzhscV81Y3FvVGl1eXYwbS03U3Y0Q2d4LW9OTDVYaXIwNFI1SENIVWg0SmpkMWFHa2NHUlItTndfSEtIRWlfeTg5QUN5RzRQUDhKd1FDTjE5cDk3ZW9JWEtZUQ?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-07-26T14:09:00+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "29abe1682522d7de42b04168ccdbabb3c81265e2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "US pausing strikes to create room for Iran talks signals restraint and delay, not a formal ceasefire.",
+      "event_key": "us pause strikes for iran talks"
+    }
+  },
+  {
+    "title": "US-Iran nuclear tensions rise, Trump weighs next steps on diplomacy - Fox News",
+    "summary": "US-Iran nuclear tensions rise, Trump weighs next steps on diplomacy Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81RU9MZmM4OUh0M3dGVnFCOEJMblRINUV1cHc4MGNDS2lmQ0lVVFlFWUQ4d00tTEUzM29PWlAtUUtYTnBVdncwQWNuWVYzTnBXS2xyeHNn?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-07-26T14:30:00+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c1e43b71d2e3c265538eeb6ab2d8a4f356a1dd03",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article highlights rising tensions and Trump weighing next steps, indicating an escalatory posture rather than active diplomacy.",
+      "event_key": "us iran nuclear tensions trump weighs options"
+    }
+  },
+  {
+    "title": "US halts strikes on Iran for second day as mediators intensify diplomacy - Yeni Safak English",
+    "summary": "US halts strikes on Iran for second day as mediators intensify diplomacy Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWh0TWdPRzhrMjkyZlZObUtzY3l3aElQSXJxbnFId1lCWC1NVHU0ZTJFQjc5T2pJTWxwdk9rN2FDLTk5NFVUQ2dhV0NuelFmV285cHpEMlpJeUdBZ21kNXJlelZtR1ZZY0EtOFZhaUJGX3FoMUpXZWlGSDZmeEFYd3ZpMFJINWhRSERyZm0zWThnX1FDU2xJdnk4N05peEd1NGdpejR2dEYwd0lVRjFtSg?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-07-26T15:36:05+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 15:36:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0457bae88bc74ce6afae043b82a5aa20ef2ba833",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "US paused strikes for second day while mediators intensify diplomacy — a temporary halt in hostilities.",
+      "event_key": "us halts strikes second day mediation"
+    }
+  },
+  {
+    "title": "US Holds Off Attack on Iran, Tehran Follows Up with Retaliation Operations - VOI.ID",
+    "summary": "US Holds Off Attack on Iran, Tehran Follows Up with Retaliation Operations VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OU25FODR1UjVtaW9yMXF4WGtzSl9uVHdHWm5qU2JaRUZCYWlSbjhjeGtsU0RGc2EzTzVRZDE5NlpiajDSAUJBVV95cUxOY1E1S0ZwSTVwVjZQZnN2bllpanctTUtNd19STmdaQW9CanVqZ2NOb3ZYbG95VmdLUXFNZTd0OXBrRXc?oc=5",
+    "source": "VOI.ID",
+    "published_at": "2026-07-26T15:27:45+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 15:27:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b83f91b3946754bccbeb39edd87b9677b7eec955",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports Iran conducting missile strikes on US assets across the Middle East — direct attacks, not proxies.",
-      "event_key": "iran missile strikes on us assets"
+      "strength": 0.8,
+      "reason": "Reports Tehran conducting retaliation operations after the US held off an attack.",
+      "event_key": "iran retaliation after us holdback"
     }
   },
   {
-    "title": "“Dangerously Deplete”: Trump Pauses Iran War Escalation as Patriot Missile Crisis Exposes U.S. Global Defence Risk - Defence Security Asia",
-    "summary": "“Dangerously Deplete”: Trump Pauses Iran War Escalation as Patriot Missile Crisis Exposes U.S. Global Defence Risk Defence Security Asia",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnUzZURFbXluQWpYMFBfbk1YbGhiRlhlOWx3TVdTVDVXbGpFY19tRXp2NW1BLUFvSURmY2xjekpGRmZnRl9rWnJoa3ZxanU5VU45RFJhSWpRbTFlMGppQTVvUTRIRS0yT2hWUzJmU2lKUXljOWNGcGVlb0xjb1FzUHVKVHE4Mmd3X2loSXFSSnFtakFn?oc=5",
-    "source": "Defence Security Asia",
-    "published_at": "2026-07-26T11:46:30+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 11:46:30 GMT",
+    "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes - Reuters",
+    "summary": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-26T14:50:55+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:50:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3455cc2d9a8aa7436009419b4e1b2d27347874c1",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Iran says it will halt attacks conditionally while the US maintains a pause after Trump called off strikes, signaling restraint.",
+      "event_key": "iran conditional halt after us pause"
+    }
+  },
+  {
+    "title": "Iran to halt attacks as long as US maintains latest pause, Iranian source says - The Times of Israel",
+    "summary": "Iran to halt attacks as long as US maintains latest pause, Iranian source says The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSENlZGpGVUE0N1NkUFMzbTRDRDgyWGJXTEEtNjB1eG1IRWkxbW5aSzl4VkFCNUxGS1NDdGdOOXF0ZG9SRU45M2x5LVJYU1A2RlhWU0tjRU82VWExQ19FajdiV1BzUHBpMUdkd2oxQkd0enp0U04xWjZiWTFEdU05R1ZpRDJRUXZhSmtSZzhoc1psYktXMTlONXlzX25GaVgxdHVDZllVWWV3UHZnbmQxVGJ1ZWF1ZlVucHdCTDZDLWw?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-07-26T13:51:35+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 13:51:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7a442fc63637e5c753a27d24a806d19e491a7503",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Iran signals conditional halt of attacks contingent on US maintaining its pause, a restraint/avoidance signal rather than formal ceasefire.",
+      "event_key": "iran conditional halt attacks us pause"
+    }
+  },
+  {
+    "title": "US faces 4-year missile rebuild as Iran nuclear sites remain possible targets - Ynetnews",
+    "summary": "US faces 4-year missile rebuild as Iran nuclear sites remain possible targets Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWkZIWEpKTHVITWlDMjFXSnMzRXB4eTUxeUdRc3VCclExTnB5Smg4cWZzX1JfSEdScV9DamxrbHYyNFhNY2tNSEgtMHNJTGNZQ1JCUjRn?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-07-26T13:56:33+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 13:56:33 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dcc92e1d67ac6b6501d68599c4f53fda95d6b987",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Trump's pause in escalation amid Patriot missile shortages signals restraint, lowering immediate Iran-US tension without formal ceasefire.",
-      "event_key": "trump pause escalation patriot missile crisis"
-    }
-  },
-  {
-    "title": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes - The New York Times",
-    "summary": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5",
-    "source": "The New York Times",
-    "published_at": "2026-07-26T12:49:15+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 12:49:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aa2c6b5a87fac4b3442dead7dae08f0b8e7e2873",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.65,
-      "reason": "Both sides held off on strikes for a second day—an informal pause and restraint rather than a formal ceasefire.",
-      "event_key": "mutual pause in strikes"
-    }
-  },
-  {
-    "title": "Iran’s army issues warning ahead of Netanyahu’s US visit - Al Jazeera",
-    "summary": "Iran’s army issues warning ahead of Netanyahu’s US visit Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk1fbFR3UXNZVnI4a2R5QW0xWjhJTHRMMjR2LUFsc3ptcDNVcjQwcVdqcXFEcnpBSTBtcjhhcWRTZUxBQnFfMld1R3JSekJyc1h3c21zbGg5TjFhSlVEN25qeV9DdlRPX2MyWnpQSmlMWVJFeEc4bzRZX2M5a1hhbGZJcUU3WnpYVUpWSUQwcFR3bXY0X0RGS1Y1cTU3TUFqUDlKSGtBYUfSAa4BQVVfeXFMTko1TTlpUVlDdGVlUVNqdGVqaXhYeVJFb1JtQzRhVmtIWVY0cFktX0pkcDFsaW1jME9ZUUlURGFub2JfZ3ZiN1cwRFlqSUdDcktZMlMtMjY1MVlMbHA5dVJxUTVNdXAzRFB5enJJNmZpSGYxZ3lZUGNBQnI1ZkhyeWoyLWN1VVlyUHdqTGExa2V4THJ5MmR1WDJzNld5YjB6UDYwcnVKdlRTYm93R2l3?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-26T12:25:24+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 12:25:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fa11daeb5ae6ec16a4fdab68aec22ddf3a1163f7",
+    "article_id": "8c57d82a945a63cc741c54526768670685a57115",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iranian army issued a warning ahead of Netanyahu's US visit, a threatening statement increasing tensions.",
-      "event_key": "iran army warning netanyahu us visit"
+      "reason": "US planning a multi-year missile rebuild and citing Iran nuclear sites as possible targets signals rising military tensions.",
+      "event_key": "us missile rebuild iran targets"
     }
   },
   {
-    "title": "Iran's Final Warning To US? 'Next American Strike Will Ignite Wider Middle East War' - The Times of India",
-    "summary": "Iran's Final Warning To US? 'Next American Strike Will Ignite Wider Middle East War' The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUjFPdDFLT0pIeUhrZFdYck1uaC1nLTl4TUwyNW1vOTVnaWRHWndJX2VfeG8wWGZPTXJrS2dBOTdtaFY1MVBfLThLN1l5ZEx4cVppTlpsYkR4Qlk5dG44QlMzbGJyRmxUd0ppSjhpMGVrcEswdE1GSFpmT191SzVfRm9ta2ZjekNXdXJkYVpvZWRtdDZ5alM4dUlnMnRud0FELUt3a25lVlpwU3hHWnVZR0hmcUtFNXZGUDRiaG01WjB2OTk4WEQ3MzF1RE01Ql9UVlR6RDNMbi1TVVVmMmFGUFFVakI5dTlTelVxQ2RJclItZ3fSAfgBQVVfeXFMTUtWb0MxbHZOWjlvSmNUSkFuNXMwei0xck11T2pLdHppZmZtLXBwM0dva19aMkJXNXdfV0NIdnVFTTBBS3F3elIxWko1NDUtWGlMQkFDWDFyN0xYbWtHazVCS3hrQmRkRjQySHZjMTVrRUlUcnhBdEIyckpIZkNDam1SeE5DdkUtcUhSeWxxR29EdEtWVVBIeHJYT196TW5OaGY5LWR3d1lrSHlJUzZPZ1FfcFpOMXlCYjBWS1ljdTRldlRZaUJtb3UzaWxBYzZiQjdvVU9jSENZUXBaZ3prQ3ZnTEctTURnZ1BSNm56allnbktCSFM2MUE?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-07-26T11:57:01+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 11:57:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d9b107b6d120f8eb051585b1147b249dc747642b",
+    "title": "U.S. Halts Iran Airstrikes Amid Missile Defense Costs - 조선일보",
+    "summary": "U.S. Halts Iran Airstrikes Amid Missile Defense Costs 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmhXSmgxenJkSHR1VUs1VjVTMjlzVmZvRS03OWpzazY3NGpRZmhrcEsxSk5ac2l2Y1dWV01QTE1VVWloZnU2Z3poM241dkdWLWd5Y1VQcVRBUEloMkh0eGFmZE80WkFJZHVjSW1ZWGZRbFppU0RIT3dVQ3ZlOXlBQ2w5TGk?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-07-26T15:51:54+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 15:51:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3b7656585807f98b8a7268f4d12edf48af5d8a4b",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran issues explicit warning that a US strike would spark wider regional war — hostile rhetoric indicating escalation.",
-      "event_key": "iran warning of wider war if us strikes"
+      "label": "ceasefire",
+      "strength": 0.7,
+      "reason": "U.S. halted airstrikes, indicating a pause in attacks (suspension of hostilities).",
+      "event_key": "us halts airstrikes against iran"
+    }
+  },
+  {
+    "title": "EXCLUSIVE: US-Iran De-Escalation Is the Only Way to Lower Gas Prices, Analyst Says - Benzinga",
+    "summary": "EXCLUSIVE: US-Iran De-Escalation Is the Only Way to Lower Gas Prices, Analyst Says Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUTBuV2lSNzN3X2RqcDZqQ0dmQ2NYR0dyYXVoQ1F5M1BiaVlMWW5UYlpQel9KNXY3OHJ0b3E0WnRZa0d1MEtuek8xUDVyM0dpZ3kydnlzdThsNU9nT2JjS2w2WHdwVEIyQzc0b0N4dTBIV0pGQmdtbjU2WjFnaWVkZFFXaHlJeDVCZHJLSVNiQXM3ckNsQzZPUHppWlZJZENyaUttQU5GY29QRmRZM0EwbFl1OHVfRi1OZEh0aVBjQ3IyV0I4RGFhN2tvREJ5dENSUTVTeXRWaw?oc=5",
+    "source": "Benzinga",
+    "published_at": "2026-07-26T15:00:41+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 15:00:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2285e6ab67c2f3a8cf3ab6b80b7f9f835587f87f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Analyst argues for US-Iran de-escalation to lower gas prices—a call for restraint rather than reporting active talks or strikes.",
+      "event_key": "analyst calls for us iran deescalation"
+    }
+  },
+  {
+    "title": "Iranian Official: We Will Stop Attacks if Washington Continues Halting Strikes - صوت الإمارات",
+    "summary": "Iranian Official: We Will Stop Attacks if Washington Continues Halting Strikes صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUpGcmgxbGwxWjc4UFgySjNUMjc5dGVEdGtoX00zQnFJUVBfVHZJUnFWcDlhQVFiS0JkeFh3RWEtQzRqb085M2o5bWsxVjRMQnhVdUlfRU1Odi1la09kbnN3TlZ1VkNibjRoejJZLVJRUG1BSXk2LXBvUVFqNnYxOFFIcUtkV1JyWVRaNjBTWEZlU1Y0VVBKS2xhQklueTRyQllxUGRzTTdncUJkR082Uk1iNlhOSTBRZHlzV2dLUGpEQlRhWkN2TQ?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-07-26T14:37:49+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 14:37:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "429f0694002bdcf14ba821f533213e8eef9e32be",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Iran signals willingness to stop attacks conditional on US halting strikes, a restraint/avoidance signal rather than formal talks.",
+      "event_key": "iran stop attacks if us halts strikes"
     }
   }
 ]
