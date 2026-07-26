@@ -1,121 +1,172 @@
 [
   {
-    "title": "Trump pulls back after Iran crosses his red line as US military breaks two-week streak of airstrikes - Fortune",
-    "summary": "Trump pulls back after Iran crosses his red line as US military breaks two-week streak of airstrikes Fortune",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHFkX1FGZXAySE5HZmdPY0pYaGREc0hGWHRnOTRxVjNoS0lQVmpmSUNqMXZRYXBoNGtCTi1WakQ4SG1BUzd5TzFXaENhLXdWZGc0Y1lMM3I1NWRKYnhhYWtJaU9tYjdtTTF1WjVMVFJrLWN0cXkycE1hUjloVzZOa2ZMSzltM0tCR3lvUXJYMjBVWFZQMC1yd3FnR0lPRzEySWhRNw?oc=5",
-    "source": "Fortune",
-    "published_at": "2026-07-25T19:46:00+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 19:46:00 GMT",
+    "title": "US halts strikes on Iran, sees opening for talks: What to know - Al-Monitor",
+    "summary": "US halts strikes on Iran, sees opening for talks: What to know Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnRTY29XMVRmN0s2OVpEVzFJaC1BWTZyOW5WM19rM2haaFpoN1RNOFRVUDJ6ZTVSZ2JkY1M2Z3VneXJCRTBSTWw5dWVyMHJjUkRueF94bDUyWjZCYXZKMWVtVEhGalUzLTRvSlRyM1QzcEhwRFFTclVIcHNnSVZIa1hrMVNfcXJCWEJqbllLc0hKd0Yza3ppNFRhNA?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-07-25T22:52:04+00:00",
+    "raw_pub_date": "Sat, 25 Jul 2026 22:52:04 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "50a50e06ee7db76f7d395ee395e14a249a135e67",
+    "article_id": "9660414f8b1ebc4da546e88d24ba6e00ce438fc3",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US/Trump pulled back and halted recent airstrike streak, signaling restraint without a formal ceasefire.",
-      "event_key": "trump pullback halt airstrikes after iran red line"
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "US halted strikes and sees opening for talks, indicating a pause in military action.",
+      "event_key": "us halts strikes seeks talks"
     }
   },
   {
-    "title": "Iran's Araghchi Discusses Alleged U.S. Violations With China as Talks Continue - Kurdistan24",
-    "summary": "Iran's Araghchi Discusses Alleged U.S. Violations With China as Talks Continue Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE5xOERvZDdHRk91VUs0ZDJtdncxamtuNTZlUzdyemFDVnNYeUduRjB3LTVsTkstX0EtSnNucFI1MTR5blpOd1ZKdjcyamVlTnVtRkZmRGFiSXNlck1lSUxiS2Fobm56M1k5RjZKY2NzNWFRbDZWNGtvQk5IQ09VMjY4T0FXQjNGUm5OZm8tYkhHUG8tZUtJU1RkLWxtdk5kcmQzYnFfLXd3bkpxSDR6MXBmeW9fOTl3Vzl3?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-07-25T19:16:58+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 19:16:58 GMT",
+    "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? - AP News",
+    "summary": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? AP News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-26T00:10:00+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 00:10:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e5a55f297ce0a0ef01db2d9f7036554dc54502c1",
+    "article_id": "fabeaaf44fe6023b71775bfb24e2e89b1a2a0b94",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.75,
+      "reason": "Article notes airstrikes have paused and talks are progressing, indicating an agreed or de facto pause in hostilities.",
+      "event_key": "airstrikes paused talks"
+    }
+  },
+  {
+    "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? - Santa Fe New Mexican",
+    "summary": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? Santa Fe New Mexican",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY096OVNKZmJrcFJyemdhLXNDcU5fR0k2ZlJ6cUJLYkJ6YkFvM19WQnZ6V2drRmUxTmpUbW9VVzhkUHVfM01aNExpaFJmbmFRRXRZRXZScUdCd1FGQXlxY29FV2tUaWF4cnJId0ExaUpmZjMxd2ZubkhoUzdEX1NncE1VSU92RGpGQXVNd25xTk5KLTJJX09ldkV0dUpXVko0ZmRNM2gyamluMDJIYzdrNjZUMmU4QXFnQXo5RmhUTWJzdHNJQUNYV3NMVDYxMm55dVhVaWZVX2ZsTjlZYmUyMmkyUk9KdGxySDJFRUFIcDRKR0RaZUVvR2ItU3VKY1N6anV3dG1ma3haQTJ0?oc=5",
+    "source": "Santa Fe New Mexican",
+    "published_at": "2026-07-26T00:14:00+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 00:14:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9ebb046438af4a5956329338dd20aa3f10bb60fe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "Airstrikes have paused and talks are advancing, indicating a suspension of hostilities and diplomatic engagement.",
+      "event_key": "airstrikes paused talks advancing"
+    }
+  },
+  {
+    "title": "Official says Trump's preference ' is diplomacy' as US pauses Iran strikes - Middle East Eye",
+    "summary": "Official says Trump's preference ' is diplomacy' as US pauses Iran strikes Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdzVsVHJVTmU2NlFZTHFFZU1WeEZKOUNjZ3l5dVVYRk4zY0ZuWldxZWQwUkhjdmFQVk9adUJnR3diSUN6RlQ3eFVRZm9XbmN1UFNkc2htQm5FclNybTI1eVZMTG9DTVVyZHlKQWlyQkVUV3ByWHF3bE12X2NEUWxXS1hkN2hqMVJzRUEzMkYteS1jSVA4TjZ0cUVmOGdseXUyak5GT3kwcjJNMmF3djZERld1Z3FVeW9EaHYzOExn?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-07-25T23:31:00+00:00",
+    "raw_pub_date": "Sat, 25 Jul 2026 23:31:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "42d4c1df78ec668cbd0062a93188b5fb553aa4d1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "US paused strikes and signaled preference for diplomacy, indicating a suspension of attacks.",
+      "event_key": "us pauses strikes prefers diplomacy"
+    }
+  },
+  {
+    "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
+    "summary": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-25T23:18:00+00:00",
+    "raw_pub_date": "Sat, 25 Jul 2026 23:18:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "157d3e5a5a453f3cd35d9b5aa8c9f67e8a565f46",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Conflict spreading to new theaters (Red Sea, Caspian) indicates rising tensions despite US choosing not to strike.",
+      "event_key": "iran conflict spreads red sea caspian us forges no strikes"
+    }
+  },
+  {
+    "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? - WKMG",
+    "summary": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? WKMG",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlh3MzFxY1d2NlNiOWVVVzhXQmpnaHAwTkRPSk9KVlNVUmtMUmNPWnFSU2ZYeV9ZTGg3V0w0cnFOSGJRM2tWVlZaX0EyOGpKQ0JNX2NLTmpnVmJlN2I3cmtYQzhKSGhTSlVTazhmMWswR2E4dV9QMF9MODFjM01ZQmJzWGw5Y25kVnBBWWFNWWJHOHpRVktZelhMZ0xzZWhZSUsxRXRNeTJxbENSN0Q0bW44VWhFLUxZS25IeHJNa0JjVlZIdlRHYzVzMkJudkhmUWM3ZENGblZjbnEySExKcA?oc=5",
+    "source": "WKMG",
+    "published_at": "2026-07-26T00:17:14+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 00:17:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a8fa7eedd26c7d55acbbd38e660bab3aad428d40",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Iran official meeting with China while talks continue about alleged U.S. violations.",
-      "event_key": "araghchi talks with china over us violations"
+      "reason": "Active diplomatic talks are pressing forward alongside a pause in airstrikes, indicating ongoing negotiations to de-escalate.",
+      "event_key": "us iran talks and pause"
     }
   },
   {
-    "title": "Trump ordered to suspend US strikes on Iran for diplomatic negotiations - Українські Національні Новини (УНН)",
-    "summary": "Trump ordered to suspend US strikes on Iran for diplomatic negotiations Українські Національні Новини (УНН)",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGNKWDBCRHg1ZVFYWU1hb0hWVVk5MElCWERLZlRBcDJIS0dkcmdYek40ejVYNG9xdHlMV1hFRXBRaHZ1b0hqUXNjcDhDTFlYSk9yQTJmY2YtQTl5RGk1LTUxNHEzT0RGaURDUks3T2ZJVVA1MllqUEdKU1RUTkVpMW5kNXVISWg0c0RwdXhnQlljZFNPTzhObTl30gGYAUFVX3lxTE5wT3BTX0tfNU9sSFE5bkJ3bDhqS1F4WkRTS0loUDBwZUJtUDU0aWE2OVZOc2RKX0dhSGNReTc1NlVlVGd1UV9SRHR0dlF3Ym80MnJwNjg5YVJlc0daQm9PRnRaeUFHa2h4RG83T1lrNjJidFdnOXliS1NqcEJhZlE2THM5a1haMFdFanM0NkNqei1xTHRCd3Zm?oc=5",
-    "source": "Українські Національні Новини (УНН)",
-    "published_at": "2026-07-25T21:16:06+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 21:16:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bd1bb63171fdb303e051fc035e25ca653ee8c611",
+    "title": "Trump pauses wider Iran strike plans after Pentagon warns of missile shortages: Report - Open Magazine",
+    "summary": "Trump pauses wider Iran strike plans after Pentagon warns of missile shortages: Report Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGxIc2ZsVFlEdS1WS09VMlJkc2xlVXhPdjRaTmpQaW9acE1nLTJxM2hBdy1rNVdMeUMyMDVyaG9jR1piODNqZG5Vb0Z5M21lVW5KRktfVlpzcHloeXE0RHU1LVVEaFM2VmRLMEN4aWhfWmRPRWJyNGtfNUFzdm0zNXZTY3NKODNwbXZOeWx0cDZCWFhTMEtsWmQ3VndPWFlSTUltUkdQYjB1UGVaeFR1SUtlV3Z0M2d0VXhv?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-07-26T02:19:04+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 02:19:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7157eb1244b5d24c1a301f50d4e90837a958edfa",
     "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Order suspends US strikes to allow diplomatic negotiations — explicit pause in attacks.",
-      "event_key": "us suspend strikes for negotiations"
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Pause of wider strike plans after Pentagon warned of missile shortages, indicating restraint and delay rather than immediate attack.",
+      "event_key": "trump pause wider iran strikes pentagon missile shortage"
     }
   },
   {
-    "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks - Al-Monitor",
-    "summary": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDRYUHZjVEhZeGJBdGFYZUhSZDVIc29obkV6cUpUZ3FydmhTVEV2eDJleHViakNHbnZTR2pESTM0ZkhtTmFlUUxXMDZzRjZLWHhhazBqZy1EVXNuZzZsTXdzYmlUS3pSR29GR1lJWUtUb3RubHpRci1fWVVvWERPdENneUR3MnpmeWZyQTFlNXg1cTZuX3RFb2xHWWFNZnRwQmNsUXliNWUyOGRNMm5DWElB?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-07-25T21:45:00+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 21:45:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c3532a5d1cb02250bd2bca8448a3f3269c01ed4e",
+    "title": "Trump holds off major Iran escalation after Pentagon warns of interceptor shortage - Ynetnews",
+    "summary": "Trump holds off major Iran escalation after Pentagon warns of interceptor shortage Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncTZXUkVoSjloQV9idHF3NDdhcGJZN2RpdVM5b1dKUmFXUDdGT0ZwOXdaYkNCLVZXOWdKUXM2Vmp3aWV1cE00SWVWYUl5eWdya2RYeGtsVQ?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-07-25T23:27:33+00:00",
+    "raw_pub_date": "Sat, 25 Jul 2026 23:27:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ae2db6b9d455a2082b499846ac8a6b477bc9e623",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Houthis (Iran-backed) attacked Saudi oil sites, indicating proxy-driven escalation despite a brief pause in US strikes.",
-      "event_key": "houthis attack saudi oil sites"
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "U.S. decision to hold off major military action due to interceptor shortage indicates restraint and delayed retaliation.",
+      "event_key": "trump holds off escalation after interceptor shortage"
     }
   },
   {
-    "title": "Netanyahu To Meet President Trump as US Pauses Iran Strikes, Expands Military Buildup in Israel - The Media Line",
-    "summary": "Netanyahu To Meet President Trump as US Pauses Iran Strikes, Expands Military Buildup in Israel The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVDFmcXdXSE9kN3IzeGg0U0pidXVYUTgwaXlIa1VRUGlEX3R2THVBSFlqaHIzY1BKSWpKekxnWW9JZUxRLWtGdlpLb0Jhb3VySms5WjVJS0loTlc0Q1Zmb0dZOVNoeTZfTDNFdHM3dWlGblBTcHBMQnc5aVpubUhscVpOaE93RFdqS1haX3d6SmVtSEc3WmZ2V0lQdkJLdmh2dXVNNGdXeElnT1RHazZxbTBXb0ZlcVVWQ1hENmxBbHBzQnA1RTVJQ3V3?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-07-25T19:37:32+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 19:37:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e591a2e7e5a796c70a145887588db58875b355ec",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "US paused strikes on Iran — an explicit suspension of attacks despite concurrent military buildup in Israel.",
-      "event_key": "us pauses strikes expands buildup israel"
-    }
-  },
-  {
-    "title": "US Expands Strikes Across Iran, Including Bandar Abbas and Tehran Outskirts, Death Toll Reaches 3,434 - NewsCord",
-    "summary": "US Expands Strikes Across Iran, Including Bandar Abbas and Tehran Outskirts, Death Toll Reaches 3,434 NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVE4wTWNSa2VlM2hCcVFrcmxEdW90M3NjXzVZZVRtVlNtcTQ4YnRFRzdRbmt3WGZUcVVadV96ZVBpcUtNYXdSMTcyM0pYU3dEc29kNUtyZU1lU1pCQkdrWEhMWldtZnVtVzl3YkNUZHQwT0wzaGEzYjBYUjhZT1h5X1Q4VFdUZF9hVHpJQmhYY3BrbTZzeE5uVFp3TDZFLW42NWJVTGF3Rk5jak5NUzBMMDhLZUVIV1NmbkJNMTUyYkpmb096QlBfUmFlSWlMVzEzTkd3T1FNaGpiVzdsS0xYZTVwVC1oenVOdmc?oc=5",
+    "title": "Egypt Urges Halt to Escalation as US Strikes Iran and CENTCOM Disables Gulf of Oman Tanker - NewsCord",
+    "summary": "Egypt Urges Halt to Escalation as US Strikes Iran and CENTCOM Disables Gulf of Oman Tanker NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcVdocTBzcDI1WU1NSUZseXlvLUtoWWRWcEFQSVZBc3ExZGNvbGpDbGNUNVVLT0pWZGRONWNEUU1selRwSWI5TXdVcWZPWUx3XzIzNkxteGlNYmVNNlIxanZkOGZkeXZnUm5tcTNteEhEbmZjcnJGZFpWUlI2UjkxYzJFUzFTeER2WmtMTTBnRmVndGFUTWxENmFwWkxCVXZqV0tzeW0zd0E2QnpGUldGUFRxY3NQN0R2R19oTkNCRGtkaEVvLVVMelVBUndXcU5OUFkyVVRnTUlGMDB2emVnTlBoTVFnRF9WMkE?oc=5",
     "source": "NewsCord",
-    "published_at": "2026-07-25T21:24:27+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 21:24:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0936bf1be4bbb76c34fb5c1c2f85e4adef6c4c02",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "US conducted expanded direct strikes across Iran, causing thousands of deaths.",
-      "event_key": "us expanded strikes iran"
-    }
-  },
-  {
-    "title": "US missiles hit Iran as path towards de-escalation uncertain - lbc.co.uk",
-    "summary": "US missiles hit Iran as path towards de-escalation uncertain lbc.co.uk",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHNNX015QjlTYjlMZlZVU3VoeUtzX1N2WFE2eVkyb3g0N1NQeTVwY1ZHSHUtUjJHR3A3WDVDcE56RmVRWGVKYWxaMlU2RE16M2JEVE5lVEZvd3ZfZTNMN1V4YkVEXzRBaVhPSXVqRDBheU9oY3RGTm1WeFFFSXJOeGFDSHk4SFRDZ2FtR0s3RTlKWnJwZHQzNFJxd2Zob3phVzQ0?oc=5",
-    "source": "lbc.co.uk",
-    "published_at": "2026-07-25T19:04:19+00:00",
-    "raw_pub_date": "Sat, 25 Jul 2026 19:04:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0a05c4fd2da3b1a28e3b02a201b291cf33f7cec",
+    "published_at": "2026-07-25T23:40:08+00:00",
+    "raw_pub_date": "Sat, 25 Jul 2026 23:40:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5630d9b920bb644322a02674635b54e56f156637",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US launched missile strikes on Iran, indicating direct military action and uncertain de-escalation.",
-      "event_key": "us missile strike iran"
+      "reason": "Reports US military strikes on Iran and CENTCOM disabling a tanker—direct military action.",
+      "event_key": "us strikes iran centcom disables tanker"
+    }
+  },
+  {
+    "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - GMA Network",
+    "summary": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes GMA Network",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTFFWnN6OUJmX0tKU25BX2dXR2FNbXVwOWpjOThNQ1RKZHFJbUhGbFdWb3UtdkVFVUEwek90VXBpZVFMVk5KaXk0UUExQ2VZNE9JSG1RZEowb29OUnZCTmNuVnFoTG4xVzlEM3ZNa0VkSmxFWnRyWHVTRmhCYmZ6LXlrZjBNaXNBUHJ1RmtOLWVhT1BTakdJblVCbm5oQWxEUGJHZ3JaMmNVc0YtVE5Tc3ExS01wOUJlYnRlYlRjMGNDWjJwUElKWWlHNDMxZkU30gHWAUFVX3lxTFB4NFk5cGpNNjcwWnJsZUJQblVhcmRBQmdXb1IwcFc3VXh5NDhvbEMzd1JkQUtYX2Y3dWxIb09mNFlSSUg1dmo3SG9xNVpmQUFRdXZhX2k0bFhhR0o0VXhUdXZYNzFfSVRxVy1Bd2xDQkNaRFhzeVdlYXF6WkxCbi0tMkZucmlEdE1Lb0g5ZFAtODlybm5HWk5Bc1dGa3MtLW5IM2NhbVpjQ0pvQlN4Z00tdkJaaEM5Y2xfSlAwMWR2OFV3X0lMUkJvbjhCRVE5Y1BEUExCX2c?oc=5",
+    "source": "GMA Network",
+    "published_at": "2026-07-26T00:51:52+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 00:51:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3074fa3a9e612748a4428aaa75540a1c9e98b7ab",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.65,
+      "reason": "Conflict spread regionally but US forwent strikes, indicating restraint to avoid wider war.",
+      "event_key": "red sea caspian spread us restraint"
     }
   }
 ]
