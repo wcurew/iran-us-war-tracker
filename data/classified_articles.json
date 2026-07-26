@@ -1,70 +1,53 @@
 [
   {
-    "title": "US pauses strikes on Iran; is a breakthrough in peace talks likely? - The Federal",
-    "summary": "US pauses strikes on Iran; is a breakthrough in peace talks likely? The Federal",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjhkQWtlU0VoTUp3MlRkXzY2bHRjWjVpSldTeWJjeHhCOW1QSGU4NkZuSlJXRTJ4OXRGMGo2ZEgtOHFYVENPMVBUekFJalRycGtMcXlhS2U0cFJHcGMxcWtla1FYTDFtNGliTmFkUVVCQ2MtT0VHMWwyTklvOGVNT25od09YWUQtaXNxVFZGNXV6YWs?oc=5",
-    "source": "The Federal",
-    "published_at": "2026-07-26T05:53:13+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 05:53:13 GMT",
+    "title": "Iran claims progress in Oman talks after US halts air strikes - South China Morning Post",
+    "summary": "Iran claims progress in Oman talks after US halts air strikes South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1RjVnd4MFJEc0lIb1ctRmM3eEFpMTltUjlUR0VRLU9CWFllaXpuZGFkMnJIbnc4VjZXNzJlLW9oazEyLTEwaGVRWkxndlNOdEFsUVBkRXB2QldZWmFIWVU0bjBIU190YldXYktjZlczZjU5RXk1OFkzWGpCaHotOVNpaWk0eE1WVFJFNUFBYkxFZ25JejIyUlUzSzZnVFZSTl92Nkxoc2hTcDN6Q0xWQUFtdjdEM0U0UVHSAboBQVVfeXFMUFlnMFE0YlE4V2JEa183VjhiQm1BVXEwSGctanA4REc2UEdVVnBBYXctUVREUUNjM2lneE10bzBIYVNXZ1dNRlhrOFdZdWM1Q0tXUUhtdkc1bTZXYkhnSE4xTmI4bGFYRVI5ME4wSEdaWDJVQ200d1lPcHRFekl1cFB2Yk9Cb0lXWUEwak15MFRLV2F1VzRYTUlwajBVZmNacWIzeVkxc0RzTEdaZlFjWmFWZllaeHlHUU9R?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-07-26T07:52:11+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 07:52:11 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1761c423d013fd77c7bab58dd2b22eff505ea765",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "US paused strikes and peace talks are discussed—restraint signal but not an explicit ceasefire.",
-      "event_key": "us pauses strikes peace talks"
-    }
-  },
-  {
-    "title": "Trump pauses major escalation against Iran over dwindling US air defense missile stocks: Report - Anadolu Ajansı",
-    "summary": "Trump pauses major escalation against Iran over dwindling US air defense missile stocks: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDhLVXAtd2JqVDRmOGpidF8zWFV5RGl3ZzFnN3huOUprV1JoMkpVVU4wcG5Vak9KcDNfUGMtQy1WaWxCcXUzTXZwSDNWaDUtS1BydTZhY245NmxYM2tVYW1NNTJhbFF6QUphSmVSUVE0YXE3WVlOOW1MVVFxVlpUUmRWNVNKdl9uY2V1RUhjT0UtakFTMGZJOW1fYWd6bmZGT2FkR3BNTE83c3RIdHZmU09VejRBVGt5ZFFxMWQzem5OX2NWNi01Uy1ZRERJc0lheWc?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-26T05:32:15+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 05:32:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ed8cd3781c911f248ddd93b788a4f742500fd5a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.8,
-      "reason": "US paused planned escalation against Iran due to dwindling air-defense missile stocks, indicating restraint and delay of military action.",
-      "event_key": "us pause escalation missile shortage"
-    }
-  },
-  {
-    "title": "West Asia war LIVE: U.S. naval blockade against Iran remains in 'full effect' even as the two sides pause airstrikes - The Hindu",
-    "summary": "West Asia war LIVE: U.S. naval blockade against Iran remains in 'full effect' even as the two sides pause airstrikes The Hindu",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZUU2ZnZ2MDIzcjRVYnpRSlFhNUIxS3FRTlZTa2QtYUhSY2ZZMnRCQm1vUHo3SzY0eDlqWHFnRHdJY3p3N0F1VF81ZXhsbF8wUmc3Rzd0TE82TUJDUFRVdlpYREVGb0F1dDY4WmNSdnBWd01UODZFenlQUkd0ZDNkN2w4dEVpcjhpcFhGSHhXd25VOE9EWWZfTWdsTlpXcUwyRjVKXzM1VUZhb0c4ejZ2TlpkOVY4TWktMzhpQThtNEpqa2hBSXlRbk5FRUZneUJjMEs4aUhNUllhcmdZM0N1MUtqU1ltVVVEOERCWXlRMS1DXy1OSjhKMGpNNHJUMFJNSWfSAYgCQVVfeXFMTURUOXJqazZ1QV9uMm1WeE5aY3Y0Wjd3RUUxYmdZSUdZNWdsNGdhWGlKY3AyOGhRcFAtUC1XbFpOR1Y0dk1DY01ybDhPdjk1ekM3UGtiOHozTzlmZEVTY0hwT3lTWHBnYldrX2FHZ2xIWmFFamotMENXNkJxWk9wU1ZKbDVac0p5dG1SaGRYbWx2ZGFGczliOE5pajR0ekFPRnFkVGd0QUZ2bUZHZkw5LWs0Zk9nV2luazcwX2ZmQWxvbHNLNE1DS1QwVEpvWmMwOU9BSmZsbmVQYm1nM0hsbWlHTkhqZVE1VHdHdV83ZGFMb1drV0lJc250UHEtdGxlNFpRZDlBdEVV?oc=5",
-    "source": "The Hindu",
-    "published_at": "2026-07-26T02:46:08+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 02:46:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "78f4d23008afd2c139f26bde1af945c9ffc30a1c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.6,
-      "reason": "Both sides paused airstrikes — an explicit pause in fighting despite the naval blockade remaining in effect.",
-      "event_key": "us iran pause airstrikes"
-    }
-  },
-  {
-    "title": "Airstrikes paused, US-Iran peace talks press forward despite escalation between Saudi Arabia and Houthis - Nine.com.au",
-    "summary": "Airstrikes paused, US-Iran peace talks press forward despite escalation between Saudi Arabia and Houthis Nine.com.au",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlJrMkFGWkN2WVowTVlmU0xWeS1fRGVDQ0pFR0I3ZDU1bm1vbFNrN3N6dGlYMGZvUG1XcS12b0RYV0lXNEdWdDgyc1BGU2JaVXJoVFNQWWlCRld2V1ZJNlQ0amN4eUhKNmNpMjdXNlFHQm11cUtQWExQeTBhOEZmOE9NZGZxZTV6RW9Uc25EdFV5MlNBR0NleTlBT0NUMFhYUTZsODdydzBrdkQwbVN3RURYVks5UVEyc3ZhaC12Zm9qNGtxUW5VOFZwSkRJdw?oc=5",
-    "source": "Nine.com.au",
-    "published_at": "2026-07-26T02:39:33+00:00",
-    "raw_pub_date": "Sun, 26 Jul 2026 02:39:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fd3d34bd24e32bd2b5c2c02591c0c7ce4dfd3c38",
+    "article_id": "e2d0b00e6cc10b586f559e684b12966f0a937320",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Reports say US-Iran peace talks are progressing and airstrikes paused, indicating active diplomatic engagement despite Houthi-Saudi escalation.",
-      "event_key": "us iran peace talks progress"
+      "strength": 0.85,
+      "reason": "Active diplomatic talks in Oman with reported progress and US halting air strikes indicate negotiations.",
+      "event_key": "oman talks progress us halts airstrikes"
+    }
+  },
+  {
+    "title": "Mediators intensify US-Iran diplomacy after Trump orders 'pause' in strikes: Sources - Anadolu Ajansı",
+    "summary": "Mediators intensify US-Iran diplomacy after Trump orders 'pause' in strikes: Sources Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHF0eEZYWlItTHlXRFIwMXdNckh6Wnl5MER0YUFObEJYeGRkQ2pPZDN4TFlwS09rZFNtTktMUVNuX0M1NmcyS01jZUVWN0o5QnJ2M0hySnlZbV9xM3Jqb3d5cDQ4cFlac1FaUGJBdnV5U3c2XzIxVzNkaHl1TjVLeFMxSzctb0NIekpXSzBQZGZhLWdYei1xZ3c2Z2RnV3FKU3V2Y1pQRWZpNjVRajBxSUNBeUVMaHBfelZQazVxaDd1NFp1?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-07-26T08:19:23+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 08:19:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "05ff2c446fe1d7e8f458b2bb848534fa9df15f58",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Mediators intensifying diplomacy and a pause in strikes indicate active talks and mediation between the US and Iran.",
+      "event_key": "mediators intensify us iran diplomacy pause in strikes"
+    }
+  },
+  {
+    "title": "Iran army says war to ‘expand further’ if US attacks restart - The Times of Israel",
+    "summary": "Iran army says war to ‘expand further’ if US attacks restart The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnNGckpYejAydFFDZHdVc2xnSkxXeFhZLXFkT25NRzdDdDBKUGF2NnNoNjJ0eG9JWlJPRjh3eDVvTERiMkk5dHRoODg4S01YdV9OQmJkeGRJX054SHlnRzlIX1g5UXo3UDZ6SWFxQ0QxSkpUQzN5dGZDekRTMDFjYTB5a05BU2VYN3VsMnFnUTRpVEVPa1c3c2VRcHhKMzVWLXpBQS1Zbw?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-07-26T07:32:16+00:00",
+    "raw_pub_date": "Sun, 26 Jul 2026 07:32:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d6de4c259805feee140b25bbe0a672df70e33fac",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran military threatened wider war if the US restarts attacks, a clear escalation and warning.",
+      "event_key": "iran army threat expansion if us attacks restart"
     }
   }
 ]
