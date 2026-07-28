@@ -1,36 +1,70 @@
 [
   {
-    "title": "Video Confusion grows over the state of U.S.-Iran peace talks - ABC News - Breaking News, Latest News and Videos",
-    "summary": "Video Confusion grows over the state of U.S.-Iran peace talks ABC News - Breaking News, Latest News and Videos",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLZ3o1OG40ckFxUUZmS3dwUTJ2amZBS0Q1WFZqM0dmanpqUGRxcHU2dFpVaXdjTkVraEhvT2VPOXUxRUt4WE9vbTdMWjY?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "published_at": "2026-07-28T14:13:25+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 14:13:25 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5986fc15201747c5c1beae6471a9075ffd142238",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Discusses uncertainty around ongoing U.S.-Iran peace talks and diplomatic process.",
-      "event_key": "us iran peace talks confusion"
-    }
-  },
-  {
-    "title": "Iran Gives Two Different Death Tolls for U.S. Strikes on Same Day - IranWire",
-    "summary": "Iran Gives Two Different Death Tolls for U.S. Strikes on Same Day IranWire",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONV9oVEFMMHJrUVlPbmRwY1YwOFZPWEc3dndITnVVbHp3a3dwb1YtZjZuVzlNMElDWHRyNGROTjB3cnk0VzhCVUJ0b0NfQV91ZWR2cTBXS1ljSGN5LWVtZ1BEMkpYNm9JRHpnd2xoa0FKc1dCbnljS3JHTkY1b0Z0RExRQkdiV1Q5V3E0Z2hOdlV0eDU0dXhwcVg3S1k2N21aVVE?oc=5",
-    "source": "IranWire",
-    "published_at": "2026-07-28T14:18:36+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 14:18:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "60e002ba5ebcf0550193b73982b9a0d2af89a36b",
+    "title": "US Air Force took off from Israel to strike Iran, Defense Minister Katz says - The Jerusalem Post",
+    "summary": "US Air Force took off from Israel to strike Iran, Defense Minister Katz says The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0d2NnZ3NWUmhHQmV6X1p1M0JLSm92SUlDWnJSYjV0LW9sQnNsZjNfbHdlTUUtclBONFNwamlUWWJjckRmMGxwYnYtZElhZTdHR2VudDJWR2x4Y1VDd2JETk96a2RfZXhzRTV0YmRB?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-07-28T18:15:58+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 18:15:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eec24d7f9afb059e1cc2720e4a8abf5f391e97f8",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.75,
-      "reason": "Reports U.S. strikes on Iran and conflicting Iranian death toll figures.",
-      "event_key": "us strikes iran death toll discrepancy"
+      "strength": 0.9,
+      "reason": "Defense minister reported US Air Force takeoff from Israel to strike Iran, indicating a direct military strike or imminent retaliation.",
+      "event_key": "us airforce takeoff from israel to strike iran"
+    }
+  },
+  {
+    "title": "Atlantic Council’s Jonathan Panikoff: Not 'quite close yet' to Iran-U.S. ceasefire - CNBC",
+    "summary": "Atlantic Council’s Jonathan Panikoff: Not 'quite close yet' to Iran-U.S. ceasefire CNBC",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXZyMGNnTm5QUFhmTHNUMUNYeHJsaEM2dEtSODM2X2k0Z3FObmwxeU83cTg5dkVvd0xRQ1NvMldMS1g5YlExOXJxWml6ZHN0R1FwcTNRaWVLQkdLUTFRZ1NEVXV5M3RKRjg0c3ZaRlpyQWtfSlFHaDBDUUZKLXBBaEZEeV9ZS2dkdDJENUdRcGFXdmJDVV95SVdINUVtcVlRTzlaNjVFUDliSmlocXhZUng0QmctczhhcHMxT2NB?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-07-28T17:22:32+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 17:22:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "33164b99b422920af644b8bb94c4cbf9691c33f0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.35,
+      "reason": "Commentary on progress toward an Iran‑US ceasefire indicates ongoing diplomatic talks but no agreement yet.",
+      "event_key": "ceasefire negotiations progress"
+    }
+  },
+  {
+    "title": "Iran says US strikes destroyed airport, damaged 12 bridges - The Times of Israel",
+    "summary": "Iran says US strikes destroyed airport, damaged 12 bridges The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPczJ5NkhQQzgxUUtpX25qN3MwX1NzUTBJYjJMSFRXSUxhRTRiZDJwMlVnQUZDV3p5WGNySUNSbk5veW9Ka29sX2VIU0JNX3Y2QzFFdzVlS2FoVlJZN2tkOUlDZ1N2Zkw0eW1BU1RkNEtrZ09OODlnZTlhLTVkRnFtUG16RjZTbW5iZjFWemNvYVFEdXpWRE01TVk5bi1Ia2xCSC1QX2NB?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-07-28T16:39:25+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 16:39:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3226493c6bf6113846289b12b1fddf6d13de9949",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US strikes reportedly destroyed an Iranian airport and damaged bridges—direct military action.",
+      "event_key": "us strikes iran airport bridges"
+    }
+  },
+  {
+    "title": "Opinion | The Limits and Trajectories of US-Iran Escalation - Dailynewsegypt",
+    "summary": "Opinion | The Limits and Trajectories of US-Iran Escalation Dailynewsegypt",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXBKWF8teDF6SHd2TG15elI5V3NpWXpmNXA0U1lVUExpUUJvWnAzQjFJdUh3MXN6dGV4Mnl2QzlLUTVCMi1RZjNpNXFWT1dSN2gySkRYUHF6Uk5keVZ1eGQxSkNjSmJZbFphNDQ1aGtWREtqSUpDbThEbzlOc2JGYmh4LUFjNW4xSFVRSklIVTJucnJ6ZXp3TngwNnZGWVB5aUE?oc=5",
+    "source": "Dailynewsegypt",
+    "published_at": "2026-07-28T18:40:18+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 18:40:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7d43d4f1643290ed4bf0acb4e6e10eaff49b4b84",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Opinion analysis discussing rising tensions and possible escalation trajectories between the US and Iran.",
+      "event_key": "opinion us iran escalation"
     }
   }
 ]
