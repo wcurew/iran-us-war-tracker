@@ -1,70 +1,87 @@
 [
   {
-    "title": "Trump says Iran talks taking place during pause in US military strikes - Al Jazeera",
-    "summary": "Trump says Iran talks taking place during pause in US military strikes Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXJ1YUZxTGhaNGpuR1pfN0EwQmRBckJaOV9fWnlCVlkzNjJYZGdnaWF6Q0Mzejhka3Z1dlhHemU1R1FqeVBUQnVTZS1aMDVkRGl2cWNDdzM4TE5Fc3g4OW9xYVZDUF9xS0hRMVVIb1U4S3g5dFNqQkg2Z3dlSWwxMGd5N3pGb3Jtc2h1LUExajVuY0pSMXNvbzZZM1FPdWVzblhITXp6alExZ2RlZzBBaXNoMVhZYVRqOThYdzZB0gHDAUFVX3lxTFBvQjkzUHJKTkg0THExd3ZLdUNRSVpSSGt1RVoxUGJUbjVVRExtYVdnZHBYcFllendlZ2NEY043dHltamtLUVY2NTViSGJ6N2piSEUzeE9VZEp3SkVwcUdWNVJMMUYtQ3hoWDhYOENINjdVU0FqQ294Z1VyOTF3Y00ySDJjOW5VaW0xMUs5QW9LQ2I3QjhWamdzcHJvcndSRk9MZGFKOWhMcUNkTkNzVGNhT2Job3k0cmQxY0JGR0lCUkJQWQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-28T03:19:14+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 03:19:14 GMT",
+    "title": "US and Iran Pause Strikes as Tensions Simmer - globalpost.com",
+    "summary": "US and Iran Pause Strikes as Tensions Simmer globalpost.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUTRvckxsRjZwcVo0YzFoeWNOV0Y2Um1IVE1BcnJwbGplSDV5R1BFdVZQOGlMM19JbG1iZm5rQ3ROTHV2VnhEMzRhYWJsXzNzaTV1cnRYWU5VNUFQY3RITjFodlFTdXg4cUdvWnFnNjd2QjhQMmRjUTd0Y3dxSk51WXh3?oc=5",
+    "source": "globalpost.com",
+    "published_at": "2026-07-28T07:01:17+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 07:01:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a6c4c5ae73fb314679b5e05eadf5f5410f3ba99",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.7,
+      "reason": "Indicates strikes between the US and Iran have been paused—a temporary halt in attacks.",
+      "event_key": "us iran pause strikes"
+    }
+  },
+  {
+    "title": "Oil prices fall after US halts attacks on Iran - The Arkansas Democrat-Gazette",
+    "summary": "Oil prices fall after US halts attacks on Iran The Arkansas Democrat-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDNBdXZObFF0OEs4dlpVZFJicnduR0h4bkllcUo1elA5OXRGMC1ETElIMkNJZG8taUpiSFRXbzh3NGpfdk5EMXd2STNoSXMwLVh0ZnEwNXhDa1YyajFmZ241cm1tNXBLWVRZTzc5OUpQa1Y4WkJVRXNkYlNwNWlmQ2Qyb2N1eGF5TlpfT1ZvekVKWWVhcEQxdkZUcw?oc=5",
+    "source": "The Arkansas Democrat-Gazette",
+    "published_at": "2026-07-28T06:52:00+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 06:52:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5ab4697f75b01514d96cd33a1a23c7762e11da17",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "US halted attacks on Iran, constituting an explicit pause in hostilities.",
+      "event_key": "us halts attacks on iran"
+    }
+  },
+  {
+    "title": "Oman, Iran, benefiting from lull in US strikes, approach deal to reopen Strait of Hormuz - report - The Jerusalem Post",
+    "summary": "Oman, Iran, benefiting from lull in US strikes, approach deal to reopen Strait of Hormuz - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxbDlqWVU4MElfVjFKcGx5UnVmY0RjaVlWdE9nbUNoeEF0YlNkTW5RUTY3dWRSbGMzdGxKU05GT3Uta3BJWVc5eVdJMmcwcVVxLUJjMlI3c29pX1BtTGZLbURqRTd2dlphQ2c?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-07-28T06:37:28+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 06:37:28 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72eac19b3b2b007408197d57b2ecab67a6ded947",
+    "article_id": "91c5e6521ccd4893bac9b96947e005cfee6e324e",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports of active diplomatic talks between the US and Iran occurring during a pause in US strikes.",
-      "event_key": "trump iran talks pause"
+      "strength": 0.85,
+      "reason": "Oman and Iran approaching a deal to reopen the Strait of Hormuz—active diplomatic talks.",
+      "event_key": "oman iran strait hormuz deal talks"
     }
   },
   {
-    "title": "Iran war: President Trump says U.S. is in 'very deep talks' with Iran - FOX 10 Phoenix",
-    "summary": "Iran war: President Trump says U.S. is in 'very deep talks' with Iran FOX 10 Phoenix",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WVW5tbk5NY1JqU3BSekFINHZPTXpQV1pOWDg3UmZOTjMxOUM5cF9DaVgycG42bXBKYjVTcWRmSEFNUkN1MTV6akY5YnJNTlNadm9QTmwzckszTzk0XzFaLXpWWFZEd9IBa0FVX3lxTE5BNERwdkFrdlFRNjlkOWg3WkxDamRobnhTVVNNdnZOeVdXUmI1N2cxQjZ2NzVPbXMyV3dwaktwcGVYN0ljWG5ZRmdDMDd2OWhoY3JSTm9HeDlieU5vMURTQVJ5RGY1aVFzaXVN?oc=5",
-    "source": "FOX 10 Phoenix",
-    "published_at": "2026-07-28T04:27:28+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 04:27:28 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ceae0aaf29b7f01e02c76bacdc51cf1441fee27",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "President Trump says the U.S. is in 'very deep talks' with Iran, indicating active diplomatic negotiations.",
-      "event_key": "us iran deep talks"
-    }
-  },
-  {
-    "title": "Iran’s missile resilience challenges US forces - Financial Times",
-    "summary": "Iran’s missile resilience challenges US forces Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjdxUjFLdm1kMjZXaHZkd1hwaGF1Y2JCS1NrTTlqSkFDMFF1dVFXM2s4czRNSUpTWXZRS2RyWTFSVDBQVGVjeVZBV1BSQ3JZUG9WVlZLd1gweVlVR2dERzVyX0tWTFFOMEN3bnByMlNqX0Z0T1p3QTlJWmF4UURvSktGcHc?oc=5",
-    "source": "Financial Times",
-    "published_at": "2026-07-28T04:00:15+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 04:00:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "52bb3428e023fd8f9d4c772ef7a23695fe0533fb",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Discusses Iran's missile capabilities challenging US forces, indicating rising military tensions rather than diplomacy or a strike.",
-      "event_key": "iran missile challenge us forces"
-    }
-  },
-  {
-    "title": "Oil drops more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes - CNBC",
-    "summary": "Oil drops more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes CNBC",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM3FtMFdJd0VGNko4bVI4cGlYMkNobjdaMFRjSzdSOTZxdExfXy00Q3JKMmhaNU9qNjFXV3pGMS02RDRlMVlxSUlpMUh3dWpvYzRWVWpKaGpqem1veXEwRjNxSGFQSmtUbUJ3SU0xUkdZX2lwTEtJZ2ZQM0JyWE5HNUx2TdIBiAFBVV95cUxPVWRiMFRyTHNqMlMzUGduazg0M2JJRXJPN0Rtd0o2Zl94TFVVeTlxOGZnZXExX2NvVlJBYV9CVExlTmhvcVVaTUhzb0F6SmlxT3FrdUpuRjBqdUhBQzhFeTQ1UWpGQzRYalMyTzEtWG5TWDluRlJPVElPaVFXV2Q5c3NrMXI2UFlz?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-07-28T03:25:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 03:25:00 GMT",
+    "title": "US-Iran strikes remain paused, but Trump warns of further escalation - FOX 47 News",
+    "summary": "US-Iran strikes remain paused, but Trump warns of further escalation FOX 47 News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFhZMUZESWdtQ1U4N2lyRHR5M0RtMVlzcDR1bW1lQjl6d1ZabmROSXBqNTEtVWFuWktVYXRDdGFaejBQaW5EMldiTk90amQ0M29nM2c0YlFMV09mNGJHSlZCMS1uWUpVeUp5U0VrbkVLUEpYS0JQSHlrWHhTblRjTnZOM3dhVjRsRzZkR29KZ09aRnZGUVhpbzByUUs4UHVnQmk4QU1GREx3Zw?oc=5",
+    "source": "FOX 47 News",
+    "published_at": "2026-07-28T06:07:07+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 06:07:07 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f4a1ad23a910711453aee2ba455ced3c2fb5e589",
+    "article_id": "08996b0d1512f88c553290f9505f69bfeaecf026",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.8,
-      "reason": "Reports of a pause in U.S.-Iran hostilities suggesting calming signals rather than a formal ceasefire.",
-      "event_key": "us iran pause in hostilities"
+      "strength": 0.7,
+      "reason": "US strikes are paused indicating restraint, though Trump warns of possible further escalation.",
+      "event_key": "us strikes paused trump warns"
+    }
+  },
+  {
+    "title": "Iran issues fresh warning to Bulgaria over hosting US military aircraft - IntelliNews",
+    "summary": "Iran issues fresh warning to Bulgaria over hosting US military aircraft IntelliNews",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmxpejVBeGxmYy03VnhSa282VllYN1NqWGpxbGgteUdlUHZGamdoUGxhc0tEMEY4eE9XUjZtcGtTbkdCbTZlTUYzUVZlNElYRXM5ZHdoNXU2V3RXVlhjTTNnR25idmZrekwxWjFJdURUTFZLWDE4bml5MHM2WEIteUFrMnRWbmdmTXF1MkxmNDZqcEtHWUQ0bjBzSGhsV19ndkRSMEJZdHlkVExiZmVTMjFZckd0VDdLeDFGeFllWng?oc=5",
+    "source": "IntelliNews",
+    "published_at": "2026-07-28T06:51:27+00:00",
+    "raw_pub_date": "Tue, 28 Jul 2026 06:51:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d8a04f4023274ee2fa9a3f0a99c8e10f4f79a2ba",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran's warning to Bulgaria over hosting US military aircraft is a direct hostile diplomatic warning, increasing tensions.",
+      "event_key": "iran warning bulgaria us aircraft"
     }
   }
 ]
