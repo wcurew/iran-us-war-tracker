@@ -1,699 +1,87 @@
 [
   {
-    "title": "Iran launched multiple missiles at American forces, U.S. military says - PBS",
-    "summary": "Iran launched multiple missiles at American forces, U.S. military says PBS",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTFJNWtPMVBPYm9OTkh5VVJUbEh5d2JIZ3puQy1kMWR4YUVjYUlQWmdNSW5xVl9Kazh5dGg2SFZHS0I1MVB6ZUxfSnVjTk51Vk1vQmpycXRLWVZlcWtuSFNsYWJ3T2lfM185MmxNY21NRDNEcElSbkdYQ28tQ09EblotU29OcUk0R0dRS29XZ3hENVpOQlFVNnlIV1MyQlBPZW9FNHZn0gGrAUFVX3lxTFBUOFp3UzJhMFZYWEhQLWt3VnNfU05JMGdxZFIzVWYyc0hjQTNrZ3BJODM4MWF4Q3NSVmFaS0djUUt3U0N4T1JmU0p2aGZuN2xTQWxtSUxXbVFNTjBsT0dSQmNrRG9nZkxLd0tVeWtvNlg4ZU1hSzBORS1zSklvb1FfR1EwLWRhdEliN0FPRERQMTMzaW1Nb3NDNnNoSTg5SWNHWE1qd18xQnNQRQ?oc=5",
-    "source": "PBS",
-    "published_at": "2026-07-28T22:54:55+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:54:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "baf3b9490940b627e3c26f17030c99e77b5ba51e",
+    "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq - Al Jazeera",
+    "summary": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmxYQlNidHdveXNkZ0k0VnNXcmVLVFJvOGVuZUU4QlJzMHpXOXl3ZFhzWkVkWUYwSnUxdDZtQTZ2WlZMUjBIZTFaVWZZREd4NmNwZVdNY2xjcFY1N284XzZkWmNVSWJVd1hOMndiYmNJZHFCLTk0ZU40b2lleTV5Q3NrSU5nYnVRemNwelhYMUtxX3R2d3ZyN2VDOG9iRlc0Qm5QeTN3RdIBrAFBVV95cUxNb3p2MXhyelJMVUp0SUNoTV9nMHBybDFxa09DYjE2a0R5dE9aUG5qMmdoMTlDQU1rSTdDVkY2MkU5ZTJIcjNMbjFKM2VCNU1wSTVNVWJyNTI2OHZHdW9DOXIxNFFMbHlhZzQzTzNrSjB1Q1huSVhtV3Jqa3hHQmFsTzFDZDV2ZnQ0SFc0VVpjZXk5bnV3czdPRjFqOUg2QTdiSndSQjJaTDZQLW5O?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-29T03:51:11+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 03:51:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "739762c9a1b3405391e5d6ce6c55fd0ec2f97d0b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.85,
+      "reason": "US and Saudi strikes targeted Iran-backed militias in Iraq, indicating proxy escalation linked to Iran-US tensions.",
+      "event_key": "us saudi strikes iran backed groups iraq"
+    }
+  },
+  {
+    "title": "The Latest: US military says it has thwarted an Iranian missile attack on American troops - KOB 4",
+    "summary": "The Latest: US military says it has thwarted an Iranian missile attack on American troops KOB 4",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdllkb1dWQ0podEc4WHV0QlR3U1VuZEZGcFRBZm5qUFpwZmxrdVB0UFhuNWEyQ1ZDUW5COWg3aHplc1Z4VnpzUFFqSDltX1B3TUoxNjRsc29GWnB1RzNzcHpJY09DcHBpaHQ0R0Fnc01WbmFJbjZEWFM5M0tQRHRjYlJEdnJoeHg4aDBEdGFpUUtFRlZWS0JtaGdMTnZNTUJLdFZJUldIUTlHUUNjaTYyV2tGLWVFV3NGV1BuUVlB?oc=5",
+    "source": "KOB 4",
+    "published_at": "2026-07-29T03:10:56+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 03:10:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cee7c150d6357b139c55a288cad085872dfbe34c",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Iran launched multiple missiles at U.S. forces — a direct military attack/retaliation.",
-      "event_key": "iran missile attack on us forces"
+      "strength": 0.85,
+      "reason": "Reported thwarted Iranian missile attack on US troops — direct military action/attack.",
+      "event_key": "iran missile attack thwarted on us troops"
     }
   },
   {
-    "title": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting - WSAZ",
-    "summary": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting WSAZ",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmkwZm5aeEotSnBnYWZ2YWR6dGdsa2dGVWQ3RFNGM3lNbG5SNmhueEc3TnRQWkdKMUl2YzVrcEo4b2NCTmhkajhMZ3k0a1Q1X3hybjhnOWdFSENhMmI3eUdvNHo4eVZkMjJoQWpNU3VvMHBBLXpjLW02ZldQdW1TTVVhanBJTExfNFVkMElha3oxYlpjWnZ1RzZ1M2ZOb3FQY1BLclZ5b1NoWDY2Tngw?oc=5",
-    "source": "WSAZ",
-    "published_at": "2026-07-28T23:58:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:58:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "24e26c83e80f35ebc0cdcb1c234a768fd5225841",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US thwarted an Iranian missile attack that ended a brief pause in fighting.",
-      "event_key": "us thwarted iran missile attack"
-    }
-  },
-  {
-    "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last - Decrypt",
-    "summary": "Markets Don’t Buy the US Ceasefire Against Iran Will Last Decrypt",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuTXVsS1V3ZEMzUE9xb0dGd1VrT0R3MkJjRUd4dHlrQUpjZXdlQU9hZVJYRDUxcnhsQ1RwRFN1dXlGYjdpRlU4cWxzNUt2RjZxZjFuMC0yOUJpcFdsWVhoRm5ONGRsSzdUNjgtYUE0WG9qT2lD?oc=5",
-    "source": "Decrypt",
-    "published_at": "2026-07-28T22:46:03+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:46:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "358347c28b654aca7c9050395590733f1bb2b1b8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.7,
-      "reason": "Discusses an existing US-Iran ceasefire and market skepticism it will hold.",
-      "event_key": "us iran ceasefire market doubt"
-    }
-  },
-  {
-    "title": "U.S. Central Command says it intercepted Iran missile attack in the Middle East - National News Desk",
-    "summary": "U.S. Central Command says it intercepted Iran missile attack in the Middle East National News Desk",
-    "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQUnlCVndNcDMwdzJnWC1kZXVXN1pIc0pFOExfRVAtVjZyU1lzMHNrYzU5eVduakFLYm80VEZ6Q3g3dzlIM1NNUVdONmRyQ2xRWVRGMXotaTZZVFFkWVlzQWQxdUx1VVRvSENrVUk3cnZZWGF3aW5RWFFQdHVqeVFqU2Y5MW1nS2hKMV9LUm94R2duR20tMGRRTjdjU2pFUDY4d2RTQW9oTEJYTy0xbFp1bDZINTBRNWRSVU1sMGdBaUZYNkRlMG9mT3ZubGNka0JCUlJTLVJ0R0Njd1pKS1EzNW5qalg5V21BNXpreThxb0JrSHl0dU56MGNWNVZCQW9zMkdUbV9QU3dqeDU2eDY2T1pDNHhpS0U4bkpmdFFURDRRMDRfWWJCZDdRc0ExWmM5X2FoelpYMzVBUlNUMXdWUHRKZnoyVkxEeE1abVJENGJKQ2M?oc=5",
-    "source": "National News Desk",
-    "published_at": "2026-07-29T00:10:57+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:10:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ec1b0055da8a2ba063b61d462e438c75a9dbb227",
+    "title": "A message to Trump? After 3-day pause, why did Iran launch ‘surprise missile’ attack at US base? - Firstpost",
+    "summary": "A message to Trump? After 3-day pause, why did Iran launch ‘surprise missile’ attack at US base? Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbl9xWjliNUpwNzNLWXZWbWd1Q3JTZ3A3TzJqU2ZmNUd5eEltbWlBaWxzbzMwekNmZFRqcjJ2UnRjZTJqOXZjekYwQk1WQldGeUgzWFJfQm5KVTVfeTdTa3JDTXBJdmQ1anpodk5kY2o0N2JKcFBFSE5DMHJGcHNDZ3pWc2tpeTE1SkZBY0NDcENzWGM3Q2hNbTE1dzFna2Zwa05NbWp1SjNFdi1UdW44T2t4aTIxUDl50gG-AUFVX3lxTE45dGdqVmZzQmsxUGplSGF0X3FINnRneHlZbWt3Y3NXeXA1bDFXazQ1NnFKZXZSVmZjMDJwMGlyc2JjMnN5bm1rcEYzci1JX3hIVXdJSlp4SG5aVVpYX1NUd1U4bzdKNWVPUTBTbHlLQl96RUp4OFFIc0FKMHFiRldNYmZqUWtVZzNoRlkxemhvWkkxWk1LelhwUXBqd0E3ekdkT014Y2xMenpyM3dpYy1wMEMteUs1Nk13S1lHT1E?oc=5",
+    "source": "Firstpost",
+    "published_at": "2026-07-29T03:24:03+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 03:24:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ff2c570a6694cea9ec8a36ed141cb09ee5997cb1",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "CENTCOM intercepted an Iranian missile attack, indicating direct military action.",
-      "event_key": "centcom intercepts iran missile"
-    }
-  },
-  {
-    "title": "Iran fires missiles at U.S. forces in Middle East, ending ceasefire lull - Investing.com",
-    "summary": "Iran fires missiles at U.S. forces in Middle East, ending ceasefire lull Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaDc5Mi1KZ2dPRDFuVmZrUXgyWDN1NllSeHBaRzZ6bDJKS1pDelN4dkRRZkpEQmozSVQ0aGRoeW84N29wUHZFbHJMWlM1eGRISl9rLXUwWThxelhCZWRMbmFiVncyNnBJZThneVNndEFONjJ3SGhtY19SekR1a0VVZjVtUm0wNnhIaDhmbHNFRFVvRTBRX2dkU3h5bEstb0tYeW1VbjVXZnNIeFNnMFo2ai1ZNC00NzBITkNvclNR?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-07-28T23:46:59+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:46:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f2494979a9e52f9a27137cac65e003f76d9530fd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missiles at U.S. forces, a direct military strike ending a ceasefire lull.",
-      "event_key": "iran missile attack on us forces"
-    }
-  },
-  {
-    "title": "Australian Stocks Set to Rise Amid Positive US-Iran Negotiation Sentiment - GuruFocus",
-    "summary": "Australian Stocks Set to Rise Amid Positive US-Iran Negotiation Sentiment GuruFocus",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUlSeF8xVUZmcE93dXRWYTN4OFNPU09ZWDEyNGFtQ2w0b3UxRVNPN0FNdVJYUERvUTF3b0E4WE1oaUxGU2lWXzBQenh6Y1FmZUVib2xncGNxM21KcGhmYjBvUUZIUEV1bnllNWJmZEZVY2sxQ3phSjRtZ2Q5UmZqemJYMndvM2hiUW5iZWc0R2FwazBMSHN0N1JUeEZxSUdraElJQTZtZlRpZ0tncFd4VA?oc=5",
-    "source": "GuruFocus",
-    "published_at": "2026-07-29T00:02:20+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:02:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "76d2df85cf7cbcc729489669571ef0e45e78f76c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Article highlights positive sentiment around US-Iran negotiations affecting markets.",
-      "event_key": "us iran positive negotiation sentiment"
-    }
-  },
-  {
-    "title": "Iran launches missiles at U.S. base for first time since Trump paused strikes - Axios",
-    "summary": "Iran launches missiles at U.S. base for first time since Trump paused strikes Axios",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nWDMyNnhqaERiaVJhaTJCa1NweVpqd3U1V20wcVlNWmdTOE1lUk5PaWxENjlMNjU2dDhUcS12Nlk1cGpWYURmQWlPclc2djdGNmgxUDl2X3lKcjlvTmgwSWFBaXF4NFZaTEpjUVpoeFYtaVpNaUE?oc=5",
-    "source": "Axios",
-    "published_at": "2026-07-29T01:25:06+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:25:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "443c90cc3aeecdcf1037a24a9c9a8b31b27a249b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct missile attack by Iran on a U.S. base constitutes a military strike/retaliation event.",
+      "reason": "Reports describe a direct Iranian missile attack on a US base following a short pause.",
       "event_key": "iran missile attack us base"
     }
   },
   {
-    "title": "Iran attempts ‘surprise attack’ on US forces in Middle East — day after cease-fire talks made ‘significant’ progress - New York Post",
-    "summary": "Iran attempts ‘surprise attack’ on US forces in Middle East — day after cease-fire talks made ‘significant’ progress New York Post",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXhUNmNOVkJmenc2dlU0MHpRVER6LTdZVFNSbGF3TF9TZEVyX3BPYzUxM2dJOUw4Z09rYzRzV2tjTlhidnlyeU5fdXFQZUEtbEZuT3FhU0RId2tDczlvRmlCZjVTTVplc2RmVld1Nlpab0tTOFMtWWFpcXpxaFhLSmZvT1UtT1l0QUlUSzJKeGNhYno1a0lYNmpITGJpRVdYMDRqdnpaWGxDUQ?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-07-28T23:33:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:33:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "96d7d20e512f215394074ca9e683bad3a98c2cf1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Report describes an attempted surprise attack by Iran on US forces after ceasefire talks.",
-      "event_key": "iran attempted attack on us forces"
-    }
-  },
-  {
-    "title": "Iran launches 'attempted surprise attack' on US forces in Middle East - BBC",
-    "summary": "Iran launches 'attempted surprise attack' on US forces in Middle East BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
-    "source": "BBC",
-    "published_at": "2026-07-28T23:57:24+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:57:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "70fdbde00d617a65289814316676d74ca4d5f4a6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran conducted a direct attempted attack on US forces in the Middle East.",
-      "event_key": "iran attempted attack on us forces"
-    }
-  },
-  {
-    "title": "US intercepts Iranian 'surprise attack' in the Middle East, CENTCOM says - Scripps News",
-    "summary": "US intercepts Iranian 'surprise attack' in the Middle East, CENTCOM says Scripps News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmFBV3dSRVpCcHBtbHlOMkI4Vm03OHNGS0ZURTZhOUdNa0Y4RUVFWjRXNEFVYmxIa1psVm90akVQTGhncDBkRGFzMndhYWNQS1VoVWlReFdiTzA0VWh6aWR4cy01OURGbEJkMzJZUEtBdk1WQmwwQVJ1S0VwVEVDYy1lQ3pPQmM4c0tOUElVVXFHLTZudGxuMTJ6NDd4bWxIWDZFbWowVGJUbm1JSVJpanBzSzA?oc=5",
+    "title": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses strikes - Scripps News",
+    "summary": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses strikes Scripps News",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1JQdzlHa3J1X3JvU2VmbjdtTHUzS2x3M21jSXhqMFA3YWNYb0R5UE9YN3BfY1F5VU5PdTQyajZnZXFxM3R5NERVa1h3NGJxZmtZZjNabklLV0tWeFZ5NnJJQ3lYeHFubGhTWDYwYWExdEdQX3hvdElXNUFhTngtUHl6VEhxeFVXQWhPZ0NJMngtMFYwSS0yZHhmVjlRYkM1UENkb1hGd3FRYndHUU9BSjdDaEFzX0tzZ1BhTGo2ZVZrcGR3NW5UWGxPSEdncnM?oc=5",
     "source": "Scripps News",
-    "published_at": "2026-07-28T22:56:32+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:56:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c5d56fd697109af55135a3b658017070671a91be",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "CENTCOM reports US intercepted a direct Iranian 'surprise attack' — indicates a military strike event.",
-      "event_key": "us intercepts iranian surprise attack centcom"
-    }
-  },
-  {
-    "title": "Iran launched 'attempted surprise attack' on US forces, CENTCOM says - Politico",
-    "summary": "Iran launched 'attempted surprise attack' on US forces, CENTCOM says Politico",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFdsWDBMZ0FfbThhOGFmNFNleXd4SUZjYTBQMm53TTRzUGUzTGdHcmhtMWpBUm8wLU95enB5Q2ROLWZBWU5DVVFVV002T0MtRG51RldEYkNwNWQ0MlBhOV9wb3pucVhOSTE1Y3dVVUNNdmRTVjdQWmJUTk9uV1ZUVUg3NnEyQVRSVTZRaHNaNDRnUQ?oc=5",
-    "source": "Politico",
-    "published_at": "2026-07-29T01:21:00+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:21:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5b07c1b4a834b6a4aba8fdeac6501f192f55c43a",
-    "source_weight": 0.98,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "CENTCOM reported Iran launched an attempted surprise attack on US forces—direct hostile military action.",
-      "event_key": "iran attempted surprise attack on us forces"
-    }
-  },
-  {
-    "title": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says - BBC",
-    "summary": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTjduSnVhNm9MdWZ0UTFTcWxSWXlzcldjRjNqNnF3cFRHdlhZckpobDd5aHp4V29sQUc2SWUwZl9sLXE2eEJpRGlhNlVqbnAzbXJ4Y2dDRVgzUXhj?oc=5",
-    "source": "BBC",
-    "published_at": "2026-07-28T23:27:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:27:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "61ccc2f78dc485c0c45cf46a04c3f26c1447035d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran conducted an attempted surprise attack on US forces — a direct military strike/retaliation event.",
-      "event_key": "iran attempted surprise attack on us forces"
-    }
-  },
-  {
-    "title": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East - WSJ",
-    "summary": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East WSJ",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-07-29T01:31:00+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:31:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5dc9289b3a9bb5dc120da54d8115dc10a2926b25",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct Iranian missile attack on U.S. forces—clear military strike/retaliation.",
-      "event_key": "iran missile attack on us forces"
-    }
-  },
-  {
-    "title": "U.S., Saudi Forces Strike Iran-Backed Terrorist Sites in Iraq - centcom.mil",
-    "summary": "U.S., Saudi Forces Strike Iran-Backed Terrorist Sites in Iraq centcom.mil",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXZXdEFJUWtwMS12VDlPb1dUbFFaVUxkX1FVNkFJQWZqQkhlblRYb05kbXFPUlJKT094bEtjODl3RERqVlZVWm1qd24yTWRYak00b1VtUUpvLTZoOGdZSThTVkZLZWhVYUZ2TEhuTlVMX1BUTmg0R2s0RmtyT0VZakh6bHJ5SXMtc3laYmJvenV3NS10TGNjaGc5QVp4cnZUN2JjZkJSMnd2dHBnU0lHMmZIcnFWV2UzUHpxcXN3?oc=5",
-    "source": "centcom.mil",
-    "published_at": "2026-07-29T00:59:32+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:59:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eddf20e88f3a83ecbf171c6a9b3226ed8eae55d1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.9,
-      "reason": "U.S. and Saudi forces conducted strikes against Iran-backed militant sites in Iraq, indicating proxy escalatory action.",
-      "event_key": "us saudi strike iran backed sites iraq"
-    }
-  },
-  {
-    "title": "US says it intercepted ‘surprise’ Iranian missile attack - Financial Times",
-    "summary": "US says it intercepted ‘surprise’ Iranian missile attack Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFJCVnQ1LXRXTVQ5d1lYbUlKcE9uaHFMc2ZnX0Y2MjJzeGJHM2gwRE5xNklXbndhbDc0N1pXVm9hTXBqb28wTmZ4c09OaU9DTllCaW5XeEZ3OFFGUW1IU3JrU0J5YU9URjRWQmU5VnQ2Z0RFZ0dfbGZHby0zZ2NRdktmc0Y?oc=5",
-    "source": "Financial Times",
-    "published_at": "2026-07-28T22:49:06+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:49:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7891247c8c50c93369b7fd440b0fbb65a4776c74",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US intercepted an Iranian missile attack, indicating a direct military strike rather than proxy action.",
-      "event_key": "iran missile attack intercepted by us"
-    }
-  },
-  {
-    "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East - CNBC",
-    "summary": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East CNBC",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fa2xsci02RGZMN1piNVJxSUp4T3RNZGJuUWxtNmQzMllIb1pYUlNjVUNaazNEbTlwbTl1dXdYaVFiNnU4ZE5idFNSZXBoVW5MdUtlNTE1clR1cG5wT3g4cmlfcHM5aGtwWTRsM3hpaEvSAXZBVV95cUxNUVFDNWZxWi1QQnNoU1VyY2xIWmd6bVg4czdBRU1FaHdCaW5hb1F0LTkxd3o5SGwzTGlTcFJZWDdHVnRjVF9HeFBRN2U5UkhKVVcwY05jRlZqY3dRZWlvcDVVdHozSEFDVmVjeUFISjRLcG5JejRn?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-07-28T23:47:17+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:47:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6812b1cc7a0fbce1b12993c1f519d1c792c2e170",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Iran carried out a direct ballistic missile attack on U.S. forces in the Middle East.",
-      "event_key": "iran ballistic missile attack on us forces"
-    }
-  },
-  {
-    "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq - AP News",
-    "summary": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq AP News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-29T01:19:00+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:19:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "15dca97d355bb0f81558d65cb37af3665c9fea02",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US intercepted an Iranian missile and carried out joint strikes against militias in Iraq — direct military action and retaliation.",
-      "event_key": "us intercepts iranian missile us saudi strikes iraqi militias"
-    }
-  },
-  {
-    "title": "Trump pausing Iran attacks shows US military power is not enough on its own - The Guardian",
-    "summary": "Trump pausing Iran attacks shows US military power is not enough on its own The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3NoUEVwZmd3bkhmSTZGdEVDOGNEOVFaY3RnUFZTRjJLdmdPMjFmNU5UTzhXS3h5MEZmdlp6b0dScHlKcUJhUmNSU3hqTnM5TEJsbXQ1dlE3elFiVjNfNXprVnVvdDVTVDk2VVpldHhJLTFFRDdheXlqYWFodFF0bHVRR202UFhRZUE?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-28T23:00:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6b47e12f99963e007a98040b4ab18961989095b7",
+    "published_at": "2026-07-29T05:22:14+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 05:22:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c88a8989cf069a9b0f07224dfa82033cbb24ce07",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US president paused planned attacks on Iran, signaling restraint and avoidance of wider conflict.",
-      "event_key": "trump pause on iran attacks"
+      "strength": 0.75,
+      "reason": "US paused strikes and officials voiced concern about escalation, signaling restraint to avoid wider war.",
+      "event_key": "us pauses strikes over escalation concerns"
     }
   },
   {
-    "title": "US, Saudi militaries attack Iranian-backed militias in Iraq following Iranian strikes on US bases - The Jerusalem Post",
-    "summary": "US, Saudi militaries attack Iranian-backed militias in Iraq following Iranian strikes on US bases The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nXzRkdm9XbzVUQTk4dDRqdXVFZ1kwcEZkQ21fOXVzWlFPbWZTeXF3UWlVUTJMYmc3X2FUUlNDeWh2NmRhSGxpUzhZNFg2SjBGT0d0czNWNjh3eVZYM2ZEeWhnSzJqakpiMWc?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-07-28T23:11:31+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:11:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b249a7ef2b164ab06fbee163136bde441c53edd7",
+    "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq - 95.5 WSB",
+    "summary": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq 95.5 WSB",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTZiVHNQQURMdklWUERWcDFGd294NmtES2ZxcUJxVExHSGhrMW5iYWlSdzhFOXJUaVFvYnh5YTM1LUpDZFh6TmVCUThQVmJNN2R2ZDMtdm1mRDctdzFaRU16bXZNdE16bFZqcEhYMDdxcy1qS1dhSHc1aWw3d1g2MG42eUTSAZgBQVVfeXFMUE9qVmtHLWtsRUVhZXUwTjI4alVQV21vSlhFMUozR2I4T0xOLU9sRlRYMHphQ2ZhNmFEQ1hLOFB1UGg3bS1qR0QxRWlKUDlma0t1OE5Yd1JSU2Z1clMxWGYzcDZZSnhyc09kS0ZjQTlKN3UxYk5PNEtvbE16ZGtSaER1R0QwcFdXUENhRXlKR0hRT2FzWFhadVI?oc=5",
+    "source": "95.5 WSB",
+    "published_at": "2026-07-29T05:32:50+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 05:32:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c7708fab8de1add59b69919fc5177b11809d594",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "US and Saudi forces struck Iranian-backed militias in Iraq following Iranian attacks on US bases — proxy-linked military escalation.",
-      "event_key": "us saudi strike iran backed militias iraq"
-    }
-  },
-  {
-    "title": "All Iranian ballistic missiles intercepted after attempted attack on US forces in Middle East: CENTCOM - Anadolu Ajansı",
-    "summary": "All Iranian ballistic missiles intercepted after attempted attack on US forces in Middle East: CENTCOM Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDZLWWs3MElPazBGbEZXMmJacmpfTlBTUHhIbThvOVYzTWQxTG5JdUV2b1BBZnVoYUhTdTc4SXBwZTVoWnVwb0kybE9nWWZEWGNoYXY0SG0tQUR2VnZxazltS1ZTVTV2Z1dPbmYzdkMzRTFmVWZ4VlNTeldpSXRxUXFjeVZkVnQySG50d3hCQUJDQUNWZGU4UHh2RDNZalZiakh6dlFIX19jUk9zclN1X0pOcXloQkpEQm0tdUN6ekNuRzJxTGM2bXJQSFdJYzNKWUVwUjc1Zjd4NWs2NU9qQVVwZnV5d1da?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-07-28T22:12:29+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:12:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "479ab8a07d5291ce6704dd41bfe8742a373b14ec",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran launched ballistic missiles at US forces; CENTCOM reports all were intercepted.",
-      "event_key": "iran ballistic missile attack intercepted"
-    }
-  },
-  {
-    "title": "US and Saudi Arabia launch joint strikes on Iran-linked militias in Iraq - The Times of Israel",
-    "summary": "US and Saudi Arabia launch joint strikes on Iran-linked militias in Iraq The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUlidnVXVmF5NkhXclUzX0x4dk5STUY0WDQ0clVOc2doUmljS3RYU3MyNVg5aUk5U2VvNEpZdS1CX3dLQlc4STJGMUJJT05vZFp2b2dINGllOXJlaVY2VGo4cUVsYm1rMUVsd2ZVSU1oTEdnTEJJbXRjQ3N2WFZ1QUliX2FGdkpEbTZXY0VaYlU5b3U1a3pQQm1QWGpXZnpnUkpwRDhPTkVDMjBwN3U0UHZoZlpTU0M1NWc?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-07-29T00:36:49+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:36:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7e1bd03b6e01f267e8aecc0f50f1c14d3543e71b",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.9,
-      "reason": "US and Saudi joint strikes targeted Iran-linked militias in Iraq, constituting proxy escalation.",
-      "event_key": "us sa joint strikes iran linked militias iraq"
-    }
-  },
-  {
-    "title": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting - Boston Herald",
-    "summary": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting Boston Herald",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DamxBU1gwQ2gyZU1LMXdwdi05SjhuN2szUkp3MkJuX0VnQmszQnlQVzVGOHo2Z2kwT2ZGcG5uSjRVM3lrRXNwaktabVRJeXlyRWJVdDllRXhVQmw0U2kxazRnclp3YV93bFdJVEJ0RFAxb2szM0lFdENR?oc=5",
-    "source": "Boston Herald",
-    "published_at": "2026-07-28T23:50:26+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:50:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f7cb4afe047097120d741f29cbe365c22789b5ce",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US thwarted an Iranian missile attack, a direct military action ending a pause in fighting.",
-      "event_key": "us thwarts iran missile attack"
-    }
-  },
-  {
-    "title": "US says it intercepted ‘surprise’ Iran missile attack on its forces in Middle East after lull in fighting - The Guardian",
-    "summary": "US says it intercepted ‘surprise’ Iran missile attack on its forces in Middle East after lull in fighting The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnhldC1JdU5femNoX1VfRUkycHJIWE00Q1hqR1dhV2tpX0JWbm9pMmJjWUdod2Jib01KRjhzNTRNUU5tQ0UxZkN3eTZhcl9pVFJtYzUxRUQwcVNjWk8tb21BS2t0c0drM1hGRU9TMUlLWGtpb2RrNmFhS3ZoYVEweHZaNjM5SE0?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-29T01:41:15+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:41:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "75c71e2ae810654aa940e5ba892c969a5cfde27e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US intercepted an Iranian missile attack on its forces in the Middle East—direct military strike reported.",
-      "event_key": "us intercepts iran missile attack"
-    }
-  },
-  {
-    "title": "The US military says it's thwarted an Iranian missile attack on American troops - WRAL",
-    "summary": "The US military says it's thwarted an Iranian missile attack on American troops WRAL",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3BTd0d5d1A4YTRwUzhDd2VDOVhkZDBYU1dBWG10ZzB2ZUxZcEFjUnZPM29mSlIxZlhvTUlLeHgxS1Z1RDNYUVh1RkJ2ZGhGcDB5Q0JGLVg0cFl2REVmSVpnazNFNVZoc3BrRnZfeDlINjJlci1mdHlDSmMzM21CUWowb2xVWHdFREJxWTluQ1VlR2RtN0tIUkxWbm5FTFFQR0ZQWVg1c2JkM2ttTlV2M25LNE0?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-07-28T22:39:15+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:39:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ca0e8163e2b1922766391095900314f2910cb42d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US reports it thwarted a direct Iranian missile attack on American troops — a direct military strike attempt.",
-      "event_key": "iran thwarted missile attack on us troops"
-    }
-  },
-  {
-    "title": "U.S. says it intercepted Iran’s missile attack on troops - WBAL-TV",
-    "summary": "U.S. says it intercepted Iran’s missile attack on troops WBAL-TV",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWHpWZTliWmdNakJKdXVFTTdkczFubUxwZmhpQmN4WEx0QXpjNW9TbXhVQ0NQYlZqTUJIb3Vad2VSSWoxVFROTmItcWFxU2RXcEx1aF91SzlpdnoxeU5mOVBvalJyNHNjWmFCREVaS1BmOTZCZVczOEwtcXFUdkV2SW9hdXdXM2V0eHc?oc=5",
-    "source": "WBAL-TV",
-    "published_at": "2026-07-29T00:57:00+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:57:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "32e0265dd2edfead40dc42e24b329227746b75d1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US intercepted an Iranian missile attack on troops, a direct military strike/retaliation incident.",
-      "event_key": "us intercepts iran missile attack"
-    }
-  },
-  {
-    "title": "Iran launches ‘surprise attack’ on US forces in Middle East - The Hill",
-    "summary": "Iran launches ‘surprise attack’ on US forces in Middle East The Hill",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95LTQxZ2h0ZFRTd0RWQnZiZ3AxTV9ra25JU1ZDNzcwdG1Ra0NiNllMeU9fdGhhODJnY0xNT2pFcjJnSmtJVXB6YWlHcXRodHJSa0RldExHUVlUY0ZiYWtHUEI3eDR0cGNKZF9FMFRRc0o4cW90R3ZQbEh4d9IBgAFBVV95cUxQRXk1TXRFUWNFY2YzOTV5M01tbHM2MGkweXdLMWxFU0U3ZFY3aTVkNHV2UldqUDVGU2RmcGR0MmZLTEg1YlB6dGZ4MWtnU0M1QmpCOVJtVlFOSXpHQ3kxWDRfalBGdmhuemhyTnBFb0dscDBLUkx3c20wNWswTkFGYw?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-07-28T22:52:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:52:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "41bbf3a0d91f06856c63e8155b83f35cfce295a5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran reportedly conducted a surprise attack on US forces in the Middle East.",
-      "event_key": "iran surprise attack on us forces"
-    }
-  },
-  {
-    "title": "Iran war: US says Iranian missiles intercepted - DW.com",
-    "summary": "Iran war: US says Iranian missiles intercepted DW.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnNYT1lrTnhfb2ZTemJjSUJ1eTN4N3R1RzFNYjZPWGpLZDlBaXlYR3dsRlExZ3hXVmtwLVpMU0V1N2hvdE5DOG5RZkpiU1cwSlFpRTFGNHFobGd5ekxhRkF6QkJtd1FjNzVEZWg4NUNXdHhZNEw2QzZaYWczVW04T3lUT3dfRUR4?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-07-28T23:10:07+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:10:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5241e822a00fd47f8f5476f43b1fb64f01cc24fc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missiles reportedly intercepted by US forces — direct military strike/attack.",
-      "event_key": "iran missiles intercepted by us"
-    }
-  },
-  {
-    "title": "Iran’s Revolutionary Guards fire missiles at US forces in Jordan - The Times of Israel",
-    "summary": "Iran’s Revolutionary Guards fire missiles at US forces in Jordan The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU11TUVKY1JSYWc4Z0llVUR2T3hrVDlYNGRKVUxMMU1LQTk3b2FEYm15R0J5UDNzM3gzNHpLVWFISmtvVDltSGVrQUhNbEJvV25zQmZ6OF9ZMlVXcXBicG82a0Z1OXZUN1J1M3RfSnZIS3RDUW1mVHRjVlJDSzBWaG9Dd2lSTDRnZkk1d3JxYVJLUDVqWTZqSE0yQTRPSzR6cHZnMFc1WkRHSEJOMnc?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-07-28T22:49:26+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:49:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "15d98c2ad6ab9894fedd113844e51a88c853a0e0",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "IRGC directly fired missiles at US forces in Jordan — a direct military attack/retaliation.",
-      "event_key": "irgc missile strike jordan us forces"
-    }
-  },
-  {
-    "title": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting - fox10tv.com",
-    "summary": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting fox10tv.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVNSWXdEQnNSNEhVU3hCdXF4YWZreFpWdXA2TVhaYnhsVmlBNEFTWHY3amJLYTRRZWtFR2dSQ1ZvVmNvUll6UDNiR3liUl9MVTNMZWNMVjlPTzk2WTBXX01ZWXdha2t4RFUxQmpIU1JWYXM2aGxzTF93VXRxRXA4ZnZDbmU0bjF3TlJTVXdmMlMtMXZlYkFkMHB0Yl84RE1KMVZqSFItQk5hbEI4bmdDVnNjVQ?oc=5",
-    "source": "fox10tv.com",
-    "published_at": "2026-07-28T23:58:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:58:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aa2f7f3c680dec00dfaed28757daf707beb498c4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US intercepted an Iranian missile attack, a direct military action that ended a pause in fighting.",
-      "event_key": "us thwarted iran missile attack ended pause"
-    }
-  },
-  {
-    "title": "Centcom: Military thwarts 'surprise' Iran missile attack on US forces - USA Today",
-    "summary": "Centcom: Military thwarts 'surprise' Iran missile attack on US forces USA Today",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzRZbnBfWjVHaUNiM19IWXNSYWNZbGl2WXlBMjh6TFB3SUdsUlZMYmc3alRMVGZhVXpLaU1kOVRjVEtrVWtIa0g5WVJ3RnRjUGJXSEpFVWp1R0lSaTZlNjhSQ2Jka2M5UEQ1Z3lMNkkwTU9CcjlNWFlJbEVaTlV6cWd3WjctU0plWUxoVy1hbEhYRXhwN1Q2OGVYbFZ6UktyY0FSckUtSWpYQQ?oc=5",
-    "source": "USA Today",
-    "published_at": "2026-07-28T23:43:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4edd6c76f6456fdfd49544480a7e480c7fb86af6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reported attempted Iran missile attack on US forces that was intercepted/thwarted, a direct military action.",
-      "event_key": "iran missile attack thwarted on us forces"
-    }
-  },
-  {
-    "title": "U.S. says it shot down Iranian missiles targeting troops in Middle East - The Washington Post",
-    "summary": "U.S. says it shot down Iranian missiles targeting troops in Middle East The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHp4X1hONlVjM0VkRzlxeHQ1eUQ5X0ZTY1pRVHBmUThjc2o1RjlMVlRuSkREbXZNbUl4b3R2dGk5Q0otMTlCbVo3UmpFVWN6cUEwLXZpRUxJbGxyU1pBbE5UZlZVLWpmektjZ1FRQmJYeWpRa0I5bWRWZ0ZEaFJZOUt5bm11T3BJZmhmSjVvN3I5MWJJMllTY0tKS3lsbERiOWRDTTBuY0M3c2FJWmpqanN2N0lzb0tGc3BWYU1TQS1raHc0ZWc?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-07-29T01:27:58+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:27:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "df8da74abd2598e3dd40773ce7a4f3fe55bcc9f5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US shot down Iranian missiles—direct military engagement between US forces and Iran.",
-      "event_key": "us shoots down iranian missiles"
-    }
-  },
-  {
-    "title": "The Latest: US military says it has thwarted an Iranian missile attack on American troops - WRAL",
-    "summary": "The Latest: US military says it has thwarted an Iranian missile attack on American troops WRAL",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcjhjcDVlaVU0c0tSbEktSnM3ZnZtbzFITHg2YnY0RFRBdDNYTjFoSUdiNUZDMVZhLTV0REpZRkxDY3FCWVdtS0stcXdHN1d5VGxHYUxqaWV2TWMzekN2NmxUUDB6d2d4WmdEWVFfSUtvUHZXZTltTm5oOHBEMFEzQ1N4R2U1aDUtRXBhb3hBQ1duY2VpcFJ4VzBEdzF4elNhTlA5emtSbUlVTDIxdGl0YUN3YXR2UUZF?oc=5",
-    "source": "WRAL",
-    "published_at": "2026-07-29T00:05:51+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:05:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dceeec477c465210c75afe1eb5131164fe74724d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US military reports thwarting an Iranian missile attack on American troops — direct hostile military action.",
-      "event_key": "iran missile attack thwarted"
-    }
-  },
-  {
-    "title": "Iran fires missiles at US forces in Jordan, ending brief lull in attacks - Washington Examiner",
-    "summary": "Iran fires missiles at US forces in Jordan, ending brief lull in attacks Washington Examiner",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjEyWWJTZ0VSMDl6VkpjUHUwZDJ5bllsb3E3Sm41ekY1ZWhFMkxTWlVkVFZTVnEyRFZ6d3ExdFZfTm14WU45aUh3bkQtWjd4WXRUTkY3amlKelNxTFgyaDZFVXlKc01WbE5PWi1yal9Sd3llWGNPN3Z5V0xhaHpUaWJoSC12WTl1aFFoN2d1Y3l1UWpLNVhsSnlaUQ?oc=5",
-    "source": "Washington Examiner",
-    "published_at": "2026-07-28T22:35:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 22:35:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b3d0d5fb1542f35982c7a5cc2b963351f42ba452",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missiles at US forces in Jordan, a direct military attack ending the lull in strikes.",
-      "event_key": "iran missile attack us forces jordan"
-    }
-  },
-  {
-    "title": "U.S. Central Command says it intercepted Iran missile attack in the Middle East - WTVC",
-    "summary": "U.S. Central Command says it intercepted Iran missile attack in the Middle East WTVC",
-    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQbEdVRExZd1pqcE81c3hYYzBBOWhKQXN0T2ozck84a3VpTVJHNVI5QW53Zmp6TF9PUFZfV2pIcHp6enhQRmFsMG9VdDN0bDNPdGRDa1ROSWF3YWFfZzFRMFJSYWNtaVdkdWlVcjJSOVVROGM3MWFaM0FMVnUtVjZMeDE0QnVKQ1c3RjhqaWFuYXJ3cnF0c0hpQWE2NFplTnN1dGJ1Ylp0YUFoQllpRGhZcldpNnNHQTNDZVU5VlAyWjRxQ3lZZktJWG5OTjFRUTdoZFl1TEtZcFJsY05WYmRfZDQxRmZ0TmNkT1VNTmhibm44dEJDWEdsX0t3M3JmOGFPaEJ6MkxfT0pINE1lWDdTOS1GZEFBNnVnei0yT1JXQks2X1BHV2E5enJzUzhFTHFKQ3Vsb1JLMmRMdmdzbUNOZDAzcUhDckNR?oc=5",
-    "source": "WTVC",
-    "published_at": "2026-07-29T00:13:30+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:13:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aeee30c02b0578c05278f2fd5b033e11635d2e6c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "CENTCOM intercepted an Iranian missile attack—direct military engagement between Iran and US forces.",
-      "event_key": "centcom intercepts iran missile attack"
-    }
-  },
-  {
-    "title": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting - The Killeen Daily Herald",
-    "summary": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting The Killeen Daily Herald",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbGowbTktbm84OC02YnEzdk81ekdCNjB1TmRjaHJtNHJvVlVWbXN3NUdBNmM3ejliV3ZZN3gtR1lXV25MZWJxX29ZQU9zaHRhLXRHSUo2S0JwWUpZaUI3aTNDUzVVV3BBc21zVDlyUmRvMmpZZGFfZHE5MGhUMW43LWxRVkZnb1dpdUlmUExNUXNxbnNVb3lUNjEySVVvblQ2N3hRandfMl9NaTFWYTN0S0c4X0NtSVZ0QUtfaU40ZklCVjI4NEprMTFua3hENTBTZFplY29hU1lDVTktUGdnb1NhdHFPUndYY3Mybw?oc=5",
-    "source": "The Killeen Daily Herald",
-    "published_at": "2026-07-29T00:27:22+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:27:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "82ff8230e6b8ba2b4b8e8aa1b240c5578bd83858",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US thwarted an Iranian missile attack, a direct military incident ending a pause in fighting.",
-      "event_key": "us thwarts iran missile attack"
-    }
-  },
-  {
-    "title": "Iran Launches Surprise Missile Attack on U.S. Forces - Moomoo",
-    "summary": "Iran Launches Surprise Missile Attack on U.S. Forces Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFBScnktLVFhX2pZdTZVVHV0NkhpYXZPTHBJNEJ5TXBsVWswUUVyRE9mXzZFTGJ2b3RJNHZHa2VsM3JLc3MwOXBmOXlDMzh6MHdKYWN4V3VfU3hnWTJ2MEZUUDBhSi13SFc3dkVza2FUTndDQkJwSFBNckZmM1IzU0gzaEhOdXl3Ui1md2lGX0xiSVQ1QUUw?oc=5",
-    "source": "Moomoo",
-    "published_at": "2026-07-29T00:15:07+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:15:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4f8df3507cfcba552917e53ae3f40d18f9198378",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Direct missile attack by Iran on U.S. forces constitutes a military strike/retaliation.",
-      "event_key": "iran missile attack on us forces"
-    }
-  },
-  {
-    "title": "U.S. Central Command says it intercepted Iran missile attack in the Middle East - WGXA",
-    "summary": "U.S. Central Command says it intercepted Iran missile attack in the Middle East WGXA",
-    "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxORU1kMzNMMDlkeXJta3pBenpsWnFJMkF2TUk3Wnctb0JlX3UtUWE0NFRwTkJfNWoxU2tVTkh1R3V3a21lRXlobUYzNGx0SkJ2VEM3amxEaHN5S0E3RHEtZDdyOGlVSFhTNnpRTG9UVFhRS0VjZ0M1NUxFcGM3eVRUam93NzFvaW5LWHNJbjhNUVdZM0hxdWp4OXl5UURfUUZqNUVPZlZ2eE1TTERxWDFoM2xpN3ZsaG1TWDNpbURoZmF0dm5nTjVLQ2I1eUpSLWVKNWRxMy1XZEpQM2J6SnpISC1oLWhqck9vTWwyMjlETmZENUl5SWJwaFJFUnVjaUpyWnNPajVjYW5SeTBLZVJQRUY0NXlzVUt3TkVfUHpNdDNZYnA0WGFCcjJ0UDVaYV83NUsxcXFXYnM0NFhX?oc=5",
-    "source": "WGXA",
-    "published_at": "2026-07-29T00:17:19+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 00:17:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b9904fec101ee45de07206d9676f2c7ed5f895d2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "CENTCOM intercepted an Iranian missile attack—direct military strike reported.",
-      "event_key": "us cencom intercepts iran missile attack"
-    }
-  },
-  {
-    "title": "U.S. stops Iranian ‘surprise’ missile attack - Washington Times",
-    "summary": "U.S. stops Iranian ‘surprise’ missile attack Washington Times",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUk0b05Hd1BjZHlCclRiV2ZLdUJqVjdGRVVzWDIwNnJEc3JRSzBpbTZObFZhX2NzRHgyVkRLWmtyM0ZzWXFVMFdjQXEyNEZ3MWRxYnFtSmh2dld1cHlyWTVUTF90LWY0bUpGTnpEeFFaUnlJcG5LbjUxcWJnbVZjS092Y3dQaXRrYU96OExrdWNXdWVX?oc=5",
-    "source": "Washington Times",
-    "published_at": "2026-07-29T01:03:45+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:03:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d4d62d027a2672a8196b7138f6eefe6036214c3a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports U.S. intercepted/foiled an Iranian missile attack — a direct military action.",
-      "event_key": "us intercepts iran missile attack"
-    }
-  },
-  {
-    "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq - New Castle News",
-    "summary": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq New Castle News",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTG9CSnR3Mnc4bVB6RGpETkllZ19QN1BVUzdBYWlrMGdRRXN5WEZ4Y2F1QlJyajFVU1U0TVF2NjZBbFRvVkNWbU1MU1JyenRSSXdDcEs2LXBBZXhKN2FDb01FZHI0UGxpMXc4Wk9KVzlaaTM4cThEUnhkQ3UtR1hTMUJQaHB2M1VjMmE5MnB5NFdQMTRVLXdFXzJOdEo1Z2tCRGtSN0dBUWZlRlBXM0FpZ1ZHNDBnN1VCem9ZOUkwNkpSSTduVHROSmdfTVIzdDBUNTNQYktEREJEOGJaUXJSLS1fUTgzOVh5WVFwRlNGaWpqZVUtQjYzdEZWTkFhWnJ1eVk2d21oVHNlZk5kX3h0ZWJYYUVjc3M?oc=5",
-    "source": "New Castle News",
-    "published_at": "2026-07-29T01:58:38+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 01:58:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6dfa4eda0aa51b6546ef9f862b6c24ee3eb463ca",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "US thwarted Iranian missile and conducted strikes targeting Iran-backed militias in Iraq, indicating proxy escalation.",
-      "event_key": "us saudi strikes against iran backed militias in iraq"
-    }
-  },
-  {
-    "title": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting - WWNY",
-    "summary": "The US says it thwarted an Iranian missile attack that ended a brief pause in fighting WWNY",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZG9XZTdvV0RxelR1WmpqWHVlcmVhYmJzR1QydG5IVkN4OVpoQ0VtZF9kNUg1RVctQ0drbmE4SWVkZld3Znd0LWJLekhGWEJwRXVLb2swMGVrOEVqRGpWcDBJb242S1Blc3VDbGJreldCcEJwaDBVZ0VSNTRRbjNXVDhETmJOTW5VeHV6MFFxazJPZ1NGYnRqVy1XQ04wX0owRFRCQlcxcXFWcVp0ZXlYSEpn?oc=5",
-    "source": "WWNY",
-    "published_at": "2026-07-28T23:58:00+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:58:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ec9d91b656f36f233a436b4426a35765c6f0c3dc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US intercepted an Iranian missile attack, a direct military action ending a pause in fighting.",
-      "event_key": "us thwarts iran missile attack"
-    }
-  },
-  {
-    "title": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops - CBC",
-    "summary": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops CBC",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaXJFeFRnVjJvZklKUE9kUzViazE1bWdKV1pyTEI4V0RKaXhlNmRWU1dVQ01CZW9zVFpzREYwaGV4elRyWWhxd3ptdVZQZmkzX2p5b1NKZmJRaC1rT05yTkI1UDg?oc=5",
-    "source": "CBC",
-    "published_at": "2026-07-28T23:21:59+00:00",
-    "raw_pub_date": "Tue, 28 Jul 2026 23:21:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9dbcc92d44e5c7785afc74ef49426ac69d0c3d7c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US intercepted an Iranian missile attack targeting American troops—direct military action.",
-      "event_key": "iran missile attack intercepted"
+      "reason": "US and Saudi strikes targeted Iran-backed militias while Jordan intercepted Iranian missiles, signaling proxy-linked military escalation.",
+      "event_key": "us saudi strikes iraqi militias iranian missiles intercepted"
     }
   }
 ]
