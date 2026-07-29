@@ -1,104 +1,189 @@
 [
   {
-    "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu - Al Jazeera",
-    "summary": "Iran attacks US bases in Middle East as Trump meets Netanyahu Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-29T05:50:45+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 05:50:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "65100eaf23f9d51fdf6440a657cd99f3b1e692e0",
+    "title": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume - France 24",
+    "summary": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume France 24",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGJkRFYyNm95Tjd1T1B5OGc3X0hJRm8ydndRUzBfZjY0dFJETTF1cFR6a0NUblllZVY1c3NfeEJyTnYxZk9QLUNNNnk2YjgyWXNEQXk4UlVmeE5oX09FVVJfWU5abTVQbXQxbmIzMlYzVVNYcDhFYVZFbGRLTVJFdUk4UjJ4TmpsZXk4VjN0RGlNZkdfRXJyejJ4TlpkWjVK?oc=5",
+    "source": "France 24",
+    "published_at": "2026-07-29T08:36:39+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 08:36:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "175496a9553e75157acfaff7a51d4ab789b3334c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US accuses Iran of trying to derail ceasefire talks while strikes resume, signalling rising tensions.",
+      "event_key": "iran derail ceasefire strikes resume"
+    }
+  },
+  {
+    "title": "Europe resists US push for Hormuz patrol without a stable Iran ceasefire - Ynetnews",
+    "summary": "Europe resists US push for Hormuz patrol without a stable Iran ceasefire Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zTF9VNjh3aEh0S3dEbkRwVUZMb3hlTE56LU5oWXNPWWFNd0pOekotR2xjVVY5T1VCTl94cHdsalNlZVhGbkt3Vm5Xa3FzaXlmanJfMUJn?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-07-29T11:17:15+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 11:17:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e54d010cd6b015d3b4a62c7135b2d9fae5a4befe",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Diplomatic disagreement over a US proposal for Hormuz patrols; Europe conditions support on a stable Iran ceasefire.",
+      "event_key": "eu resists us hormuz patrol push"
+    }
+  },
+  {
+    "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq - NPR",
+    "summary": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq NPR",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSDd2SUo2dDhpaXVqVEJHMzBqaWZnV3hJR1h2Qk5YY0xMOG9uZ3g2elBFSnIzV0QyTEpqN1N2dDdYVWpsbDdMQ2l3RGpTVGpGbWtrVEk1WWFtb21sdV9QejRfdWlzcWlCOFFRX1JyaU1mSFNRRHJv?oc=5",
+    "source": "NPR",
+    "published_at": "2026-07-29T09:07:03+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 09:07:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "63643c539f63efecb15a394f7a8eefb070294924",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran launched attacks on US bases in the Middle East—direct military strikes/retaliation.",
-      "event_key": "iran attacks us bases mid east"
+      "reason": "Reports describe Iranian missile launches intercepted and U.S./Saudi strikes on militias in Iraq—direct military attacks and retaliation.",
+      "event_key": "iran missiles intercepted jordan us sa strike iraqi militias"
     }
   },
   {
-    "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq - AP News",
-    "summary": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq AP News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-29T06:08:09+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 06:08:09 GMT",
+    "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq - Al Jazeera",
+    "summary": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlF6U1R1S0dMUXo1UnBCTllLTGU2c3E1bm80ejhsOVpfREw3ZzRFUTRveTFMWFFBck1zanZyaDBMYzh6M2dVYkczRXV4M1Mybzd0akhZazdwckw5QzYwOWpkNExoeEtxejFncDJzNU9uTDhmQ2o1ejdBMFBhbHBtVWt5bDg0ZWVzSHMyUzdOMTJwTkoyM2hOa210OURFNEktQjc1YkJ6TkTSAa4BQVVfeXFMT1ZwT1dvamlmWTJza1N3akRiYkdtY2xKQ0d6cS1Zd08zNFg1NlU3QmVxQ04yZmlxU2ZMenpKLWxxb2pZbVdqUXNVZ05PUG9KTmZYbUxoM3RjWDJURHEzWnNkby1CdG5VTmRXUm5TY3Z5c0hxX1l3dXNFNW1XNXl1LWNsT2p5RFNoV2pyeUFmM3RFdGRHVUtZV3JETzhnZVFIS3VsMlJseFhWZ0pXTzdB?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-29T08:50:19+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 08:50:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "56098ed8271db554ad8c021dcb7da03758268430",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "Iranian missiles launched and US/Saudi strikes hit Iran-backed militias in Iraq, signaling proxy escalation.",
-      "event_key": "iran missiles jordan intercept us saudi strikes iraqi militias"
-    }
-  },
-  {
-    "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq - The Washington Post",
-    "summary": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGl0TWZyQy1GY1FwS0tjQ2NJSW1BcVctWkZDWUttZTY4MnhiS3RYakZzN1pVZzh1cE1SYzVzMjFQREhZVDZ6WWNrVzlBTFJVNTFEaXBGWnlZZ3ZyYjhvQlg5a292YW1sdW9mUEhqX0g1WlQ0TXZ2ekFHQjVxamYyMUlBcWp6LTBMbGZWbU1WVkY1c19lZ0ZOMURveUF1eVBFQW9PVU5zazRCM08tQVAtMlR1dHc5bmFoV3hsYTlWRUd6R1pMcWFPLXkzX0pjQU0?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-07-29T08:23:01+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 08:23:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "62a7f1e358302c12a41708e12aa24ce5cefa17e9",
+    "article_id": "c3bbadbe9b585456f41d76d2fd48e532da563ca6",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "US and Saudi strikes targeted militias in Iraq and Iran launched missiles that were intercepted, indicating Iran-backed proxy escalation.",
-      "event_key": "us sa strikes iraqi militias iran missiles intercepted"
+      "strength": 0.9,
+      "reason": "US and Saudi strikes targeted Iran-aligned proxy groups in Iraq, escalating proxy confrontations.",
+      "event_key": "us saudi strikes iran aligned groups iraq"
     }
   },
   {
-    "title": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack - Reuters",
-    "summary": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-29T07:14:06+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 07:14:06 GMT",
+    "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq - Al-Monitor",
+    "summary": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORlZnOXRyY3MyeGRiLU5KRkRoRmhLbHhPVTJ3ZE9Wb1ZoOHJYZVJuYlI1Q3l3YlB3MjA1eEh6WURGTmZVQ3h3WnlPYlA3ang1UEUxOUxneEoxUGFEdVFWQ0N3b3NyX0pvV2NwUEFNYWlZcjZEOTBNanNjNDMzUi1PRW9Ld0gzbkxMMklzWmg0WVNBOFkyUkZKeUUwU0lHNUd6Yl81RFQyeFpmeWNBLTBaSw?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-07-29T09:45:00+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 09:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "463ab39f6f9c0fe69a0b02e9359b446143b389c1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.9,
+      "reason": "US and Saudi strikes targeted Iran-backed militias in Iraq, marking proxy-driven escalation in the Iran-US regional confrontation.",
+      "event_key": "us saudi strikes iran backed militias iraq"
+    }
+  },
+  {
+    "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
+    "summary": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2NPZmdVZ0xwNXFneGxDWWpGa21KRTE4UHRnWFJ3OXRqRGIxc2JaN3dxQnBnc19IakEtV0pPR25QNHNYb3E1TUxHYW5CRTlKS3FxNDRBWmxvSjZ6SHU3aGk0X3VPTXRVdTg1VXNnM0ZVNHJpaHRjUHYtajJQclBCamliTm5IWjZCWFVBelRuVER6X2c4UHh3LUx3Rk5sdlJ1bHliS3VVbFhheE56aWdiMk9ZcjNkRDZPc2N0dlMwNy1UVjRTUmc?oc=5",
+    "source": "NPR",
+    "published_at": "2026-07-29T11:00:47+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 11:00:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b6c8a4a56d0e01f7ae747c31eb105ebb1e11e559",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Headline indicates direct U.S.–Iran attacks have resumed, implying military strikes/retaliation.",
+      "event_key": "us iran resume attacks"
+    }
+  },
+  {
+    "title": "Iran launches 600th attack on US forces in Iraq, Pentagon says - NewsNation",
+    "summary": "Iran launches 600th attack on US forces in Iraq, Pentagon says NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtdlNmTzZKYTk1RjhHZ1lheGJ0VUZMVzBNR0hwc1Z3MHBwTVJIY0pCMzVBNkRSck1ZUmFtdE9ndFFzS1hJdGxwUk5XNnNvUWFlVDBzWTRrazZDRk5xSWc4bE9fWlJ3c3ZxSmJoZHhfY2lHSkVTT21DNU9sd9IBgAFBVV95cUxPVUZnQmxocG9kbGhyWUFzdExLQ05vaVFrcDEyeFRHZ1RIMjUwZGV6bzhiTTE3RDR2TWcwUG5LdERFNFFWYUVDSmtNSjdVYVdfeG83TUtnX1MzRng4eDZhcXRlSTFDRGFpdm1YS29aLWx0WGJEUVBGYldKbEx0R1VqRw?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-07-29T09:30:27+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 09:30:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "708c63e402959c9c69096df598d22597caabd2dd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Repeated attacks on US forces in Iraq indicate escalation via Iran-linked proxies against US presence.",
+      "event_key": "iran 600th attack on us forces iraq"
+    }
+  },
+  {
+    "title": "US-Saudi strikes target Iraqi pro-Iran militias as IRGC renews attacks on US forces - The Times of Israel",
+    "summary": "US-Saudi strikes target Iraqi pro-Iran militias as IRGC renews attacks on US forces The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0tpaUYzRk03NlpRYXhjUmZWUWFsMjNVWHR1b1ZUbVN1MXFEOTZPOWFhYjBJcXNNZm0xWFZwLWhQUkd1V3phNnFPMTdOLTcteW44b3hjN1R0UFdmZlY3b2s1ZEVMTXRLWE5wb2JQZzNoYl9mSl9UMkxCVkFLdjdtSjBWSHFiSGpGYWF6alhoX3p2WXp6MmRNYVBqd182MUk5ZlFXTVpUa0xoWHQ1MWhEOExGb0rSAboBQVVfeXFMTTZCdmlwdjBJNUFrZEE1VTNIQ0J2S3dOaEZrb25Xdkctb3M0ODFaVDBDbGhSN2VUR05acjlfeUc0S1FfY0V6NWI2czBOQVVWeGxQX0pDZ2d0Zk5jRGdURWxWVVZTSFNQdDNnY2tFWWJHLWthUjFHbFdVVGhJUmhMRVpwNDBuakFwdHZXSFBIOEVseFBTSWh1U1g4UW5DZjM4Q2VrYlV1cHdBbVY2dTZob1JJaXk5MWFPV2VB?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-07-29T09:04:30+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 09:04:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca1291a534ebe464e645bb7e87f0dc76d1cdecf8",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "US-Saudi strikes on Iraqi pro-Iran militias and IRGC attacks on US forces indicate direct military strikes and retaliation.",
+      "event_key": "us saudi strikes iraqi pro iran militias irgc attacks us forces"
+    }
+  },
+  {
+    "title": "First Thing: US blocks Iranian missile barrage as pause in fighting falters - The Guardian",
+    "summary": "First Thing: US blocks Iranian missile barrage as pause in fighting falters The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXVDaExSSVhNUXAtcnpsTzdUWkdZZnhTdmUyX0xMcHB5MlQzdjZpNXJVYkt0Vkw2VkxtZWFCU2pxODdTZXQ5ZF8yU1U1ajhoZUR3RGR1VWJMM1RicTFaaGZmSnZtSUVNRjZja0tTMjk3QnV6UFB1SXRlNVRQUTNMMEFzbS03X1BqUXNpUjZ0cnhCWkNRRlVYbg?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-07-29T10:29:00+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 10:29:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3dd9748be8595fc64775fdcc0a38b847e7bfe391",
-    "source_weight": 1.15,
+    "article_id": "b79f62f89d86740fbfb1bfde5b2bf5813ea92de5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US intercepted an Iranian missile barrage, a direct military engagement signaling retaliatory/defensive action.",
+      "event_key": "us intercepts iranian missile barrage"
+    }
+  },
+  {
+    "title": "Iran Fires Ballistic Missiles at US Base in Jordan, CENTCOM Says All Intercepted - IranWire",
+    "summary": "Iran Fires Ballistic Missiles at US Base in Jordan, CENTCOM Says All Intercepted IranWire",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1dfbWpqb2VIVFhKS3BHdDVIYmJmVUJqbkRnSzNNX0RNNlNfamVidkpaMWpHTXQ3dW1sOXE0aG9ESUVwY3d0TkpkZUlGLXRQTU1ZN3JxczVwdm1wd2ViQ0YtQWRUTWh6WVRzd2Vncl9iMkJBclk4R0pRNTM4UE05OVdZTVN1TTFRTXM3NnFWVDhacUwxdTJEazh4ZUdXdUtaMnh5czJiUzVOcmlDTTBjdjQ0YXRORmM?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-07-29T10:18:37+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 10:18:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d187bed015074a5472e03bcabf75247483a15f46",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched ballistic missiles at a US base in Jordan; CENTCOM reported interceptions.",
+      "event_key": "iran ballistic missiles attack us base jordan intercepted"
+    }
+  },
+  {
+    "title": "CISA, FBI, EPA, and US Government Partners Update Warning of Iran-Affiliated Threat Actors Targeting PLCs in Critical Infrastructure - ARC Advisory",
+    "summary": "CISA, FBI, EPA, and US Government Partners Update Warning of Iran-Affiliated Threat Actors Targeting PLCs in Critical Infrastructure ARC Advisory",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDVGdF8zZkxFSmczckFSa196YnpILUxVM3pjalVfMFRjblp4QU9HY1NOR1lxaVh3VFROMF9CblE4OS1XZkpYNDNHSTNYWXJRaVdDbEtBMkV4SkFXTERIbnY3SzFVX1A4d2hLYk1VMjZsRjM1QVg0dmowcmtlck9xeGlyT0plYmtpdWZCaC03UjQ0cWk3UldMWjBKRFgtS1d4cVZiT2xkS2d1djBtZDFqRTZuNG8yS1pzWFE?oc=5",
+    "source": "ARC Advisory",
+    "published_at": "2026-07-29T09:17:45+00:00",
+    "raw_pub_date": "Wed, 29 Jul 2026 09:17:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6640feb88f9267c3a9647dfd248141dec0fbea80",
+    "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
       "strength": 0.8,
-      "reason": "Iraq strikes and a missile attack tied to Iran-backed proxies escalated US-Iran tensions.",
-      "event_key": "iraq proxy strikes missile attack"
-    }
-  },
-  {
-    "title": "Trump, Netanyahu discuss Iran de-escalation and Lebanon as US-Saudi strikes raise regional tensions: Everything you need to know this Wednesday - L'Orient Today",
-    "summary": "Trump, Netanyahu discuss Iran de-escalation and Lebanon as US-Saudi strikes raise regional tensions: Everything you need to know this Wednesday L'Orient Today",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQnNiWkF2TUswcnpVSHFnSnBmM2NkeE1Sbld1cFdoOFduNGY3SDJ4aENzd2JDeVlhTkxzc0tkMGU2SlNBMkpfdWJjMXh5aVVrTzlTTExHaF96dzllTzdSOXl2QzBkdGdVY0huZV9BR25BVW41UF9NRGtOTFlfUDVsTGQ0Ylc5QVZKc1F3bG5yeU9QWjU2Vi1CX3lPRHMzTEo3MTdyRk5mNzdxSThBak9Da2NEcmNQX1VyTExMcUN0NWxBa3RNS1pNSy1DRlJPTTYxQ1FGSmUxbTBaMDUyMEtDMjFnYTdpWkJDeWZTa1NBSUt4NU1tNEVPYmh4dGFsWEFGUnJfMnlVVVhHQThXME5QdmpTZW9nV00?oc=5",
-    "source": "L'Orient Today",
-    "published_at": "2026-07-29T06:17:19+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 06:17:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "39064497564f912572a659845a31e7b2e2b009f1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Trump and Netanyahu discussed de-escalation with Iran, indicating active diplomatic talks amid regional tensions.",
-      "event_key": "trump netanyahu iran deescalation talks"
-    }
-  },
-  {
-    "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq - The New Indian Express",
-    "summary": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq The New Indian Express",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOTZaMHpMSXN5cDY5WnhBRF96am1MN1hqQ1FJdGhHMUpySW9yT1JlWHhNWmt5OWVTT0lvUGpXVXdOZTBETk5ZZm14Z1JtNnV2Qk10aXZCUVpQekZZV0o4NFNGMWdOeHpnUlBDcWhmS3h3eGVoeWpoUE05RXBiZUhaR3JKa0swZ0poWU13Tm83S1hZNFMwSGJ4azAzQjI4NXRZZmhiSzVhbXhnS1Q0aEtCdGVvSnhyNWRocFR6OHU1YzVxY1JNcldSY2xSN2RXWVdaTFpyYTFEWXprUS1TbW1QcHN30gHvAUFVX3lxTFBZOElvVnpEZ2FObmhDR0xmT2pGNk5MR1BteGlLVzh2Njc5X0JRcVRaY21jT1RDWk96VTBiTnIyeURlX1pxcnJRYndWRzFnSzNWYXR1amozSTVlbkF5Sm9lWU9RVlhIdEU5M0didm9PU1Bsb1diRGwwOGVOM2lSOEZFWXN4NGdYRUhfRU9hZldkWC0zODZTYlNqVGlVNVNXemVrdFZESjYwc01ZOHRHYnpYWFVYeTVHSC1UcXIxdklfQUl4VFI5cjFTalQzWU5XcG5NQXJQQk1pYmFQSEJjN0p1WUU3R1ROYXFCc2dwSVBF?oc=5",
-    "source": "The New Indian Express",
-    "published_at": "2026-07-29T06:04:20+00:00",
-    "raw_pub_date": "Wed, 29 Jul 2026 06:04:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "91d4ad7897203c4096426effb2383edcfe13ac31",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.85,
-      "reason": "US/Saudi strikes on Iraq militias and intercepted Iranian missiles indicate escalation involving Iran-backed proxies.",
-      "event_key": "us saudi strikes iraqi militias iran missiles intercepted"
+      "reason": "US agencies warn Iran-linked cyber actors targeting industrial PLCs—proxy cyber escalation against US critical infrastructure.",
+      "event_key": "iran linked cyber targeting plcs"
     }
   }
 ]
