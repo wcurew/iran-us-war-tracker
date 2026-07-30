@@ -1,87 +1,104 @@
 [
   {
-    "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News",
-    "summary": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict AP News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-30T16:03:00+00:00",
-    "raw_pub_date": "Thu, 30 Jul 2026 16:03:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "38358df3d8bf767b315a47d7ca5e93cfe9a0eba6",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct missile barrages exchanged between the US and Iran indicate active military strikes/retaliations.",
-      "event_key": "us iran missile exchange"
-    }
-  },
-  {
-    "title": "Democrats demand answers over treatment of wounded US troops after Iran strike - The Guardian",
-    "summary": "Democrats demand answers over treatment of wounded US troops after Iran strike The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXNpNzA1MWhNWk9Vb3p5amotWnM4bmxvMkl2TVlJdU9ldnNTWm1yLTg1WUU5RVpCc25lZ0NTbXp2UHBPT3ozc0FGUzFIdVhWV1NJT0RFTGtyRGtRQlplWFRQYkJKaXZPazZSTkhROGlvRVZFNG5tMzV2MDFXV0JaLXVUNDZST19EZGswWg?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-30T15:17:00+00:00",
-    "raw_pub_date": "Thu, 30 Jul 2026 15:17:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "80d78f2509289555f5ba77a76b2a48b2e03552aa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Article concerns an Iran strike that wounded US troops and subsequent political response.",
-      "event_key": "iran strike wounded us troops"
-    }
-  },
-  {
-    "title": "U.S.-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls - PBS",
-    "summary": "U.S.-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls PBS",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWF6QXRGc2lYY1JwU2djeW0tcUQyYmwxMVRZWm91ZGtfYmtoUG15Qk9CY1gxRjdXT2YtYTV2QWltQlE2elVPSmxmdGQtYUJjVlBBMndwRVpXVXdwX3JXRW5PR2hoRnV2YmdUai1IVVlXUGxnWE11TXhtTWJPX1hKcVd1bnhCWXpuSC1PRmdRYzlqdXl6ZjdUZWdLMThIYVFzejZjZUhNUTNBeGdsbjlTX3VZdkRFdHpsNVk1UWpHVmRjd9IBxwFBVV95cUxNZHIxeUR2em5tZTRMOEphVWdVdlFYVWRNUUVicmE0bjhOVVB3NWlVcFppM0hfWHo5UnVmXzlZQTBJTm5SczBoQlJ3SXFwemJJc2wtLS1acGtKb2RjamhId1ZtVk9TWmNOTkRVcmJZc2dHd3ZGMEFEcmhXX1VISWxEcWNwdmNvX2VYd2hVNFVaWk1jMEJiSzhPZkpjbFZSNi1WdE1DbFRZTi1NS3lOMVVhWEFhaTRXeFEzYWRkcXpoRmJMNnZueGRn?oc=5",
-    "source": "PBS",
-    "published_at": "2026-07-30T15:50:52+00:00",
-    "raw_pub_date": "Thu, 30 Jul 2026 15:50:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "07657de65922ee76b2a8ae14da978c8d02a0febc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Saudi hits on Iran-backed proxies while diplomacy stalls indicate escalation via proxies rather than direct Iran-US strikes.",
-      "event_key": "saudi hits iran backed proxies diplomacy stalls"
-    }
-  },
-  {
-    "title": "Iran’s war with the US is not its only conflict as internal crises mount - The Guardian",
-    "summary": "Iran’s war with the US is not its only conflict as internal crises mount The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlczRHFlSW5kQmh5dmVYckJtMzByYkpOb2V2MHN1dzZGdGVNVmpEQ0RzYUE0VUN0TzdoSTc1N1h2bnF4N05oSUxZWThPMXg4UGNRbHhqQTREOTZSLWRpcGFFajhzMzVUbld6dExnVzg5QVk3d2hNc3dCN1pWNkJQLUlPWk1kWjRJUUc1ZDlpZ3ZTS2RjVUFzcmYtbWVSdlE?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-07-30T15:26:00+00:00",
-    "raw_pub_date": "Thu, 30 Jul 2026 15:26:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "53774f0c698bf82c3e871627fc61bbf9bafc2db6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.3,
-      "reason": "Opinion/analysis on Iran's internal crises, not reporting specific Iran–US diplomatic or military developments.",
-      "event_key": "iran internal crises analysis"
-    }
-  },
-  {
-    "title": "US-Iran conflict spreads as new fronts open - The Times of India",
-    "summary": "US-Iran conflict spreads as new fronts open The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDVIRExYbjVpV3dzcUpKT29CWW10UVYwamUyMUx0WWZxQUhISzNhR0ExVWl5dW13VERQaWFlMUEzSGotdXJwTEVuYk9PRDJUQTVFNTdiRktfOUxyRVk4Ql9Wd2Z5WjFwOWdJNHBXT245YmFGVENqRElqOTFjSzRlX1lKQXgycXk1LUxOaDAxclp1WTlPN1BPXzFudXI5cm5LYm9wTlR6NEUwb2hnUktUdHVNUjc?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-07-30T15:20:00+00:00",
-    "raw_pub_date": "Thu, 30 Jul 2026 15:20:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8ac90ae0a03e42022dab07687ea1886feb8829be",
+    "title": "Renewed Iran war raises US missile supply concerns - Yahoo",
+    "summary": "Renewed Iran war raises US missile supply concerns Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFhaWHlCMUhWMkdyaHBWSmVhVC1hVkZRa2dXU1NJQ3JJemZHVlNOVFZ3bXZnU3ZNSWxfaVR6dlgwVEJPX1VNRS00VmtuSmtLMmZyZ3FabE9HM3JkQzM5TUh4M3pFTEV2NURGY0dXSEM2NEF6c2R1LVlyLXZLZ2VWNDQ1RDBocFVvZ0ZWaTRyTQ?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-07-30T18:42:55+00:00",
+    "raw_pub_date": "Thu, 30 Jul 2026 18:42:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3ba331722d8f02cadaccab58de2908e28edd7633",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Reports conflict spreading and new fronts opening, indicating rising tensions and escalation rather than de-escalation.",
-      "event_key": "conflict spreads new fronts"
+      "reason": "Discusses renewed war with Iran and US missile supply strains, indicating rising tensions and potential conflict escalation.",
+      "event_key": "renewed iran war us missile supply concerns"
+    }
+  },
+  {
+    "title": "Iran threatens to ‘punish the aggressor’ after US launches retaliatory strikes - The Hill",
+    "summary": "Iran threatens to ‘punish the aggressor’ after US launches retaliatory strikes The Hill",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVAycDFjQjNURzdKbjVMcjFhbmNYUDdxb0ZLdUNkRFpSX1hmZ0thT2xackNwQ1AyOGIwamg1dXNpRmM4b0N5VXNPVjJjTGhGdkJWZGxVNlZoQ052V05YYzNYWFpKWTJYcGRNNUcxaGNJT01ISzQtaEd5dTdXSm9WRUNaOGVKSkJ4bFRDcTZWWVLSAZYBQVVfeXFMTU5IaGs3VHZCZl9lTE93T0t1Y0hLQzh6N1R4cC1wSGRyRUZNUEdVY0NqYVhPamhJQmxtTFNmQ0Y3a1V3ZHo5OEZKQk82dWdLVDd5bEpDMmZCUzRRLXQzY3hDX0ROQVRvM3Nja1hBZ0plRGY4dkd2Zkk1R1FSZWdYUXp6b0dpRDVaS2tBVnJ4SXE5b1VCb21n?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-07-30T19:15:00+00:00",
+    "raw_pub_date": "Thu, 30 Jul 2026 19:15:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fcf7e8b173f73cccff149d732dde9ccde588f6ea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US launched retaliatory strikes and Iran threatened to punish the aggressor — direct military action and retaliation threat.",
+      "event_key": "us retaliatory strikes iran threatens punish"
+    }
+  },
+  {
+    "title": "U.S. launches more attacks on Iran after President Trump promised retaliation - khou.com",
+    "summary": "U.S. launches more attacks on Iran after President Trump promised retaliation khou.com",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMG1vMjI0eDN6dXJkZ1RpMFFseC16Vkt3cTd3Y01MZDJIUUtwTWdTSnRBcEFtSndYa2d1V0RPM1FhMnAyUURUQlpKQXFFMDRyVmZNN0JpRV9jSWdLN1p5aE1ObGVfUElpZXNTcmNNZGs4WlV3OTJidS0tcG5EOERtb1ZWMGQtRjhHQ3JDc1E0VkhXTlZuTmh3LWxvdE1CVFlnSXB2NXNlZHh0M0xZaFc5dFF2RWJqbk01eVUzcWFPTlltaVlCbWhaOGhtTVZwT1p1dXU1QzJnOGl5MW8tOE10bmZiVl9PR2loRlBHNTY0Y3FHdzg?oc=5",
+    "source": "khou.com",
+    "published_at": "2026-07-30T17:32:00+00:00",
+    "raw_pub_date": "Thu, 30 Jul 2026 17:32:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a08d3c3e7b313d1653b29aba9c3854c369660ef4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports of U.S. launching direct attacks on Iran following Trump's promise of retaliation.",
+      "event_key": "us attacks iran after trump retaliation"
+    }
+  },
+  {
+    "title": "US renews air strikes on Iran after Trump promised retaliation | The latest - 13WMAZ",
+    "summary": "US renews air strikes on Iran after Trump promised retaliation | The latest 13WMAZ",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM2V1aW53TndUTDJTRzdMbVY5OGxOME5IeTFsSm5TNWdPamh0WThhUmVJY3VIZFNrZWRKX3I3NUFnbXc5NEkzZkEtN0pQRkpxZmNVWVk0akZpMVlMNldpRlp6Z2NEVkdrb1dRRzBIWTA4VzhLUG9HdktOSDRpenpfck1RYWl5c0ZTUm02cTJ6d3lWYUFGenE3RFNsMkhBSDRFYVYxNmZTMWpVeDQ2NnM4QWloOC1ZTWl6aDJnaGNJbDNtckZSOGR1bWJONXJBMEZxdHhCNUtGaWl1SGJydzM3Ng?oc=5",
+    "source": "13WMAZ",
+    "published_at": "2026-07-30T19:06:00+00:00",
+    "raw_pub_date": "Thu, 30 Jul 2026 19:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cf8ed3318248c6ccb93115b411f6e2c988111b32",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US renewed direct air strikes on Iran following presidential promise of retaliation.",
+      "event_key": "us air strikes on iran renewed"
+    }
+  },
+  {
+    "title": "Lawmakers will investigate Iranian attack that killed 6 U.S. troops - The Washington Post",
+    "summary": "Lawmakers will investigate Iranian attack that killed 6 U.S. troops The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmhaTmN4cjZ4Zy1TcUREa2ZvOG4tSmRHR0R6S3p5R19Fa1p4WS1DZ09zOUtJOXd6ZkZRMTZVZUNkUWpoLWUtdDdOVF9nbWoxQmx1NGRCc1JQUFI5aS16bU5jY1plSkZGbkN0cUtTZDVCaGNHMUtZU2Y2N3ZlRXJvNVJ0Qnp6LUJNOHluRFE1cG5rTVVHYnFWaVdKWk9NdDZKdjZUU2xIMld0SFIxRWk0TXNnUlhMeTVUQndjZzUyaTNlUzBG?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-07-30T19:01:55+00:00",
+    "raw_pub_date": "Thu, 30 Jul 2026 19:01:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0ddea5511c009466559555741fbda76b12f7ad00",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports on an Iranian attack that killed six U.S. troops prompting a congressional investigation.",
+      "event_key": "iran attack killed 6 us troops investigation"
+    }
+  },
+  {
+    "title": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say - Military Times",
+    "summary": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say Military Times",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUllvbVJ1a1ExMDZydHRaV3JpNnNZWERQUmYxazJoX0lpVEJTWlFQOWZQLVA2TEpfT1l5VXBWdmF1NF92ZG1jSTJEWHhPX1YwOTBHa1FaYno1OVZXNE9KM1VUZXI1TlA5d01ZLUl0cVM5LXhlSUNiOERFdFl1MDY3WDB3S3JmQk9yTnNDUEhKdzJ1YmJYZU5JYjQ5bmNxTXA5MjBBX1NoUzF6aWhUSFh3cUhBOTFsRVE2SlFrdXo4Uzh4eFRRbzAwaGdURmNnUF9FLXhNajYxUXlKanBqMkRZUFI0azU?oc=5",
+    "source": "Military Times",
+    "published_at": "2026-07-30T17:48:44+00:00",
+    "raw_pub_date": "Thu, 30 Jul 2026 17:48:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4539b5435aacce7006c553d803cec2d70de80060",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "Patriot missile stockpile depletion signals military strain and heightened tensions stemming from the Iran conflict.",
+      "event_key": "patriot missile stockpile depletion"
     }
   }
 ]
