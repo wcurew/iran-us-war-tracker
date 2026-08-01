@@ -1,87 +1,53 @@
 [
   {
-    "title": "‘Trump seeks talks secretly, threatens war openly’: Iran hits out at US - Firstpost",
-    "summary": "‘Trump seeks talks secretly, threatens war openly’: Iran hits out at US Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFVQU2Rjd1V4ZjdELWZXZUFmOEx2eHJoeldiTEhEYkg1ZENrVmNZbUx0ZkZ4aUotdWJZaGt3ZkNKZ2xieWJFTWJFdldnMUZDM2VKWUZzcUU3OW54U0hhOWxpb2VXVUN0V2h5el9aMngwSUVDLTJUUG9fdTlueHd4OVRjQ1UtdlVzY2U0cFp3WElFa0VHVHZjdEdNZzZjTTFCWjZyNGd2REQ2dTAxallDdEFCc9IBuAFBVV95cUxQY1JGaTFlU0luVHVkNmtkRUUwaFI4Q1lqb1VLUkEydWNjcWtJMjBkby11TTh3ZkU0dmt2WkQ0ajJwWEVmWEh0WHhkYXEwbjFPYk1IUkZSdjFWTl8yekloRHpQcUpCQWJ1dUlEUDlxTkJzOGoxU0dyRjdnZG1pR3RtTTBMcWw5ajFBY3dQSzljeXpBc0t0MmI5T01hQVNhYzhXMURiakEydy1QRVFoT2F5dThYdnZQY2tF?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-08-01T15:17:26+00:00",
-    "raw_pub_date": "Sat, 01 Aug 2026 15:17:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3e6ba56b3ad0897534ec592e9403075d57af669e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran condemns Trump's mix of secret talks and open threats, signaling rising tensions.",
-      "event_key": "iran condemns trump secret talks and threats"
-    }
-  },
-  {
-    "title": "US Mulls Massive Strikes. Iran Hints At Retaliation Plan - International Business Times",
-    "summary": "US Mulls Massive Strikes. Iran Hints At Retaliation Plan International Business Times",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNME92dUJ4eFpwR2Z6LW1FLTd5ZVRrN1hsMWt0cFdSWTlrYlNvbGhfRUxhMi11dDlORUo0c0hpUXBRZDF2Nk4xdFY4NmItZDJwLUZyV3FHdGRVVlhKYS1OazZSOGtFTVc1NndmQU85S3hiS0NGMklpcmpkSmJCZTh0R2lEV1hHWWtTX25jRQ?oc=5",
-    "source": "International Business Times",
-    "published_at": "2026-08-01T15:48:22+00:00",
-    "raw_pub_date": "Sat, 01 Aug 2026 15:48:22 GMT",
+    "title": "Iran warns of escalation in Hormuz standoff, vows retaliation against any new US-led attack - Tehran Times",
+    "summary": "Iran warns of escalation in Hormuz standoff, vows retaliation against any new US-led attack Tehran Times",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWJBaVRLNWdhem9iT1FXRFpWUlJPMHB2Qkl4N1JOajlDWTl5bWl3c05wNjBjWHFQM3kzMzFWbzJPWG9pbVpkVXFZbTRRQUJJZWstRk9LNHBVaC1qbGFZX0FaU3hLdVBmRFRaUnFnTENpZ19lOTYwY2VieUlsVlVJeFBYdXA0Vk5oRXBmVVJ1b0RmeVY5aDB5YW0tVll2eHE2SEE?oc=5",
+    "source": "Tehran Times",
+    "published_at": "2026-08-01T17:07:03+00:00",
+    "raw_pub_date": "Sat, 01 Aug 2026 17:07:03 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "70dce7eb31ac2f1ec863b3014bac4640de8eb2ba",
+    "article_id": "39091f8a65cb32b8cc92897628597434eda16c8f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "US weighing massive strikes while Iran hints at retaliation raises tensions without confirmed attacks.",
-      "event_key": "us considers massive strikes iran hints retaliation"
+      "strength": 0.8,
+      "reason": "Iran's threats and vow to retaliate over the Hormuz standoff signal rising tensions and escalation.",
+      "event_key": "iran warns retaliation hormuz standoff"
     }
   },
   {
-    "title": "Report: U.S. lacks forces to defend Israel from Iranian missiles, general warns - Haaretz",
-    "summary": "Report: U.S. lacks forces to defend Israel from Iranian missiles, general warns Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObTE3ZkF5dXRVR0MwSWpucmlDWEZDREwxYTNNTzNhRkFkRURVbFVLNU9uZnRjNnRJWmVEMW13V3RKX0F6ZXJOZVU0YVpOS3RzX3ZKWDQxZUdTb2tpeDdxQ1JIODNKRThhcERSdGhuc3VXRWFkZlllcHY0X1BKN3BESFNMdHg5QXBwTXVlYlpEaXNFamEwZDhycGhBcW0ybmpsbE5vQXVDbklGRlI4RV94ZzBOSUFEVlJ1eEpMeWEwRWt2QlNoSTN6NkNzUXdzUTFtSTlHZ3N5NHgzVDJIM3FuV3NuZHZfaXpCSE5SM1laQUZ5UC1SbVlSYmx0OF9WX3BPNmVPX0NSWE9peGVnNGFocEtnLUVYUQ?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-08-01T13:56:00+00:00",
-    "raw_pub_date": "Sat, 01 Aug 2026 13:56:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2a74804f8f993bfb6eb018bdcdf7e3680ccc06be",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "General warns US cannot defend Israel from Iranian missiles, signaling heightened risk and rising tensions.",
-      "event_key": "us warning unable to defend israel from iranian missiles"
-    }
-  },
-  {
-    "title": "UAE calls for immediate de-escalation in US-Iran conflict - Gulf Business",
-    "summary": "UAE calls for immediate de-escalation in US-Iran conflict Gulf Business",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDU3QXN2NW9xMnVhMkc0MzFFU1Rrbk1HQlZLb1dfZHpuUWdrWkpoQVRKQnRLU3JJRmR1U1V5RmJGT2V4U2NNQklVS2dVdk5PWFBZOUZMeDNtbGwxQXNSMVItd2l2REFQVnR1dlg4MjlkaHdkeUFrd1Z0WGhjS0dlejlOTVliRVROanVtaEdZQ3Y1aDA2M1djN1R2S3FNaGdBUmktTA?oc=5",
-    "source": "Gulf Business",
-    "published_at": "2026-08-01T13:26:52+00:00",
-    "raw_pub_date": "Sat, 01 Aug 2026 13:26:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "320df5bc85d96697f23cbe91faa90e102bc73e3c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "UAE urging immediate de-escalation is a regional call for restraint, not an agreed ceasefire or direct negotiation.",
-      "event_key": "uae calls immediate deescalation us iran"
-    }
-  },
-  {
-    "title": "Report: US lacks naval forces to keep defending Israel from Iranian missiles - Ynetnews",
-    "summary": "Report: US lacks naval forces to keep defending Israel from Iranian missiles Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83bDdPakdFUjExcUMxeFd3UGJzRXZOeTRaTkFpYXdkaTVRaGpGMFo2UllGYzJwNENBMWNTR2l1cERTOTJQb29GVWthOHFhM2t1UkRia0t3?oc=5",
+    "title": "Israel boosts defenses ahead of possible US strike and sweeping Iranian threats - Ynetnews",
+    "summary": "Israel boosts defenses ahead of possible US strike and sweeping Iranian threats Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41VE4xRWJiV0tMd3RwU1B4aVlHWG8zUnBwWFVVeS0zUXhUaDE0TkYwZHlfTUJLWkIwLVljUGdxUzFxMHVrYUMwRkJHTkp2dVBKdld4UHF3?oc=5",
     "source": "Ynetnews",
-    "published_at": "2026-08-01T13:45:09+00:00",
-    "raw_pub_date": "Sat, 01 Aug 2026 13:45:09 GMT",
+    "published_at": "2026-08-01T17:08:17+00:00",
+    "raw_pub_date": "Sat, 01 Aug 2026 17:08:17 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c6babea5a55a10c3ef478c8754ce77a9ff1e897f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Defensive buildup and sweeping Iranian threats signal rising tensions and potential for military action.",
+      "event_key": "israel defenses possible us strike iran threats"
+    }
+  },
+  {
+    "title": "'Prepare to depart': US embassies issue alert across Middle East amid Iran tensions - The Times of India",
+    "summary": "'Prepare to depart': US embassies issue alert across Middle East amid Iran tensions The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXl2SEdreTlEM2RIZnBicGJDN3h0dEdwcG4ya2lnQzAwdFB6ZVdITDJxYzdwcEVQTG04UUF5VmlqTFQ4ZElTVF9CN2dZMzVKWlNXYUh5NnQwTWhJLTREZXcwbl9BcDV4aUYyQUJHWkZJaXppbGE3VFhRUWwydVBHSzk3UGJ2dEFYY0ZLLVhGYk9iQ1BzcmhPNUdLUUVTNFFoaWFnT3hkZzlMZFlXbF9GZGJCdWRsWnhaa25jOUh6YWVBSUNzV1p0RjhtN0VtNks5LXV3MV9Vd2xaaENCZmR5aVIxVUV2d9IB6wFBVV95cUxOYTJCX1FuMW1YZTJmX3hvS2hUam5sY0g1TmhKQVRhSGY5UmpHWG9sSWxfZEx1MnNCbm5zbTJHNWhsZWozT3h0LWxhT0ROMEhrTXQ0amI4cHJNdzR3a2JXYUZxSFJiVFN3UlQ5Y0Qwb1R2WlIzUDJNSDBTdzIyd2QxTXlFMlBMU1dxRS0wZTJlaUpBS2dpYXctRXM1WWszeGlrUTc2MEQxai1oR2lfNGF0aEY5QmFVdWZLdUVabGc3Sm9EWC1IdUxMT1lYQWFBa2tvWHo2ZkNYRjYyQURZNm9aamVDQkRGZHhxWTEw?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-08-01T17:29:00+00:00",
+    "raw_pub_date": "Sat, 01 Aug 2026 17:29:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "195c0c34b0cecb6064609408275f1f8207b3fc5d",
+    "article_id": "0c966aa10f05ba9cc19dab11905caa7047db143a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Highlights US naval shortfall defending Israel against Iranian missile threat, indicating heightened military tension and vulnerability.",
-      "event_key": "us naval shortfall defending israel from iranian missiles"
+      "reason": "US embassies issued departure alerts amid rising Iran-related tensions, signaling increased threat and escalation.",
+      "event_key": "us embassy alerts middle east iran tensions"
     }
   }
 ]
