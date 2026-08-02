@@ -1,19 +1,36 @@
 [
   {
-    "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says U.S. to stop new strikes - MS NOW",
-    "summary": "Trump says Mideast allies have reached outlines of deal to end Iran war, says U.S. to stop new strikes MS NOW",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGx4NFRYRzBaa3B2RTNfLVROcThRNUtnU0l1UVZhYlg4UmJ3Ql9BQnhVcmY5ZE9qUXBpMV9QMzU5OWw0QXd2MTVSNzZyLUZOUjZJUDZHQnhCYU56bXNIb2dJWWxlTkF1V0Qzb1BFZ0lOVWw3V290UlFsdHJRTGM2Y2ItSDNMb1hoVkhpcHNrS0JFQjZCRmpyaXpxX204cEk2RlN4Q2JCOEZDdDhqekZmWU5FYmNSQ1ZBY09tTEp4OC0?oc=5",
-    "source": "MS NOW",
-    "published_at": "2026-08-02T11:54:21+00:00",
-    "raw_pub_date": "Sun, 02 Aug 2026 11:54:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "667de7c70f19b295b86090c513a1efc10610d8de",
+    "title": "U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says - NBC News",
+    "summary": "U.S. agrees to pause attacks on Iran subject to ‘rapidly’ making deal, Trump says NBC News",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0FsRGVyTmhKN1lFZHVkMkdsREEzZkVqTWJHMDVkOE9mbXdmNklBQjFXUllKU2t5anpDbGhQdVdRRU9rWWxzSmhvV2ZoS09GRFc4Znk1QXlSMkYzbHFfd0VRb0Vuang0MTUwOE5BUGszb1gwTTVrNnZmVU1KWmxBNjZxZEpkSW9pU0ZRWllOc1pHcm5lOWJmYWIyc1JqT2tsYkdjcW1PTnhDbENlUktjWXJ4eEpnUEVZQTd4SXVR?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-08-02T13:21:00+00:00",
+    "raw_pub_date": "Sun, 02 Aug 2026 13:21:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "18ccc9f7f280fed1c6eb84e003f7370e420fe7e7",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Announced outline deal to end the war and U.S. will stop new strikes — explicit halt in attacks.",
-      "event_key": "outline deal end war us stop strikes"
+      "strength": 0.9,
+      "reason": "U.S. agreed to pause attacks on Iran pending a rapid deal—an explicit halt in planned hostilities.",
+      "event_key": "us pause attacks pending deal trump"
+    }
+  },
+  {
+    "title": "US embassies warn Americans as Iran threatens more choke points - The Daily Chronicle",
+    "summary": "US embassies warn Americans as Iran threatens more choke points The Daily Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDZQd3RxTDdDNnJPdTJlbkRtNmJIY0dNTUM1NWJDSU14bkhUOTZQODJXLUF0XzI4ZnZ5ekM3dVVLZlRtUjhLTTdOMEdWWWhObEM3Wk1vLVdNVHFUOXVVeFdTcWdEYWZGOV82TDBhcHZGLU1UbjhTV0I2M29oaUhMeFFPeUYzQnlJTlNra2IyUWMtTFFDaXYwVlZPU0NyNThsTFd4LWl6bw?oc=5",
+    "source": "The Daily Chronicle",
+    "published_at": "2026-08-02T15:48:29+00:00",
+    "raw_pub_date": "Sun, 02 Aug 2026 15:48:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e4c91a56aea620524a5330bbaeaa7dc742fb972b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran threatening additional choke points and US embassy warnings indicate rising tensions and hostile posture.",
+      "event_key": "iran threatens chokepoints us embassy warnings"
     }
   }
 ]
