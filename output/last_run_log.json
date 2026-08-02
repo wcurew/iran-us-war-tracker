@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-08-02T15:57:54+00:00",
+  "started_at_utc": "2026-08-02T19:05:14+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-08-02T13:14:44.987820+00:00",
-  "window_end_utc": "2026-08-02T15:57:54.291479+00:00",
+  "window_start_utc": "2026-08-02T15:57:54.291479+00:00",
+  "window_end_utc": "2026-08-02T19:05:14.549187+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 16,
-    "keyword_filtered": 6,
+    "time_filtered": 28,
+    "keyword_filtered": 3,
     "deduped": 3,
-    "after_seen_filter": 2,
-    "classified": 2
+    "after_seen_filter": 3,
+    "classified": 3
   },
-  "finished_at_utc": "2026-08-02T15:58:11+00:00",
+  "finished_at_utc": "2026-08-02T19:05:41+00:00",
   "summary": "상태 점수는 중립권이다. 이번 구간만으로 방향성을 단정하긴 어렵다."
 }
