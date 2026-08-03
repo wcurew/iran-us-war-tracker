@@ -1,461 +1,189 @@
 [
   {
-    "title": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes - CBS News",
-    "summary": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes CBS News",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTExVbGpfeGpwRzZoYzd1SlBvaWhnZVJoUXc3ekdDWWZ6alQ2ckh2dzhSV3B5VWVJLWZlSkp4bDltM3pQaXN1MHJBUWQ2NnV1UnFQeG05SWQ3akZJczRxd0lmaDVvd2R4R2VXQWZ2T2pLWXQydGowVDMtUWhYUTBNMzd0emxJUldOcHJ3SVF6UjcxUU5Tdm9SdDNkUQ?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-08-03T08:27:00+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:27:00 GMT",
+    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume - BBC",
+    "summary": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Y09LMUJHY2x5bzRGNXU4emF0RVpyckR3VjNPWnNJRzhYNUhpYzVUR1FUZkRqdWNfSmgyN1FUUlVGZUE5S2pJckxmaU90LTF0aTFpbXFBeHhDdw?oc=5",
+    "source": "BBC",
+    "published_at": "2026-08-03T14:18:30+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 14:18:30 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dcc214aa256090718fd3704ae86d86198447c957",
+    "article_id": "5516ae35b22b29c067ef935a2531f9a028671028",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Reports U.S.-Iran negotiations beginning after strikes were called off, indicating active diplomatic talks.",
-      "event_key": "us iran negotiations start after called off strikes"
-    }
-  },
-  {
-    "title": "Iran denies negotiating with US after Trump announces talks - RFI",
-    "summary": "Iran denies negotiating with US after Trump announces talks RFI",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0ZtdzB1NzFyWnRIYjF5c1A1QlF5bmZXaEVVMEUyZjdNbzVQMUZwbzNYR3I2MjFtenpyN0htdjNReUt5TTFlYmpjeXVLa0ZlTFFtaW9qZmtTbzJ0N3B2aWRrMWdqaDUxUGw5VVdQVGZvZmZmVTJ5ZUJRaU9uaW5iQUQwS2YxZDYyOHZwVjUtMDdRRnNFSC14elFScExrbEE2bkhZd293RGdaMnExZHc?oc=5",
-    "source": "RFI",
-    "published_at": "2026-08-03T08:50:15+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:50:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0e4458be7c4b99d253b67bd72273e98e4a8861bc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran's denial rejects US claim of talks, undermining diplomacy and increasing tensions.",
-      "event_key": "iran denies us negotiations after trump claim"
-    }
-  },
-  {
-    "title": "Iran denies any US talks after Trump says negotiations to start Monday - The Arab Weekly",
-    "summary": "Iran denies any US talks after Trump says negotiations to start Monday The Arab Weekly",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1hyVE94dU9hN1NMS0NsZFRlY2k5UVFJcjk0UGZLcERtSUJJQlVnUm1hUFNGeHJkNjlqWC1OX0I3V3oxcXdzM3RPQzlVczdTVTFmMi1BMVA1MzNTWFdBWXBpM1NJVFJBaUlJY1F5LVlNMDN1R1JHcFVCUEJybG1lT1BTdEdGdXl6ZEhsN3BKSkkzRklZVnFj?oc=5",
-    "source": "The Arab Weekly",
-    "published_at": "2026-08-03T10:22:44+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 10:22:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ef4f2239c8c63515044318e9a98d1ad005ccb0e7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran denies US talks, rejecting Trump's claim and indicating a breakdown in diplomatic engagement.",
-      "event_key": "iran denies us talks after trump claim"
+      "reason": "Iran engaged in mediated talks with Oman while denying direct US talks despite Trump saying negotiations would resume.",
+      "event_key": "iran oman talks no us contact"
     }
   },
   {
-    "title": "Iran denies talks with US as Trump halts strikes at the last minute - Middle East Eye",
-    "summary": "Iran denies talks with US as Trump halts strikes at the last minute Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZkODdGbF9yeU5mWHZLVVBuZlZHUHZXVGpkV0FRREgwdWdiTmlPVWl2dmY0WFJVTGVhcU1fakI3QzNwRzhBaEk3a2gwYW83cmRROEVTdHVRR1AwWkM2VUw3QmxRTnFuUVJPRUJZY1hiR0ZDUEttZ2Izb2pJZ21OUjVqTkxCZkNZcFRpTFhjNXA?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-08-03T11:45:51+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 11:45:51 GMT",
+    "title": "Iran denies Trump’s claim of diplomacy talks - The American Bazaar",
+    "summary": "Iran denies Trump’s claim of diplomacy talks The American Bazaar",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUxHYkVLMWxlRlBTaDVFN0dCUHVLaDRuQTNlUnA5VGRfOGFGUi1iWldIQ1lXb0ltMmJ3d3U3aUhieUIwZUpFMHR0ZHJmTmMyR2lJbVFkUkhRRWN1RW9Ud3l4V0RsU1dCTDAwZjdaMHJsYnBRTGRhaXBpUVhkY0dLQlNNM29pTjh1WHgzalZCelhDQ0gxT1JYVGpvZw?oc=5",
+    "source": "The American Bazaar",
+    "published_at": "2026-08-03T15:41:17+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 15:41:17 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ada2eef65e399a8056145769567aa69b7a5d066",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.75,
-      "reason": "US halted planned strikes at last minute showing restraint; Iran denies talks, signaling de-escalation rather than active diplomacy.",
-      "event_key": "us halts strikes iran denies talks"
-    }
-  },
-  {
-    "title": "Iran denies Trump claim new peace talks planned after US calls off attack - New York Post",
-    "summary": "Iran denies Trump claim new peace talks planned after US calls off attack New York Post",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0NaOGFkanNiVW1HdnNGWFJVUk1EcDJCVC04VWJLWU1icm5WYko4V3pIYnBZcFhVQ2pyWU9FZUZIYVRZNHF2bWo5Vm9nRktLNGJwRklHT3QySmtEbElzbzNiWUZvSFFGaWdydTdnUGNmUHZlWXZST0FMeGlpYzJvUmFCRlZmemxTTTdpSzBWbEtTb2RFMm9lY1ZGTEY0LVN3ODkwdDN2V3F3REkxaENVYmFaSmhDQQ?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-08-03T11:52:15+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 11:52:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e69c351e15ec5f2f5b1edb6a7194aac6fa410932",
+    "article_id": "7b014a5450f463495714a1c59c967b9ca9d09d0f",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.35,
-      "reason": "Iran denies US claim that new peace talks were planned after a cancelled US attack.",
-      "event_key": "iran denies new peace talks claim"
+      "strength": 0.4,
+      "reason": "Iran denies Trump's claim of diplomatic talks, pertaining to negotiation status.",
+      "event_key": "iran denies trump diplomacy claim"
     }
   },
   {
-    "title": "Iranian foreign ministry denies ongoing talks with US - turkiyetoday.com",
-    "summary": "Iranian foreign ministry denies ongoing talks with US turkiyetoday.com",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYklfMUxQc0RNYlY1dUlKWnJLMlZlZlJuRzJxWi1wRmdFN0NLLVF0QWFiQXRTVE80bVVsMzdFTV9BMWFsVFBMbG02QjJTRkR2Y1NRY3FUNFFGSWNlSll2UVVRR2pqNjFKb2NvdGxHc256dGRBdVNLd240QmNkaTJVUG9nQndQNUNYRXVBRDl0cFNMUGM?oc=5",
-    "source": "turkiyetoday.com",
-    "published_at": "2026-08-03T08:22:06+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:22:06 GMT",
+    "title": "Iran rejects Trump's claim of US talks, says negotiations only with Oman on Hormuz - Firstpost",
+    "summary": "Iran rejects Trump's claim of US talks, says negotiations only with Oman on Hormuz Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUTRDeGtWUHN4QVdqbG10R3o2RjlPNzJibXRLR1RnN3NZc0NPYy1kdEx5dHhTMU1IWWFzNVFRY0piaUd4S3YyQzJMbW1TTnFfbkVPN3hSU2k1N3FKbWVGenQ1VFZFU0tfbVB5dy1nNGtORHhnUXRRU1VrRVlwSVY0dTFNRVB5aGd6ZFRYemxSQjVMdnF5WDRmMXNEdHN6QXp0MlkwT2lyZGw3TG1YYjlEZWwxWldXT1IzN3pmWFFtY29SUDNa0gHKAUFVX3lxTE84djhaMzl2ME9zUzlBM1VIYjBhWkN4TDhUdTh6dVZjRmZqMGo2QnlHVExlWjJZSE43MXpNdWlKTEdtZEpzUDlwbmNibjZ1SkpRQUNISHpaMzZzOEpuaVV3blRwYlZ1RWFjaWtVZmwzOUZRdFdqNkJxR0dpYjYyNk0xWUloSVF1c0FqSF9mSU8xdlpOSUJTN2IyTmhWM25TTXZKenFnS2ZwSTRGZTY5MEJJTmUyUF9mMU5QbjRiRUZhNHMtNzRsWUpMRXc?oc=5",
+    "source": "Firstpost",
+    "published_at": "2026-08-03T13:31:24+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 13:31:24 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7608812b7dccda4fb7f3b4366854e6cf5b55d845",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Foreign ministry denial signals breakdown/rejection of diplomatic engagement, increasing tensions.",
-      "event_key": "iran denies talks with us"
-    }
-  },
-  {
-    "title": "Iran says no current talks with U.S. - Reuters",
-    "summary": "Iran says no current talks with U.S. Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTE5hZ0ZnQjBGVFdjTV9kRkdQWm9oaWd0VG9UQ084WGJvRmFoNElkSG5Ec0xocHdYTDdUM1JTd3RYQ0kybnN0dXB5T2hwNFEwSktaZ05FNGxzbUFwd0FqWEl4WWQyVzBCaVowNUpTWGNad19MdERreFFYSEYwWkVuekpwOW1VeE5lVkR6eDBaOGdPZw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-03T07:29:55+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 07:29:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "771fa4b985f460307ff3f5c197f9839f06b638f6",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.35,
-      "reason": "Iran's statement denies ongoing talks, indicating a lack of diplomatic engagement and potential breakdown in dialogue.",
-      "event_key": "iran no current talks with us"
-    }
-  },
-  {
-    "title": "Iran says no talks with US on Hormuz, deal with Oman won’t open strait - The Times of Israel",
-    "summary": "Iran says no talks with US on Hormuz, deal with Oman won’t open strait The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakwxd2U5M2Z3NmdrNElsdkNJRmJnTjlvTjE2MEd2c0lXemZQVEQtSDlTRHEyU3JDQnhXZG8yVmhqcV9PVVFaeDYyZ3JTeFRkZWhzSW5LM3c1dE9BLVZqaWVWWWtBazNiaXJFZm03RmZFaGJlRGFmNHh5MTdLeVBtbkZrSjN0b2tLR0Nkb01rblZ5Ynh2N1A5Mkl3dWYwMEUyUVgzWkR4SGs1RnlGMnRrZ0hZd1M?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-08-03T07:48:42+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 07:48:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1e03d1afdabe9a487ace201ad918030c6a3a0763",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran rejects talks with the US on the Strait of Hormuz, signaling diplomatic breakdown.",
-      "event_key": "iran rejects hormuz talks"
-    }
-  },
-  {
-    "title": "Iran denies US talks despite Trump saying a deal is taking shape - Straight Arrow",
-    "summary": "Iran denies US talks despite Trump saying a deal is taking shape Straight Arrow",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGM2QmtmQ1FlX3pxcU5XTkdFdGNaNDg0cEtNMTBVd0JDV0lhd2NTTFk4QVRHaUNESGZDUHp4aXNvaVhvMFB3Xzh0WUVOWERIaEVNX0wzUkRnRVEwWWZqbzRXT05xRHozOXVJYTBaamljSFRRUXAzTnR2NDFMdTN5cE1zeWlCbWxhdTVWZw?oc=5",
-    "source": "Straight Arrow",
-    "published_at": "2026-08-03T10:42:54+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 10:42:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c4b3f36aa08ed3f2136140aa03e14fe19073c515",
+    "article_id": "89a30a82e5ea7e65778db71fab44c55e2e4b0c75",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Reports of a potential deal and Iran's denial concern diplomatic talks between the US and Iran.",
-      "event_key": "us iran talks denial"
-    }
-  },
-  {
-    "title": "Iran denies holding talks with US as Trump touts imminent deal - The New Arab",
-    "summary": "Iran denies holding talks with US as Trump touts imminent deal The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObllXZmtyNEd2bXUzWTJuTVRZeEp2b3FCeVFyaUlqWENLZXJ5ZkppWnZYTll6S3F0LVp5Smx0VjkwUlNnZllDWFdLSV8zdFdrLW8xYTRxOE1aQ3RwaDN1RWRHMzBvVTJ6aVNfWUpLbUFFNElJYmNPM3RHd1RScnItbElQcjl0eFhkeVhZ0gGQAUFVX3lxTE1wM2QxTUF3cmJnY01uVUV1cFh3bnY4V0JtTXNPUVJLbFdKTVFyYm1nVk80TnJVa0NVQVZGVDVzNTVyN0RJN0FQSlcxRjJKczZmbnN0NlNiOUdqUHFncDJERWs2akpDdkZGLXNxUTZXVWdadWpWazN1X19ubFFVdVNjRTVmcGhiTHNleGkxNGtmOQ?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-08-03T09:23:20+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 09:23:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "29e12e699a989828de8268dbb8ffc6115f1e456a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
       "strength": 0.5,
-      "reason": "Iran denies holding talks after Trump touted an imminent deal, indicating diplomatic breakdown/tension.",
-      "event_key": "iran denies us talks trump imminent deal"
+      "reason": "Iran denies direct US talks, says negotiations only with Oman regarding the Strait of Hormuz (mediated diplomacy).",
+      "event_key": "iran denies us talks oman mediation hormuz"
     }
   },
   {
-    "title": "‘No date or venue’ finalized yet for resumption of US-Iran direct talks: Sources - Anadolu Ajansı",
-    "summary": "‘No date or venue’ finalized yet for resumption of US-Iran direct talks: Sources Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFlldkM5cHRZakFuc2tqX1NiWWtHaVpfOEZBRTZQRzh1OTJnUWVPNmxJVGl4NGowY1ZHZDNoLVI4Y2RmejRKOXBkMFlFeHZLNENrQXdHZUgyTzBnZXVNbE1XRVFqWno1eGcwT1VRQ0pOdTdYOW9OUXNGTjJWbzZVNUNfb3R5YnJzTkhKV0Z6ZkxfMTM2NEVoYjZvLVRyMmZYX0lNRm5qTG56dnJ5NWc3S3dUQTZ5LVhxbm5zaWR3c2dobURfUnNINnNn?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-08-03T10:58:55+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 10:58:55 GMT",
+    "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz - The New York Times",
+    "summary": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmtpMFZCdHdaTnJDVDBwbWhTQlZ6NGo2c09uYUl0TjYxRkZlaTR5RjlYSWZob0U5blUzWTJhNk43ZTl5SHhRYWJ4eVlGSnc3dVNuMzJpQTdQenNkYUNkNHJ3bkFXZmNCQ1J5T3V2dUFsMmZFdHlaN0NKUzJKTmxKTThVTDI5U05kbjl2bTgxMDVGaFRiU3hqRklkdw?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-08-03T16:11:52+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 16:11:52 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e62206dfd2f191ba13d1aaaeb77e05ce2d7c9f8d",
+    "article_id": "f113d27a8898de33e10b6f42b60fa5c33a22fcf3",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "Reports state talks to resume but date/venue unset, indicating ongoing negotiations.",
-      "event_key": "us iran direct talks resumption pending"
+      "reason": "Iran denies current talks after Trump claimed progress, signaling diplomatic breakdown and rising tensions over the Strait of Hormuz.",
+      "event_key": "iran denies talks after trump hormuz"
     }
   },
   {
-    "title": "European shares start August higher on US-Iran diplomacy hopes - Reuters",
-    "summary": "European shares start August higher on US-Iran diplomacy hopes Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTFMX3ViRVNlS2F6ZEUtaU9RMHgydW1RREh3MC1iX3puek9aYmN4WHJucExCRXFaa2tNSk9KRGF5bnhMN1hGY0dxYzJxdHJNOVJwQndjSkFCOFRaNEFqRDc1eTFGU1RESk9sVU9UNWVGUDR3RkdTUkQ0ZjJ5anVBT2hmQ2dKRTBhSy1za1psQkZ6bzdrRXNnVUZncDRzT1dnMmVqU0Nvcw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-03T09:10:31+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 09:10:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "97cd3ae2f9e995db8b9192b85bd00d267229af04",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.3,
-      "reason": "Market gains driven by hopes for diplomatic engagement, not reporting active talks or agreements.",
-      "event_key": "us iran diplomacy hopes"
-    }
-  },
-  {
-    "title": "European Shares Start August Higher on US-Iran Diplomacy Hopes - U.S. News - Money",
-    "summary": "European Shares Start August Higher on US-Iran Diplomacy Hopes U.S. News - Money",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmV2ZndBZDVrR1hETnlLZVlYOTNpa2JGY25ZVUthMWk2OXZHZ3pNdmtsVjZmVld4T2JfVFRzbU8xUlBiNHU1TG9tMG9fNW5xeDdZTWhBLUxKZGRrclRlalZfR0hSWWJCTUFzaFBSbGlTempVNjVVWlZQemsyT1Jzc3VHMmYtTDkteG85bHZhM3VlVzh6cG9Nc3BJREVZWVVtVTBDQ2ZvWHBqLTVDQjNqSlRuZjI3c2paM3ptemp1TQ?oc=5",
-    "source": "U.S. News - Money",
-    "published_at": "2026-08-03T07:43:31+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 07:43:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "472f3350bfaf796a71a0624a79c82bcb457a4636",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.3,
-      "reason": "Markets rose on hopes of renewed US‑Iran diplomacy, implying talks or engagement rather than military action.",
-      "event_key": "us iran diplomacy hopes"
-    }
-  },
-  {
-    "title": "Iran Denies US Talks as Trump Again Pulls Back from Military Action - Modern Diplomacy",
-    "summary": "Iran Denies US Talks as Trump Again Pulls Back from Military Action Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVlCZTlYS01pZk1JUjFTWFFhUXBHYm9JWHRwMldRX2hKN0N4ejJaR3B3bkllVlhNTEM2dlNUU09QQVVKb2lQemJzU2FsaU9WTHFZRUNNVllfTHZSOG1MeFdONFhpNmk3N3AwcUZ6Z1BpMHBVcFZsT1pFcjRmNFI2YWpOd2dfX2ttX3E4eVdQVmVQSXJoSnBuRmo0U0FERVY2RlAzNlJzbGNWZw?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-08-03T10:50:40+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 10:50:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1d87dd1e2038a1f223a52d4a249e5702ea2e8d92",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Trump pulls back from military action while Iran denies talks, indicating restraint and avoidance of immediate escalation.",
-      "event_key": "trump pulls back military action iran denies talks"
-    }
-  },
-  {
-    "title": "U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran - WSJ",
-    "summary": "U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGpWM3pZYmQwSUU5VjhWOVdfYlp5NGVDZDQyQTdfYTE4c0ltTVVlRDZLR0R1SzF4aE9UUnRmTFNzbDZ1dzVGTGdjZkpLejZEQVItUXRscVhrbFRRN3ZoSFRrMkNlYk82WmNRbGpVTTN0MkNicF9UaXVDSFJub3pENW00UHJqTVBUd3BCMTVVajJBLURCLVZVOHNTWmQ1NWRocEM1Z2lpb3owNjBhMU5qUHpsdEY5dHdQ?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-08-03T08:26:00+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:26:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "32e73cbb1b74d2ecd7cff2cd05c1dbba33a48068",
+    "title": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran - The Guardian",
+    "summary": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlZNN3YxdlBrMlh4djFYOTlDSkhQX3gyeTlreW5pb1NWVDFDVzVzM1QzWkNWaDdfTHpmTVRyeVRnLS1sakdfVnZYTzdDSzRHTi1aRy1xSzJPaHJnZl9yUlRNZ2N1SV9lc3p4Qm5XLUlPZ0dvWWJsc0VNMDZwYWJJSE5RTXB3dXlGM1ZaMFpzLVZvTGpNZ1ZUX1hyak5TZzhWVGRMdDFOUUZRYXo3eDJaY1Nn?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-08-03T16:09:00+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 16:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "335c9b75f7c8297c6d07f489e2a586696864f52d",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "U.S. shifting toward diplomacy indicates active diplomatic engagement or talks to address tensions with Iran.",
-      "event_key": "us moves toward diplomacy with iran"
+      "reason": "Iran conducting diplomatic talks with Oman on shipping; US negotiations explicitly on hold.",
+      "event_key": "iran oman shipping talks us negotiations on hold"
     }
   },
   {
-    "title": "European Midday Briefing : Shares Rise, Oil Tumbles on Renewed U.S.-Iran Diplomacy - marketscreener.com",
-    "summary": "European Midday Briefing : Shares Rise, Oil Tumbles on Renewed U.S.-Iran Diplomacy marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERpbXcwS1FDUllMRHNuRkpOQjZvX3YtZEt5emNnaVJHdEpYbHl0NzFhMDY5aDlFSlZpMzFINmRVa3gwU21SQ2ZHUDJMQ2tVcGJKamVjUC1DMnphY1pWZGoxOFdHXzBZQ1hIcXNpckhRdEl2RGE0WXBOU0owVzFyUUxRVThzODFlLVVJRHppa1JGbUtoUUtjTE1welc5U3p3UXVHMDA3SnhSSDVqWkJOU2tUOXR4V0hkc3BfZUlxX2VNcDFWQW1vbXRwMA?oc=5",
-    "source": "marketscreener.com",
-    "published_at": "2026-08-03T09:15:24+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 09:15:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5674ce336182062e11669c08ac3e0f2e2312cb39",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports of renewed U.S.-Iran diplomacy driving markets, indicating active talks.",
-      "event_key": "renewed us iran diplomacy"
-    }
-  },
-  {
-    "title": "European shares start August higher on US-Iran diplomacy hopes - marketscreener.com",
-    "summary": "European shares start August higher on US-Iran diplomacy hopes marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTFDTE1ZeG9vdmJCdnYxQmtXaUVsZ2tERV9BX3E3Sjd0RlJHcHFQMC12cVgyUGlmZ1RRODNSbkREUXkxbXZzU0txQmZLN1pYc0hKNE43cjJtbmRGeEZMb3Mxd1hNTlNsME5PLUpPM1pCVjFIeGhaVEtJenJ2Sk1vYi1Gc3NIWGc0TnNHT1ljbGc5WE5oNHlqWnpIZ2VDY2liSFZHeWdTXzlXNUg1T2NnOWF1eTFtUQ?oc=5",
-    "source": "marketscreener.com",
-    "published_at": "2026-08-03T07:24:39+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 07:24:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fdb0284d2f6510c118c9716f8dd026fdc3ab4358",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.45,
-      "reason": "Markets rose on hopes of diplomacy—a soft calming signal rather than confirmed talks or agreements.",
-      "event_key": "us iran diplomacy hopes"
-    }
-  },
-  {
-    "title": "Trump Says New Iran Talks to Begin Today as US Delays ‘Major’ Attack - The Diplomatic Insight",
-    "summary": "Trump Says New Iran Talks to Begin Today as US Delays ‘Major’ Attack The Diplomatic Insight",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ2MyNnRHTm00LXVLMF9xcktqQ3kxRF9yeHg1MkFldHIzU2VmU2IydnBscWNLTFNkSTVxZTR4NXNqckhHWV9NRnNoMWNsN1g0WHA3b1MwQ3N1VXVDN28tajBLSXhYaHV6X01QQ1BBd1pIZmxqbnp3cTRUeEdKNndrT2Vrbkh4bXlJQjdaX2hVY0hmeFY2?oc=5",
-    "source": "The Diplomatic Insight",
-    "published_at": "2026-08-03T06:45:30+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 06:45:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1506c76d489d45253a6ae1242a35c370a084744a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "New talks are beginning and the US delayed a planned major attack, indicating active diplomatic engagement.",
-      "event_key": "iran us new talks us delays attack"
-    }
-  },
-  {
-    "title": "US military launches 'powerful' retaliatory strikes on Iran - The Daily Star",
-    "summary": "US military launches 'powerful' retaliatory strikes on Iran The Daily Star",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeW14aXpMVzRpZ0xZV0tzUEx5Q001Z3g1TEhzQnRQY3dyc1N0d2VzZnM3Y19MRmUxOGtFSlhCZHo4ZWFTU3pHLWRnV3EzVGt5cjBVZzhySjNkVGkwR205XzNzNG1OTDZRdjJ3Nm5XT2U4LXhTY1V0RHZGcl9PQjhrbDlaMEozOHlkdzY1bVhtUVNJcWJOenE0Njh3MV9yTG51UXlDdnlfT29UcjEyZnYtS1dYaXVlWkpyaTFPazBqNEZvRW5f?oc=5",
-    "source": "The Daily Star",
-    "published_at": "2026-08-03T10:21:23+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 10:21:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "01d607dd1b9fd4e22ca29d623a3324f777fe3f41",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "Direct US retaliatory military strikes on Iran reported.",
-      "event_key": "us retaliatory strikes on iran"
-    }
-  },
-  {
-    "title": "Iran denies negotiating with US after Trump announces talks - France 24",
-    "summary": "Iran denies negotiating with US after Trump announces talks France 24",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGF1ZDNWcUFVOElCSjYzLVZkZERMdTNPQmFyS0xmSlFqc3JkaWhKVVBPaWFlVjRXdWJpU3dVbjFyc05qUjhFRFFxTkJ5cnJHMGRtT0RKemxEb3ljY2hPRHZOYjZmZmhvWFF1UlhBd2o4NUg1OUU3LXpvRk9ETGRhQjhkQ3lLN3hNeURGaWE1eUNyV0lRWnNFbUVfVm5rTVo4Rng0RTNaZVo1QQ?oc=5",
-    "source": "France 24",
-    "published_at": "2026-08-03T08:51:10+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:51:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cf1eb7300b8da4704323bab3a0b5b74b3596d3f0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.3,
-      "reason": "Iran denies engaging in talks after Trump announced negotiations, contradicting claimed diplomatic contact.",
-      "event_key": "iran denies negotiations after trump announcement"
-    }
-  },
-  {
-    "title": "Opinion | Iran’s missile attack was a surprise. It should not have been. - The Washington Post",
-    "summary": "Opinion | Iran’s missile attack was a surprise. It should not have been. The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0FxV3A1aHNOMVUzNlZBV2VSYXlwV2FhYS1URFAtSVhqOGRpWHdiVkZHRWFXY0RPN1Bza00wN2dvN2Fvcnlqc2xVeVl4WVZ6cE85REVobk1vc25ZaHhPZDZrYUMxV21OQTZwQzVZTFJ1QmRiZkUwMnpmRUk4d1pLX1hMOThYQ0pULWtZMGFJdGhaVWVlMmh6bjRXelZBQWhlS3N3OGh3UGpsejItZ1Z1V3dBUXc?oc=5",
+    "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - The Washington Post",
+    "summary": "Trump claims Iran talks will start Monday, and other developments in the Middle East The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa29qckpiTDQ0c2xibVFNRGVPVmtQYUpoRW1BcXBqVER4RGJpQWlPLU8wazdNSmduSXJtUTRKOG9BbHNZUklfazFTRWIwNHVBTU16WWhYY3Q3d1pzbnJfZ1dDSUpyOHEzbkNuTjliNk5FS1FMWVI4YXBIMUNkS2ZSak5aZVZuUmg2a2FrYU8zLXdXT1AwYUthR3dJUHFSNEF1Zlh0SFhzc2NlS3gzRC1EMEtUejVRNFNvbE8yNmx1c0NONFNWVlFuaEhMMkN4Vk41OFE?oc=5",
     "source": "The Washington Post",
-    "published_at": "2026-08-03T11:32:31+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 11:32:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f959913e2b71365df41aeb5d4a9da4dede1a8365",
+    "published_at": "2026-08-03T16:41:47+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 16:41:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6207942ab277fe54a41bf5000b3f1c6b81620574",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Opinion piece about Iran's missile attack—direct military strike/retaliation.",
-      "event_key": "iran missile attack"
-    }
-  },
-  {
-    "title": "How Iran is widening its pressure campaign to force US concessions - Reuters",
-    "summary": "How Iran is widening its pressure campaign to force US concessions Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-03T10:02:50+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 10:02:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b2f5fbe3788799e63e02c651429e510c4dd2e700",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "escalation",
+      "label": "negotiation",
       "strength": 0.7,
-      "reason": "Iran widening pressure campaign to force US concessions indicates rising tensions and escalation tactics.",
-      "event_key": "iran widening pressure campaign"
+      "reason": "Trump claims talks with Iran will start Monday, indicating active diplomatic engagement.",
+      "event_key": "trump claims iran talks start"
     }
   },
   {
-    "title": "Ukraine 'in a bind' as Iran conflict depletes US missile stockpile - Fox News",
-    "summary": "Ukraine 'in a bind' as Iran conflict depletes US missile stockpile Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HSi0wNzMwZkMxZjZjRlFhQVJxanlKZUVnVTFMb0lESU9ZSGdQZVQzVlFlTF9Nc2lLUEVfdVhRVVh4SUdLLUNfSTJFVVRoNkYzdVhvLXpn?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-08-03T11:11:51+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 11:11:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4ef006d8a375a2f2de4a9b88be6054aaeef746d7",
+    "title": "Iran Says No Talks With the U.S. on Hormuz Strait - WSJ",
+    "summary": "Iran Says No Talks With the U.S. on Hormuz Strait WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFUTU1GcHRtYTEySDM5UWM0Ykh5b29ZbG5vbDFjUkVxNkpha2ZvSzBwdEpfRW1aX3RxVVdWcjlNSTQyRS1BTW1NZm1IU0ItblZoSk5tNEFDNzFlTGdOcG9ZcmJJMlpwRTRjR184eTlZV1pSaFdBWmlqS0hFZWUyVDYtZTBDeXRqbTh1bXA4RzBqU2QtZ1gyMzN5Yw?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-08-03T16:54:02+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 16:54:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b242e3af93318b05c298e17daafe7525a4299afc",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.65,
-      "reason": "Ongoing Iran-related military actions draining US missile stocks, signaling rising tensions and increased military activity.",
-      "event_key": "us iran missile stockpile depletion escalation"
+      "strength": 0.6,
+      "reason": "Iran rejects talks with the U.S. over the Strait of Hormuz, signaling breakdown of diplomatic engagement.",
+      "event_key": "iran no talks hormuz"
     }
   },
   {
-    "title": "U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes - CNBC",
-    "summary": "U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes CNBC",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUFXSlRPMTVtemNDTGxtNlYza2JNZG56U0Q1SXhwZ0JQT0g3dUJqMTVMQjh5MXJoQUZsVWxyV0F0U0lvUEI0MXg5c2xhRU1nYnM4MjdVdjRQNjJOTXp1RkNnTmRWZFM0VnZRSkxrczBwdi1tT0ZJakRocDZ6cXlkbdIBhgFBVV95cUxNdTlKOEJBTWt2SDJBMnFpTnN5NWEtZ3o4Q1J4endZazl5QmJLN1lUTm84N1ZwVlo1REx2OTBfOThZQThXRnI0aEJmbGRNaFpQbl9TM25jU1lhdzFzdzFBbFhJdGVFX0NTLTZrZ3FLLWg4Y00xX1RwM1VjVmR2SDN5Ukx0SFdqZw?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-08-03T08:33:35+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:33:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0a34213be1189da6067e293f472f0b328a97c26c",
+    "title": "Iran denies negotiations with US after Trump calls off strikes - Al-Monitor",
+    "summary": "Iran denies negotiations with US after Trump calls off strikes Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM254YVZNTjBUVXFKS2Ryb2ZheElMZXpDNjlNUE8zbVVJNnVhYlBVUVNzalZOWjhlSjZGM0N2cWtvTW16ZXhxWkhucEZsMFRVbjU1Q1dQMkp1ZTZoRHM0UjVUR2VEbGVrRHItNHktYkd1bDNheFVjZlRldUdsSDVoMHJiem45WkJEYXYyV3ZCVlpCOGxEd0FNQTRncjBQYzVfSWpfLQ?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-08-03T13:41:00+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 13:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "24d5f9b4fed249ec6aff9b98ea5d9be8fc78a45d",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Markets reacted to signs/hopes of Iran tensions easing, not a formal ceasefire or direct strikes.",
-      "event_key": "iran deescalation market reaction"
+      "reason": "Trump called off strikes (restraint) and Iran denies talks—signals avoidance of immediate escalation without formal negotiations or ceasefire.",
+      "event_key": "trump called off strikes iran denies talks"
     }
   },
   {
-    "title": "Israel and the US-Iran Escalation: Anticipating a Wider Confrontation - epc.ae",
-    "summary": "Israel and the US-Iran Escalation: Anticipating a Wider Confrontation epc.ae",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmZlb2ZJQUJzdW5jWjcwb1RBUVpabVlUWEJhdjFwdm9HY1NYeS1EM1BRN19CZ1lZMHpwT25LMmplZUVBc2NDcWs5NF9fRUs0NGVwNVQtWTZjZlprLXRYRDVLaFA3YzlzTVdNaDd2cTdKZTlfM3Z1cExkMUpqOFJObUg4aWNPY1AwWVNxTkhEUkxpS3B4Y1RRVjdYSXYtaW1Nenc?oc=5",
-    "source": "epc.ae",
-    "published_at": "2026-08-03T12:10:24+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 12:10:24 GMT",
+    "title": "Switzerland in contact with Iran, US over possible talks - IRGC outlet - Iran International",
+    "summary": "Switzerland in contact with Iran, US over possible talks - IRGC outlet Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XdGdsbVgxLVVibmxMX1ZDZ2J4U3VlM2MyNUZEMWJKYWFoclptX1V5dHY3SzhyQ1AzdlNzWUdYM1lhckRZQjhPNkFHcVVXYWs2OGc?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-08-03T14:59:39+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 14:59:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "44605f96bd7209b5b10a3fc85e9282bb7d7eab4c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Switzerland mediating contacts between Iran and the US about possible talks.",
+      "event_key": "switzerland mediated contacts iran us"
+    }
+  },
+  {
+    "title": "US military showcases paratrooper training amid Iran war escalation fears - Iran International",
+    "summary": "US military showcases paratrooper training amid Iran war escalation fears Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLSzBXT2F2Vmc3TkVKQjMxS1RGWmZlQVNIQVJoZmZzQ1ZWZFFiYjVWaXQzOU1tcFNYMHBTM0ZraWFlSVdBNzd5N0Vjb3VLN2ZNb2c?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-08-03T14:57:17+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 14:57:17 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a10e7abde9ed6fcf6205648b5e595b7199968f64",
+    "article_id": "1e408c58c95a73ae564614220aa8ce84d4e2026c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Analysis warning of rising tensions and potential wider confrontation between Israel, US, and Iran.",
-      "event_key": "israel us iran escalation anticipation"
+      "strength": 0.6,
+      "reason": "US showcasing paratrooper training amid fears of Iran war signals heightened readiness and rising tensions.",
+      "event_key": "us paratrooper training escalation fears"
     }
   },
   {
-    "title": "Israeli army launches naval, ground drills amid escalating US-Iran tensions - Anadolu Ajansı",
-    "summary": "Israeli army launches naval, ground drills amid escalating US-Iran tensions Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEJWVzZtZmVpZFRvalZOZWhjY1BSRWFPVUJyMjcyV2l6TUlSenB5YW56b1VmekdEZ3lSZi1sdHRfc2Y5eUJaZ2w1NnhpQ0NCeFM4RTA3VTJHRnEzRVQ4Skw1alp4RkpyYXQ5RUNrcC1XRGZfN1NDa0ZTcEplMFRjZ1J0YTN1WWQ0cFljNU5ZZW55UUxJZ0g2Rm9xMHZCeHZaLWZLZmdrQzRQZ3BVWnV6UFliWDZBanBGWGlR?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-08-03T08:55:42+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:55:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "62e591c20fd0b9c6f736b8cec6be0f15eff7d35a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Israeli military drills signal mobilization amid rising US-Iran tensions, indicating escalatory posture.",
-      "event_key": "israel naval ground drills amid us iran tensions"
-    }
-  },
-  {
-    "title": "US futures up amid Iran de-escalation - Breakingthenews.net",
-    "summary": "US futures up amid Iran de-escalation Breakingthenews.net",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3dKb3ZsQnZyclA0OE9yQzVNMXVMeWZURFpZWllhQ1JZNEFsOVhrVFdROHFkN1ZVeTRJZ3hrS3dPZVdFZ3FKaWUwaHZCbmgzc3ZtSGZVNGRXdjU0enhDRXF3R3A2QmhoV0VnWkwtcWhYa0t2UkhGeVhsMlJCTUFuUVhiR1BVbllBVWc?oc=5",
-    "source": "Breakingthenews.net",
-    "published_at": "2026-08-03T08:31:00+00:00",
-    "raw_pub_date": "Mon, 03 Aug 2026 08:31:00 GMT",
+    "title": "WTI slides below $79 as markets bet on a US-Iran de-escalation - FXStreet",
+    "summary": "WTI slides below $79 as markets bet on a US-Iran de-escalation FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYms4NE16OXJ6T2NjbDBCZXBhcUdSa2I1YW9Ib0RNZHBsT3J6Mzh3eTcxU3Y1MXE2Q05oMzR2dzdxWkpjWXA4NmZST2dLSjlNOXREbkoyaXU0SlI2XzJBTDVaam4tZHpScTU3WDZTLVJINUYwUW5MS29QZ3hIMjVRd2RBOUZWOGc1SlBsbzdwOHBNUG9Jekg3N0J4aw?oc=5",
+    "source": "FXStreet",
+    "published_at": "2026-08-03T15:58:58+00:00",
+    "raw_pub_date": "Mon, 03 Aug 2026 15:58:58 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c74f64e4ad782b9317bbd6af117b9859455c22d",
+    "article_id": "7a2e0133881ec16c290da8bed43de27fd21fc0ec",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Reports of reduced Iran-US tensions boosting markets—soft de-escalation signals, not an explicit ceasefire.",
-      "event_key": "iran us deescalation signal"
+      "strength": 0.35,
+      "reason": "Market reaction indicates perceived easing in US-Iran tensions, not reporting a formal ceasefire.",
+      "event_key": "market bets us iran deescalation"
     }
   }
 ]
