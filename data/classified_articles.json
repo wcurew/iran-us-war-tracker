@@ -1,70 +1,53 @@
 [
   {
-    "title": "Status of US-Iran talks uncertain as ship struck in Hormuz - Reuters",
-    "summary": "Status of US-Iran talks uncertain as ship struck in Hormuz Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-04T03:41:00+00:00",
-    "raw_pub_date": "Tue, 04 Aug 2026 03:41:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a668c0a354fb2692e5f150f22891f68058cc8c12",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.6,
-      "reason": "Ship struck in the Strait of Hormuz raises tensions amid uncertain US‑Iran talks, suggesting proxy-linked attack rather than direct US‑Iran strike.",
-      "event_key": "ship struck hormuz tensions us iran"
-    }
-  },
-  {
-    "title": "US stocks near record high, oil falls as Trump claims Iran talks under way - Al Jazeera",
-    "summary": "US stocks near record high, oil falls as Trump claims Iran talks under way Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3lRMnNtREFPd01Dc2NnWXZXclZnUjZsQ3pWNTd5bW12dmFSdDFyNWRxcFBzczF5TGFNZ3pwbzIwU1paUzNZMV9BNTd1c2d4UzBleW1aX1YyMnpIeVVZZ0N6SVB4Q1Q4aThZLW43LVR6OVhuQTNST2VyZGlYaXQ4cm1SaWpLMElIajRaWF9nalQybHI1MVV4Z3dvV3pNYURpMEk3cGVrZDlITEdJbFdnckVEeWo0UdIBuwFBVV95cUxNbjVjcldMX0ljOVNVdEVHajk2alBIaURLeF9Za1Zia1h3aTR6YUNMUDQwdmh5TUZqbmIzZjdGbDcxSHcyeVZjMGRxYWpZYU9hNS1tSHBzQ1RsWWpNMUNjN3BUUjdkVnM3NlgxbnRDR180SnRzbkwyeDdfX3pQRTBHTGU2M3VRVTZnTDVVWTk5dlhPLXBGZXF4MHlUUnpWMTg1emtyb2lrOGdUMnNxVmhsNm5wM2ZKY0txXzFF?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-04T03:00:08+00:00",
-    "raw_pub_date": "Tue, 04 Aug 2026 03:00:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3de71bfaa2529f5a4c5c68e334130f80310fbd8a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.4,
-      "reason": "Trump's claim that Iran talks are underway indicates diplomatic engagement rather than military action.",
-      "event_key": "trump claims iran talks underway"
-    }
-  },
-  {
-    "title": "Status of US-Iran talks uncertain as ship struck in Hormuz - Al-Monitor",
-    "summary": "Status of US-Iran talks uncertain as ship struck in Hormuz Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmJjN1I4enZWVTdIQkYxTHNUeHR1M1JUYjM3ZEt2VzlpNzdmQUw1NzFYakRsUHEzazBuQVAtWkhwYW5LaUx0TDc3UHRxbnR6VnlhcGp3R3V5a2VGVUt0Z1ZOX3B2WG1keExvMnRXaDJyWXN5TWZ3Szl4MFhOcWJZbWd5T0ZUVWxHU1ByckVha0VSVThhdUtET2NR?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-08-04T03:43:17+00:00",
-    "raw_pub_date": "Tue, 04 Aug 2026 03:43:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6bb1c77c26d2d36fe68fbc2eae5143d89504bb8b",
+    "title": "Iranian official claims nearly 500 US soldiers killed in Middle East strikes - The Jerusalem Post",
+    "summary": "Iranian official claims nearly 500 US soldiers killed in Middle East strikes The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPOHBFOGZFbFh5cFg5QnBfVmFHMXBVTmhPcnpfVUxZMXVVVl9GVTNVdXFKLTZQWG4yRWx2QlhkY2theHc0VG0yS01UbDdVWWxTNElxU1BWclFxTmlYS3pYYzQ0X1R4RVdqTlE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-08-04T08:25:45+00:00",
+    "raw_pub_date": "Tue, 04 Aug 2026 08:25:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2f089f85f4ddf85774c8392224a30537434e2b32",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "A vessel was struck in the Strait of Hormuz—an actual attack affecting US-Iran talks.",
-      "event_key": "ship struck in hormuz affecting us iran talks"
+      "strength": 0.5,
+      "reason": "Iranian official claims large-scale strikes killed nearly 500 US soldiers—asserted direct attacks against US forces.",
+      "event_key": "iran claims us soldiers killed in strikes 500"
     }
   },
   {
-    "title": "Pakistan pursues quiet diplomacy to ease US-Iran tensions - Israel National News",
-    "summary": "Pakistan pursues quiet diplomacy to ease US-Iran tensions Israel National News",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JZkExY3JYVFpzd0NSbVowMXpyWGdsbk92aG10cExSOWxwaVRwOWFzaGd2YjFNTkhadmoyMFB4RVZFcUlHbW9iV3Q1emtvREFlNUE5RVlUbnRfZw?oc=5",
-    "source": "Israel National News",
-    "published_at": "2026-08-04T03:22:00+00:00",
-    "raw_pub_date": "Tue, 04 Aug 2026 03:22:00 GMT",
+    "title": "Behind the denials: What's really happening in US-Iran talks - thenationalnews.com",
+    "summary": "Behind the denials: What's really happening in US-Iran talks thenationalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1puTG05dzFXSHNoc2I5SXN2aXJfeWxUMGF4aHVQVHVTam9MUkFlSVprcUZKREFBa0x2WjBWclRXMmRZMkdiQXFLV01KYTEzeWY0NlhsVGhyOXEtQTdBNG4zZUh3dDBuZXJ3NVlUWWE2b195UHp0elJZc2d4UGdTYXgwWXo0YW0zQlN5Z2I2TXdrUVdSeXlzbXg1V2N6NmFDTkdrYnNGR2prOXpJQ0hURWFB?oc=5",
+    "source": "thenationalnews.com",
+    "published_at": "2026-08-04T08:13:22+00:00",
+    "raw_pub_date": "Tue, 04 Aug 2026 08:13:22 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6a70ba0b8b833ce1c1fb5cc4ca7248064acc7ea8",
+    "article_id": "9da0335fa7880ed7d4cd717b82e2f2019bb7b8d3",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Pakistan engaging in quiet diplomacy/mediation to ease US-Iran tensions.",
-      "event_key": "pakistan mediation us iran"
+      "reason": "Article discusses ongoing US-Iran talks and backchannel diplomacy despite public denials.",
+      "event_key": "us iran backchannel talks"
+    }
+  },
+  {
+    "title": "Iran attacks US base in Kuwait, vessel hit by projectile near Strait of Hormuz - The Jerusalem Post",
+    "summary": "Iran attacks US base in Kuwait, vessel hit by projectile near Strait of Hormuz The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51N085dHFxWmx2OGkwc2pEdFg0MXlhOTllRy1lY3ZhSy1yUmhYVThpZHV4clRiYUUwQWZMc3pDMnI2U3dEMzlTUjB5M0htUnozR21Ic3YzTnViMFlxZWg2STJDMjd4TDdpMFE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-08-04T06:35:26+00:00",
+    "raw_pub_date": "Tue, 04 Aug 2026 06:35:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d1c33fea0b557bdde75452435f500e1fc1199c1e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct Iranian attack on a US base in Kuwait and projectile strike near the Strait of Hormuz.",
+      "event_key": "iran attack us base kuwait projectile hormuz"
     }
   }
 ]
