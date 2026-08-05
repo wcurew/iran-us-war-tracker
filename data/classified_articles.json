@@ -1,53 +1,36 @@
 [
   {
-    "title": "Egypt, Greece leaders urge US-Iran deal, discuss Gaza ceasefire efforts - Egypt Today",
-    "summary": "Egypt, Greece leaders urge US-Iran deal, discuss Gaza ceasefire efforts Egypt Today",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFDR1pkQ29EVHByRXVaYkNhLTc2T19tTWNwTFhWaDVMZGp0QWp2MFNJblhBVlFaNElydXk1QnF6ZXA0dEZiNlM3MkY0TGo3NWl2QzRtWEN4ZkY1ZVp6ZUxid0hVRHVNdnVRb2xjNDZfbTYxOHM5U2dtRF9xamcxb1B2MFRIWUZLRzV1cmtPN3hCcnFnN2NNdzVEMVNVNUVwWXR3UTdmUXQ?oc=5",
-    "source": "Egypt Today",
-    "published_at": "2026-08-05T12:43:00+00:00",
-    "raw_pub_date": "Wed, 05 Aug 2026 12:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0512bce7b0fbbb70ddbe1c59c29a6aee5a3c5d85",
+    "title": "U.S. Military Reportedly Used Up 80% of Its Key Missile Interceptors in Iran War - Democracy Now!",
+    "summary": "U.S. Military Reportedly Used Up 80% of Its Key Missile Interceptors in Iran War Democracy Now!",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelBCTF9SQU9iQVFYYW5KWEJ5X2l3REVBM2dvcjdHQkR2NGN3MjR5R2F1UVotdmxqZWN1V2djWjVnWXNiT2p4S1RwZ0VHWUhKYnllaVFIRHFNNWhGbmtRaDYzUjdiTnNMeVJEV2t3dmhydDBxM0Q3NXVxa3MyRl84Qk52U3N0ZUFGdDJIeWd5em83YkQyei14dEVhNUVCbE5IQ0lnZ2JGd2FSclJsNFp2RnAtN1Y5bnQ2WEp3aEJyRGF3WFE?oc=5",
+    "source": "Democracy Now!",
+    "published_at": "2026-08-05T14:55:12+00:00",
+    "raw_pub_date": "Wed, 05 Aug 2026 14:55:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5c091427800dfbc9a4c4d025e69cdab6b6b69893",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Leaders urging a US–Iran deal and discussing ceasefire indicates diplomatic push/mediation rather than military action.",
-      "event_key": "leaders urge us iran deal"
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Report describes heavy use of US missile interceptors in direct Iran-related military engagements.",
+      "event_key": "us interceptor expenditure 80pct"
     }
   },
   {
-    "title": "Iran war has depleted nearly all of some key US missile stockpiles: Reports - Straight Arrow",
-    "summary": "Iran war has depleted nearly all of some key US missile stockpiles: Reports Straight Arrow",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXFrdV82TWwxV2MtQlBQUE5PQjZIalZBR1VOdDBfX0gwTll6cHJibFBITWJ0d0lva1lEX3hqbDZQbUNFSm1mTjVIb3REYWxsS3ZuTDdRR1d1RlRBc2RiLVFWQURTVzY2cXJYdEhtVENxVGdZQU1CU3N3OHVoZUtwVG1wN0xWOGJYaFpOYjZ5dFl1VWFNZ2dVckRR?oc=5",
-    "source": "Straight Arrow",
-    "published_at": "2026-08-05T11:56:24+00:00",
-    "raw_pub_date": "Wed, 05 Aug 2026 11:56:24 GMT",
+    "title": "US Missile Defense Stockpiles Face Pressure After Iran Operations - KABC-AM",
+    "summary": "US Missile Defense Stockpiles Face Pressure After Iran Operations KABC-AM",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDVteWpEX0JEdjdtaloydGpiaGJCTHcxYUZ0YnJueEQ5WE9sdjlvUWtFam16c28taDFzaFB1WnRtaGtOc0pRc2l2aHotTnRxVGZOY2NkM2tNd0NwSnc5cENvbUE4akFmMFd5VmJaVF9tSlZ4ZzhRQWxyOE9NTzJmTGNscTVTdHh3T3EyWDRtQVNoR2VhSV96S01LMDJsbnc?oc=5",
+    "source": "KABC-AM",
+    "published_at": "2026-08-05T14:50:18+00:00",
+    "raw_pub_date": "Wed, 05 Aug 2026 14:50:18 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5329a6648f0590c3b5839d247a16d15a58425e63",
+    "article_id": "5d276a81c7d6a92fd25031ccf596c52b866a559a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Reports that US missile stockpiles were largely depleted indicate intensified military exchange and rising conflict escalation.",
-      "event_key": "us missile stockpile depletion"
-    }
-  },
-  {
-    "title": "US-Iran conflict: What UAE residents need to know this evening (August 5) - Gulf News",
-    "summary": "US-Iran conflict: What UAE residents need to know this evening (August 5) Gulf News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXFxWVRGWGtRSlc0OTFpT1RDV1NQeEt5M0VyckFRUDk0VFhsWFpjeVM4WGhIN1hscDhsYVlPLXZwenV5YmY4SVFzQzN4Y0FYRUFjVElrcTlHQk94VjRhS2hvOWRSVHNmNlhDbEdKc0loUG5wQjJnM0U2U0NVaUUxTDZjRXpBNzhWc2hkUDdsb2Ztd0NfVmxHRlkta2t0ZTNId2ZhMjBfeGpONDBUUWJqRGVMNzDSAccBQVVfeXFMTkZpWEdhVi1NcHdaMjM2MFFDaW5Wc0h4UHVyODdaaUczb2Q5LURtLWUxQmJoei1mMklXelRCQ3BaTUJPdFdsbTB1dlV1bVpOdnBQM2E4TWlONHY2WU54MFBIZm9VYVQ1OU40RllZcGs1X0dkQTk5Vmw2ckdIOU1mNk91SXZDRFVRTllPVno1TzNVTWNORzBxV0UySWJkeWw4WlRzRlF3LTlMQTJ0dV83WFE1YmxzYy1ObjJDa1Fqb3lLb1lmekRTdw?oc=5",
-    "source": "Gulf News",
-    "published_at": "2026-08-05T12:57:12+00:00",
-    "raw_pub_date": "Wed, 05 Aug 2026 12:57:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a17ec6ed396c53ca4bec707e1956fa1a0312ff6d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.2,
-      "reason": "Roundup title indicates updates on US–Iran tensions; specific content unclear so default to rising-tension category.",
-      "event_key": "us iran conflict update aug05 gulfnews"
+      "strength": 0.6,
+      "reason": "US missile-defense interceptors strained by Iranian operations, indicating rising tensions and military mobilization.",
+      "event_key": "missile defense stockpile pressure after iran operations"
     }
   }
 ]
