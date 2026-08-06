@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-08-06T14:01:14+00:00",
+  "started_at_utc": "2026-08-06T23:55:29+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-08-06T11:20:44.023924+00:00",
-  "window_end_utc": "2026-08-06T14:01:14.386997+00:00",
+  "window_start_utc": "2026-08-06T14:01:14.386997+00:00",
+  "window_end_utc": "2026-08-06T23:55:29.000938+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 18,
-    "keyword_filtered": 6,
-    "deduped": 4,
-    "after_seen_filter": 3,
-    "classified": 3
+    "time_filtered": 39,
+    "keyword_filtered": 13,
+    "deduped": 10,
+    "after_seen_filter": 9,
+    "classified": 9
   },
-  "finished_at_utc": "2026-08-06T14:01:40+00:00",
-  "summary": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
+  "finished_at_utc": "2026-08-06T23:56:29+00:00",
+  "summary": "전쟁 위험이 높아지는 방향이다. 공격·경고 기사 비중이 협상 신호보다 우세하다."
 }
