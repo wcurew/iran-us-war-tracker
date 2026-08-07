@@ -1,19 +1,53 @@
 [
   {
-    "title": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say - The Guardian",
-    "summary": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHhJNUZpNTBaVHMxRFMzakRnbXRuTDBnb3dZMGJTWDlUOGpodW5Kc1pWcDBfUTgweExET05IMzEwMGQtMXpUZ016NlZaeHg2M0ZZSURaZm5xaUE0Zm1nbTZzRGlVOFI2V0Rhc3BBY1hubHpxQk1vck05em40WXE4MnRfYw?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-08-07T13:01:00+00:00",
-    "raw_pub_date": "Fri, 07 Aug 2026 13:01:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3947fc8cf2702149111b5dea2c0c43a4bf33fdf4",
+    "title": "Iran’s Friday Prayer Leaders Reject US Talks, Renew Calls for ‘Revenge’ - IranWire",
+    "summary": "Iran’s Friday Prayer Leaders Reject US Talks, Renew Calls for ‘Revenge’ IranWire",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1pIaHJ6a1RILW9IT0FzQWlYc2t3cE1xY2RqN1NXaDF3RllCX3Y1MXVySVJJUlhZRUVPRVcxVUoxWXFhTzZ4LVAzaHQtRmlhYmdjenI5MjN6RkJXVmpLSUpwYnFkYlVKMFR3cXVJMklqY2JkRWxWZHJaaWFSdHA5aEZkT1V6YlNxUmdmbjBJell4VGF5TjZsenpVRXhfNkplckJGQVRjTQ?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-08-07T16:43:28+00:00",
+    "raw_pub_date": "Fri, 07 Aug 2026 16:43:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a020731914137efe95628317ebb74d9f8e40acae",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Religious leaders publicly reject US talks and call for revenge, signaling hostile rhetoric and rising tensions.",
+      "event_key": "friday prayer leaders reject us talks call revenge"
+    }
+  },
+  {
+    "title": "North Korea expert warns US can 'never take their eye off' Kim Jong Un following missile test during Iran war - Fox News",
+    "summary": "North Korea expert warns US can 'never take their eye off' Kim Jong Un following missile test during Iran war Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU82T3BfZ2ZFZ1ZJTE5laVE0OGc0MXd1Q2JqNlhSS0NESUtsSGtnWVlkcVRwYzh3NjJyRFFzamswaEw2dk1LdlFUSTl1WGFjbnJ2OGNHUGRfd1dqdnpDaGFZNHZUeDdfUktIUGhTNUstV2Y0S0ZGcmFFdTJyM2FiNjFDM1NyRzk1bmRocV95dkRxMkF5a2QxSlUyVE9WeDl4bjhickhXN1ZCTlk4YXVkZW5vY2YzSzlHUTBv0gHAAUFVX3lxTE83eXdqcmxwNHZ4UHg1Ujk0ZE41VF94bWs0T0xSdExmcmprV2Q5UUpYN3pZT3k4RVZuekROdU1sbEJoUEVwTWVyX2tTbjdfdWJ0NTZ0RTBIRHE0VW95eUlWekc2Rm1hR01YMzJWX2xoWkRDNnFIb1V2ajlYanpTOWZOLXZQWHNEN3dRd210RFpwTGQxTGktaFRNYldRSlk1eC1zemE4cEVQLWlPeGxoV3BnQnBxMEhNMC1HTUNIbm1HaA?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-08-07T17:18:53+00:00",
+    "raw_pub_date": "Fri, 07 Aug 2026 17:18:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ebe6ddf878d381138833795ef457f9965f3983ad",
     "source_weight": 1.0,
     "classification": {
       "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Discusses airfares and oil-price impacts, not direct Iran–US diplomatic or military developments.",
-      "event_key": "airfare oil prices iranceasefire"
+      "strength": 0.9,
+      "reason": "Article centers on North Korea missile test, not developments in Iran–US conflict.",
+      "event_key": "north korea missile test warning"
+    }
+  },
+  {
+    "title": "How the Iran-backed Houthis' claims of deadly attacks are stoking fears of a wider regional conflict - The Washington Post",
+    "summary": "How the Iran-backed Houthis' claims of deadly attacks are stoking fears of a wider regional conflict The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ2x5TG9ORkRfWDhOMDRVMHFWaU0zWUNrTXRVWWZqZlR1dkZvSEVzWU4yaWtfU080bDBYQWJlSVY1YW4zSHU1eVh5ZjdubVJPcWFpNzd2WFJBVjdVQW9MNWhfU3VLVVk1dXNGVVJleTBkT1M5aEJrZzZDRVpWcUNZVndFcUZKaTJZemxKOURLQWN5OWlDTExEd2I5cjN1VGNWY2c1WDNPZHR3RGJjVTRzTkJLaDZXMTkwNXI2aVVoX25uX24zdkszQ2hoOHZWS1h0RFBSbQ?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-08-07T15:56:01+00:00",
+    "raw_pub_date": "Fri, 07 Aug 2026 15:56:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a45cffa2e8bd3a1040479e03732d84bf0b5b8d86",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.85,
+      "reason": "Iran-backed Houthi attacks raising fears of wider Iran-US regional escalation via proxies.",
+      "event_key": "houthis deadly attacks proxy escalation"
     }
   }
 ]
