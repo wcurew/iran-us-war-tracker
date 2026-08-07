@@ -1,36 +1,19 @@
 [
   {
-    "title": "Trump Says Hormuz Talks ‘Moving Along’ Even as Iran Mulls US Ban - Bloomberg.com",
-    "summary": "Trump Says Hormuz Talks ‘Moving Along’ Even as Iran Mulls US Ban Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDNvZ0Q2N1NIZ19JVGtsMWJNb2RjZDFOOWRqUFpWOUdnaktfUmxjcmxlQjFqX01lMWVSYWp2czd4eE1KTGU0cmNDRmVTZG0zZ2ZEdmp3am9CNXUyMm5LNl9uODlOVk9xQXBPYjBtM2ktRzVEZlh1NFVrdW9DTHU5UklsaG9aY254VEJGQzNHRHRpTGxHXzlad0FiWmRmMUZPTmFaNkxTd2gzbzRla0xJSXhzUQ?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-08-07T09:02:27+00:00",
-    "raw_pub_date": "Fri, 07 Aug 2026 09:02:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "54815f65ad6cb093f9ad6407bc206731760b54da",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Diplomatic talks over the Strait of Hormuz are proceeding, per Trump, despite Iran considering banning the US.",
-      "event_key": "hormuz talks negotiation"
-    }
-  },
-  {
-    "title": "Is US out of missiles? Bomb Iran with Trump hats instead. | Opinion - USA Today",
-    "summary": "Is US out of missiles? Bomb Iran with Trump hats instead. | Opinion USA Today",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFRaUXNGSXBIclhWZFZjeXZZdlhKUjliTXhUNGg0alRGUF8tWFBVb0JjZUp3WWJQQ25YaTEwOUJaLUZNRklleUxQSzVwWlBwVVY4WDJyUHZaUEFEbUpVaTJGX0t6R1llYjNkdkg4UXJvM2FhZjZOZ2VYX1FoR29TTHFMNV9sejBaNUx6T05paGJHWkdvZUw4QU8teVI5OXp0bks0VjlNdndDeV92Ynpxbw?oc=5",
-    "source": "USA Today",
-    "published_at": "2026-08-07T08:04:00+00:00",
-    "raw_pub_date": "Fri, 07 Aug 2026 08:04:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f5ffd11ab407981aefdf80463ce007a5023797a4",
+    "title": "Five months into US-Israeli strike campaign, Iran's nuclear program remains a threat - Ynetnews",
+    "summary": "Five months into US-Israeli strike campaign, Iran's nuclear program remains a threat Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96OVJqaVpRc1Vib3oxREZTYjAtYmR3R2ZRazMxWlViOXVxOENOUkpVTzRNYmpYSFJ5WmJzTk9ZYmhnalk4NjF1Q25hTkt1S0oxVXBqTkFn?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-08-07T12:29:22+00:00",
+    "raw_pub_date": "Fri, 07 Aug 2026 12:29:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f55cacfe06a1f6fa975167200bfb172800e7256a",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.65,
-      "reason": "Opinion piece advocating attacks on Iran; hostile rhetoric urging strikes.",
-      "event_key": "opinion call for strike on iran"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports ongoing US-Israeli strike campaign targeting Iran's nuclear program.",
+      "event_key": "us israel strike campaign iran nuclear"
     }
   }
 ]
