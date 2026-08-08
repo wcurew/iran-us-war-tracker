@@ -1,36 +1,19 @@
 [
   {
-    "title": "Trump’s empty threats are prolonging the Iran war - Washington Examiner",
-    "summary": "Trump’s empty threats are prolonging the Iran war Washington Examiner",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2JWQk8xYS1FOWxlVVM1T1F3ZUpjcThpaEI5OThUR3VaU0U0dnNYRWctSkl6eF92VVh4Z25kQTRsRGRvbWF0RjUxRi1Sbk1QcjNOSmNvUkQzMkZtZGxiWnNoMVJYZ1B1WWsxS3VpOTNlMFZSTkZPa2dCXzFiNzRyU1pMZ3R0bGh3aU9EZW40Rk9mT3JKX2tKeDNfN0NHbkxyeWJITVd4amQzUzNzd3dLag?oc=5",
-    "source": "Washington Examiner",
-    "published_at": "2026-08-08T09:00:00+00:00",
-    "raw_pub_date": "Sat, 08 Aug 2026 09:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7f7efeb666514ab5244c783d6abb9bc34913f964",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Opinion criticizing Trump's threats as escalating and prolonging conflict with Iran (hostile rhetoric).",
-      "event_key": "trump empty threats escalation"
-    }
-  },
-  {
-    "title": "US Gen. Dan Caine looking for 'off-ramp' to avoid further escalation in Iran war - report - The Jerusalem Post",
-    "summary": "US Gen. Dan Caine looking for 'off-ramp' to avoid further escalation in Iran war - report The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oODFvTDhkcUNQM2c4OVhYR3E2WUZsLUczRzNjZDl1bTVFamJ2Wm90RGo2NUN4VzQ4ZHZEeTBiMXZhTm9WLWpqaE5FejFwbVZjRy1VeklYYVNoVS15WHRz?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-08-08T06:55:14+00:00",
-    "raw_pub_date": "Sat, 08 Aug 2026 06:55:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c9c7a8ad9d02bbfcd9ab9bb7bf39ddbd2e1ddc23",
+    "title": "General Dan Caine, head of the U.S. Joint Chiefs of Staff, discusses with officials about de-escalation options in the war in Iran, which has been ongoing for nearly six months. - informat.ro",
+    "summary": "General Dan Caine, head of the U.S. Joint Chiefs of Staff, discusses with officials about de-escalation options in the war in Iran, which has been ongoing for nearly six months. informat.ro",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjhYeG9JNFliT2R4cHNqZE9naVFGVnp6WXZQQnYycHVJWUhGa1JnUlZqWlRYR2xiSHkzX1BVM1FaTUtZV3VJMEUwc0Z0eFowYUJ2T2ZrRlN6QVowbzdVcUhGWS10RXdleWs4aHFydWVrYnAxclFUVWJ0UUFTUmlOaG1aYllPM0dUc2lsS2JrUWE2bmcyamstYUJ6LU42NzB4OXI3bVZ0QjVoMmd3?oc=5",
+    "source": "informat.ro",
+    "published_at": "2026-08-08T09:45:16+00:00",
+    "raw_pub_date": "Sat, 08 Aug 2026 09:45:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f3129fd844e9bfd6097dcbc24a015d0855d446ed",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "US general seeking an 'off-ramp' to avoid further escalation, signaling restraint and desire to deescalate.",
-      "event_key": "us general seeking off ramp to avoid escalation"
+      "strength": 0.8,
+      "reason": "US military leadership weighing de-escalation options in the Iran war.",
+      "event_key": "us jcs weighs deescalation options in iran war"
     }
   }
 ]
