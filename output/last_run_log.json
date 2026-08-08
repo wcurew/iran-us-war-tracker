@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-08-07T21:35:45+00:00",
+  "started_at_utc": "2026-08-08T01:20:44+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-08-07T18:51:59.618681+00:00",
-  "window_end_utc": "2026-08-07T21:35:45.117918+00:00",
+  "window_start_utc": "2026-08-07T21:35:45.117918+00:00",
+  "window_end_utc": "2026-08-08T01:20:44.172282+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 12,
-    "keyword_filtered": 3,
-    "deduped": 2,
+    "time_filtered": 9,
+    "keyword_filtered": 1,
+    "deduped": 1,
     "after_seen_filter": 1,
     "classified": 1
   },
-  "finished_at_utc": "2026-08-07T21:36:00+00:00",
-  "summary": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
+  "finished_at_utc": "2026-08-08T01:20:57+00:00",
+  "summary": "상태 점수는 중립권이다. 이번 구간만으로 방향성을 단정하긴 어렵다."
 }
