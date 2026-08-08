@@ -1,19 +1,36 @@
 [
   {
-    "title": "US Gen. Dan Caine urges Trump team to seek de-escalation in Iran war - Times Kuwait",
-    "summary": "US Gen. Dan Caine urges Trump team to seek de-escalation in Iran war Times Kuwait",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3RDMUs4bmZlejNFWVhKWURzTEFteHNVaUNQNkwyXzRPM2RBNkFWVndfbVJ2cEk5WTNEUkg5SS0wQ0diZ0hjOXZZQmpqV1hTV2N3dk5ORkl6S3hheS1VRlJsRjBvS2N1TGhYVVI0Z0JvajlSbnZFR05jc01fVkdsVjl0eU1ka0ZBWlNLQVhtQWJ2V3VHYU9j?oc=5",
-    "source": "Times Kuwait",
-    "published_at": "2026-08-08T06:10:21+00:00",
-    "raw_pub_date": "Sat, 08 Aug 2026 06:10:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "46da31ca74af9e417cb4137cb6a890a72879575d",
+    "title": "Trump’s empty threats are prolonging the Iran war - Washington Examiner",
+    "summary": "Trump’s empty threats are prolonging the Iran war Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2JWQk8xYS1FOWxlVVM1T1F3ZUpjcThpaEI5OThUR3VaU0U0dnNYRWctSkl6eF92VVh4Z25kQTRsRGRvbWF0RjUxRi1Sbk1QcjNOSmNvUkQzMkZtZGxiWnNoMVJYZ1B1WWsxS3VpOTNlMFZSTkZPa2dCXzFiNzRyU1pMZ3R0bGh3aU9EZW40Rk9mT3JKX2tKeDNfN0NHbkxyeWJITVd4amQzUzNzd3dLag?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-08-08T09:00:00+00:00",
+    "raw_pub_date": "Sat, 08 Aug 2026 09:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7f7efeb666514ab5244c783d6abb9bc34913f964",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Opinion criticizing Trump's threats as escalating and prolonging conflict with Iran (hostile rhetoric).",
+      "event_key": "trump empty threats escalation"
+    }
+  },
+  {
+    "title": "US Gen. Dan Caine looking for 'off-ramp' to avoid further escalation in Iran war - report - The Jerusalem Post",
+    "summary": "US Gen. Dan Caine looking for 'off-ramp' to avoid further escalation in Iran war - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oODFvTDhkcUNQM2c4OVhYR3E2WUZsLUczRzNjZDl1bTVFamJ2Wm90RGo2NUN4VzQ4ZHZEeTBiMXZhTm9WLWpqaE5FejFwbVZjRy1VeklYYVNoVS15WHRz?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-08-08T06:55:14+00:00",
+    "raw_pub_date": "Sat, 08 Aug 2026 06:55:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c9c7a8ad9d02bbfcd9ab9bb7bf39ddbd2e1ddc23",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "US general urging Trump team to seek de-escalation signals restraint and avoidance of wider conflict.",
-      "event_key": "us general calls for deescalation"
+      "strength": 0.7,
+      "reason": "US general seeking an 'off-ramp' to avoid further escalation, signaling restraint and desire to deescalate.",
+      "event_key": "us general seeking off ramp to avoid escalation"
     }
   }
 ]
