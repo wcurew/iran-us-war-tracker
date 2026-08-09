@@ -1,36 +1,36 @@
 [
   {
-    "title": "Iran rejects U.S. talks for now as wait for Hormuz deal drags on - Fortune",
-    "summary": "Iran rejects U.S. talks for now as wait for Hormuz deal drags on Fortune",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlVJVlIwWDFSTGJyMC1yRXdrbG5ESFlhM290UlAtWFphdVU0Zk1FQ0lIenQwTF9ONHFDeF8zMWxDMXBUYWoxb1ZCSFNubkJDUmM3M0duQkwxSEtjZHd4RVR0SWFobFF3emJJUVVSMW0tZVFOWmdRYTRMaFRXYnVkekhPQ28?oc=5",
-    "source": "Fortune",
-    "published_at": "2026-08-09T15:15:00+00:00",
-    "raw_pub_date": "Sun, 09 Aug 2026 15:15:00 GMT",
+    "title": "Iran says no direct talks with U.S. as it touts incoming deal on Strait of Hormuz - Washington Times",
+    "summary": "Iran says no direct talks with U.S. as it touts incoming deal on Strait of Hormuz Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHVoX19SbEZSdERIaUhMUThhRGxBMTF6b1JkWWZwMzdfQmQxcUM2Qi1qVDF5R3UxNE1hN0ZUMDdaTmR3OHY5ZmpzNHlycXdyTVZYMS1yd1dCbHZ3OTZHSHkyNG45Njc2N0ZFTjR0VEVWZ3lBcWJYcXl6MmtiRExLNWRpbGEwamxEaGtKeDZ2QTRFVC1SWTU4ek5XUUNuZ0N1MzJDWXRhQlRWSVBZeUZqag?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-08-09T15:38:34+00:00",
+    "raw_pub_date": "Sun, 09 Aug 2026 15:38:34 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6826d0734dedc194478656524636b5532e1ce041",
+    "article_id": "39a74672382be359d4b2a0a9b7b283720c727ab2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Iran denies direct talks but touts an incoming Strait of Hormuz deal, signaling restraint without formal US negotiations.",
+      "event_key": "iran no direct talks hormuz deal"
+    }
+  },
+  {
+    "title": "'We Will Cut Them Off': Iran's Stern Warning To US Over Possible Ground Attack - News18",
+    "summary": "'We Will Cut Them Off': Iran's Stern Warning To US Over Possible Ground Attack News18",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWJLU2h1cVJVTmV5N0o1ZDZNWUwzbnk2dkxhczdUU1dYV0lrSS1kNWl3RGFSMm92eFYxeDZMSjdLN1RiYURBbFUyN2hKWEF6TGJHYTUwcUwwU1lOVHU4dGRiemhiNjkxWU04SVF5Uzh2eFlHWEZjbmwwYVZhMFhMd1ZKQkZyc2t2bzdCbHNjUHRKRWktSG9uanM5dHNzZXpFbHZsdU1rQ1BJQlBhRXp3US1tOG1wajd2aW1ZU1dQVdIBxAFBVV95cUxQWXJDeExuSFJCdm9EeEdfT2gtTmRtUkctWWtSaVpYZTB6SUxVZnNWckdtU2ljN3JSUFROOGJVQUo2cEV3Qk9DQUlocEh6ZFJRRlowRzdHTzdkNTZzSDlITnJ6VkNIck5wYUFWNTlMVDZjWjhkTG5Xckl0Q1VIMm01eWRmVzlsMnFZSzRzZ2drdTRHQmhRV3V3QlpqRkEtNl9ZcDJiYmEzNHNDR010UU5LVVRMdE8zZ0tkd01jMGxTeVlReWRN?oc=5",
+    "source": "News18",
+    "published_at": "2026-08-09T17:50:46+00:00",
+    "raw_pub_date": "Sun, 09 Aug 2026 17:50:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6f92f1d630dad319107fcf23189fab78da52ad0f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran's rejection of U.S. talks signals breakdown in diplomacy over the Hormuz deal.",
-      "event_key": "iran rejects us talks hormuz"
-    }
-  },
-  {
-    "title": "'American Soldiers Set Foot...': Iran General's Warning To Trump As U.S. Mulls Ground Invasion - The Times of India",
-    "summary": "'American Soldiers Set Foot...': Iran General's Warning To Trump As U.S. Mulls Ground Invasion The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ29ud3RWTnJ4RmJKVFM1YkRKS1c4THhueGtXRzBCanhIMFlISV9oVTZ3UFh0VVF5U0NxcTNoMk5ROW9VY1I4T0NGMUQ0YUpDNE5ZMHM1V1F4SWN0LXBjNE1UaUwyQk9NYkpYUUhYdzhrdTZMcmMydHBub3l3TkowU09hTGw1TjNwNHR4UmJONHhvRlBmZjZUWVFDQVdvYTJzSDJWMGFQTzMtUTZDa1ZFOTVGblNaX0ZwMl9adnE0MjlzZC1RN1daYnk4NzFqY2xuQVpZYXBMd2FoUE1NXzdtZ3JUbm56dl9sRTV6ODVSX0FCSi11M00zdVRva9IBgAJBVV95cUxOWnRfMW9GWFBNc3BrLXlUNmtCNEctdEV4dW9wZWJMRExtT0ZLSnp4WnRDSkZjU2trS09zenVjZktad1lDSl9QNkpvSHF4SWFXV0VMLTV1UlVxVnhHVE9zaXZTLS1nWlZpX3FTaHJ4c2ZTOG1PRUl6RFlvZU1COEJjb01XRFZDVTg4aXRIcmtMTnhoYm4xZWJaYU9TbzhnTzRKbVRISnFJRUx4d1gwMHZyczl1eWs5Y0ZJZXBzcXlXeTZlZERtNXoza0RtdkhQWDhJZ0tvdGphbFV0WDRESUdBV0NBNkM3ZDBveTA4eWNMZ19SUUpGeWpNVHNBRHpDUnBF?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-08-09T14:05:51+00:00",
-    "raw_pub_date": "Sun, 09 Aug 2026 14:05:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "500a23b5546badf8f0b998c756bba1bb4001ae7b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian general issues warning amid U.S. consideration of ground invasion—threatening rhetoric and rising tensions.",
-      "event_key": "iran general warning us ground invasion"
+      "reason": "Iran issues stern warning threatening retaliation over a possible US ground attack, heightening tensions.",
+      "event_key": "iran warning us ground attack"
     }
   }
 ]
