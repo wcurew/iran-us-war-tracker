@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening - The Hill",
+    "summary": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening The Hill",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVHFYWFVMaTdFTy1MREZPbHVPQ3NnQ2dkUnlob3BTUkFrMDcyY0YybW9GcU1DRDFIZVFsYzFKSWZGaHVTMzg5SXNJS0xJdXVTRDhxamwzcWo3TGR5b3ZrY1ZFVlo1ekhyRHJhUTJYN2JySzVoZjBzRkZpeno?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-08-11T00:34:00+00:00",
+    "raw_pub_date": "Tue, 11 Aug 2026 00:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec259ad0f2b8ded158d42b564d8c76561b2d3bd0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Article describes Iran's demands in talks with the US over reopening the Strait of Hormuz—diplomatic negotiations at risk.",
+      "event_key": "iran us strait of hormuz demands"
+    }
+  },
+  {
+    "title": "Washington Policy Weekly: Washington Weighs Diplomacy and Pressure as Iran Talks Stall - Arab Center Washington DC",
+    "summary": "Washington Policy Weekly: Washington Weighs Diplomacy and Pressure as Iran Talks Stall Arab Center Washington DC",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkJfTmQ5a0JhZ1RtQVZuOFJtazJIQnYxVV8teU1WV0duSXZET1lEdTRRZjRGaDVQR3dxTW1fekZ3dU0yMXUxd1BXTUFQdDBGVkVUazY1ckxTZGRVeENZVkxDVDdqUmVCaG4wYndOakhpaXFrcFVGaDFydUlVVk0wOHp5ZER3YUQxMHNpWnZDSFREUUs5aFBxVHU0NnFad0otWXUtYTJCanFvdXl6OFRDR3ZUTzhWM1JwR0VyZA?oc=5",
+    "source": "Arab Center Washington DC",
+    "published_at": "2026-08-10T21:53:51+00:00",
+    "raw_pub_date": "Mon, 10 Aug 2026 21:53:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a9d84ec105fce44e4839f60c0a39743713fb3fb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Talks have stalled, indicating a breakdown in diplomacy and rising tensions.",
+      "event_key": "us iran talks stall diplomacy pressure"
+    }
+  }
+]
