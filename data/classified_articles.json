@@ -1,70 +1,53 @@
 [
   {
-    "title": "U.S.-Iran peace talks face new tensions over Strait of Hormuz - 11Alive.com",
-    "summary": "U.S.-Iran peace talks face new tensions over Strait of Hormuz 11Alive.com",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUZndUN5U2ZhTmlnRU1GUFdkRE9WWTNsUU1mN0REMjdvTWRjcWMwWU1tYnJEVUxJNlJrakZDZ2d6dHZLVkczblVSYzF2eUJFUXBSWXlDd0ZibWUyV1dGc24yWFhZa2VhZVV2clA0M0ZuS3NpcnBuT2w4SjRZbDVQckpMbWx0MzVJY20wQkh0c2x5b3hrVmQ2S013bGR4WVJscDFETDFKeDI0UXFLNV8tZlk2Yno3MG9OdkJaZEdRMHRQdUxlalE1bDQyNVhkNkE?oc=5",
-    "source": "11Alive.com",
-    "published_at": "2026-08-13T18:32:00+00:00",
-    "raw_pub_date": "Thu, 13 Aug 2026 18:32:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6bb25599bf27e2fe7d4edf1fd68e026864164c24",
-    "source_weight": 1.0,
+    "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
+    "summary": "US could not verify Israeli warnings of Iran plots against Trump, sources say Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-13T19:53:53+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 19:53:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "db86ff7c404689e8382b8a413a6811aa8c9889a7",
+    "source_weight": 1.15,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Active U.S.-Iran peace talks are ongoing but encountering new tensions over the Strait of Hormuz.",
-      "event_key": "us iran peace talks tensions strait of hormuz"
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "Israeli warnings of alleged Iran plots imply threats and heightened tensions; US could not verify the claims.",
+      "event_key": "unverified iran plot warnings against trump"
     }
   },
   {
-    "title": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal - washingtonpost.com",
-    "summary": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal washingtonpost.com",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2swcWNKLTdQX01uTFVzYmpGSGU4Q2VZcWZxWHFPLXk2aXVJQjBsVW9QNGVpdDVJLTk0blY2a1RJV1dGMlYxVlBETTdoY3BKNHB0SnBUcHM3X0NSSUtlMGtkOHpXUi1qZ3dTdm15ME5GOXQzM2lBRzBvQTJlNC1YaVJUMF9jUUw3cEt4WW04U1QyaWpqSU82OGxUZVU3X1lNdlRhVG9tbHlkV0NKVC1oa3RXRlBvRzJxMzhxbERvcGs2bWFFRl9Wdm9XWk00bkRuTXc?oc=5",
-    "source": "washingtonpost.com",
-    "published_at": "2026-08-13T18:52:56+00:00",
-    "raw_pub_date": "Thu, 13 Aug 2026 18:52:56 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "82574386771e28cceb3b086339503808387b705f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports of significant U.S. drone losses during the Iran war indicate direct military strikes and asset depletion.",
-      "event_key": "us reaper drone losses 25pct iran war"
-    }
-  },
-  {
-    "title": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods - Drop Site News",
-    "summary": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods Drop Site News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVF0YXVoUjdtU19sYk1TNlVkeUx2eGRHZ2pld3FoalFxZWloRGNYVThLWlVSdURnU3FZRFpVbURJaEliSV94YUZ3TjdaakRwMEdZczVYQ3pha3AxeU5SZWwxa1JTNTA2aE9RYXNpZGs0dy11cXhaSjVkQm9Na2I2bzhiZEhhWjd4b3c?oc=5",
-    "source": "Drop Site News",
-    "published_at": "2026-08-13T17:02:51+00:00",
-    "raw_pub_date": "Thu, 13 Aug 2026 17:02:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b76cb48e452dc7046df666cc27eee208d9fbb315",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe U.S. strikes on Iranian infrastructure, indicating direct military action against Iran.",
-      "event_key": "us strikes iran infrastructure"
-    }
-  },
-  {
-    "title": "'Falcon Strike': US launches first-ever multinational attack-drone task force; Iran in crosshairs - The Times of India",
-    "summary": "'Falcon Strike': US launches first-ever multinational attack-drone task force; Iran in crosshairs The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObmxKZXVCYnU2Z0N4MGlmU1ZJS2lwdmpmdEcyUnF0T1llMUY1NHhpZnQ1cVJjU0hVNkVleWtlR3JMb2JWOGU5aVg1RzZqREdmUkpEeEltb3hwZkpSTnd2ck9MaEZjTGNpUnc3U3B3RnpmWXNXQUZ5bHotRGlJQlBZYTRIdmh2bWRYM010VURiaGVhdWhVaUlUbWRvb2RLeGhNNUVZQWpsYkdXVzlnckMxS24zNzFWSzE4YUh5UWlRUTY2UHFNQWJkNV9IN1lyT2xLRlFmblFfMlA0dE5QRWViY0FseUl2UkJhNnJHR1ZDYjRvdFE4YjUyUXdEd1RXY2lDTGtCS3AyOFnSAY4CQVVfeXFMTzU0U3lmWml6d3FMVjEtTDJncElnZ3RGRnlMWmw0ZWpmNlZpbUpvYS1LTGlKQnFBSUlreFVJNnpseldtelFaNkxPQlZpTHM1NVhIb2gzVVhxYkxsOFU3WWQ3OVYxUWxxcG8wZjZ2ZWpUMzRIems1LXJTVXQ2SGdyaldpdWo4Q2tzcEQ2Tm1QRkxVWW9sSnU5eWpILWtaajZ5bzRvYXM0d25oZnMxaGNaYVVxbDFsOHI3RWZxdTZIYlU1S2xveHFHa1ByazhQY2FxOTJJdnFJZ282dGc2THdRVVFzaXF0RW1RbDZnZ3FSZmIxSnRWMzl6ajh1UkdpQXhYd1pyNlZ3c0pRQV9Lcmdn?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-08-13T17:46:00+00:00",
-    "raw_pub_date": "Thu, 13 Aug 2026 17:46:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5776d40dba845d8281aecc311fc40efa481acb46",
+    "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Middle East Eye",
+    "summary": "US could not verify Israeli warnings of Iran plots against Trump, sources say Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMG1LTUxFRmZIS1FCYXJ4ZTVKb2FBclY5Uml3T0hXVlF3MEhYdG1ZZ2FFU0ptRjFJZ2w5ejBFMnNvbDB1dXdKcW9vXzhmMmpQV2ZHdEFid1dRd1p1bVM3ajdOQXp5VS1BcWl0Y1VrZmMxLXNDcnFLWGZFdEpGMnNxbC1rbDhhZFRlNll6R1dxSmZkcFU2aEx5Z3dLOGNkemVva2FrdWlxcjFDdkVNbTlPcGNrTEYwR00zbmpEN2xJS2piNndw?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-08-13T20:34:00+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 20:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b788bc40d59df58ea511efbcc2f9113394295eff",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "US forming multinational attack-drone task force aimed at Iran signals military mobilization and heightened tensions.",
-      "event_key": "us multinational attack drone task force target iran"
+      "strength": 0.6,
+      "reason": "Unverified Israeli warnings of Iranian plots against Trump indicate threats and heightened tensions between Iran and the US.",
+      "event_key": "unverified iran plot warnings against trump"
+    }
+  },
+  {
+    "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Internazionale",
+    "summary": "US could not verify Israeli warnings of Iran plots against Trump, sources say Internazionale",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUTltRXlxVC1Jem41UkVMR0pqZ1ctcXNLSGpVSnZWMVNhTUhmX1BxZjA4emtQVzRXdzB6NkNHUHVQVm5SLXdDYURGQVNPMEtsZ2F5ZGFhOC1yWlZyVjB4MXdBUjJmbTEwUmtmeTdJQXF6UjR4Q3RoTngyX2s1S0NqS0hXd3FWdHl0N3hGUDJyYVg3N0p2NTVNU1ZqcTdVZlRkclduMDdFOVFLaF96TWhiYURwZWRSUWwySHozcmM5VjE1U0FQTUhvMl9uUTd6U0Rpa0JRZWZ0OA?oc=5",
+    "source": "Internazionale",
+    "published_at": "2026-08-13T19:49:38+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 19:49:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ae3550623d04d5e44edddc1d8ab2945c255f389b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Israeli warnings of Iranian plots against Trump are unverified threats that heighten US-Iran tensions.",
+      "event_key": "israel warnings iran plot unverified"
     }
   }
 ]
