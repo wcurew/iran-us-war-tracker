@@ -1,36 +1,36 @@
 [
   {
-    "title": "Iran takes more robust military stance amid frozen U.S. talks - The Japan Times",
-    "summary": "Iran takes more robust military stance amid frozen U.S. talks The Japan Times",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3JmazUzSUZTcEFFeENXN1NLMDhhbnlTZ1JKdzVNRVVMRnpxNHFKZXlXTGFFb255R0VSUkQxZWo5TXJneUVjdUx1ekZUZmpUU2NDMnRrRl9VN3JheFhCY29YMWxmQ2lVc0FsTFlRYkxVVWxQdldFX2c3TjJMaW5fV1ZnckZQektoSGZqVjgwaGVoWjJ3?oc=5",
-    "source": "The Japan Times",
-    "published_at": "2026-08-13T01:41:00+00:00",
-    "raw_pub_date": "Thu, 13 Aug 2026 01:41:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "412f7433ee2dca3dc6610fb96b9db238dda81204",
-    "source_weight": 1.1,
+    "title": "Iran rejects ceasefire extension as US breaches fuel peace deadlock - Muslim Network TV",
+    "summary": "Iran rejects ceasefire extension as US breaches fuel peace deadlock Muslim Network TV",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXhQUDhMVnM5cXFNdGR2N185VmZqR3BEN2ltd3dTYmg3cHl0T1FIbHRkWHhxU2k5blg3WXFQc3RHOVhQNFlxTWlpWERWOUR2MDFVN3pNTU9CQWxTU2E0U0ZYLWxsRUxTd3hIN2lFZXh1bmhUaGFFLUgya2dwZ2xRSXVjd3VzNTUzaFUwX0pQNGdZV0k2YnZjbnZMWUFUUQ?oc=5",
+    "source": "Muslim Network TV",
+    "published_at": "2026-08-13T02:14:35+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 02:14:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "17985f3434dd9b22e88bf3d60162a38d2981b631",
+    "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran adopting a more robust military stance amid frozen U.S. talks signals rising tensions and breakdown of diplomacy.",
-      "event_key": "iran robust military stance amid frozen us talks"
+      "reason": "Iran rejected a ceasefire extension and US actions broke a fuel peace deal, indicating breakdown and rising tensions.",
+      "event_key": "iran rejects ceasefire extension us breaches fuel deadlock"
     }
   },
   {
-    "title": "Oil Rangebound After Strait Attacks, Suspicions That U.S./Iran Peace Is Unfeasible - Ship & Bunker",
-    "summary": "Oil Rangebound After Strait Attacks, Suspicions That U.S./Iran Peace Is Unfeasible Ship & Bunker",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmxZcFRVcl9WalVKSVBHYzFJZFN1aHhzX2JnQjl6S0J0OWJFNVN3RVdzT1BaUUxxQ1F4amlmQzNzRHItRVBYWHpHS3ZZVm43ZU5pbE9nNWRadm5fVVc5NmhIM0lyTVRjaFZuQkNEUEZmc1VzSU1adjlEekllTTNtcFhDQ000WTF2dmdpUktOYmpVb2MtdzVhX3lvM1JSQXAwaFJKV3c1UW9rWUtYNFhzV1NtNVBmU1BCZGZxMlZIMA?oc=5",
-    "source": "Ship & Bunker",
-    "published_at": "2026-08-12T22:53:33+00:00",
-    "raw_pub_date": "Wed, 12 Aug 2026 22:53:33 GMT",
+    "title": "Iran hardliners see shift on US talks in Rezaei appointment - Iran International",
+    "summary": "Iran hardliners see shift on US talks in Rezaei appointment Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTmFjcHN1SVRhNkg1ZGZWa0RpNGU2Z2h1T3lqekJ4amJkTExDRlBBSFFCRHB0NkliLUN1ZWJyYTNhSmNlTEVXbU52dUppcjZhcEE?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-08-13T01:52:04+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 01:52:04 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "57e02d1e842a2544d4d79087ecfbf96d1ab43d47",
+    "article_id": "841614a28f4142ba1117089bf80a6ccda76d78ef",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.5,
-      "reason": "Reports of Strait attacks affecting oil markets imply proxy actions heightening Iran–US tensions.",
-      "event_key": "strait proxy attacks"
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Appointment signals possible shift toward engaging in talks with the US.",
+      "event_key": "rezaei appointment shift toward us talks"
     }
   }
 ]
