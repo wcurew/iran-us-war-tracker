@@ -1,19 +1,36 @@
 [
   {
-    "title": "United States: The war in Iran is draining strategic missile stockpiles - marketscreener.com",
-    "summary": "United States: The war in Iran is draining strategic missile stockpiles marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkhjV2tBUnBSb1lsb0dzSWNDc2JvV2Vzeko3TnhMdHpsVzlmQm04clF1TVZsWS1pZjM4Zm03b3ZzcTRYNmxib0xDWGNKbzl6WVNOTnlTN2NTZGkxbGZuYS1ZTE5kdGpnc1FEM0RYQTBEX1dmLWs2bVhrdTdzUXZCc0xqYzRDRTRzM1RPc3JkVE1ONGxMc2xuRldncll6anpENlNuUU1pVFF1eUpMMFRmaldVT0FZQS1uSTRDM2RrUFo?oc=5",
-    "source": "marketscreener.com",
-    "published_at": "2026-08-12T20:33:00+00:00",
-    "raw_pub_date": "Wed, 12 Aug 2026 20:33:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "50a13cbf65098d21abb8504b42b2612fb7b79f55",
-    "source_weight": 1.0,
+    "title": "Iran takes more robust military stance amid frozen U.S. talks - The Japan Times",
+    "summary": "Iran takes more robust military stance amid frozen U.S. talks The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3JmazUzSUZTcEFFeENXN1NLMDhhbnlTZ1JKdzVNRVVMRnpxNHFKZXlXTGFFb255R0VSUkQxZWo5TXJneUVjdUx1ekZUZmpUU2NDMnRrRl9VN3JheFhCY29YMWxmQ2lVc0FsTFlRYkxVVWxQdldFX2c3TjJMaW5fV1ZnckZQektoSGZqVjgwaGVoWjJ3?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-08-13T01:41:00+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 01:41:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "412f7433ee2dca3dc6610fb96b9db238dda81204",
+    "source_weight": 1.1,
     "classification": {
       "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran adopting a more robust military stance amid frozen U.S. talks signals rising tensions and breakdown of diplomacy.",
+      "event_key": "iran robust military stance amid frozen us talks"
+    }
+  },
+  {
+    "title": "Oil Rangebound After Strait Attacks, Suspicions That U.S./Iran Peace Is Unfeasible - Ship & Bunker",
+    "summary": "Oil Rangebound After Strait Attacks, Suspicions That U.S./Iran Peace Is Unfeasible Ship & Bunker",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmxZcFRVcl9WalVKSVBHYzFJZFN1aHhzX2JnQjl6S0J0OWJFNVN3RVdzT1BaUUxxQ1F4amlmQzNzRHItRVBYWHpHS3ZZVm43ZU5pbE9nNWRadm5fVVc5NmhIM0lyTVRjaFZuQkNEUEZmc1VzSU1adjlEekllTTNtcFhDQ000WTF2dmdpUktOYmpVb2MtdzVhX3lvM1JSQXAwaFJKV3c1UW9rWUtYNFhzV1NtNVBmU1BCZGZxMlZIMA?oc=5",
+    "source": "Ship & Bunker",
+    "published_at": "2026-08-12T22:53:33+00:00",
+    "raw_pub_date": "Wed, 12 Aug 2026 22:53:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "57e02d1e842a2544d4d79087ecfbf96d1ab43d47",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
       "strength": 0.5,
-      "reason": "Analysis reporting active conflict draining strategic missile stockpiles, implying intensified military engagement rather than diplomacy.",
-      "event_key": "missile stockpile depletion"
+      "reason": "Reports of Strait attacks affecting oil markets imply proxy actions heightening Iran–US tensions.",
+      "event_key": "strait proxy attacks"
     }
   }
 ]
