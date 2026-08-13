@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "US-Iran talks in deadlock – what’s the latest? - Al Jazeera",
+    "summary": "US-Iran talks in deadlock – what’s the latest? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFhQZEU1ckd5MDJTaEtYLTRPYnFLRkNGcllVQklSUm8yNFUwNnlRdnM4MHRuMDAxaEIzSlE4V1c5SmVfOHdKem9LRWtuTFlZaGtKbDdoYW9vbHZnaFJEZWUxc3hGb1Rjb2RtR2ZreEEwT1JEOV9wbDR1TDJqbk14ZF8yNEp3emYxWnAw0gGQAUFVX3lxTE9oRGdQLXdxcUtSNDVMN3RQclJTNzVuM1BLbC1MOHZFU014eXZPV2YzeWdELUxYTnRzaHVWQkZYb1dVRHd3LVRJcF9WakFOeEdMYkZkWWlOUS1oQWhiV3NEZ3JUZ1dXLXNYM1gxbnNmTE9KVjJGYUdzckpyR0ZPUk9NeHIya0duaDFoLWpESWlSNQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-08-13T12:06:31+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 12:06:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8b3f91291047e09a02d950d1287cbfd063f55260",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Article discusses stalled/delayed diplomatic talks between the US and Iran (deadlock in negotiations).",
+      "event_key": "us iran talks deadlock"
+    }
+  },
+  {
+    "title": "US intelligence doubted Israeli warnings of Iranian assassination threats against Trump - report - The Jerusalem Post",
+    "summary": "US intelligence doubted Israeli warnings of Iranian assassination threats against Trump - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VU0dFSzAyLTNNSnlJZEVkWmMzWXd0S2kzM01Gb0xuVlhjajd6Nk45dTE1NC1RN3ZqNWxzYnRBekJnMUhPeHVUcUs1WXQ3X2JCaGRkT0RYd2NlQVB4VHRR?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-08-13T10:59:31+00:00",
+    "raw_pub_date": "Thu, 13 Aug 2026 10:59:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "adcfab14c48f4f1e711c26f4936c17e6919b03af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Israeli warnings of alleged Iranian assassination threats constitute escalatory tensions and threat assessments among involved states.",
+      "event_key": "israel warnings iran assassination doubted by us intel"
+    }
+  }
+]
