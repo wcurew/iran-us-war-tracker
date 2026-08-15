@@ -1,19 +1,53 @@
 [
   {
-    "title": "Tehran Delays US Negotiations, Sets Hormuz Reopening Conditions - Kyiv Post",
-    "summary": "Tehran Delays US Negotiations, Sets Hormuz Reopening Conditions Kyiv Post",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNYWNrM2JCQzhiSjFIY0N1cWlNSGdrdkV4Y1BFWU50Q3dpNW00VmNnbWZaSFp3VllSRk5BSmdoRllQY3J4VnVYLVdENA?oc=5",
-    "source": "Kyiv Post",
-    "published_at": "2026-08-15T09:36:11+00:00",
-    "raw_pub_date": "Sat, 15 Aug 2026 09:36:11 GMT",
+    "title": "IRAN IN CONTROL: Iran Has Not Decided to Resume US Talks, says Hormuz Shipping depends on US Meeting Conditions - EnergyNow.com",
+    "summary": "IRAN IN CONTROL: Iran Has Not Decided to Resume US Talks, says Hormuz Shipping depends on US Meeting Conditions EnergyNow.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNDJaTl9Gc2E4Z09kSHN6WXh6bG90ejFaWmswSmNYNmN6OGpIMEhIdWUyTmJhY2dRZnI1QnVHbzVoekNEYUxqbm1JRm5BdUV3a01ieTVVVXJJeEtTXzhBcVBHa2JiRlpycGh4WkhJMzZTcUlBWnFELUhsRm4zOHoyQ3M4ZFg3eldTN21IUWRnT2VQR0thdk85eG9IR2x2Z005WFZ2RnYxd1B2Y0VSN25hOGpSLWJfN1BwS3o4MEpvVWdBZ0tSZkZ2Y0dTTDVJanN5TktvM1JrYw?oc=5",
+    "source": "EnergyNow.com",
+    "published_at": "2026-08-15T13:33:14+00:00",
+    "raw_pub_date": "Sat, 15 Aug 2026 13:33:14 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1377065f8989464296d0cfbff5ce9ec30a108160",
+    "article_id": "fb7635d58207e5348bd4f71027058f5d663e3a03",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Discusses Iran's decision not to resume talks and conditions for US engagement—about diplomatic negotiations.",
+      "event_key": "iran not decided resume us talks conditions"
+    }
+  },
+  {
+    "title": "'Maximum Destructive Impact': Iran's Khorramshahr-4 Medium-Range Ballistic Missile Can Attack the US Military from 1,242 Miles Away - 19FortyFive",
+    "summary": "'Maximum Destructive Impact': Iran's Khorramshahr-4 Medium-Range Ballistic Missile Can Attack the US Military from 1,242 Miles Away 19FortyFive",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa2RjM1I2THZjYzl3cVhOMTZEMlp1YUFZNVpRTDZfYlVKTmZOeHFUcDc1Skt4Uk9TNHJISTRFNVQzNVFETEk4MTNycnVwNktUVmZoX2xqeGt6cVBKNEF0eFFFUDFBZVk1Mkx6b3BtSmpkTTVhbXNEN1pjU3NFX21qUmoyMnloekJOZnJSOF8tVE5FTmdVODF6ZFZYNWhjeDFhTWhnX0lfdkwxX2hndHBkZEJDV2xkckdQY3IzVzBXbU5GY2sxRTY2aXhrdXRBY2hESkYwekJ2dEdvS2NnVUU1VDBLTUpVYkhFbnUyZ2Z6WUpvZmhiMmc?oc=5",
+    "source": "19FortyFive",
+    "published_at": "2026-08-15T14:14:27+00:00",
+    "raw_pub_date": "Sat, 15 Aug 2026 14:14:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c63cf89f97c405a83859f4028203bf31a37d1eb8",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Tehran postpones US talks and sets conditions on Hormuz reopening, signaling diplomatic delay and rising tensions.",
-      "event_key": "iran delays us negotiations hormuz conditions"
+      "strength": 0.7,
+      "reason": "Highlights Iran's missile capability and threat to US forces, signaling increased military risk and tensions.",
+      "event_key": "iran khorramshahr4 mrbm threat"
+    }
+  },
+  {
+    "title": "'Hormuz a US territory soon…': Trump's blunt warning to Iran; Tehran roars back, 'we are the rulers' - The Economic Times",
+    "summary": "'Hormuz a US territory soon…': Trump's blunt warning to Iran; Tehran roars back, 'we are the rulers' The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRk1xSktFOU5uOGVkV0ZYbGV6a2U0LW1IWDVReHRhcHc2WFhoQnBaLXBmVUc2R3h4SlE0aGN1Nllnem5WZ083dGRGaXBZWHJmTWFDUXFwc09VOURiV3RlVkcyODlKYVJkc0lhRjB6ZnV3UDBKazVwczBweUUtV0h1MkVxUzZ0ODNWSWp2LVFZU21NV09TempmM0Y1R19sLUFUM0VPTnZVX243Y2hXMUNmcHhfSWd0b1BhSUxJQ0drOGxxS2RxUE05NnBXd3dRSHVCRHFIN2RVOWFwM29jSkNQZDVfbjdiN1VxTFRONWRSN3dMOGJvbklNUmVOTXFMdnYxeDMw0gGIAkFVX3lxTE1JZHM1dXNObmdJSjN6SmZWWnBlVkg5YS0wMk0wQUJKYXpsdUx6ODQ5Mi1vMlNDWkF3d0dnUDlqQmhpeC1jX3hoVkZwSXJsM2hmaTczYUgyLXd4aGFEeHh4MmMyTWZ6cmJBbENDYUVLT1dYLUlNQlFFNmpzeF9DX01yYmJNXzFJMG9JWjZYcjNLZGVUMzNJMExITEZRb1VHZTc0a3RKYVN5YmxVTTlXdjhJVk9PQVpPYk01RmNXek1YOGV2WG5iYzdFT041NTFvSEZrWGlueVZOMTlOcEx3a2ZIWDZta1AwNi02MnhHQXZtdVlCbFMtcFRWcG12ZVhkY1NsbXVLbHJ2YQ?oc=5",
+    "source": "The Economic Times",
+    "published_at": "2026-08-15T13:25:15+00:00",
+    "raw_pub_date": "Sat, 15 Aug 2026 13:25:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c868033cdde8aec8ba9b1d17556208e4cf753cb4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Direct hostile rhetoric and threats between Trump/US and Iran, increasing tensions.",
+      "event_key": "trump warning to iran hormuz rhetoric"
     }
   }
 ]
