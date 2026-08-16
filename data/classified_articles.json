@@ -1,36 +1,70 @@
 [
   {
-    "title": "Divisions within Iran's leadership weigh on talks with the US - Le Monde.fr",
-    "summary": "Divisions within Iran's leadership weigh on talks with the US Le Monde.fr",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelRScy1ZTEtHTlJkMXV1OFIyMEY2M1ZWb1JGenlnWkFNMWxPRHFVaUtQOENPOEJ6ZnIxa2ZrVl92UlpQNGVSZlhhTG5VOTJ5SEdzdHJ6b2dpQ1duZFQ0c2MtdmthWlB2X3pORGJ0TnpoU2JqbzVlX2lHOWRFQjk1d3ZxVWc4cUtZSDBfWHQtUHpfRm9SRWw0QkUwNTdjVHFuenRMSjJxUlQ2TTVTSEpIQzdtNVlMbDdPMU05aE1ZRmRWbEptUkw4aDN5Zldycldu?oc=5",
-    "source": "Le Monde.fr",
-    "published_at": "2026-08-16T09:36:47+00:00",
-    "raw_pub_date": "Sun, 16 Aug 2026 09:36:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c254e043a11129f445be8e67ef487c5120e989a",
+    "title": "US-Iran 60 Day Ceasefire Deadline Nears as Tensions Remain High - NewsRadio 740 KTRH",
+    "summary": "US-Iran 60 Day Ceasefire Deadline Nears as Tensions Remain High NewsRadio 740 KTRH",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0F0NDdpU2N0bjFTS0x5d2RLeFZWaXVYTERWd1lGMHJvSHVMLW5qT1NPMXBaYUd4SWlLZmRIR1prcUF1bnFRY29COUFXNnZieXBtWlhyQTVHdnBiUTFKZHdraTJXdy1zcXVFckl4TV9DUTM1bFZWcGZreHhuSEp4NEJPM2I0LTNEbTdsazJUUmRoQmRwM2pSMFhacGRpN0lwV0hmSmFITVdMaTZOQnhJWkJHeTJ3aXhHUDdqQjJGcTJxOTd5ZzM2QnV4S19IVWpo0gGzAUFVX3lxTE9ZT2NFc0Z5WkNOWWdsVmduYlRzNDNBN21vUWsxbzJJekNGWGJOTHREZGEwRGFjZ1J2ZlhBYnhNTlpicTQ4c1d5Qk5iNE5CdlpUNUNHb25TVUpXVEZ6clB4QmF2SUNNVDBPRHNpa21ZZFVfaFpmT1UySFRLMkxGRUdnQ21lU0xUaWJza1dSYThxTmFJQ2R3LTFwM2FERFpvZ21EUGY0YWNqbU5UUTI4YnMtTHhB?oc=5",
+    "source": "NewsRadio 740 KTRH",
+    "published_at": "2026-08-16T12:43:00+00:00",
+    "raw_pub_date": "Sun, 16 Aug 2026 12:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d29f828726a54e89c8ddbb2f899ed2944e6eafee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.85,
+      "reason": "References an explicit 60-day ceasefire deadline between the US and Iran despite high tensions.",
+      "event_key": "us iran 60day ceasefire deadline"
+    }
+  },
+  {
+    "title": "US-Iran deal deadline nears as ceasefire violations threaten stability - Fox News",
+    "summary": "US-Iran deal deadline nears as ceasefire violations threaten stability Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SRmQ2TTdNTnFQUkprX05Hc2U1TDR6ZnFiNzY3QUhWcS1STy1VRjkySXRzbEgwR2FVN3BDLWd4M1RCaEJ6WXF2cGMyN2Npc19jOE1KQUVn?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-08-16T14:02:30+00:00",
+    "raw_pub_date": "Sun, 16 Aug 2026 14:02:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5026d08220d3d4f2538ea3a610e17cf78924ed49",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Internal splits complicate ongoing diplomatic talks between Iran and the US.",
-      "event_key": "iran leadership divisions affecting us negotiations"
+      "reason": "Imminent deal deadline indicates active diplomatic talks despite reported ceasefire violations.",
+      "event_key": "deal deadline nearing"
     }
   },
   {
-    "title": "Iran Executes 'U.S. Spy' Accused In January Protests? Mojtaba's Regime Issues Chilling Warning - The Times of India",
-    "summary": "Iran Executes 'U.S. Spy' Accused In January Protests? Mojtaba's Regime Issues Chilling Warning The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGxrRHkxS0ZpbDROc3pFYWFudnVTdDVlQWl0aHdXYlppa2xXNVRTemdqZ0tTMGVOTDV2Tm1yWmNWZFJkQTJRTjEwYnMzRDNLV05EQVYyQm15WlFfOC0tbDA5LVZjUFVsM2VqQW50b0ZTZjh3VS1OUFZHSndKek9tMGM3cVB2SzFSTUkwRFphU2xlNENNckJ1am0xSHBUaUF0ZjFrT0I0ZFdOZEFsMEdWLW5zcmxHZHZnN2gxU1g5T0c2bndhcHVkbUsyV0hLOHkwcUNtUGVzUW5KcHdPZV9ZbDMzT3VMdWpxQXhEdTkwU1NUazU1M1J3amRQOElIcFXSAYQCQVVfeXFMTVpWZDZXeGpNZVBCSlc2ajNpNVdRd0xVbUYwTXFfSkFlV2ZwZThIUTQ5NjJIZnBSbjZEZ3NGRkJvWnJnZkp0UE9EeWRKLVYyNVNxd01memNFTzY4MDdnVk5UMlN0c3dOcEZpSFAtSElreV9mNnRvQXFaaDNWekdaLW5DVTlqWS1iS25OT2lHVTV0c1pNdG5LbTNiakQydkNIa21qTUY3dmpSUUxHZzIybkY2VEdoODZVQi1HM1pMN1hIdUVENnZ0cDV5c2w5MWFfQTZQZVJCaUxDM2JNN3dUWHRUT3ZBWmR5bXo2UzA3LUZiUTVaQmE4dHhNLWpxazRkdmY5bnk?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-08-16T11:10:00+00:00",
-    "raw_pub_date": "Sun, 16 Aug 2026 11:10:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "771891f006c6a70dec38e33b9c93b58e5f4f0eb9",
+    "title": "Israel strikes Lebanon as end of US-Iran ceasefire looms - The Straits Times",
+    "summary": "Israel strikes Lebanon as end of US-Iran ceasefire looms The Straits Times",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX29PTTNqcmJZLUNPQ0xfQ1ZoWENxMVhZdjR0UkszVkJWYll6ZXliRXdlOHE3MGo0b2JEQk9CX0tlMTgwYVVGV3lGRndkaEtLUmx3aUEtQ1hXQU1ydml6SUIyVXhtTUMtWXBMQk9wRlgtUmJHMUgzY0J1ejVnSnVZU1JJaWlBY0lIaEdOV2U0UWdodWdkN0ZWSmcyazNFcVZhYms0WVFn?oc=5",
+    "source": "The Straits Times",
+    "published_at": "2026-08-16T13:44:09+00:00",
+    "raw_pub_date": "Sun, 16 Aug 2026 13:44:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3caa47f44a67f92ab44a3006a4d9896ac1dd7609",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Execution of an alleged US spy and regime warning heighten tensions and hostile rhetoric toward the US.",
-      "event_key": "iran executes alleged us spy regime warning"
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Israeli strike on Lebanon amid a looming end to a US–Iran ceasefire, implying action involving Iran-backed proxies.",
+      "event_key": "israel strikes lebanon hezbollah proxy"
+    }
+  },
+  {
+    "title": "US-Iran negotiations: Trump opens direct secret channel with IRGC to bypass Ghalibaf, Araghchi - L'Orient Today",
+    "summary": "US-Iran negotiations: Trump opens direct secret channel with IRGC to bypass Ghalibaf, Araghchi L'Orient Today",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVFhhTHFZa3phME9nOTg3V2RLMnhtdzJ4OUFMR0s0eHoyUW5EbkJBLUFjQzlnSUhVS2diY1pXQjduWml6V3VjRmFObHR0SzV6UHR6OUx1bXRpWFd4cTBqN0VLelhsRlY3SnVEeU5rZHZpNzVxUF9OVFRiY3FOWkhYVUt2SUlSemN6eldOOU92Mlp3RDI4NEE5cTVTVm1YTnZsLW83OHBHMU5nQUxwRGpHUy03LUs2NEU2OVJwV2pBOV9Ib05DSXNFMjB3YTF6dVJQSmo3NU9URW1vVFlPelE?oc=5",
+    "source": "L'Orient Today",
+    "published_at": "2026-08-16T14:46:37+00:00",
+    "raw_pub_date": "Sun, 16 Aug 2026 14:46:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "55604c95725ca67d5933282d49452548bab9015b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Reports of a secret direct channel between US (Trump) and IRGC indicate active backchannel diplomatic talks.",
+      "event_key": "us irgc secret backchannel opened"
     }
   }
 ]
