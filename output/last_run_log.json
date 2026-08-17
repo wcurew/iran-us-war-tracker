@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-08-16T21:16:36+00:00",
+  "started_at_utc": "2026-08-17T01:05:33+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-08-16T18:23:23.896457+00:00",
-  "window_end_utc": "2026-08-16T21:16:36.548119+00:00",
+  "window_start_utc": "2026-08-16T21:16:36.548119+00:00",
+  "window_end_utc": "2026-08-17T01:05:33.737229+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 3,
-    "keyword_filtered": 1,
-    "deduped": 1,
-    "after_seen_filter": 1,
-    "classified": 1
+    "time_filtered": 8,
+    "keyword_filtered": 5,
+    "deduped": 5,
+    "after_seen_filter": 5,
+    "classified": 5
   },
-  "finished_at_utc": "2026-08-16T21:16:52+00:00",
-  "summary": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
+  "finished_at_utc": "2026-08-17T01:06:08+00:00",
+  "summary": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
 }
