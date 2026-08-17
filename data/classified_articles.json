@@ -1,87 +1,325 @@
 [
   {
-    "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry - CNBC",
-    "summary": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry CNBC",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yYUVkY2dPZ0gwUXljWl91UW90Tk9Yb0J0NlRaZTdESlhoMmtneGpFZUhQSkd3ZzhhX3l2RGZJUmdDSzFhVnczRFhnY2tsaHBqMHFqN0lTS2Q3bjJEUm9QUFJmSHM0M25OcHV4RnZn0gFzQVVfeXFMTUx6bEdGYlhiR1ZTbVVyTzFaY1ZZcy1WQ1pQSXRyVjBfa0o0TVZ5VW83ZUsyMmtPTGNxQ3RscjR0ajdSTjA1akVxclViUWlRd19STTRDcVVuSkp3VURicGtUZkhJMHZqTHZhWjg5Zk1VRHRybw?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-08-17T07:46:41+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 07:46:41 GMT",
+    "title": "US-Iran talks hit new impasse as MoU's 60-day deadline expires with no deal - The Jerusalem Post",
+    "summary": "US-Iran talks hit new impasse as MoU's 60-day deadline expires with no deal The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SRmxJZ1l3bDRRblVQd0VfWkM4V1lBTkVWdHBGamRYRHBjbUZKd3BjcnZ3YTg0TG1fbllveDI2SDluTC1kVnktSmc5amw0NFFqdmdJdVBuMmhIUFJp?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-08-17T11:03:50+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 11:03:50 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b871643685838fa3e871d026626340e533dc8fb0",
+    "article_id": "0aef15cfb2fbb8192def9bae4795df167a3ad0be",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Diplomatic talks stalled as MoU deadline expired with no deal, signaling breakdown of negotiations and rising tension.",
+      "event_key": "mou 60day deadline expired impasse"
+    }
+  },
+  {
+    "title": "Iran says ceasefire deal no longer relevant after ‘gross’ US violations - The New Region",
+    "summary": "Iran says ceasefire deal no longer relevant after ‘gross’ US violations The New Region",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83Q3RDQjZKX0RtWS1wR2JERzY2NmUybTctVEFncjR3OHNoYnVLZnBhN3dhU1RlMU9vREh2akZETV9vRmNwV090bGFySQ?oc=5",
+    "source": "The New Region",
+    "published_at": "2026-08-17T10:00:03+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 10:00:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "55b2e429725c9b670fe385dcf66d1936db2fb79c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "Iran rejects/abandons a ceasefire after alleged US violations, signaling breakdown and rising tensions.",
+      "event_key": "iran abandons ceasefire after us violations"
+    }
+  },
+  {
+    "title": "US-Iran ceasefire agreement set to expire - Yahoo",
+    "summary": "US-Iran ceasefire agreement set to expire Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0RvVEVXOGRtcWJaVU1LeUViczdGTkdxQmhBSjFPdHNCeHdZMEVvMl9YS3BpVXRuc2lZNVIyWVFjenY2SVJfQkNieVpYVHYwc2lUYkJGQVRkbG1oRlljaDIwNXo2OGVtWk4wcjNFdzQ0c0UzUXFKMUtuVGJRUTg2OWJ1TVB6SVU?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-08-17T10:24:01+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 10:24:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "60f6fc3666ac002f3478d1ca260e266cbefc8416",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.85,
-      "reason": "Article centers on shipping disruption tied to an explicit U.S.-Iran ceasefire nearing expiry.",
-      "event_key": "hormuz shipping halt ceasefire expiry"
-    }
-  },
-  {
-    "title": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire - WSJ",
-    "summary": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-08-17T08:40:00+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 08:40:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "811b23e6287490ed4e50a467aa1057f6ab13b872",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "ceasefire",
-      "strength": 0.9,
-      "reason": "Reports that an existing Iran ceasefire is set to expire.",
-      "event_key": "iran ceasefire expiry"
-    }
-  },
-  {
-    "title": "US-Iran Ceasefire Expires as Kushner Arrives in Israel; USS Abraham Lincoln Crew Headed Home - cbn.com",
-    "summary": "US-Iran Ceasefire Expires as Kushner Arrives in Israel; USS Abraham Lincoln Crew Headed Home cbn.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU1STGI0aGlzVlBaeTlpWWhFQ3NaeHR0RS0yWnJ2MzJKMUd1cWhZeWprbm9IWlQzV0JGbXR4OUxkS3YzNWpnaFdLOXhuZmR2U3JPZFppd2tUbXhxRURQQkpnWGM2TENtZHJoekJJRmFVMDgyVGVkTEw3YmdXVVlKTXY0bWhBZlg3bTdHcjNxQWJwaXl1U1hTcUpuLWJfUGFaX3piV3Z6VXM5WGNYc0VjN3JIWQ?oc=5",
-    "source": "cbn.com",
-    "published_at": "2026-08-17T08:54:15+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 08:54:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "08a08522ab8941d40bf7d938897340b22f189019",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "An agreed US-Iran ceasefire has expired, indicating breakdown of truce and rising tensions.",
+      "reason": "An existing US-Iran ceasefire agreement is described as nearing expiration, directly about a pause in hostilities.",
       "event_key": "us iran ceasefire expiry"
     }
   },
   {
-    "title": "'Closely consulting': South Korea, US coordinate on Iran ceasefire as Trump seeks to cut joint drills - The Times of India",
-    "summary": "'Closely consulting': South Korea, US coordinate on Iran ceasefire as Trump seeks to cut joint drills The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONGN2ckpFS0xEdGs4NlFCUlRDUjdzV3dWRWlJYzFQbXR2V1dQa0pNQzg0cE5SQUV2V05NNXlYUW4xZzZFeEU4cVJxdTdUY0p3UFdKNXVkWmpUSDhqaXhxM3YyZHoweXdCaEdMZ0hkLUx1RmI0NXM5RHVsNEN3Y2xmeHRIZ25OWTVzRVB1cVRITFNsNjRSdUhQd2NoSkVrQk5uYlAyX1pyNnk2SHU3bE9tYlNPTFZRekQ3amFYUF9MWWtGRUJOaTVTelItcTBEMF9fNkk0cHF5SmtlVFJGbWlDRXg1Y3Y3MVJ6VTdUclJLbnZMWGNNaDdkSURTdmtSZXluemptWWVZTmkxSU3SAZACQVVfeXFMTTAwc183MkJTX1QwbC1FVHFEMzBLUWVQWmI1SXZCZGpJUFkyMERVRlNaVkZBbUhUZm9kYmk4VXBJZFpjMFBhQjJCci1yUkVnUmdlMFotYUpHTEtQRGp4OEFmT2xyNVBGbmpNZXpJc3AxeVlMd05rQmxLLUZQbWhLY2tRZ2dGUDNpU3U1dVY1MVVGUDBvMWc2UVV0dVdvNzd4a1RlelVhYV9YamFROFdUT18yVkk3UUt5dGgySFgyeU1BY3ZJRmdCUm5LYUZYZGMzZzNYWG5WVHZGdHNOWkNqYml4Q3lfS1FDRS1VWmtRN3ZEMXVNNk9wLWFEY1pMdmpPdlF4Q0lDd05JZDdGRUFCaGQ?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-08-17T09:14:00+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 09:14:00 GMT",
+    "title": "Al Arabiya learned of an agreement to extend the 60-day ceasefire between Iran and the United States - Українські Національні Новини (УНН)",
+    "summary": "Al Arabiya learned of an agreement to extend the 60-day ceasefire between Iran and the United States Українські Національні Новини (УНН)",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3B4TmxHS29Nc0FNMUEzVVZOWjhTdjhDMWpGbHVYLUJlZVhGZUwwUUp6N1Axb0dWVmQ1b01DNWt2UHhBbzdrSGRFb2JqUERGM3ltelBwazJDTllUd0hhNE9LcjYwbThGWks5clNpb3F3QjNvcFRrZWtSQ3FyWVVRNkJ3TUg5Ukd3cGZFT1V4NXRxZDVPa2tqWkVHaUdqdXYwV2tHajlWcXNqYWphTDVuZk1UTHFXRUduZW96Y3AwaWHSAb8BQVVfeXFMTXNZbWJMU09xcE1xcHhoTVh0N2hROGxSRnJaaWtwWVplTTFaYWZWSWItWXo0ZnItOWhCQUlQTTRTTUNCVWdSTmpjQkFJMmpnTW5zNEViZW9rcTJlZXpSc3lEYlIySnUzNjJzNjhHa2FnT2R2ZVNTekdNTVVLYVd5bGxGYTN3a1plUVpoU1J5djZjWnc2Ul92S2tfQ2VqSnN3MmhwblczRUR1RWo4U3BQZGxaSVVueU5xbWJTNURwSkk?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-08-17T11:43:22+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 11:43:22 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bc647b1a7a7f070a58fb2fc21caec0634ec0c664",
+    "article_id": "7d3fc8102e8716f59372f30014a1c0ad7b701da1",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
       "strength": 0.9,
-      "reason": "US and South Korea coordinating on an Iran ceasefire, signaling active diplomatic efforts.",
-      "event_key": "us south korea coordinate iran ceasefire"
+      "reason": "Agreement to extend a 60-day ceasefire between Iran and the United States.",
+      "event_key": "iran us ceasefire extension 60day"
     }
   },
   {
-    "title": "'America Not Untouchable': Big Iran Warning From 'MAGA QUEEN' Leaking Trump's Nuclear Plan | WATCH - The Times of India",
-    "summary": "'America Not Untouchable': Big Iran Warning From 'MAGA QUEEN' Leaking Trump's Nuclear Plan | WATCH The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHZqWUlTdWZ6Umx6U0g2WmJLbGpzbkxqOXo1RXk1Q2VwbENXdWpKZzRRM1dXTXliaFdHTkNfWFhGSjhmR19OMWFiTi1rV1lQSWluU2hFelZfLVVsTUo4enRuODJTRDM3NFBtU2NtVVFqcmZTd3VrYmdiYTNDdVd2M1kwRU1wRl9qZ0lSR3NvMW5GdU90ck5OWXp6RVp3bDYwM0Z0TVZCUFE1Z0JUbU1hdGZqYzJzZ2hZcFBRVWlXSkRMVnB2RzJsQXFmdDRRM2Z2OUp6MU9VeXdVcDNTZEdNYjcwbjRwUlg0empsaWsxaVVmclZKcF9NUldwQjZYM2hZ0gGGAkFVX3lxTE5Nc3JheXExZ2xuU200bDRzcUxLRDZrbjBGWnlWQTBUQjN0LXZxMUkwQVdKSTc1eHdKQ1V5M1hJcElrdVFwUHlHbFN5ZS1RTTkxam4zWTFwSXNGbm9ISFAyTWQtZkdhUExrd2ZxODVnbngyUzJyZUw2a0M2YXQxMUc0OXc2bUJtQm9rUkV1cFJqWlUwY3IzLW55RUltOUJZYmlqVGFqZjI4aEFRdVBmV2l5QkZSZ1ZRT0t2b2lyUE5PNXRYTTMzSWRFMXVRYlc3Z3Y3VzB2YmhaWHN2OU5YYXA2LU9JenprUVktdTAzUUY3NUNqNS1jUDhSLXp5a0NfaGNiYTVkcnc?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-08-17T07:04:25+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 07:04:25 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "921fd27e3b2d2bdfcc3d8d6258c8ae2dc61defbf",
+    "title": "US and Iran reach new ceasefire — Al Arabiya - RBC-Ukraine",
+    "summary": "US and Iran reach new ceasefire — Al Arabiya RBC-Ukraine",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzNQaDhZenBadDJkajNtblFhMDY2M3lvR3hacC1aSDcwNEQ0bjY1RWZJSGYyRVhyYUpyOEJONGRwRWFzV2xvaFNod0NXSVhQS3lwV3RnSEFqTTRmTTROM3VsT0k0WTZicUM0WG44R3RCRWNWREl1SDkxVUVleFlPal9hcl9XeEpEMWs2OXBhdVdQQTd3?oc=5",
+    "source": "RBC-Ukraine",
+    "published_at": "2026-08-17T12:18:02+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 12:18:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a94e42052ed68272d921594601ad7ee545313d5c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "Headline explicitly reports US and Iran reached a new ceasefire agreement.",
+      "event_key": "us iran new ceasefire"
+    }
+  },
+  {
+    "title": "60-day US negotiation window ‘lost relevance’ after flagrant violations: Iran's Foreign Ministry - WION",
+    "summary": "60-day US negotiation window ‘lost relevance’ after flagrant violations: Iran's Foreign Ministry WION",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGRKNFlmVjhMVGZPQ2g0TkNtdldWRC1DdlBVN1JfT3FUQWJUbGVmakxpUFZ2ZVZLSnZBMGhsSzN1dEtPajNIVFE3akdBelQzUFpkckFpR2p6MFFiV1JFZFZGUVB0YXE5SnFzYU9qYlU0cDFiTFhva2ZOb2prOGJwNWJDRHRqY1E3a3F6ZWJFSzlUUzZnWWs4Qmx5Rkc5WG9ZUzJJMlRNOWFhNm9fR0ZUMEh4U2JtRjJLV09WNHZYTzRoTUo4ak9MOVFBcG1EUnpoUEhJ0gHYAUFVX3lxTE5CX3Qycld0anhYa0tEWkRLYTROcU9BNjlHN0diLXo4RlhuXy1ETTZ1SHhKQ1R3MmpWZ1hfOHpBaHptSlVra3U2d0F5elUzT3M0NkRzMEtzM05YdXh4bEcwdzdPRklwR3lMZWRCZkMxRHJVaUc5Rmx2eWlMWEE2d3YyeUVhcjVTMGE0TXdwSU14WUgxMGU5ODRIY0dHQ2FaSWs4Y0R0VW8ySUtBVmZpR2Q4aEJwRTVYMks3bUdobHdSOEE0ZFdnbG8tbDM5b1JScHdQUTRGQ2pQZg?oc=5",
+    "source": "WION",
+    "published_at": "2026-08-17T11:06:00+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 11:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a4d48daeb04608f1498948abf8a1eb8601404c7f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.3,
-      "reason": "Hostile warning and threats regarding US and leaked nuclear plan, increasing rhetoric.",
-      "event_key": "threat warning leaked nuclear plan"
+      "strength": 0.7,
+      "reason": "Iran rejects US 60-day negotiation window, signaling breakdown of diplomatic engagement.",
+      "event_key": "iran rejects us 60day window"
+    }
+  },
+  {
+    "title": "Iran says US violations make 60-day negotiation period ‘no longer relevant’ - Modern Ghana",
+    "summary": "Iran says US violations make 60-day negotiation period ‘no longer relevant’ Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkd1VMNzh0OTlCOUU2cHVNNkN5YmszTXRXX3Bobkt2SzhWOWZwSnJ0YWZEeDJhVDdrSFFXc0FjUnRQdnpXYndDY05HRnJZWmp4akc2eWxlLUZ5dFlzWXV2aDdQMmFXc1nSAVxBVV95cUxPdkljYzVzWjMzWEZMbC1oMUUtYjRtVG9FUUdJSWpZenFXellTMDhOVUEybUNrN3Zwem8xMWdUWlMyVTBuRGJ3NXFnVW11Y3IyUXZUMUh1WXFUZXVybA?oc=5",
+    "source": "Modern Ghana",
+    "published_at": "2026-08-17T12:36:10+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 12:36:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5a8d98455ed7af3e3a5dcbd60287de499fa86b7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran rejects a negotiated 60-day period citing US violations, signaling breakdown in diplomacy and rising tensions.",
+      "event_key": "iran says 60day period no longer relevant"
+    }
+  },
+  {
+    "title": "Iran does not deny report of Kurdish-mediated backchannel between Washington, IRGC - Rudaw",
+    "summary": "Iran does not deny report of Kurdish-mediated backchannel between Washington, IRGC Rudaw",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5b3EzUXpneGpNUGNEQjdRY0pXazY5bktkTmNsbEFJRjVmcUNhSGRtbWxMN1EzanZ2dFJvNjBxWUlHV1ZReWpMY2U4NlRrc2hrN1R1TWt1ekhjdVFrUV82ejlxWHAyQWpWYTE2ZQ?oc=5",
+    "source": "Rudaw",
+    "published_at": "2026-08-17T10:47:45+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 10:47:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "341a80b01c55e56c1eab5d2941085024200d21e3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Kurdish-mediated backchannel between Washington and the IRGC indicates active diplomatic contacts/mediation.",
+      "event_key": "kurdish backchannel washington irgc"
+    }
+  },
+  {
+    "title": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War - WSJ",
+    "summary": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-08-17T09:52:00+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 09:52:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5d1d2d88bce54490f4c0a3a5241000f4bc2cd01d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran hard-liners mobilizing and preparing for a prolonged conflict amid peace talks signals rising tensions and potential escalation.",
+      "event_key": "iran hardliners prepare for prolonged conflict"
+    }
+  },
+  {
+    "title": "Iran says 60-day window for US talks has ‘lost its relevance,’ as MoU expires - JNS.org",
+    "summary": "Iran says 60-day window for US talks has ‘lost its relevance,’ as MoU expires JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0FVaWEwak9YZmNMX0RvZV9makllMFRZNm1DM3M5YnRmYmNhSFVOTmhLeDN0RWdjOHY0ODVZbWM1Um54SXNTZHZkLWVhZEVmQlNxSzFPaXlVTTNTX0h3NTdEMUItNlJSWmFnWFVRNjBQY0hBY2tMVFQweE1TODhvVURJSGpBRjRDM3RhbVBoSkZ3cE1CQXpxbEc3OThTWDh3U2J3N2JQaGY?oc=5",
+    "source": "JNS.org",
+    "published_at": "2026-08-17T11:12:16+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 11:12:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "baa59fa9286a8270880efd6c43b30adf400fc338",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran says 60-day window for talks lost relevance and MoU expired, signaling breakdown of diplomatic engagement.",
+      "event_key": "iran 60day talk window loses relevance mou expires"
+    }
+  },
+  {
+    "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations - Anadolu Ajansı",
+    "summary": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekx1c3ZaOFBEYVE5X2NFYlBLMDNJWDluMWs2eFZDM2dDVE9pT3Jrem9sdkducVZiX254a1lQcE5oR0xHVEtQYkEyeGwzZ3pYd3hDM0NuMEpiamhCR2VaMHBKckxWLXpSdjBSeFkxYV9KQjVCWnVQMVBwWXg2WVBUcGZXVlZUUjBJZGlpMzUySjJ4S2lGLXdJTlNmeDNMVzhON0lNRm4xOWxpZnRvZ2xKQ2QxaFpueFB1a0JJU0JTSVJ1TllT?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-08-17T12:14:18+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 12:14:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4b4f8f7177ee30941e850f449cdb0ffbe592f87e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Explicit threat to bomb Oman amid US-Iran talks constitutes hostile rhetoric and raises tensions.",
+      "event_key": "trump threatens bomb oman"
+    }
+  },
+  {
+    "title": "Iran prepared for larger war, fearing US talks were cover for Israeli attack - report - The Jerusalem Post",
+    "summary": "Iran prepared for larger war, fearing US talks were cover for Israeli attack - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mMnFIb0FrTGc0cFgyMmYyRkZPWGd1UTZDVDV0OS1pdzliQjNTeHNqSDNyVU9sSWIxQUhlSkJrdjgtcUVjWUdVV2p6ZlRlRGxpWTBfYnFEME12eHIxY0pkVlJNTGVxRmROT3c?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-08-17T10:54:44+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 10:54:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1fb5cb574ce60d28e4e7ade36d7458711742c082",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran prepared for a larger war, mobilizing over fears US talks masked an Israeli attack, signaling rising tensions.",
+      "event_key": "iran prepared for war over us talks fear of israeli attack"
+    }
+  },
+  {
+    "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations - Financial Times",
+    "summary": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ta1pWbWUyQU5DV0dEQkFJaTM0QlZtMTZaa1lNWlVNekVwMW1HVDQ2MzVZZ2JsSkRKUUN6WV93d2kxdEM4djBmQ3YtNENkVUVxNHFMUDhHT1NuWlRYSnNueE1tVU5BQTNSSEJxc1NIQTg?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-08-17T11:25:49+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 11:25:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8a0538ef2ea90600bb375abc50fcc9b43d66a7cc",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US president's explicit threat to bomb Oman is hostile rhetoric escalating tensions around US-Iran talks.",
+      "event_key": "trump threatens oman over iran negotiations"
+    }
+  },
+  {
+    "title": "Fading U.S.-Iran diplomacy hopes push oil prices higher - The New Voice of Ukraine",
+    "summary": "Fading U.S.-Iran diplomacy hopes push oil prices higher The New Voice of Ukraine",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWVicnR5SGJRUGYta1Rla2pMZG5XNHA2c3hXci1Yc05QWlpDQkszcjg2Y2RNSjZsOUd4MTlTb3FZUFNvdi1KTmdIUUpPa0N1elhWX2M1QmtHS1E5dUFRamQtUGdKOUI0aEx5SFhHUWYxb3ktMHhqb0pSMV9WNHVMWjZOeW5lMWMtWjdmcXVLQmQzb0psX2tNeW5OZzR4WG1Wellla01BUVh5ZExmS19ZWF9HQzFGVHB1d3JXc0d1MC1jZ9IBvgFBVV95cUxQZXVFTExsVnhDWGxmbnd1WFY3SmZHX3lHd1pmNE9aRUN6RHRYSjBQUjh1ZElpaWg5Q0FEMEpXVHBZdTdYRkdWcklUTjhuV1U1anF0WjdsbHAxN2E1TWlDZXQ4Y2RqSXJmVzdVeUE1WFBTRkN1RWMzUHV2c3E1bFF5MC1HdGVqaGp3bzVPT0JJY3RTdnc1YXFoOUxtVlhhTFdaSFFuaGVmZGZybDFIMUN3emdlLWpwczRKemkyOUR3?oc=5",
+    "source": "The New Voice of Ukraine",
+    "published_at": "2026-08-17T09:43:00+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 09:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "54172bdff4b0ea0a834fa31f8dda6e7696c33167",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Reports diplomacy hopes fading, signaling breakdown of talks and rising U.S.-Iran tensions.",
+      "event_key": "diplomacy hopes fade"
+    }
+  },
+  {
+    "title": "Contributor: The Iran war has exposed the limits of the U.S. military - Los Angeles Times",
+    "summary": "Contributor: The Iran war has exposed the limits of the U.S. military Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGhCdmUtVzlqZW9EWXBSN2hkZEczdVE0YWhrbDYwNUJhcU5NeHZ4enVMdHVoSUpJT1BIR0FhWHg2NzdWbmxseHlULWRpN2pLdVlOd05ETEExTWhHeFkxUjlVZmo2Q1FwZXNUeFVSUU5fWkVsSjByajVzNU54QUJ5RV9kUFlYQTg1Rmh3VmdtaEkyTkE2czdz?oc=5",
+    "source": "Los Angeles Times",
+    "published_at": "2026-08-17T10:00:00+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 10:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "522ac236b5cc4e04cf201fc2a6fda132b46fed96",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.2,
+      "reason": "Op-ed analyzing US military limits amid the Iran war, reflecting heightened tensions rather than a specific diplomatic or strike event",
+      "event_key": "analysis us military limits iran war"
+    }
+  },
+  {
+    "title": "Trump threatens to strike Oman if it interferes with US-Iran talks - Free Press Kashmir",
+    "summary": "Trump threatens to strike Oman if it interferes with US-Iran talks Free Press Kashmir",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFBXOU1TTTlNWHhldjVCdW03WFg0dU1FOU5ZOUtfeWtWYzkxOFlxMU9lem40d3dKLUg3Y3ZfTGE1c0NJZ0taUFVGNGNJOVlySjBSNmZQVzJDYkI5b3BPWTlaTnlpdk1WcDdrMHF3RGozWXlJLTdzVi1YN29DcnB5LWRsd3Y5Z3VmcVpBMVE1T0FzNXpmV1lKY0RxSTNFUmpTOHFPRGczdVNhcl9w0gGyAUFVX3lxTE43TnlEcnlIN01oOTROekFwVDU0Z19iYUZ2SUNldTRNc2lBZU4zeEpTNlV1TDdCeEtkbS0yUnNZVGZ2YVZNRGdGZjVqY2NHSW9jdTFTN0lJUGQ1Tll0N1IxTmtYdGdNSTNJTTZOTEQ1QWdjVW5LU3NHWER6Q0NBTDlHUFdVTGJja25RVjZMNjRsNl9GRmw5cTQxRkJmUVh1WlJLbVBhN2tiRWhhZ2c1ajZUZGc?oc=5",
+    "source": "Free Press Kashmir",
+    "published_at": "2026-08-17T12:11:31+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 12:11:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aebdc78571b2081616c73e02652ebfbffbfd606b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Direct presidential threat to strike Oman raises tensions and constitutes hostile escalation.",
+      "event_key": "us threat to strike oman"
+    }
+  },
+  {
+    "title": "Marjorie Taylor Greene Warns US May Be Considering Nuclear Strike on Iran: ‘America is Not Untouchable’ - Benzinga",
+    "summary": "Marjorie Taylor Greene Warns US May Be Considering Nuclear Strike on Iran: ‘America is Not Untouchable’ Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTGVxWW9yaUVFdHlKR09hTFdkWnpFdjYtQ2QxQktsQVF1MVZRUy1URVN3LXdmWUphalhSYS00eGhfWEdNQTRiU3lnLUxncTdYZlgxYURIMUtCYVJkd3dJLWVxbjFBaHgwRUZXMHZwREZZV0U3Z2xxV1J3eUdGMjFXbzlxNTNSOGxZNU5XNHdjQk4yNjhVY0xQZzh4TUJiZWUzN18tY05tbmlpN0FWc0hKa2F1WWZ5b3BOMzB6UHNNak14Ump3dDJKNVlYLTBCWHFzcTJxRGYyUERHWEJtTFJDVU1aTzdNNDA?oc=5",
+    "source": "Benzinga",
+    "published_at": "2026-08-17T12:01:14+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 12:01:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b4bbd34adc77291240b413fd9c619827d3d749bd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.55,
+      "reason": "US congresswoman's public warning of potential nuclear strike raises tensions and hostile rhetoric toward Iran.",
+      "event_key": "greene warns nuclear strike on iran"
+    }
+  },
+  {
+    "title": "U.S. Walks Into Iran’s Trap? IRGC Quietly Rebuilds Missile, Drone Arsenal For War During MoU Period - The Times of India",
+    "summary": "U.S. Walks Into Iran’s Trap? IRGC Quietly Rebuilds Missile, Drone Arsenal For War During MoU Period The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUk5KYlU1Vy1VMWFKSXROTEhuTFFEUFZ4S29pdEJibU9yZXA3TDhHa2g1S2JKNlNCNVRDdW8ySHYybGRqY2kwdDlSVG9YOHJVUnUycDB0T0RjNmRReDZoMFlrZF9PT1ZDYXkxWGs3Y0tvYkJjX0RsREZrT1JjeEh3UW9wTXM5c21KSVpKMzFCT1dLbVI5Z1BRUDNWeGFXSkc3WGJpd0QzN1VhSm5Nd2RPeS1oU0U2VEJMOUk1QzI2Vm40NEtNWDl5NUlSaGYyVU91U0lsX3Q3R2lXeW03SFBDdmQ1NFBGaEVfRWZzVndhRER1NTd4SFhZSmg0czVCOE9qZEV3UmVXY9IBjAJBVV95cUxNSkFaTi13SldwcG95TUM4d3lMWjlkZnl6eUJ3b3dtNGJ6QS12UmYxS1piY2dPLXcyRHpJSWJqdkJhdDg3YW5yU3ZqT0V4WHNzc0pMcHlUdjVmWVBsVXNmWW1rMkgwcUM0ZDZzY2R3TUpHWUxKQW4wbmtkbVdpdk9QM29kLVVISF9LdmMwSXliSHBUekxjbTFUOGs3VDV5WndWUmEwUmlUbDNuWEphS1d0M2hDREk4UjE0Q3lXcEowMVZtTnJsSHNHQW9seWtKS0FkS0YtY0xZelVQLTk5Z2xZMlQ2WkdfREc0eTkxSEtEdHU5elEtckJySE5OaF9YWUpNRXpTdkxJcUJ2Nmxf?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-08-17T10:12:45+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 10:12:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a6e570781bb0161341826c535fce5c25e0a44d8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "IRGC rebuilding missile and drone arsenal signals military mobilization and rising Iran-US tensions.",
+      "event_key": "irgc rebuilds missiles drones escalation"
+    }
+  },
+  {
+    "title": "US will bomb the s**t out of them: Trump's warning to Oman over Iran Hormuz deal - India Today",
+    "summary": "US will bomb the s**t out of them: Trump's warning to Oman over Iran Hormuz deal India Today",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkhLd0E0bjBJbHdLUjAyZHZRMVNrMk1aZ28yNEs3VlRqNzZlU3B2d2xETmVFM0JYWjdBNzE2U05OcU9ON2RnTXpZN0U4NXVZN1E2dnltQkVhRm9EcWRVRDFpVlE4Mkl3aV9QZ2Zteko3M2JuN2hFUU5RMVFTMXZtOXJQdEVuenhTTUZoSndENC1NS05SMGlMYW04SWFPdEhPSGNyU255XzNPUldaM1lCLUZsVlEtRUhneXZTOEkwd1A2ZVJ3SnlSU09VY3czNlR1SHZ3SkJGSkJEeU15c3d3NQ?oc=5",
+    "source": "India Today",
+    "published_at": "2026-08-17T12:23:53+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 12:23:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8e5698d3a6d007049092003802866fe51c33c0ca",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Trump's explicit threat to 'bomb' Oman over an Iran-Hormuz deal constitutes hostile rhetoric and escalation.",
+      "event_key": "trump threat to oman over hormuz deal"
     }
   }
 ]
