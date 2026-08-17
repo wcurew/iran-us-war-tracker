@@ -1,53 +1,206 @@
 [
   {
-    "title": "US-Iran MoU expires today: Tehran and Washington remain at odds over ceasefire terms - Firstpost",
-    "summary": "US-Iran MoU expires today: Tehran and Washington remain at odds over ceasefire terms Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUE0azlOWEZUY045TDNpRWV4ZnBMZ0lrYVhiZmdlcUJodFNCb2cybjJoNjRvRWdiLWViN0ptejg1NUFBMHNVa2lkZzBKZjdma3lUaE9UalBIT2N3X2oyR3hRU2UyMGRJa2xwY0oyaXY4T0VMd0pPbjZURUFCT0FoaVJGQmY2N0xRcFdUZzhJa3lHZTd0YTZSQkVjSDk5VFFUQjBuOHZLM3drSVRuN2hZTjBwZnFrcVoxcm1RWFBDakxEdDlpSVdkaDROYktmOVnSAdQBQVVfeXFMUGtBWElMQVAxSnhGX2pLN2d5VWFQRlJiNF9VZHFuampqN2IxS1hTd3NqRmRHODlUYjJ3OVEtaXpwT1Z2bGZfb2dEMXcwdDZ0dENIQ1JBLUd5SEp1ejBOeUNXbG5zUlptUTBvNHRDWjhVNnR3TlVYZGs3TXZlRmVYdlpITXVUbExlTzZDUnZvUHVjVmtHTUpUUXB0WG5NWS1SVE9RVVNOdHZVS1F5YUpPeUkyaEVBelNaTm9iNjdpSFZHc2hpT0dnMklhajNrSDBBX2U5M2o?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-08-17T03:36:14+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 03:36:14 GMT",
+    "title": "CNBC Daily Open: U.S.-Iran ceasefire set to expire - CNBC",
+    "summary": "CNBC Daily Open: U.S.-Iran ceasefire set to expire CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYm1GclJyUzcyeERCMV95UGhIQU1pMVk3MEpVNEh0VXQ3dExWdnVlUFZpaHVnbHRLZG84eFFTb241ZXU3Z2FrVTZiNGJVV3I5Q2xIYmYwbHBDS0lha3AwV1g2Qm9qRUtfeDVrTzZDSmJTWVh0UjhIbVByc0tSUFBsNTVPV192bGxj0gGOAUFVX3lxTE91SU1vZU1meWlkWnQ1MGRwYmpsVTh3NkptM1ZHOVUxY2NKYVhBVU5Yc0JzR25jRThPekJOc2s4WDI4bVp4ZHhaeTVOV0JaSThyOFhRejludm9CNW5BNDMxa0U2Z3hWdzdqeGtmaUV3Y2FUVEVuWkVxSnVNVHpuVFZIZXliSzF0S2JKcTZSdXc?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-08-17T06:04:10+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 06:04:10 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0cff89f05c8cd29d6059a3e9d2fecce5b28c0188",
+    "article_id": "de3d95c75aa6f856b84167450bb4fa5ee7432eaf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.75,
+      "reason": "Reports an existing U.S.-Iran ceasefire is set to expire.",
+      "event_key": "us iran ceasefire expiry"
+    }
+  },
+  {
+    "title": "U.S.-Iran Ceasefire MOU Set To Expire Amid Tensions - NewsRadio WHAM 1180",
+    "summary": "U.S.-Iran Ceasefire MOU Set To Expire Amid Tensions NewsRadio WHAM 1180",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVZvVW5OSzhQUDdKZUViUExKOFRYLU9yRGwweGxrUkl3S0w3b1JKYWtJcVlvdTBuanZyQ0lkcVBadmt4WldGYkYwYUtvRl92VmxvbGlHQVFEXzQ4NDhhYkVyYmlfcEVia1Voek5TREhfc0N1aGJzVkN5YVhYUXFCVklyWHdGbHB1YmZuWGRzanRfeUJkUks0bFlhM3FIQQ?oc=5",
+    "source": "NewsRadio WHAM 1180",
+    "published_at": "2026-08-17T05:54:00+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 05:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e44c77d09bb34c3062729a9b99fc56ce40888f3f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.9,
+      "reason": "An existing U.S.-Iran ceasefire MOU is set to expire, directly about a ceasefire arrangement.",
+      "event_key": "us iran ceasefire mou expiry"
+    }
+  },
+  {
+    "title": "US-Iran Ceasefire MoU Expires Today. Will War Resume Again? - NDTV",
+    "summary": "US-Iran Ceasefire MoU Expires Today. Will War Resume Again? NDTV",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1BnZDdUVE9XX0Ntb1RYRWVheU9vTzQ3ODBnQmppaF84X2dkanV0WDl4c0JfbmtPU1NHR1VIOXNZSkZ5b0lSeDZWUTM3NUtFM3ZaQmtHc3lMcU9kSkFUdHJvRUZOd3hQcTJocXJVajZVdDliNVNMaEl2MGk4bDdkU0xkS0ZDazRoLWhPUVJKcWt0eU5XRmJfX2dkaW5EN0HSAacBQVVfeXFMTllXaDk3dHR4X1lhdVVVT0lwdzBMeGViLUpfeGVybXZwMXFkN1RYcUw5X2JrZjI1TS05cVdiaVQtQ0FaNThtTlBtNmxkMWdFckkybW8zclhnemMwX2tZdWVwZEhFTEs2RUpTTlpXczJOdXRzS1Y5ekZDYmd4RWNMZUlGYXFibUVDWnU2NUhCeG1RMGZ6QjFlMnZWVjNpazhMZ0dZRmdmLTA?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-08-17T06:08:07+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 06:08:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "40163ca327411c3ed840c3c9c8a848bcfe10e1f2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.45,
-      "reason": "MoU expiry and continued disagreement over ceasefire terms indicate a diplomatic setback and rising tensions.",
-      "event_key": "mou expiry dispute over ceasefire terms"
+      "strength": 0.8,
+      "reason": "Expiration of a US-Iran ceasefire MoU signals breakdown of restraints and heightened risk of renewed hostilities.",
+      "event_key": "ceasefire mou expiry"
+    }
+  },
+  {
+    "title": "Israel Kills Two Hezbollah Commanders in Lebanon as US-Iran Ceasefire Nears Expiration - SOFX",
+    "summary": "Israel Kills Two Hezbollah Commanders in Lebanon as US-Iran Ceasefire Nears Expiration SOFX",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWV1M1g2TEtUbVhKa0pwLUxxUXhCdkZOQk03MkgwWTJWa0lfYi1RM1AyMEtacERxVDVBZEFMWjdzaWVLdlQ4NThKdUNIcTZEUHZVNjFNbXpkMEFNbE02bGxfUGlqaEtFS25tZFBEaXJuaFRrSFk4QjRFSVg0ODk1TDdvaGdHenA5X05mRmozbDVmVGNoMmRqOHd0aXlEQW5EZ3c0Q1ZTb3F4Z01i?oc=5",
+    "source": "SOFX",
+    "published_at": "2026-08-17T05:00:15+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 05:00:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "53433e14e25555ab9792a57e47094d394c321117",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Israeli strike killed two Iran-backed Hezbollah commanders in Lebanon, escalating proxy tensions as a US-Iran ceasefire lapses.",
+      "event_key": "israel kills hezbollah commanders lebanon"
     }
   },
   {
     "title": "US-Iran 60-day ceasefire is set to expire — What's next for Trump and the Ayatollah? | DW News - Modern Ghana",
     "summary": "US-Iran 60-day ceasefire is set to expire — What's next for Trump and the Ayatollah? | DW News Modern Ghana",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZnVWUVBTZFBIUmVEMGxya2FOT2g3RWpSQWtmcTVXUUloS0VKQ0VJTkdBWGNQMlk0QWJWOGR6bzZkV0piMVVZLTJ4Y2VzdmQ2NWNWX1VLRkhkUVFuZEHSAVxBVV95cUxQTWREcTg1ekxUN2lobkMzOVIwMzFPVGo0cVRRSzkxU1Y1eExldUJwZXQ0M01XYnJRWG42cFBUU2R5bGVpMHdoSERWTmdGNElUaWJkT2RUeXFBZTBIbA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KTW9hUWVhQ1Mza1Y4WGhUWFU0Y3VqN2xwbmVrRjJhdTNzZGxQS19yV2k4aXc3NklqYWJIT3NwSF81RGtDOUxMc1ZLaTA0cTNZZnRkZFQ3QkYyN1lhVkHSAVxBVV95cUxQTWREcTg1ekxUN2lobkMzOVIwMzFPVGo0cVRRSzkxU1Y1eExldUJwZXQ0M01XYnJRWG42cFBUU2R5bGVpMHdoSERWTmdGNElUaWJkT2RUeXFBZTBIbA?oc=5",
     "source": "Modern Ghana",
-    "published_at": "2026-08-17T02:30:15+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 02:30:15 GMT",
+    "published_at": "2026-08-17T06:38:16+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 06:38:16 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b69d39169f31189a7df42865ef718ebe634db0e5",
+    "article_id": "3f16f4895e64c31722e7b26f856629c21cd46464",
     "source_weight": 1.0,
     "classification": {
       "label": "ceasefire",
-      "strength": 0.8,
-      "reason": "Article centers on a 60-day US-Iran ceasefire reaching its expiration and implications.",
-      "event_key": "60 day ceasefire expiry"
+      "strength": 0.85,
+      "reason": "Article about a 60-day US-Iran ceasefire reaching expiration and implications.",
+      "event_key": "us iran 60day ceasefire expiry"
     }
   },
   {
-    "title": "Trump Cuts Back on American-South Korean War Games in Retaliation for Seoul’s Refusal To Support War Against Iran - The New York Sun",
-    "summary": "Trump Cuts Back on American-South Korean War Games in Retaliation for Seoul’s Refusal To Support War Against Iran The New York Sun",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRFgwNVFIMlN6dURNS2RsVDdpY1JxaHdpRllDYXhlUndjRHI1WHpfeWFycjZsRm43dXNuYUtWcVRFWktRcW1PR1UzVUJCNXdTLW9xWGtwVmg0YlRRaDczTUJZbUZ1TTdBT3FSOFFaUF9nMG1nWGFnYUFZV1hUZENqSjZhVlhnNzVYVG5zZldpZVUtUXA1MUNwMnAyX0tPb1lvYzRGVnk1TUpWaTF6eUxYU0R0WUswS0pxSmhUaHN6NUp0WnhMcWpxOXRncW11bG1XazM0dnBKNUVsdw?oc=5",
-    "source": "The New York Sun",
-    "published_at": "2026-08-17T01:54:00+00:00",
-    "raw_pub_date": "Mon, 17 Aug 2026 01:54:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a8c5a18c38defb53daade8cf20d854f221cba74f",
+    "title": "Iran prepares for wider war as Mojtaba Khamenei hardens strategy during US talks - Ynetnews",
+    "summary": "Iran prepares for wider war as Mojtaba Khamenei hardens strategy during US talks Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0UU5zN0F2SElNN0pLdEFkOFRzOVFxQnN6bjBDZnB1Rmc3bmtxY2xuMGVSRFpXb1g2V2taRnRpMnJIZFdJWDZ6aW1vaXJOQWozU1JHQXFB?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-08-17T05:17:49+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 05:17:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "21089384915f3c465535d2bfdb3af001c9b797d7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran preparing for wider war and hardening strategy during US talks indicates rising tensions and mobilization.",
+      "event_key": "iran hardens strategy wider war during us talks"
+    }
+  },
+  {
+    "title": "Israel Strikes Lebanon, Adding Pressure to Stalled US-Iran Talks - Bloomberg.com",
+    "summary": "Israel Strikes Lebanon, Adding Pressure to Stalled US-Iran Talks Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ19YM1ZmYmRzYTMtS2d2SDZtVHk0djlhZVRFVDQyZW9VWHRNWkJWUl9Fb3pHRDlsR3ZwNkRUUlJKcFRLNHlidktLalRxUnBkUkw0YkR2MjIxeEcxbWwyTWNBLXFnamxyNVlZb1BkbjBzSUpEUVZ0OFZodGN6cGItSlRsNElpNmxvQkJuUFJEUEpPZlkwQ2NldmVZRDdXakxvWEZOdnBabE9XSElNMzRnMWxuSEl5YVdH?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-08-17T06:13:00+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 06:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8bf90c1526c91e3086ba5cebeb1e92b54a98d2a7",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.78,
+      "reason": "Israeli strikes in Lebanon pressure stalled US-Iran talks and likely target Iran-backed Hezbollah.",
+      "event_key": "israel strikes lebanon hezbollah pressure us iran talks"
+    }
+  },
+  {
+    "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war - BBC",
+    "summary": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-08-17T06:24:31+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 06:24:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dce5cd6c790839d04d15cacf3c532103ee9161d4",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "US cuts back joint war games as retaliation over Seoul’s refusal to support war against Iran, a hostile punitive move.",
-      "event_key": "us cuts south korea war games retaliation over iran support"
+      "reason": "US president threatens to cut military drills as a punitive response linked to Iran conflict stance.",
+      "event_key": "us reduce drills southkorea after iran stance"
+    }
+  },
+  {
+    "title": "How Fake News By An Indian Account Affected US-Iran Nuke Talks - NDTV",
+    "summary": "How Fake News By An Indian Account Affected US-Iran Nuke Talks NDTV",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcW9idmx0MGRTWUpiWnY4dzhwcXZtYnFnZ0xxeVJKX3lkZlA3Y0RvN0dLVkluLS1rZHNDQS10bEpPRnktRXUtcHFPN2xVQS1UVDFuOWYtZ2hBUHRscVVCVWdqUnNFNWhuMEdBRzB3TUl6bGtidzdCVzFER3RZak5Qa01NYUJmNmxXbms5cnFXRXItLUFUQ1NiaW5XcjJTaENORE9SUXNzQXVVRDBJZjU1SnNHU2V5a2JoYU42Q0d2Mm56WnVsTXlLSVBEQVd1ajA2Y1HSAdoBQVVfeXFMTnV2X0hzZHBodVhXRHVhemVkRUdrWXAwM0ozT3pqUnZ1ODJtS2syd21vZmtqVUFrTzZ2Nld5djNDWlJwNUVYYUM5bHNnSFU5TXB4RHItTjBuaEt5QjU2U1QwazA5RTl5YXpSR0tDSGJKSFU3MVc0dmd0cGtETGdqM00xbVhTbk9acXdYeGdHZ3B1MXFXOFdQQ01neGJWMXN0ZHVPcmd5ZWZYNVlHSDRPYTRMM0NrdDFQdDdpQl9ZRmtMVzlPWldjZFBuOXBfT3FaRnhtWWRqUEVpNUE?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-08-17T03:47:07+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 03:47:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6f8c8f8d8e8b168964b463dbe33734a9c9c74353",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Article concerns misinformation affecting active US-Iran nuclear talks and diplomacy.",
+      "event_key": "fake news impacts us iran nuclear talks"
+    }
+  },
+  {
+    "title": "The U.S. and Iran Will Fight Again Before the Mid-Terms - Modern Diplomacy",
+    "summary": "The U.S. and Iran Will Fight Again Before the Mid-Terms Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMm52MG44M093QXRzamhCQWltLUIwbWNIYVFsWk1HZWJ3dkVoSHNxazRnSktvM3lpY09KTnJXeVhJV1ZROVpZUzRQemJFa0Vzd0VTTHZvRWZYMlhZeUpySm8tNzZJak5CelJzQUlabTIzSFU5YUo5WncwX0NuSjVpTVJRX1NJSVFDeDdxRkZUV2ZoRGpPeTNTdg?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-08-17T04:30:35+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 04:30:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a8ca3ee1cac31d0f5863813e04bb255db69d97c8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Predicts renewed fighting and heightened tensions between the U.S. and Iran ahead of midterm elections.",
+      "event_key": "us iran predicted conflict before midterms"
+    }
+  },
+  {
+    "title": "Iran Missile Tactics Catch U.S. Off Guard; Air Defences Including THAAD Exposed; ‘Target Destroyed’ - timesofindia.indiatimes.com",
+    "summary": "Iran Missile Tactics Catch U.S. Off Guard; Air Defences Including THAAD Exposed; ‘Target Destroyed’ timesofindia.indiatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNME84Ylhrell1Njh3SzJ5N1o2ZHIzZ0lEVEd2NGlxV1FSZzl4b0JYemN3TVk3b01VSEhnUWY1bXJiZkNlZ3g5dVV6VU9lcTh2RVU3MmxtdmVuWFlhY1ljTGlrRmttdk1ZcWY0ODVpV29NMzFpaGVQYU9JbXczRlFxRVloMFcxS2pVQmF3NzBkUDNEZC0yT1dBWGFVWDQ2aWlEakdKTXZvZU9oVkFVRXpqdU9TZXYyY3RHNTltU3ZUZ2YxQkxiNGtISXdKUm1KTHZ4R19KQl95NjVXMEstRl9fUEFTZ0RuYkZSbHFSTUJGaXVZaEd5aXZpQWg3LWNSakVxYS16SkV30gGLAkFVX3lxTE5GMkZpLTR0b2dhZnJfOHlxc1lNU3NrOHdydUUzSUNuNzlZXzNEWTVPaGM0XzJEU2J2MFBDSkM0ZDBvWWEwVmczV0FWeE1fazZiU1pyaHF4aVo1a2Z3eXdhQ2J5SUtyd09pTDl3SUhMQ3hWOXRRbmdoLTRlSEZlWTdNamFsZUxJUkF2dDduTzMxTHlVWVM4SHAzWElXUTNSYmdCQzgxaWFPYTY5TkdidTB4ZDhOb0xzM1ZaV0YzZEJHamdRTGZXLXJQTDdjbXh2Y09pcG92LXc4U1c5anVrOWJnY2duNEY0U0NkbkNLSmtjWjU5S3BnQ1I2SGdvYkFkNDVabzVvR3RTRmF3dw?oc=5",
+    "source": "timesofindia.indiatimes.com",
+    "published_at": "2026-08-17T04:11:20+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 04:11:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "07b6a6e279b487479c0d40ef9acd95c8663d1fb6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports on Iranian missile tactics and strikes that exposed US air defenses, indicating direct military action.",
+      "event_key": "iran missile strike exposes us air defenses"
+    }
+  },
+  {
+    "title": "Iranian general threatens Washington over Strait of Hormuz claim, offers 30k reward per US soldier - ProtoThema English",
+    "summary": "Iranian general threatens Washington over Strait of Hormuz claim, offers 30k reward per US soldier ProtoThema English",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmlxaGl6S1Rfcm9KNEg4UzE0bkFySThpdy1sTTR1QTZFR2w5a2o2WlRtQ0k1b0NpRVBHZVZaQ05NTFlSbnhTdUhJc0JNRjE2UlRsdkpONXA3Q3l3azFmbS1HbEJ4Y1dKWEhJbmg0RlBVVlJmM1pkbUlORXlvcDdUeHBqZUl3dFkwWFBDZmthODZQNFJEMXJTNlVtTS1EUnNTS1VfUnNIVkxVT3A5NEE1T1AxTzFhR1NkdWFYTlBNUEYxRkRPVGlfcTNBYzJpVGM?oc=5",
+    "source": "ProtoThema English",
+    "published_at": "2026-08-17T04:27:14+00:00",
+    "raw_pub_date": "Mon, 17 Aug 2026 04:27:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ab3529ff9a35d2fc77d52cc9cb464375f6682438",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iranian general's threats and bounty offer against US personnel escalate tensions.",
+      "event_key": "iran general threat bounty strait of hormuz"
     }
   }
 ]
