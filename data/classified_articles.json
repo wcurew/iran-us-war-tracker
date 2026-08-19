@@ -1,291 +1,121 @@
 [
   {
-    "title": "US-Iran Ceasefire Expires Amid Ongoing Tensions - Caspian Post",
-    "summary": "US-Iran Ceasefire Expires Amid Ongoing Tensions Caspian Post",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQME5DUDJueXgxTlBpdDNzV2g5SmVtMVdhR3R0d2pjeFNoUmkyOUNKWkZORzl5T0JuRlViVjRQdTlkeE5HWjB0NmtzQ3ZhWV9YSVpzWFZIcV8tRk9qdWk1RnFJMmQtZlFDb1dWMERYYnJvdmRYYVpMOVl6TjNoaTJjcFRR?oc=5",
-    "source": "Caspian Post",
-    "published_at": "2026-08-19T09:18:11+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 09:18:11 GMT",
+    "title": "Iran threatens new offensive as U.S. rules out extending ceasefire deal - FOX 29 Philadelphia",
+    "summary": "Iran threatens new offensive as U.S. rules out extending ceasefire deal FOX 29 Philadelphia",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QQ2xkZWdFQVdQaGF1c2NSZVlJZC02YV8yTy1lX3hBZmd5WTlienZOVFNWNFZKZGtFc1ltRTIzcE9oM1VwR1lnTVJBWFpjWm5ueWFXVXhQeUMwaWJt0gFiQVVfeXFMT3Y4cllqeXBJZmZYaExXR1EtVEh0Yjg2SU1QdEFsd2M5aDFDOFR0SnhKR2FIazB5S0gxYkxLMWxWQ29TRmdVeTdqUTBRZGZPdlpoZmlGM2VYQ0xfMzg3a0F1aFE?oc=5",
+    "source": "FOX 29 Philadelphia",
+    "published_at": "2026-08-19T11:33:07+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 11:33:07 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c372a70b3710d649a4ee8610223abd62e4a9ec69",
+    "article_id": "672056eaf11dbb964034c6ec7dd497e76afb444c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Ceasefire expiry indicates breakdown of pause and renewed tensions between US and Iran.",
-      "event_key": "ceasefire expiry us iran"
+      "reason": "Iran threatens a new offensive while the U.S. rules out extending a ceasefire, signaling rising tensions and breakdown of restraint.",
+      "event_key": "iran threatens offensive us no ceasefire extension"
     }
   },
   {
-    "title": "Video | US Iran War | Trump Doubles Down: 'Not Looking To Extend' Iran Ceasefire - NDTV",
-    "summary": "Video | US Iran War | Trump Doubles Down: 'Not Looking To Extend' Iran Ceasefire NDTV",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXhCck5SREJHUFJlNVdyaXdrbHllbkNzYUFreS1Oc2NRUlBBUGFmcDRLX2hfYmNKbkl2MGxmczkxTDNac25sZHJSRmZuMmNCamF6NWJic01wdmcySlNkVFo2S0I1QmozN19FUEdDaFFqM0xvQmRZVk9MQUNwaE1Ia24tYkN3QzlYTElzNVpYMkh5aWdB?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-08-19T07:03:50+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 07:03:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "38c54119a309918de2afdf44fbae8f7d5c5349b4",
+    "title": "Trump’s ‘bomb the s*** out of them’ diplomacy: Iran hates that it’s working - Washington Examiner",
+    "summary": "Trump’s ‘bomb the s*** out of them’ diplomacy: Iran hates that it’s working Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLU5TVk81b0NrRmJLRVBHUXlwS3FkdG9VaWlwT1JENnVRckV0cUR2aHFyVmtzeDZ1M2s3TnRCRjYzUjFXa3ZkNlBKY05DNFhNRG1UZzhIcXBxNGNNSjBkNW1BXzZXanZDMWxMUktNZ0xad2dfOVB1NVhwOWxVTTdJUy1BT01NTTZuYjd6czMyRWk3Qk1WcEIwRkwtTFVnN0drc2c?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-08-19T12:00:00+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 12:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "990f58ef60de99ff8e50fd604b4163fa5046995b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Trump publicly refused to extend a ceasefire with Iran, signaling increased tensions.",
-      "event_key": "trump not extending iran ceasefire"
+      "strength": 0.7,
+      "reason": "Hawkish, threatening rhetoric by Trump increases tensions and signals worsening Iran-US relations.",
+      "event_key": "trump hawkish rhetoric increases tensions"
     }
   },
   {
-    "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran - CNBC",
-    "summary": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran CNBC",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWXltSkJ1VVdJSDBqRktHbUd0bjg0cG5KcjhudGFwaUFCLUk2cUxndEpIalBiUndYRzM2azBKU1Q3VUdwTjZhNjM3SHVCS0Y1Ym9qSy1rSzlMUDMxb0lSLUxfekhvdHdPVlUtdnln0gFzQVVfeXFMTklBNnA3QkJxbGljbGpEei1oYnVWeWJ2Z1hjRjNaY0M0ZGlMR0xHa3ZlUEJrcEhBWG5qWHZ2Tk5KMWJPMkpQZFl1U0R2cnI1TngyQWVrY1NadEx6YUR3dTUxdGEtY2V3S3REdDA5bHNzRHZOVQ?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-08-19T06:52:12+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 06:52:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "485326c56acf042466e909faaed96ecea39c7e4c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Report says Iran is weighing attacks on US targets abroad, signaling rising tensions and possible hostile action.",
-      "event_key": "iran weighs attacks on us targets in europe"
-    }
-  },
-  {
-    "title": "As Talks Stall, Iran Tests US Military Restraint in Hormuz; UN Inspectors Visit Syrian Nuclear Site - cbn.com",
-    "summary": "As Talks Stall, Iran Tests US Military Restraint in Hormuz; UN Inspectors Visit Syrian Nuclear Site cbn.com",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXoydUx4MExqZF9NQ3FFRGFidmFNTXQxVFJSbWU2RG5RT2twM2JrVUZRSm5FWkVyZWxWWTZsUEZRc1FKLUJLMGtESFhmYldBbXEtYjU2LXJmd0hYZlVTZlR4dS1Ob0ZWTjF5dFAwVllwTXdkMDctTHRkUGtPaDljcG9vUkJQNFh6d0dMR0xtbEZmLVN5RFFJc3BKSGkyUFJfWFdpSHowbm9mUkhFc3E5MldIWHg?oc=5",
-    "source": "cbn.com",
-    "published_at": "2026-08-19T09:09:07+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 09:09:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d33f0000bff792deeafa2246446fed8c70eb90db",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Talks stalling and Iran testing US military restraint in the Strait of Hormuz indicates rising tensions and breakdown in diplomacy.",
-      "event_key": "iran tests us restraint hormuz talks stall"
-    }
-  },
-  {
-    "title": "Iran threatens retaliation for any nuclear attack, warns Gulf states against aiding US - TRT World",
-    "summary": "Iran threatens retaliation for any nuclear attack, warns Gulf states against aiding US TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ybVFZdHFVYnNFbDBXZ0ZxclNtbXM3RC1FdmhmZTBkTTBuN01TZkFvc3g0NXliYkExQ0lMVFFROWNaNWItQzUwYUxoOXpXbVJ4bU5nb1ZrMlc?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-08-19T08:56:55+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 08:56:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d35e7711bc7580fd3afaec2343deac25e23bc5c9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issues direct threats of retaliation and warns Gulf states, heightening tensions without reporting any strike.",
-      "event_key": "iran threatens retaliation nuclear attack"
-    }
-  },
-  {
-    "title": "Iran may consider attacking US military bases in Europe if Trump escalates war: Report - CNBC TV18",
-    "summary": "Iran may consider attacking US military bases in Europe if Trump escalates war: Report CNBC TV18",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDRBY0J2MnZZSjVqcllPd2NMS2NmT3J0bXAzVzNYdk1JQkJuZlVkQ0FJa2VRR2JDai0xQS1DZXIzWUg0bmJiTXFXeEktbjhDOGVhdk1TZl84Q2FrVXBmcGtIZWpSMGJaa0NST0VoU3NTU0UwRWpldktWaFg2dkZzZjhyUThjR1ZOd3l4VXNfemRxMkc5X3dCeUJqbUZPMXZjcElEejllRVNQc19fWEZJQlBhOXVvbEhHa2JkelF1MTQtS1JWN0gyZdIBzgFBVV95cUxQZ0dxazRsdlZPN212NVJrZ1pCNkFQcXhJS0ZVUlRNZ1RrY3RPcUo3LWkwQjd0RlRaSU1mTFBab0JsMWlhRVJYdkJubDlfNEdrV2VNdWdZZEJNbDkzbmRLdHFQRVpVMVBpZFlCaHJlZUlqNkdpaldPZ3lNNWlycVRlN25HYU5pLXcxRUp2UUc0TWttaGxWNmFJeHlHYmdoN3VFLU9Iekc3V1ViSFZrLTJYc1A1d0lBSFM2ZWtpV3hHMjh2STlZUUUtN2hIR2pXQQ?oc=5",
-    "source": "CNBC TV18",
-    "published_at": "2026-08-19T06:49:38+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 06:49:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1661b4796ecadf3320286f4912dd39ae13e4fae5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran signalling possible attacks on US bases in Europe if US escalates indicates rising tensions and potential escalation.",
-      "event_key": "iran threats attacks us bases europe"
-    }
-  },
-  {
-    "title": "Iran Considers Strikes on U.S. Military Targets in Europe if Donald Trump Escalates War, Threatening to Expand Conflict - The National Herald",
-    "summary": "Iran Considers Strikes on U.S. Military Targets in Europe if Donald Trump Escalates War, Threatening to Expand Conflict The National Herald",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeWRiU0hRdG1LYzRvUk9oRnBBS2pzbGJRSkVmT1JoaFE4TjJ2QUdSZlp6MURDRmZHT2dqVjN1dVJURlhxZk1YZkRyZzVTWDU3dTl6aWdydTM2WEo0dFhidTdmbnFDYlhNY0ZYdGZPMnlVczVjS19CcEFTZUhGOVpFVk1BMmU2d0JNNG5hYjRRTHhQaUVzQnl1a1pWbVJ1LVFEX1oxbF9kRmZzQU9ob05OUDA5Zm5EZW1pbFQ5M1NuMFpHY014Q2pSb2RIdGtPNEw3SEI2QTROcC1ZRjMtY3NydWlJZTQ4bWM?oc=5",
-    "source": "The National Herald",
-    "published_at": "2026-08-19T07:38:40+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 07:38:40 GMT",
+    "title": "Iran Weighs European Strikes on US Military Targets if Trump Escalates War, FT Reports - Kyiv Post",
+    "summary": "Iran Weighs European Strikes on US Military Targets if Trump Escalates War, FT Reports Kyiv Post",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JblByUUFZcnctNS1FRWp4blJudlhHVHk2OC1acDFzdWV5RGlmamFKOXJQb2ItVDM5eTV2ZDlZdm9hWUVsU3JxaHpvQQ?oc=5",
+    "source": "Kyiv Post",
+    "published_at": "2026-08-19T11:45:15+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 11:45:15 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c541962db800e422f0b993206632514de2d9f92b",
+    "article_id": "7d50627b9daa0e444b6f77e55a194baafa1bfc62",
     "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran threatens strikes on U.S. military targets in Europe, signaling potential expansion of conflict.",
-      "event_key": "iran threatens strikes on us targets in europe"
-    }
-  },
-  {
-    "title": "Iran reportedly may target U.S. military in Europe should Trump escalate war - Haaretz",
-    "summary": "Iran reportedly may target U.S. military in Europe should Trump escalate war Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTDFmdnRycEdiZXZGOGJOUjRlMlFjYV9waFB4X1VJQW5wS2dOLWdoSW5NVDE4dnhoZjVBYnh6a2g5dVBBTkNDSmdtdkJkbUtiU1FhdXFCWFUzdHRhU25SZ1dFcXJUMENMNi1uWU1HT19KTjZ4THhYZ0Z0RVlEeXBZS0JVOU5KNENSakVKNURZc3RUYTctUDdsc1A1TU9vc0cwZDFUOGVTcC0zY0s4LWxCWWFzNVJDTFprS3BXV004ejJmUVR0Y0VMUmxKS3dtMmJsdzdsMTRZVkhxazdNSkhqVTh5M1hPMGF1bTdOQXlNbXlpVGVIUnpJblBBcUZtT0RoV1U3VWlKZw?oc=5",
-    "source": "Haaretz",
-    "published_at": "2026-08-19T06:42:00+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 06:42:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f39d8181566e0352278e6b5ae4454651b1f99869",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Report that Iran may target U.S. military in Europe if Washington escalates, signaling threats and rising tensions.",
-      "event_key": "iran threat to us military europe"
-    }
-  },
-  {
-    "title": "Iran reportedly threatens to expand retaliatory attacks to Europe if US restarts war - The Times of Israel",
-    "summary": "Iran reportedly threatens to expand retaliatory attacks to Europe if US restarts war The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdTc3alZkc0cxOHZaZHVYYWRvR0g2S2RIRXR2TmpFaUNzemtaVjVjM0VfZU1LWGNITzVTUnJtTERjbmRzMVh3eW01UnlManBEWjVSZjJOVkJJTzFaNlNmcWdoc1FvYmJadjl5MEY0dlJIcjBRTmpPc0pyOVBrY0lmQ3VpS0FwYjFBcjZMU3RRRlh0LUlmcWQ3a1dLempqQTNOWkJESnhYaVJ5ejhsOE9ybjMzbEhYbi1yRWE2Q2xuSkRkdUxPT1VVNy1B?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-08-19T07:20:58+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 07:20:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c196ccf8894ef3fc3c84800a6467e9f804678d0",
-    "source_weight": 0.95,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's direct threat to expand retaliatory attacks to Europe if the US restarts war is a clear escalation.",
-      "event_key": "iran threaten expand attacks europe"
+      "reason": "Iran considering strikes on US targets signals heightened threats and potential escalation rather than an actual attack.",
+      "event_key": "iran considers strikes on us military targets if us escalates"
     }
   },
   {
-    "title": "Will Iran strike Europe if US escalates? - Defence24.com",
-    "summary": "Will Iran strike Europe if US escalates? Defence24.com",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01U2Zqc3NxaEhLLUVuNGl0VE1PWXk0SFlmcy03NWg1bVZraWx4cldVNGs1WEZEelVvdURTRlZscmN0QnJqQVRzQVZ2RnNBbUU0Mk5hODFpTHBaWmg5TUFsMjY4ak0zNDktTWxVOURUYVctT1NtOHlOdllKYmF0dw?oc=5",
-    "source": "Defence24.com",
-    "published_at": "2026-08-19T08:36:08+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 08:36:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f4224c03e8fc88e24a5bc5acc816de9290ba314d",
+    "title": "Trump says he's 'willing to live with' final US report on deadly missile strike near Iranian girls' school - ABC News - Breaking News, Latest News and Videos",
+    "summary": "Trump says he's 'willing to live with' final US report on deadly missile strike near Iranian girls' school ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3h1ZU5xZTdVZkctejZnVk93cGxRX3RqZndScThpVk0xdDlEc1NMX0JKbEJiUE9wbTdOMzJsR2lVOEtrUFA0alIwN0ZZRERDWTUzYm9EalRuM1NLWDkyR2ZJM1ZuamVtV2hIWm9Ib1RweXpveEx5OHpjSnUzUXZVamNVSm1fejlJMmJaWTRFLXR4Ni1EY3RpQ0UzRkbSAaIBQVVfeXFMUFN5MjYxeDVlckhhekM3OWZ6djZOanpPTW1FN3BWNWZITkdqV20tOFJnQkloRFJfVF9mMjRvM1EyNkFNazJwQzhLc00tNUxUYkxsbkhlTVdTc2psb3lvV2xGMWtjSld0bTI0RnNZV2NETmh5YVFrV2hCa3RsZmo2YkJWWXp1ajQxdG5yamNoczUzT1U2eDJRRWxCWkF0OUtTakZB?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-08-19T09:44:43+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 09:44:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5d284bff3fc0ae2dfeca33fc1d0003bc4caebc1b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Trump's willingness to 'live with' the report signals acceptance and reduces pressure for immediate retaliation.",
+      "event_key": "trump accepts us report deadly missile strike near iran school"
+    }
+  },
+  {
+    "title": "Iran Threatens Widespread Strikes on U.S. Allies in Europe, Middle East - 조선일보",
+    "summary": "Iran Threatens Widespread Strikes on U.S. Allies in Europe, Middle East 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGdncVFuNENocm9WLTFneHR0ZV9oMmhMb1VSMFJpeV82YklrMHZfVzdDWHk5WXd2NDVtV1JDVFUwNG1lVE5QY0J6RnBfTEFEMmlUNGVBTzRyWHZpajRFWUwwNnozeXlTQ1l2bFFETEtCbGNsd2Vja1d6ME1FcWZkbE1BS0o?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-08-19T10:57:12+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 10:57:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "37b308c8b175a3d1cebe74b6c8c5e5a257527998",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.5,
-      "reason": "Speculates Iran might strike Europe if the US escalates, implying threats and rising tensions.",
-      "event_key": "iran may strike europe if us escalates"
+      "strength": 0.8,
+      "reason": "Iran issuing threats of widespread strikes against U.S. allies signals heightened tensions and hostile rhetoric.",
+      "event_key": "iran threatens widespread strikes"
     }
   },
   {
-    "title": "FT: Iran is considering strikes against U.S. targets in Europe in the event of an escalation - LIGA.net",
-    "summary": "FT: Iran is considering strikes against U.S. targets in Europe in the event of an escalation LIGA.net",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGVvR0JGYW1mMFVtVGRGZjlSbkNpcFExd1NfczY3U0ZpLVRuWDdBV0RoY2lqeVBucEJOcTJpVjZJVUZ0aGh1aE00eTZYaG41YVQ0VnYzMEgwMTVWOVNiMFVvN0dGdmx2eWVYZWRLWXZLdDVub3N6MDFJQWh1Mm12YmdtR1RXS0lhczBqWGZlcmotLTJOdFl5eDhXOTFFaklab29tVTE4YUNRd0RjZzR3emd3eEdSS2FMdUlFRkdUM2xFS01mcUU00gHMAUFVX3lxTE51RjVlOC0yUHVPZnBsNEVwSWQ3RklkYlNfYmRpVm1IejZuVzZpbXJZSTBYZ216QmFtWlRGaVdBQ1N4TFk2bm9WWlpHQTk0bkk2SzFWRlBmanpyVjlLV2QyanRWNTZBSnpwdklkVEpoaDZwVmJrcEE2dEVrUW9RZXFoTEM1cExaVm5oQ1UxZTNEMEs3SGFUYlZkREU5bFRCUjFIS3cwWlFsZ0tsdk5NamZXZ0JWZGdkUWpDREQ0VE5qZlZwUmtxbXc3b0E3cg?oc=5",
-    "source": "LIGA.net",
-    "published_at": "2026-08-19T08:25:39+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 08:25:39 GMT",
+    "title": "What’s next in Iran war? Trump ends talks, tightens squeeze as Tehran vows to break US naval blockade - Gulf News",
+    "summary": "What’s next in Iran war? Trump ends talks, tightens squeeze as Tehran vows to break US naval blockade Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU83UGppLUpia09MeDZ1MEdPdlY1RHVSOTJtSDBkNGZzWk5RT3BpS1F3MW92VmFuMjlCVVI2R1gxaVBzVDBFYXhIS3ZIazNQQ00zbko3bkpDOHlNSFJoMlRLV2NYWVNkdnZtNE1XRTRRRE5EYVVpZHNiTy0zTmR3YWE2LW1WRnhST1J3SzlpRXFWVW1kdEpXTWhMd0h4OGZlR3NUcWFVZmtHbTVIbmMzR0pDbWZwejctZnFTbU0wNFBsX3lzVm8xTkFnaknSAd8BQVVfeXFMTWRleDd1R2trX21lZ1FycTlKWWpqeXA2cjBWVmVIZlU5SDdBcHppRFNzRV81SjlfV3JGaDZYQlpQTnBaejRzdUJ2WW4zVGk0VVlqZWJVVmlhdm0tSFItOVBrbnRKUlJIV2E2WmVuN3NFRlN2b1o1RGREOWhmdWF6VW9ib3RtTWw2dFhDTU5EX0pBODNxYm9yTjh4eG80WXVESDV5WlA2eWVHMEpPYjJvZ1hPNnp5SndmMkZpaG5OX0ZDOXUyVlN5V2FiSFVNdVpORG1VVi1XZHlGU1NxSmhzMA?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-08-19T10:00:00+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 10:00:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "91926603770b7e98ce457f7fcc37959cbd9b924a",
+    "article_id": "5d8596b1a7787d234aa4457a101717a5770e5c7c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Report that Iran is considering strikes on U.S. targets in Europe constitutes threat and escalation planning.",
-      "event_key": "iran considers strikes us targets europe"
+      "strength": 0.9,
+      "reason": "Trump ends talks while Tehran vows to break a US naval blockade, signaling diplomatic breakdown and rising tensions.",
+      "event_key": "us iran talks breakdown blockade threat"
     }
   },
   {
-    "title": "Iran Warns Gulf States Against Assisting US Military as USS George Washington Redeploys to Middle East - kurdistan24.net",
-    "summary": "Iran Warns Gulf States Against Assisting US Military as USS George Washington Redeploys to Middle East kurdistan24.net",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnZQcGxSUVcyakhCd2k1a2gwdndjb3hzZjlPal9mT0ZsY2Fua1FFYUhkbUJNaHpkX2g5NXFOaFVoWDRWSEx1V3Z6Y2hIVnhUZlp3LVo3Qi03LXpGRW5qNjRWM3A0ZHdLbEVQUWhGVXdqVFpwN21UekNZLTY1SVJtbzB0azBJcko1RlZBa1ljbkl1S2k3bVpwTVlTYzcyUXBPY0NYM3lUOWFDdVl1Y050enFuRGpQQklUdE1WYWdveUhheGRzMVNiT0Z1TjMyeUkzejhiMkplNzJFRjVQOHlr?oc=5",
-    "source": "kurdistan24.net",
-    "published_at": "2026-08-19T07:58:36+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 07:58:36 GMT",
+    "title": "‘Any assistance to US military amounts to participation in US military operation’: Iran’s stark warning to Gulf countries - WION",
+    "summary": "‘Any assistance to US military amounts to participation in US military operation’: Iran’s stark warning to Gulf countries WION",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaU16QkdEWWN3dzVONlhDYlRIYmhIb1dkY1lSMGEyTl82Njl4amJxS3JVb0VJUkRobk5ESXlLYUh3WVROWER3SURoSkZzbWJ2RWl4ZTBBNkN5bGNraE9yMGZ0MnE3TW5uSTJQalhhTUlaVXpacDA3YUk1YXU5S2pKSlcydXA3M0pIYkVaQXlHNEZIemZBYnU5TmU2c3lkNFBNaWhwRXRxNzBJQ0s3LXdCSFNiejhTVUVKSjlIcHNLNGx2R2wxUlJWdUVZa2NHemI4T2RPSERycVVlMEExc1UtZktGUkp2YlpENGNxTG1ZMjRnWERR0gH6AUFVX3lxTE1yb2JMaTdoRi1kMlQ4N01Pd3RaSVRGbW1COXQ4TkNVQkl4Z3NNa0ZBRjFwOUE5dzVyYXM2dmxhemUwdmFia1M4blI0RFBEQXhXcFBaWGtZeU5ETnZZY1k2WHlhc1RVN1NJVHZxV1VHZzVEZ0o5RzBfb01PdlNNbzlTYUM5S1k2R09VMzRrUVczRXJ1aTk0dm1RZmxLVk12UkdKNnpETkQxM2l0VFVHbFNJWG0wVXdGM2dpakpuamMtMGx2azFHWDNhT3U2clFUMXhiVlA1REN5anY2UVlCS2Y4UXNuLXBiZmV1ZlNJbk85cFg3cHdDc25NcGc?oc=5",
+    "source": "WION",
+    "published_at": "2026-08-19T09:41:00+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 09:41:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1e6e4345a4fbdf24b8531ea273f1a68992537ec",
+    "article_id": "6177e926396e362bea03b3051624f9e2bd3be863",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran issuing threats while a US carrier redeploys signifies rising tensions and mobilization rather than diplomacy or direct strike.",
-      "event_key": "iran warns gulf us carrier redeployment"
-    }
-  },
-  {
-    "title": "Iran's armed forces warn Gulf countries against assisting US military - L'Orient Today",
-    "summary": "Iran's armed forces warn Gulf countries against assisting US military L'Orient Today",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlRITkd1X01kSm50MU5zVXR0LVN5RHBDUWhENWlwOXZmcndtejhrWDB1T0RZLWJwQkhIb3hPTHV4X2o1R2NieDd3VDFTeUV3aTlPdkN4U3pYZkd2cU9MOVBHeHAyalo5bm11bDhPNjNRRWhYZjREem9wNHREU1psSU9MM3BlTEhMNTZ4S0RmVFZnVGpzaTZ0VUNwTDNzNVhNZGlzZDZEdHhoRmxOU1Z5eGw2TmNpWWF5MFRBS05LT1Y5UFJES1E?oc=5",
-    "source": "L'Orient Today",
-    "published_at": "2026-08-19T08:02:47+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 08:02:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b7bc3b7b524813ccc89ca21c0e47c4abcf267985",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Direct warning/threat to Gulf states over aiding US military signals rising tensions and hostile rhetoric.",
-      "event_key": "iran warns gulf against assisting us"
-    }
-  },
-  {
-    "title": "FT: Iran eyes strikes on US military targets in Europe if Trump escalates war - Caliber.Az",
-    "summary": "FT: Iran eyes strikes on US military targets in Europe if Trump escalates war Caliber.Az",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFBGZm9YcVRncjU5andYUjlpYlktdDlvbVR4SndtVzhYV1NrdlQ0MDlRLW1iWVp5bEhlUmRRWUd4c1l2Yy1ULWgwU2RfYmcwTF8wYWoybUpDdENvTG9zczZ5MklmY0NBMEc3VS1ic1R1enpRdkxzRmhTTGlDU0hhNkxtZ3VzTGVmamw2NlVKNGZ4N2tWWXVLVy1udU1GS1VyQXk0SFh3?oc=5",
-    "source": "Caliber.Az",
-    "published_at": "2026-08-19T08:14:59+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 08:14:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "45aa5a7cf95d1e6c8a95ce4d9704a9aa783245ca",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran reportedly considering strikes on US military targets in Europe as a response to escalation, a direct threat raising tensions.",
-      "event_key": "iran threats us military targets europe"
-    }
-  },
-  {
-    "title": "Iran's armed forces warn Gulf countries against assisting US military - The Express Tribune",
-    "summary": "Iran's armed forces warn Gulf countries against assisting US military The Express Tribune",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWlrdjV3YnZrLWJfSjR4aDRQeDNFaHNuWDdaT204b2ZXMlpxMWdPOGVJVjFuQXBleFN0bGdONFU2T0dfeWJUMnhoOHJ4SFYzbXdkUGdSaGFsdGc5WHQxSkVEOFRSdFlTSktVbHhqOTBxcC0zTTJtb2NIcnRQR0JqcjlkWk1YZ3pnWk4tb2dIVnJzVlk4WjZDR0xn0gGiAUFVX3lxTE12UkJ6eGs0Qkk4elYyVHhkLWJzTGdpMG9lQ19ndmFJZFcwektvSy0xYzg4ekpGSGhJMGpTWUMxX2NuaDlkUlMwUFRBSUcwbGpUMHQtV2d1T3RkYzdrZmNtYTBRYnY2VjBnYjZOWUVZYi0tUWUxNkYwZ0NsOUhzN0RGM1B5VlBabVl3aVZ4Ums1Y3BkR2JqUFpxdFhqRE9nVWdVQQ?oc=5",
-    "source": "The Express Tribune",
-    "published_at": "2026-08-19T08:26:15+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 08:26:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b7c7b84b22e8321d554d44abae040ae43d8e7d5c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran's military warned Gulf states against aiding US forces—threatening rhetoric signaling rising tensions.",
-      "event_key": "iran warns gulf against assisting us"
-    }
-  },
-  {
-    "title": "Iran Warns Gulf States Against Assisting US Military - deccanchronicle.com",
-    "summary": "Iran Warns Gulf States Against Assisting US Military deccanchronicle.com",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmM1RDYtcVYzYXhfUmdmTnRGMmkxSkxvTmwzT1dSaDlWdVBCWjdXbTlkOWdRSHBOUUE4dEFqNllCb3Mwd3hvOVIwZkRKSWU5b2ZmMVM4cHlHazlGb0kydlVCbVhrdzRIamRzZGUzZmJEZG1UNFV6bDJIa0pidGJOTkgwWC1lX3Bmak10SGkzLUVVNGxObnRMalRidmVtTHfSAaQBQVVfeXFMTjNieFI0MGo1QmU4cnZOaGthUkZxV0pONjE2V3F4bTl1M2dLTUYtcWZYRXVHeFlKQWdzZXhUTENWak5ZaFpaSjhJVEM4RURNSVNWSVYwXzE0OU5veEkyOEFfSFAwa3pUam1qRDF1UE9lVFdxZDRGMXN2RVRvNWV3Mnc1VnhmNlJpSldyQW5IalYyNDcwTVduUGFjX1otMUdGUHg3TzY?oc=5",
-    "source": "deccanchronicle.com",
-    "published_at": "2026-08-19T07:20:58+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 07:20:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bfa909bceb9218ed7f37ccff3ee26c1cb6dae4f4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran's warning to Gulf states is hostile rhetoric raising tensions and threatening escalation.",
-      "event_key": "iran warns gulf against assisting us"
-    }
-  },
-  {
-    "title": "Iran’s armed forces warn Gulf countries against assisting US military - Vanguard News",
-    "summary": "Iran’s armed forces warn Gulf countries against assisting US military Vanguard News",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX05xTXZRZFc1eUpBcTZIcGFFdUZvdkhWMlQ0OVVoQ0ZWM0Frc2NhTGlpUHNLM0R3aFIyejBBZkdRWjl2QzFqMW0tNnZzNlJQVGQ5TEdwZnRNNlYyODlLZ0ZYQXotSTFOY0dFSWJHMEFaN2x5d2czcFR6cEhxTmkxbjRVOTBVMGozOHJlVlJHbFl2RnRYTkZLQkZJVUEzV29KVGI2U3VaRlDSAa4BQVVfeXFMUFpiS19NU0NMb05hSnlPWTg5emg3ZlZuMHZhb054SUFzMmJxdU9GOU5DTFNsQlNWNU9iZFpWWVBLZW5fY2UzRHo1ZDlpakpkQl9QQXhWYThKVmJvVFhLZWwzNk9yei1td2dYT3BONVdjVVNXMWJXa0JkVjVpdG1GMERmdi1XRXNJZnR4ZE1UcHFmYXkyZkpyMGR0OVBnYjVJazkwS2lpS2dpaTktZTZn?oc=5",
-    "source": "Vanguard News",
-    "published_at": "2026-08-19T07:52:09+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 07:52:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "19dd77189413df6bc6442bf7ec03db9ae31ed3f5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran issues warning to Gulf states against aiding US forces—hostile rhetoric increasing tensions.",
-      "event_key": "iran warns gulf countries against assisting us military"
+      "reason": "Iran issues a stern warning to Gulf states that aiding the US equals participating in US military operations — a clear threat/escalatory move.",
+      "event_key": "iran warning gulf against us support"
     }
   }
 ]
