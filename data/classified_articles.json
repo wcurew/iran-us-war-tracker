@@ -1,53 +1,104 @@
 [
   {
-    "title": "Iran War Day 173: If U.S. Escalates, Iran Could Strike Europe, FT Reports - The American Conservative",
-    "summary": "Iran War Day 173: If U.S. Escalates, Iran Could Strike Europe, FT Reports The American Conservative",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSjhGVDd1X3p1U1QzLWl5NnFyWWFXdE1lOW81V3E2QmQtMzNxVjZQejltYlc1d1NEYVpzeDdUMzNlSW8wU0hVTUZXT1BZZWZWa0d5ejI3dVl5ZVUwd3d3RmhuUmJ6aFJzRkV4Q3NzZHhqaTBieWRlQVJTNFloNlRBUWdJVDJXU2FGaFBpX2dzdExwMjcteC02ZF9SNGRWck5DZmc5ZkJPeWpTSkNLVkxR?oc=5",
-    "source": "The American Conservative",
-    "published_at": "2026-08-19T14:40:00+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 14:40:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b40bf1b05e31964005601bb13ed598f46d33d153",
+    "title": "Americans increasingly reject Iran war as polls show growing support for diplomacy - Tehran Times",
+    "summary": "Americans increasingly reject Iran war as polls show growing support for diplomacy Tehran Times",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3ROVjFtMFF2M2d2WWRDT0dWaVAxdmRrR2drVmlYdWRRMXBqeWlEV29BQmZ0U0ljeV9yYmhHWW1BNkQ0cncyekJMZzNQME9fanlQaG5KVk9YODZwbEVfRWoxX19YOWVDS3Z5OTFZSVZqb1drb0tkVi1SMTZReERnc3FPV1BZRVRXUlNzM0dldUdnSWhDMDFhWXBQSmlEYllZLWc?oc=5",
+    "source": "Tehran Times",
+    "published_at": "2026-08-19T17:01:13+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 17:01:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1063ce423bb78459c0b244bc2c883e5f58c03df2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Polls show rising US public support for diplomacy and rejection of war, signaling reduced appetite for escalation.",
+      "event_key": "public supports diplomacy against iran war"
+    }
+  },
+  {
+    "title": "Why does the U.S. military seem stymied in the war with Iran? - npr.org",
+    "summary": "Why does the U.S. military seem stymied in the war with Iran? npr.org",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2tOcXFSUEVNV0FrSHlBRzVsQk1KdXhMaW1WUWJsRG1iZ1h4eDFBYTNjTEY3bGNTVHFmVjJrR1hxLUx5TTZCSmg0Q1JWdUtkRUxJTU1YZzNqSXRTS3NvMkhndGR2V1FFT0VkX2YzeTR2ajNlWVNSNUwzMW91ZENjN3pJcmVIbkxVenJaT0Fvc3NfNlJTZmNZSmtBak5LQmRWelN3RmJGWQ?oc=5",
+    "source": "npr.org",
+    "published_at": "2026-08-19T16:18:35+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 16:18:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1551eee01b0c9f0256cbf496b48d65ff240c06e9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Analysis of the ongoing U.S.-Iran war and military stalemate implies rising tensions and conflict dynamics rather than diplomacy.",
+      "event_key": "us military stymied in war with iran"
+    }
+  },
+  {
+    "title": "More Tomahawk cruise missiles used against Iran than in any U.S. conflict - Washington Times",
+    "summary": "More Tomahawk cruise missiles used against Iran than in any U.S. conflict Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGdZY2tGYnlsZnFGMmJWZzJTRHo4bUMzRnJTM1FXdjlsT2tRRWx0OWk4cDJUOVZjMlp3SFEta1BPcS1pQjBTUnZMUUZUTjFxTHFnNEJWNnRuWTFDQlNhM3d1UGFjQkh6TDgzVUk0VElsNk9lRUxQUFY5cDNqaXhZdWxjMkdrZ2pTSFZ0am1fTnRRMktvblc1TWw1OUU?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-08-19T17:13:03+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 17:13:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "55735cefb34a3243eb939038a38d2bc3de76b096",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports U.S. employment of Tomahawk cruise missiles in strikes against Iran—direct military action/retaliation.",
+      "event_key": "us tomahawk strikes on iran"
+    }
+  },
+  {
+    "title": "Iran ‘weighing’ strikes on US bases in Europe should Trump escalate, ‘regime insiders’ tell FT - ThePrint",
+    "summary": "Iran ‘weighing’ strikes on US bases in Europe should Trump escalate, ‘regime insiders’ tell FT ThePrint",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVp1ZmhkMjRER1l1c2d4TWhfZFVpWm5vclBzRkF3aGZVOVBFWTNQZVFkcVVwSTZ3TWxXbDlQU1VvckVGX1d6WC1MYi1VZ0ZObDBNcFU3aFZiVkJPbVBKUGY4bXlYNWh5cGdQQllXUXVKdmYwZTJUdGtyY2V1UERkMzBuSjVNRWR0YVpnUm0yOGRJVFNPWWJJQy0zdEQ1QmMxbFVXYkROd3kzUmtBX19hRjRVaWs4bm5ZTE9GNDlmS3EzQdIBxwFBVV95cUxNWWFmcEV4eFdHX1o4SU5wR2NrZVZvcVR5ZVJGYWdydmI5SFJTWTA1NG5pbm5WZElQYlp1dUNjcThFLWNMSEI3TzVqQmkzTmRYbXVScmV6UnZ4VzhqWmY2VHU0dXpLdGFIZ1Z2M0pFc0pqb3BSQXVZbWNzdHRMUnZRbllHel84cWxQa2l6ZzFJMjFoTGU2NHhxMi1mOUMwTlNfYnNtbGo4WTRlQWU0cEZLSFpQWUdkYlkybngtVDRicm5TbW1WSFVr?oc=5",
+    "source": "ThePrint",
+    "published_at": "2026-08-19T15:46:45+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 15:46:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "127b254f1ea2159eb6b0eac3d33d49ccfe9347aa",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran insiders say Tehran may weigh strikes on US bases in Europe if US escalates, signaling possible military escalation.",
+      "event_key": "iran weighing strikes us bases europe"
+    }
+  },
+  {
+    "title": "NATO Says Ready To Defend Allies Amid Report Of Possible Iranian Threats To US Bases In Europe - Eurasia Review",
+    "summary": "NATO Says Ready To Defend Allies Amid Report Of Possible Iranian Threats To US Bases In Europe Eurasia Review",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXNQZGZrb20tZHZxemVqZXdXUWxSR1B2VXdGSV9wb3l6bE5mWUgzX1g2VEdQYTVoaWVYTXpwSnFzeVJtdFdDZ3dpUDcwN3dLRnFiZDFKR1JfT0tSS2NoNVdyMFFaR19VWDZfRExPTnpmUk5XQzlNaGNGNm55bVBGX2d6V0IwM2RRTWpfWmhOa05XYXhjUmFoTGd0YnRmLXBrb2pzQVQxcC1DNDZZb1VObE00ZlNraDNKblF6bk1VTTg3TUdnbFZUbkFFQTMweEk?oc=5",
+    "source": "Eurasia Review",
+    "published_at": "2026-08-19T16:38:50+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 16:38:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dff9d1e7c7768508899dd02c10913896f9f8b9fe",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran warning it could strike Europe if the U.S. escalates, signaling threats and rising tensions.",
-      "event_key": "iran threatens strike europe"
+      "reason": "Reports of possible Iranian threats to US bases in Europe and NATO readiness indicate rising tensions.",
+      "event_key": "iran threats us bases europe nato ready"
     }
   },
   {
-    "title": "Iran eyes US military bases in Europe as targets if war ramps up, report says - stripes.com",
-    "summary": "Iran eyes US military bases in Europe as targets if war ramps up, report says stripes.com",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWp6em1Qb1RKQk1DcFdCNjJ2UmZqQkEtUzVIMmpGckJ5TDRSM2pydjE1Ung5RkdaZmVuaEVHREpRTldSTVZSUGx5WDVHbnkwdUlVNzhNOVk0d2FZakpxTVY0V2tfX1ZzR1pObnNCM09fUlpCakQ0S2k2QU5fa0hKV3pOUHQxeUQtTGd2cg?oc=5",
-    "source": "stripes.com",
-    "published_at": "2026-08-19T14:25:32+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 14:25:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72609e2da6fa755996a26c33851b8d04242ac17e",
+    "title": "Iran Warns Gulf Countries Against Assisting US Military as USS George Washington Redeploys: 14 outlets compared - NewsCord",
+    "summary": "Iran Warns Gulf Countries Against Assisting US Military as USS George Washington Redeploys: 14 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQjhOZk1KSU1mcFkwMEFGekQ4ejNrNlRHR0V6WWlxdUNIWTFKZ0VuX0stRzk2WjlyWF9JeXhwTFdmRG83aVNQbUlDVkpxNVJNeFBlZm9fSEgxQ3FTZmFkODh3N01ibHdUaVpyLU1DMG5sUkItaVVGd2xxczNIdnFUaDhQZFp5UTU4a3ZLQXNiWDNIQUFOSklUME84a3JaQ2dyem02SHdSUzVmeVZmOUY5NFcyQ1ZkYzRhLXI3ZzRjbWhqRG9aVDNWZ2V4Q0hWNjJwQ05XQ181S1U?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-08-19T17:02:58+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 17:02:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "50b7f1adc63b29f9da9f822420a5c9ec0cd23e09",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran threatening to target US military bases in Europe if war escalates, signaling heightened tensions and threats of broader conflict.",
-      "event_key": "iran targets us bases europe threat"
-    }
-  },
-  {
-    "title": "UAE says it is suspending trade with Iran after missile attack - The Washington Post",
-    "summary": "UAE says it is suspending trade with Iran after missile attack The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnA2MnprdC01ZXZreGxyR1pZYl9rTnVReTZ0S2ZiZ3FMcGtabktucW5nT011Vm9aZnNZbHBpX0FkenktVXJnWkluOGJYaThYMHJPcXlwN2F2T3J0dXBaX1VyVXRQU2pESWtEZmo4eDRPTzg5U1JuSmZOLWJuNjFwLXZ5NUJzMk5nb1l0ZWNVOTAzSk9hWnhSZ1J2UGlWRVNBYjJkaHJpbEYyQkdtR1VEYg?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-08-19T15:06:23+00:00",
-    "raw_pub_date": "Wed, 19 Aug 2026 15:06:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cd8764527e49f5d881a7bdd747f1d0491f12ee82",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.65,
-      "reason": "UAE's suspension of trade with Iran after a missile attack is a punitive move increasing tensions.",
-      "event_key": "uae suspends trade with iran after missile attack"
+      "strength": 0.8,
+      "reason": "Iran warning Gulf states against aiding US as a carrier redeploys signals heightened tensions and hostile posture.",
+      "event_key": "iran warns gulf assist us carrier redeploy"
     }
   }
 ]
