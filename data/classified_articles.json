@@ -1,19 +1,53 @@
 [
   {
-    "title": "West Asia Tensions: UAE on heightened security alert after US strikes on Iran’s Kharg Island | Akashvani News - News On AIR",
-    "summary": "West Asia Tensions: UAE on heightened security alert after US strikes on Iran’s Kharg Island | Akashvani News News On AIR",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnVmZjdMUmcwczMxX2ZJMmQ2U0pxX2FCVWcxWUNXN2lRZnZwM0tmdTFac0plOTNqS1BfTnY3d2pYanZLS1VaRkZmeUVFS2FjVnhWcGh4OWg5TDh2SU9VRlpzVDhQN2Nmclg5ekotQW9yVy1XWlAzYUhMVUVDR3dRc1RJTUxRTmVjZnhJbG01OENDcGJ6amJ5cDFzN2dtMkI5THlUX3FtaGlMLVdjRnFQQS1fZ2lSNUVnd1lPUWdvcHBsdVpHMW40?oc=5",
-    "source": "News On AIR",
-    "published_at": "2026-08-18T22:21:12+00:00",
-    "raw_pub_date": "Tue, 18 Aug 2026 22:21:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5216c26efbe425e8ab2f1136f143640bc527483f",
+    "title": "Trump disengages with Iran in new pressure tactic, claiming full US control over Hormuz - Firstpost",
+    "summary": "Trump disengages with Iran in new pressure tactic, claiming full US control over Hormuz Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1lPbXgwenROWDZSc2JjeHNWckVLQkFSWmwyeVg2UDBmem1ucE1LenJlNFNONjhVVmlNeFJ0TjAyMl91YXBZNGdTajVRV3RjcHJHWHJpNHRnNldLRS1HVnl2cmQ4ZGgwa0VrYlVJamIxX3hfbkVvNW0wemljZU1STTRNX1F0WW5lSmc2dHJfd2lRSVJoNnM0UnNZWkVoNG5rTmJnWm9XVjVaZkdOVGxOVVlpTFY1SFpmbW10b2tlWWFJR0tUNi1wRENSTXNGOHZQZmfSAdIBQVVfeXFMT0tZT214MHp0Tlg2UnNiY3hzVnJFS0JBUlpsMnlYNlAwZnptbnBNS3pyZTRTTjY4VVZpTXhSdE4wMjJfdWFwWTRnU2o1UVd0Y3ByR1hyaTR0ZzZXS0UtR1Z5dnJkOGRoMGtFa2JVSWpiMV94X25FbzVtMHppY2VNUk00TV9RdFluZUpnNnRyX3dpUUlSaDZzNFJzWVpFaDRua05iZ1pvV1Y1WmZHTlRsTlVZaUxWNUhaZm1tdG9rZVlhSUdLVDYtcERDUk1zRjh2UGZn?oc=5",
+    "source": "Firstpost",
+    "published_at": "2026-08-19T03:16:51+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 03:16:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "981a923d5ea268de30dd061bff3418e0977b6682",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Hostile rhetoric and claims of US control over Strait of Hormuz signal increased tensions and pressure on Iran.",
+      "event_key": "trump claims us control hormuz escalation"
+    }
+  },
+  {
+    "title": "Iran’s Missile Barrage Could Force Historic US Retreat From Persian Gulf - Defence Security Asia",
+    "summary": "Iran’s Missile Barrage Could Force Historic US Retreat From Persian Gulf Defence Security Asia",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0swVGowMDRwR1RwdWZELTFjc2REaXFsY09RdHhSNFlNZGx6RkVJdlhFMF95WXlybW1jNmN4UGdlekhyWXlUSEZ4T0dsQUZsOWg0bjZYUTRaNTZBend1M1NkUEx6LWp2NWhTTjhFMGJuVFg2TmJjR2VqV29HTTZxMm1PcERVZnF3VEZVZUdXcw?oc=5",
+    "source": "Defence Security Asia",
+    "published_at": "2026-08-19T01:27:45+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 01:27:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3a778bc82bdfcbb83896f4d1d82746a6bd05cb3f",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe US strikes on Iran’s Kharg Island, indicating direct military action and related heightened regional alerts.",
-      "event_key": "us strike kharg island"
+      "strength": 0.85,
+      "reason": "Describes an Iranian missile barrage and its direct military impact, implying strikes against US forces in the Gulf.",
+      "event_key": "iran missile barrage persian gulf"
+    }
+  },
+  {
+    "title": "WTI rises to near $85.00 amid escalating US-Iran tensions - FXStreet",
+    "summary": "WTI rises to near $85.00 amid escalating US-Iran tensions FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeld4VFRRM2Q3UXNGcWwydTNQTlpvT2pMX0swUXRZYmllNGxWOFRaRGJoU2VaWU1xZEM2aFJPODVWdXJEVkg2QkdELXFSQ1lfNi1LRlR0ZTdwaklOYVlsRnhHSGxyWWpLU3EtbUZPQUo0RW1uYkJUcjZjdGFDVXBVZXYzcS1tOG1RVFcxYUVBRGJJeG4tYUstTVJRbGh3YUk?oc=5",
+    "source": "FXStreet",
+    "published_at": "2026-08-19T01:23:33+00:00",
+    "raw_pub_date": "Wed, 19 Aug 2026 01:23:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "865d4d3262bf0ec31fc1f5f759d2805f47859115",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.8,
+      "reason": "Market-focused piece linking oil price moves to tensions, not reporting a specific Iran‑US diplomatic or military development.",
+      "event_key": "oil price market reaction"
     }
   }
 ]
