@@ -1,19 +1,53 @@
 [
   {
-    "title": "Iran dismisses U.S. economic threats - Los Angeles Times",
-    "summary": "Iran dismisses U.S. economic threats Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1ZKc2VMNXV5ZEpvUjd3cUR4SmZGNTNRNVpwTEFWU3JnOW1uY3BNa0hvWER6S09WX0pmWWNPcHFrN1VPUnJ1aDNRbWlCcjdRU0tnVmxqUW1kWHFEaV9seTgzd0cycjF1MFB3QnczQ2hYYWpuS29VbmVrMURGNno3VkVZX2Q5UndCMVcyMHdwZWwwY3c?oc=5",
-    "source": "Los Angeles Times",
-    "published_at": "2026-08-20T16:54:46+00:00",
-    "raw_pub_date": "Thu, 20 Aug 2026 16:54:46 GMT",
+    "title": "Russia says it is not pressuring Iran to resume talks, blames US for war - Anadolu Ajansı",
+    "summary": "Russia says it is not pressuring Iran to resume talks, blames US for war Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWNCZHhuZmJFNnQ0Tk1nQlROSE91emNHUjVONmpBNklTU0thSDM1b3R0MGozY0dYb0xVZUxDQXBpZDRpZnFtUTZLSG9qZHk2UkdhbmpMY081bzdBcFU2T3lrT2ZJRF9Rc1RaMnhnNjlTVUFwdE1KNFFib0dvblNkWmhaUGVzUVVrdGZVeXhwVHduQ1pUWFVMY2VoajB3VGRfRVRRTFN0ZUIyeEZj?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-08-20T19:48:05+00:00",
+    "raw_pub_date": "Thu, 20 Aug 2026 19:48:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5364feb2a941f36f1b38fe68c0a94c53ee0e564f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Statement concerns resuming talks and diplomatic positioning rather than military action.",
+      "event_key": "russia not pressuring iran to resume talks"
+    }
+  },
+  {
+    "title": "Israel-U.S. strikes on Iran put Polymarket’s military betting problem in focus - calcalistech.com",
+    "summary": "Israel-U.S. strikes on Iran put Polymarket’s military betting problem in focus calcalistech.com",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fNTktXzV2U3VXSEZoWnNxeGxkYTY3TmZrWEx3dzdsZ2RsLUZ4a2ViRV9SOWllWDJzYmRQQVNNc09oUUVGR0lfZC1oLU1FQ2c4NVZxOXhxZlNYdU9nbnBDRFdTUkJpNjQ?oc=5",
+    "source": "calcalistech.com",
+    "published_at": "2026-08-20T18:58:00+00:00",
+    "raw_pub_date": "Thu, 20 Aug 2026 18:58:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "780a69387609ffd74004dfe0a5f44d0e38e1deb1",
+    "article_id": "408103632c60d979dd391374f26ef827699fdf83",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reports Israel and U.S. conducting strikes on Iran, indicating direct military attacks.",
+      "event_key": "israel us strikes on iran"
+    }
+  },
+  {
+    "title": "US Economic Pressure Risks Iran Escalation, Oil Disruption - Energy Intelligence",
+    "summary": "US Economic Pressure Risks Iran Escalation, Oil Disruption Energy Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52NjNhLWhxZjNFNDJ1b2J4QnNpdEhJY0FsZjZyckRYNmFxNy1ldkFXbTdjbTBOVUpJS2EtTjRfSDNRZENoYnpkSnkzczZuRHRKQTZqOEp2WGhGU2Jhc0xVaWdwX3d0Y1RxdHVuT29Db29SZw?oc=5",
+    "source": "Energy Intelligence",
+    "published_at": "2026-08-20T18:38:44+00:00",
+    "raw_pub_date": "Thu, 20 Aug 2026 18:38:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "46bacd7ef77b980485a36fd808fab8a22bcbc06d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran publicly rejects U.S. economic threats, increasing tensions through hostile rhetoric.",
-      "event_key": "iran rejects us economic threats"
+      "reason": "Warns US economic pressure could trigger Iranian escalation and oil disruptions.",
+      "event_key": "us economic pressure risk iran escalation"
     }
   }
 ]
