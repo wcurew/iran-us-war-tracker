@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "Iran vows 'devastating' response to U.S. threat to cut off its economic lifelines - Japan Today",
+    "summary": "Iran vows 'devastating' response to U.S. threat to cut off its economic lifelines Japan Today",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOanFQZnJKU2UwOW5TNFFZVzNFdnFwdktyUld2elVpSDd6cTdVdUtmTXlzTktHY3I3RFpKX2Y3TkpVWkRwUmI3MVNtZi1sbWpXei1yeFRJclNvUlgxLXh0QVFhb3phSk9xUVdfUGVwLVVkbVoxbGNvdTZ4RkxTRkZzNEtfNzVqNjR5bWk3VWh6VUNEeENVakdTRmpwZE0yb2g4WURYRjYtRFEwMUdlQm9TY2pRaTdyN2lJWnc?oc=5",
+    "source": "Japan Today",
+    "published_at": "2026-08-21T20:35:00+00:00",
+    "raw_pub_date": "Fri, 21 Aug 2026 20:35:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6fe599c61257adc49dcc899740ff49b581d5fe85",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran's vow of a 'devastating' response to U.S. threats is hostile rhetoric raising tensions, not direct strikes or negotiations.",
+      "event_key": "iran vows devastating response to us economic threat"
+    }
+  },
+  {
+    "title": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran - marketscreener.com",
+    "summary": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBScURtRTFrbGdFa2RIOTVqQUZhdldHRklMcDFHbU1ZOWxXT3BFTG9HTEV4amFGSThSalFRU3NPWGI1aDdkNlBCUHM3cVRxeHNUcFZHRG1nUXpiWlR3Y1JFeGlCdUpQOGVhTjlEcVFrdTZKZ2JxWVdfWjZ1LVIzUml2dzVYamt4VFI4NTFnUE81bFhFN0NCWWdBZ2RIbUh0TDFYRHFxQ09WSjhQQmRlTHJLQzVWSHVZSzJZ?oc=5",
+    "source": "marketscreener.com",
+    "published_at": "2026-08-21T20:46:19+00:00",
+    "raw_pub_date": "Fri, 21 Aug 2026 20:46:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e81f4673d73b2f6c0b6ae5e8849af1ace576919f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article notes a US warning to Iran—hostile rhetoric indicating rising tensions affecting markets.",
+      "event_key": "us warning to iran"
+    }
+  }
+]
