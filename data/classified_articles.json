@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "US Threatens ‘Toughest-Ever’ Sanctions on Iran as China Urges Diplomacy - The Diplomatic Insight",
+    "summary": "US Threatens ‘Toughest-Ever’ Sanctions on Iran as China Urges Diplomacy The Diplomatic Insight",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWpJdWlJZk94SDc5a2lwUW9nQWVOUUtvNGNfMzF6dW1ubVk3aHM3VEtSam04S2xaMXZBX21pYVlRWVk5Rk5KaDVrWjgwSlNxdU5GOWxSQmVMSEQyd1MzdXp0YWIycmdScHpFempKYmd6dWZJZDdiUTA3dFlzaGItVTIyU2w?oc=5",
+    "source": "The Diplomatic Insight",
+    "published_at": "2026-08-21T05:13:20+00:00",
+    "raw_pub_date": "Fri, 21 Aug 2026 05:13:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e1cb691248e4017464343a8a42475c7b53388dd6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "US threat of 'toughest-ever' sanctions signals increased pressure and hostile rhetoric, indicating escalation rather than diplomacy.",
+      "event_key": "us threatens toughest ever sanctions on iran"
+    }
+  },
+  {
+    "title": "US officials assure no imminent large-scale bombing in Iran conflict - TradingView",
+    "summary": "US officials assure no imminent large-scale bombing in Iran conflict TradingView",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFRBT0NFSFlLVm04UGtPQWVWd3RKQl92R0J1Qi1oTVgxS0NlaXR5SUFsVzZyVF9xOWFpSHkzTjNrTzAyYmxVV19ZM2F5Q29wWXYydXA1czdSeUVFTDZ6RGVhMjAwdnpndXNlalQwaWI5WXZOQTd0RUhsdHgzVnRGLWxhNTJXZW1OT0lHN2dSbExPUWM3aHl2TmJQUXBQWDE2aFRMMEo5LUZNM01WMVk2WGNORXJjMEdBUlJNYkNoUWxFSGJyTDE0M3VxRFhzQQ?oc=5",
+    "source": "TradingView",
+    "published_at": "2026-08-21T05:02:00+00:00",
+    "raw_pub_date": "Fri, 21 Aug 2026 05:02:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "05bbed0193bb0900fbf604b4599d53c00b716412",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "US officials signaling restraint by assuring no imminent large-scale bombing of Iran.",
+      "event_key": "us no imminent large scale bombing assurance"
+    }
+  }
+]
