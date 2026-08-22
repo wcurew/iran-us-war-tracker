@@ -1,19 +1,53 @@
 [
   {
-    "title": "Live - US pressure builds on Iran as Trump says Tehran not ready for ‘right deal’ - Iran International",
-    "summary": "Live - US pressure builds on Iran as Trump says Tehran not ready for ‘right deal’ Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoWmgyT0l1R0RTN2xyTlNYNjBGZzVaMEdYNG5TcVZCa3puOV9XS0tZUTZOb1Z4MjZoc2NjOGhRMExkSDY1S1lDUjZGOEdUb3RMSHZoV0RKMVNSX3Q1bEE?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-08-22T06:00:20+00:00",
-    "raw_pub_date": "Sat, 22 Aug 2026 06:00:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4276531cc5a9d5a96258ea9dc6f058b859e624da",
+    "title": "France backs US-Iran negotiations as ‘only path’ to lasting peace: Diplomatic source - Rudaw",
+    "summary": "France backs US-Iran negotiations as ‘only path’ to lasting peace: Diplomatic source Rudaw",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rY2JJUVE0bVFON1F5RzFaNm90cUNfLXBtUUlYQWZnVGhsMWtyMy1zZFJ2TUI5elQtSHZNc1Uwd3J1bldXaGFxWElVUE5rYXNZaEdPU3IzSVBUaEgtOFVfeEZveWg?oc=5",
+    "source": "Rudaw",
+    "published_at": "2026-08-22T07:53:33+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 07:53:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "387a78629d1dae4c187e9b94044794a61bdc43fb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "France publicly endorses US-Iran negotiations as the route to lasting peace.",
+      "event_key": "france supports us iran negotiations"
+    }
+  },
+  {
+    "title": "Timeline: What has happened this week since US and Iran missed deadline for peace talks - Egypt Independent",
+    "summary": "Timeline: What has happened this week since US and Iran missed deadline for peace talks Egypt Independent",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHZpYzM5b21RRDBpRzQtbURFZTlVUmhwdHlDajJ6TDFYeUJMN0pjMFY1b1ctczN5cG9kMnNyeE5uLU9ySHVhN3hvZEdvWWQwbVRGa2JIWUVObmF0c3VvZ2x5SG5rVHVuQnNCX1JGRUd3S1VqZlRDYkI2a1otM1lxUWo3c1F0dTRSWEhHM1Rwb3MtYTNwWkdLRXhsR3l5ZzFXLTRLYWFWSUpCa2RnRk45VGpveExxSGNnZ0Fhag?oc=5",
+    "source": "Egypt Independent",
+    "published_at": "2026-08-22T08:49:44+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 08:49:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7dcf009bf1a467742f1a5cb72acbfd1684edb6ca",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Trump's rhetoric and growing US pressure heighten tensions, framing Tehran as unready for a deal.",
-      "event_key": "us pressure trump says iran not ready for deal"
+      "strength": 0.5,
+      "reason": "Timeline covers developments after US–Iran missed peace-talks deadline, implying breakdown and rising tensions.",
+      "event_key": "us iran missed peace talks deadline"
+    }
+  },
+  {
+    "title": "Iran Changes US War Strategy As It Prepares For Next Attack, Warns Trump Of Bigger Retaliation | World News - News18",
+    "summary": "Iran Changes US War Strategy As It Prepares For Next Attack, Warns Trump Of Bigger Retaliation | World News News18",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0R4VU1fOUhKa0d1ekktVFpIQk5zNjFFYkxCNjFNTjlMTjRhNWE3dUttYUZ4UlRndnZSM2FlLVNaZm92cmRIZFVYcm1Ja0JmdVNVLU4xTTBSNFpRbE9GUTJ2NW0tU2NHejRIcFYwSUFlX0hycDdXNjZtSmFRRHRtMWZXd3RXS0doN1VhNFVIa3M3aW12YjRyWmcyY1pJdkVVQ01QWUJiOTVRcGRXdHhLdV8yeTVoa0FmSV9YeXZLdWdGamIwWXlwQXZHQmdXSlNNdncyVXlTdVQ?oc=5",
+    "source": "News18",
+    "published_at": "2026-08-22T08:18:07+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 08:18:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7e18b985d36cd9cd3a33a7c309ee8a4aa6022339",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran warns of larger retaliation and prepares attacks, signaling heightened tensions and threats.",
+      "event_key": "iran warns escalation and strategy change"
     }
   }
 ]
