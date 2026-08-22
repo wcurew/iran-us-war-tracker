@@ -1,19 +1,36 @@
 [
   {
-    "title": "US, Iran trade threats as Washington prepares new sanctions - Daily Sabah",
-    "summary": "US, Iran trade threats as Washington prepares new sanctions Daily Sabah",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3RYMTRnT0pocGVXZndIVWFmX0JjWXZQY0xKWjVmNzhFakdaN2haNGgwVTRVRVJMa0l5WGZrVnB0a1FnOXJKTDdldDJaWGRtZXdZMVlmaEQ3TDhyX1N4TG4ySFRUQzRFeGkta0V5TkZaNDd4TUpmaG9QWUk2RkNscWVWdlR0eHl4OUVFTHBHVmc3bFBLZnhtWXRidjVsN3FjbGc?oc=5",
-    "source": "Daily Sabah",
-    "published_at": "2026-08-22T11:45:30+00:00",
-    "raw_pub_date": "Sat, 22 Aug 2026 11:45:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "71cb2430eb7046fa2dcef7b6e7fca4a4c5e7e6ba",
+    "title": "The US is using the wrong measure of pressure on Iran - The Hill",
+    "summary": "The US is using the wrong measure of pressure on Iran The Hill",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1c5dE9oNXZJdFVIVGstQWRiQlJob193V0hQYTVIR093UFdzR3VDeUVVR0F2OTN0amRNc1JwVTdhZ3FsaE92ZVFmbDh6d05ncV82UjhjTXZZbEg5XzhYOTFVVlpRZWFqSm9YTmhGcktySlZfQnM5WTZOM2F1VzNXdU83bGFPWFU1Qk9n0gGQAUFVX3lxTE05RWR3S1FVTkZ0aFJKMTcwOWFEZy1MNlE5UFQ4MXlEYzZIdXM3NkVEelBWNC1pT3c3WENKMnhwM1pZaTg5WWUtNWtYMHBFVmpoRnYxSGhzWWQ2WFpiQkVhVzBPNHZxbnkwbHZnbXF4bEZmQkFiRERIbVIzRXBPWTFDOHhxMlBhMllNY2NFMkRMaQ?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-08-22T15:00:00+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 15:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4f2a18ca8fc627b58ba8b6a6e887127cf36a36cd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Opinion piece on US pressure strategy, not reporting specific Iran-US diplomatic or military developments.",
+      "event_key": "opinion wrong measure of pressure"
+    }
+  },
+  {
+    "title": "US failed to identify ‘a single missile city’ relocation: Iran defense ministry - The New Region",
+    "summary": "US failed to identify ‘a single missile city’ relocation: Iran defense ministry The New Region",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbzVGY0U3ZmQ2djBPUmdrNEtKQnRmZnJYY3llOHJPcEQweTdQVkRUMEVtV1lCZzEwbUs5WVBIQ2VHVWFQaG51bEdjTQ?oc=5",
+    "source": "The New Region",
+    "published_at": "2026-08-22T15:13:40+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 15:13:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b69440dada1217193a1dad21d3f9ad07622c96e3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Mutual threats and imminent new US sanctions indicate rising tensions and worsening relations.",
-      "event_key": "us iran threats new sanctions"
+      "strength": 0.5,
+      "reason": "Iran defense ministry's accusatory rhetoric against the US indicates rising tensions and hostile posturing.",
+      "event_key": "iran defence ministry accuses us failed identify missile relocation"
     }
   }
 ]
