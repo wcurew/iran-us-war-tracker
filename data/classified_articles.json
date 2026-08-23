@@ -1,19 +1,36 @@
 [
   {
-    "title": "Iran Warns It May Target Interests of Countries Backing US Economic Pressure - bloomingbit",
-    "summary": "Iran Warns It May Target Interests of Countries Backing US Economic Pressure bloomingbit",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zR3NxMFp3NkhQU01VRkI3YVV2VnZjNEFhUXJJU2hqc0hVRXBtS0JkeG1iRVZoSTlqWS1haGRzUVU2cDVhNW40bFZmN3JTMXJsV2JWTQ?oc=5",
-    "source": "bloomingbit",
-    "published_at": "2026-08-22T19:23:55+00:00",
-    "raw_pub_date": "Sat, 22 Aug 2026 19:23:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8c3773ac66105c9454c97e141302e87f8b70b79c",
+    "title": "Slain Ayatollah Khamenei wanted to end conflict with US through peace talks, Iranian president claims - New York Post",
+    "summary": "Slain Ayatollah Khamenei wanted to end conflict with US through peace talks, Iranian president claims New York Post",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzhTc21BdXRjcERkeWdfcTRMLUtSQVpVVnhzSlhJRlFqTTVvTVRkX3NyT1JUTlFmYTVWRG5Cd2JwZHlYeUI5QTc4OENQSTRaVTROR0ZublJsLXFNdlctRmxhLUppR3NXYS1kaWZkejU1eWpWV3RaNmtZZGtLS0pzTFBOd01ObnBZQUg3Z1RVd0pVNC1wRVpyOG5tamVVOVYzd296amF6cWxFeHM?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-08-22T22:24:00+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 22:24:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b3c55c9cd673fe22282c7522def0bdfb40490b28",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran threatens to target interests of countries backing US economic pressure — escalatory rhetoric and warnings.",
-      "event_key": "iran warns target interests of countries backing us pressure"
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iranian president says Khamenei wanted to end conflict with the US through peace talks, indicating diplomatic negotiation intent.",
+      "event_key": "khamenei sought peace talks claim"
+    }
+  },
+  {
+    "title": "Top Egyptian, Iranian diplomats talk about restarting negotiations with US - New York Post",
+    "summary": "Top Egyptian, Iranian diplomats talk about restarting negotiations with US New York Post",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFFmUlVtNXdQc1dONHNDaFNqdTNOX0g3eE5KSTliTnRicmhUcWtaV0hwNm92bmx2YVcwTERLQlJWRnJnLUw2VE1MVms0a2psLURGWEJLeUlTU0JhdWxoeU93eXdmcng4d1Vld09HaUJ4eklQckhPbENWNkNDcUtWMnVIbUhoVzdEMVlkUnNzNnFmbTMxaE5CSXg5U1JrWHJWaEZOdmtWcklnbXhoNHMxLWhTVXgyUQ?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-08-22T22:29:00+00:00",
+    "raw_pub_date": "Sat, 22 Aug 2026 22:29:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a743694ebfa1fcb488950aebd23508f6c06476d1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Diplomats discussing restarting negotiations with the United States.",
+      "event_key": "iran us negotiations restart"
     }
   }
 ]
