@@ -1,70 +1,19 @@
 [
   {
-    "title": "Trump says US to resume Talks with Iran, Tehran yet to confirm negotiation plans - News On AIR",
-    "summary": "Trump says US to resume Talks with Iran, Tehran yet to confirm negotiation plans News On AIR",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjdkWkZpSFZ4djg0YzBUdXJiR0lUTVA1ZFV0dTAza3FXcTVoMWlaYXhxUVpZZVIxS3I3QkNwMld6MmppR2t2bElXQzBUa0UxWnN2cFE1bWZuNGNsNjV4SHZuczdhTDZQU0loWHo2ZmJvanE1Ym1ZTmhGVjNMZVB0bDJKZGRpdHhDUHVFdGROSnBwRm1QQnZqeERkRlJmQQ?oc=5",
-    "source": "News On AIR",
-    "published_at": "2026-08-23T15:59:15+00:00",
-    "raw_pub_date": "Sun, 23 Aug 2026 15:59:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9f09b0f9eb3aeaec97e9bc038e01a729634bc16d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "US announces intent to resume talks with Iran; diplomatic negotiations indicated though Tehran hasn't confirmed.",
-      "event_key": "us resumes talks with iran"
-    }
-  },
-  {
-    "title": "Araghchi says US pressure tactics have failed as Iran expands regional diplomacy - Tehran Times",
-    "summary": "Araghchi says US pressure tactics have failed as Iran expands regional diplomacy Tehran Times",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakhSbzFpVGVmWV94M1hHcW9LVnRLSm9xSjVtWkI3eG9xUktUdzgtZ3RHSk03dHdsWDRJamN1Z0U2Z2ZldmtSenVIbkRTLUI5Y2VjUGU4UnpsYXZvNVNvZnhNTDhzMnhNWmdqbHlfekllOUR6MUZYSUFlYThKUWIydWpEOXJabmxOaVlLLWRKaHlSZVl5cnYySUhIMm0xaVNSSXl3?oc=5",
-    "source": "Tehran Times",
-    "published_at": "2026-08-23T18:21:12+00:00",
-    "raw_pub_date": "Sun, 23 Aug 2026 18:21:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d8da275f8f712b7561ffe1756b4b331cfc63cad5",
+    "title": "Iran Defends US Memorandum Amidst Escalating Regional Tensions - ABC NEWS NEPAL",
+    "summary": "Iran Defends US Memorandum Amidst Escalating Regional Tensions ABC NEWS NEPAL",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9abmxSdTlkTEo3TUFhQldnVERNYTZ1OUU3aWw0YjlvRW8zSEF2OXBCTUQwVlAydGsxY2x0bkc2UzZCdnlPYWk4?oc=5",
+    "source": "ABC NEWS NEPAL",
+    "published_at": "2026-08-23T20:12:29+00:00",
+    "raw_pub_date": "Sun, 23 Aug 2026 20:12:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "78b11ac840e2b0f2db4c5eb2bbae16b93d8118f8",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.45,
-      "reason": "Iran expanding regional diplomacy and criticizing US pressure—diplomatic outreach signaling de-escalatory posture, not formal talks.",
-      "event_key": "iran expands regional diplomacy deescalation signal"
-    }
-  },
-  {
-    "title": "Iran says new sanctions threatened by 'desperate' US will fail - The Express Tribune",
-    "summary": "Iran says new sanctions threatened by 'desperate' US will fail The Express Tribune",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWhOVmlEMHcwbDJjdUFHb3g1NTV2Yk1FeThJTXJqbUJZXzN1Vl8tZ3pueVl4ejg3bUJMVE1ZNk1aQ0lKaUpoRUk4Sl9BYzJxc2hwdmVubWs1dFkyMGZhdnVzRlB1djNRR1gyaWx4bU95cmJZa1dMRHNLaG84cGpSVVFweFQ1Ukw2ckNOeGZYR2RRc2Vucm55NHhfTmxscXppSGRISk9pY0w?oc=5",
-    "source": "The Express Tribune",
-    "published_at": "2026-08-23T15:33:27+00:00",
-    "raw_pub_date": "Sun, 23 Aug 2026 15:33:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "393d3199b25f0d189a962dc6d21c1a5eb5251bbc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "Iran rejects threatened US sanctions, escalating rhetoric and tensions.",
-      "event_key": "iran rejects us sanctions"
-    }
-  },
-  {
-    "title": "U.S. Sanctions Demand Sparks Iran's Enemy Warning - 조선일보",
-    "summary": "U.S. Sanctions Demand Sparks Iran's Enemy Warning 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUY2WVpOYzNzR2p3MWZQb1lTZEdobWJ3RE1CWGZxU1B4OS0zSVVyWTc2amlXMDBqSG9aSXMxZXZ3OFhkSUw2bUo4VWFpdmxEMy1fNnotRFZuOXRJd3F2NV9KT19KaW5fQmJvbklkbElqUUtJcElQeHlGVTc4Q05INWFTckg?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-08-23T15:48:09+00:00",
-    "raw_pub_date": "Sun, 23 Aug 2026 15:48:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "52a8ec5d9645b9ffda81be84c5c8a90744526748",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran issued an enemy warning in response to U.S. sanctions demand, signaling rising tensions and hostile rhetoric.",
-      "event_key": "iran enemy warning after us sanctions"
+      "strength": 0.25,
+      "reason": "Iran defending a US memorandum suggests a calming diplomatic signal amid rising regional tensions.",
+      "event_key": "iran defends us memorandum"
     }
   }
 ]
