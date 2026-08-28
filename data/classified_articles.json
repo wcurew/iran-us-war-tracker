@@ -1,427 +1,257 @@
 [
   {
-    "title": "Construction Stocks Surge on U.S.-Iran Ceasefire Hopes - 조선일보",
-    "summary": "Construction Stocks Surge on U.S.-Iran Ceasefire Hopes 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGtwSnE0QzcwdE04ckc1MEFsandXSlotdlJrZTBWSEQ2OTByRU5lTGprQjJ0dE1KbXQtcURJWUFNOWpVZU0xM2RBLW9iY05VUUR3OHRnQlJZVEUxMEZpZ3pfd2RsSnlIbkh4OERYQnh4cXpTU3VHSkwyM0FaRG4wdW9US1FyWk03TThJaGNB?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-08-27T15:43:05+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 15:43:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "551d4459d8a119c05882851c8f455fde3d747cb7",
+    "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible' - CNBC",
+    "summary": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible' CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjb1Blb0pDQ21Hak55TWQtNTVnaDJIU2U3WTNRa0hZRmI0dnRkbTU4MF9PRUNIVW5UN0p5akxDdlk1TXF1R1FSbXpzVTRMdUVQaVdTNTU2NlJPVGNPMGJabVdUWi14aC1UVWQwemlxa25FdlNFVk5iOU1hSUlSMmfSAYQBQVVfeXFMUE5hclAtQVRhVktqVHlCdmgyMktYZFFBM3dEdjBhaXd0VzIyZjRPaV9nYWJCOUdBUmhYcUhybGtWVElnS1Rwa19SNjljNThKNWJodEVFYl9fdHhGU0pQUS1iY1JGNFlaSllFXzloXzNaRGpTb3F4dThTdGljeWMzSkp5eXd3?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-08-28T02:29:00+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 02:29:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "65d7f08a902fe902ddc65404dc9ede588f1cac59",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Tehran's call for diplomacy and urging global pushback signals willingness to calm tensions despite sanctions.",
+      "event_key": "iran diplomacy call pushback sanctions"
+    }
+  },
+  {
+    "title": "Iran urges other nations not to join new US sanctions, mediators focus on reopening strait - Reuters",
+    "summary": "Iran urges other nations not to join new US sanctions, mediators focus on reopening strait Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-28T01:34:00+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 01:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "df5efc9bbd9570246b1ca259f0bef0553163fc17",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.65,
+      "reason": "Mediators working to reopen the strait and diplomatic appeals against sanctions indicate active diplomacy and mediation.",
+      "event_key": "iran mediators reopen strait against sanctions"
+    }
+  },
+  {
+    "title": "Iran says putting diplomacy with US back on track 'isn't impossible' - Anadolu Ajansı",
+    "summary": "Iran says putting diplomacy with US back on track 'isn't impossible' Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWFqdnNEeUQ3cFl2TUp4Q0dMc2hwQ1oyNkZMUXZWbWMxd3A1UUdHdHJmTXBHcDVnWXRaeDFnQlp0UnpCSjk0cFRpbmRYM3NCQWRGR0dlTFB2SXl6ZHNoNXNwUnRzaUNHenVkdjlGQ2hMeGlpV2VVLXhqdXNxSjdQYXZXcGtBZU45a2tORFFwdEljN3hVRFBCaEF3MVNNbXU5ZUg2UlRkMmZhdHNJc3Vj?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-08-28T07:45:00+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 07:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "839dd818a24cf7909fd70cf02ce4e214256344a0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Tehran signals willingness to resume diplomacy with the US, a calming, noncommittal overture.",
+      "event_key": "iran signals willingness resume diplomacy"
+    }
+  },
+  {
+    "title": "Iran threatens US economic interests if maritime blockade continues - Iran International",
+    "summary": "Iran threatens US economic interests if maritime blockade continues Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lcWNVNm1Bb2lnWm12Q0JtTVRlcWlOTEZZTHdrLVh0aUZGU3FQaEJiZk8tNXd5S3JMeXdiN3V2Qkpmb2lRNFlPVndkWFJPWnBXX0E?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-08-28T02:27:57+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 02:27:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "16eb3e284db4c4e0d11dfc118dcbdee5563a57ea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran's threats against US economic interests over a maritime blockade raise tensions and signal escalation.",
+      "event_key": "iran threatens us econ over maritime blockade"
+    }
+  },
+  {
+    "title": "6 months into Iran war, Tehran says diplomacy possible if US backs off pressure - NewsNation",
+    "summary": "6 months into Iran war, Tehran says diplomacy possible if US backs off pressure NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR28yWkRLUkFYa3JhYUtxc3hwMnYyS1BTd1VsdmZ2Z1lnbno3ME5tamk5UFBVS29PeFNMMXNNRWpESzYyY2NnWWxRR1FXRzIxb3F5dDNQU0taeDFVVHVleVd2cnpJV29lMWhoMHluOFh1ZXlFSGljYzRKQWR0QVU2MtIBhgFBVV95cUxNRmZMQzQ0QnpiNTA2Z0xqWHUycU5ZdC13WC1ITDFOd0FOTVRqdHF2YWJMUXNpNnJfNUZkUmVuajVqeFRZREF2Z2VvRk1VM2J5N1h4Zy1EVy01TUVubW1RODI5UjdiLVh4Y08zMlJLY095UEdyWnFsRHhrZENwRGR2bUh3YlA1QQ?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-08-28T10:38:08+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 10:38:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "247caf0e4b05090a27302cb982a210dd284ebc40",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.45,
+      "reason": "Tehran signals willingness to pursue diplomacy conditionally, a calming overture rather than active talks or ceasefire.",
+      "event_key": "iran offers diplomacy if us reduces pressure"
+    }
+  },
+  {
+    "title": "Iran Says Getting US Diplomacy Back on Track Not Impossible - Bloomberg.com",
+    "summary": "Iran Says Getting US Diplomacy Back on Track Not Impossible Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSll0dEphcEtPcTZjbmJSYXpNMXNkdWtVLTBqM1hQbFRjWVBzOGhyamsyRHNmb2tuXzIxMGN4cmt6WHhCR2hWM1ExUGc4OXF4a3prZmhDcENDQnVTUXRrbUM0RTFiOEhUYUVHZWZvaU9vR3NuUm55UjhuNmIwNzJZM0t6SjBXWFNxN3FKdnBldGNNUUtMVjE2ZkwxZEtubFFabVUyaHNwajk2Zjh3aDBv?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-08-28T11:20:55+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 11:20:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "69ffa6fb39ca9e7c05921de7d5f5d5107f05b8eb",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Iran signals willingness to restore diplomacy with the US, a calming move short of active negotiations.",
+      "event_key": "iran open to resuming us diplomacy"
+    }
+  },
+  {
+    "title": "Iran War Mediators Focus on Reopening Strait of Hormuz - U.S. News & World Report",
+    "summary": "Iran War Mediators Focus on Reopening Strait of Hormuz U.S. News & World Report",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXBSSUVNZWc0UVNya0RlOHF4Ty0wMXhXQWt1RDJad3B4b1dhTkZkaFhPckstaGpEb2JzbTY2R3JBcXV6aEx6UksyV2cxYVNfN0I0TFBsTDVYZ010UWRuamR3bjdWZ1RGcWE1WGVtWHd4VGFWRlNfejdMSF83X1FlTjZnaXRLUjB3ODVLUVM2T1BMNG1HTF9DdzdYbmp0ODJydEd4cWNsQ2JpeHdEaWV6X09n?oc=5",
+    "source": "U.S. News & World Report",
+    "published_at": "2026-08-28T09:26:03+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 09:26:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9c0a86470c91186bdc4ef8cb83f2f9700a5d2cd1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Mediators focusing on reopening the Strait of Hormuz indicates active diplomatic talks and mediation efforts.",
+      "event_key": "hormuz reopen mediation"
+    }
+  },
+  {
+    "title": "Iran says restoring US diplomacy 'isn’t impossible,' urges end to pressure - TRT World",
+    "summary": "Iran says restoring US diplomacy 'isn’t impossible,' urges end to pressure TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UZUI4aVVud0dwWVNDa25DZUF5NFhOa0xPM2JUc2s1Rnc3VFBDQWtsc19BanQ3cHVJcTBPd0hOZkM2Q0xjU0V3cFVHbmhzaVRGM29HNUZnX2Q?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-08-28T09:32:24+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 09:32:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a0178f12759691a7133cb9febc7ec0f60167cfd5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Iran signals willingness to restore diplomacy and urges end to pressure, a calming diplomatic signal without active talks.",
+      "event_key": "iran open to restoring diplomacy"
+    }
+  },
+  {
+    "title": "Iran says getting US diplomacy back on track not impossible - The Derrick",
+    "summary": "Iran says getting US diplomacy back on track not impossible The Derrick",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWXVucXR2VHhsNGhWRkVxZVJ4cG1JNVdjSGItNzNWeGllaGJhS3ZzTEsydlo3WlhCVjhmRm5NRzllVjVvNThLY0wzSWp2NUdhZ1hzNkd0UmZ4bW41M216Umt5N1gwMmxJanBQWEMwT3gyT3R6czJYNGkycVJhUTg2WEdOUlhxWEFjLUVscWhSYWdtQ3pyNmM2Y0daWjRzU3ZpMkJ5YmVyOHJla1liQmxaa1ZXZzM0bjVna3hQb3cwcHhuZ0gzZk9sc0xheXFZVG8wOVlqa2FzMXlmTFdZMkQ3TElQTndTcXE4YmFz?oc=5",
+    "source": "The Derrick",
+    "published_at": "2026-08-28T13:19:00+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 13:19:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4c1098bffd31d9ecaee9d34099d0671fb2b80a30",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.5,
-      "reason": "Markets reacting to hopes for a ceasefire—soft signal of de-escalation, not an actual truce.",
-      "event_key": "us iran ceasefire hopes"
+      "reason": "Iran signals willingness to get diplomacy back on track—a calming diplomatic signal rather than confirmed active talks.",
+      "event_key": "iran signals willingness resume us diplomacy"
     }
   },
   {
-    "title": "“Neither Side Can Deliver a Fatal Blow”: U.S. and Iran Hit Political and Economic Limits as Ceasefire Talk Emerges After Protracted War of Attrition - economy.ac",
-    "summary": "“Neither Side Can Deliver a Fatal Blow”: U.S. and Iran Hit Political and Economic Limits as Ceasefire Talk Emerges After Protracted War of Attrition economy.ac",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KZTVuUzhVVVFUdkFWQVIyemZ3UHV1SDA0S1ZTdVVHc1JJNWhwNzlZWEtNY1FxOXhfMHQxeUJlbFRwOUttNXBfZi1sOEM2NEF4eGFialZGaw?oc=5",
-    "source": "economy.ac",
-    "published_at": "2026-08-27T20:58:39+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 20:58:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "83d76155d22ba4f70bba8153df1e427020c99206",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Emerging talks about a ceasefire between the U.S. and Iran after prolonged conflict, indicating active diplomatic engagement.",
-      "event_key": "ceasefire talks emerge"
-    }
-  },
-  {
-    "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume - Al Jazeera",
-    "summary": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYks0N05xNi1PVGpRbDRhcVRzMHB2VHpGa2pTR1N3U1draUc2dkplTkVuTHhxb2pFUWRwNU5nbG9MMDAyX0JTTlhuc0pPTjNxSXUxRGo0SHkyMWZxaW5JQnVWTkRtODluRWhEN29TeDBDai1yU2IxVnRNU2RSRnVVZ3F1MzQzRjY5NGNtMGlOMG1GU1drSVBaZWNmeHg1U0tHWi1ZbGw0eHk2VURZS2JBVVJ0emXSAboBQVVfeXFMTmR0eWhVSVZWc1c4U0JIUFJ2YnczdFFMLUlRSUJPRzJhRmdYbmlrNzRJUHQ0R3BkbTJUSXBTa1NXcGFpdlJYOEhSOFNtcG1BLTlXMFZsZGFvM0hFSHRtNnM3Uk9FdmFxSW9OQzE0Tl9TLXBibWxWNnk0SVcxWmRYcVRUa01yd0l4OXNqbFYzc2lmaW1meWJ2NFJvcnZISXZGVFNZMjJMWDJmZGdZWmthMmI2ZmdOZENoaVFB?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-27T21:12:18+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 21:12:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4e3181929617101aa176155b150ffbf9911e7ae2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Iran and Qatar holding Hormuz talks aimed at reviving dialogue with the US — active diplomatic engagement.",
-      "event_key": "iran qatar hormuz talks resuming dialogue with us"
-    }
-  },
-  {
-    "title": "Donald Trump: US not looking to restart talks with Iran - The Jerusalem Post",
-    "summary": "Donald Trump: US not looking to restart talks with Iran The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UWFBuMnRkSEVNMlU3ejEwaTdUZG9fVFlCYVlPbklRZkQ1S3Vrbkp4cFRnNzFDekFGYlAyeEh0NmFYN0pFZ2dGMG5SZWJpSi1wMVhpSFNrY1luNEVvN1RB?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-08-27T23:54:09+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 23:54:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "821819d58d6209a9d8325bac17175d4fc1b9810e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Trump's statement rejects resuming diplomacy, signaling breakdown of talks and increased tensions.",
-      "event_key": "trump declines restart talks with iran"
-    }
-  },
-  {
-    "title": "White House says no US-Iran negotiations underway - Middle East Monitor",
-    "summary": "White House says no US-Iran negotiations underway Middle East Monitor",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzRXV09ublQtYm9fQmpLUkFDUFZBYXFkTXN6TDA2UU5mQUtwWXNRam5FOFRJaDg3WWJsUnhqa29KdUV3UDdwdk9GZXdlVm5hV2JyWWtUZnAyWTIxMVpMd0dsSGo5a0RFLXlBamJzTkdWZThJV3NUd0FLWmgtNWYyaEJvXzhSQnN4Yk5TMkFFV1I2clljSlZadw?oc=5",
+    "title": "Iran says putting diplomacy with US back on track ‘isn’t impossible’ - Middle East Monitor",
+    "summary": "Iran says putting diplomacy with US back on track ‘isn’t impossible’ Middle East Monitor",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTdmSUZHSDhQRnh2TVRCaTh4RWZvWW1VSEVCOEZaRUVDdU5Zak5haDJ3dEllMEU1czlVVlFmcUstalZobjdPdXc4WkNzRzZhdUNWc3VueGJBanBxMUNSelU4TkpsS1ltS29jdktSTU0zSTJzOW41MkhzOVVGTGhSaUdZd2N6RDVUek9aTWp5VVhBRnYyYmppejhOcXpaSkRKR2NNMi1iQnJEZnZnN3fSAbMBQVVfeXFMUGhYQzJ4ZzlmN2NxclJZQm45M3dGZXFJSkZzbUdxd1FDQUtnZnk1cU5nc2Y4UlVOaWdPUEtLdVEyX08tUnE5MkkzNmdCSGNkVUtzUm1sOUdXRUpSTWNOb1VzV0xHTWhtajJSX05FeDlxdFNmc2FpaGdTWi0zZk5IWDh3bHk1cXJweHhCTWJTeTYtRU9FQ3ZoM3VIX0xXbkVfREtJUVRuNG03VHZSVF9lVDVTdE0?oc=5",
     "source": "Middle East Monitor",
-    "published_at": "2026-08-27T18:00:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 18:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a47240fa2c9b0be04c262570d8b6c7aaba814bd8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "White House denial of negotiations indicates breakdown/rejection of diplomatic engagement, increasing tensions.",
-      "event_key": "white house denies us iran negotiations"
-    }
-  },
-  {
-    "title": "White House: US-Iran talks remain stalled as Washington escalates economic pressure - Muslim Network TV",
-    "summary": "White House: US-Iran talks remain stalled as Washington escalates economic pressure Muslim Network TV",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzhlM0dGZ2pYWTctU3RYT2NiVUlSUXc2Q2JNT2hZdGJwNjdRUXJ4MEZTMnBKRm1vLUM3bWdjLUc2VXI1bjhRMFFLV3RudU9ZSDh5QkJDWnJDbXlPNEpwUXFISzRIZWg5Q2ctZmt5Rk9jNTlCS2VmOTVoR1BRdU1CaFlIWkwySVRqUzdlbWZMdko5aTJZTEFyTlNpSU44WWotdkZUNmprYUJtQmFYQnhJaVN3?oc=5",
-    "source": "Muslim Network TV",
-    "published_at": "2026-08-27T17:15:05+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 17:15:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d76df764102f63e5ee058a384ecbddb9418e6290",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Diplomatic talks stalled while Washington increases economic pressure on Iran, signaling rising tensions.",
-      "event_key": "us iran talks stalled economic pressure"
-    }
-  },
-  {
-    "title": "Six months into Iran war, nuclear threat remains, Hormuz is disrupted and US forces are wearing down - Ynetnews",
-    "summary": "Six months into Iran war, nuclear threat remains, Hormuz is disrupted and US forces are wearing down Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91Y0JBRllDS0JOSWdNYXVXOHBaRzJ1dkV3TWJLdlMzZTcyN3pIelIwRHp3cGppa3JhNzRVTEg5UHVhaTZiVy1MTi01OTVoY1JvS2YyWVdpQQ?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-08-27T19:32:54+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 19:32:54 GMT",
+    "published_at": "2026-08-28T11:59:00+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 11:59:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f2d69573c7d0e9480d4ff9a56e366a05dbdae0d1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Six-month ongoing war, nuclear threats and Hormuz disruptions indicate sustained escalation and strain on US forces.",
-      "event_key": "iran war six months hormuz nuclear threat"
-    }
-  },
-  {
-    "title": "Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War - Barchart.com",
-    "summary": "Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War Barchart.com",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHF2VlV4OGYwM09yclpfeFFsdDZzVlVDelpXc0hyNDR0cVpyLTlMdHNDZ3ZxLWFFbkRLdC1Bcy1DcUdtLURpS0J6MnYzSGhuZ3RLbGpzb2NPemgtcWpPbVF3amdvQmJGalEzV2NVUG9hUHVzdlhzblo0QUZCbjZsWnNYM3JnZmJ2QnRoVE02ZjI4VTFrMDY3cHJ0SUVNVlhaLTROZldRWDFnVmc?oc=5",
-    "source": "Barchart.com",
-    "published_at": "2026-08-27T19:16:36+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 19:16:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ecfc9d4adc67a1f0594aea7f340a64b737ba9860",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Oil-market reaction piece, not reporting direct Iran‑US diplomatic or military developments.",
-      "event_key": "oil price reaction diplomacy doubts"
-    }
-  },
-  {
-    "title": "Oil rises on fresh doubts over outlook for US-Iran diplomacy - The Business Times",
-    "summary": "Oil rises on fresh doubts over outlook for US-Iran diplomacy The Business Times",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnpNWDNLbWF4a3Z2S2VjaG11bWFXWmdPeU93RURtcnlTNVdRZTdCU29WLVo4OUV4VXZZeUpnMXFsUGVmY0NkTnN1TlZyVGNPLW51OW4tRFk4MGtBVjZaSzlXa0QyRE05RlhfTDQ1QURlQzV4bm9OTVFoNDJva1N2RHhwbWRQR3VsYWh4eVpWdGtZbmFUMlVDM1lTbjIyVjl2ZGpjdDVHY2gzQ0x5OVNxZ3NKdjZBUUQzVk8tSDc5QmQ?oc=5",
-    "source": "The Business Times",
-    "published_at": "2026-08-27T22:17:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 22:17:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c84d8198279c9ed651d248cfd0b98e3d022aa288",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.85,
-      "reason": "Focuses on oil market reaction, not direct Iran-US diplomatic or military developments.",
-      "event_key": "oil price reaction to us iran diplomacy doubts"
-    }
-  },
-  {
-    "title": "Qatar PM visits Iran in bid to revive diplomacy as Trump says US-Iran talks are not happening - Arabian Business",
-    "summary": "Qatar PM visits Iran in bid to revive diplomacy as Trump says US-Iran talks are not happening Arabian Business",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoUXhhMGFhdGxTNHJYTGtUVHpvVUVjUXF2dzdYMWlDNVJ4QlBZWlljWG5iSWtZTmV4ZUpsemtQel9oRDIzcUNFS2hhZWFZRGRyV2xYLWZ2aHU0VE44WGZyMTBGclBUUlM4eG9wc3dR?oc=5",
-    "source": "Arabian Business",
-    "published_at": "2026-08-27T23:17:59+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 23:17:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "01c8f7bee22c897eea99a6629ef7c1808452863d",
+    "article_id": "f7c1441cd84268e8d0b2fd226e66b0cbbcd5e5f4",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Qatar PM visiting Iran to revive diplomacy, a mediation/diplomatic engagement despite US comments.",
-      "event_key": "qatar pm visit iran revive diplomacy"
+      "strength": 0.6,
+      "reason": "Iran signals willingness to resume diplomacy with the US, indicating talks could be put back on track.",
+      "event_key": "iran resume diplomacy signal"
     }
   },
   {
-    "title": "Six months after US strike on Iran school, parents still grieve - Al Jazeera",
-    "summary": "Six months after US strike on Iran school, parents still grieve Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHBObUhSemo1TUU2dWNJQ002dVJReFh0cXZZYXZ3RHhYUm5vZmowWlF5Q1QtM29TSjduRFZVbUJEZ1YyOWh2NW1iYUZGX1FxN1ptNERteFJHRzZOV3VsZXJaYUR2WG44NmdHeDM0U1JlM1NpZE96cUVySG50R1loaGNHdG5OeWNpSlBIZ0tYNmctRkhYSjdpUm9FYVRxSHNYLWZvdnpMbVYxTHlLaFpiNGdMZ9IBuAFBVV95cUxPRFJ6RjNVN3UzM3NSVTZrY3VTT2ZjcUY0QzkzUkM4V3JVc0R5NlFyLThDQW9taVVnOHNacmdEZjRNQk1pWXBaM3hSbDVKWnNaNndiaWVLWVlYU0owRVp1TThHcmtZa1VlY3hmSjhybHc0TzJFOWs0LTJIQWFtRHhtT1FCcjJzQm1SSUU5ZEszN1pUZW9GdUpWNWxsX3pDSTlrbDZRZmdENno5YnhnbVZGcml5LXBHNXhx?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-27T14:10:44+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 14:10:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7d871113a794d6713dc3c4755d2a2e672b3531be",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Describes aftermath of a direct US strike on an Iranian school six months earlier.",
-      "event_key": "us strike iran school aftermath 6m"
-    }
-  },
-  {
-    "title": "US Patriot missile shortage in Europe ‘beyond critical’ due to Iran war - South China Morning Post",
-    "summary": "US Patriot missile shortage in Europe ‘beyond critical’ due to Iran war South China Morning Post",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ3RvV0FMT25hZDNGUWh6dU96SE5NdDFCME5ZaGNSQndKRUNDR1FNb1ExSkFhOUtqZkw0SG9PU0IyZlVZYmJBQWhBbk0tMVF6U05NbXhmMkVJYzk2bWdYNGNNSVU0V2s5S1RnMm1HRnkwTFdBVUNTZjVTWkpnS2V4Y3Z2M09RZzBva25ibGRGakw4TEJkT2w5dGVuMktMZnE5RllQYmZodUlaalRPU0JiUUo2TVo5WUNiS3ZWSXk5NldTS0NhWkluOXNKUGxvWXYxTG1zbUhOUUxZZURJQzZR0gHfAUFVX3lxTE54X09XNWJ4cC1XVnVZVnU5MU13RUhrU0wySjZyeGdIUEJ4Z1I0OXZrbzctZ0NTb1MtbWplWHFOcnV0NjdZbmN6bDFlV2lGeXRTSzAzeUhicWY0czhXQzY2bTdHbkNtbldKUFgwQnczaW9od29qeGpvYkxXSlhIbjF1ZkpFVjRLR0ZnNnM3bDNWWm1hMlFwMUstTXlYVDRINDU1cjAzMVVaN29fMzMxNXU0eUdTWjhUTWU4TVFlR0JjLWVzZ2tVTm5YWHRMdUJIMWZneUVONm1BSl95SDJodEE?oc=5",
-    "source": "South China Morning Post",
-    "published_at": "2026-08-27T16:52:49+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 16:52:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "91643b34888f49e4a176463f0ab0967a73b8e97f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.65,
-      "reason": "Patriot missile shortages indicate military strain and rising tensions tied to the Iran war, signaling escalation risks.",
-      "event_key": "patriot missile shortage europe due to iran war"
-    }
-  },
-  {
-    "title": "Iran warns strikes to military, economic interests if US starts 'mischief' - Middle East Eye",
-    "summary": "Iran warns strikes to military, economic interests if US starts 'mischief' Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmhPR2E2OVBSRmJncE5pRXlPYmtNcUs2UjlQSE1PUUUxZUFFM1d6c3JxeUc5Z2Zpc0dibTF3VDRxUmxwaDRPdXc4akpIX29YcDlxcWFQVVhPWFVBVVFISTJscWptZGJlUFBZaWVKRFFGUDFhYjdXNEJuR3lQSHFQNXV6ZVlSS1o4UUdpeFpnZzZDa3RQSFZ2SXhDU0NQcTFDZUVJQWxfQ2t0REhwSnZxcEhZUnBScnB3MHVDbWltX2E4MDQ?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-08-27T18:04:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 18:04:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f83f90b3039284c6403d0937a7217facd62b4ca6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issues threats of strikes against US military and economic interests, signaling rising tensions and hostile rhetoric.",
-      "event_key": "iran threatens strikes against us interests"
-    }
-  },
-  {
-    "title": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - AP News",
-    "summary": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say AP News",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDdGMkJyRmZLTl96Zy1iYU9iTUVOcjRHaDdZRGF3eXlVRDAwM0VCOTBRYTQ5TTFqVldDUllQdWRWRFpKRl9SZ0V2NGNSVVNmOVhxeDgtM05kTTEwcGczTGs3VnhLVkRDU1paamMzazZSU183Z2tBajF1NWJkaEdCSzNNeXV0XzFYeGl0Q2E3dkpRZmxNQUlrVG5DS25mT3JyTE5aa2t3RXMxdw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-27T18:29:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 18:29:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9afdc6b6df874b030fd537dd6bbf01dd9a4ac84b",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.78,
-      "reason": "Depletion of US Patriot stocks tied to the Iran war signals mobilization and rising tensions.",
-      "event_key": "patriot missile stock shortage europe iran conflict"
-    }
-  },
-  {
-    "title": "US Patriot missile stocks in Europe ‘beyond critical’ due to Iran war – officials - The Times of Israel",
-    "summary": "US Patriot missile stocks in Europe ‘beyond critical’ due to Iran war – officials The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeWxYNE1kUzBLNnRGV21sdnE5MXloamlnN2hJZGtwUnh5ZmNvbGFadWhVdjdCQU05S2h0bDc0ZDZBbEJyUkUxMzZvR3UxLUdjRlhneVpybENTam9Yc3UzMkk2YU5uZjl4ZFRzb05xQzAtUU9pek8tYWZYUmllamVodE1VUnpkcE1UWlN5LUtGU001aEdIblRqTElfNFJYeV9jWTRKTWxoUDVlNkkzT2MxMnhlU2VGT2V3cDh4NXk4NGE?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-08-27T16:05:18+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 16:05:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72642668349779d9d78ebfe29302e3ea4fccb46f",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "US Patriot missile stocks in Europe critically low amid Iran war, signaling rising tensions and military strain.",
-      "event_key": "patriot stocks depleted europe due to iran war"
-    }
-  },
-  {
-    "title": "US missile interceptor shortfall 'beyond critical' due to war on Iran: Report - Middle East Eye",
-    "summary": "US missile interceptor shortfall 'beyond critical' due to war on Iran: Report Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcV9iZm1QSE54SGhVd05HQk9VanJrcUR5UC0yalBVWjRlMlBITkNfeERmaGNTMmVRdFNxUWZRNU5xN2xpMkttb3doSmY3NTNWRWNnYkdxeWFiTWZvcHVoak05M19RWlV3WGM5YkUwTldpdTdEdjJUNmVOUzFrQ0ptZVFYUktYNHRIRXFsMjRzMVhJd2hrMmw3Q2thM1JwT3hVTUNXRHNVTmg5NDFnaDg1MlNpenBpZXN1Q0k2WEFGc09YMmc?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-08-27T19:56:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 19:56:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b25c69c885c07bf243670aaa2985211717516070",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.78,
-      "reason": "Reports of critical US missile interceptor shortfall tied to a 'war on Iran' indicate rising military tensions and escalation risks.",
-      "event_key": "us missile interceptor shortfall due to war on iran"
-    }
-  },
-  {
-    "title": "US Patriot missile in Europe reach ‘beyond critical’ levels amid Iran war - Muslim Network TV",
-    "summary": "US Patriot missile in Europe reach ‘beyond critical’ levels amid Iran war Muslim Network TV",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTR4dlViVE1EUnhkN2dMb092QUgwZkh1NGlnLU10cHNpdFcxVDVLdjdobDBjU1FiMjRUYjJ0WVl6TzR4UUgxQy1TM2RnRnlKMVluUXN1dm9jNFRJVkdEVFVKN3c3Rlg2cVZXU0otc1psbVZSeFlYWlJ5aDNVTFJ5d2I1bkZkeVhnaTNzRUlITU5fU1h1Q0dUcUhyMHRuMjdIS3Bv?oc=5",
-    "source": "Muslim Network TV",
-    "published_at": "2026-08-27T21:24:59+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 21:24:59 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "526bbf958553d91c3f991b495e53c2e8da9e8695",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Patriot missile stocks in Europe strained amid the Iran war signals mobilization and rising tensions.",
-      "event_key": "patriot missile shortage europe"
-    }
-  },
-  {
-    "title": "Did The Iran War Expose The Limits Of America’s Missile Defense Shield? – OpEd - Eurasia Review",
-    "summary": "Did The Iran War Expose The Limits Of America’s Missile Defense Shield? – OpEd Eurasia Review",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0VNbUd2c1g3VkMtWGFUYXVBMWtJTldLRzJ5NTVNd2J4d0t1UlhoRmp4Z3R5dUdrU01OTTh0ejQ2dnFoVnNtLTROTE52QmE2d05EbmU2SnhTV0wxWjhjdzdveVVuam5aYUxpRnI3b0c4UkxqTlZsVm1saEhKcUFuZDZnVzJwUFhfLS1QeGFneTI2TWhiNVk1MXozVjlpTnh2NUM5cjE4VVVOdnQ4RWF5US14ZFE?oc=5",
-    "source": "Eurasia Review",
-    "published_at": "2026-08-27T16:41:25+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 16:41:25 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "47664da7240e3cab3d50ae47e45260a85773a7ab",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.1,
-      "reason": "Op-ed analysis of missile defense limits, not reporting a diplomatic, military, or proxy development between Iran and the US.",
-      "event_key": "oped missile defense analysis"
-    }
-  },
-  {
-    "title": "US faces ‘beyond critical’ Patriot missile shortage in Europe as Iran war drains stocks - Firstpost",
-    "summary": "US faces ‘beyond critical’ Patriot missile shortage in Europe as Iran war drains stocks Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWNEbXIwLVhaSzhvSVZvSUF2Z0hTOVNqdXdVY2c5VHlDYzZ1M1BQOXd4VHZkLXBZRXllT3l4ZjZiUlBObFlGeVZKVTkxckZUQmpQSzR4UjE3cTJueUhTM0FhNURramtlVkItQi1KaDkzN3I3dHNHTFExNFdiQWNCTEJrZllFMk00V2EyOHR6QlpOSndIeXZMSHhaUmtLbndyX3hMX21MM2tJelNiUERJV25fMHZiM3p1anNZUzF3V3ZKYVRJMkZFeEVyNNIB0AFBVV95cUxOa1Z3a1dBb1ViMFdZSG5HUHpfcnJrX3hsZmVGTXc2dG5qenQwRElNbjlKc1hva3ZPR2NBOWd5V2tFdmxONEY2RUx5WFN4TDZoWGRBZ0hKVTkxVlJnYjBkODVhTTlGUVVIVkQwXzU3a3hXMTdFbnIxQmpaYWdGdWpWUmVzbmgtVlJFbDZjQzVVanBqZ2tDbWdHSm95OTFrclFTcEFMVndyTWhOeWVLYnpIdGMxV2RiWjQtcWtBdVJuOHlKVlotRkU2aUhzQ2R3Q2po?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-08-27T17:23:52+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 17:23:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a54cd447239eadbb33ef5297181929d0d8cf541a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Patriot missile shortages driven by Iran-related fighting signal rising military strain and escalation of tensions.",
-      "event_key": "patriot missile shortage iran conflict"
-    }
-  },
-  {
-    "title": "US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - niagara-gazette.com",
-    "summary": "US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say niagara-gazette.com",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVWhLbFRNT0JrZnp3QTlUTXpQZ3B1aEdhaXJ4Tk4yREZ4OWV3U0w3WnZUbng3aWdRZUZ0eE9teThVc0NQVW5OR3kxeFF3QkZnMTJYN2YzSEdzLXVqSDVBMmpIaXlVT3ZJaGM3RDVYQ0hnazl1bll3VWZHd1VPTDV0amI1MXRHczV4dl84U2cxNUN5aVl5Vlg1V2tpR2FjZS1VQTBWdVJGNGs1UW5oMTJHX1dla290OUVQZEQ2WHAwREdOZmNMMEdjLXQtaC16cS1yem5uTDExbVZLZEpieTdObkxJcVV3Ml9DY1NIbWFKUUY3ekFmejRTeVVkbF9PTUM1OHc?oc=5",
-    "source": "niagara-gazette.com",
-    "published_at": "2026-08-27T22:56:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 22:56:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "14b4a3fecd28d86b8c6e7786d70ecfd59f1e2e0d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Depleted Patriot missile stocks reflect increased military strain and rising tensions tied to the Iran conflict.",
-      "event_key": "patriot missile stock shortage europe iran conflict"
-    }
-  },
-  {
-    "title": "US Patriot missile stocks in Europe are ‘beyond critical’ due to Iran war, officials say - WBAP",
-    "summary": "US Patriot missile stocks in Europe are ‘beyond critical’ due to Iran war, officials say WBAP",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlRmei1MZEMyZFhBeFg5NWZwUDU5VkZuamx6RUNIVHJqc3ZDSEVqdjAyM2hmZ1Y5TFh0d3RteldmSERreWtqczdIMUJFOGVDUERvTGlSdS1lY3JjbDQzWkg4eFpjeU9GcGxsbWJ1R09QYTZKVHVnMURhR0RJVnAwRGZfbjFWeTl5U1RqUVZhUzFqTHNGdWlQbGpwdGJCTEZrUlZGd1lQaTlJWEl0bGdkTWozeEpNcDVTWVE?oc=5",
-    "source": "WBAP",
-    "published_at": "2026-08-27T18:09:39+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 18:09:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5a7728f4252900eee0ebcffaaf7da2e640a4271d",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Depleted Patriot stocks indicate military strain and heightened US readiness amid the Iran conflict.",
-      "event_key": "patriot missile stocks depleted europe"
-    }
-  },
-  {
-    "title": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - Caledonian Record",
-    "summary": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say Caledonian Record",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMGdPbnRDRWtDdWswbHhReHN2RDl0UjJ3YzBZNzZiNkVnTmlfSVh0bmMtQmR5TS1TYUJvakp6TWVxcjFrZVZhNTlvMFJ3SXRCdHZmUlpYLXFidkFwVkZ6Mzloa3JRQkx0NFFNSDBrV0JyTHdoQWVBRVFVeERKRUcxZlFLNGl4WXNOcWp4VzBkS21nNkdjdllzTy1IQ0VpandrNTRuNGpkcDFKa1hkUE4zQjR4aTM5N01tR3UweVZzRWhNNjZXaWdlUmxReU9ZdTE4cnBfd1I2Nld5X0ZvRWdwUmZfRHg0SlNmX3ZRQ01jczF6TUNLU3ZwcERDWmh5NE1vR3daeVhQSzZySDdQcGZZTGVrWEhDNzA?oc=5",
-    "source": "Caledonian Record",
-    "published_at": "2026-08-27T15:54:55+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 15:54:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5db77ceef176bb25c00bf6797fecdc197b13ab0f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Depleted Patriot missile stocks indicate militarization and rising tensions linked to the Iran conflict.",
-      "event_key": "patriot missile stock shortage europe"
-    }
-  },
-  {
-    "title": "Escalation Risks Rise as US Pressures Meet Iranian Defiance - Energy Intelligence",
-    "summary": "Escalation Risks Rise as US Pressures Meet Iranian Defiance Energy Intelligence",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OT1FucUxheU1BRGRrWjhHV2xCMzA2OHVocm43ZmdnOVhqVXJWcU14MTNuY0I1ZUp3VkhwZVdNb0ZjNk1kTlRhZzlUNnNEeXdrTVVSNUl2M1BsTmxYcVpVQ1NEQkk1UU1sU29JaHNrMFVmZw?oc=5",
-    "source": "Energy Intelligence",
-    "published_at": "2026-08-27T19:25:22+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 19:25:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "77783a0c68318f6ab40e73aec6722513fe3f7e16",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Title indicates rising tensions as US pressure meets Iranian defiance, signaling escalation risk rather than diplomacy or strikes.",
-      "event_key": "us iran escalation risk"
-    }
-  },
-  {
-    "title": "Another major US escalation could convince Tehran: NPT wouldn't provide protection, security - Counterview",
-    "summary": "Another major US escalation could convince Tehran: NPT wouldn't provide protection, security Counterview",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Oa29Reno4YnhnYTkyLXBoZWszV2lqN3ZEcWRib1hQbGVnS0ZQSWtMSHhoWkNmamZQaFpiUURPX3dmUk9wZ3NSLUlrckpBa0hjU3BCNXQtNGlkUHF4MHF6SU5OUDdQV0VZTGNqZ18tNjR1QVZTYllhQkxhY2RFNWs?oc=5",
-    "source": "Counterview",
-    "published_at": "2026-08-27T22:30:00+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 22:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb89b56283baef17f318822df727f99050b905b8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Warns that further US escalation could push Tehran toward hostile responses, indicating rising tensions.",
-      "event_key": "us escalation could convince iran"
-    }
-  },
-  {
-    "title": "Pakistan says Asim Munir's Iran visit aimed at de-escalation, not US envoy role - India Today",
-    "summary": "Pakistan says Asim Munir's Iran visit aimed at de-escalation, not US envoy role India Today",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEJRNXJQZThwMjJ5RlJ3eHEzSEVIdFBHaERreF9IWnl0cldGWnRoMWxYV0tJcnVNb0EwWFFYNk50ZF9TSDFxcG5yckI1dVZ0akNIT3J5WE1ZY3NmZ1FNcm83aVl1aEhZRXE5SEZfQWRIVXh5di04RW5nVHZoVHpoZFlkeVQ1SmZPSzNweXlGYThPN2pSRlVnTmhBWFdERDNmbGNGaTYyRVRub1VfVkkxUGhWalhGbkxqbHo40gHAAUFVX3lxTFB3SDB1X2dBdFc4dDZlSEVzYzhBb0JSWnFBRVYtbGNsazhsRmxCQThTSi1sME53SkVPazNhOGNMYXpjY09UdFhWaHlDbWlUWHF3cWhVeVF0Rm9GNVpyS3c2MUtlR29qQ1lWanM1SnUwQTBETW5mOFlSdGNtNGRTbWF3dXFrMXp5c2tNVjFnX0ZhOXpDd2ctS29XZ2poOVUtNTJRYS1zU2dqRmFFbjBUWVppRG1ELTJuQm43Z28ycWlLRA?oc=5",
-    "source": "India Today",
-    "published_at": "2026-08-27T14:46:42+00:00",
-    "raw_pub_date": "Thu, 27 Aug 2026 14:46:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f637a8fee6fea31171827cb2cf3fb18849b55a2c",
+    "title": "Iran Says Returning To Diplomacy With The U.S. 'Isn't Impossible.' Trump Says He's Not Interested. - International Business Times",
+    "summary": "Iran Says Returning To Diplomacy With The U.S. 'Isn't Impossible.' Trump Says He's Not Interested. International Business Times",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeE5IWGxfRU5MdDJ4MWIwcWtWal9NWHI5OE01VDVjbjBWWWNsYkR6Rm9CTEdZb1pqWHhlT1Zyb3Y0T0xZZi0zZ29HOXlJa1JwMXRJT24ydTN4OFFMd0JiZnV6ekdKTXd4Y29vcXd2Q0xHMEd0clB5b2h3LW5HVXc3Ml84QTNrYy1mbjd6cVotdHhldU15ZTQ1d2hTYkZXeURoOEYyeFdRdVA3bVUzdDJN?oc=5",
+    "source": "International Business Times",
+    "published_at": "2026-08-28T13:05:15+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 13:05:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3fc46f1dfc5356a2b8501982ef09245ca2f5c924",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Pakistani military chief's Iran visit framed as aimed at de-escalation, a calming diplomatic signal rather than direct negotiations.",
-      "event_key": "pakistan coas asim munir iran visit deescalation"
+      "strength": 0.5,
+      "reason": "Iran signals willingness to resume diplomacy while Trump rejects talks; no active negotiations.",
+      "event_key": "iran willingness diplomacy trump rejects"
+    }
+  },
+  {
+    "title": "Mohsen Rezaei Warns U.S. of Historic Retaliation - IranWire",
+    "summary": "Mohsen Rezaei Warns U.S. of Historic Retaliation IranWire",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjR3Y1AyU3lLelhOakZkNDRhVU1RR25jcElmTFZTeE9vZWl2dllCdnU5c2ZENS1wY0JWX19wOW1melVxc3paTjZzRE1rLXB4cF9vS1ZwQXFEQWhZcmZ0QWl2NUM5Y0l1U1l0VkRnLU9ZWktob1hXOHdBak5oOC1hdXVybEtWd2thMV9Z?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-08-28T08:48:44+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 08:48:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "deed2087f75f197d5084edca3a2d943f946e8bd5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Public threat by senior Iranian official warning U.S. of retaliation, signaling rising tensions.",
+      "event_key": "rezaei warns us retaliation"
+    }
+  },
+  {
+    "title": "U.S. Military Says It Has Cleared Iran’s Mines From Strait of Hormuz Shipping Lanes - gCaptain",
+    "summary": "U.S. Military Says It Has Cleared Iran’s Mines From Strait of Hormuz Shipping Lanes gCaptain",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHFLOHRJLVpsWEVvTmR5Q2h6eGpJalZqa2xRQmNDZVN0UFFNbHV6R05sYjlXemJOci1LZllPYWNwazNUZUVLZ1JpcnhDVjlJa29LT0RqYmhhOWlFMWhLNFhMOUNnRU5ENDU2Tko5eWdBSkZreG1nUldOX2lLeDEtMExBU0ZHUG04WXJDNEtnbW53dEtJUHJ2SUFkdFhya096WVl4MVB3?oc=5",
+    "source": "gCaptain",
+    "published_at": "2026-08-28T04:07:19+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 04:07:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b5f34fb998bcd0dfe217021261742d8de09e85d3",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US military conducted direct action clearing Iranian mines from Strait of Hormuz shipping lanes.",
+      "event_key": "us clears iran mines hormuz"
+    }
+  },
+  {
+    "title": "Putin views U.S. as depleted by Iran war, is ripe for escalation — WP - The New Voice of Ukraine",
+    "summary": "Putin views U.S. as depleted by Iran war, is ripe for escalation — WP The New Voice of Ukraine",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzhFcTcxUmlsRDFQeVZRX3BxOVFoeFVJWUpFLUlUQ2FibTNUWnVKWnRDUzBOUDRVSDZNenNMMEdwQmh4TGdkV21TWG56Sld3UFh2ZFRhbWtYc1Q5UmlWbnowOGY4VWVJUmY4UW9mbXpJWkJoaXZqTUxwRW12VmJNX0Q1VHhrZUlQUkc40gGHAUFVX3lxTE1ZS0M4bmhjdXEwSVdWQ21DY1lib2VsNy1GODY3M3FjYWJYRGhsdXlVeDFyTDZHYWtGd2tnNFRkNkd4SnFvWUo0YXp2bWNjWFNtWTVkZ1Vpc2ZWVzNsRF9VS003clI4UkN0OGhOa01JZ3BENW9xaUdUaWV3UWU3T2xxLWhrSW5VMA?oc=5",
+    "source": "The New Voice of Ukraine",
+    "published_at": "2026-08-28T09:13:00+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 09:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e6917427aad19b8f4568cef0c21c7000774883e0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Frames rising tensions and potential escalation as Putin sees U.S. weakened by the Iran war.",
+      "event_key": "putin sees us depleted by iran war ripe for escalation"
+    }
+  },
+  {
+    "title": "New Iranian escalation against Washington due to American sanctions - المتداول العربي",
+    "summary": "New Iranian escalation against Washington due to American sanctions المتداول العربي",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnNVNFdLNTZ3VElJdGNoMk01OURCZlFKcFIwck9Nb0RIbFN3M1RlcS1iMFVzTlZ0Nms4a3dmMjBmbm9tcU9VdktwbDBZcE9jdEVCWFpLanp5dFV4Nk1xZHFDZTl3TlFQSTVJRXJWLWM4YjY3RkxPd3dhV0hxdEVhMk1PYjl6aDBkMGZVYXNXTkN1YWlEbExEYUtjTEV0eUNnRm1yekV3VmRTVG5aZ1pDdi0ycWxwbDg1bWRZ?oc=5",
+    "source": "المتداول العربي",
+    "published_at": "2026-08-28T12:40:39+00:00",
+    "raw_pub_date": "Fri, 28 Aug 2026 12:40:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "512809b61c4bb1358b249de5ff2eb4dda40c3972",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Title indicates a new Iranian escalation against the US in response to sanctions.",
+      "event_key": "iran escalation over us sanctions"
     }
   }
 ]
