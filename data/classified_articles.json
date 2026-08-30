@@ -1,19 +1,36 @@
 [
   {
-    "title": "Pakistan’s Quiet Diplomacy And The Road To US Iran De-Escalation – OpEd - Eurasia Review",
-    "summary": "Pakistan’s Quiet Diplomacy And The Road To US Iran De-Escalation – OpEd Eurasia Review",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjRleGQ0SXhLRnI3Zjhoc1U1UkdaOWhUcVRwX0ZPMlNrVE01T3p4WWJjcGlsLURYbFVMTi1wYXZnR01hdXlxXzNSM0RXZXBGYVVkMU1NSkJIbEp5dnZFUjFRcy0tRThkanJNeXZXdmRsQ0hmVm9xSXR5RlozSTgwWTdES3JYUEdpc2czVFpZWGpDd0xhZzFoWVBiQmFyOENabGxVQ3ZqWXJLVTg5?oc=5",
-    "source": "Eurasia Review",
-    "published_at": "2026-08-29T21:47:35+00:00",
-    "raw_pub_date": "Sat, 29 Aug 2026 21:47:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7329f35d4587cfaf2f7e5a3e1651f12d5abb39ea",
+    "title": "US-Iran talks window 'not closed' - China Daily Global Edition",
+    "summary": "US-Iran talks window 'not closed' China Daily Global Edition",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWjloYjRqSXBESERNLUFwdUxjYWY4bm5OODdDVW1Oa1FKUEhQVkNEUFZGdmxJMXZrWE53clk1dGtYWENYMmp4aU9LRm9ZN09QRXJOV2p4ZmFlaW90bVdaTlRhdjVyUnFHR0tfNzZPWTV0aVBKdk9sMnYwVE85b1p6amZB?oc=5",
+    "source": "China Daily Global Edition",
+    "published_at": "2026-08-29T23:35:59+00:00",
+    "raw_pub_date": "Sat, 29 Aug 2026 23:35:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7468d2abcffa9ecc4bd6f8978272afeb096bbcbc",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Op-ed about Pakistan's mediation/backchannel diplomacy aimed at US‑Iran de‑escalation.",
-      "event_key": "pakistan quiet diplomacy us iran deescalation"
+      "strength": 0.6,
+      "reason": "Article signals diplomatic window remains open for US-Iran talks, implying potential negotiations or resumed contacts.",
+      "event_key": "us iran talks window open"
+    }
+  },
+  {
+    "title": "Egypt, Kuwait urge return to US-Iran negotiations, de-escalation - Middle East Eye",
+    "summary": "Egypt, Kuwait urge return to US-Iran negotiations, de-escalation Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZks2N3YxVmhGRktPWm5SRUhrY2dPc2RiV1ZyOVJuOEhsa2Q5Ykpzb1NwU0Y2X1hnNVlfcnNseE1lNXRsazhSdnFSbWRPeHBqd3U1MmEzWmp0bXdaTUNrSFFmZndtMzBmOVpPUTRCeV82RUJua3RzaW9jU0lVQW9FNWxiSGF1cGF2ekxKNUgtODUwVkZCMHFKY1lpYjAxa2FWUGtOeHpaSFNZNTJmQlg5aXJWTXh4X0tJQ2ZhQVpiM0ZSaFN0N3V4Ynh4Q1VVekxNYnh2TFpsREVFYnNBZWltWXYyN2FzcGItSHJzODNBbUFTNmlYZGVR?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-08-30T03:16:00+00:00",
+    "raw_pub_date": "Sun, 30 Aug 2026 03:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8b86d77cd36c6fd65b35d4c79210a629159ff8e0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Egypt and Kuwait urging resumption of US-Iran negotiations and de-escalation.",
+      "event_key": "calls to resume us iran negotiations"
     }
   }
 ]
