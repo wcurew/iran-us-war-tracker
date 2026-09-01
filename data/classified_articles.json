@@ -1,206 +1,529 @@
 [
   {
-    "title": "U.S.-Iran exchange attacks after month-long ceasefire - CBC",
-    "summary": "U.S.-Iran exchange attacks after month-long ceasefire CBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdHdlY1RHWlVZeHl2aml4VTU4R2RmRzFQWHRNdzM0RVJUa3RGd3NzUW9RRFNiQ2E2SXh3dElWU2FZVlN2WnNvQ2dtSFNtb2RHcGxSOUkyS1pNUQ?oc=5",
-    "source": "CBC",
-    "published_at": "2026-09-01T02:07:54+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 02:07:54 GMT",
+    "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - AP News",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news AP News",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-01T12:21:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:21:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "da647b70511dd29a9262dc3833af38a75f06bb1b",
-    "source_weight": 1.0,
+    "article_id": "22307b6202d07dc60ae1f6b3da20f085acd8666b",
+    "source_weight": 1.1,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Direct exchange of attacks between U.S. and Iran resumed after a month-long ceasefire.",
-      "event_key": "us iran exchange attacks after ceasefire"
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "President offers conditional return to a ceasefire if the US does—signaling restraint, not an agreed truce.",
+      "event_key": "iran conditional return to ceasefire"
     }
   },
   {
-    "title": "Iran president offers US talks before Putin meeting at SCO - The New Arab",
-    "summary": "Iran president offers US talks before Putin meeting at SCO The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUJ3NFZmeTctX1lLX0xEaW4tNm5oSmw2dWVSajI5NzkxejY3b2pKeFEzSEJ5eXBhbGZMclVBQXZDRXFwNUx4N1N5STVuc08wamhwVWR2Z3N6b2t6S0hwLXNxOTdVMkFCaXVhWUhUa3JaTDlvQWRqek8wTzdNMHFWQTlxRdIBiAFBVV95cUxNMzhxMGl5UFNjVEFSaFJtZTA2Y1p2Wk1EbVhnaDV5b092NVJIZU1jSE5CYlBSX2hmTlY0SDdYY01feHFmT0NaUDRDLUNFVkFISXNOSnduOFphMWdiSmt0eW9XQl9GZ0VpanhMczJYeWs4S0RjUFVSZXR2clN1VmFFa3BmUTFvdDFM?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-09-01T07:53:47+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 07:53:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b07e205a9afc1c9d41335d5b912a028165ed83b3",
+    "title": "Iran's president says Iran would return to ceasefire agreement if U.S. does - Spectrum News",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if U.S. does Spectrum News",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmZRZWNrMTZxaVdiSnRCYlFXZWZQR3J4MkN0ejRnUHdXaFdOYVNibDdpTndVai1YMmRhWU1ocmdjV0c4VFBjM1NEelpSRzVGLUpiYmdrLXBrdnZTbEhTRzlYZG5TaklrZVBoQ05hT1UyeTN5WjVCSkwzdkJmUVlERjVfWGtnR1pXV2VIN0RsZ09MdUlET2ZsWXZxSmtqdWlnRmlDN1d3eUp0b2s?oc=5",
+    "source": "Spectrum News",
+    "published_at": "2026-09-01T12:40:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:40:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5575082830add920e6f77e0455b823483cd987a",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "President's conditional offer to resume a ceasefire signals willingness to de-escalate but not an agreed halt in fighting.",
+      "event_key": "iran conditional return to ceasefire"
+    }
+  },
+  {
+    "title": "US holds off new strikes as Tehran offers path back to ceasefire - NewsNation",
+    "summary": "US holds off new strikes as Tehran offers path back to ceasefire NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3JjVHo3RHdRbW95VHU4VkZNT0RMODl5emMzMzVLYkx3NzdsbUo5cndzSlEwNnpRRkxVVEc3ZjhYcVpxdjdkQnh3bzhxcTdrRXNzRmU3RDlfLVJQNXlLc0RsdHRaMU5ENzlEMGxfZTloejBQbXQzVVpQdnBEX2pLWNIBhgFBVV95cUxPRkFRMWRxRHBPTUJXa3RmSDJ6MTJUaTBfMWRLRHFyeWotOFdyWHlWWHByM1FPZXBCblptc2NBTy1SSnJKRHBlcVdvZTdIdklYSTlLZXBTRno0N1BpcGZ6ZVJkQ0VURFJkbnU3akhHZmJjMVI2WGxFVnM0aWRzak5CVm5xcDdrZw?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-09-01T10:40:45+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:40:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "24cb94a5e6d3d631352df439b64948b0ce745bc1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
       "strength": 0.8,
-      "reason": "Iran's president offering talks to the US indicates active diplomatic outreach and potential negotiations.",
-      "event_key": "iran offer us talks before sco"
+      "reason": "Tehran proposes a path back to a ceasefire and the US holds off strikes, signaling restraint rather than a formal ceasefire.",
+      "event_key": "tehran offers ceasefire path us holds strikes"
     }
   },
   {
-    "title": "US and Iran Resume Strikes After a Month’s Lull - globalpost.com",
-    "summary": "US and Iran Resume Strikes After a Month’s Lull globalpost.com",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHBoeGZaMm9qSTVQUEY5TldCb3ZKaU41ZFZkT0VfQk9aLVhvZnlVaXdTdTdfdFV4TVF1WW4zaVNmajE2T3hWNzhJdWJOS1kzTnB6TXlIdGdwLXQxNVhWdFdjUVR5S2x4ZkcxV1kwd2Y3UkJUQ2hudHJHZ1hwcWpmQU4zcl8?oc=5",
-    "source": "globalpost.com",
-    "published_at": "2026-09-01T07:22:32+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 07:22:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f9cb4fe60e2694141200446fff7decd2d2a4d52b",
+    "title": "Iran’s president says Iran would return to ceasefire agreement if US does, and other Mideast news - seattletimes.com",
+    "summary": "Iran’s president says Iran would return to ceasefire agreement if US does, and other Mideast news seattletimes.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTJZYktGNmgwOVpkRDFlcW0zUzhLX1JEalo4b2dKWExnVVJCSlNISWVYVVJMOVdiS2MwZ2xiZTNzenRkRnpjQXVBY25IUVhLRC1ZTW1fUml5dTZWYnBZY3VsbEluX3RqMVVhaHdzZzhnbkF2U1hMWkt2WkkzTUY1ODVSZDYxQVpUSnZjeEpmSVNzWjhwdEJqUWNoekFDSUUxUm5MQWxNYm9GVWstM3JHaUtWRS1tOFN5YnJjODExS3FXcU9VZWw4dGh5NkJWWGM?oc=5",
+    "source": "seattletimes.com",
+    "published_at": "2026-09-01T13:05:31+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 13:05:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8f5cbd84a0d7b20eafe58b42ba2ab75f0d25251a",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct strikes between US and Iran have resumed after a lull, indicating renewed military exchanges.",
-      "event_key": "us iran strikes resume"
+      "label": "deescalation_signal",
+      "strength": 0.65,
+      "reason": "Iran signals willingness to resume a ceasefire if the US reciprocates—calming, conditional de-escalatory statement rather than an agreed pause.",
+      "event_key": "iran conditional return to ceasefire"
     }
   },
   {
-    "title": "Iran will reciprocate if US honours peace talks framework, Pezeshkian says - thenationalnews.com",
-    "summary": "Iran will reciprocate if US honours peace talks framework, Pezeshkian says thenationalnews.com",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGlHX1J2Z2VEZ25NOGJCM1RkWTY0N3VxLTlDc01MSDY1N1NxZXo4ek9TUlprV0ZObTM5b2ZCYS1BT2RBR1daVm0xQnZsQkFiakdlRElaZlVEWFBpQjhqZWl4MHpjQm1HeXdPZUp0d1hUTjhWbS1yZGswckw5NEVXZm12d3RSWFk1dzdrMERNYWg5XzVrS1I4OGdUWVMyYmNkc1B3R0FSSmp6cV8tb2hKaEhuQm9VcnMyTng0VVp3Y1g4OGtyRGc?oc=5",
-    "source": "thenationalnews.com",
-    "published_at": "2026-09-01T06:45:00+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 06:45:00 GMT",
+    "title": "Iran offers deescalation if the US honors the June ceasefire memorandum - Межа. Новини України.",
+    "summary": "Iran offers deescalation if the US honors the June ceasefire memorandum Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5WTBwdEhzakxHM3JCM2RiN0VtS1ZSVUJ2Z182RllZLXNMVmFTbmJoaG02NC0tWExwcFNZM2Z0cXNEZ2hCRS1obDMzd2RzNFJkcGVPRmh6U0YxakNuTFh5V2dZVmZ1VkpjOVRZUDd2UQ?oc=5",
+    "source": "Межа. Новини України.",
+    "published_at": "2026-09-01T12:11:48+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:11:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b5949da3f82fe8b3b8034c94f9fed06f5619e844",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Iran offers to deescalate conditional on the US honoring a June ceasefire memorandum.",
+      "event_key": "iran offer deescalation june ceasefire"
+    }
+  },
+  {
+    "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - WSLS",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news WSLS",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdzh3UVQ3VUhpbU5uYjBhaEtmYmJKSkFWcXhqT0VkLWVuTWwzWVJ2cFA1aUZKQ1pkY1Z0ZDQwazJXZUNlN3VhY1ZUTHhyRGpVZmR5ejE0VHg0d25Wdk81Snk4YlRrZ1NNRVlXMlhHWFkzN1UzbmppQWdkYVZXaGZxNXVwZTQ3TkdKTW9YQlVjdnk2UXlXYXVKRk8zSkhFTnFDTG02Vm5oMXk4ekdraG5kdk9zMlpsYUsxbnBWenlKWjBqbnRrYzBCekZyTjJJN1AtbE1NMmJB?oc=5",
+    "source": "WSLS",
+    "published_at": "2026-09-01T12:24:54+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:24:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8d62580d31862e052a2d38c058c53972f9ec6dd2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.8,
+      "reason": "Iran signals willingness to resume a ceasefire if the U.S. does — a calming, conditional offer rather than an agreed halt.",
+      "event_key": "iran offer resume ceasefire if us"
+    }
+  },
+  {
+    "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - Carolina Coast Online",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news Carolina Coast Online",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkZlN21GVFdZVW5UVjYzY2VMN0h4OXdjZWxoUGdrTldYbkZyMmhmb0ZnY3Z2U0dXY0hwRmNkTU9YOEhEdGhZckJTNVhMU0lrdHZkTXJRMmRKdGtuZHhBVFNaUXNHNks1bENfSzBHbjZTQjJULVF1d0ZCVFFBZmF5ck9ZdFlpanh3QjlwNGdMaGlwNXEtOXA2Tm5n?oc=5",
+    "source": "Carolina Coast Online",
+    "published_at": "2026-09-01T11:35:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 11:35:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e97bb1087a9177c42dada12b912fbb231dac2a08",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "President offers to return to a ceasefire if the US does — a willingness-to-de-escalate signal, not an agreed truce.",
+      "event_key": "iran offer return to ceasefire if us"
+    }
+  },
+  {
+    "title": "Iranian President Pezeshkian says Tehran would adhere to ceasefire pact if U.S. does so - Washington Times",
+    "summary": "Iranian President Pezeshkian says Tehran would adhere to ceasefire pact if U.S. does so Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTR5djdnaGsxUk5BNjNOdGgzQ0xlOVlKRzYyQW5rd3JiS3dVdF84WmF1WkhWdkR3SDVQemI3b2xVT1Q1ZktfR3g1OHJVaF9kVHNPV3hzYnNESXNDc0E1RkVtZFNGRUxNUWhCWFE0bEJMNUNDLTdrTkpSOFNCMjBua2w3Y01ZM3ZheTRUX0xaXy1XUl9zeV9fR2ZMT05WQXAxWFc4U2ZnYmpBbnNGdXJydkRWOXF5bFpr?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-09-01T13:25:57+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 13:25:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6edcb2971e1e6bf3168e8cd932285590a737d154",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Conditional willingness to honor a ceasefire if the U.S. reciprocates — a de-escalatory political signal.",
+      "event_key": "iran conditional ceasefire offer"
+    }
+  },
+  {
+    "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - Caledonian Record",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news Caledonian Record",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTF9FWFFselduNTY5TXFxeFd2UVRsUlQ0bDNLMG0yQnRKTWxNcUsta2FaUllIN2s4SmdFSFBwQ011cG1YOWFSYTVadWNIa2tHV1Q1U29TZ1lra2VhR093cFkydjY4UFJUdDBEMHJhVWdTQXFkSHA1ejNYekJoV1hUNHpxMHJtRWZ1RGdla3dNZlViRlJfS21TWHcwSWhRM1g3WTFsN3puaFlwZUZyQTZPV3ZDbFZ1cGxOdU5yLWVzVXpnZV93bkFRTF9NUXBldWlJamxmMFJsdmdUcUlhZnNvOUJoOG01MG1WZHZMT0VFZ185Y0ZGVXJWWjRLN241UlVhUURyeDFmcFNsWW9WRmlZd2FpWFJydw?oc=5",
+    "source": "Caledonian Record",
+    "published_at": "2026-09-01T09:35:03+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 09:35:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e5c517ddf6f8c3eaf487e8085fdef55fa192666c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Iran's president offered to resume a ceasefire conditionally, signaling restraint but not an agreed truce.",
+      "event_key": "iran conditional return to ceasefire"
+    }
+  },
+  {
+    "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - ClickOnDetroit | WDIV Local 4",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news ClickOnDetroit | WDIV Local 4",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2RpRjBMSFl6WlZJZU9JdXNEMzlTZFFEY1pTejIzcWotZWR0WXE2UmVid1prRXBhLWM4dDlBTXEtS1E4SFVwR3BlRlYxc21yeEJsaDFHUldYM0VEVkF4a0JodlBwbGM3eG1vU0JVNGttNHpZMmNwdUtFWWJ4bHFUMzFhRDFHTjVlTS1JUTdXbUVHbmNwWVZMNUYxMlpfZzFqNk1rZnV0cnR0d191ZV81dVEwNkgxNFp5aUduOF9WN1dDWnlRR3puZ1dxYTVXX3plazNoeVdEeHFIazlSemVYNnRrNA?oc=5",
+    "source": "ClickOnDetroit | WDIV Local 4",
+    "published_at": "2026-09-01T12:24:02+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:24:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "14fb51f93794d8f295e0e785005dfb4b68879927",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Iran offered to return to a ceasefire conditional on U.S. reciprocation — a de-escalatory signal not a confirmed truce.",
+      "event_key": "iran offer return to ceasefire if us"
+    }
+  },
+  {
+    "title": "Iran offers return to US ceasefire as Strait of Hormuz tensions rise - indiatoday.in",
+    "summary": "Iran offers return to US ceasefire as Strait of Hormuz tensions rise indiatoday.in",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3MzMWN5QkJCRGFCY2tTRmZkeDEzdFAyOTFQaW9nVEhaSUFrTWpVc3RHWmRXSkhEQWNSVUlHNHhyZ056RWdlVW0wUHlLWm5nenlaM0tsLVdWS0hTM0Y5bU85WkNZZXQ5YV9tZVZ3blEtbG5fSHpoa0VmNXNQeDJmVWRuWUVrNTN6b1MwM0NHa3NydjJxN1VRblVjc3NPalpQYS04R29Iek1IeEsycTF1Y3ByVHRYb0pTX2ttX3RoNUhhWlkt0gHKAUFVX3lxTFBBSmZnZzZVZUV5M2tfMG5mUU5CcDhMbEpXb0VYUmtmRzZEcGVCTFVET1RROXV3X19raWxDNFVxSU1LQ1ZkNmE5X0c0MDh2cmtFZUtpZUxtYjZzZUl3bWg5NUp2V0M4NXg3U1o2NG1JUm00T3lSUnRBMVhDckhsd0E0UWQyUzROV1ByTFFIcktZRlZBUnVsNkgtM18yTU5vUjNpS3NrRUExT0kyTmpXdmhCczhTdklIcHUtcnpCTjdKMG5OOHpPRkt6eEE?oc=5",
+    "source": "indiatoday.in",
+    "published_at": "2026-09-01T10:12:27+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:12:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6b5ca0b2b3033167f6a265d90ecc4dc2a8bc26b0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "Iran offers to return to a US ceasefire amid rising Strait of Hormuz tensions.",
+      "event_key": "iran offers return to us ceasefire"
+    }
+  },
+  {
+    "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - thedailystar.com",
+    "summary": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news thedailystar.com",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYmtnOHRtRmVPTTY2QVM5OGU0S2RpVFdkZExNU04zLWJEaWFaVXE2ZjNhTk1wMXNyazhzc2dUV2lGTjBOcjFYRHlFZTdKTDI3b0VRU3BzQ0FqaFZ3OGlPNk5NRzBPTnpuQ3JPN2lFb2tPbVJtUmVwbkxCWWYyZ0tVYkVFS0VfLVBib1J4eW9IOVdlOUh0Yl9xekxBUU0xSUtMdFNUaGlZaldyeEtFZWc1WnVKWHA4YlZpSkVCTHVlUUhjYjNIa04xcm9tMllIelUwTFpsVnhYSjFfSUpOS1BCVWFXbkRQSjJEcEhCc2pnUnFFY0lYX2VSQl9nUUxMTUdTMi1Ta3Bfb0dfZloyZWRYUg?oc=5",
+    "source": "thedailystar.com",
+    "published_at": "2026-09-01T12:21:54+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:21:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "42202392f00b0f6e272d7272e657048353895f0b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Iran's president conditionally offered to resume a ceasefire if the US does, signaling restraint rather than an agreed truce.",
+      "event_key": "iran conditional ceasefire offer"
+    }
+  },
+  {
+    "title": "Iran says it will return to ceasefire if US does - Times of Oman",
+    "summary": "Iran says it will return to ceasefire if US does Times of Oman",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHRtVFdKVGY2TXd1MzBLdllRNW9PNUZQU0QtQTJ0ZW1aOU81YzFRMVltZFYwckkzclZ3Q0lfd1g4TzVFSk9JZjFST0NNdEZpOEN1MG1ocFR0bWRNR1FlX0xlWGFNb3lZUllkMzh0anRzMlZwWk9Qc1BIaXNWRmVOQ29sN1dtRG52aGhwT3F0Tjc?oc=5",
+    "source": "Times of Oman",
+    "published_at": "2026-09-01T10:07:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0ce257362a1eb52af7edc3335beb34e986a686cc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Iran offers to return to a ceasefire if the US does — signaling willingness to de-escalate without an agreed truce.",
+      "event_key": "iran conditional ceasefire"
+    }
+  },
+  {
+    "title": "Iran says US mistakes negotiations for dictation, warns approach will not work - aa.com.tr",
+    "summary": "Iran says US mistakes negotiations for dictation, warns approach will not work aa.com.tr",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHQxRmp5RnhGdFZHWkJxR3RGQnZtbVJvOVJpRUltTnQxQnkwQmNBTkFOb250QmhUT3pxaHRMV3g0Y3hOTHI0RUNPQk1vSGYxZ0dBRnotM2s0bmNhS0tXZnJCZHk4blpKMWFBWmd5Y1g5ZlJKUVZNT1ItQ2V3NU1ESm9qQktEa09WVGllUGZ5OWxkMVFJQVdYZ2x3SHU3NFVGWXdkYzFXa1FmR19BeDJzRUNjNGo4X3psa2V5VmZiNkwyMUE?oc=5",
+    "source": "aa.com.tr",
+    "published_at": "2026-09-01T12:14:38+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:14:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3e6b4d73cf2f699a0cb4c9df08e5054f8aafcaf7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Tehran rejects US negotiation approach and issues a warning, signaling diplomatic breakdown and rising tensions.",
+      "event_key": "iran rejects us negotiation approach"
+    }
+  },
+  {
+    "title": "US confuses negotiation with dictating terms: Iran Foreign Ministry spox - PressTV",
+    "summary": "US confuses negotiation with dictating terms: Iran Foreign Ministry spox PressTV",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSVFUTEh6bWRJaFROWHFLVE9FZEQzTkpGblZncFhTbEhleUd6dE1ONmlJeXFoTGU5MVczUE8wUXdhZV9KMmJWU1l0SkVWbHVLNkJ1WHl5MW9xOXpCVVJQZVd1MXdDYnB3SHk5Q3g0TlBtUGVhZTE4UW5hS3lvNTB4RThrQXZVYm9tN3hkRVl6RFQxeXdLX241OFRJVjN3Tk1pbU5jd2V4dzdBMkM5UDFHUG56ckRoTEh1cTAwLUdNb2FYX0ZRLW5OUUN3MFg1dWFCWUc3MmpjVy1SaUxwUk9hcXdHRQ?oc=5",
+    "source": "PressTV",
+    "published_at": "2026-09-01T12:38:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:38:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cdf314f4297a8ebb7e9cfa3e2fc6ccd77ccfb881",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "Iran's spokeswoman accuses US of dictating terms, hostile rhetoric indicating diplomatic escalation.",
+      "event_key": "iran spox accuses us of dictating terms"
+    }
+  },
+  {
+    "title": "Bessent sets four conditions for US-Iran talks - JNS.org",
+    "summary": "Bessent sets four conditions for US-Iran talks JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUtzTG1TczFWVU0ySWxzenhzR0pkb29QVklEVk9XVVdCN0ZWUW5FRU9XREpabkxMTDNBNHZZMUtRZ1Bob3J6UGJGX21tX0pHNVRUNE9fdDVRcDkyNXVyY1RqMDF3Qy10ZTNwcmE1eW1Wejd3X3ViYjdKMm42bXVwUEwxWQ?oc=5",
+    "source": "JNS.org",
+    "published_at": "2026-09-01T08:47:53+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 08:47:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a30ab356421d2ebe97e2f032441207d4a1ea8e1c",
+    "article_id": "7b14ed9a3953d5b2e1e9dd28fbe986b22215e9cd",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.7,
-      "reason": "Statement links reciprocal actions to honoring a peace talks framework, indicating active diplomacy.",
-      "event_key": "iran reciprocate if us honours peace talks framework"
+      "reason": "Article describes conditions set for US-Iran talks, indicating diplomatic negotiation context.",
+      "event_key": "bessent sets conditions for us iran talks"
     }
   },
   {
-    "title": "Can Iran’s Economy Withstand US Sanctions? - Modern Diplomacy",
-    "summary": "Can Iran’s Economy Withstand US Sanctions? Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlZGd3hYREdJTFhDT2hWdGRHdDJ6MmpmRnZNeWRMa2daNkF4bkVnQmw0R01YR0tjVmxLMC1oN0tWYWRNY0p4cHBLUVo5Y3hIb19PZXlIWkVBbUZiMUo3MEJSRVJTdUJfZTBPdVFnbEVZZzdzNGlwb1I2R3JWLU1sT3A2U1NUQQ?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-09-01T07:19:48+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 07:19:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7322b46d4822e06edec2f4c7d0b259fae1c1c47e",
+    "title": "Pezeshkian urges Washington back to talks ahead of Putin meeting; Qatar calls for renewed US-Iran negotiations - L'Orient Today",
+    "summary": "Pezeshkian urges Washington back to talks ahead of Putin meeting; Qatar calls for renewed US-Iran negotiations L'Orient Today",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVk1LQlhWbEJYU0tiU1VnUzMyaUx0TkdXN0ZEdnNTQlNFMHpsaC1QMHh6TGo4anZQNmdTSld3eFBrMXRaaFZiZmJiMXZxNDFNMG1xdUl1RG1lTllXVVNLVTN0OTV6UEpNSWllM1liXzNNOWVGLWRDM0ZRMGhZRUd4cEc2WVYzcmNHWWdnaHc2bVNyY3kxd3VFdk50d21tbG1pTTVxS2ZXRmo0eE1nYnlKbG53aXBvaWRzbHZNSEhVdzFCN0hmWjBZdFF2cVRxbk4xZEtUQlItWHU0Z3h2cE95RFpYZ3FNWWN6R2pjTHhzRUxWV0ZD?oc=5",
+    "source": "L'Orient Today",
+    "published_at": "2026-09-01T13:46:46+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 13:46:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4b8ef3b1eb708262a10a50f0daa2977538ec9c78",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.9,
-      "reason": "Discusses Iran's economy and sanctions, not diplomatic or military Iran–US developments.",
-      "event_key": "iran sanctions economic analysis"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Officials urging Washington to resume talks; Qatar calls for renewed US-Iran negotiations.",
+      "event_key": "calls to resume us iran negotiations"
     }
   },
   {
-    "title": "Trump vows retaliation after Iran strikes U.S. base in Jordan - bastillepost.com",
-    "summary": "Trump vows retaliation after Iran strikes U.S. base in Jordan bastillepost.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObG9TU0JDdDVTVFVsRFRxTzdNZzh6aXVTWVFGNzB0ai1icC1IZWd2T0VRUVZLSTZnLTl5Sm1nYlVCMDFiaXdCTHl5RmswZEdEbnc5cGZhM1hVZTJQdzdKZGx1M0I2VVV1Uk4yNGR5MV9URkhiZzJIUERFQlk2WVBrN3lZLWdDQUY2VWZyNWw4ZU5CM1cwSWw3dm5EMmMtNzYtNWRoVTVGRUdQZ0JsUFJwZ2JR?oc=5",
-    "source": "bastillepost.com",
-    "published_at": "2026-09-01T01:20:00+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 01:20:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "889015d83d734b02f65629c3df1975b2a1e1ea73",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran reportedly struck a U.S. base in Jordan and Trump vowed retaliation, indicating direct military action and imminent reprisal.",
-      "event_key": "iran strike us base jordan trump retaliation vow"
-    }
-  },
-  {
-    "title": "New US missile appears to have left wide path of death and destruction in Iranian city, report says - AP News",
-    "summary": "New US missile appears to have left wide path of death and destruction in Iranian city, report says AP News",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXdTdmVIVWF1VGxlSHFKdm50WHloZWl0OV9mMTRDTml0UnFENmdvTG9WRm5PUG1ZaTh0cFBncU5JU0tSaGNuNEpDeDU1YUJMTTIzcG96VE1TWFV5Rk5MS1BmMVFlZFJYajlnbjBQci1ydDM4M2lTdmsxN0MxdWpzTE5zZnExZFRUdXg0LVpoWVR3OVhINUc1cl81NA?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-01T05:07:00+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 05:07:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f642e70ff4e554f5d6e6eca1c7ea29b504f71414",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Describes a US missile causing widespread death and destruction in an Iranian city—direct military strike.",
-      "event_key": "us missile strike iranian city"
-    }
-  },
-  {
-    "title": "New US missile appears to have left wide path of death and destruction in Iranian city, report says - Northeast Mississippi Daily Journal",
-    "summary": "New US missile appears to have left wide path of death and destruction in Iranian city, report says Northeast Mississippi Daily Journal",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdTNTVmM4cE1wb2E2aElfSFQ5bzBuX0hyT2E0WmN3bjlJSXZHWjdQYURXWDd2QU9mVmFaS0NDUndHZ0h4d2NZS0xnN3ZONEh4YTRiLWJzajJrWDh5eXpWcWtLYV9ycGhMUnlRYkoydG1mNHlmd2xTWGtXUWNmWHluVS1xYXZsQ2NXbl9Sc1kycEpHU3Jtb3lBazNvNDZUNGdFc3RXUFF3aFVpdkFEcDd5dDZTeXZSZUl1aXhaX2I0Y3RQS00zLXlwRzlZXzBxazhpSlJ3c1BmTGUxOXZWdzd6T2NoWkFMRUs5VTFHVnFGRFFVTmNwc29ITHZlRmVzOU00MUxSeg?oc=5",
-    "source": "Northeast Mississippi Daily Journal",
-    "published_at": "2026-09-01T05:07:16+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 05:07:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b53a9052aee5e8a7c901a1e16ce1310a6a8fa453",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Report describes a US missile causing death and destruction in an Iranian city — a direct military strike.",
-      "event_key": "us missile strike on iranian city"
-    }
-  },
-  {
-    "title": "Trump threatens retribution after Iran responds to US escalation - Dawn",
-    "summary": "Trump threatens retribution after Iran responds to US escalation Dawn",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nQmxvWmViam9LZVE1YjZGOWZuZFA2MVFnajBybEIwZXpLUnFYcldTNU81bURsNUZoNHlxNUVFNDlqM3VkbkxjLdIBTkFVX3lxTE5teVBQWnloZV81VUNvUEpFNGgxOEdlVlNtWGFTdVFOUE11TXlvMkRiYnhfdWZRMG9veG9kUFZSV2UzbFgta3ZzZXFRUG5tZw?oc=5",
-    "source": "Dawn",
-    "published_at": "2026-09-01T02:07:48+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 02:07:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e13eb89266261bf57270abdc2e90580ccd8aea7d",
+    "title": "Iran Says US Sanctions on Any SCO Member Are Pressure on All - Kurdistan24",
+    "summary": "Iran Says US Sanctions on Any SCO Member Are Pressure on All Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3ZvWEJ6cUlUWHZSalMwM2w3dV9HbGduVHlRSjNsbmtLNHlseUl4bGN2MVhrOUNGY1M0dEJFbzgxMnUyTWZsLVlDemw0TGYwQWo3THk5akNEUEh3anBjQlNJSVZiZ1MxTkMwcWRqTlNKMlJwdnhLYUx1NC1CVjJ5Yk9XYlFMZ25ZS04yLU1jQThrRUJlRzQ1TkJDYWFnQXhxYnlOUXJGVQ?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-09-01T11:57:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 11:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e16e8948fbc745b922d42c8c583bc6c039f6f153",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "US leader threatens retribution following Iran's response, signaling rising tensions and hostile rhetoric.",
-      "event_key": "trump threatens retribution after iran response"
+      "strength": 0.3,
+      "reason": "Iran's rhetoric frames US sanctions as collective pressure, signalling hostile diplomatic escalation.",
+      "event_key": "iran warns against us sanctions on sco members"
     }
   },
   {
-    "title": "U.S. stock futures steady as markets digest rate risks, Iran escalation - Investing.com",
-    "summary": "U.S. stock futures steady as markets digest rate risks, Iran escalation Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMUVRRkhNZGt1V204N1Y0VTZIbl9LRGQxLUhVVFM2c1BWQ2VRenJjaEJZVFBSWHJjazBoTHNlUXlWbG05a0lpejI1NzIzM3R5c242cF9lNHlHLUI5LTI1RENhdkVvS3VsUVhxQy1qQS1HV0RtNENYYW1oVkc4Q1FaSGg0OUlISjdmTElqa2RUSWhtZ1pMbmR2dzFXZHYtWUdHQXpHS0w3eVZJbktJM0Z2b1pLeXRvbjNpSTZrZjdtMzh0d1E?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-09-01T00:32:41+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 00:32:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a6815e631c318fec4827ebd80aa4f652b7219b3a",
+    "title": "Iranian President Pezeshkian says US pressure and threats undermine diplomatic efforts, Al Hadath reports - Newsquawk",
+    "summary": "Iranian President Pezeshkian says US pressure and threats undermine diplomatic efforts, Al Hadath reports Newsquawk",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamZyQlVGcW5XUDBrSGJaWUNwX0JMMkQxX184Rmt5VkhnQWFuRkRPemhBeVhBVFdZWlVFN3NUM2piWXhDSzNqVk8zNDQyT3JkdFVmZXcycE5wejVVd2Jmckg0TnJUbDJSOXU2U0swSWFtcWUtdEk2YW9GXzl5RExkd3pLek5uZGF3UkEzMm10MGdUanc2ZDlYTXFMM2NYVXRURGlSdThGUUFidDZ4UVB2MUxfb1FRWC05aXAwdXNwTjhxY0dYbTlwUU9FdldvSnJTTEZnUjduZw?oc=5",
+    "source": "Newsquawk",
+    "published_at": "2026-09-01T10:36:16+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:36:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "168ea4e264548e3d306c03a5e34704d78b7a3dd0",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Market-focused article mentioning Iran escalation without detailing diplomatic or military developments.",
-      "event_key": "markets mention iran escalation"
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iranian president says US pressure and threats undermine diplomatic efforts, signaling rising tensions and diplomatic breakdown.",
+      "event_key": "iran president criticizes us pressure"
     }
   },
   {
-    "title": "Trump vows to hit Iran ‘hard’ as US weighs further military action - Firstpost",
-    "summary": "Trump vows to hit Iran ‘hard’ as US weighs further military action Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWk1pckZUbFphR2Z4RWRfcjdxVlNENjZhYWlwSTVJZ292MDllSzFZVmwtSTVJYXNCLXY0UkJOa3hoY0hOZW9QVEx0S3NETEpHXzJtSjlOeWJMX0ctbzZqamNJR3BXY2ltanZVSmx6S05yX082bkN2TGplUHA4OC1NMnJPcTU2S2daV2dFRlpkOFdtU3FzbHpybTY2OGFBLWtkMGtOUjFlWFo1NVk2ZHpr0gG0AUFVX3lxTFB3c0NxY2NkZW9oM0doWWFWSXhHaENtMGhtc1Znd0dnTFk1RGdCUG5WSDlqRlZ0WXVjbFFrbUNjTV8zQThpVG9xV0RWd0IyeEd1cXRtYnM2Nnkxa2djR2ZaOWItWXlWMUQxdlBMdlB4UFYwWDduejZRcThIS1NvTUpuQ1JfQVJqczh1Z2kzeTUwZHZtNDViUnJJTS1kQVZFZUEyM3p0SVFpY3dKQnpLS0hZVlhNRQ?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-09-01T01:33:15+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 01:33:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "06f0d684d740415325fb7bce1f7011cdf9b404fe",
+    "title": "Iran president says US pressure and threats derailing diplomacy - news.cgtn.com",
+    "summary": "Iran president says US pressure and threats derailing diplomacy news.cgtn.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWX19uT1NIUURaR0xKenRwbEVEemUzMFk0cm8tc1BvcVk2bGxkM3k0NUo0b0dydlE2aWdmSXJkcnJSa3lhZDR0MENjdFEtWHJ1SHRkSEVlbDNRcndBdnpJeUpwT2xiZ00wN0hTVFR3?oc=5",
+    "source": "news.cgtn.com",
+    "published_at": "2026-09-01T10:02:19+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:02:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "852ca24a87d8ae2df9d4ef31e5eb136cbec24c5f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "President threatens strikes as US considers further military action.",
-      "event_key": "trump threatens military action iran"
+      "reason": "Iran president says US pressure and threats are derailing diplomacy, signaling breakdown of talks and rising tensions.",
+      "event_key": "iran president us pressure derailing diplomacy"
     }
   },
   {
-    "title": "Iran warns any new US attack will trigger ‘much heavier’ response - The Express Tribune",
-    "summary": "Iran warns any new US attack will trigger ‘much heavier’ response The Express Tribune",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjBKcWFWLTgwYjlQa1gwT0dPcThYM2RUcEdoc3dMeEFJQnlsOFI5blgzUUt5REh5QXA3MFF2UUFnNldMdlJISEtmRmYyX0dwOTcza2RmaWFmZEctMGlxd29BVDFfeUdkUFVmc1YtSkEyMXRrb2JmWFpOTUZydlN3b1FERGhxODhKU2d0NzMzcmtwOFhSQjVKRHZtZXJ1VUE3TWfSAaoBQVVfeXFMT0I1a1JoSTFPQm0td1hYTXAtZFJyVUpydnBCR3BOZ2xyMHhMSmRpa2ZUS09uQ0VxeVNNVjg0dVl0RE5VcWtmSW9rOHNKc1NYZmtOYko3RGF1UW5IM3JVWk5Od1pTVVVWVmJQc3ZVdExIY21ub2FJdkNLSVpQNl9YMlY4VmdRMG0xT0Z2Rjl4dmtCNTRwbTM3YkRtejA1b3JteE9aWFAyMzVTUXc?oc=5",
-    "source": "The Express Tribune",
-    "published_at": "2026-09-01T05:48:45+00:00",
-    "raw_pub_date": "Tue, 01 Sep 2026 05:48:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c573a74385cde5424e3132d57fc4b4afbcafa72a",
+    "title": "Iran president says US pressure, threats risk derailing diplomacy - Naharnet",
+    "summary": "Iran president says US pressure, threats risk derailing diplomacy Naharnet",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTlqWDZFM3hMeFYzTTZDaDhGdzlTOHRUUU1NTmUyTFFlTkkyVWVVcE9WMWVIbjJtWGJVa0syQU1ENUZBZzR6NHBKTmRsSEN2ZnEzV0dRRXJXdkg4QmdGX19uc3hvOE5UVzNNd0JpbkVDVmdRWjhqZ2FaOF8wREQ2VTFEanY2VWkxVUg3MUItSGJueWs1VjREWEc0bEdaUEl5S3VDUGdnUlFkelE?oc=5",
+    "source": "Naharnet",
+    "published_at": "2026-09-01T10:25:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:25:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "486b52ee0a05defda89237e173ce835b2c0830fe",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran president warns US pressure and threats could derail diplomacy, signaling rising tensions and potential breakdown.",
+      "event_key": "iran president warns us pressure derails diplomacy"
+    }
+  },
+  {
+    "title": "Iran Warns US Pressure Could Derail Diplomacy - thediplomaticinsight.com",
+    "summary": "Iran Warns US Pressure Could Derail Diplomacy thediplomaticinsight.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcU50VzZ4R3YyQUhWZmZqdFdZeDZlbVRJcXRLSjZLMWluZUR4VElSQXJJWkxQVFlwTG1qZThJRlFvbW5DTlhFWnpKci1OdEg2bElsc3Q2M3dMZk45Z2xVeTZ1XzJ5ZmxxajhYZHNhY2taNTdJSGVTTWhDTUpMdjBVWmUwbm1NZw?oc=5",
+    "source": "thediplomaticinsight.com",
+    "published_at": "2026-09-01T11:43:44+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 11:43:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a78b64ee5b8122926e61dfef6e4f2bc4a7c62022",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran's warning about US pressure is a hostile warning signaling rising tensions and potential diplomatic breakdown.",
+      "event_key": "iran warns us pressure may derail diplomacy"
+    }
+  },
+  {
+    "title": "US strikes Iran as retaliation raises fears over gas prices, Strait of Hormuz - KTVQ",
+    "summary": "US strikes Iran as retaliation raises fears over gas prices, Strait of Hormuz KTVQ",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0ZCUEc5Z1VWLTlIOEFkRTNUOFlFOV9pNElhbG5NNGZvaWxJQ2xydU9WdDNkcmktRWpTcEhoa0tfSnhkVlJNVW0wbEJDQm1aWE5GRjBKWDlCZmxuOUNfX2pISnFFWnNnUV9aWEpoUXpGVHF1cnQzX2hCTHBaVzRhd0RacXZGLUhIYmZ6NWFtcFZUVkZuY2JWTE5CeHlYQW9QN1ZGZXVqZmMtYWVRdFhpcm9wTG9FNU8yelhWV1FXa25UdVV6Nmc?oc=5",
+    "source": "KTVQ",
+    "published_at": "2026-09-01T08:45:51+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 08:45:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b0e7b805e145c34365dfca3114aab4f760d665d6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports a direct US strike on Iran as retaliation, indicating military action.",
+      "event_key": "us strikes iran retaliation"
+    }
+  },
+  {
+    "title": "Are U.S. Military Actions in Iran Compromising Our Founding Principles? A Closer Look at Civilian Suffering. - The Fulcrum",
+    "summary": "Are U.S. Military Actions in Iran Compromising Our Founding Principles? A Closer Look at Civilian Suffering. The Fulcrum",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnMxM2RCbUM4UnRUenVuZ0ljdkRkd1g3ZVlWVjB0OEh6V1V6M3lwMUcyc2VoZlZfc19Wdl9xVFJhbjNoZjAwRko2dHhHYS10ZUNsVnFLd2xFQjNUODhFU0VsdHNIY2U0MklvNU1XakVLZmFvNEtCaGNSaVdydmhJTDBxVmFaQ2k2WE9iODF3ZjRZSGdrM2pPa1NHV2pVQQ?oc=5",
+    "source": "The Fulcrum",
+    "published_at": "2026-09-01T09:49:54+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 09:49:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d51c11a25b7e45ac8e61817070946150bd099b5b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.5,
+      "reason": "Opinion piece criticizing U.S. military actions in Iran and resulting civilian harm—frames direct strikes/attacks.",
+      "event_key": "us military actions in iran civilian harm"
+    }
+  },
+  {
+    "title": "Today’s News: Iran Strikes, Grand Canyon Floods and a New Era at Apple - U.S. News & World Report",
+    "summary": "Today’s News: Iran Strikes, Grand Canyon Floods and a New Era at Apple U.S. News & World Report",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR210cDhFd0hRXzRtOVgxRkxiV2dxQVhGWHlFWVZlMVRDTlR3N0NCWGJ5NF9ETUMwa1N3TkI1R21ZaExCNDE0eEZpWTBSYzh6elFoMW9rMlpvU3A1a3RZV0ozZ01OQV9qdTg2MExOUVlBYnJ0Y2pib3pra3N3eGlQSzg0OE1yUms5MHBtZ1BjRzhNUEFuY3BiVHpiZk9KV3BiRVdXM0hMTC1ISl9pTkg1NHo1THpIemk1RmRmTA?oc=5",
+    "source": "U.S. News & World Report",
+    "published_at": "2026-09-01T12:11:47+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:11:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bc4784712dac5c8ae85d9e5b5e3f89304760a77b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Headline cites Iran strikes suggesting direct attacks rather than diplomacy.",
+      "event_key": "iran strikes report"
+    }
+  },
+  {
+    "title": "Iran president offers olive branch even as US restarts attacks - Middle East Eye",
+    "summary": "Iran president offers olive branch even as US restarts attacks Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUpqMXdmaWJqaC1yaldaVE1YbHlQU0xINDFCTzdoMkRlb09acnRlSXRydl8tRExxM3p0TjVqRENpREJ1NXNma2x3d0tXaGxXUEZ2alF4RVlmc0JFc0drQlJWYnlJRnJ5ZjZSV2RmTFJPb3BGRzc4amtWLUJlYzd0ZFZsdFFvT3BqOTNYdg?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-09-01T09:31:21+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 09:31:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6df9995725b0be2abeb45846309588b7fca382b9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Iran issues a direct warning threatening a much heavier response to any new US attack.",
-      "event_key": "iran warning heavier response"
+      "reason": "US has restarted attacks—direct military action—despite Iran president's conciliatory offer.",
+      "event_key": "us restarts attacks while iran offers olive branch"
+    }
+  },
+  {
+    "title": "Could the latest US-Iran escalation lead to a wider war? - Modern Ghana",
+    "summary": "Could the latest US-Iran escalation lead to a wider war? Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdjh0UHFNUmtRMVVDQXA4RnEyUmJiQTJmYXVkZkRRSUQ4YXEyT0tRUnVDZTJOR3FEcklTSER2M1FPQ2htQ0lnY2FLanZZSU1OTGI2VG1LSlpfaFNEdHZxRtIBXEFVX3lxTE9xWHRsZzZLbXUyUGFIU212N1c0ODFmLTZ5empFRmtsYmF3ZjRxVkhDR080U3FhUDRjX05pT0cwZVRlOVRZdG04VklPZEsyb3FQWVd5dnZoUUxFWndv?oc=5",
+    "source": "Modern Ghana",
+    "published_at": "2026-09-01T12:20:01+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 12:20:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9483a49f6901692866bcbfb78c9e444aabb681a3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Discusses recent US-Iran escalation and risks of broader conflict, indicating rising tensions.",
+      "event_key": "us iran escalation wider war"
+    }
+  },
+  {
+    "title": "Brent crude rises above $91 as US-Iran tensions escalate - aa.com.tr",
+    "summary": "Brent crude rises above $91 as US-Iran tensions escalate aa.com.tr",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWt6aUw0bVJMOF9PaUZBZGtwYTdlYWJtTGNzOEFmSS16SDZxWVJsWnJGMzlEalhCU2E1U3lqdHcwdE85ZEJra05sZHJOdWgxdjAyVkpUdi1xcnRlcTJxclF4emdBUmNETlp6NjJiUEwzNXN1TExrMUUwdFk0a2RjT2hmc00tV2t1NHEwUFZzUklXcmtmV1k0a1pEQ3dTUdIBpgFBVV95cUxPeUFlUjJFSUZZRmlwTnR2UjVndFV3RDhWQWlFQWkzLUd5Y3dGN05zbWRvQU1IMlVnOE1kcktGaklzZTM4S082b0xSTEtSRnNDbmRQTy1OU0gxVDhNYVc4cEg0SjNwZy1FRFowY1ZtNHpRV2FZcFltaE44MUpuYV8tdFZmQzZxWTNLYTc4OGpWaG9URlFURGxPUk43SDgzNGhvUWJuYVVB?oc=5",
+    "source": "aa.com.tr",
+    "published_at": "2026-09-01T08:48:18+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 08:48:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eb860ceb0263a6802e0c25624b63883b24566338",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "Article links rising oil to escalating US-Iran tensions without detailing strikes or proxy attacks.",
+      "event_key": "us iran tensions escalation oil"
+    }
+  },
+  {
+    "title": "Crude Oil Threatens Breakout Amid US-Iran Re-Escalation - Investing.com",
+    "summary": "Crude Oil Threatens Breakout Amid US-Iran Re-Escalation Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWllFUjcwZzdaTGhKYl9nYkludGQ4dDRuZ25XbTRoS0hrb3hXMVNNSjVEUDhIV0pnTF84azRwUjBkZVhHbG5OdkFKeUkwWlZfblhsLUl1ZHBnOHRWZ1pxLUdZRmxmUjhVVWZwS0wxSmdna3o1emNhSFpFeTFZcjB5bGZZcWNSWGRIRUNUN2VWb2I3Ty1FSnl2cnktT2NOU00?oc=5",
+    "source": "Investing.com",
+    "published_at": "2026-09-01T11:10:58+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 11:10:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ee35ad38c3ad232ea3148c542883266570b6bc96",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Title links crude oil moves to renewed US–Iran tensions, indicating rising hostilities rather than de-escalation.",
+      "event_key": "us iran re escalation oil market"
+    }
+  },
+  {
+    "title": "Pezeshkian offers immediate US-Iran de-escalation if Washington honours June deal - thevibes.com",
+    "summary": "Pezeshkian offers immediate US-Iran de-escalation if Washington honours June deal thevibes.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVlhZTUhpMlpERkdZTGlZOWJuZlZCM1BOREtWbm81dUxIc212YlZhYmFRT3NsMEhEWHhDWVR6MEJ5OUJOWTJyLXYwR1lwNEhHTEw4VlRueU1RcWNLVGdOZkRkOEszZVlCV3k4ZmdtTVI5RHNFdk0wTXR3LTlwWlFuZ0JBZ1RyeHd2bjJlV1d6bHZHckw1RDB4WjFZblhua005a3YzdzM3V25FS0VHODlMbi1zN0oyMTlhV2RlbUFEcXlwMEV6TnA4?oc=5",
+    "source": "thevibes.com",
+    "published_at": "2026-09-01T10:01:00+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 10:01:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "30149a13e9bbbad833d3574bc10d685d931440fc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Iranian official offers immediate de-escalation conditional on US honoring a June deal, signaling restraint.",
+      "event_key": "pezeshkian deescalation offer over june deal"
+    }
+  },
+  {
+    "title": "Europe has updated its Gulf airspace warning as US-Iran tensions continue – here's what it means for air travel - Condé Nast Traveller Middle East",
+    "summary": "Europe has updated its Gulf airspace warning as US-Iran tensions continue – here's what it means for air travel Condé Nast Traveller Middle East",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN01LN3k2WmxqRGxBZW9INXBtakRmUnFHQ3dpOV9sSlNVWG5vX2h5QmUtQU1jVjhycXBaRTR6US1YQzcyZlYzRzUweGFZX3VRMUNNYkU2R1dMdXNOa2NTemxxNHExZzZ3X2Z1N01ucXFpdkpoazQ3LXQyVXRPcERqd3U1WFpYd0k5eEhxVzhxZURuYmJJaTBMbVhIa3c0VmplRlF1UElKQXJURUVEY3pDN0dDSFp3X2pCdzM1MXczNnFPMm1uMjFiSDVienBQQnQzaVlsQ0tDU0RyR0l4?oc=5",
+    "source": "Condé Nast Traveller Middle East",
+    "published_at": "2026-09-01T08:42:33+00:00",
+    "raw_pub_date": "Tue, 01 Sep 2026 08:42:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4b8eaaa4505a9332260262502ddc8ac2e83477ed",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Europe issued a Gulf airspace warning reflecting heightened US–Iran tensions and increased risk to aviation.",
+      "event_key": "gulf airspace warning us iran tensions"
     }
   }
 ]
