@@ -1,16 +1,15 @@
 {
-  "started_at_utc": "2026-09-02T18:24:40+00:00",
+  "started_at_utc": "2026-09-02T22:58:12+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-09-02T13:12:41.518896+00:00",
-  "window_end_utc": "2026-09-02T18:24:40.786644+00:00",
+  "window_start_utc": "2026-09-02T18:24:40.786644+00:00",
+  "window_end_utc": "2026-09-02T22:58:12.709140+00:00",
   "steps": {
-    "raw_fetched": 360,
-    "time_filtered": 42,
-    "keyword_filtered": 36,
-    "deduped": 29,
-    "after_seen_filter": 26,
-    "classified": 26
+    "raw_fetched": 0,
+    "time_filtered": 0,
+    "keyword_filtered": 0,
+    "deduped": 0,
+    "after_seen_filter": 0
   },
-  "finished_at_utc": "2026-09-02T18:26:48+00:00",
-  "summary": "아직 긴장 상태가 우세하다. 다만 즉각적 확전 여부는 추가 기사 확인이 필요하다."
+  "finished_at_utc": "2026-09-02T22:59:44+00:00",
+  "summary": "이번 실행 구간에는 새로 올라온 관련 기사가 거의 없었다."
 }
