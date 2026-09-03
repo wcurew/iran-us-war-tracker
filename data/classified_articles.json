@@ -1,155 +1,172 @@
 [
   {
-    "title": "The US Struggles to End the Six-Month Iran Conflict - Bloomberg.com",
-    "summary": "The US Struggles to End the Six-Month Iran Conflict Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDYzVmRlUWVNaFE3UGR1dnBkZFFzZmJFOFIyd3JEVmNIVk1LZlNfcDNvYm9ueGJTVlRlXzJqcU1zWnJVcTNLTnlra3ZMc19acGx0N3M5cWVka293TmN3TUxZOFZVeV94bXpoMEdSX09TLUJ4Ym05Y1plR2VYN2Nxd1NWUmZzaFNHTk4taE56Z0ttYlRMSXB0aGlzYlRVVWF3TVdqNUR0QXpnN1VnaGc?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-09-03T16:55:57+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 16:55:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "78eacc6dfe28c9c788d4772b179380dfd0f71705",
-    "source_weight": 1.1,
+    "title": "JD Vance Say U.S. Cuts Contact With Iran Over Hormuz, China Willing to Back Embargo - Haaretz",
+    "summary": "JD Vance Say U.S. Cuts Contact With Iran Over Hormuz, China Willing to Back Embargo Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS1RMb0pHU2ZqLTZlNUR1dUdBOGtIa1p4aTNLMVUxZFJMRDZLWWpKSTRuQ0V1VTIzbVBSM1d0QUEzVEpaaFZ2ekpqSDdZOTFUSmNkb1cwUVFvbkVGbmVjNENieU9XUU1JYUJXNWFfblpPWENJZHQzZGVwMzdLTmxQSUNiLVNEYlZFRkw1V1JJQWQ2ZnhfeW9LQTg1ZlJaNmYwcUJ6YnNncE1tZjUxRV9fUXJkUDFXVUNEcmpvVWNjSTV5WjNYNlN2eFNlb1FSMXRaY0hEZTlBSTVoVDlVTC0taHQtVjIzSEcyb2ZuRjJjTWx4RlJUZWVacXFBN3pKNEZmT3M4X0ttT0ZhUQ?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-09-03T21:17:00+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 21:17:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b2d0d2329196e0be3af08a6f3c04834e26a0bad9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "U.S. cutting contact signals a diplomatic breakdown and rising tensions over the Strait of Hormuz.",
+      "event_key": "us cuts contact over hormuz"
+    }
+  },
+  {
+    "title": "Vance Says US Probing Iran's Claims Of Wedding Party Attack, But He's 'Skeptical' - Radio Free Europe/Radio Liberty",
+    "summary": "Vance Says US Probing Iran's Claims Of Wedding Party Attack, But He's 'Skeptical' Radio Free Europe/Radio Liberty",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3BoQjhjajZOY3hCT1hOVFJrUTRnZE9RQVB2U3VGYklwbU1aM3l0Q2w1M3BkZ293QmNNLUhQNGdHanZibmk4QUlsNTN5c19qV0lOQ3F5YVo0SXp2U0RZU0ZLeF9CMWJWN2xFTXhzbHJvU3dkZ2ZFRVJDcGhwZHRfTmIxTlZVallGS2Zhd1BR0gGQAUFVX3lxTFBZQmpuOXBZakRyekxiRk5ZM0VISnduSkY5dkRDcW13UVBSSnpERFdndG1PT0ZHY3c0MDJKNXFuVDlNVGt6VnlTN0h1T3c0UXZVYy15cktwS0Ftb2hwUnlyUlNrNWZFVlJpdlJHZ0VIUUdkVFdKbTZBZ3NaVmg4RXRydGVmOTlJY3UzdHFmUngwZw?oc=5",
+    "source": "Radio Free Europe/Radio Liberty",
+    "published_at": "2026-09-03T20:08:29+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 20:08:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4b0a6ce9339037bee99336a16a5a7ee094fddfdb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "US probing Iran's allegation and expressing skepticism, signaling restraint and avoiding immediate retaliation.",
+      "event_key": "us probe of iran wedding attack claim"
+    }
+  },
+  {
+    "title": "Vance: Washington will only resume talks with Iran when it stops targeting ships in Hormuz - The Times of Israel",
+    "summary": "Vance: Washington will only resume talks with Iran when it stops targeting ships in Hormuz The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjdfcm5UNUpnWE1YVzRpX3U0UW82T25KLUdDc1BZRHplc3R1RnFBTmJyUlg5akJEU0RBRXhZLXBDTUVoMEhqVmJVc2Uwd1FGQmFZR2Z0VEx4d3oxX3FKeXRfNFNZQUxUUnlxUDl5Tzd6M29wbWlrUUp0djJTNE1BV0dNLU1LSXQ0X0lJOUpHT3NjYjV5aEpvYzc2UFVOY2JXYjgzZkVOdHllbG1LeWNIWkhFbnI5SU5ZSnJZZFNoempibGlDa09lVDd4ekNDT3Ny?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-09-03T18:55:11+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 18:55:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "080e649d3e272b99afd863decc75c36fd8ae71a5",
+    "source_weight": 0.95,
     "classification": {
       "label": "negotiation",
+      "strength": 0.75,
+      "reason": "US states talks with Iran will resume only if Iran stops targeting ships in the Hormuz — a condition for diplomacy.",
+      "event_key": "us conditions resume talks iran hormuz ship attacks"
+    }
+  },
+  {
+    "title": "‘Sometimes things happen,’ Vance says US investigating reported strike on Iranian wedding - aa.com.tr",
+    "summary": "‘Sometimes things happen,’ Vance says US investigating reported strike on Iranian wedding aa.com.tr",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWpqRkgzcWhUak9SZUJfWHpTbnRLVEEwVXN0S3NDTktEN2JMN1lWdDkxV1FZZW1TaWowNGx5YjV2TmtWSXJtaHBSb2pFQjJlZDRoNktLMmg2Y2MxelQ0SC1qcXJhSEF4Q0FEM2hrS3dPMDRaMHFHV1RXYkNBZDVwRkE2ekI0eE9hUUgxNHlWRnJmV0ZDZzlEYldObjVwbWg3MWxXT0xuU0xDbVFnYjEzMTg3c041alRubExUQ2Q1Y01WekVhZDhrNQ?oc=5",
+    "source": "aa.com.tr",
+    "published_at": "2026-09-03T19:08:31+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 19:08:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ceba5a3f84b5bc5dafecd74930afcbe574e2bac7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.7,
-      "reason": "Article describes US efforts and difficulties to end a six-month conflict, implying active diplomatic attempts.",
-      "event_key": "us struggles end iran conflict"
+      "reason": "US probing a reported strike on an Iranian wedding indicates an actual attack event under investigation.",
+      "event_key": "reported strike on iranian wedding us investigation"
     }
   },
   {
-    "title": "Iran targets Kuwait in retaliation for U.S. bombardments - Spectrum News",
-    "summary": "Iran targets Kuwait in retaliation for U.S. bombardments Spectrum News",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbEptcUkzcUx3Y3REWFM3SmN5VWFGNGNzSW5ZS3ZRUkp3cXdBZE9scTIzTEV0b2RMLUhwTzhZUUE2QUNjeUFPUF9XWlpCckl1UmVQUTJDbXFFOFktTUhXQjRWOWdLN05Na0tBMGdoVlk2WUpOTkF6ZXZQN1J1ZE9JT2RObmtZQQ?oc=5",
-    "source": "Spectrum News",
-    "published_at": "2026-09-03T14:05:00+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 14:05:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a7a141ed43dc219aa1a81df427086c8b035c027c",
+    "title": "Vance calls Iran conflict 'not a war', says US probing strike on Iranian wedding - The New Indian Express",
+    "summary": "Vance calls Iran conflict 'not a war', says US probing strike on Iranian wedding The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHQwUG85OFIzcmxLc1JfYm91VjdEZDVyS3c2QXNkQU5Teno5M3lCalNxUzNLR3VKb2hIYnVyNkRlYWdWX3Fkb1llMDZfMlpjSnRJdkYta2ZLRnNsbXEyMm03SHJGeXlnRXVFTDZaMVZyT0hvVXotaEtpM3ZqeUQ3c1BubXF0bU82bTMxQTBJbnEyZ0pBNkxNdzhsdDJZMi1RMDU1am5kbnRoWEN6LUQzQTI5OUc0VnhzWnR2NWo4NWR2YXdwUGtB0gHUAUFVX3lxTFBESFQ1M18xLUROc3psalYtR3RCLUJFczRUS2VvYXZDQU5XdWVjTXY3S0NLYWhaa01CRXpuZzQtMlBtclJKUGhKRUJoSURnT3RGRTZLYUV5TUowNVY4UVFnZ0Zrd2IxNnM4NUxRakgtRnQtbjZ6bUxOQ21mb1RfZ0tXakl2dWUyYlRxNzZaX2IzVFJFTVN1aUVIM016UHBRZU1ZYVhqNVRzUng5XzdVdjRjTFBlVVRqMmd2aWg1SUxlU2RwRThhTTVPSUZGLXcteXJDR0Fn?oc=5",
+    "source": "The New Indian Express",
+    "published_at": "2026-09-03T20:09:33+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 20:09:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e3536ba5a4bc832dd9622bc1d3f4249e3f5b21fb",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Iran carried out a retaliatory attack targeting Kuwait after U.S. bombardments.",
-      "event_key": "iran retaliatory attack on kuwait"
+      "strength": 0.7,
+      "reason": "Article reports an investigation into a strike on an Iranian wedding and US probing potential involvement.",
+      "event_key": "us probing strike on iranian wedding"
     }
   },
   {
-    "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - apnews.com",
-    "summary": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news apnews.com",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
-    "source": "apnews.com",
-    "published_at": "2026-09-03T17:19:00+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 17:19:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4556f930262225a4093164c22407a35b9b101979",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Iran carried out/claimed an attack targeting Kuwait as direct retaliation for US bombardments.",
-      "event_key": "iran targets kuwait retaliation"
-    }
-  },
-  {
-    "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - Jacksonville Journal-Courier",
-    "summary": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news Jacksonville Journal-Courier",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODA4ZlEtbzluTFM4aWpfZ2tXd1ZHSHFkX1gwdkoxVzZ5RmtDbGQ3RjN4NzlmalZraFp1aXd0RXNvWDV2MTRxZ2ZuU0pvNlUzS0xrRGlFa1BXV0FKMmhOSDRWVDZpR3Z0ZVZVSk1qRkhZWEZYSk03SDMySzRjT3pwZFViNHpKMWZEYjhHUXZ4WGluNTVDbVdLS1d1MjZUSmNTUlE?oc=5",
-    "source": "Jacksonville Journal-Courier",
-    "published_at": "2026-09-03T14:15:00+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 14:15:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c5d55ffa096a16e761e6fcae2dde71c011dfa841",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Iran carried out a retaliatory attack targeting Kuwait following US bombardments.",
-      "event_key": "iran targets kuwait retaliation"
-    }
-  },
-  {
-    "title": "Iran War: Trump Says New U.S. Strike Campaign ‘Won’t Last Long’ - الحرة",
-    "summary": "Iran War: Trump Says New U.S. Strike Campaign ‘Won’t Last Long’ الحرة",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWeDhzSEZGWVJ4czFfY3dKZl9wbG5PT2dMb0Y0THZkLUYtbThGV0RreU5OMHltbWVRbWJnVHU2Sjd6QQ?oc=5",
-    "source": "الحرة",
-    "published_at": "2026-09-03T16:12:04+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 16:12:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "040ebd2a0cd2f7b7ee74169977930fb9e25b33ce",
+    "title": "Vance: US Will Not Hold Talks with Iran Unless It Stops Firing on Ships - صوت الإمارات",
+    "summary": "Vance: US Will Not Hold Talks with Iran Unless It Stops Firing on Ships صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNempoTEJ6MVdjSEw0YkpaZnNXQ093YWFmR2lnanVlZEhmclNMRnFFNTF3dGloSk5nQmRwU0pUOWxvbllmNmUwRXBwT2lPR0xFWXBLXzVJeUNwUU1XMkVRQ1U1ck5IVGEzMl93VHZfSDZLWG5reTlNU09SM0lWSHhDTzQ5ME8tanZJRmxkOU5rcGhUMnZhNGZ6SWhZLUdKTUhXTGVwX2I0OGJQUzk2Q2ljd05HcmFQQ1pJeWdZaVhQOA?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-09-03T19:41:13+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 19:41:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "29d383b49445fc70255d7eb1ddef833dc808abc2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Trump's statement about a new U.S. strike campaign signals rising tensions and threat of military action.",
-      "event_key": "trump us strike campaign statement"
+      "reason": "US refuses talks unless Iran stops firing on ships, a conditional rejection and warning that raises tensions.",
+      "event_key": "us refuses talks unless iran stops firing on ships"
     }
   },
   {
-    "title": "Iran Launches Missile And Drone Strikes On US Bases In Kuwait And UAE: how 16 outlets framed it - NewsCord",
-    "summary": "Iran Launches Missile And Drone Strikes On US Bases In Kuwait And UAE: how 16 outlets framed it NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFcwUWxhR1dyV0I5YVpfR2NEeE90MllyLW9TYTJqUEowYk16LWtjZVo3M1RqamQ4LWdjZWZVNTlPUXVpcE9WSlZqVHpINEV6WTBrOHQ4d21CeUZMdmlpUFBsenIydjNabXo5SV9OLUdNNzFyUU9YRmVCeUE4b2trYWxScjVpajZnTUNOR2Y2X2ZFTEtxQXVhM0QwMFRkWmV1SjQzLTgxN1NMVXo0bURIXzdBNXdXajVxcGZ3Q2JkcGc5cUZuZjZTU1FLZjY5RHFOcENwZDEtcjRDSkw0Q0hST2htZy1ZNEtqMlE?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-09-03T15:22:30+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 15:22:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c32d5372575e96a75c7c6e5931723a7a2d81e9ba",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched missile and drone strikes on US bases in Kuwait and the UAE—direct military attacks.",
-      "event_key": "iran strikes us bases kuwait uae"
-    }
-  },
-  {
-    "title": "Iran buries victims of reported US wedding attack, fires on Kuwait - Yahoo",
-    "summary": "Iran buries victims of reported US wedding attack, fires on Kuwait Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDg0bUh3eVV3Y1kwSnEzWWhkNnlGeTZwSU41ZGFkUXh1T2l2MjhhMmxlbnJFSUNVWHhPMVpjNE5yRzQ1S3FBNzhXRERrMmZSc1BfUHlGZDdQYnF4eENFQlRVTkVOQVlBaFVFbkhlU3R0em5OX0J3OEptMnhWOFNsSGR5UjJaN3gyQlVic3J0STRERm5mVkE?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-09-03T16:18:03+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 16:18:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d0dc04fb637d49a44b2881aaccb51e572e376c55",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Article describes Iranian forces firing on Kuwait and burials after a reported US wedding attack—direct military strikes/retaliation.",
-      "event_key": "iran fires on kuwait buries wedding attack victims"
-    }
-  },
-  {
-    "title": "Iranian hackers issue NEW WARNING to US - Fox News",
-    "summary": "Iranian hackers issue NEW WARNING to US Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94alhOcjJSdmxoSTExUWlQOWpDQ3AyZVE3UE5FX0JIX0VRd3ozdHhvUERjS1VVR1pWLWhQbzJMVlh3ek96R3N6eEpFQk9MOXBsWWo3eVp3?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-09-03T15:16:52+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 15:16:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "72f5816d9f171bae31f0847d18734184a27985af",
+    "title": "Vance pours cold water on diplomacy with Iran as battle over Hormuz continues - Washington Times",
+    "summary": "Vance pours cold water on diplomacy with Iran as battle over Hormuz continues Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazVYYl9tYWRmM0hvUFJvV0Y3WFlQRUEyLVkxVm9SM2NsVW9KN0lXdmJJTTNQQ25vOEVxWTlnc2t4VzdTZmZrQW5ybnJHd1JlY1J6b0dxSVVXYTF4cFNjN3BnWVk5SGEzcUZfOVFJS3k2d3RtaEVOOVRXRGlrUElobi1IaElyRTV3eHNhck9Yb1lZVTllMENULWlzYzhqb0NqcDItN2taUHhfNVZONzlB?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-09-03T22:41:29+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 22:41:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0196eba8ed6b6df4461d6bd98841d409b5faff09",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian hackers' warnings are hostile threats indicating rising tensions rather than diplomatic engagement.",
-      "event_key": "iranian hackers warning"
+      "strength": 0.7,
+      "reason": "US official rejects diplomacy, signaling breakdown and rising tensions amid Hormuz confrontations.",
+      "event_key": "vance rejects diplomacy hormuz tensions"
     }
   },
   {
-    "title": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say - Reuters",
-    "summary": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say Reuters",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXNYTGpEYldjZ00zSFctdU5VT1A3blcyNnhmalVSNEMwNVBEa09RWFF1Zk9ibGY2cmdmRVdid2dDbUJwaHhzcFVpVHVxUUQ1NFZRb3F2MkRHREtLZHNoSF9tZUdseGdQZ0hFdFk5eDNTT0VyQzRXLUVZYi1OanRIc3g3SE1RQUlRNGQ3TXBCbi1JZHNycUhXcHJSMXFMb21YZVNtb2cwZGVYWGQ1bGlmQTJtNHZPSi1HZU96S1QwTldxV2NLYllz?oc=5",
+    "title": "Iran buries victims of reported US wedding attack, fires on Kuwait - Reuters",
+    "summary": "Iran buries victims of reported US wedding attack, fires on Kuwait Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-03T13:41:45+00:00",
-    "raw_pub_date": "Thu, 03 Sep 2026 13:41:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Hezbollah+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "57f77e95cce693ce3f484a4d31914031ec522625",
+    "published_at": "2026-09-03T20:12:07+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 20:12:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "14dc9b943d25efa9618ac3abfb1cc8c0cf8e60a3",
     "source_weight": 1.15,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.7,
-      "reason": "Iran issues a warning to the US over potential Israeli attack on Hezbollah-held ridge, a threatening escalation.",
-      "event_key": "iran warns us over hezbollah ridge"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports describe an alleged US strike causing casualties and Iran firing on Kuwait—direct attacks/retaliatory strikes.",
+      "event_key": "us wedding strike and iran fires on kuwait"
+    }
+  },
+  {
+    "title": "Gold Futures Surge Amid US-Iran Tensions in Hormuz - Investing News Network",
+    "summary": "Gold Futures Surge Amid US-Iran Tensions in Hormuz Investing News Network",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wdWpCVWdrTTM5dWFDbWRKUXhmM29Od2g5TFNOek5xVUF3d1NkTEhQVk1LS2NvZ0JoeUhmZ3NmanRYbEZmeEp3Ry1qVzUwV1VrWk5Pak1jRXdZTXpBVHE1QXhXbVFSU1U?oc=5",
+    "source": "Investing News Network",
+    "published_at": "2026-09-03T20:23:57+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 20:23:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5c83567856935c586575b38fd30151bcc98eab38",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Market-focused piece noting gold reaction to tensions; no direct military or diplomatic development detailed.",
+      "event_key": "market reaction hormuz tensions"
+    }
+  },
+  {
+    "title": "Iran buries victims of reported US wedding attack, fires on Kuwait - KSL News",
+    "summary": "Iran buries victims of reported US wedding attack, fires on Kuwait KSL News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDJMRDVaNTdlMURjNlVuZVBJQVR1UFlsYU1haTFrbVpRVzdkNlZhb2g4YjhneUp5cTRURFZscGJkRm5Hamx0bWw5YTdUUDNWNjJBWlBIa1ZwV3hCWko0endraWhMand6UU5NMnhxZnhOdFJqcHF0cnZUVUtDS2FFekE5Q3J2Vm1GYnRGeDN2eHBELTl1cTNrSWY4dFVKYlcxNlhjZA?oc=5",
+    "source": "KSL News",
+    "published_at": "2026-09-03T18:57:21+00:00",
+    "raw_pub_date": "Thu, 03 Sep 2026 18:57:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3e0a61664b7d59a345c65c04c6caa21eaa43418e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran firing on Kuwait and burying victims of a reported US wedding attack indicates direct strikes/retaliation.",
+      "event_key": "iran fires on kuwait buries wedding attack victims"
     }
   }
 ]
