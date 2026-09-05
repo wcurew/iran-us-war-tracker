@@ -1,19 +1,36 @@
 [
   {
-    "title": "Iranian leadership considers escalation as US officials fear military, cyberattacks - report - The Jerusalem Post",
-    "summary": "Iranian leadership considers escalation as US officials fear military, cyberattacks - report The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nWnhOZDJLekJKdDJYeDRfSUZPYV8yZlk4MmlJOFFrN05ORUppWmZPRW9LVFBFS3BPbDUxd0k0Q0xoWlZxTWZHVG1RLVlZVEtZbFBlMDVPVmQyb0FyOEsyOV9xNjI2YWpaTEE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-09-05T02:19:28+00:00",
-    "raw_pub_date": "Sat, 05 Sep 2026 02:19:28 GMT",
+    "title": "Live - US sees risk of major Iran escalation as Trump threatens Pickaxe Mountain - Iran International",
+    "summary": "Live - US sees risk of major Iran escalation as Trump threatens Pickaxe Mountain Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-09-05T05:36:02+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 05:36:02 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "18368af2912a4a3c8332f85734b69273148476ad",
+    "article_id": "d8c2335528ec755321b116c6bbeb6addaa7b644b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran reportedly weighing escalation while US officials fear military and cyberattacks, signaling rising tensions.",
-      "event_key": "iran considers escalation us fears attacks"
+      "reason": "US warns of major escalation and Trump issues threats—rising tensions and hostile rhetoric, not a ceasefire or attack yet.",
+      "event_key": "us warns risk major escalation trump threat"
+    }
+  },
+  {
+    "title": "US intelligence: Iran determined to continue war, weighing major escalation - Ynetnews",
+    "summary": "US intelligence: Iran determined to continue war, weighing major escalation Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5WGNYWEZQZjg3R1d5R2hRWk1oYWY4VS03eFFDRXRQUzJRWHhCdEFEYTloN2JWWF9EY3JvZ1J1WVptNlJOM3doQmdGSDhYcEZ5LVVwLUJB?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-09-05T03:09:36+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 03:09:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1ccab2dc23ece858aeee057c9885f39ffcd17fe4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "US intelligence reports Iran intent to continue war and consider major escalation.",
+      "event_key": "iran weighing major escalation"
     }
   }
 ]
