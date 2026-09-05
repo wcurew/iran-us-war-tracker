@@ -1,36 +1,155 @@
 [
   {
-    "title": "Live - US sees risk of major Iran escalation as Trump threatens Pickaxe Mountain - Iran International",
-    "summary": "Live - US sees risk of major Iran escalation as Trump threatens Pickaxe Mountain Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-09-05T05:36:02+00:00",
-    "raw_pub_date": "Sat, 05 Sep 2026 05:36:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d8c2335528ec755321b116c6bbeb6addaa7b644b",
+    "title": "Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg - The New York Times",
+    "summary": "Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFRdGRLT2Y0eEtsblc4WEZPWGs2a2JFNW9ULTFwSHQ2TlpzUEs0NmxHdjZYV1pjdnVoenM1MjBiRDZhVDZkajRzVVl0RF90SzNNWEprTXN5NkN4NW84LWVqR0xMU0pkVFB1REd1N3pIajlEaHJDczBCNGc5a1czX2ZjT05DTkFqTlhmOHBHeGR4QQ?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-09-05T11:39:55+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 11:39:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3b893bf71b474761cbb2b64a3a9ee348dc89bdb1",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US warns of major escalation and Trump issues threats—rising tensions and hostile rhetoric, not a ceasefire or attack yet.",
-      "event_key": "us warns risk major escalation trump threat"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Report says U.S. missiles hit an Iranian oil tanker near Kharg — a direct military strike on an Iranian asset.",
+      "event_key": "us missiles hit iranian oil tanker kharg"
     }
   },
   {
-    "title": "US intelligence: Iran determined to continue war, weighing major escalation - Ynetnews",
-    "summary": "US intelligence: Iran determined to continue war, weighing major escalation Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5WGNYWEZQZjg3R1d5R2hRWk1oYWY4VS03eFFDRXRQUzJRWHhCdEFEYTloN2JWWF9EY3JvZ1J1WVptNlJOM3doQmdGSDhYcEZ5LVVwLUJB?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-09-05T03:09:36+00:00",
-    "raw_pub_date": "Sat, 05 Sep 2026 03:09:36 GMT",
+    "title": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says - Reuters",
+    "summary": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-05T08:51:49+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 08:51:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a6a1ab864db78dfdf8eb855b41170333740cc5a4",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports of a US attack hitting an Iranian tanker near Kharg Island — a direct military strike.",
+      "event_key": "us attack iranian tanker kharg island"
+    }
+  },
+  {
+    "title": "Iranian media report US strike on Iranian oil tanker near Kharg Island - Euronews.com",
+    "summary": "Iranian media report US strike on Iranian oil tanker near Kharg Island Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmZvMmFhak9ROGpLQ2RDdzh6Q01QTS1vWkdDZThmdVBYUkQ4OUhVcHl6aG1TamFVTlA5QUVjQ3Vsa3ZZVEVYZjNwYTlFVDktYUhvTkNmWVFmUy1Oa3Y4bFlUS1N5d3VYMjNJZUJUeU1TNk41QThSZlpwYkhyQ0xjR1o0WXpUM1VJSE9KUUItdV9fX3BTQnRRamFCRUJaanRMQVZqSk1BM0hfZw?oc=5",
+    "source": "Euronews.com",
+    "published_at": "2026-09-05T09:39:48+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 09:39:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d95eee4803fab5590f2d7c63562866c3b5f272dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports of a US strike on an Iranian oil tanker near Kharg Island indicate direct military action/retaliation.",
+      "event_key": "us strike on iranian tanker kharg"
+    }
+  },
+  {
+    "title": "US missile hits Iranian oil tanker near Kharg Island: Report - Anadolu Ajansı",
+    "summary": "US missile hits Iranian oil tanker near Kharg Island: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2Y3Y0NWM3hoT2EwSlZHOGN6azlCM0dwVktEaWlaZ3FhbWdvczg1NU9aVmdESVduU0pqWERCQzFQblItV0xnOEs0aFhobWJsXzdqZ29qd3RxTEpNbFM5eXlidmdQOVFUWGZRUmNKaFRSRUJyUUJZMWJSOWhteDJtX2hOYTd4Z1VrU3ZQN3h0YmxPWFZzaHFxQ3JGMDJqR1d4VTl2S2pXMA?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-09-05T07:59:25+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 07:59:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e280958cc80457f53d7e044607e8d1e10062d6dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Report of a US missile striking an Iranian oil tanker near Kharg Island—direct military attack.",
+      "event_key": "us missile strike iranian tanker kharg island"
+    }
+  },
+  {
+    "title": "US missile struck Iranian oil tanker near Kharg Island: Report - Middle East Eye",
+    "summary": "US missile struck Iranian oil tanker near Kharg Island: Report Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQjZjMW5Fd2Z2Y250aGZYSV95ZFhoWktJQmVJWWJpbnpQUTBHck52VDJMMV9KTFF5TTlPeVk0dWpoLTA5clBBNkJmcDZmcWpQS3BIcEIwOUhjS04wUXZjY2swVkZFdWxaVEhmbTlELWlDZDVQNGc3NW9kdkNTVVdkVHNYNUwtRzZRaUg5R3A2Rk1qczB1QXdwZmVydUFSb05CMUxJV0xqYUk2Z1N0QzE1RXNybnNyRkxtTXc?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-09-05T08:42:00+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 08:42:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "99cabbdbc8e23c255a439931341082cc2469723a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US missile reportedly struck an Iranian oil tanker near Kharg Island — a direct military attack.",
+      "event_key": "us missile strike iran oil tanker kharg"
+    }
+  },
+  {
+    "title": "US missile strikes Iranian oil tanker near Kharg Island - Muslim Network TV",
+    "summary": "US missile strikes Iranian oil tanker near Kharg Island Muslim Network TV",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUVZb0RsRWRoY3pVa1Y2ckFEVUdBdjB6bWo2QzkwRDhPbUQ5OXdwRkFUYUdGeG9USFJqazdCSVhpQ1dfMmctbmZ6ZHplNXFiaWxScVIwOTRUS21GN3VfcW1rRWV6RjJjNnBqckFacmg0TmtvN3FQMkZtenA3Sk9ZaG1XZVVBbWIzQlJrVHp3?oc=5",
+    "source": "Muslim Network TV",
+    "published_at": "2026-09-05T08:07:04+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 08:07:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7a815b1bfa3a855fa8aa128bed4a60926b8a378d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports a US missile strike on an Iranian oil tanker near Kharg Island — direct military attack.",
+      "event_key": "us missile strike iran oil tanker kharg island"
+    }
+  },
+  {
+    "title": "US targets Iranian tanker with four missiles near Kharg Island: Iranian media - The New Region",
+    "summary": "US targets Iranian tanker with four missiles near Kharg Island: Iranian media The New Region",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zRE1LNDJEakZWWE42N0VpU2o3LUZja1JyMGp2UE5MSmZxV0YySXJzQ3h5T0RGclc3QkxMSGRKdi04WnRwSklERHNqNA?oc=5",
+    "source": "The New Region",
+    "published_at": "2026-09-05T09:27:12+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 09:27:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aa78f8d4b455e01ee889a57a0bc72ba6d1d461cc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US fired missiles at an Iranian tanker near Kharg Island — a direct military strike.",
+      "event_key": "us strikes iranian tanker kharg"
+    }
+  },
+  {
+    "title": "Iranian Oil Tanker Hit by US Missile near Kharg Island - تسنیم",
+    "summary": "Iranian Oil Tanker Hit by US Missile near Kharg Island تسنیم",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkVya1VsN3BZaTVQRjBmMkpCYXlVaDk0WFItNE9qclZJX0hQeThRVGVmNGF3ei1CWlVSbE02RG55c2pSbDZSazFwQUdwdHRqaTVQVVcwZXBfNUdFSFJDS0Q4NW9TcE02YXpndjMyejdlOGU0SGlmdTdLbWJMWmxtZ1pabmdMRVkwMG1mS3l2OWtSemtjbl9lVlNQbXk2QW83Q3RyZ3BwcXNHNmvSAbABQVVfeXFMTXRIdHFNd2hrc0xYWjAtb3J1TGpXSXlPSndOTm1oQ2hhQjk1allTQ3lOc3psc3h6ejhrMWVjSFdMbEJMUTg3NTBGOEhXaml3RzdSbjFucGl0SUNobG1hd3pTd24zVW9SNkI1VHBaOEpLanphTnpEWmY0N1hzVFRuM05zRTMwS09hYUdZNkhrbDJvTUo1NmFxY01oOGtWUlhzMkhvU1d0S1VMZmdmX29sUF8?oc=5",
+    "source": "تسنیم",
+    "published_at": "2026-09-05T09:06:44+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 09:06:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec49635fc7665b2e42aa47ff2f86b61a72150a23",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe a direct US missile strike on an Iranian oil tanker near Kharg Island.",
+      "event_key": "us missile strike oil tanker kharg"
+    }
+  },
+  {
+    "title": "Iran May Be Preparing for a Significant Escalation of the Conflict with the U.S., According to the NYT - UA.NEWS",
+    "summary": "Iran May Be Preparing for a Significant Escalation of the Conflict with the U.S., According to the NYT UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOXVpd0tYY0N2QUg0S2d1ZkJZS1NQdDhOMV80WmdGVElWRWFxTG0yMmdLTkJLZm5wX1Z6dW1RX0l3dHFILTdJQnVsU2JmMnNmdHIydzYxZHZCNEdYVmY4SkdiTy1LcElCYzZmWmxnaHl2WDB2RXd3LVZ2aVg1cDdBM084YUI4c3pLQm00b1RPWQ?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-09-05T10:59:46+00:00",
+    "raw_pub_date": "Sat, 05 Sep 2026 10:59:46 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1ccab2dc23ece858aeee057c9885f39ffcd17fe4",
+    "article_id": "9cb6476af7f0eb153acf962ba5d2cc50f80fb2d5",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.9,
-      "reason": "US intelligence reports Iran intent to continue war and consider major escalation.",
-      "event_key": "iran weighing major escalation"
+      "strength": 0.85,
+      "reason": "Reports Iran preparing for significant escalation against the U.S. signal rising tensions and potential hostile moves.",
+      "event_key": "iran preparing significant escalation"
     }
   }
 ]
