@@ -1,138 +1,206 @@
 [
   {
-    "title": "Talks Without a Breakthrough, Escalation Between the US and Iran, and Elections in Germany: Top News for the Morning of September 6 - Межа. Новини України.",
-    "summary": "Talks Without a Breakthrough, Escalation Between the US and Iran, and Elections in Germany: Top News for the Morning of September 6 Межа. Новини України.",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXJrdWFTNU5WdFVIUUZVUnEybGl5c2NrWWxSZVhPUlVvOTZ4ZGgyX0VWNTU2enBXTUZKN2t2cXNJN1d0dDFsd19JeUxHdzVJN3JteGh3dFU0dnlfRHp4UEJnNVF0Y01oMkh3ckg0Q1oyMV9hYkZ5Z0tOaDFZbzJnX1pfNHFpcE1zbDZZVVJvZW1SODZvQzVlMmdZZVJkeXgtclFXVktLNWpNNWJIRFh2SnprcUp3SVU4YjJuazJ2cmQ2eVVGM0E?oc=5",
-    "source": "Межа. Новини України.",
-    "published_at": "2026-09-06T07:13:24+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 07:13:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d5eebe44ec1bdd297b98fb19521303cbdd80a1bb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Title states talks failed and explicitly mentions escalation between the US and Iran, indicating rising tensions.",
-      "event_key": "us iran escalation sep06"
-    }
-  },
-  {
-    "title": "live U.S. and Iran exchange fire after missile attack on US Navy ships - AnewZ",
-    "summary": "live U.S. and Iran exchange fire after missile attack on US Navy ships AnewZ",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUxfMTdCbXdJTUpzUGtiRUtuTFdjb1hIRHN3ZGNQNXgzSUpfZno5bUtsSndjREYtQWE4ZHlhOFplU2t0RlZORTdvdUJhc3JrVXFIdlFGQVF4b0xKa0RqWklvMGN1cGE3Q2pJVlVPMW0yMFBOVC1veDI3LWpvWU1WNWkweG1FLW92ZnZYZE8wYnlnR0k5eHFMVUdpQ0ZjSkQ4VzIw?oc=5",
-    "source": "AnewZ",
-    "published_at": "2026-09-06T04:26:00+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 04:26:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "58278790aa37f2ade67b04a914885e44fe159ee8",
+    "title": "Iran says it hit a US ship in a week of renewed hostilities - The New Indian Express",
+    "summary": "Iran says it hit a US ship in a week of renewed hostilities The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejJqNk9NdWMwaEtEaVNfSU1HSFZaWXhXOThXa2I3Um5fRkhkSjZJaWtaUlB2b1hPb3dOU3JTbGhNdHQ1TEZBdWRuNF85bXliaHJqdThHaU5CR19HRzBPaHRGY0dEQkdsYmhXLWI3eDMzZjEtbm5EN1lvNXVwZmsyUi00cE8xb01ScHBhdjJYODBGdnR4SmxXNVdwM2NfX28tTHhLVnhReWFSbWlMV2hZ0gG8AUFVX3lxTFBoTHRRRUttOHNSSzFxSDlFUHBjeUdpeXFLYkRtSjJBRU1TdjdYN0FmaTg2OHVhZGVtTldhOXU3Znhsc1hjR3Bsc2tESE1tTS1mUzVtWTczblFlcHZnUkcwOWJ4d2x4eEs2dEpNYjFEdVpHMU5FTTFXSm9aRmd3ZEVxRkZDY0VvdmZRaUdFWTRvUTJDOXMteV9pZVdlTGpVZHV0Rl9yYm1oNS1lbDZlaDAwR0JTejlFZl9vc1hE?oc=5",
+    "source": "The New Indian Express",
+    "published_at": "2026-09-06T10:39:07+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 10:39:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a88c68e6ee92c96a06d8690494e86541be29a13",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct exchange of fire between U.S. and Iran following a missile attack on US Navy ships.",
-      "event_key": "us iran exchange fire after missile attack"
+      "reason": "Iran reportedly struck a US ship—direct military attack amid renewed hostilities.",
+      "event_key": "iran hits us ship"
     }
   },
   {
-    "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - 毎日新聞",
-    "summary": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates 毎日新聞",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMGpQV1lxYlJvTjBCQ1lfV3VCN2xSdXVkamVFSm53bkI0WXUzODNHS3RjMzVYNVEzcklsa2Vtb2hZdERoV2N6WXRIa0U1Y3NoLWN1RU15S0l3aVRjYy1hWHZUSXZRYTk3ZEM5c2dmNncxQUE?oc=5",
-    "source": "毎日新聞",
-    "published_at": "2026-09-06T07:17:12+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 07:17:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4b0373f20d1831efac54123f0d78444bfb435916",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claims to have struck a US ship in the Strait of Hormuz—direct military attack/retaliation.",
-      "event_key": "iran strike us ship strait of hormuz"
-    }
-  },
-  {
-    "title": "Iran retaliates after U.S. strikes oil tankers - The Japan Times",
-    "summary": "Iran retaliates after U.S. strikes oil tankers The Japan Times",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3RFazk5emRncFhZQU9tZDhZV1MzUHExZVpQXzJ3ZGJjR01jS2tWeFhhV3ZZLWJPeFc1UTV4RmtITlRHckRpZzNZeGktNm1hYTBTYVpqekNyeUdVUVJrcjhfZ1JmNllDMXJkSVFSbS1ZeEYzQkNPQTY5Mldtd21hbQ?oc=5",
-    "source": "The Japan Times",
-    "published_at": "2026-09-06T06:25:48+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 06:25:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "14c8d74b94538ae931b2dbde067627b3d784d753",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Article describes Iran's direct retaliation in response to U.S. strikes on oil tankers.",
-      "event_key": "iran retaliation after us strikes on oil tankers"
-    }
-  },
-  {
-    "title": "US Strikes Three Iranian Tankers in Retaliation for Attacks - Energy Connects",
-    "summary": "US Strikes Three Iranian Tankers in Retaliation for Attacks Energy Connects",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkZBMDBrZDgxSWtZUG9wb213SXpqSXgxNnVZUDc1VlVUbmo2c0hhekI5SkU0czlNY0VNNlFVTGRQZ2lJWXRNSWtsUHlEd3VMWHdRNmEwS04wVXB1QnZWMTNSYzViQ3dRMUpDSHVoOGlfa3VjWlU0QURURzc4U1VyTTVzQ2pJMVZWQkIwRFd5ZFozWUJFUW9SZlNoa2JRWHhqZFRtZXgzR2t4dUZ1a0podEtIZGI1dw?oc=5",
-    "source": "Energy Connects",
-    "published_at": "2026-09-06T05:15:42+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 05:15:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a005cfa639056a8d29e478bd314f9c366f460bcb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US conducted direct strikes on Iranian tankers in retaliation for prior attacks.",
-      "event_key": "us strikes iranian tankers retaliation"
-    }
-  },
-  {
-    "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - New Haven Register",
-    "summary": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates New Haven Register",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzRlRVh0bHVFOUJ0Rmg0OXBYU0FyNlcwS1FIRC1JeUhsZ0hROUEzRmNPdWNlbVdhSTdSWUo2UmR3V2M1U2p4ZDYwTVNuODVYMElPcndMekFJcXRXSlZIVkN2UFhUenlaUzMzcjJSck5fd2V5WjdkNWcyT0hjNlhVSW9aZGZad1I1Rk05ZmF1LTBhTFpiaXRaU2w1WXJjWmwwRjc5RXF5d051UHB6?oc=5",
-    "source": "New Haven Register",
-    "published_at": "2026-09-06T07:13:53+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 07:13:53 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c8ecc02dc7be59c92ab70e3f44e0fcf3543592e3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claims a direct attack on a US ship in the Strait of Hormuz.",
-      "event_key": "iran claims strike us ship strait of hormuz"
-    }
-  },
-  {
-    "title": "Iran Says US Warships Forced to Flee after Ballistic Missile Attack - Palestine Chronicle",
-    "summary": "Iran Says US Warships Forced to Flee after Ballistic Missile Attack Palestine Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ25McFVMMFV4SWFPRlRRZHVibkVJWUVuazFuelk4MFVkTG40b0lKUjRmQ1dHdXJGOURqcTFOU0o2bURXRzlKSkdfYWU5QTRoaHJoU2g2MWdkalVwSXpWZzM4UzdqVmhicWt3cVo4aFQyN21TY3pzZmNsQ3ZiV1hqcmFCcU5wU3NsQkRyOUFUU3ZFTTJ3c0FOTVktbzR6VjVPSDlZ?oc=5",
-    "source": "Palestine Chronicle",
-    "published_at": "2026-09-06T04:54:52+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 04:54:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dff2491ebca3a39e1f3f90047c68c0d30a965075",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Claims of a ballistic missile attack forcing US warships to flee — indicates a direct military strike/retaliation.",
-      "event_key": "iran ballistic missile attack us warships"
-    }
-  },
-  {
-    "title": "South Korea caught between Iran warning and US pressure over Strait of Hormuz - Korea JoongAng Daily",
-    "summary": "South Korea caught between Iran warning and US pressure over Strait of Hormuz Korea JoongAng Daily",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU03WF84WWE3Rmt0NTRRbnk4ek5KMGdLNGkwWmVZYjBBRlZaVE5GMmJGRUFhUkI2eWxSbVVOZzhlWVRnb2JDY3dfdENvU2hXaXY3aVlQLWpnak1lMzVyOFRLWXdBVVZObUJmMzRUR1VxOTBUVm0xcnllVVFBeWpNUGI1b0ZEUlUyelV4MzFZR2Niek9fYlNGYWR5QWNEYlU0elFlTXBJS3E4NldYaEJLdnNFWWNYOEYwTnc0MDd1cw?oc=5",
-    "source": "Korea JoongAng Daily",
-    "published_at": "2026-09-06T05:54:18+00:00",
-    "raw_pub_date": "Sun, 06 Sep 2026 05:54:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0339ea71a7954c9d8dd4dd91107629ff78748079",
+    "title": "Iran's Ceasefire Negotiator Warns US of \"Faster, Heavier, and More Painful Retaliation\" - 아시아경제",
+    "summary": "Iran's Ceasefire Negotiator Warns US of \"Faster, Heavier, and More Painful Retaliation\" 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUDFuQVFpdW5lLWNMQ0xxMm9hTzhvM28zY1JpODZYVWFFZ200RWxwcE5mLVU2LWYwaHJzMkMtSXpoWElOa0tCR2xSRWxoX0lidG1IS2Z6Z3hJaVJhb3k3T3M1OFk?oc=5",
+    "source": "아시아경제",
+    "published_at": "2026-09-06T11:23:21+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 11:23:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b112034373915a0e134216e2731072993a025d97",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran warning and US pressure over the Strait of Hormuz indicate rising tensions and hostile posture.",
-      "event_key": "iran warning us pressure strait of hormuz"
+      "reason": "Negotiator issues explicit warning of faster, heavier retaliation—threatening rhetoric that raises tensions.",
+      "event_key": "iran negotiator warns us of retaliation"
+    }
+  },
+  {
+    "title": "Iran’s Revolutionary Guards say missiles struck US aircraft carrier, destroyer - The Express Tribune",
+    "summary": "Iran’s Revolutionary Guards say missiles struck US aircraft carrier, destroyer The Express Tribune",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTRyeVlPei0yVURVUUE5LUVQYTZUajZ2Xy1vUlE1dmFWS1AtZlozcGZMc0I0WkVsUlYtVkkzSUh1YVJTT1kta0ZKUF83UEZOdTgtSmhkODBFQ1lOZWxxNTduSXJVWW9Fa2tLN2E0TWlXUmMzUXFaMkZ6d25XQlZCZG9FV2hkdlM0YkU2V2EwSkI0YzZmWEtveWVZTU9QTmVMYmZqM1pwckllVkpPeDh0OTBVUQ?oc=5",
+    "source": "The Express Tribune",
+    "published_at": "2026-09-06T10:31:40+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 10:31:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d524a1bc32bc4e7305bc3b338a9282528039dd07",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "IRGC claims missiles struck a US aircraft carrier and destroyer — direct military attack.",
+      "event_key": "irgc missile strike on us carrier destroyer"
+    }
+  },
+  {
+    "title": "Iran Warns of 'Faster, Heavier, More Painful' Retaliation Against U.S. - 조선일보",
+    "summary": "Iran Warns of 'Faster, Heavier, More Painful' Retaliation Against U.S. 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0JYR2FqZkJIOVdlMWVaNThtanM0d0U4VS01RWNndnN3bEpUOTJNMktzNHlNc1lqVmI2RXBBYmRWcEExWjA4aTdHc0h6T2FBMlNZWjd0WXIyeTlXeVYzeDY3eUR0QktydmU1U3RTNW91LXNtd05mVFNPTEM3Q1RsdXdFbDQ?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-09-06T11:55:30+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 11:55:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "505ca5f08a679c5aaa2fde3a534746933e01994f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "Iran's warning of faster, heavier, more painful retaliation against the U.S. is hostile rhetoric indicating rising tensions.",
+      "event_key": "iran warns retaliation against us"
+    }
+  },
+  {
+    "title": "Iran retaliates after US strikes oil tankers - Hürriyet Daily News",
+    "summary": "Iran retaliates after US strikes oil tankers Hürriyet Daily News",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHFkMlhYZWppdmlPQkFRU00xSG1YLU9BVF9tenRlNHRFaDhqSVA0ZUxTZi1ST05jbUt0UGR1LUNCcl92V3dBU254Ti1CSWM2V3pWLS1IZXBkR2FGQ0x5LVRxVXVCdXV6ZThFZmRuR0dGcmJPM2ZhX0EtWUM3QXFrOW5remRQYU5KOGVYQkZn?oc=5",
+    "source": "Hürriyet Daily News",
+    "published_at": "2026-09-06T07:58:52+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 07:58:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2fd2aeab39073c7412b8a09d0ee3a5aeab2bb228",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports Iran's direct retaliation following US strikes on oil tankers.",
+      "event_key": "iran retaliates after us oil tanker strikes"
+    }
+  },
+  {
+    "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts - CNBC",
+    "summary": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRXNzYm1DbW9uSUVoNEdiRERzODZ0ZU9uX3prc1NqRzBJRmpfbE54c2l2ZmdyRlNJVm9IMS03Z0dZMWJYSjM2MVN6Qi1RbGZqa2RYWU1OQ3FKZXVRUk5UbU5LRUxhVnI2YW80b3FiQWtWbkZjbXdXUmZCWFLSAYIBQVVfeXFMTXcyWEYyRmljRURjaTBVeUtUZThKWHVpWkdCTHY5dWRpNVRsNG9wT3NaZE9WcG9aSGdXd3FLSTFLMkVaX2dPQzVuTzlqRVBoTnBLbU1ET181MVB2VHd5M2V1X1Y2bGpHZjl5U2dnZ2xkWkcxWEIxaHNJbVF6TlVFUFdIUQ?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-09-06T12:02:47+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 12:02:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3ef5bcea005bfcbbf42d7e2e10cf6c5680120a4f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issues threats of harsher retaliation to U.S. attacks amid mounting economic pressure.",
+      "event_key": "iran warns more painful response"
+    }
+  },
+  {
+    "title": "Iran attacks US ship in Strait of Hormuz - The Hill",
+    "summary": "Iran attacks US ship in Strait of Hormuz The Hill",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSkZRQjVFR09xQ3BaSVdBR3N6TnQxQ1d1Njd1RnhXX3FOcEdmNHFWZGNDOTBmMjhRVk9DYVpCYWtORWt2ZlBGLThya3RvbkNWanVhY0JCTm14Tjdpc044dDNkTlZHMmp4STBWVnhDYkVhb1FrLUo2dzN0MjF1blRUNjBRek9PcUZaaGZNcW1yNNIBlAFBVV95cUxPUlRuamVFbkhTT090WXBOODUxZGNXVEpiWFE3ZWJCWE44OGV1dEU5THpsSld5UVJKaVMxWkxWT3hpYmRpcFpKU0VrNFhYZW1nMy1kTTFMejdiZDdwSFY2Y0pqZmZuS282cWtaZTE1NWVKaEVfd3FRV3ZCTV9Ua2x0b1FEQjRFYmhEX0thaFlFNW42SUcy?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-09-06T12:10:00+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 12:10:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ee2feaf74ec3cd0faedc0d62352bfe9c1c2894d4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.93,
+      "reason": "Direct Iranian attack on a US ship in the Strait of Hormuz indicates a military strike/retaliation event.",
+      "event_key": "iran attack us ship strait of hormuz"
+    }
+  },
+  {
+    "title": "Iran Says It Targeted Oil Tankers in Response to US Strikes - bloomberg.com",
+    "summary": "Iran Says It Targeted Oil Tankers in Response to US Strikes bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEZuSTVpYzJLWlZYeVRCOTBBU0U2NmU4SHFPOFFleDJHOUc4UTc5MXFSNkVFN05jUDZOMVoxYzltN3NqLU9WWjAta2FrQUYyR25pLXNaSmE2UGFTMDZ0NFMwUkRzTzZjOTd2OWk1Uk5qMXhfeXZaM3pIaWVBdUpoVUFRM0hOZGlIN191RUlfVkFsbG5WSG5Tdm90U1BKMkdhblgyNnlDWWhvdElDVU1J?oc=5",
+    "source": "bloomberg.com",
+    "published_at": "2026-09-06T09:10:47+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 09:10:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b5c076c196c9479fafd7733e3642d4f5c5bceb4e",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran attacked oil tankers as a direct response to U.S. strikes.",
+      "event_key": "iran targeted oil tankers response to us strikes"
+    }
+  },
+  {
+    "title": "Iran claims strike on unmanned US vessel in Strait of Hormuz as attacks intensify - New York Post",
+    "summary": "Iran claims strike on unmanned US vessel in Strait of Hormuz as attacks intensify New York Post",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEhUSzJ3MEFNLXBLZjRMNloya2dfOVU4U1MwVlAxV1VqemRFUlhrTWxGb1lfODNTS1YyVTR5VmhxWFEtWWhrMjg4X3puR2xTM1dxTGdjbnMwWnR3QkFzSnNxRmVIcXhSdVpMdGpqTEJKYUVqemkwTE5RTWxlSlF4bTItUG5MTTBfVUZ3clFwRGozdzFz?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-09-06T11:59:00+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 11:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a8633d5940e15967664de43c2e06470a1cddc13",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran claims it struck a US unmanned vessel in the Strait of Hormuz—direct military action reported.",
+      "event_key": "iran claims strike unmanned us vessel strait of hormuz"
+    }
+  },
+  {
+    "title": "Iran retaliates after US strikes oil tankers in Hormuz escalation - Türkiye Today",
+    "summary": "Iran retaliates after US strikes oil tankers in Hormuz escalation Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdXFrc3RVUWk1UzZtc05lbTJwTFN4TkFSSlFFMjhGalppa2x3dExEdE96Z3RsaXNUclVucmplYmFUMmtlbTA1OVVBbnFHa0cxN0NyLXJ3bWtsNHFTRnhfQ0lYaG9DQ2hlQkstYnBLZm0xOGtENHkzV3FvUno5d0JKSkJ2M0g2dUdjUWRxWVVrczVqZnNrcDFLaTVkLWNZUzJvQ1VGZkxIazNpdWF2WUE?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-09-06T07:37:53+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 07:37:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1f128cfcb4fe96592e31f052fe0a1534e5ba5bec",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran directly retaliated after US strikes on oil tankers in the Strait of Hormuz.",
+      "event_key": "iran retaliation after us tanker strikes"
+    }
+  },
+  {
+    "title": "Iran's Stern Warning: Changing Dynamics in US-Iran Relations - Devdiscourse",
+    "summary": "Iran's Stern Warning: Changing Dynamics in US-Iran Relations Devdiscourse",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEJ1N0FRekVvQ1FNQ3Y2ZDFGNDZrbWVqM3NqM0d2aVFhczlxMUZzLVB6RndmakFZMUJTRjBWSldjRU5PSDg3ajFXYjBSaGloWE1xQloyTDljMXB5dG5WUExvWGhMcWtLRkN5NDd6eGF3QkVlUHg5eU5POHQyRmZwcjRXMF9kT3NBMF9PNEdSUXNidjJxYmt3S3NmcWhWWVUxQklpM2xFM0pDdGxqSnRINmlB0gG3AUFVX3lxTE8tS0RzS19fVVJDTndrMDVKbnpNd1hoR01wQ3FaYVRXLWRWejFNXzZpU0YtX2tnbmFkeVhHS2FqdWJKQXQzOVlnbWVLVnNqNG1LNlgxaldkTWQtbmNGNVFXd3RQRGcyVERWazMwaC0wZWdiSDNXTnhub0VMcnZqeC1zX1JiRnRFczBrREVXRU04WjA5U2JVYW1KV2lOWmxXX3VqVGlvVHFWbk00SV9OQXBVOWxucE1YSQ?oc=5",
+    "source": "Devdiscourse",
+    "published_at": "2026-09-06T09:31:27+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 09:31:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "84cf06c5f53abdd0ff0199052435928b4f59844f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "Iran issued a stern warning, indicating hostile rhetoric and rising tensions with the US.",
+      "event_key": "iran stern warning to us"
+    }
+  },
+  {
+    "title": "‘Rules of war have changed’: Iran warns US of ‘more painful’ response after Gulf tanker strikes | World News - hindustantimes.com",
+    "summary": "‘Rules of war have changed’: Iran warns US of ‘more painful’ response after Gulf tanker strikes | World News hindustantimes.com",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQzBpU3lHTzRsdjNDR2pORHIyaEdvZnJ0S3hzRmpHX09qYzgxTHY1WnZGRV9rS0kxNER3dHRMVHBIa052ZkZELU8zb05SaWFlY2NCU2JRQmRKbklqRVBNX3hLcUV2dmRxa2t6SzBmbzBTVk5SbkhiV3hOSGlOUGJHQ21PbkRnTjRfaUNiMEVmX0NGaFFack1jVnNiS0hzVVhCVkJUZnZEVUtWSTd3QV9XcGU0MjN5eXVYbmllQzhKOWdIa2xxNUFSa2ZPNUlzRnk4c2lBQ1Y2Mmk1TElHLWxLc3lwajFpOXAz0gHuAUFVX3lxTE5rUXBIWmRPeXJNTk5Td2Y0azVjUzdLZ2phN2t2VWV1SlMzNHVsbmMyQUlLeE5PaHRSZTdreU14dU5hRXpyaUVNUHBnUnlGLUZmREpuMW5kY3dWMFRnb2dKT1VMVFBGZWttRnVOcDR4NUMyTXJna2xCOFpOVVRfVEdkSWcxSTMtd3A3WTMzamlyRmRFeXI3aFVtWEdERzMxOXF3WDItSHdoVXVZMkhsZC1kYVpwUWlXNW9MR0QweWliR1ZMOUNXUHhEUUtSOUVBZU1HRmw4U3lnVUIxMWNqNzE3QmRrTDFnS2FacS1wRmc?oc=5",
+    "source": "hindustantimes.com",
+    "published_at": "2026-09-06T10:54:24+00:00",
+    "raw_pub_date": "Sun, 06 Sep 2026 10:54:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "91d2f0b234e4cd7ba9f17394395c8cb995b60be8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran issues warning of a 'more painful' response to the US after Gulf tanker strikes, an explicit threatening escalation.",
+      "event_key": "iran warns us after gulf tanker strikes"
     }
   }
 ]
