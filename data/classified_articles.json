@@ -1,206 +1,529 @@
 [
   {
-    "title": "JD Vance to head US negotiations with Iran: What comes next? - ABC News - Breaking News, Latest News and Videos",
-    "summary": "JD Vance to head US negotiations with Iran: What comes next? ABC News - Breaking News, Latest News and Videos",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXoxbWlQaDdUZmQxWjZaQnFoajJmSmNqZUVUNW5aWGdkSXNueEE0OEZGRzlvTGF4TllZbTZlRDZqRVJSNXF3ZDM4TlVuWkZsZzNzeVUyTkxROGw1X3ZTTFJGUmdIU1NVeDc5WnlhNUx3YUl2cHRmbkdCb2VFbGh0ZGhkNjRwZUE0LVHSAY8BQVVfeXFMTmswcUFIclBxaXVZaWRreU9IcFlDMGtmRkU1LVQ1S1JpMkdMdnQ0NmpoUmMwbDFaWGVwR0JhNGk0QUprQXBPVGVwTXVFNWg5OW1PYThwLXgtc1I1UzFITlViMjdNU1JyREZQUldkb2RsMUlFNjdWVENlcDlMWTV4WXhHWkg1Q0RCQldHMWhyaHc?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "published_at": "2026-09-08T17:12:30+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 17:12:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bb747cef85cc460ae4d12ad761bbc05c7a35e74b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "US appoints JD Vance to lead talks with Iran, indicating active diplomatic negotiations.",
-      "event_key": "us appoints vance to head iran negotiations"
-    }
-  },
-  {
-    "title": "US strikes Iranian tanker off Kharg Island; Tehran threatens retaliation - ynetnews.com",
-    "summary": "US strikes Iranian tanker off Kharg Island; Tehran threatens retaliation ynetnews.com",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKZFA0cTdSNUVra25SQ0VnYm9oQVdRNVJCelRacjJ4a0FBRUpGRnByMzAyRmtVRzV6THcyZHRkUXNqZUU3MTd0UFJJUG1LZmZ5UzBGbmhCRQ?oc=5",
-    "source": "ynetnews.com",
-    "published_at": "2026-09-08T19:51:34+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 19:51:34 GMT",
+    "title": "US strikes Iranian tankers in retaliation for attempted attack on warship: Official - NewsNation",
+    "summary": "US strikes Iranian tankers in retaliation for attempted attack on warship: Official NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0eWlERVFDTjI3d3kxYVA0bVFrNVdoNk12d2RQSHN4OUMwaHppSUpBb2l4Mk1EQm1WcFlMZS1mMmlnY1JNRHdEa2tqRkhIVlVrSTYyVkQ4UmdBTVJXNHZHVXZxMGlOcEtsbnhGYmE2VEpfNUFNVkc5NHRFQVlWd9IBgwFBVV95cUxPcUZXVGpySWFhMU94RVhHNEhwejZkUmlUZWNNYnF5emdwUUstRl9HX0pZbUpmU1V1VGYzeGxVSGR1OTF1NWFSazJVVndRbGhVS2gxN0UtWmVLZjZKTVpmNWl1azJZRmRVb0l0eC14WWlPUEpZLUI3VWhpWlhOTVdqa0JLRQ?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-09-08T21:16:01+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:16:01 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b2ebf3071f169f0580bb9ab2ac18a9f5b068ac7c",
+    "article_id": "94ffa8c610cabc669c93d04fea9db8c11719b60c",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "US conducted a direct strike on an Iranian tanker and Tehran threatened retaliation.",
-      "event_key": "us strike on iranian tanker off kharg threat retaliation"
+      "reason": "US carried out direct strikes on Iranian tankers in retaliation for an attempted attack on a US warship.",
+      "event_key": "us retaliatory strikes on iranian tankers"
     }
   },
   {
-    "title": "Exclusive | Iran Launched Undisclosed Second Wave of Attacks on U.S. Navy Ships - WSJ",
-    "summary": "Exclusive | Iran Launched Undisclosed Second Wave of Attacks on U.S. Navy Ships WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkx5bjVGY0Y4RGs0QURQZTRmUGZHN3JTS3Z2alRLcXlfOFNTQzBlTVFzMXpTa2lhazQ3b2FGRFdWX1l1M1JielF3NTlreHpOSXptdnlxcTkxSHN6WU40ZXJaSldoU0c0OXVibTZ0NGFvNkpHLXF6Y2hmTnVOMldrTnZNV1lpU3FuWS1Zckc1VmxkcU10bm5MaWJYalZiNUJUcDREUnVJTGtLN3VET2tNSEJwVQ?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-09-08T19:53:43+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 19:53:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b44afc89dce3153e7c5b61afc7d9ef36a7d14499",
+    "title": "U.S. strikes Iranian tankers after more attempted missile attacks on Navy warship - PBS",
+    "summary": "U.S. strikes Iranian tankers after more attempted missile attacks on Navy warship PBS",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM0JMMTR3aUhVU0Z6MlllVEtjMHNCcHlrTXlROUF0b2RwbkZkOGMxc2NGWFM2NkREZmFIMHpRUG1id2F4Q3FvcVRjVnRTZTFtdFg1VGp3MG5TaE5UQ21ybDJrTU1lM25MSmtfeDhHbndXcHdzR3g3U3lyYTBfZl82WDVtMEN2U3h2dVh3RFlNaWVRNEsxT0VtTThVSGpLVzk4TC1rcmFOb2ozQmJGUVYzWjdxd0FYd9IBuwFBVV95cUxPVEEyQUxDbGpub3JnR3k5TTd6NHVacGd4ZkliWkZJYXItejc5c2VldHIydDgwRnBuRFh5RXFzcVhYYmQ3NklyRWRCajlVU25ubTV3TFRMQ0NnSzV5aGQ3WUdzb0dhdy1YaW91ZUpkQXAybzByYVVxcmdZMzE0Q0R3MXRpaWExNTF5NTR4T1AxMmlZYnBPU0NsMk1FRjh1RGp0c1p5Z0x6MTQ3N3pXWEJDeXZ6LVA5NVdSOEIw?oc=5",
+    "source": "PBS",
+    "published_at": "2026-09-08T21:32:12+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:32:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e6f98fec1a4aaa636d87ed66b8fa6cd407a894ba",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct undisclosed attacks by Iran on U.S. Navy ships constitute an actual military strike/retaliation.",
-      "event_key": "iran second wave attacks us navy ships"
+      "reason": "U.S. carried out strikes on Iranian tankers in response to attempted missile attacks on a U.S. Navy warship.",
+      "event_key": "us strikes iranian tankers after attempted missile attacks"
     }
   },
   {
-    "title": "Houthi Attacks On Saudi Arabia Could Open New Front In U.S.-Iran War - forbes.com",
-    "summary": "Houthi Attacks On Saudi Arabia Could Open New Front In U.S.-Iran War forbes.com",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlJzdDI1R3B6UGI3VzBwTkJRNFBXVk01ZTBHdlNmRUJaakdqcEVUcmVCQ19QcW1adkdtMVRCYUh4aDA0Tm9PcllPMGJpOF81d3VIQmhwS2ZuaG9zZ2JnVk9XbFZUMC1rWFFyYmZvbjRqcHdkWjBuQUE4RUF0dnEta240dE5vOURFcVZWUkltNFoyUFFpVUZoZFNwOUFCenp1QTdrcmx3M0xmdkNmSWNhTllkeHY?oc=5",
-    "source": "forbes.com",
-    "published_at": "2026-09-08T16:40:34+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 16:40:34 GMT",
+    "title": "U.S. Strikes Iranian Tankers in Retaliation for Attacks on Navy Vessels - News of the United States - NOTUS",
+    "summary": "U.S. Strikes Iranian Tankers in Retaliation for Attacks on Navy Vessels News of the United States - NOTUS",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTVOR0R4c1hlSHdtZGlOYnFaa1JSODNNZTZUZUlWSkQ2WjFCLU9VUFBfU2lMQzAtX3o2ZkRic0dKUHNndHpreWNEUUpoWXU3Vlo1eU9aT3Z4RGRfOGtVNWtHUHd1ZV9VWjdPd3hud1RQZFliSVVESmNlMTNnREdsMExGdw?oc=5",
+    "source": "News of the United States - NOTUS",
+    "published_at": "2026-09-08T20:58:40+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 20:58:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5d52c39b98be9549b7749b622355a00945c418b5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "U.S. carried out direct strikes on Iranian tankers in retaliation for attacks on naval vessels.",
+      "event_key": "us strikes iranian tankers retaliation"
+    }
+  },
+  {
+    "title": "U.S. strikes Iranian tankers after attempted attacks on Navy warship - NBC News",
+    "summary": "U.S. strikes Iranian tankers after attempted attacks on Navy warship NBC News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-09-08T21:53:18+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:53:18 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9465d85c68a3ec472e96b50dfcf2e0593e931573",
+    "article_id": "e82eb79cb702c44cd71dd0f5841be269970feaa3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US conducted direct military strikes on Iranian tankers after attempted attacks on a US Navy warship.",
+      "event_key": "us strikes iranian tankers after attempted attacks on navy warship"
+    }
+  },
+  {
+    "title": "US strikes Iranian tankers after more attempted missile attacks on Navy warship - AP News",
+    "summary": "US strikes Iranian tankers after more attempted missile attacks on Navy warship AP News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-08T21:13:00+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "76d8a76ae35136760000ba46271ac7a100a4b427",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iranian tankers after attempted missile attacks on a Navy warship.",
+      "event_key": "us strikes iran tankers after missile attempts"
+    }
+  },
+  {
+    "title": "U.S. Strikes Iranian Oil Tankers, Drawing Threat of Reprisal - The New York Times",
+    "summary": "U.S. Strikes Iranian Oil Tankers, Drawing Threat of Reprisal The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkpTRGVrTlFEREt5SXZ5XzYtaUhFa1kyYnFqTmg1N0xaOU5DbWlORWRTS3BRWEwyQlhFaXIyZEp6ZmQ4N3dUQnhiMDV3bnZJa1ZmWmU2STlTZl9UTERDNW40SE85SlAyQlJuajBsenpXY0x0MGszV055RF8xNTNSZ1lPYVIzTnc?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-09-08T22:13:04+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:13:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aa401ef0c0a52dd49820784bc0a4fc061f0446f9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out strikes on Iranian oil tankers; direct military action with threats of reprisal.",
+      "event_key": "us strikes iran oil tankers"
+    }
+  },
+  {
+    "title": "Tehran threatens vessels in Bahrain, Kuwait after US strikes Iranian tankers near Kharg Island - CNN",
+    "summary": "Tehran threatens vessels in Bahrain, Kuwait after US strikes Iranian tankers near Kharg Island CNN",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92WjZjZEV5NnlTM1FXMF9ObzdZaDJobjNaNk9LazVNd0owSUE4YkhTYzh0cU5hYmk4cmFLV3RCYlBPYXJ2Z05ucHNSVEZWSFVxYjNmS0FWRmRkRWxVekM4SDFHWGtBZ3RIMHRnWFJBNEw?oc=5",
+    "source": "CNN",
+    "published_at": "2026-09-08T20:45:38+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 20:45:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b695246f685ef92be1f9429bb15356ddfa5ae25b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US strikes on Iranian tankers near Kharg Island followed by Tehran threatening regional vessels — direct military action and retaliation.",
+      "event_key": "us strikes iranian tankers kharg threats"
+    }
+  },
+  {
+    "title": "War expands as Iran-backed Houthis attack Saudi cities and US strikes Iranian tankers - Al-Monitor",
+    "summary": "War expands as Iran-backed Houthis attack Saudi cities and US strikes Iranian tankers Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVGtuNGY1YWhUSTJHRVY5eXJoQVl1eEF0c2l2LTNWZkR3S1FLVnkxYzVsa1hNNjZTaE9uYTEzSi1SenQzZE5QNlY5UGV6WFN6dWpUVk9VOGE4OGdub0d1bEZ5YW1iTEdINkJlTXRMQ210Qk1xT1NrcXlSM0l3OVRhTE5ya2hieU5hby1wOUozV29QZnhSbmt2bmh6c3JTQTlsemcydC05eFNwVk5mQm1BNnFIYlhqdlNpYWJn?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-09-08T20:58:12+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 20:58:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "da5b011ecfa13417a75a79bb3cce14ba341938c7",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
       "strength": 0.85,
-      "reason": "Houthi attacks (Iran-backed proxy) could expand the U.S.-Iran conflict into a new front.",
-      "event_key": "houthi attacks open new front"
+      "reason": "Iran-backed Houthi attacks on Saudi cities and US strikes on Iranian tankers indicate proxy-driven escalation.",
+      "event_key": "houthi attacks us strikes iranian tankers"
     }
   },
   {
-    "title": "New risk for US consumers as Iran-backed attacks threaten a second major oil chokepoint - Fox News",
-    "summary": "New risk for US consumers as Iran-backed attacks threaten a second major oil chokepoint Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVBXeUNDTjgybDZweUZkWjlwQlhkX2tNTkp5bEE2UFJVSk8wOF94ZGhVdFBjMnZQVTJUT21JczRFZUt0c19iakdNNGstU2Jtc2dMODZySkstblJLQXVzZG1NVk1HbVpETktJdkFtTXZQc2FQaGh6aUFUUENRSDJaZGRRcHFHX3RLRU85MWttWjNESTlZYXZYZTdiZmNRSlV3YUNoMnVVbnNCOVVXRnNPZm5NZDJPNl85SmlF0gHAAUFVX3lxTE83aE5JQ1dTa21UNmRYVmljckhRN0p1S292SWs5X3dfSjR1cmVyMVpheWF6S3hKUjdvaUZvd3ltWDFOaGRsdnBlbzRCMXd0LXZuU0hIcllWV1lMZU5pNTF3ZklsTVRvQ0pHRE5IVDQ2ZXUwZ2dISnRTbXF5Skd1NW9kbk5rd1VfbkZVTDd3R3ZQTE9EeGN3RGpDVmxfQURsbE01LUloMEd2RnFkTkkwYWF6aGFGODUtV3k1TkV2V1hhUA?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-09-08T16:27:43+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 16:27:43 GMT",
+    "title": "U.S. Launches New Round of Strikes on Iranian Oil Tankers - WSJ",
+    "summary": "U.S. Launches New Round of Strikes on Iranian Oil Tankers WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTm5FRU9TSTJJbkRHOXhQVzBPdUk5ZUcydjNSWS02ZDhSV0ppRDdBa2l0RDhDSEI0WlpNMWhMU1BCZk43Zk9GTk5pYTBJMVljQVRxbXhtNnBERmNFUkdTQ05XaGVLdzkwd2E0VUVmRUFTOTBETzIwWTZBcWxFMDZWQWdUQndGemJ1SkJ2ZWoyR09fMkR4WmFzNkpTSFVNM1BncG1F?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-09-08T21:51:23+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:51:23 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3f9d8fe8d512df3ff4cf1d9070099229056306eb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.75,
-      "reason": "Reports Iran-backed groups attacking or threatening an oil chokepoint, indicating proxy-driven escalation.",
-      "event_key": "iran proxy attacks oil chokepoint"
-    }
-  },
-  {
-    "title": "US missile strike hits Iranian tanker off Kharg Island, IRGC outlet says - Iran International",
-    "summary": "US missile strike hits Iranian tanker off Kharg Island, IRGC outlet says Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GZC0wQmd2VFhKcVl4bTVKaFJzaVBJR19pVmVyZnkwbHBEbUpvNUI0aDNrbEtjQUxpal9UTW1VYzYxbkh3SEt5dF9YWmI?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-09-08T19:29:42+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 19:29:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ac29973dfb6e0fb1a3f1e4646631b45f6b330542",
+    "article_id": "d3020ba9326e5e248c63b9e17aef1599e3b4095e",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Report of a US missile strike hitting an Iranian tanker near Kharg Island, a direct military attack.",
-      "event_key": "us missile strike iranian tanker kharg island"
+      "reason": "US conducted direct strikes on Iranian oil tankers — direct military action.",
+      "event_key": "us strikes iranian oil tankers"
     }
   },
   {
-    "title": "Iranian agency says US missile struck Iranian oil tanker near Kharg Island - Al Arabiya English",
-    "summary": "Iranian agency says US missile struck Iranian oil tanker near Kharg Island Al Arabiya English",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZBYlBZMHFrMHZ5NG9mSmJ5SFRVLUFRaU5IRWxlS0RFejFPbWl2TDFQRjdRSkRpZ2NsYmdXTGRjWVZ2RXVURDliQ2lFVDE3RERFLWNZQTk5cUpSSVlDalJsM2pXTWhwVi1aYjNNcDFUY2dCa3dkdENTS19KR3daMFkwRXRmNHNLcFZsSmtPQXQ4WHFEdndLX1JkdFJ1bDdCeFlBYTNkS2ZmZmFkTlZNeEFUVFFubmhBcl95WHZRTjYtU3A5YUNWX0tDMjQ?oc=5",
-    "source": "Al Arabiya English",
-    "published_at": "2026-09-08T19:46:00+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 19:46:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4af61990e15322461e2b4f4735528749fc07fab0",
+    "title": "Oil nears $100 on reports of new U.S. strike in Iran and attacks on Saudi infrastructure - NBC News",
+    "summary": "Oil nears $100 on reports of new U.S. strike in Iran and attacks on Saudi infrastructure NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkU0bkpZeXNwWmdHY0swdVpzNnN1aThuV1lPSXd5OVFlZmpVQ1dSRkp5SE14U29sdmZQX2NrekNLV0NfZjV4eFlUOW1GVlpuQnA1Wmw4OHJlMllvVGJ4TXJNai1SbDZhcDVyOGdxWkQ2VnR6QmVST2NReHF3Zl9NUkVaNFlnbllGY2Fz?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-09-08T21:15:27+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:15:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eaeabfc76baf330260402c96615c14332b6a3e68",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports a US missile strike on an Iranian oil tanker near Kharg Island.",
-      "event_key": "us missile strike on iran oiltanker kharg island"
+      "reason": "Reports describe a new U.S. strike in Iran and related attacks on Saudi infrastructure—direct military action.",
+      "event_key": "us strike in iran and attacks on saudi infrastructure"
     }
   },
   {
-    "title": "US sanctions target Iran aviation sector, escalating economic pressure on Tehran - The Jerusalem Post",
-    "summary": "US sanctions target Iran aviation sector, escalating economic pressure on Tehran The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOVhuYkFjOEY3RXRRc0paWTA2bWNBWkx2VG5vM0VYRUpfWUhZYzBHVC1fblZodEk5bS1yWFZrX2NQTDJkcjAzbVc1OUZ0WGVSX0U5SDZaVXpmUWFWWGY2dmxwNXlXeExMMXc?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-09-08T17:52:29+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 17:52:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1d316c91803886da6d921d61078db1b2ba599bda",
+    "title": "US strikes more Iranian tankers in response to continued missile attacks against US vessels - Scripps News",
+    "summary": "US strikes more Iranian tankers in response to continued missile attacks against US vessels Scripps News",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjhDUFdaSzdINjBYVkVkRDFibzRfamV1WnRqQ0NlNG1lMjJUZFVfald0cWtfRFdyV2FIaGtfbU45Rl9RbWRWbTVkczdWTVFseHZrd3RlUEJob3ZZOFZXWHFLckVHNWd5YmNwLWo3cWpRWXRyejdHbDIzTXV0SlhWcU14LVhqMnE0NWZ3Q0lwRUlfODA3ck5BQ2tONlFXZUk0R19mMTFWNzlVZ1AwdXVSQjg5TlZsa3RPc1BGUk9MdDRwSXNEc2RHTGxFbFVOcDBnX2c?oc=5",
+    "source": "Scripps News",
+    "published_at": "2026-09-08T20:43:54+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 20:43:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0d077c315aa052eb6b734d8600c92768700a8d84",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out strikes on Iranian tankers as retaliation for missile attacks on US vessels.",
+      "event_key": "us strikes iranian tankers response to missile attacks"
+    }
+  },
+  {
+    "title": "US strikes Iranian tankers plus other key Mideast news - AP News",
+    "summary": "US strikes Iranian tankers plus other key Mideast news AP News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUgxSWZaOWhTSTVEbEFLYURrY3Rac2FMMll6dk1rTDZFbThMc24yY3FNWHlLcks1dXV6cl9mWEIxdUxGUmx6NlUyek1lWFFISXFpSUxEY2Ixbzg5b3J2ZVZtemN0eTd5bHgxRzNzOG5MMUltajZvSmU3UlNSb3VwMFR2TTlnTFhlNGplRzVld2hBODMyb2p1eFl3TTZ0ZWZOUTNHV0k3UzZVSTBmVWNwNzgtcDdraWc?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-08T21:20:00+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:20:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a391455ef3111253bdfb63f4ad918aa2664a62f0",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports US strikes on Iranian tankers, a direct military attack/retaliation.",
+      "event_key": "us strikes iranian tankers"
+    }
+  },
+  {
+    "title": "Oil nears $100 as US launches new strikes on Iranian tankers - Financial Times",
+    "summary": "Oil nears $100 as US launches new strikes on Iranian tankers Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTZKVzRrTURkODJWT21uVEk5RU0yX1FXOGdaTHR4Ni03TnpsUVZPT0RzbzFUalI5VVNaZnZQX3piU19MNVhuM2RCZDJ5WXFxc09rbTE4Rnp3TGM4blV2MUx2cDBIVkdFbXFEQ1JEZjQ0dURyM3lTTmdCSXZ4Q2Q4a0k0OXo?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-09-08T21:48:15+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:48:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a5b73670d8621ae23991dab2443e69565298c9ad",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct strikes on Iranian tankers, a military attack/retaliation.",
+      "event_key": "us strikes iranian tankers"
+    }
+  },
+  {
+    "title": "US strikes Iranian oil tankers in Strait of Hormuz - dw.com",
+    "summary": "US strikes Iranian oil tankers in Strait of Hormuz dw.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OV3VIY1NYS2o1UXRSbzFnbk5CRFpfb1ZYWjZXMF9YWEk5a0U4V0hZS3A1X2NuVW85eVBLcXY4SFpxbUxhMlF2VDJFMDRHeWtSbzNlUGxFUDhNaEJueDVjMk9XVUR1clZxZER4ZUhLOFhiMzZ3YnfSAXZBVV95cUxQbGlJUDdhbkI5YzdMWmp4SHFZcmtCdVhpUWFaNEZwalNLOUhqeUZ4eFBCeUEyZURkUzFkWHQ4cXVZa3FmVUdkSnNIRm5aZ09jSWNjR0xTeW5xRi1FOGVET3BJREs2b2tWWHducXJnZEFKdS1PU2dR?oc=5",
+    "source": "dw.com",
+    "published_at": "2026-09-08T22:07:30+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:07:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eae55f803792dbdc6c01c662e25e13cf3f8c1ad8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Direct US military strikes on Iranian oil tankers in the Strait of Hormuz.",
+      "event_key": "us strikes iranian tankers strait of hormuz"
+    }
+  },
+  {
+    "title": "US strikes Iranian tankers after more attempted missile attacks on Navy warship - WTOP News",
+    "summary": "US strikes Iranian tankers after more attempted missile attacks on Navy warship WTOP News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHFGWjBWN0FrTHBsV09ZdEZXVENVTFl5QkpLa2h5RmhaeVpINVJwNmlLWmRaZ29GTjFEUG1WbW9xYjFyanY1M2VxZmRvdzQwb3Nqem9pV3gySW9ON29ESmY1dHNtZWk0OTktVDVNdDMtRW1xWnYwT015TzFLNk5uNVowR2dHbFUxTXY4cnhNNW5WdUgzeFpZYUxEODV4TlUyb1pBUzNpT1NHWGVjQXFiYWlfcG0?oc=5",
+    "source": "WTOP News",
+    "published_at": "2026-09-08T21:31:33+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:31:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2e5f816c7a1e0cbcfda751951bc744e4f3a627a4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.93,
+      "reason": "US conducted direct strikes on Iranian tankers in retaliation after attempted missile attacks on a US Navy warship.",
+      "event_key": "us strikes iranian tankers after missile attempts"
+    }
+  },
+  {
+    "title": "US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship - chicagotribune.com",
+    "summary": "US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship chicagotribune.com",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pU1UwZDIzNWczRXNJR2ZBQnpZZlFsQ2phZHVZdC02ZFVjejRseWlWbV9qSUZHSGJfZzJsbnVsVERfbFJXbS1QX09iWWZKNWtMRU9BUkN5Y2dyMjVtSFZrczVYUlZuSVJJVE0xQW81dXA5azBlT2VN?oc=5",
+    "source": "chicagotribune.com",
+    "published_at": "2026-09-08T22:21:16+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:21:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d12ea5181bb8f34e88c16f7d3c1f274731f200b0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US forces destroyed five Iranian oil tankers in retaliation after missile attacks on a US Navy warship.",
+      "event_key": "us destroyed 5 iranian oil tankers"
+    }
+  },
+  {
+    "title": "US military destroys 5 Iranian oil tankers - The Hill",
+    "summary": "US military destroys 5 Iranian oil tankers The Hill",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNVEVNaEtXVlpTZGM3SmJEQ3pCQksyVi1VVGpFMUlBWmVvb0RXWU5Pb3lkSGVTQnNsNXpockhRZHlGall2WktUUXVoWXRyc3dmWG5uZ3FNcThiNHRrU3loaHhPUlREZ01QUy1uZExoV2lnOWNLeTJmYWh5Z9IBgAFBVV95cUxPbzVEeFZFdzdWdEdkWXlMRWR1NXpiOFZVUGVxbjlLQ280SWxCVW5rS0U4a0FwcXdJSEo5Qmdacmc0RGNrY0h4eE83aWFfYmdwRGZpWkFSam1QYlJiS1RCY1F0NHNDTXJXUWZkU3lCcEpQOVNnbGw5LXJRcFJKM1o5cw?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-09-08T21:48:00+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "81ffac71e537efada8a907bdfe0598a0058538f0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US military conducted direct strikes destroying five Iranian oil tankers.",
+      "event_key": "us destroyed iranian oil tankers 5"
+    }
+  },
+  {
+    "title": "Iran Renews Claims of Missile Barrage Toward US Sites in Jordan - The Media Line",
+    "summary": "Iran Renews Claims of Missile Barrage Toward US Sites in Jordan The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWJPMTZfMDBzcUFzUWk3dGtzeDZPQ0xvd1hSenVuQnpBX3ZuLUw5cGc4cGlKNG5uVkw1dnFwdGZ2WnlXTUJQSHF3VTliWjBRUF9kZmlWUFZOTnNqVGpVd1FBMV9kZHRnNDlsMk9tZklwQUpmSmpldWpSbVg1YnM0b1ByT1JwcG9hYU1MOGpxZ2tCLUlXMEFCRDFwckNuekly?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-09-08T22:28:43+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:28:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "67bc7935e223662192e3b19d1f62099c2644b22d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.86,
+      "reason": "Iran claims a missile barrage toward US sites in Jordan, indicating direct military action or attempted strike.",
+      "event_key": "iran claims missile barrage toward us sites jordan"
+    }
+  },
+  {
+    "title": "US forces hit multiple Iranian tankers in response to missile attacks - Washington Examiner",
+    "summary": "US forces hit multiple Iranian tankers in response to missile attacks Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGhaejl4YzRVUmxRX0kyLWZXSWwtTHdNLWp1VjdpaFRMQlZhdUY1X2w2NzkyTHk4NXZMcGhkZ2lpTXJYdzFKd0ExS1JOb3d1dGxYb2hxdF8xZ29sTW13ZENtcktsYXp4R21aZ2tNLXR3dUpKMXdBbVpiV1NhMjFYOThkTEtEQklHMGs1Zy0tYk00X09HcjRIS0RyYjgtM0JHZGZTQ18wQnhsdw?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-09-08T21:11:00+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:11:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f4293d67b417b0e65e4281078b16aa186872455f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US forces conducted strikes on Iranian tankers as retaliation for missile attacks.",
+      "event_key": "us hits iranian tankers in retaliation"
+    }
+  },
+  {
+    "title": "US Missile Strike Hits Iranian Oil Tanker Near Kharg Island - The Media Line",
+    "summary": "US Missile Strike Hits Iranian Oil Tanker Near Kharg Island The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTFWWTlwcUZ6RVR6Y18wNE9RWC13SGJSOTRCT0d2dVlBdjBGRFVZeVRYbjhFMzU0SWZ2WnVOVWg5SVBsa0toajFvbnZ0NXJKZjFKYlVmRHV4dWdPREpBTDVvLWdpbDRtVjRENjdsc18zRnpZTkstNzhURnJGeEQ4a3o2TjlLWHFkVlVhdDBEaFlWMW9mdG1iSnNSZw?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-09-08T21:19:32+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:19:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fcd4e0e6deb094239d5e045c5cea13b45d3ac211",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "A US missile strike directly hit an Iranian oil tanker near Kharg Island.",
+      "event_key": "us strike iranian oil tanker kharg island"
+    }
+  },
+  {
+    "title": "US strikes multiple Iranian tankers in response to more attempted missile attacks - weareiowa.com",
+    "summary": "US strikes multiple Iranian tankers in response to more attempted missile attacks weareiowa.com",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcHUtN0UxaFdJOFU3cndoZEVoU1ZWR2w4dDAxZHJHUDdpWmd4YWw1QXNaejlfU3VJeVZFTHdRejVHclNwZWFRU2ZueWR4OGdHQWgzYTdlOVVaMk1vQjZ0MWRDRERmdHJGMDdSbHltNVdhTVdpbmxCWnRGUndnTWVxS1YzWHpQR2tzVG5GUFBWMXNoSkk2QnhaMkJhX1YwcGpwbHJsNXZPaW41WUwtZ3pFYWV1Wnl6YTA3X0ZKb0hOQ1FmWTJQQ0xQdjBXVmFYTzU0cnctNGl2M3dvZUJRcGU3cFh4Q2k2aWNHOEl5aHBXRUp3NHFRV2tiV0JDeW5QZGU2U0ZqMUctazU0bUxFNGNTX25kSGVIdw?oc=5",
+    "source": "weareiowa.com",
+    "published_at": "2026-09-08T22:22:00+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:22:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0bd4504ea86d3aaf15685ab08ec4ffff9627c6e3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iranian tankers in response to attempted missile attacks.",
+      "event_key": "us strikes iranian tankers"
+    }
+  },
+  {
+    "title": "Iran has launched missiles at targets in response to US strikes, while unofficial sources cited by Tasnim noted that explosions were heard in Jordan following Iranian missile attacks - Newsquawk",
+    "summary": "Iran has launched missiles at targets in response to US strikes, while unofficial sources cited by Tasnim noted that explosions were heard in Jordan following Iranian missile attacks Newsquawk",
+    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNUUhJdTczWUF4dF90RG9rZDJtcnZ5VS1wVm16aG5Oc09feHBtT0NpUkd1WU56M255WEJKaUJIMUdXM2UzNENNbHB2ZjFqUHgxN0MwTGVMbkNKaDF4QnFJNE5sM2tuRVE1cG9VR2pXUHotb2VNcHF4Sl9RcGQyRE5TU0ExZ1hMNjYyaWhvbTM5WmRrUC12LTRXTVVDQVdCRTJpbFRKYm43VEwySUduc0lZLXJLbG5leWVNNXZ5bFN6Wm9ZdUhhRUpyUW9YRU9fWGVjaEg4dEhvM1Bic1JmWUJrRVNOdzBGdkRPV0lJOFZIcFBZakJwalc1RVFyZEFac0NhZUJ3cEZ4SmhZSUlNU0ZBcldUeGtNLXpydzVLZlZIM2w0dktLMkRXZWJ4ZjFiQXRoYkU5U19OMXE1b1F0c0E?oc=5",
+    "source": "Newsquawk",
+    "published_at": "2026-09-08T21:54:30+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:54:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97cf85c6c1bdee08c29437d93a08ffe8aa47681b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Iran launched missiles in response to US strikes; explosions reported in Jordan.",
+      "event_key": "iran missile retaliation after us strikes"
+    }
+  },
+  {
+    "title": "US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship - Oskaloosa Herald",
+    "summary": "US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship Oskaloosa Herald",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWjlyMi1tODh0YWVUa1RmRHdZZmZjOWZfanVVbjF1dGo4VkV5MjlhaDZ0V0JZb2VadmZodWQtdk44Nk1IdnE4UVhOZl8wREJiVVM4RG9xVnF0RmN6dm13eXVPVlNaZ2otVzl2UTZMVHZIMzhkenBtNVpwR2UxaDd3LUxUckJLbnF2ajZSeWQtNVhCb2dDUDkzZ2FMWHJWMTF0Y3lJXzJjZUNnWUZwY3BIeW45NVM4OFk3YkRLRGJ6NElOYjBEbkgyYXF0Wmc2bmNTdjJzXzFjWl9RQjN1TTUweUwzOXhwOHN1c1pkeF9Obnh5c2ZCQW94WFdiMzBEOFhUQ0JWWmtic2djU1pz?oc=5",
+    "source": "Oskaloosa Herald",
+    "published_at": "2026-09-08T22:32:30+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:32:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "24aebd4744e83a1672f0b7ccde0efd235d5f4f64",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "US military destroyed Iranian oil tankers in direct retaliatory strikes after missile attacks on a US warship.",
+      "event_key": "us destroyed 5 iranian oil tankers"
+    }
+  },
+  {
+    "title": "US hits Iranian oil tankers after attempted missile attacks on American Navy - The Times of Israel",
+    "summary": "US hits Iranian oil tankers after attempted missile attacks on American Navy The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczZIejE5Ry1KSXp2UFJubHQ2MEpaVkY5QmJuMVpoUDlnUl82UXdyenRaWnNJakFEQjFZajduUHd1SV80TUI0MGZvZWY5UUxlNFQ5RG5TNkt5dWlvZ1RIMUhnQWxCSXJLTzJoXzRiX2ItMUo3MFMtUWpEU3VSMFhyTktLLXRCZUNvTFhpTk51WlhtczdpemZHb3doOUx1cVVfTU5kbGI3UmZ0OU3SAbABQVVfeXFMUEx1TjRRejBEendYU2xQTURNRVc3TVhIazNfNHJ4VzBmTDBRV1ZvTkctY2ZLdFBuTEkweC04dTdsc3VtOU0yOHVPTGgtM2hiWFdlSDA5TTJOUGYyM1JqRVJ4R1NBQzl4dnVjTnBpTjM0ZFZxbERFTlFocFM1NnZHUkVJS1BmeUVQZTZqSEFSMEoxTXBqVUdnWUZvdFk1VTJLbUdEYlJuVl9iMHN5a0ZWWnA?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-09-08T22:05:36+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:05:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cad59e330be36a15e28ab788ab6a4394eadc1e43",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted strikes on Iranian oil tankers following attempted missile attacks on US Navy.",
+      "event_key": "us strikes iranian oil tankers after missile attacks"
+    }
+  },
+  {
+    "title": "US bombs Iranian tankers after attempted missile strikes on warship; IRGC threatens response - The Times of Israel",
+    "summary": "US bombs Iranian tankers after attempted missile strikes on warship; IRGC threatens response The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUjBPamlVRXJWdmR1Z1Ezb2dpNmY1TkFhTm1MeG5YaTBqUEJfTmp3WEpoYjdHTUFxY29kVUt2cFJJQ210bmZSWmgtMnFqeWR5cjZlejdCNXR0NDhhdUxDTXlFWnUteldZNGlicmdQMmxxakMySlpaRm94a3RtTjBzWTZTRXlvQm9iZG5kUTJVanZBY0JRcjNXVzFBbVAtdktDNE4xMHNvMWh3ZXIzVThCV1I4R1dkZjRheDI2amNwT01GNnR5SWdvYzB4aTc4V1pVNWRB?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-09-08T21:30:36+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:30:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c3a100e46f6fc74985100c897a025505c18f173b",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted strikes on Iranian tankers and IRGC threatened a response, indicating direct military retaliation.",
+      "event_key": "us bombs iranian tankers irgc threatens response"
+    }
+  },
+  {
+    "title": "U.S. strikes Iranian tankers after more attempted missile attacks on Navy ship - Haaretz",
+    "summary": "U.S. strikes Iranian tankers after more attempted missile attacks on Navy ship Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZWVNdlF6c05BR1BPcUNtZ1Zaa2VZelZOZGRNVkd1eGFZc0YzUHBZV0V0Q3p2a3dSSnU2M1pxVFg0dDZVSFZkV19SbEVHXzBVczdVN0lqOHZjRzRiT3JSajkzY2dOTmh0NmxaRXctMFh2QThPb2lyRUVhcW5TTjJwb3ZxQkRyWnJ0TlpKM1c3TnUxaTBIM0MtMWhya2hvVm42WHlpSXQ0ZzUxMThLaFlJczVZbmpVS2VlYXo0WTBXVWhaYXNIV1FaTW1iTjZDQnJhTXMxRm4tOGRqNW1mMHc2X2tSRzFFM0V5cWxhV0RZZ0lyMkJ3SWxrUHdpR1VtVlFoMzg5emc3LWw?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-09-08T21:11:00+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:11:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "edab820b5020180efea0bd67582e217dff432b5b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "U.S. conducted direct strikes on Iranian tankers in response to attempted missile attacks on a Navy ship.",
+      "event_key": "us strikes iranian tankers after attempted missile attacks"
+    }
+  },
+  {
+    "title": "Iran threatens oil tankers in Kuwait, Bahrain after reported US strikes - TRT World",
+    "summary": "Iran threatens oil tankers in Kuwait, Bahrain after reported US strikes TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNHNJbmE3MjRZbUZmc3V4Q0FOUnYzaTc0aVNEcGRpWWJMRTZ5dWgxUWVNWk43eHhCVUhwdVZqNGZzaXE1VG9yQVhIaDNFODNlemMzTWxEaXk?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-09-08T21:55:51+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:55:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aea71e85e946f368dab3755ce034cf951abf8da8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran threatens oil tankers in Kuwait and Bahrain after reported US strikes, signaling rising tensions.",
+      "event_key": "iran threatens tankers after reported us strikes"
+    }
+  },
+  {
+    "title": "U.S. military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship - CP24",
+    "summary": "U.S. military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship CP24",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2Z4b0M3TUk2d3YyVWV2djM5ODVReFkwMGFKdV9jYzNOU05WNEFEWGR6WnlQSDhSSEtiOGNqUG9RMm1ia041SnV5dUpMX2JMcDloUDMzY01sSk51Rk1BbDIxczhGdkZ2cW5fQ2RGdUtJYy05VHRlUXF6eUwxOUpuMnNaQ0d3WElidmZtYURva2h5MC1QMU44THduZFFMTDAyUG5ydENxT3ZJSFlkYlNlY1RmRGlZdW5aeU85Y2JjRmY5UUFYU0lGSXVWX3pHZm5oeVU0?oc=5",
+    "source": "CP24",
+    "published_at": "2026-09-08T22:40:42+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:40:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "143a07bd45ca6bdb6ce2feb4fe4252ed137b7849",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US destroyed five Iranian oil tankers in direct military action after missile attacks on a Navy warship.",
+      "event_key": "us destroyed 5 iranian oil tankers after missile attacks"
+    }
+  },
+  {
+    "title": "U.S. strikes Iranian tankers after more attempted missile attacks on Navy warship - CP24",
+    "summary": "U.S. strikes Iranian tankers after more attempted missile attacks on Navy warship CP24",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3Y1VndwcEs0M0RtS1FFQVNCRUQtVzZKUVUwUmNtZVVtMGc0WUJQaEtmcjRjWnRQdkIzM2VvdTFWRmtaWm53N2NQSmJYZlhPZ09oSGdOQXpjeHRZbVFSNUd3U0tYRlM4WXZqc0tObW1UcW5VYXNzQ1RaUWFGS3EwNHdfbXdiY3c2VnVqajY5bkMwaXJaOTAweVdDaDdNZ2UzaldMQURCNHdlUm1nZS1CWnlFcEY5aVRhcTlFTThVOXY?oc=5",
+    "source": "CP24",
+    "published_at": "2026-09-08T21:43:41+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:43:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "be51dccca4dc24c26f7df987addcf4bf34b5bc29",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US carried out direct strikes on Iranian tankers after attempted missile attacks on a US Navy warship.",
+      "event_key": "us strikes iranian tankers after attempted missile attacks"
+    }
+  },
+  {
+    "title": "US and Iran continue to trade strikes. Tehran hits US bases in Jordan. - investingLive",
+    "summary": "US and Iran continue to trade strikes. Tehran hits US bases in Jordan. investingLive",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVB5THpLNnVPdkJZMEJGWFpfUl9WQWFhMnA1cHNLdmtJMG02RUg3R0taalVJckNzWFFtM2oxZE5FRTZmY0l2TVFReTNfV0V6MmxRX2VOUDBYWWVjbF84RmRoSUppN2dGMU9keVR4aUo1OEtWcmNxeGNKdk42VHIyQ2xkV0NUQTVQVDJybGhzVElXRGEwWnFhQ21uaWNLeU1MUzRLTVV3T25sbjA?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-09-08T22:43:01+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 22:43:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0c2bcd0943c8dc9cef72b9ad8f20ba3daf229fbb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports direct military strikes exchanged, Tehran reportedly hit US bases in Jordan indicating active retaliation.",
+      "event_key": "iran strikes us bases jordan"
+    }
+  },
+  {
+    "title": "Iran's chilling warning to Kuwait and Bahrain after 'atrocities of the US army' - AOL.com",
+    "summary": "Iran's chilling warning to Kuwait and Bahrain after 'atrocities of the US army' AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjBDN2xaeFJEaE5Ub19TS1NLTXctSFFwYndWaHc0UkRSbGJCM1diWXJtNjBiMlNTVFFZNU93NzlBTkhWYW9iUEpPUmpuZFM2dERCRTBLbDZLSGtUQzZkN1Q2ODBTVWI5SGVoQ0haX0laREZCSEh1RDRTMGV6eENTSXNUZVlIdmtX?oc=5",
+    "source": "AOL.com",
+    "published_at": "2026-09-08T21:24:20+00:00",
+    "raw_pub_date": "Tue, 08 Sep 2026 21:24:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eb049b39f4d70b3364c2dd13595a330e3ed06efa",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "US sanctions on Iran's aviation sector increase economic pressure and heighten bilateral tensions.",
-      "event_key": "us sanctions iran aviation"
-    }
-  },
-  {
-    "title": "Iran FM blames US for regional tensions, cites violation of June MoU - Tehran Times",
-    "summary": "Iran FM blames US for regional tensions, cites violation of June MoU Tehran Times",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXRIamo2QmRZR0l2Q0JabU0wN08tb3A3a2tOS21vZGdVeng0NVd5dzBSX25SaFpvT1ZRSEVHdkNRX3RFaWlOczZSWVlQaTR0TDlORk96cGVneENlZGxZZlRZZ0VKaU9vOGtuUmZKZ0xwTVBhMXVpd2JUZGlxcjFQeDNNMWgwY2E4ZXZNbUFfWDR4MmFSeDRYNjJSc0V5MFYtUGZhRWxn?oc=5",
-    "source": "Tehran Times",
-    "published_at": "2026-09-08T18:15:52+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 18:15:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d948e969ead20e58f0e4695278e2119ce88694ad",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran foreign minister blames US and cites violation of June MoU, escalating rhetoric and tensions.",
-      "event_key": "iran fm blames us june mou"
-    }
-  },
-  {
-    "title": "Iran Threatens US Bases and Interests After Reported Attack on Oil Tanker - Kurdistan24",
-    "summary": "Iran Threatens US Bases and Interests After Reported Attack on Oil Tanker Kurdistan24",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTR5d2ZjdjRMVEhWc3daQ1IxQTdweDBFN3cwWU9XbWVzSkJaelJ4THBCSDJMOEt4cVJ4eDBQeUZKRjR4RU03enNKSlJRaHFGMUVxa0xMUHFLQUhEcms0OHZEZEc0eF84RWl5cm9ybTN1bER0QTlnYXRtY1pDN0x3UDRrR2ZnZkVRb2MxMWNmeXF4U1BuUm9rMEQtSUVYYy1CYWZ0MXZIZFdhcFZJeU43SFVqc2dHY0tq?oc=5",
-    "source": "Kurdistan24",
-    "published_at": "2026-09-08T19:27:00+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 19:27:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3165e3105587a52306454b89f5582edb2bedf6ab",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran threatens US bases and interests after an alleged oil-tanker attack, signaling rising tensions and hostile rhetoric.",
-      "event_key": "iran threatens us bases after tanker attack"
-    }
-  },
-  {
-    "title": "Iran's top general vows attacks on US bases if more tankers hit - Iran International",
-    "summary": "Iran's top general vows attacks on US bases if more tankers hit Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qQmJGNjJxT1ZnTFZRMnVYajF2Zl9YU05kN1NFZWRidWd0S3U1SFVkY3BDTkJSeFNCajd2ZHMxV3FxSURIWFBET0JPeVo?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-09-08T19:08:44+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 19:08:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f1c8b2690943289950d0f116697976993f9df176",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran general threatens attacks on US bases in response to tanker incidents, increasing tensions.",
-      "event_key": "iran general threat attacks us bases"
-    }
-  },
-  {
-    "title": "Iran Joint Military Command Warns of Broad Strikes on US Assets in Middle East if Iranian Ships Are Attacked - bloomingbit",
-    "summary": "Iran Joint Military Command Warns of Broad Strikes on US Assets in Middle East if Iranian Ships Are Attacked bloomingbit",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1M3ZTNGx3ZFhjVFpFWGU5QXFadHNTQTU0RVpVSVZBU1hOc2JQWi1SZlNqU2NVZlJ0U3FVbHlrVUcxeExJdENjdk1qaGtEWWdDZ2ZKNQ?oc=5",
-    "source": "bloomingbit",
-    "published_at": "2026-09-08T20:12:10+00:00",
-    "raw_pub_date": "Tue, 08 Sep 2026 20:12:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7b11a6e50a807c1d583596f5ce868832953b15ae",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian military issues explicit warning of broad strikes on US assets, a clear threatening escalation.",
-      "event_key": "iran warns broad strikes on us assets if ships attacked"
+      "reason": "Iran issued threats to Kuwait and Bahrain, escalating rhetoric after accusing the US army of atrocities.",
+      "event_key": "iran warning to kuwait bahrain after us atrocities"
     }
   }
 ]

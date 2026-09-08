@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-09-08T20:42:26+00:00",
+  "started_at_utc": "2026-09-08T23:10:55+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-09-08T15:57:57.685545+00:00",
-  "window_end_utc": "2026-09-08T20:42:26.089880+00:00",
+  "window_start_utc": "2026-09-08T20:42:26.089880+00:00",
+  "window_end_utc": "2026-09-08T23:10:55.169438+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 25,
-    "keyword_filtered": 15,
-    "deduped": 12,
-    "after_seen_filter": 12,
-    "classified": 12
+    "time_filtered": 42,
+    "keyword_filtered": 40,
+    "deduped": 32,
+    "after_seen_filter": 31,
+    "classified": 31
   },
-  "finished_at_utc": "2026-09-08T20:43:34+00:00",
+  "finished_at_utc": "2026-09-08T23:13:24+00:00",
   "summary": "직접 충돌은 아니어도 대리세력 관련 확전 신호가 이어진다. 중립보다 경계가 맞다."
 }
