@@ -1,87 +1,19 @@
 [
   {
-    "title": "Qatar in talks to buy US LNG as Iran war disrupts exports: Report - Anadolu Ajansı",
-    "summary": "Qatar in talks to buy US LNG as Iran war disrupts exports: Report Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmw3X2o5dzhFSU0zY0JVeHVndkpRWkRGMUczcXh2Q3N6X1NmQ1JOOGVGWWdJcHNvMkIzbk1JcV9pbjl2U3VuNW1FT2c0VzRNOWhfYkZ1d25WeUw4bFJoWXF6X29FM3Y1cGlrV21jTDZlQzlKRGI1OTNIR0pYV2RWNmRHUUxsTlhzSGhJVWFFSC12YnoxRFVHMUFZdzZub1lqMzhkbFZQNGdNR3BxbkE?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-09-10T17:04:06+00:00",
-    "raw_pub_date": "Thu, 10 Sep 2026 17:04:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f24c6b1c3587386fc636cc7a90198bdab0a9c70e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Energy trade talks due to disrupted Iranian exports; not about Iran-US diplomatic or military developments.",
-      "event_key": "qatar us lng buying due to iran disruption"
-    }
-  },
-  {
-    "title": "Trump says ‘no damage’ to US war planes from Iran attack - The Hill",
-    "summary": "Trump says ‘no damage’ to US war planes from Iran attack The Hill",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVlHMTBTa2VXcHFxcURGZWxMemhIYTVITGltVS1DNExlVlE4YzF5Vm9BaktHc080MkRDeUZPcEUwTEk4dUE4aWhldTVqdm9ENGhXMzNQODlEOGhOMXFuVUpnWW42d2syczNLRGF0VmtfYzZjZlZJeXVKOXhRSTltZElDUnRwRXVoU25FQl8wODFabjDSAZgBQVVfeXFMT0paQmhPSllwOFdJOVpuNTIyOUZONldPUXl2bGtQMzBlV1JTNmc2b3JzOFBMY0ZGQXF2NGdQUHVyUkI5M2NaVTU4NTNMTkZzdGlZZk9yV0EwcEktZ0ZSMVowVWh1LUdKUkRyeXlWdUEzRENfbk1VUk5lTFBEQ2NheTJwNjU0dkRwdzZWRzF5cXByNjZtam1UR00?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-09-10T15:50:00+00:00",
-    "raw_pub_date": "Thu, 10 Sep 2026 15:50:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3949112973cd5414e2b9c39699c423661af6e1a0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports an Iranian attack on US warplanes (military strike), noting no damage.",
-      "event_key": "iran attack on us warplanes no damage"
-    }
-  },
-  {
-    "title": "US warplanes damaged in Iran strikes on Jordan base - Iran International",
-    "summary": "US warplanes damaged in Iran strikes on Jordan base Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lV28zdGpteWJTc3ZrNzdfb0hWdG5UTnZraEdWR2xIZU9ZQlNOSTZKSHlvR0dJVnlVMm42TFZ0amZSMG9qR1ZxZG9LSlJabG9mSWc?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-09-10T17:04:43+00:00",
-    "raw_pub_date": "Thu, 10 Sep 2026 17:04:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6eac58901175d0033576799489e48f68a9a223d8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran struck a Jordan base, damaging US warplanes — a direct military attack/retaliation.",
-      "event_key": "iran strikes jordan base damages us warplanes"
-    }
-  },
-  {
-    "title": "Iran targeted US Navy ships 3 times this week in close-call missile attacks - New York Post",
-    "summary": "Iran targeted US Navy ships 3 times this week in close-call missile attacks New York Post",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTI3aFhUdWV0b2FpS295Vy1jU2k0WVg4NWVqdjA0QUdGUXc3eks3RGx0ZTV0c21KeVQyNW9TVk54Y2dtQ1JVSjZYZXpqbkdoZE1TWE1CU1pNNDFpRmdac3hUTE5UU09UenE5a2lMSFdFamQ3VlJSOERyRXgtNk9jam53OWl3cmpxZURtcXl0cEg0TzdQb3hmQ3Jpc1E4aVhHQXpDSUludTcyZjk3Vnc?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-09-10T16:08:00+00:00",
-    "raw_pub_date": "Thu, 10 Sep 2026 16:08:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "077ab50cdca00341f8f79ac081e432259854d135",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct missile attacks targeting US Navy ships indicate active military strikes/retaliation.",
-      "event_key": "iran missile attacks on us navy"
-    }
-  },
-  {
-    "title": "Missile with ‘eyes’: Iran’s new missile can hunt targets without GPS, putting US warships on alert - The Times of India",
-    "summary": "Missile with ‘eyes’: Iran’s new missile can hunt targets without GPS, putting US warships on alert The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUVB5QTRacFp3MnpPNFRtR1J5Q09aYkRFN2VGOVhlUUEtbEwwOElIZ1F2UVQxTGo1TnpsTW5veEkzWlVWMkY1UWwzVkNIZFNQUUtZRmd4Y0ZuU2M3T1VRVXJGczRubjZOZjVrUGFOX0pRNnVyMTYxWkpURmN6c3R6N0NjYlVsbUxDTGNhMDhfMG9JS3RjSF9OT25scXhlZ0IzMUJ6WFJNQkVFOGlTV3B4Qkk5Q3dMNnVqMlNFekpGSkpwN1ZVUTFvX3lNMXhRVFRzZ3VfRkJkZmtJdmtfYURXbWRnMzNkS21QdWl0bGRUT1RQSXpfbDRfX1lKMEJvdDN0NHdfcklweDTSAY4CQVVfeXFMUDlzbWtFcUhJWXU1Qmt4NThzdG5nTnlCQlJmY3AwYmd2cmV6eFZLLW1sZThkc2tqaWVYaUI3dmFHSnVYRF9mNjAzeWNYZXcyVXEyZEE2MF92V3Z5SnFyczBlUVhZQm5ick14X1RKdDV4VXJYQl9pRzVjM1RiVF9EUFFReW5DT1VpYjJVMU14R1JaTkt2ZHJEeDkzc0NreWJwUnRWOFlUMUJNYjJvSVoxSGMtVXdmWHFzU2MyUDFWS05idjVpZkJwd0ZjNlZzdXYxbnF4dU9JVlZLb1R4MUg5QXJqNUs1eUN6TFlUaXNQVVdBN1lhQk0tZW85UUdITWcxTzlGZjhoZ1VsNjU2V3dR?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-09-10T16:42:00+00:00",
-    "raw_pub_date": "Thu, 10 Sep 2026 16:42:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4c5c2e2d5245c93b60d9eb28b97fa5f4659444d5",
+    "title": "U.S. And Iran Escalation Pushes Oil Above $100, Brent Tops $101: 13 outlets compared - NewsCord",
+    "summary": "U.S. And Iran Escalation Pushes Oil Above $100, Brent Tops $101: 13 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazY2T3dxcGZYWUxQY2RDVzZkbVBzUG1HTHRoejBweGVUMzBzd3NINHpSdnNzVS1DSkNGb1dvS2dMcTJHVHlBTjhobTFNQnpIcnh2TnlNdU53NDAtbEtoRXNmdHFqRmwwT2dGOUd6NDgzaGFBOWpMUFp4VkRRYUFKdDhBcmxseUQ2VngwMXV4QldjM2hLMzhkbVI4U1F5TjFuaEozdWVwNTV4Z0ZWaVJUeDV0aWtJWjh3Z080N0JTeEh2MENSUjROMzlTc0s?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-09-10T20:37:32+00:00",
+    "raw_pub_date": "Thu, 10 Sep 2026 20:37:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "40fe1932cb6885e69489a78ca7be9cfdbd20e3ab",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran unveiled a target-seeking missile prompting US warships to go on alert, raising tensions.",
-      "event_key": "iran target seeking missile us warships alert"
+      "reason": "Reports link rising oil prices to a U.S.-Iran escalation in tensions.",
+      "event_key": "us iran escalation oil prices"
     }
   }
 ]
