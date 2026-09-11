@@ -1,70 +1,36 @@
 [
   {
-    "title": "EU settlement fails spiked in April as US-Iran ceasefire signed - Global Custodian",
-    "summary": "EU settlement fails spiked in April as US-Iran ceasefire signed Global Custodian",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW1ZUWd0aDlybElUQUtZV3NYNG44QmNmN19RbnlweTRHb1F4NjlBMzRUZmk4NjBFaTl6ajAtcFV2Z24zT2JuRWYweXloWWp5QUxYbVcySzM0bWRwc09oaHVaWXNXX3dSUXpSNmJZbVMwYllNT1ZnNUpVSERYYk5yZ1hWcUhoNHpPLTU4dDY3djM0UFNqcVpLTmZJal8?oc=5",
-    "source": "Global Custodian",
-    "published_at": "2026-09-11T14:54:57+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 14:54:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "abb376bfd903a593bf304ac6bf36b29535e66802",
+    "title": "Anthropic reveals Yemenis vibecoding ballistic missile guidance, Iran using AI to target US Navy - JNS.org",
+    "summary": "Anthropic reveals Yemenis vibecoding ballistic missile guidance, Iran using AI to target US Navy JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmdQWXYwbEVRR0ZQUUVoWi1TR1htWmZBaVNhNVA5VDZtSEcyWlUxWlFaTTFVeEJoSXJ1akNIQkJFN25mMHpWSnlwdkhsSkV1NDlIMk4yMVpvR1BTM2ExeVVSN2QzSDNFUTE2LTlKYlQxeGQ0SUZVbDhabWpzSlUyZGdKU2dtSkNpWWlMS2JFNEdxTkxDM0RNNEttNUpjaXZuUUJBNUFlMXROMXcwaURpd0l6dmx4OVI1WVdxaVdFSV9VVXo3b2RNdQ?oc=5",
+    "source": "JNS.org",
+    "published_at": "2026-09-11T19:20:46+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 19:20:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c518e774f9a0281bb4daa572ae0bf85885b3f5c8",
     "source_weight": 1.0,
     "classification": {
-      "label": "ceasefire",
-      "strength": 0.95,
-      "reason": "Headline explicitly states a US-Iran ceasefire was signed.",
-      "event_key": "us iran ceasefire signed"
+      "label": "proxy_escalation",
+      "strength": 0.85,
+      "reason": "Iran-linked Yemeni proxies employing AI-guided ballistic missiles to target the US Navy signals proxy-driven escalation.",
+      "event_key": "iran proxy ai guided missiles target us navy"
     }
   },
   {
-    "title": "Modi holds talks with Putin and Iran's president before BRICS summit of 11 nations - The Washington Post",
-    "summary": "Modi holds talks with Putin and Iran's president before BRICS summit of 11 nations The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1gxTHhDY01waXA5YThZYTlMQUR5OFhyUmQxRlllT0Y4TkNpR01nZHluT2c3MFdONkM2V21sWGY3cjRJMmRHd2Q2VkdhVDUySEd5UEEwYkRyX1NYMkRPNW4zVkJtTVpJWUVUWWdsbGdQZk0wTEhLZFJoa0QyRDR5eHJjTnVEYW1NUERlM080WEttZ1lzS2xTelFNZmRPaUc1OHc0bzJIaE9TTXpBWDU1VUJLMGlyRGVwOG5ZckRUaW9OTFMwdVM3Yk8yTFFIM1FOazJ2cg?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-09-11T16:20:44+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 16:20:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e685aa50e98137ed6d97eb0b04b5e65368c43413",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.25,
-      "reason": "Bilateral BRICS preparatory talks, not about Iran–US diplomatic or military developments.",
-      "event_key": "modi meets putin iran president brics prep"
-    }
-  },
-  {
-    "title": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount - NBC News",
-    "summary": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount NBC News",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU1kaDdOZGExX2pHZ0piWTU4YU5pUGlhNTI0eWdoczhTcHIwLVVrSVlVRDhqZXkxTkdFaDVMb09FS2x1MXJlMGpCVzI1Z2E5MXBMLW5rODhzQnotRGdMRG1mRjV6QTNYTXFCTTJWdnB1WEF0R2d2ckNvVFVSN0VzWUZvd2hUeWNsYlJWN01VeGVUTnFRMlpERmZiN3FvOVFjZ0pWYnlzeWRCdw?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-09-11T18:07:23+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 18:07:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dfe4066518fdb6d9561f45e56acf509bf9e327f7",
+    "title": "US urged to adapt air and missile defense after Iranian attacks — Breaking Defense - UA.NEWS",
+    "summary": "US urged to adapt air and missile defense after Iranian attacks — Breaking Defense UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdThrQ2g3YWl3UWJubzdCUHp1SVVkdFdiOE1oTmY5aDBLZG1KQlI5WVhXYzBQQWhScGNjNkJ1Y1ZKdm5NN1htTGdXbFBPckNZaXBRMGtMVGRfMTJRQXk0aExyUWdNWWxsSmtnVnc3d1Z6cXRRbXZkejhDOERjbnJJVmxaVmxyRmdnQnlqd3FrSE9JZTdmWHlFX2s3cFVVdmc?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-09-11T19:55:15+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 19:55:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "136710c71c6cf512b977f0553dd0eafce446ab03",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports describe direct U.S. attacks on southern Iran causing civilian casualties.",
-      "event_key": "us attacks southern iran civilian casualties"
-    }
-  },
-  {
-    "title": "Iran pursues cautious escalation ahead of US midterms - DW.com",
-    "summary": "Iran pursues cautious escalation ahead of US midterms DW.com",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEQ0NklZSUV1TFFkNk1MTTgzQlF4RnFCeEJ3SGdKdUJYYVQ3bFdwUkgtdmpLeFNlbUxmT21iQWFlWGMtTEFERTE4UUNWZ1lwUlVadTQwRnRFamZINjVvcFJsNmZQLWpQSGphX0dOdGUtZDFmdXFLTFFYaVUxS2FpZjBOTFVMSzBSUGQ1dGJ0d9IBjwFBVV95cUxQbnM3TEx3ZlI1ZjNVSkxrSDV6Y0ZDUXNFOUFWelhFeE82ci1tVjZMOWtraHNkMHprQzVsZ0p3XzhsbW5lajM3UWJtZG5uc1ZoRVNfOW9QR3ZPUGxnYk9KY2lhaUtDNHhBM3pseS1jY1VVX3RzRHU2Um5TaHlTMmxiNUtocnNUTkMtblk3T3Yzbw?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-09-11T14:57:08+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 14:57:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "68f7f127c3fec12e0be3697bcacbddeb7dc53923",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran taking measured escalatory steps ahead of US midterms, signaling rising tensions.",
-      "event_key": "iran cautious escalation pre midterms"
+      "strength": 0.7,
+      "reason": "Discusses Iranian attacks prompting calls to adapt US air and missile defenses.",
+      "event_key": "iran attacks us defense adaptation"
     }
   }
 ]
