@@ -1,70 +1,104 @@
 [
   {
-    "title": "Iran has resumed production of ballistic missiles, which the US called \"effectively destroyed\" - Українські Національні Новини (УНН)",
-    "summary": "Iran has resumed production of ballistic missiles, which the US called \"effectively destroyed\" Українські Національні Новини (УНН)",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYW5rUnRTTjdhSWJkTGlXemVTeUtpeFFJVUNFSTFOOWFQeHd0VjVlQVY0OVdZVmNqX1Z4NGZSbkZfT0R3Qkp2djF3Z0FMQzdSX182NXFsYWVrZVZTaFNNam9BcTZDTlRzUllRY01yNEpzTUJJbjl1ZGZ3OXZfOW1wTTEyOXZxY0h3d2RPamhFZFNSb2FVSlVZRlJNM2FHZXl5bHZVVDZFYmJDZ2JvdWVDSndvR0PSAbMBQVVfeXFMT2dHbWlWTDd4a3pkazhEMFpaSWtHRXF6Zl9XcnBrVWM0Qk5pT1BuZTNpSXNsRE1RSEJJLS1kcENiSkUwRENkamhEZlVybnpWTUpvYmduMTdHWW9VWFY1cklfYUlqX1pRdERLcFJ4YXBKdTF5eklxVDNzajdJX1FnU01vaDllRlZrQmJHbUtCSi1OV2x2c01Ndm9LVG11SlZXdEVWU1gtVlJwdmFmRmI1OS03TFk?oc=5",
-    "source": "Українські Національні Новини (УНН)",
-    "published_at": "2026-09-11T03:15:20+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 03:15:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "612c066dc36efe25ff762436d21b1ff877ef2938",
+    "title": "US-Iran two-week ceasefire nears expiration amid fresh negotiations - News On AIR",
+    "summary": "US-Iran two-week ceasefire nears expiration amid fresh negotiations News On AIR",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUg2cThrLV9KRDlGN3lUclpsN2xrNnFSbm8ycEVCREpVTm5jTmk4YmRXOTNkNGhIb2s0X1RYcFEwdDZxcTFtakVlSHNVbElVeTJzcDRCUlF2c0hQb3pKakRVU1BzczdlYzg0ZTA0aTY0VDUtdzNJT2JrUzVJaklMc21Da3VTMDRpUEdYaDhwaEp1NmZRWGxOQg?oc=5",
+    "source": "News On AIR",
+    "published_at": "2026-09-11T08:03:15+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 08:03:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "75bb6c66144a2c0ff6f7766a827e4c2795868948",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Fresh negotiations ongoing as a two-week ceasefire nears expiration.",
+      "event_key": "us iran ceasefire negotiations"
+    }
+  },
+  {
+    "title": "IEA OMR: 2026 world oil demand to fall by 2.5mln BPD (vs prev. forecast of a 1.6mln BPD fall), citing impasse in US-Iran talks on resolving their conflict. - Newsquawk",
+    "summary": "IEA OMR: 2026 world oil demand to fall by 2.5mln BPD (vs prev. forecast of a 1.6mln BPD fall), citing impasse in US-Iran talks on resolving their conflict. Newsquawk",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMXIxbmxDbmwzYWlWaGZJWFVaRmxhQkpzU2ZNbHlYWnhQdGp2dHZsQWlGUnd6cDFtYnF5UUtmd1JXbF92aHVBRnlCZ3dUM0FZR0xBWDVCTGtDNDEydHczT2VORURhYkdoYm5mVFhVb0tKNUhhMUFfaWtKdlMtLWc3Xy1kSTNGbENkeWtSWjAwSlFMekdjTGtnUVRaNXZmSVpwSnFwREp3NS1GdzVENU56Z1RhTjRnd19ZZ3ZkOGxkTURGcUFtM2ZGMW5ycHpGN0wzcXBDYWt3YnhZQ0ZjejJfNHZsQmNZVFllNmJ5X3NQSkp0V0ktaW1zSHprNkNEckJ1WmJoRE92WFN4a0ZUOHQyYg?oc=5",
+    "source": "Newsquawk",
+    "published_at": "2026-09-11T08:21:14+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 08:21:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "af41d0ebbd4cc56ca59f56207a81ea41441a4df2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "Iran restarting ballistic missile production raises military capability and tensions with the US.",
-      "event_key": "iran resumes ballistic missile production"
+      "reason": "Article cites an impasse in US-Iran talks indicating a breakdown of diplomacy and rising tensions.",
+      "event_key": "us iran talks impasse"
     }
   },
   {
-    "title": "Trump Says ‘No Regret’ on Iran War as US Aircraft Take Hits, Canada Keeps Talks Open - Open Magazine",
-    "summary": "Trump Says ‘No Regret’ on Iran War as US Aircraft Take Hits, Canada Keeps Talks Open Open Magazine",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHBQYkhtLTJVX3BXbFYwQ3p2X2d0aExZMVlnX2pHZjdtRE9oeXdfUFpRLTJZVWxBM1dMZjhQYnJTeV9hM0g1cmdqMDZmWlFweF90NnljaVJsa19LQkJGc0F0ckpncVBNWUJTQ1ZkWE5HbDdycUk5ZGhrNFA5VHlLMlVnNTQydmhvekM5NWJOd3ExWXk5cDJwOUFGeGFBZUZ3SDJURkxkR2U5SWU2RUtBT0Nzcy1iUQ?oc=5",
-    "source": "Open Magazine",
-    "published_at": "2026-09-11T03:58:12+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 03:58:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3a1ea631c3136df4386b58d4486a7f656d8381a8",
+    "title": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes - cbsnews.com",
+    "summary": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
+    "source": "cbsnews.com",
+    "published_at": "2026-09-11T10:43:19+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 10:43:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f3907f7ded40d8010f91d309e6f2b79e880485ea",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "US aircraft were reportedly hit and Trump made hawkish comments, indicating direct military attacks/retaliation context.",
-      "event_key": "us aircraft hit trump no regret"
+      "strength": 0.86,
+      "reason": "Reported Iranian strikes damaged U.S. jets—direct military attack reported.",
+      "event_key": "iran strike damages us jets"
     }
   },
   {
-    "title": "Pakistan is pressing US and Iran to resume talks despite lingering mistrust: UN envoy - Anadolu Ajansı",
-    "summary": "Pakistan is pressing US and Iran to resume talks despite lingering mistrust: UN envoy Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTElVRUdWdHBRNGIxT1czTDh2MmxXQW83YWNpenJrTXoxNlV4MTBaMldFV0JPUjcwTDQ1R2pRb240NEZlSmpzdmNGQ0NSYUkwQW5RbnU3bUdNazBhUE1BeWpuTnVBaWhqdHlPWmNqTnpqQXFXTldMeGlWdlZZQWtQSXdVU2tTZFpCRlRnX3g4V2t0djZ4WjVhWWVTRDJXRHoyOU9NUmVKa3NnVG91Qm1aTHVac2Z1NjlZcWhGa2xCOWtQeW52RV8yWDVn?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-09-11T03:51:34+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 03:51:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c2b0c2639b46ebc12a43b933f430404ad39c1a63",
+    "title": "Iran Resumes Ballistic Missile Assembly Despite US Claims of Destruction - Межа. Новини України.",
+    "summary": "Iran Resumes Ballistic Missile Assembly Despite US Claims of Destruction Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xMlA2V3RBWUxYSzliRkJDNEdqS1M5UXBKN3ZnejlWZmFwSUdHQWZDS3czOUhhTWNzYzVydGVaRElLMlY5bE42Zk9JYm1SMGxzTzhRYjhoQktFaTEtckN4VzN0MkZ1ajJNY0U4?oc=5",
+    "source": "Межа. Новини України.",
+    "published_at": "2026-09-11T09:34:24+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 09:34:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0d28551569ac99eb07913686461f8af0f317db75",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran restarting ballistic missile assembly signals military escalation and defiance of US claims, raising tensions.",
+      "event_key": "iran resumes ballistic missile assembly"
+    }
+  },
+  {
+    "title": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says - WSJ",
+    "summary": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWg2RVhDcFBReDRvSllDYmdIUGJnZEcxd3hPbnVTLXFKb3RYekxOb3FYb0EtSWg4bHF2WXJCdDg5VmZqR3pGVGdjbGxTWlg2b0FDT1ZnZm1mYlVlWHFUTmVUVkluYm13cHA0Nnl4YTh3YWZSUXFWc1o1eFZ5eE9mekFTQlVRdHZ6MzRTdlZFelNoUWZoYV9NZ0lzQ3NsaWdnaktXT2FaX09MUXA4Q2Jaa01lRDJISWxqNE5z?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-09-11T08:17:00+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 08:17:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b56bc1e1472418b95cc717383dc53672b388863e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "WSJ/IEA report highlights rising U.S.-Iran tensions delaying oil flow recovery.",
+      "event_key": "us iran escalation delay oil recovery iea wsj"
+    }
+  },
+  {
+    "title": "US weapons stocks hit historic lows - Vance gets stark warning on Iran war - RBC-Ukraine",
+    "summary": "US weapons stocks hit historic lows - Vance gets stark warning on Iran war RBC-Ukraine",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGROc2ZWQW0yRWhILWNJTGJFbWp3V3Q0QzE0QkNVcFFHUEg1ZDlqMkhTN1h2ZkJUTzN6cF9yeUR4SXg2RjlfOVYwMVVTNWpCOFozUXZLMzdzdnl1cmdHZ0RkWVR6dVJkaWNySG14OTBQc2xyR2Z2Y3hJa25zNkpkMFNhWE1SSXBYeElJX1NSRXN2dFE?oc=5",
+    "source": "RBC-Ukraine",
+    "published_at": "2026-09-11T10:12:00+00:00",
+    "raw_pub_date": "Fri, 11 Sep 2026 10:12:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1198edce3eae1af7d4aec20ff72f459f31066749",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "Pakistan urging US and Iran to resume diplomatic talks indicates negotiation efforts despite mistrust.",
-      "event_key": "pakistan press us iran resume talks"
-    }
-  },
-  {
-    "title": "Iran and GCC meet to reopen Hormuz shipping amid U.S. pressure - CHOSUNBIZ - Chosunbiz",
-    "summary": "Iran and GCC meet to reopen Hormuz shipping amid U.S. pressure - CHOSUNBIZ Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWhNLTNPaWh6ajZwdE8tMmh2d2lnaVUybWpna2xtMmNuN3hGd21GbE9ILXpFTXBNYUxhSlVGb244ZlMtc0U3MFp2SDV6Y1dEQ053bF9JQmRMeUF6VDJyWFB5VWhmN2xCX1VTODhQeVF4czVaVHJ5YVhmcWV2SHdzcVQtMVZnbm5f0gGcAUFVX3lxTE4xTmxSaHVJSHFvWGdNVi1RNFNySG1WYVV6RGsycGVTR1FzT01iMnUxalBSN2ZOa0J1Wm83ckJob3dVYWRJTkJEODZDczYzaFQwVzNPdTFYZ1VlNXJXZUF2SnJxVVRPSjRabFFJREZjSC1JSUxNXzl1eERRRnhqMVkzOXRmTGI0TlFyUzlUZEd6VzQ0dHduUHVwN211eg?oc=5",
-    "source": "Chosunbiz",
-    "published_at": "2026-09-11T05:56:00+00:00",
-    "raw_pub_date": "Fri, 11 Sep 2026 05:56:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "476e8e921be5467055f0329d6895b2fc064baeec",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Iran and GCC meeting to reopen Hormuz shipping indicates active diplomatic talks amid US pressure.",
-      "event_key": "iran gcc hormuz reopen meeting"
+      "reason": "Article highlights a stark warning about an Iran war and US arms shortages, indicating rising tensions and threat of conflict.",
+      "event_key": "warning on iran war"
     }
   }
 ]
