@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "title": "Dawn urged the US and Iran not to delay talks on ending the war - UA.NEWS",
+    "summary": "Dawn urged the US and Iran not to delay talks on ending the war UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTV0Q3c3U1Y5RjI4VTNkdWJYb0pTa3QzR0xNZVY0bVZkcU82cENrV2R1VXVoRmpPT0dsR3QzZGcyYTJEb0xhRWcyOXg5SEc5RUx5SEgyYXh0RjdabEVsV1hEX2hoMVdzcFc4dHVoV1B1c3hPX3A0bDVTMnZmbVJHRmNDZko1OHZJUTVuM3NpcWN5M1NOU2RacXBJU0wyOUJG?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-09-13T05:18:41+00:00",
+    "raw_pub_date": "Sun, 13 Sep 2026 05:18:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "feffa81fbddfc581c1fb6bcc2f7f9e6a185fdf92",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Call urging the US and Iran to proceed with talks to end the war.",
+      "event_key": "urge us iran talks end war"
+    }
+  },
+  {
+    "title": "US Attack Strikes Iranian Commercial Vessel Off Qeshm Island, Killing One and Injuring Four: who 12 outlets blamed - NewsCord",
+    "summary": "US Attack Strikes Iranian Commercial Vessel Off Qeshm Island, Killing One and Injuring Four: who 12 outlets blamed NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkVwWkZ3SXlheVlDdXBZS2IwQ1F6NHd6dF9aZG9DQnNwaEZFa3puX015T05reTZNNS02ZHRzbTdBVFhBbzJTcVFUSnJwNEs4LXB6SnBXRVltNW9RNDhvbXc2M0ZfUUx6MFQ1WUZ6UHJEVG5QNlFtZVZCODNHcS1PaEF2UlVCNzRldU84RDU3V1I5d2Y4M1c3RDZhU19RM3F4TGJnZ0x2Y0JoYnZUTWppRlJSOXRyalVXQ0RGTHJyQ2s0Wmp5WnZLb0tVN0FWNmdzTDR0NzlIdkZOYlV4TUR1bHFDYnF5WkREakE?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-09-13T10:37:18+00:00",
+    "raw_pub_date": "Sun, 13 Sep 2026 10:37:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e85078f50c03e4dfa53bf8ebf868b51007e8370f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "US attack struck an Iranian commercial vessel off Qeshm, causing deaths and injuries—direct military strike.",
+      "event_key": "us attack on iranian vessel qeshm"
+    }
+  },
+  {
+    "title": "Iranian Media Say 1 Killed in Ship Strike on the Strait of Hormuz, and Other Mideast Developments - U.S. News & World Report",
+    "summary": "Iranian Media Say 1 Killed in Ship Strike on the Strait of Hormuz, and Other Mideast Developments U.S. News & World Report",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRGpZdkZ6QzNabU5nUkFIS2EtUnF2WW1fNjZjZjJ3Y25TMmRZbmtfTW4zVlVnZTRYOC0xSy1QbjZkZ1JkSUpsRW5aVUJiMzNoVnlodnRCczJUWmlORkJvaHIyUE52VlRzODh6QUJiMUxZNnlTbUtDcUJBNTQwaTZxMENWejRBUzBLZWl4S3JLZ2pOQVRaZTQ4dUQwWEhabzVUOGNaV0pPaHN1WVdYV0JGeUJOS0tVT0lZRjJteGdtRnp5QVF0LUM2QVdjVEs3S1lFUlJ6SlYwa0FaVkFIazczcTRIT3Q?oc=5",
+    "source": "U.S. News & World Report",
+    "published_at": "2026-09-13T06:31:00+00:00",
+    "raw_pub_date": "Sun, 13 Sep 2026 06:31:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b7a1272f5b397ed322e15e280aceacb0893c568e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.25,
+      "reason": "Reports a ship strike in the Strait of Hormuz with no clear Iran–US military or diplomatic involvement.",
+      "event_key": "ship strike hormuz"
+    }
+  },
+  {
+    "title": "US narrows air protection windows for tankers in Hormuz after surge in Iranian attacks: Report - The Times of India",
+    "summary": "US narrows air protection windows for tankers in Hormuz after surge in Iranian attacks: Report The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZ1JtbHd4RU9WbWNRako0N1hCcXBUMTM5UkxLVEZaU3dYX05TMkdKYllkTk9wM1hNa2ljaDFESEhpX011Rm9oNXR1bHlOMTFWSUhXZ0hyVlFiSFRMLXFzTGs5RmI0aUNQM3RLbk9JRVN2clctMWsyTWVvQU12OVVkV1BlLTJlTE5oUEFOaUN6aDM4dG1KSDVCRmgzRFBHUHczallFUmxwQ2VpaFlSbmhNdF9UbjFyOE1vaWNQT01WdGZRWldfM05hMGpXQ0JzcVpHWVg1VEE4RXlDM1lRbWQ2OG5PdzRXbFZialVqRWdmbVduazl5ZXJrUHpXRlplaUw5Sk040gGIAkFVX3lxTE1SZl9vc3FEeVpIdzBmSGhUbXR3UmpfWGs3ajVlYWJneFVnQkw1Ym03ZWdVZHRYRlNJM0hYUFFRRGpSa3IwaUZ4cW5Sc3hVdU5OSldsRlJTcjcwTXNWUTNaRG1pWkR5VjJBdXZUeE40VnQwMzA0VnFhZjRCVVZwbmRxMEQxUWROdTlxVjA2UXRMZURBWlF1NEJuWnVGeTh4ZmhzN1pKSzhqWktNVUxwdU1TcTZnZS1RYnFla2RoUnlNQkhPSnBzdDJ2TnVHSmtfNmdZYWlSMVR5SUdSTng5amhFZ0VsbmtrN1BsX0xmYzltXy12ODN5SWJHQjRyRFF2elZjdEVQUFNGeg?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-09-13T09:53:00+00:00",
+    "raw_pub_date": "Sun, 13 Sep 2026 09:53:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "489fe082fcf5a687674e971a8bf57fc4aa6e2ad6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "US reducing air protection windows indicates restraint to avoid wider direct engagements after Iranian attacks.",
+      "event_key": "us reduces tanker air protection hormuz"
+    }
+  }
+]
