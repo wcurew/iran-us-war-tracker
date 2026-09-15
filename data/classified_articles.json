@@ -1,70 +1,121 @@
 [
   {
-    "title": "President Trump Says Iran ‘Wants To Make a Deal,’ Indicates US Open to Talks - The Media Line",
-    "summary": "President Trump Says Iran ‘Wants To Make a Deal,’ Indicates US Open to Talks The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVV0R2ljeHlRSVoyNktwMmxXbEdSN0hvcXd2YzMwRFdkNlA0dlNvaV9UamRKaV9JM01Kd0QxN3gzMHpVcVdjTDAwM2JxVVJrTmV5S3R2TWcxX1ZfMlZXNlBCZHJ1OHFvemxOR1FHb1hMdy1QSV8wVWlKMVItbHRmYVZKS0EwUHpFLXZ6Sk5ac0JfZTlzMWxzMmJ6bG1LUHFLV0VOZ1dZai1HVmVvYWc?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-09-14T19:34:08+00:00",
-    "raw_pub_date": "Mon, 14 Sep 2026 19:34:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1948dbe295d56f3659e5be0db4132d2fa21204a4",
+    "title": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report - The Hill",
+    "summary": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVA2cllGRlV5amN6U1l1TmZmUlFObXlNczVfWDdaQTZROVVTMWV6dENqRjZWOVJxMTNKMHI2SEh4UTM3c3NVMFFwcWVOTnljZGZLamRlSFJhazV1NEZINVdzWjQtbFQyd3AzaHlyWkM3OEdkVjFabnVoX1E5amd5bjR3aXZ3cXfSAYwBQVVfeXFMTkt4a2JKeGJIdlZCSHE4TmpkelZqbjdxNGhjUE9nUWxmUTM4YkExZ3dxQVJSREEyTm5qX2xLckp3QWE5S1pyVDdFV2ktbUZqODF3VzZkLUdBajI5RXNGX2V3emJTYTVmemJIYlBaa2VuOTM0NDJuRkxEOGlOZERyZ3Jmel9DRGg2UHhpdUs?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-09-14T23:20:00+00:00",
+    "raw_pub_date": "Mon, 14 Sep 2026 23:20:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5974137daa030beb69425fa7a6d668493ab4d36b",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "US signals openness to talks; Iran described as wanting a deal—active diplomatic overture.",
-      "event_key": "us iran open to talks"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports Iranian strikes on US diplomatic facilities in four Gulf countries causing significant damage/costs.",
+      "event_key": "iran strikes us diplomatic facilities gulf"
     }
   },
   {
-    "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen - UN News",
-    "summary": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen UN News",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SQnE5Ukx0aXNtR18wT2JxeWJfX0xMcjAycktnbDNtamxjSVAya3NGbHYyOEJjVVRqWHdIM1lwc1RZNVVvMWJUVVJUNHF3aFpkdlRjUVducw?oc=5",
-    "source": "UN News",
-    "published_at": "2026-09-14T17:49:42+00:00",
-    "raw_pub_date": "Mon, 14 Sep 2026 17:49:42 GMT",
+    "title": "Pentagon admits that Iranian strikes damaged and destroyed hundreds of buildings at US bases - Fortune",
+    "summary": "Pentagon admits that Iranian strikes damaged and destroyed hundreds of buildings at US bases Fortune",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU29uNUZVYndHTmtHQzdvQWNoVVNEdnltQjVjLThUWGhUZmtsemoyX1F6YnJhQUFpSGNXWnA4Qk9DNG1ocjltQ3JwM0hpc2xUeDhqRlB1NFpIN3hMWFExSFdTcTJhbHlVaDhHSF9FXzNpZVRJZlJpQWVjZGVXOGQzTkJobHA4M2M4TTlETE1idmhIRnZyTzNjSkEtQy1JSXF0ZlE?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-09-14T23:18:00+00:00",
+    "raw_pub_date": "Mon, 14 Sep 2026 23:18:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "71489e85c52875ca1a2df67e955615500fac0f90",
+    "article_id": "7a513ce8687cc6b936cedee017d3bc8e428897d6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Report describes Iranian strikes that damaged and destroyed hundreds of buildings at US bases—direct military attack.",
+      "event_key": "iranian strikes damage us bases"
+    }
+  },
+  {
+    "title": "Iran strikes on US diplomatic facilities raise war cost - The Hill",
+    "summary": "Iran strikes on US diplomatic facilities raise war cost The Hill",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN19TcXRVaUNfdW9zY3RuQzhUNEhjcTJ5MkZLSldyd1Zoc0JIZ1NndVNTTWhHN0c0OEdUZklCWU4tM0JxYmtZWWMtRjA5emh2VFFLRnduNWEyX3VkaXl3MGdSRWU0ZHM5SGF3Q0RxUTh3UWxKMUtVWHd4Wm9LUkNrMlFWRk9wTDBMMGhoMVhBUjZ5Qnd2Z2ZfM0N0alBIR3p0eGFkdXpsM1lxTjF2WHNhSnpTQS1DYWgydVN1V2MwRdIBxAFBVV95cUxQblVMZXJWcFBiMFZxZlhDTnF4R1ZNRERPSnQxUHVZUkJuRjdQQWhUMmhHVWNYLXBWSEZyLVgyRy1sWWdSc2VKSElnSk1HTnRILVlCN0RrMTkydFFydE14c2ZuRkMwMFNSWW14VEU1ejhadnFTSExyN1ZRNEMtYmlrN2Y1Sm5BaExHdm5TR0NCdFBRUmltRHlnbnJNTzB5aEE2YmE2WGJxWHZqbGtQSVQxdGJEMTNYSTFBaXZaUG1tZnEybExm?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-09-14T23:20:00+00:00",
+    "raw_pub_date": "Mon, 14 Sep 2026 23:20:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "21c093deb886e0ea5cea4ac8d821905b0cd52cbc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran struck US diplomatic facilities—direct military action increasing conflict risk.",
+      "event_key": "iran strikes us diplomatic facilities"
+    }
+  },
+  {
+    "title": "SCO anti-terrorism group condemns latest US strikes on Iran - Anadolu Ajansı",
+    "summary": "SCO anti-terrorism group condemns latest US strikes on Iran Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkNzZXFYT3JYSEZyOEpKcXpROWVTc0NxT2J6VnlHUDdJYUZfVkJNOG5lT09jTjdyT2ZtRlhvaXNKWFlTTWlQbWFOSHBORy02b1Jib1NlY040WG8zZk9od2c2bWVLZWN5UElfVmVxUURwWmlIU0EyZU9TSHJRZ3B0MC16MmUwMnBzcWRKOFV0dlk3SmN5bFZnZw?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-09-15T03:02:10+00:00",
+    "raw_pub_date": "Tue, 15 Sep 2026 03:02:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aeff1079ee8526c44852bcca7e331404e9cb03f8",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Reports describe deadly US strikes in Iran and resulting civilian harm and displacement.",
-      "event_key": "us strikes in iran"
+      "reason": "Article centers on recent US strikes on Iran and international condemnation, indicating direct military action.",
+      "event_key": "us strikes on iran"
     }
   },
   {
-    "title": "Chinese satellite intel linked to Iranian strikes that killed three American soldiers - The American Bazaar",
-    "summary": "Chinese satellite intel linked to Iranian strikes that killed three American soldiers The American Bazaar",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNnN2XzVTbHVlWnY5VzJIbDNGZ1N3Q0xWdE5kRmhDSEkybjBjb0JZdDdEQ3lOU0xxa2xYcFN0aXJQdU5mUmpQNm1EUG53R3JSVFFPRnZocndUcmlxdzctZmFTc3EwNXlUeTFKNTQyWlhINFd0YlJ6YkxIY1gtNGtBdFo0ZWF2SmJmTTlvcHE5TWx3cTBFTUxOZlJmYllDNGtjZEdF?oc=5",
-    "source": "The American Bazaar",
-    "published_at": "2026-09-14T17:41:33+00:00",
-    "raw_pub_date": "Mon, 14 Sep 2026 17:41:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "39823a42875201ae08d2a3a8a641d5e9edf0ca6c",
+    "title": "Missile shortages, damage to US facilities: Pentagon watchdog issues first review of Iran war - CNN",
+    "summary": "Missile shortages, damage to US facilities: Pentagon watchdog issues first review of Iran war CNN",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IXzV0YjlVTWNIZVpJLVFYWk5aWDlIUFV4Sngxa24tMnNWTXFCclYxYkI2OUpYczNBZGJUUE1iVzhtb0pOY1hFVTdXZ2lYamxJMDhUNFpCMHp4N3o4em9RY0dJcjRXbkVkRm42SmE0U3NjZ1BLLXNueUtCc0xHUQ?oc=5",
+    "source": "CNN",
+    "published_at": "2026-09-14T23:02:47+00:00",
+    "raw_pub_date": "Mon, 14 Sep 2026 23:02:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b5a2ff88374a69fc9e87713d60d3ecfdf325c205",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Article reports Iranian strikes that killed three U.S. soldiers, indicating a direct attack/retaliation.",
-      "event_key": "iran strike kills 3 us troops chinese satellite intel"
+      "strength": 0.8,
+      "reason": "Report documents military strikes and damage to US facilities and missile shortages in the Iran war context.",
+      "event_key": "pentagon watchdog report missile shortages us facility damage"
     }
   },
   {
-    "title": "US-Iran War Ushers in New Era of Missile Warfare - Caspian Post",
-    "summary": "US-Iran War Ushers in New Era of Missile Warfare Caspian Post",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFJtSFZMdmlWMUE1TDk4WkZjZzlTTEF2MnFYeEJUbnJrR213ZC0yeHRlRjRpb05xNThPVTAtLVZReVh4YUpPc3ZVLTlVMFhFZzhLbVg1dHduQjgyY0JUTW13c18tdXc5OVI1MmtUdDBFa0E3U0tLQ094MzkycWwzaThwam9SdHh5UWc?oc=5",
-    "source": "Caspian Post",
-    "published_at": "2026-09-14T18:20:48+00:00",
-    "raw_pub_date": "Mon, 14 Sep 2026 18:20:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "de4bdbc9a8b866af8fbb8d35ba6fc4d1e84ef744",
+    "title": "US watchdog tallies Iran war’s hit to weapons stockpiles, military bases and more - myMotherLode.com",
+    "summary": "US watchdog tallies Iran war’s hit to weapons stockpiles, military bases and more myMotherLode.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdk5QQjVmbXdsOGV6WHUwX0VROU5Qa0pya0NHcEswNWx0TVNIS0xiVmVUbHhtZDZsZ1E4a0ZqTUxfVDREZHJ6U2hUY3lBRVdvUWZGUXREdDZvTlJXVFg4MGYxSXA3am5iOGNXcktvOWtxZzJSU01pOUtRU0t4ZVdXdmhOaXJXTzVqX2ljR1lONmFXMWxmZEFBMG4tR2hYRlJ0V3puMWh2bmhNWGJkVXFfOGh2MDZGMGpGbkVNVzhmT1NGM3J3M19sOdIBzgFBVV95cUxPQVQwWUJvR1NycHFaVGYxS3NQOEIwWk15bG54MTRwWU11M0ZoeVdlRmVxZUF6c1pYVm9rV19LUWw1SDdKenZiOGFpOUlBXzVIem5CelJpcXpsdWNxaWExc1F5OFB0cXRDd1kzeVJaTkpxeExZU2ZNUmtUVW9kbm9ELW1aM3Z1QktuazBYQkF3SXRzc0t0VGdicThOSXBFY2VPNGFGNlhqNnY2aGltZkRmV2lqY0hZSVlxUjZMazlhVmJwOFQwWk9WT19BaWEtZw?oc=5",
+    "source": "myMotherLode.com",
+    "published_at": "2026-09-15T00:32:05+00:00",
+    "raw_pub_date": "Tue, 15 Sep 2026 00:32:05 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e5f455c7f1ec6fcb1c04084d715e0a5b0938eb13",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "strike_or_retaliation",
+      "strength": 0.75,
+      "reason": "Report documents damage to weapons stockpiles and military bases from strikes in the Iran war.",
+      "event_key": "us watchdog tally damage from iran conflict"
+    }
+  },
+  {
+    "title": "US disputes Iran mine claim, says El Gaia crude oil tanker was hit by Iranian missile and drone instead - gulfnews.com",
+    "summary": "US disputes Iran mine claim, says El Gaia crude oil tanker was hit by Iranian missile and drone instead gulfnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU2Jxal9DZEtkSDFXekJaTk5IYlFFV0t1Z2FOejdPYlRMUkpKOTZjbEVLWmowSmR4czNib2F2dkQ5RXY1SncwSFM5eUl0eDJzRk9kbHB2cUlzclBndGNGSmhfeVVEY1FxZVY5dUlZbl9YSzhXcGk0cU1McURqd1BVR05YaHVrLV9BTTkyTU9MTW94SjR1dG0wa2lJMHBDdEpHWnM2dUVTNDVPUlpXS3NTb2Y3VFRaNlBkYlo5NVc3LTllNFEwTTJ2eEsybTRsaTdTS3J5bzZSYmtFZV9RYUNF?oc=5",
+    "source": "gulfnews.com",
+    "published_at": "2026-09-14T23:17:23+00:00",
+    "raw_pub_date": "Mon, 14 Sep 2026 23:17:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6feaf2c9de377bc5bf5a07f719f409acb2b90ba3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Headline signals active conflict and heightened missile warfare, indicating rising tensions and military escalation.",
-      "event_key": "missile warfare escalation"
+      "reason": "US alleges direct Iranian missile and drone attack on the El Gaia tanker, indicating an actual strike.",
+      "event_key": "iran missile drone attack el gaia tanker"
     }
   }
 ]
