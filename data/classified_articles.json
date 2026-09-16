@@ -1,36 +1,36 @@
 [
   {
-    "title": "Iran war cost US $38bn and significantly depleted missile stockpile, report finds - The Guardian",
-    "summary": "Iran war cost US $38bn and significantly depleted missile stockpile, report finds The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPbkJDX3hRSWxCaGZHWHZFODhxTmllWmZ6UVI4R1pPWGZkMnA5YTJyaTd1WGo5NjlHOWduRTNxdlRSX3JpcHc0WDVwem9sdEdGeXh4T0NIRGpfNTBYcmt2Z1lFdzl2UzhGNjVRTUpvLTN4czBKQWtLTlVR?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-09-15T21:48:00+00:00",
-    "raw_pub_date": "Tue, 15 Sep 2026 21:48:00 GMT",
+    "title": "The U.S. Is Burning Through Its Supply of Interceptors to Counter Iran’s Attacks - WSJ",
+    "summary": "The U.S. Is Burning Through Its Supply of Interceptors to Counter Iran’s Attacks WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck9yb19kRTZiOThmMjIzMG44RDBDQ214RHQxUEFnRm9sM0pIb0E0ZVlLNGNsZDh5Z3dxR2lhZEotY09ORnI5cDBPZjM1N3dQYk9yWFVxZ0RfN1pGQnRwcFd4Ukk1ZFpxcmYtMGRTdnFkV0oxSjAwakYwWnRfd2x2QUlWa2VfYWl4N1dIWnBPcDNoRFhqYkdfNmxjd19DOUZEN0ZYUkpnMVRBbDUyLWkxcmZXWmtmOVZrQzhqbHQyekpESHc?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-09-16T01:00:00+00:00",
+    "raw_pub_date": "Wed, 16 Sep 2026 01:00:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f3ed88fbf84422c6f9343f7f0ceb6227231069da",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.72,
-      "reason": "Reports on costs and depleted US missile stockpile from direct military action in the Iran war.",
-      "event_key": "us iran war costs missile depletion report"
-    }
-  },
-  {
-    "title": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks - CBS News",
-    "summary": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks CBS News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEZUMnF2N3Y5bFV4c3FvRkgtaG56ZTFrLURTR2VseWRnUVVnTmhTdGxENWVEOVc5Q2xfbnQzZk1Qbk9NanZIRHg0QlVSTEFQOXJyREFPR3g4N0pSZmZ0VVcxbFM2UWZhdFJhQTVKVFN1dUV6djZ4d2hDNERITW01S0JzU2RpZHF3Y0wtVHRJeTFDaFd3YUpWTEZGR21pVDA?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-09-15T21:14:00+00:00",
-    "raw_pub_date": "Tue, 15 Sep 2026 21:14:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3df193ff941bc371be561fa9593f730c4efe3b5f",
+    "article_id": "0fad5a22c4f030a224ad2dec20ede9789a176668",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Photos document damage from Iranian missile and drone attacks on U.S. positions.",
-      "event_key": "iran missile drone attacks on us positions"
+      "reason": "U.S. expending interceptors to counter direct Iranian attacks indicates active military exchanges/retaliation.",
+      "event_key": "us interceptors used against iran attacks"
+    }
+  },
+  {
+    "title": "U.S. Bases in Middle East Suffer Extensive Damage from Iran’s Attacks - 조선일보",
+    "summary": "U.S. Bases in Middle East Suffer Extensive Damage from Iran’s Attacks 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BJZ19rcWJqLU5sWUR2b1p4WVl5WjlNc19NZks4dzJwLU5qODhzZWRMRkQzZWgzR2pFV2xqdlh0dTJQWUZBVUt6cGVyTHNFeHg2V0Rub3ZxZFVEekJLZEVtVS1nTVhhc0pQRERsbmtYbFhyVnZSSUJKVVYybUZrLV83SFU?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-09-16T02:37:30+00:00",
+    "raw_pub_date": "Wed, 16 Sep 2026 02:37:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dd61d37d74cc565d12d987aa86f36f541da5ff5b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports direct Iranian attacks damaging U.S. bases in the Middle East.",
+      "event_key": "iran attacks us bases damage"
     }
   }
 ]
