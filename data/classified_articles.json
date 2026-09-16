@@ -1,121 +1,36 @@
 [
   {
-    "title": "Russian spy satellites tracked US base days before Iran’s precision attack, CNN reports - WKMG",
-    "summary": "Russian spy satellites tracked US base days before Iran’s precision attack, CNN reports WKMG",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQVJuSHhFNC1rTHBOS0xwcTZYb29mLWRDeG5rVlBZajQzUG9tMUFwN2Q2QlY0N3BQSmR4clMyck16ZXpUNnR1c3ZjOTZaeVB0VWJiNmlNRkRtSzJJRDFjZzlEeFp1eEhBLU9CY3V4cVljYlVZRGtqdERVa3BSVlBPNmhXQU9YT1FMdWppdVdMQWhacWJkZWtZZV9LM3E4emJpSzlIQzhFNV80V2d5RFRrSm1RNGg2bjdTNkJydUZkektyQ0N4aHBGeU5Pbw?oc=5",
-    "source": "WKMG",
-    "published_at": "2026-09-16T16:42:35+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 16:42:35 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9a5d1af20163c63e7b938a40797545d397e04a8a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports Russian satellites tracked a US base days before Iran’s precision attack on that base.",
-      "event_key": "iran precision attack on us base"
-    }
-  },
-  {
-    "title": "Photos show damage to US equipment from Iranian strikes: Report - NewsNation",
-    "summary": "Photos show damage to US equipment from Iranian strikes: Report NewsNation",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONk1BZWhVSlRGaFNuLWNYVmg4NlNxVXZIRGxCbTFibkd3X2NsNE8zN25INEVvYlFEdjNra0RYRDA5QVY4RFM2VENYZFlfQnhxR21iUGhFZGl5bzg2T3ZJZ0tkOVpyelpPRDVyRW1YejJ2b2FmR2h3bVlmaVlCNkQ2bDVLOEs2a2NaMEZQeXlQd9IBlAFBVV95cUxNZmIxaTB3akd3cUpwc01rVHhfZ0NsMGlpdWpvekZESGpaRnBabS1ZNEdHd2hBUE80TjI5OU1qeVRxV0hVdkZCZkhsSGpBVHhxZUkwMGtaZ19pelV0YjFLTnl2TGFUSjF0NkZmWW5JcmJuVzZtX0ZlcXBlN2MxUUlScDFiY3hGdkRtOWxfVHdzSndXanA3?oc=5",
-    "source": "NewsNation",
-    "published_at": "2026-09-16T20:24:07+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 20:24:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "def9dcd68bee0e84f56cae0160519ea2c90a16ce",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Photos reportedly show US equipment damaged by direct Iranian strikes against US forces.",
-      "event_key": "iran strikes damage us equipment"
-    }
-  },
-  {
-    "title": "Iran strikes US-contracted ship with American personnel on board: report - New York Post",
-    "summary": "Iran strikes US-contracted ship with American personnel on board: report New York Post",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX21sZy1aem5xRGZxNzM4Q3RGbGdhUzhEdFA5MEZLV1M1NGNma1MwaWhnTzJFOVI3dnFDX2p5YUs1ckZsQXRGUjFKZS0tU2xyTEc1SjNKdUFyVnJfdUFNMl9wLWZnRmN4Ym9JMkVBQmQwNGxMUUdEUlFLbE9xSGJRRVJWU19nNlkyS0xTX3RXZEV1MXNGRlQzODZvNGJNaFBPRDRxcDgzUEF6V0lzZDBv?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-09-16T18:19:00+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 18:19:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f5c2a611e4234e131c22f556b848ba41aa420c19",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Report describes a direct Iranian strike on a US-contracted ship carrying American personnel.",
-      "event_key": "iran strike us contracted ship"
-    }
-  },
-  {
-    "title": "Active-duty military members leak images of damage to US planes and bases during Iran war - The Independent",
-    "summary": "Active-duty military members leak images of damage to US planes and bases during Iran war The Independent",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWRwSWx6emVlWmxJQlBxQ1R2T2c5X1RwTHU1SlQ2QmdSR1BxSDlBZFR1eGlFRGVHTWpBak5Pdi1vQVlyNF9IWEVnN3hIckZ1RU4wU0I5WFgybmtiVGZlbHVpb3g4NGxadlJ4cXd1NWwwZS1pWDJTT1Rsc2xabEI5dVJJblBWU3JRdlpyWVdoc1QwMm5FMWVKTXB2M2FEaS1mQnVlQ2hCRk5FOFRIMHc?oc=5",
-    "source": "The Independent",
-    "published_at": "2026-09-16T19:58:00+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 19:58:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5c760bfb8c5dc271b298dadf77736e372eeacfc7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Leaked images depict damage to US planes and bases consistent with direct strikes during the Iran-related conflict.",
-      "event_key": "us planes bases damaged leak"
-    }
-  },
-  {
-    "title": "Report: U.S. Personnel Injured in Iranian Attack on Boat Near Hormuz - The Maritime Executive",
-    "summary": "Report: U.S. Personnel Injured in Iranian Attack on Boat Near Hormuz The Maritime Executive",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbGlFUHltWFVqOWlrSEJhRW5nWC1PSnEwX2pyT0tKYThkSlZ5ZWlIRVRHSlhwS2F6ZXZZRThwSFRmWnQ5SlNjNE9fU3AzcWc5Q0FKeVczMlI1SmNLQVdWVEJnZGRfY1pPeGNiM0JuRmFrRGdpaDVEQ0ozY0JfNzZDWEZIWmVNb0RiV1dvMXl6QnNZajktRVhkRzM5TVBlNzBYSm1EY2NpNHY?oc=5",
-    "source": "The Maritime Executive",
-    "published_at": "2026-09-16T20:12:22+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 20:12:22 GMT",
+    "title": "Iran attacked a U.S.-leased vessel near the Strait of Hormuz; there are casualties – Fox News - unn.ua",
+    "summary": "Iran attacked a U.S.-leased vessel near the Strait of Hormuz; there are casualties – Fox News unn.ua",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1NvY2dqT0FhSzkxMHBudWpLWTNiWGhBMExPNWpQUm1wMjYwWnBFLWREdjY3Qm5uRXg1czhuR2RoUmpQa1FUQWhCMTEwLV9kcGc4b2VIN0UzaWs1cTNfQ0NZRlp5a0txMmZjOVNiX2g4Y0pFem1mRGNvWWN3bFNZQldNNjBzLUx1WkN6ZnlveTZYT1BNeENLbVZXYmFMVUFURmhtZzFBSjlTSjFGcFg5Y9IBrwFBVV95cUxPclBPVllnd0Z4T1BpQkVtaUloaGc4VkFMUVZQQl9WYzVPbUJqQ3U5X3otSkZKUjk0WFFFRWZ5YURGdHpOczZBaDFlMWNkN045VC04UjNLX1RUb1BpRGtBMkxmd2puMklhSzE3UGxIZ0hJWGlHaWJXRndqTlFzNzlkb1hFRG9UNzVqcWRtMWxiaXFKNkdnQXkwQ2E0czMwaGR5MWEwdnQ1VzI1ai1DMDFV?oc=5",
+    "source": "unn.ua",
+    "published_at": "2026-09-16T21:17:32+00:00",
+    "raw_pub_date": "Wed, 16 Sep 2026 21:17:32 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ebfadc4787b8aeba9373e227b24efdcf2cb34f43",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Direct Iranian attack on a US boat injuring personnel near Hormuz — a clear military strike against US forces.",
-      "event_key": "iran attack us boat hormuz injuries"
-    }
-  },
-  {
-    "title": "Widespread damage on US bases from Iranian airstrikes revealed, including to $270 million spy plane - New York Post",
-    "summary": "Widespread damage on US bases from Iranian airstrikes revealed, including to $270 million spy plane New York Post",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOV95SHJvQmxVN3JGaTNSTnZxeEdfcFU2VmxnekJIakhrRzd6V0RHeTFtZ3NqTHdOeUoyUEZlXzE2X0NqdmpMM3hXcEptZWdUMmpwdHJUa3lQVzRqZnRTb1pOWU56NHAwVUJuSGZPdG1EbTdRWG1QbjBJRm5VNXU1ei1KSGxlNW5uWXNhRzFVa0RjNS02eFpEWkxlcmVBOF9odl9yc2RnVQ?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-09-16T16:40:00+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 16:40:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2bf62dd481babf3e07e4421bf607d4ee185bb77c",
+    "article_id": "f61b95ec44848145ca55e8c7ab646a95fd52f57d",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iranian airstrikes caused damage to US bases and a $270M spy plane.",
-      "event_key": "iran airstrikes damage us bases spy plane"
+      "reason": "Direct Iranian attack on a U.S.-leased vessel near Strait of Hormuz causing casualties.",
+      "event_key": "iran attack us leased vessel strait of hormuz"
     }
   },
   {
-    "title": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks - oodaloop.com",
-    "summary": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks oodaloop.com",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUZRSFZRNWZLWlZQbnNGWmJiNHhuNUpxTVpxSUZ4Tk4wNTVldV9lTzFWbGZYLUM4QVVvck4wbm5VbC11SjNicFhoMVNBcDBCVzRnQjZUNEFJdWZmZW5OQXMtblhNM1BXbUpKWXd6SHBfQnJPOXc2a21zbHV3eTcxTWJydTdfa2JBY05xc2k5ZTNVaVhfalVzUjNlVTlibkNfOEswUllkUGlVay1DajdMaEZCUE9YWEp1X29qV3NNbFRsd0dOb3BUQlRn?oc=5",
-    "source": "oodaloop.com",
-    "published_at": "2026-09-16T16:20:41+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 16:20:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "397aa74e44f39c4e166ae4e60d906ffff818157a",
+    "title": "Middle East waits to see how US will respond to new escalation from Iran - Fox News",
+    "summary": "Middle East waits to see how US will respond to new escalation from Iran Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkdFJmc3BsejNMV1dndzhqSEdfczdxZkhZeWpLYUlaOW1JN1lyMXlDRHZrZlRrZWpuMnpEOFBUeU1OXzZPcTg0ZlZtbXIxTzJwNUZIZVdR?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-09-16T22:45:48+00:00",
+    "raw_pub_date": "Wed, 16 Sep 2026 22:45:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b62cd8de67350282c68ed3afb16709760a096f41",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iranian missile and drone attacks caused widespread damage at U.S. positions.",
-      "event_key": "iran missile drone attacks on us positions"
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Article frames a new escalation by Iran prompting anticipated US response, indicating rising tensions.",
+      "event_key": "iran new escalation us response"
     }
   }
 ]
