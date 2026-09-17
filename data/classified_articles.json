@@ -1,70 +1,257 @@
 [
   {
-    "title": "Beijing urges Iran, US to rebuild negotiations - China Daily Global Edition",
-    "summary": "Beijing urges Iran, US to rebuild negotiations China Daily Global Edition",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaEtYaVkzMGRjem53aEttaU9tSE9OZW13SmNDend2WU81eFhRUHBhcmgyQVBvRnFFNnBXbUVMN0RkUzZkYnNTMUxjWFVqMEVnM1M0djVLU1JaVUdDZERqOTN5U3FxSDFrTkdLQ0JHV2t4Q0ZVeUNBbzg2TWVUelllMVJ3?oc=5",
-    "source": "China Daily Global Edition",
-    "published_at": "2026-09-16T23:51:50+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 23:51:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e873158856d3161d294e6d2edbe0cd61db5eebe8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "China urges rebuilding negotiations between Iran and the US, signaling diplomatic engagement.",
-      "event_key": "beijing urges rebuild iran us negotiations"
-    }
-  },
-  {
-    "title": "US President Donald Trump to hold Iran talks with Gulf leaders next week — Reuters - FXStreet",
-    "summary": "US President Donald Trump to hold Iran talks with Gulf leaders next week — Reuters FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVNCYktMZkhPcnBBUzVuWXJJX1hkMWwtV29MOUxKX1ppb2h2WFhfRUFtMnhZZUlMXzJTZTNzc1k1ckhnbi0wXzNwdnNJQ1hhM0ZNRzlKUGRKa1lUOXZsN3JBZG45TVJrUDJ1el9kRkRUN0YzWGtabHFLcTZxbURyMHYxR0M0OWN4V01NWEllN2plWm95b2ZYaUprOFh3VklPVjJoTV9tQUV2Qm5WM1hINGxtYV8wU3B2bkc0d3BfNUk?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-09-17T00:15:03+00:00",
-    "raw_pub_date": "Thu, 17 Sep 2026 00:15:03 GMT",
+    "title": "Iran vice president signals openness to further US talks as hardliners oppose - The New Region",
+    "summary": "Iran vice president signals openness to further US talks as hardliners oppose The New Region",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1U2t6Wk9ZdHFkeURKMXdJV3lLRmpwT21zUlZYTHBRazlYRWZscUg5elZEUjU1VTJEMDdUYU1hODljck9QalppVkVJVQ?oc=5",
+    "source": "The New Region",
+    "published_at": "2026-09-17T09:33:51+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 09:33:51 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "44ba26e6b714659978101cbb2f4c4ba1e0ce8783",
+    "article_id": "126d6622979092b5ec96a18da83edd3d37356a0f",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Scheduled talks between the US President and Gulf leaders about Iran constitute active diplomatic negotiations.",
-      "event_key": "trump gulf iran talks"
+      "strength": 0.75,
+      "reason": "Iran VP signals openness to further talks with the US, indicating diplomatic engagement amid internal opposition.",
+      "event_key": "iran vp open to us talks"
     }
   },
   {
-    "title": "Beijing urges Iran, US to rebuild negotiations - China Daily",
-    "summary": "Beijing urges Iran, US to rebuild negotiations China Daily",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UM1dVOVRSZGhmOVBTODNrWkZ6cnQzQjZhQXc5NVc5cTB3M0xieUhYYUxUV3FIQldwOGYwTlB0eUxFVWJ5a2VyNThsMjBwMkZiNWpNU3dNZU53VzRYWlJOMDJ4cmtzT0MzV2d6RzUwQkEzZ0U5Q0ZCWWlBcXpfQQ?oc=5",
-    "source": "China Daily",
-    "published_at": "2026-09-16T23:51:50+00:00",
-    "raw_pub_date": "Wed, 16 Sep 2026 23:51:50 GMT",
+    "title": "Trump says US ‘hopefully’ nearing end of war with Iran, cites direct talks - Free Press Kashmir",
+    "summary": "Trump says US ‘hopefully’ nearing end of war with Iran, cites direct talks Free Press Kashmir",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzgwQkU0aDh0X3pLSG5RNG5HdGtSZVRvSnBEVUh4MkVRRDhQX1k5NG5hV216RlNmc252Q0tnOFRnQnlTVzM3a05qRm5hbV9HM2VhazIzeHlKNEEyYVFlY1NXTWdLTXVCNTdfa1FvUzJkbHFsdU9QUXV6ZG1obEJqSnNQamlCbVkzdS1ENGtaQkpQWjBYSndCWklHdmR4VGk1eFU0QzJkVG1RZzdRdEViOVUtc9IBuAFBVV95cUxNelZ1Q1lkNlQ0cXN0ZlZfY2xUbTlJYm1LV0RWU2xLN0ljaEdTdm9zWVhMRFRWTzQyc0JQUHV3ZlNTbW8wYkNHYjdUdmhLSVNtbUttY0FNOGgtTDBlNU54Snc3VERtRHFHNVUyTXo3R3VRV2RjWWZTYTZ1VXNYRnZ2OXdzdzFqV1RaZ2JlSGVlWVo2MmpXd0RQNnNMOWRzSThhRVM3eE1mcm9LTEs2bXZUd2FIMlFCZm9E?oc=5",
+    "source": "Free Press Kashmir",
+    "published_at": "2026-09-17T06:40:29+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 06:40:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "802d43598aa0ebf87b1b60f91aa6320b792265ea",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Trump cites direct talks and says war may be ending, indicating active diplomatic engagement.",
+      "event_key": "trump cites direct talks with iran"
+    }
+  },
+  {
+    "title": "Could US Strikes in Iran Amount to War Crimes, UN Says? - Modern Diplomacy",
+    "summary": "Could US Strikes in Iran Amount to War Crimes, UN Says? Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVFTRHpCX0ZfRkZRaEpoQWFhVEFWOUhmRDY5SnhJSWRpanFWazlxTy10Ymo5NGd4ZldkbXZWU0ktLXJFMEtHdlpkQ0hVWjB1RVIxQVZPVGZHTjBQdmJOeWtrbDd3aF9QU2xPNHhmVXRmVy0tRFk0bVo2U0k4V1h2UTR4b1BGVmVzTnZUTE5XeWxQSjdpNC1r?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-09-17T08:18:59+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 08:18:59 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aaabe269b8aeb5de6df602201571df6e15b84914",
+    "article_id": "8f71e744266000ed8852432dda81888e7cce9b0d",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "China urges Iran and US to rebuild negotiations, pushing diplomatic talks and mediation.",
-      "event_key": "china urges rebuild iran us negotiations"
+      "reason": "Article discusses US strikes in Iran and UN assessment they may amount to war crimes—direct military action.",
+      "event_key": "us strikes in iran un war crimes question"
     }
   },
   {
-    "title": "US Military Faces Strain as Iran War Continues - اسلام تايمز",
-    "summary": "US Military Faces Strain as Iran War Continues اسلام تايمز",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXVZOE5sVWdkY01LaE9jbXZYUl9SODVXWDI2bGVOdmxrcTdacW9iQ1h5cmZlMVBRa2RucnRGWkJLX2V2dlNBd0RVRTA2Y2V2UHdaZ2FlRUJGMFNzZVA0QlRDeGdQWHAwdENNaWw4MGs1VUtiOThqYkg2UkU2NDlvVlpRejJHTEd6SnBnV2t0bTY4Y0U?oc=5",
-    "source": "اسلام تايمز",
-    "published_at": "2026-09-17T03:10:03+00:00",
-    "raw_pub_date": "Thu, 17 Sep 2026 03:10:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "48879346bcff1fd3cfe9a2fa73082d06e1bc9fbd",
+    "title": "US-Iran conflict: What UAE residents should know today (Sept. 17) - Gulf News",
+    "summary": "US-Iran conflict: What UAE residents should know today (Sept. 17) Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam90TlFURHdDU2lYY2UyZjlIUDZjdEVLVF9QVnFHX1pvcTNtY0R4N2JXOWRWRGl1NkQyd3BxdHFPcHpYSE8taWFvbmRCQzZOT244Rk5fZUgyVEkzVXhsSFNJM1FqTmtRajVYakpnMEQ2ZUtjWXFFWXVKczkxYUZtODd1ZGRRZUxoTVB3OGhtbDRtM1hFcThKQtIBqAFBVV95cUxQckVYTDlHV1ZubnVlLWc1SEdyOHNjSlFsNXhLR0JNZWFLeXZZZTVQXzZ1M2RTdE1xYm1lclkydHE0NXBqMFcxT3VCVkxmeE1FbXJqOXZIZS1YRi1BVGQtY0ktSE15RlllbjRoU2FJMHloX0o1ZFRlRFo4a0hXT3dtV2NEZi16U1BUaml4VTBjemlPai1fT213NTVna0tpa2NGajV1Rksxa00?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-09-17T04:12:35+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 04:12:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2c325f9102a9994d4fb1a31c9f32531cde3852a2",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.25,
+      "reason": "Title suggests a daily update amid heightened US‑Iran tensions; content uncertain from title alone.",
+      "event_key": "daily update uae us iran tensions"
+    }
+  },
+  {
+    "title": "US may have committed war crimes in Iran strikes that killed dozens of kids, UN-backed experts say - KWQC",
+    "summary": "US may have committed war crimes in Iran strikes that killed dozens of kids, UN-backed experts say KWQC",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHBVSmYwdmpCYnZwa2RjeEswZW4tYmVQWDNHaVBLOTFiMTM3Ynl5M3BFZzdzSHQwT1h3U0Q3XzNKekl0RFZ4cl8wdHM5T3RjUHQ2X3k3U29qYjFhUUM5aXNmYnV5SnJRd2xXOXlMZmx5N2drT3NpS0Rja0Q5TGdKSk5lX0VFYjFMN25oSkJoNGhab0E5TWk1Y1JmdVpNRjRPQ2ZUVWxtcGJoNmF3Q0E1VnN5RVloZmE5SkxPZjB0LVRPd9IB1gFBVV95cUxPVG9vNjh6YnV2TFc4dkVwblRxZzRrMy1ZX2EyTk4xTEtPRlZPMzlmZW1yZ0p0NXZIODl5Wl9YVGdkNXpSR3p1dldUTEpndmZTd3NPVFg0TU9iRVpsYkpIbnhLOHEyMVVnSFBIRzFrWXhKajdKWjh1OTJBU3VrVmVvV1NYdnRWSEphc1lscy1XTkZMVkJrS0lyTnlJeWxvMTdYbnVkYlhiZEdrRkc2TmstR3A4Wi1NaUFocW5DMjZMZF9xUmJ4SkpLVTBhaUF2Ml9IWW9NTGhB?oc=5",
+    "source": "KWQC",
+    "published_at": "2026-09-17T09:05:00+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 09:05:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d076d8590d1ac0bbee9c959449f9a419d5e13d73",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "UN experts allege US strikes in Iran killed dozens of children, indicating direct US military attack.",
+      "event_key": "us strikes iran alleged war crimes"
+    }
+  },
+  {
+    "title": "UN Iran Fact-Finding Mission calls for end to hostilities after US strikes kill civilians - Jurist.org",
+    "summary": "UN Iran Fact-Finding Mission calls for end to hostilities after US strikes kill civilians Jurist.org",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ25RQlc1ZDRyUk5DamhONW9nMW42MFY4a0sySDNsZVlfUE9OeWFGS3o3QkRjS1daTTBqekNmd0RJdFkwUDNUeU5meUFtZVpxSUtMNTJoazV0NTdrUG5GQVNSUUliakNHMlZpWTc5OGsteGpqX19aeTZpOHlYTnJZa1kwTFoySU42SEwtSnFNeDVibXUzSUk3WC1yT2FVUmlIZXZZSl9kYzZkWU15T2h0eHltZmM3RVBHSDREUVI5bndVT3Yw?oc=5",
+    "source": "Jurist.org",
+    "published_at": "2026-09-17T10:23:28+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 10:23:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5684d36896bc13ab493159d585f1919dea8c6ea4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "ceasefire",
+      "strength": 0.8,
+      "reason": "UN fact-finding mission explicitly calls for end to hostilities after US strikes killed civilians.",
+      "event_key": "un calls end to hostilities after us strikes"
+    }
+  },
+  {
+    "title": "UN-backed experts cite possible US war crimes in Iran strikes - AP News",
+    "summary": "UN-backed experts cite possible US war crimes in Iran strikes AP News",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-17T09:23:00+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 09:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4867c9910de77653416206f613ad8b7e7e66e889",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "UN experts allege possible US war crimes from strikes inside Iran.",
+      "event_key": "us strikes in iran war crimes"
+    }
+  },
+  {
+    "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds - The Guardian",
+    "summary": "Iran school bombing: grounds to believe US was behind atrocity, UN finds The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzJvZW84dU1NMjA2OVZSZVlYS2lJWmhhbjN2M2RZbjlGUGV0WjRNWUNmbXpkREllLUNlWGVEel9TWnFDYmNBM29GbWsya0lIQU5yOUtLWVNjQjBHUTdwNjl4LS1LTGVIVXFmYTNWTTJfbzR6R2xfWkoyQkhpLXhIa2VOMjI3UkdzZ1NHMmx1ZUg1YUUyY3FBdFhmY05CQVJtWXNfVA?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-09-17T09:06:00+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 09:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5ea29c850316b41b8d2a07e0b74f2286074ad30a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "UN finds grounds to believe the US carried out a bombing of a school in Iran—alleged direct military strike.",
+      "event_key": "un finds us behind iran school bombing"
+    }
+  },
+  {
+    "title": "UN experts level explosive war crimes accusation at US over Trump’s Iran strikes - The Independent",
+    "summary": "UN experts level explosive war crimes accusation at US over Trump’s Iran strikes The Independent",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTNMaEtna2Vfd3FEMlRTaXhHUE1NVXlTZm1kTjhUZnBlSDhPUEJCRDE0bjE5aFluRzByN2FQU2dZUHBLTHFHc2Y3bjFyX3dPNW1ZWnBGRDN0dVJOV1NoTnFpQ29ieHZyYWNiYVBoV3VPYld3VDgzcW1fOVE3OTBlTHYyWlBHQlJkN09LSE5OcnM1UQ?oc=5",
+    "source": "The Independent",
+    "published_at": "2026-09-17T10:01:00+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 10:01:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "42fd0bb7b7d6f64cc6702d32b41e0915b1fbe09f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "UN experts' war-crimes accusations raise diplomatic and legal pressure, heightening tensions over US strikes on Iran.",
+      "event_key": "un experts accuse us war crimes over iran strikes"
+    }
+  },
+  {
+    "title": "UN says US strikes in Iran were war crimes, Tehran crackdown crimes against humanity - Ynetnews",
+    "summary": "UN says US strikes in Iran were war crimes, Tehran crackdown crimes against humanity Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWGx0WXh4YzEyYkUyWDUtU3BCWHJmS3BFQU9rVjR1MWJ1aURQelRCcnh5WFBJLUhtcTYzb1JLVnFfTFpGcVRxdzNxRXNTSVJfUGJOclZ3?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-09-17T08:26:58+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 08:26:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a3dc447d14b7dbd5e748fbbe1a536c7c9cfb4f8c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.7,
-      "reason": "Reports of an ongoing Iran war causing US military strain imply rising tensions and escalation rather than de-escalation or talks.",
-      "event_key": "us military strain iran war"
+      "reason": "UN ruling condemns direct US strikes in Iran as war crimes, focusing on military attacks.",
+      "event_key": "un finds us strikes war crimes"
+    }
+  },
+  {
+    "title": "UN-backed experts cite possible US war crimes in Iran strikes - seattletimes.com",
+    "summary": "UN-backed experts cite possible US war crimes in Iran strikes seattletimes.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0R3U1ZzTGNTaUVIN3NkS2M5WVNZMFJRNW55WGg5a0M2NEJYNjFacVZuaU53MWUzMUp3VFdHdlhVLU50VTJUNERnMFB0bjBWODhIWGw0U1hSMF9IQ2lJOTJhX1hQNjM4VEVaeWZYa1FaQzBvMFlvSTMzLTJUN2VIbGtUNl9YX2d5ZVB2YjVEV05Ib25MNU5YelZVNUpmYTl0QlhkdGxiQnpmV2lPLTJ3TA?oc=5",
+    "source": "seattletimes.com",
+    "published_at": "2026-09-17T10:33:22+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 10:33:22 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "465249a5e889d3d0aea1cb775d75269067b87d3b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.7,
+      "reason": "UN experts allege possible US war crimes tied to direct US strikes in Iran.",
+      "event_key": "un alleges us war crimes in iran strikes"
+    }
+  },
+  {
+    "title": "UN mission finds grounds to believe US school strike in Iran was a war crime, Tehran protest crackdown included crimes against humanity - The Times of Israel",
+    "summary": "UN mission finds grounds to believe US school strike in Iran was a war crime, Tehran protest crackdown included crimes against humanity The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTW5wZFBhMEVLMDZDeWx0dTMxMWRfMVJfWFJCcjEwSU0tWUN5cWxUMDVINm1IMWtSck9QVGlhNElpSXB2SEE1Z3RocGxFdjV2ZV9CenNReHBYbTVqYVllLWlCR1Q4VEc1NzBMNFMxaUxfbVptRVIzS3dGM1AxSXQ1UnRyb29ES3l2a1p6NzEwc1dLbjVRTGluM2xWR2VQSXdNZklJZ0hYVjNrYVZ0bFUtd3FIRHdLVElIdF93d0VxT3RtTU9kemw4cXFfamg4c3o0MGxNX25tZ0FSYWJ1MXBpWTJaNl9OekVuZlh5QUlfRUE4LU9MTDc2Vl9KT3dKVW1oeERiaHVwZ2ltUHNZ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-09-17T08:32:39+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 08:32:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "36184d81f1ccb8b04d09137dd004f4cc00484757",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "UN found grounds that a US strike on an Iranian school constituted a war crime.",
+      "event_key": "un findings us school strike war crime"
+    }
+  },
+  {
+    "title": "US may have committed war crimes in Iran strikes that killed dozens of kids, UN-backed experts say - WAFB",
+    "summary": "US may have committed war crimes in Iran strikes that killed dozens of kids, UN-backed experts say WAFB",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmxfR2pFX2dCSGRCazFVUExkRE8xTnVFUWRTS0VPb0xQdmU4anhfY2tuSlhKSDZtRlN6NHAwZGpDbGRRRDFaTWJBemZJbVBQLWs2N01PekgxQUFzSTJXbG5vTHItSVpqOVE0Q0ZtZDZBTVd0NjJTLThwWV82ZFo4VkNEZHdUc0FpQmJ6azBwb3pRNW5GR2V5WW9BU2NiN2l5RTl4cWtwbWh0R2dubWNEUFFrZTRGMXB0Q1laLUlhRGU1UdIB1gFBVV95cUxOZlAwcWh5N0JRUTlFcG5Wa3dhRmFSYzFHNmo0VkFZMXNmYXVJeVZ4VHI5c3did2hlWXRlNGRxeURJcjlON3AzWlBGaWNwZDR4TkVtQ1RrcDF2Um5EekVqQVNlWFNtdWhET2dUQVJhamxGLWY5RVo0VXJ1RDFBdmNEdEFOUEd1eTVIX2w1djQ4anpxN0lkZEpJbFNhSGNaTG1scVM5S0JWOU1UNEFxd1g3QWZQdDRIVzlwOXBxYmFKaEdBZVY4QmdZZVlwaGFYXy1rcDRybFFn?oc=5",
+    "source": "WAFB",
+    "published_at": "2026-09-17T09:05:00+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 09:05:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f262f7002117c7401d268a08c1392fac88d50a7b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "UN-backed experts allege US strikes in Iran killed dozens of children.",
+      "event_key": "us strikes in iran killed children un allegations"
+    }
+  },
+  {
+    "title": "UN-backed experts cite possible US war crimes in Iran strikes - WSLS",
+    "summary": "UN-backed experts cite possible US war crimes in Iran strikes WSLS",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkxzOFphd2R1RTVDZHJSQU5fc1dpUzFjLTFSa29PYzBEc2Rzd1RNcjBxdjI1aWZ3cGR0U2xiVUhBalNET2c3RjhFYU8wVlpJaUdqVGNFME1Ja0QyMzl0Ymlxc0YyZW03Y3VDak94clJvZmZ4eE5yX1dhVFMzS1lFV2hSdjU5UUZpek53YUFvZTg3M3VpQ0hRaHFTUmZNSVdkYXlPemtYbE0?oc=5",
+    "source": "WSLS",
+    "published_at": "2026-09-17T08:49:13+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 08:49:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d0f547393e620af57b533102471ae624b483ef66",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "UN experts allege possible US war crimes tied to direct strikes in Iran.",
+      "event_key": "un experts possible us war crimes iran strikes"
+    }
+  },
+  {
+    "title": "Pakistan, Iran discuss ‘regional developments’ as US-Iran war, Houthi attacks escalate - Arab News PK",
+    "summary": "Pakistan, Iran discuss ‘regional developments’ as US-Iran war, Houthi attacks escalate Arab News PK",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG5IazYtZ0liV3Bablk1VGdPc3NMcmZxWWwxQmFCM0tlM0ZWR2RiQ1V0UHZBLThUODhhaUQ1M3hLTGFLM2RLV1RjYTMzQ3lldkFvcGNUWkVhRHFMY1Znc2dZOEdhYjZ2VVZqSFBQR2wwMVlKOXdYTFA2ZG9MdmlQUVJUa2JFTHM3SHJOSGJDMlB6OTFab0pjMXVuN1lWTGczaGRmMmdXbnVKY0xxOXl3VHBIWTJraGRfbkozU1hjMC0?oc=5",
+    "source": "Arab News PK",
+    "published_at": "2026-09-17T08:05:06+00:00",
+    "raw_pub_date": "Thu, 17 Sep 2026 08:05:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f5de443a38ab8758f65feebf5ca7f56618581995",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Article highlights escalating Houthi attacks tied to US-Iran war, indicating proxy-driven escalation.",
+      "event_key": "houthi attacks escalation"
     }
   }
 ]
