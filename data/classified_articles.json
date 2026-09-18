@@ -1,36 +1,70 @@
 [
   {
-    "title": "Iran in, Abbas out: Trump threatens new strikes as US grants Tehran leaders UN visas - Ynetnews",
-    "summary": "Iran in, Abbas out: Trump threatens new strikes as US grants Tehran leaders UN visas Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zck9VTWVLdk5BYTFOWk9oelV2eVFkRkVkMFI2VEVBUFFmZ0VlVUcwTjJRdXdxT3ZKR2pBdWxqSnI3YTdUTmhPVElMeDZjUkk2clc3WGdR?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-09-18T00:31:27+00:00",
-    "raw_pub_date": "Fri, 18 Sep 2026 00:31:27 GMT",
+    "title": "Deadly US strike on Iran school may have been a war crime, UN report finds - CNN",
+    "summary": "Deadly US strike on Iran school may have been a war crime, UN report finds CNN",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEk5MndlMzRMVTEydmdvWDlTRG5TdlpKX2RBel9fY1J0dV9pM1BYbC15OHh5SU1hS25OS0Vqc1FpN01hd1NUR1U1eTg3UURoTFFReUNnTndUNWVGWjNoOTJxVUp6RXlwRDR4U3ZxVVQ5MDg3TjVhLXZRb05NY2xLclNZU0IyUHVHS1NJTEdn?oc=5",
+    "source": "CNN",
+    "published_at": "2026-09-18T07:02:20+00:00",
+    "raw_pub_date": "Fri, 18 Sep 2026 07:02:20 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0ee7e638f63f57d0b8a41eb2a16383fef4304539",
+    "article_id": "a6b54ab95587a7c75474b66dbbc4993f316171d8",
     "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US president threatens new strikes against Iran, signaling rising tensions and hostile rhetoric.",
-      "event_key": "us threatens strikes against iran"
-    }
-  },
-  {
-    "title": "U.S. strike on Iranian school may be war crime, U.N. panel says - The Japan Times",
-    "summary": "U.S. strike on Iranian school may be war crime, U.N. panel says The Japan Times",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemo3NUhMa3M3Z1FGY19zTHpHWDlia1BJcTJ0dGRYbHdRZFZaX001VUFjajBaR0RCNmhhbnUyaGJyR2pKQTNXRWl1OHpCeUZlaVhyejdNYWNrZVNIMDhlWTJHYm1ucFNIMXh1NXpPNlA4cVRJZXd1Q2l6M251NmVXYkg4OFZka0o1TVpESmdqaw?oc=5",
-    "source": "The Japan Times",
-    "published_at": "2026-09-18T01:57:00+00:00",
-    "raw_pub_date": "Fri, 18 Sep 2026 01:57:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a066c74ec8debb6880c61cf0d17346962ab0456b",
-    "source_weight": 1.1,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports describe a U.S. military strike on an Iranian school assessed as possible war crime by U.N. panel.",
-      "event_key": "us strike on iranian school un panel"
+      "reason": "UN report finds a deadly US strike on an Iranian school, indicating a direct military attack with potential war crime implications.",
+      "event_key": "us strike on iran school un report"
+    }
+  },
+  {
+    "title": "UN mission notes possible US war crimes in Iran strikes - dw.com",
+    "summary": "UN mission notes possible US war crimes in Iran strikes dw.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpWMVUtRVpoXzgzNWFNYktGcXRyTGJMbWJENG85UUk0cFpfNU13RFJkNmhKbTZNckd5cU1FLXdPeV90UTVxTFd6QklvZnl5M1hsUFdJVV8wbDVoLURzOWpFYVVyVllyN3l0aGFpSGhZSWxVVjdtSDNqZ1NneXFEVjhtTFVhUzJKZm80ZEpsSEJDUdIBkgFBVV95cUxQQTZ1aWNUcV93VkFvTnhpbkU5ZjllVW5hdVVCOUFGZ2hTanhmejRpYnF5QzNpbk9rbkRZWUFYZ2N5UWxURHRRY19kOFpqYUFnTkxJdHBxZ0N2ZHQyZE9QTERVWUE0aVZFcXhQYnZjRFl3ZXVOQTFzS0NPcnd4ZEFxNTIyOEk1cGRyc1hwZ1Rtc0pkUQ?oc=5",
+    "source": "dw.com",
+    "published_at": "2026-09-18T06:41:33+00:00",
+    "raw_pub_date": "Fri, 18 Sep 2026 06:41:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e73a230495642ddadf3a257f6776ff137fca7267",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "UN mission flagged possible US war crimes in strikes on Iran, indicating direct military action.",
+      "event_key": "un mission possible us war crimes iran strikes"
+    }
+  },
+  {
+    "title": "UN mission: US strike that hit Iran school was ‘indiscriminate,’ likely a war crime - The Times of Israel",
+    "summary": "UN mission: US strike that hit Iran school was ‘indiscriminate,’ likely a war crime The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVVtZ1pya3hOM1dyY1EybjRfV1RjSWxkeWlndFlUN0tKbmcyNHhNd0JwM1loM1QyNm1UbFlkUGVwRTVyWHRFenlmZU9Bb3RBZ3JrenBEVFNWZnB0SlBNcFRReHdwSjJEa283U2drcjdCVEtYWkpiN2RVU0RRa1ZGN2F3clRKYV9WMm5SWjA0QnRSTWc5ejFyYU5sbVBVVG1CNTUxdjlCV2s4amxYLUtF0gG0AUFVX3lxTE9KakJFbnZaVDhKSEtLeUhSYk82ejBuS3ozMGdsc2M0TlNucVZSUl91aS0wQ2M2MjRuTDB5Q213ZXNVbnRxRGpiVnVnYTBvUExkV21wS0Rtbk5HZzZkUjAxZjVVc1JCNjYzdDdoSHpWUDlMTnNSdUZsSm10ZTJDOXJWWWNqbWVGSmswUXFaQnZBNWFXNnlTWk9SZXhCWFVrT3ZaNjJYSVdjbmZaR0ZwYmxxZTUybA?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-09-18T06:45:55+00:00",
+    "raw_pub_date": "Fri, 18 Sep 2026 06:45:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b68deac8cd1b96a99ee9c9d36675e2d01b9ea165",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "UN found a US strike that hit an Iran school was indiscriminate and likely a war crime—direct military strike reported.",
+      "event_key": "us strike hit iran school un finds indiscriminate"
+    }
+  },
+  {
+    "title": "UN report finds “reasonable grounds” for US war crimes in missile strike on girls’ school in Iran - World Socialist Web Site",
+    "summary": "UN report finds “reasonable grounds” for US war crimes in missile strike on girls’ school in Iran World Socialist Web Site",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZbHdrZkVVOG9vTWowWkZlT1FBMkNQdHNaRFpodnlpMkZfV0MzOFlNX2VhclJDczhGYW9XUkdrTENSU3lJY2NILW84MzNyX1JPenZJMUdsQ1A4THlmUVJCNDFkUk54bjNY?oc=5",
+    "source": "World Socialist Web Site",
+    "published_at": "2026-09-18T04:00:20+00:00",
+    "raw_pub_date": "Fri, 18 Sep 2026 04:00:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8ed249c42280e66f965f7ef45d7d44ac81c17057",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "UN found reasonable grounds that a US missile strike on an Iranian girls' school constituted potential war crimes — a direct military strike.",
+      "event_key": "us missile strike on iran girls school un report"
     }
   }
 ]
