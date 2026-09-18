@@ -1,19 +1,36 @@
 [
   {
-    "title": "U.S. Missile Strike On Iranian School Might Be War a Crime: UN Report - International Business Times",
-    "summary": "U.S. Missile Strike On Iranian School Might Be War a Crime: UN Report International Business Times",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDhJcmw4SHFsREpld003MzZlMVF4aU15NExNcDhndGF5bzhDUWtNX0NycFRDeE1kdldQdEc3WnR5ZG5oQk1jX3c3MVBha0FlRXhlRHMyOU1uUk5vZFhaRjBqc2IydWs2aHBrUlJOaGo2bmpPSFFCYTVYNWZpbEdpdmM5d0g4Z2tXNlJzUkl3MUdXUXJR?oc=5",
-    "source": "International Business Times",
-    "published_at": "2026-09-17T23:15:01+00:00",
-    "raw_pub_date": "Thu, 17 Sep 2026 23:15:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c82c89bb5c3842cae1008faa81f4c9f44a697411",
+    "title": "Iran in, Abbas out: Trump threatens new strikes as US grants Tehran leaders UN visas - Ynetnews",
+    "summary": "Iran in, Abbas out: Trump threatens new strikes as US grants Tehran leaders UN visas Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zck9VTWVLdk5BYTFOWk9oelV2eVFkRkVkMFI2VEVBUFFmZ0VlVUcwTjJRdXdxT3ZKR2pBdWxqSnI3YTdUTmhPVElMeDZjUkk2clc3WGdR?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-09-18T00:31:27+00:00",
+    "raw_pub_date": "Fri, 18 Sep 2026 00:31:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0ee7e638f63f57d0b8a41eb2a16383fef4304539",
     "source_weight": 1.0,
     "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US president threatens new strikes against Iran, signaling rising tensions and hostile rhetoric.",
+      "event_key": "us threatens strikes against iran"
+    }
+  },
+  {
+    "title": "U.S. strike on Iranian school may be war crime, U.N. panel says - The Japan Times",
+    "summary": "U.S. strike on Iranian school may be war crime, U.N. panel says The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemo3NUhMa3M3Z1FGY19zTHpHWDlia1BJcTJ0dGRYbHdRZFZaX001VUFjajBaR0RCNmhhbnUyaGJyR2pKQTNXRWl1OHpCeUZlaVhyejdNYWNrZVNIMDhlWTJHYm1ucFNIMXh1NXpPNlA4cVRJZXd1Q2l6M251NmVXYkg4OFZka0o1TVpESmdqaw?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-09-18T01:57:00+00:00",
+    "raw_pub_date": "Fri, 18 Sep 2026 01:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a066c74ec8debb6880c61cf0d17346962ab0456b",
+    "source_weight": 1.1,
+    "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.87,
-      "reason": "Article reports a direct U.S. missile strike on an Iranian school judged potentially a war crime by UN.",
-      "event_key": "us missile strike on iranian school un report"
+      "strength": 0.9,
+      "reason": "Reports describe a U.S. military strike on an Iranian school assessed as possible war crime by U.N. panel.",
+      "event_key": "us strike on iranian school un panel"
     }
   }
 ]
