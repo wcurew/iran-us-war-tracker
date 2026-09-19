@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "Iran says diplomacy with US remains active amid concern over rising prices - Free Press Kashmir",
+    "summary": "Iran says diplomacy with US remains active amid concern over rising prices Free Press Kashmir",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTG1Rb2NIdXRMZnR1NXJLNkptQVF1Ni1PTjVuNWI0NC1MakdwaUlDdTRyaFdRZ2tQdWNuQ1hUSWR4VFJRSmFoUkp0TFVNbTIxQjBJUGpwTzIwQ1FHa1h1RmcyaWVBVkdlZWlJanJ6a0tCY0xYRzhBemtNbTdQd2doMmE0eEdaWnV4dE5XbUI4OTFRVnFIaXc2TVhSbGk2ZXJBa3cyVTlTZVlOWUhmR2NtUjFTZnFKNUnSAbwBQVVfeXFMTzZpZWI1V0NOaTljMTlCUFFrZm5ITHdBMHB5akZyc2VWZWhheXVJalZjZndneWdoZ2ZjRjc0ZjBQb3VtdlJXNHljSk5lcEVVZHZaVDcyVlZoRzRZMVAyRXRBdG8zbXlRVElvT1F2X3VLQVJIN1U1NWhHcHViekJhcTJ2bVkxYUZsSTRWWmFHMzVPU19LUXY2SVlsdlVpX2NKaXZ2OTZ0Smg0SnoxN0FUakZIMk1QYVV1a3pwYmg?oc=5",
+    "source": "Free Press Kashmir",
+    "published_at": "2026-09-19T09:39:33+00:00",
+    "raw_pub_date": "Sat, 19 Sep 2026 09:39:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ec91bd20db2ff22e4fe78f58efae28fe665e2194",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran states diplomacy with the US remains active, indicating ongoing talks or contacts.",
+      "event_key": "diplomacy active iran us"
+    }
+  },
+  {
+    "title": "Iran claims strike on tanker; US reports casualties - arkansasonline.com",
+    "summary": "Iran claims strike on tanker; US reports casualties arkansasonline.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGlBM3NWLV8yNHJIM3dMNGdJaXgyRHV4TU11cFB2RmUtTzFIRTg0U3hnS2hIMkFGOVUxdTBtNmw4QUhvNzBiMmplX0FSN3ZpWnp2RUxYSEdvc3gtV0ZQNnczM3ZMV3A2Unp6WDRCZFdueUdLNU05NHd3Tk0wNkRqSHRQNWxqMTNMT2M4djNtb2lydE1tWXNuZGV1SW1pOFpN?oc=5",
+    "source": "arkansasonline.com",
+    "published_at": "2026-09-19T08:34:00+00:00",
+    "raw_pub_date": "Sat, 19 Sep 2026 08:34:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6057493e91905414879e4b3d0de94dcdd0580eaa",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran claimed a strike on a tanker and the US reported casualties, indicating a direct attack/retaliation event.",
+      "event_key": "iran claims tanker strike us casualties"
+    }
+  }
+]
