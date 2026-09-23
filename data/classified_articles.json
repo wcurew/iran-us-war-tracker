@@ -1,87 +1,223 @@
 [
   {
-    "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks - Reuters",
-    "summary": "Oil falls on increased Gulf supply and hopes for US-Iran talks Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-23T01:44:00+00:00",
-    "raw_pub_date": "Wed, 23 Sep 2026 01:44:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7365f49f2913611bf98dcce7a71eb125cc39a308",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.4,
-      "reason": "Article cites hopes for US-Iran talks easing tensions but no active negotiations reported.",
-      "event_key": "hopes for us iran talks"
-    }
-  },
-  {
-    "title": "US and Iranian negotiators hold talks at UN that Trump says ‘went very well’ - The Times of Israel",
-    "summary": "US and Iranian negotiators hold talks at UN that Trump says ‘went very well’ The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkNDeXFZYy1JcWlSdnRMVXNvTHpSMmV3WkNrRUdTLXA4WjBhd0tMOHp1SThxcm5NNHZoNTJnS1VIai1HeGdvYnNtV05LYXFLR0pabG12OGRITG11SnEzcEZ2eFlBbzY2VWJOaV9OdmF2T0s1eWZ1QVYyQ2pRRGd2ZEREMDZhbUlZc3ZEX3hsQkZZTm1FX2hUYWJ6MUhSei1fZU93TXFZQnHSAa4BQVVfeXFMUGk3cXd0MmZDdXNrQzVWQ3JmVnNXT0FRLXZwNDU1RF9NUkpjUTdqaS1IREZfazQtMEJJb3pfV1R3NzNJT1Z4RHMzYlNLY3dWcjZWZm5IcmRMX05HclhuZkU4UjFSVXNzMzVldU81b0tvMGxDYkhvakYxRWxRYzVqSUdESWRoM1hya3E5YXZjQWRrZXJoVUV0ZnJITTVzSVotTEtGb1I0RTh4V1lYckRn?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-09-23T01:14:09+00:00",
-    "raw_pub_date": "Wed, 23 Sep 2026 01:14:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7b3e88441fc917f9cf9c582159abfbe346898e0b",
-    "source_weight": 0.95,
+    "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat - BBC",
+    "summary": "US and Iran hold first talks since June after Trump's 'annihilation' threat BBC",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNzdwTjBOUmNtS1hEZ0dnQWdKc29TM1NGZC1FdnFUR25keVBJdmdGb3NtR3l5ZFhGWGtWRFBaWUFXZlN2ZzFJUHNIRUtOaHRMT1lheUtZWUgzSDA?oc=5",
+    "source": "BBC",
+    "published_at": "2026-09-23T06:12:56+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 06:12:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "657910215a271749d9d0c56cb19b4c7e14ae9f4e",
+    "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Direct talks between US and Iranian negotiators at the UN indicate active diplomatic negotiations.",
-      "event_key": "us iran un negotiations"
+      "reason": "First direct talks resumed between US and Iran, indicating active diplomatic engagement.",
+      "event_key": "us iran first talks since june"
     }
   },
   {
-    "title": "[MARKET ANALYSIS] Oil prices are subdued amid hopes for diplomacy following US-Iran talks - Newsquawk",
-    "summary": "[MARKET ANALYSIS] Oil prices are subdued amid hopes for diplomacy following US-Iran talks Newsquawk",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkkzekYtS3RhSFd3U21rY0xycndfU1FDM0Nuc0xSblVRbWxSdGp2bkRBV2ZVNm5MaXpzd2VybjFJM0dOZkdHN1R0ZmwwSlpmYm5DMjRxSkxJTG9QdUtZWERTbHZRNHlSZk1FMDY3SS1BbFEyUEN1d3RKOHY0Rk1zcEpKZWh1NElSZWNrMUprWWFYQUJTYldwaDhOWUlUVEMwOHk4OW9PMHJpcHJGUEhoNnNha3p2R2hQdUhpb3Y1cDc?oc=5",
-    "source": "Newsquawk",
-    "published_at": "2026-09-23T02:26:00+00:00",
-    "raw_pub_date": "Wed, 23 Sep 2026 02:26:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "40e21aa715ed1d30911a54a76ec6aa262cf7608f",
+    "title": "Tehran sets out terms as US-Iran talks intensify in New York - Iran International",
+    "summary": "Tehran sets out terms as US-Iran talks intensify in New York Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zeTUtckVhZ0VkdVRsOWlMeVQwUHZ5LVZndW1ZRkVDdEQtQS1fMUpyMGJzQWp6NnpCbHFsWi1BOVJ2MzR3V19HZnJDSHdIdkVHV1E?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-09-23T03:35:01+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 03:35:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6cba64f625c4774f30aba405f4a606cd10f1b29d",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Market reaction tied to hopes for diplomacy after US-Iran talks.",
-      "event_key": "us iran talks diplomacy"
+      "strength": 0.85,
+      "reason": "Tehran outlining terms as talks intensify in New York indicates active diplomatic negotiations.",
+      "event_key": "tehran sets terms new york talks"
     }
   },
   {
-    "title": "Iran Offers Hormuz Reopening for U.S. Military De-Escalation - News and Statistics - IndexBox",
-    "summary": "Iran Offers Hormuz Reopening for U.S. Military De-Escalation - News and Statistics IndexBox",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjZQVWsyNTJoZjZTUHV6cjVJQl83ckswV1kzOWdyeERwd0E3VEpZdl9XenNTcXJyZU1UY19fRGItT0pqRUt6OGVGRktDUUpWSjdQRzNJNDU5OWdPMzQydEdpTzVpM0NUbDF4aE12YWhFaFVycThtZjBlZy1CSnNRTzFoMl9mRUttdXhRZmIwdW5uaGZlV3RxNmFOUnVrTWtXVW9PcGg3TUJjeUJvTnoxZjg0TQ?oc=5",
-    "source": "IndexBox",
-    "published_at": "2026-09-23T00:33:51+00:00",
-    "raw_pub_date": "Wed, 23 Sep 2026 00:33:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "42c57b060b3a74bfd37531793c00186cbc612ccd",
+    "title": "Trump Says Iran Rejected US Negotiation Offer - The Times of India",
+    "summary": "Trump Says Iran Rejected US Negotiation Offer The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2FuSWtqbGRGOS1NcnVxQzM2Ym5FN29jTy1sNnMzVlRWNlZPWFN0c3lya3JNa2tzRmpsQ3Q4WFRyME1UbXowMXlNZ0R3MDBZT1dKVzhMZVZIUlVSZTVXN2VpLUNfanZobDZuOS1OLTFpRkxJYlJ3U2NuYjcySFUyUk1leTlPaVBTdVhUQmkwbDJxc2psX243RjRMTDRBU242NWg5SmEwTGkxb2J5Y3B6dTZ0dEhWTF9wbFFrQTlPOTE0dXfSAcgBQVVfeXFMT1FUZ0hOTERKczhXYzh6ZGJvLWhxczV3OTQ2N2N0Q1pVc3hCdWJYcDcxTUxDMFpfcmJIREZEYWNKbFJiMTRBdGN5R2NmN0w4ZlJ5ZjN4MnBQbUhFTzJDUDlwUUJXeHUxZzBfMGlpMDI5cmROWFYyWDBnNU9aWVZ0UHJVMml1OEY0SWRLa3VrTzdBU1Jid3ZmeHltRzdoN2xpYWxfOVhFTlFEekx4bk5YQ1NtM1N0TVRYa3BXejFNV0NaTExNcU83ZXA?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-09-23T09:15:03+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 09:15:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ae3ee1c810e78c56df67d8e99695a64671c7b426",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.75,
-      "reason": "Iran's offer to reopen Hormuz tied to U.S. military de-escalation signals willingness to calm tensions.",
-      "event_key": "iran offers hormuz reopening deescalation"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran reportedly rejected a US negotiation offer, signaling a breakdown in diplomacy and rising tensions.",
+      "event_key": "iran rejects us negotiation offer"
     }
   },
   {
-    "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - kdhnews.com",
-    "summary": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran kdhnews.com",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd3hCQVJBbTBLNUpma2QtQkZhRVRJcXVYcjZqUG9kREZzcW9mU0VHMHNYczdlZW96RzNZWWNlNWdyMFcwT3M4TnUxbGVaS1JjWmJfLWFLV3ZXTkZQcEN5bnF6YzdZX1RSdXppXzBwdGstNjNFbEtyQjBCMTFoenBKZy1DWHNCNFJfMHRXOTNid2FKcWRXUlhsUHJhYTdyeldPenNBMnJNYmlMVzJXZDNQcGYwcHFpd1UtaHRVN05JN09mSzduQVBZN0NYZDhIS2RQcXB3djdGNVh4RktCZnUwT0xLbGczcGpKVDZJRDFFTmp0U0ZTY1hCdzg4N3o5N0d2TlBv?oc=5",
-    "source": "kdhnews.com",
-    "published_at": "2026-09-23T00:14:27+00:00",
-    "raw_pub_date": "Wed, 23 Sep 2026 00:14:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "321ba0001313e76e37f5fcc2c754d0a124f58480",
+    "title": "\"Agreement or Annihilation\": Did Trump's Pressure Work? Iran Delivers Negotiation Terms to U.S. - 아시아경제",
+    "summary": "\"Agreement or Annihilation\": Did Trump's Pressure Work? Iran Delivers Negotiation Terms to U.S. 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWXl1TWNZY01OM0JlTWFsckZCWEx3MmdpVnc5QVhRbFVsYmRyY3VkaFdyLXBiZ1l6ODZmTjM5YWVZSEExRU1DdXBPdUVlTlRPUEpDUklrUmRDMF9pS1JpbVRyaUU?oc=5",
+    "source": "아시아경제",
+    "published_at": "2026-09-23T05:47:52+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 05:47:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e7b072b40d1decc3cbc447eebecea9593c6b01a5",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Reports that US and Iranian officials met indicate active diplomatic contact/backchannel talks.",
-      "event_key": "us iran officials meeting"
+      "reason": "Iran delivered negotiation terms to the U.S., indicating active diplomatic engagement.",
+      "event_key": "iran delivers negotiation terms to us"
+    }
+  },
+  {
+    "title": "Oil Falls on Hopes for U.S.-Iran Talks - WSJ",
+    "summary": "Oil Falls on Hopes for U.S.-Iran Talks WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1lvaVBndGpieXdDREloRTRTbG1aOU9Ic3VoLTlEeUVFMWNSZUZMLW5Qd2RsczBFMHJlR3pOWlkzYXZybGp3eV9mV014YzVQV0NNek5nRndhQ1k3M2dFUlZjTkhZeVJBZWdXYnRsQXhXcmlFR0d3SnktQUt3bTlpQV82LTRtNFhUZURaZE4zSmF6VjhJdGtuZzZPV1EwdEM2ZEtKNnVaRm0zQQ?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-09-23T06:57:00+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 06:57:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9f81e1da4e6e6c02fc6897e575371e14354c3121",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Oil price drop attributed to hopes for U.S.-Iran talks (diplomatic engagement).",
+      "event_key": "us iran talks hopes"
+    }
+  },
+  {
+    "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks - Al Jazeera",
+    "summary": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM00tdGJYVTZKd1NBNFBDTllXU21LZE02VkR0UnU3dkxNakphNkp0OXFuSFc0cmlTUC1XZktybmlHRU5TZ2xEczFjV1pvZHZheHpnTXJOR0VaY2pZRm81bG8zcDc3YzJUZzZrcGQta0RBQTRYcmtpem9ra0w3bmJoMjhpYkZCbG1CU3hnNFpWSGh5LVVRQ0ZBT1ZtQzd1NDUzZ3c2WHhCQlFJUdIBrwFBVV95cUxQcnNnN0doNUNIV3ZUMjVyRUQwZ3ZUdW9TQUo5VVpWb25UTnYyNkFCMkdscTNKSVdCTXNoVDhOVjlvWTBIanRxTlRpd0hYSURibU9QX1ZnU0NnQS0taVJQeXV5ZGsxREotS00tQXhLRXg5V04xa01VNUdwb3BIeFRHUTNmY3JzRGtBZS12Zm1Ha2lDazl0djc1cDVFSDY5YkIwN1J1VUxBX3ZtOFpxemJr?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-23T09:43:07+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 09:43:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "370b635b3b27d54b16bbf829b4bbc1499e9add0e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Heightened hostile rhetoric and threats between Iran and US despite ongoing talks, indicating rising tensions.",
+      "event_key": "rhetoric escalation amid talks"
+    }
+  },
+  {
+    "title": "Oil Prices Mixed as Traders Weigh U.S.-Iran Talks, Saudi Pipeline Progress - WSJ",
+    "summary": "Oil Prices Mixed as Traders Weigh U.S.-Iran Talks, Saudi Pipeline Progress WSJ",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUo0V3BWdFhfQ2RSSDVkT2d1Vk9XWmluUktieE1hSU8za2kyOHRRZWxyNXpubVVweFdOTC1uMmprOUlhdjFOUVhhQTFlSDlhVnY1Wloxa2VzME92cm9oZWYtUmJ6R0lvOXl0SW5wTlBaRWtCNkRXMERyb3V5bmJQanhWQlptQzI4M3UwTm81TnMwSnJobHV2TEwzUmx5Mlk5T3MzOGJjNG1uYTV2MWNpU1drRUdUd245UVdHazVB?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-09-23T09:16:00+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 09:16:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b9c2b9b3920c1c2197a8e0eccc138abc8141bd46",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Mentions U.S.-Iran talks affecting oil markets, indicating active diplomatic discussions.",
+      "event_key": "us iran talks"
+    }
+  },
+  {
+    "title": "Iran reveals Qatar mediated rare US talks in New York at UNGA - The New Arab",
+    "summary": "Iran reveals Qatar mediated rare US talks in New York at UNGA The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFZXZGRkRFhhNDVuMy1jdmdTcWkyMUdnN2VSTDBiU3daQXNVdEdURjgyamlLWmJ6dmJrczU5eVZEZEwxVzFVVEdUM0FSRy1FSHFlbHV6bkMwVnE4X2o2SjFhVGM4d1g1SFM1RnJNdnJOTG9uRUxwQmxIeVQwRFRyVGFScEhsSGJpaDh1QdIBkgFBVV95cUxOZTRYUFV3NUx4d2tPSVktN1Y2QlZlY0YtZ0hxY1pId0lOanJLMGtWLTBmR3d2MlZZYVQtNWZKdmMtV1lDMkh3SnBKZkM0LTJyMkltTExhVVg0WXBoeVFnbzd4RExLZGVnclRJZnhFRTFSQnNQTVBua25ZcTNrZ0VQRUI3SWNIanlmMUpjeUpfcEc0Zw?oc=5",
+    "source": "The New Arab",
+    "published_at": "2026-09-23T07:34:51+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 07:34:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6b22c7b198f6bc67d1834a6afa4388cc062aaad9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.86,
+      "reason": "Qatar-mediated talks between Iran and US at UN General Assembly constitute active diplomatic engagement/mediation.",
+      "event_key": "qatar mediated iran us talks unga"
+    }
+  },
+  {
+    "title": "Watch Trump Hails Good US-Iran Talks After Annihilation Threat - Bloomberg",
+    "summary": "Watch Trump Hails Good US-Iran Talks After Annihilation Threat Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVd2VS1FU080QzJhV2twbnRnWHJkVWNiVElUdUZ4eUJlWEFjQTgzaGQzTVpKZTdLbF8yUS1hcXd5Q1FGZVNkU2dvWG92TG43SnYzMXVZUmxxTWdPM3BaVVdoOVdSX2E4SUxxUUJwOFF6dl9xMjM0TVAwS1RvRG1uTzNIMmNiZ2hBRk51cW51ZGpiSklVQnViNlZUeFJQcUFZaXlFUlR5T09hN1lFTGsteQ?oc=5",
+    "source": "Bloomberg",
+    "published_at": "2026-09-23T05:33:27+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 05:33:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a5c0abe6159d17e4012a7d1201cbf7868f361e8",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Article reports Trump praising US-Iran talks, indicating active diplomatic engagement.",
+      "event_key": "trump praises us iran talks"
+    }
+  },
+  {
+    "title": "US President Trump threatens \"annihilation\" of Iran despite successful talks - France 24",
+    "summary": "US President Trump threatens \"annihilation\" of Iran despite successful talks France 24",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmd2WkRRLVRGdjNDZm4zWDFsdUhhSXlidHJTdGxFQlg0WHJSalVzVUJmbVZ2UEFXVk1hZ2gtX3E4NTFFUWJNNUJtdWhiU08tQ0JSMzc0LWk3VmlnSzlZTGZuZ3FvNktvWDdPSmFZQXFQdS0ySWNYRHBTZmFFWUY4bWRHTGdBMjdXSFdQOTJFbzZTSjJmUmtaOVc2SEVfUU1yd09fNQ?oc=5",
+    "source": "France 24",
+    "published_at": "2026-09-23T08:08:29+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 08:08:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5e4b6a82e5935ee2018312ab4c05687726d35499",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US President's threat of 'annihilation' raises tensions and hostile rhetoric despite talks.",
+      "event_key": "trump threat iran annihilation"
+    }
+  },
+  {
+    "title": "Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns - Anadolu Ajansı",
+    "summary": "Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUlkVFhXUGcwNndlR1FrX3laV2NtcW5aN1dVdTZRUWdrY3VXZUJPTW5HQ0pxVUdmWkI0WEEtcXdVcWFMa0Q4TjdRTkJhM09TWTVaVDh3dmVheVdCVmtoamtZTDJHYUZyX01VelRFdjNKLVFKY3FDMlRIVmdLNUtManVhemhuY2ZvRDRpX1pxNFZuN3lEQTRDX2preFZjQzg4TGtfTUFuQ2Q2Q3lScjhOONIBuAFBVV95cUxNRmVuUjU3dkhiMW1CektQZ1pfOVlHUngzeUlGRWVkdUlYcHhRNWVZdFZfQU9iX0Zqa3NJaXhrWHZvX0FCSlhhSDEySmZJa0VZb0psY21zSGFBOHhMcGJ6Uk1QNHZhUWFGVXlaZTFyd2FTb3E1UnZ4cjA2MmlHWWs3el9KQjZsU3RJNmdPYTNPVzlBN0pLZ2ltSXNNb0VHREZ5U1JRY1JkcXl6OHllc2hPTU1sRnhGbGFo?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-09-23T07:44:59+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 07:44:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6f0ac94173c55d4c469f2cf3da9d34626bc62915",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Diplomatic activity eased tensions and markets, but no explicit talks or agreements reported.",
+      "event_key": "us iran diplomacy easing"
+    }
+  },
+  {
+    "title": "Iranian Armed Forces: We Are Prepared to Strike Heavier Blows Against the United States - IranWire",
+    "summary": "Iranian Armed Forces: We Are Prepared to Strike Heavier Blows Against the United States IranWire",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYklBV3Q3S2NuUkwwX21EZjdUMm50SGZQOXB2MG1yVmhQNnltTjhJSDZaaUlBWWtsd0dSQkpRMGN6c0g0X2lCUmhmZUFsUmpLakY5REhpbURwTGtkLTl5NzJDVUx1YXVQZWxFdzluQ3liT01GMWdORDk5VE5zdDNsVVZGc3RTV1BzS3ZieDlocHM0MkNrcndCbkZWdDZYRmFOaHBlMFR3dldqTHV4VVFiZmhNN2lMUzdGUE5IX0kyWDU?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-09-23T09:55:09+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 09:55:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c4b24eee3feb19b23c07686f62aad31f83746390",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Direct military threat by Iranian forces signaling increased tensions and potential hostile action against the US.",
+      "event_key": "iran forces threaten heavier strikes on us"
+    }
+  },
+  {
+    "title": "US and Iran Officials Hold Talks Amid Tensions - Ratopati",
+    "summary": "US and Iran Officials Hold Talks Amid Tensions Ratopati",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRWVMUTI3ZmNVZFdyRlpUcHd3Z0JHdFRlLWlmYVR3M2pvNkNIMGNLOFc0am04SndPajQ5bFc1anRZcmxqN2FaN0tCT2xPOHdjbjg2cEpoYXJ2RDBoWVk5bmtEdWFhdEVVak1TX0V5b2FQZVI3bURtd3d0UTQ1bHBmN3lEOVFjZWtaX3l4SzNaOW1EZmRjS1dj?oc=5",
+    "source": "Ratopati",
+    "published_at": "2026-09-23T04:29:37+00:00",
+    "raw_pub_date": "Wed, 23 Sep 2026 04:29:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4ffce03f827136b002192ca85acdce5e51114045",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "US and Iran officials holding talks indicates active diplomatic engagement amid tensions.",
+      "event_key": "us iran officials talks"
     }
   }
 ]
