@@ -1,70 +1,257 @@
 [
   {
-    "title": "Iran offers US new ‘7-day’ ceasefire proposal - ft.com",
-    "summary": "Iran offers US new ‘7-day’ ceasefire proposal ft.com",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVdxRWJpMmsyWENVM1FFSEJ2X250RVZPdlVWbnVLNmszQlNsc184dlp2SEM1eVE5S1U0VjZRT0VGY2ZBSGg3Q2J0djZrU3VvQjk4MlY3V3BZUzU0RF9GTnVyMHB4eWdGZUtNU3NNQ0R5N1JsWFEzcHkxWU9lUXhTck03Wkk?oc=5",
-    "source": "ft.com",
-    "published_at": "2026-09-25T03:00:00+00:00",
-    "raw_pub_date": "Fri, 25 Sep 2026 03:00:00 GMT",
+    "title": "FTSE 100 today: Stocks rise as U.S.-Iran ceasefire talks offset Hormuz supply fear - Investing.com",
+    "summary": "FTSE 100 today: Stocks rise as U.S.-Iran ceasefire talks offset Hormuz supply fear Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlFHVTZ4dzVQMEV1b3JmeEFpX1dha2tXOFBGZGc3RllYU1JTNEJFZGd5ZmpTaENsd0dyMXZyelU4TF9HcnRQQ0RPY3ZqWUpJcllfOTh5VVVfUXEtcHc1YVh5czgxbWg3OEM1QzdaUTBheTAtTXc2Uy1RWDltUFVBaUM5U3F0ZUlGczVZNnA3TUJtWXJQVWNhbnhzQ09VcjRjcmhPVlhvZTRITHRYQS03a1d0a2EwTW5XNFhkTFhDVFZJSWVVX045WC1SV0hjdHJt?oc=5",
+    "source": "Investing.com",
+    "published_at": "2026-09-25T07:17:05+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 07:17:05 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "beede88706961f6c18bdd49f2b8b9c34c01ed3b2",
+    "article_id": "2ceeeb070217e5bca31b5662a32f3efe808e0fe3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "References active U.S.-Iran ceasefire talks (diplomatic discussions)",
+      "event_key": "us iran ceasefire talks"
+    }
+  },
+  {
+    "title": "Oil prices fall amid expectations of a ceasefire between the US and Iran - Українські Національні Новини (УНН)",
+    "summary": "Oil prices fall amid expectations of a ceasefire between the US and Iran Українські Національні Новини (УНН)",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3FVOTg1YzZxTjhzdFR1MXRTTXo4d0czeEs3cGpKWkJFRzZwM0tqVnpGR0d2NVJ6eUdDZEljMURabV9UNG9XSGFCTE1sVEVjTlVXMGc0NFoyVjdtYVZWNUloa1JDUldKVXJjZHhBbVkxeElkN3ZGYk96elcyQW1lX1pCZm9TQ0w1V09QMno2ZFNxVHpkNERKcXo3b9IBmgFBVV95cUxQTjBUTEYxSHhFWHJrQXdlcl81WTdzVDU5ZHdzakdabEVrSVBQeG1FeXMtUXk0dlR2Sk9yUTBqUjlDanhaNXNXTE13NXIyU1pzbXFJYS05YXdydGxkbkh1NEJDVFpTaU5tZ1dRd2hTZ283bjJPei1PTTFNWFloMkFxU2dSb3d1VmZrdXczcWNZSnNSUHVDdjVPV09n?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-09-25T06:36:45+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 06:36:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "894ce09684d360b93601318f7c28f117757209bf",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Markets reacting to expectations of a ceasefire—a signaling of restraint rather than a confirmed truce.",
+      "event_key": "expected us iran ceasefire"
+    }
+  },
+  {
+    "title": "Oil Prices Fall as Traders Weigh Possible US-Iran Truce - Межа. Новини України.",
+    "summary": "Oil Prices Fall as Traders Weigh Possible US-Iran Truce Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nd0psV2c2X3JXMFhOa1BwVFpYb2RXZnlTYjZDMjRZMVNqSy1TR1BXSWVfSG9vLWVWbkFmX2V4Z2xybkFMNFJRSW1FZTJ6a3NCVHRZOEJvTHNzelhIWW5JUU13?oc=5",
+    "source": "Межа. Новини України.",
+    "published_at": "2026-09-25T07:09:43+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 07:09:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6846d9eeff39f365337a65488d99a9c34684095a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Markets reacting to prospect of a US-Iran truce—speculation of calming signal rather than confirmed ceasefire or negotiations.",
+      "event_key": "possible us iran truce market reaction"
+    }
+  },
+  {
+    "title": "Crude oil prices fall as markets expect a ceasefire between the US and Iran - ukragroconsult.com",
+    "summary": "Crude oil prices fall as markets expect a ceasefire between the US and Iran ukragroconsult.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWZiUURqY1VmeEM1UG1Ha2FQd0hNTVl5R0tIaVRvUDA2TS11c3hXQ3pYcUVSVlRLS3BSZTZ1RkVfNE85M2FFdGdGRDkwdU13bWZLYzU3dmJFdmI3QllUYzVteWxKN0tYbVFJdDVNTVNwM1REakpYcm1EX0ROLVIxX1VuTG1oR0p0c1dqWWNZTW5EbjA5T0d1VUZBQXhoN2J2U2F1cVZzNTBVOGhyMlJmUg?oc=5",
+    "source": "ukragroconsult.com",
+    "published_at": "2026-09-25T10:15:01+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 10:15:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a934ed97dbb20c677b1137197c47aa0713c54a8f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Markets expect a ceasefire — an anticipated calming signal rather than an explicit, agreed halt to hostilities.",
+      "event_key": "markets expect ceasefire"
+    }
+  },
+  {
+    "title": "Oil prices fall on hopes for US-Iran ceasefire - newsukraine.rbc.ua",
+    "summary": "Oil prices fall on hopes for US-Iran ceasefire newsukraine.rbc.ua",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDlLbEVpZi1fZERnSVZRSUdHaEp1ZW1BdkJrMUxRVmRSVWhQR3VYZHJ6SjVGSU5HRUZheE1tNDZYTzJYWHJFTXdfdmUwYnYxN21JUDBIQzVVWTFPUlJ5OW5GbUo0OG5LeE1QcmlrWGt5VnVJc0lTV3o1X1BVbW1fR2g5VDBrVVRmV1pyQlhfa0l1WExfY2pfTTJ3?oc=5",
+    "source": "newsukraine.rbc.ua",
+    "published_at": "2026-09-25T07:46:47+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 07:46:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ac526d40033b1a5c7fb7564d5ea8ae3f808ea738",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Markets reacting to hopes for a US-Iran ceasefire—indicative of calming signals rather than an agreed truce.",
+      "event_key": "us iran ceasefire hopes"
+    }
+  },
+  {
+    "title": "Oil prices fall: Markets eye possible US-Iran ceasefire - oEnergetice.cz",
+    "summary": "Oil prices fall: Markets eye possible US-Iran ceasefire oEnergetice.cz",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTU8wd21ENTlsSWczM0RvdXFDbXU2aXFRS1ROYlYyZkZXMzZNNm54a3VGM1ZCVGRnSmVCNG5fWC05cUJfTUxaeGZvWGFJTmczaHhtbklUTE1WbmZfcjdTQk95N1lSZG8xU2hrYUJaMG5paUZVamF1ZWJWNlc1LWJ6dEljemVYYXlULVd6bQ?oc=5",
+    "source": "oEnergetice.cz",
+    "published_at": "2026-09-25T07:51:00+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 07:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4ae7b80fd9f2cb635b3c7a0363126affdffe6af5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Markets reacting to expectations of a possible US-Iran ceasefire, not reporting an agreed truce or active negotiations.",
+      "event_key": "markets anticipate possible us iran ceasefire"
+    }
+  },
+  {
+    "title": "Friday Morning Markets: FTSE Edges Higher Amid US-Iran Ceasefire Hopes - AskTraders",
+    "summary": "Friday Morning Markets: FTSE Edges Higher Amid US-Iran Ceasefire Hopes AskTraders",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTFvM2wtMW0tWi0zREdkYzNqVGtkU2syYTRpdExVM3lCcVYtX0JTRHBzcDBMd25OUWpPVWxYZHZYNnNIa2tuTFRDSm8wX09GMW14WUV5Y0RSaTU5Y3ZXaW1jNWtUb1kzV0FVaFFubW5PZDAzUDFOZmU1VF81ZU1nLXpsWElIampBci1MS1dMV1VkZkgxOW1uNlhKZ2xqeXZqTS15TlhtaXl3dw?oc=5",
+    "source": "AskTraders",
+    "published_at": "2026-09-25T08:23:00+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 08:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fa75c9d2282bea1bfe5b742bdd0b116d0de7a701",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.4,
+      "reason": "Markets rose on hopes of a US-Iran ceasefire—indicative of de-escalatory signals rather than a confirmed truce.",
+      "event_key": "us iran ceasefire hopes"
+    }
+  },
+  {
+    "title": "Benchmarks post weekly losses on more offers, US-Iran negotiation hopes - TradingView",
+    "summary": "Benchmarks post weekly losses on more offers, US-Iran negotiation hopes TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVAxR2xGdFFDNXZPQXJ5R0R3VGI4SkNXSDBQSk5qbG9sWjVKQXJQRmNQMnJQTWFjZnFxVGhuX2JyYXRZSEM3UHVLUk1fMUZIbjdoaUNIZ1FrTzhpUnZzUGQ1dUplSTU4T1NqX19zZVZtUS1kRWlLRFdKeFBrZEI0M21pVm9mSlpEeDg0UXRRbnhoX0xzMENWd3lNT0wzX2RaYTEtbE1Qb0xfUGZDVlZlb0F6Vlh2dy1xWnJOZ2NwSEY4amFNaFpfaHdYNWg4S24yTXBGVklRVQ?oc=5",
+    "source": "TradingView",
+    "published_at": "2026-09-25T10:32:46+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 10:32:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1f94504f6f250744a73d7125e34f632a3d986a41",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.3,
+      "reason": "Markets cited hopes for US-Iran negotiations—soft calming signal, not confirmed talks or ceasefire.",
+      "event_key": "us iran negotiation hopes"
+    }
+  },
+  {
+    "title": "Iran says it's up to U.S. to end war as China presses for de-escalation - CNBC",
+    "summary": "Iran says it's up to U.S. to end war as China presses for de-escalation CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-09-25T05:37:21+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 05:37:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e040e063a56f51b96f15bffa6dbbd7720c1b31b6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Iran shifts responsibility to the U.S. and China urges de-escalation, signaling restraint and desire to avoid wider conflict.",
+      "event_key": "iran calls on us end war china urges deescalation"
+    }
+  },
+  {
+    "title": "Iran pitches seven-day roadmap to end conflict with US - Al Jazeera",
+    "summary": "Iran pitches seven-day roadmap to end conflict with US Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2p2aDJ4dC1JV2lYaGZXWXBpenhCOEpxVWlubEQxUUZkTEd1VGxMZmJEY0FfdzllbUNGSDZLZEhuY0EwWXNlTk1xcDhNMkRLRGY1RlBoNkkwQzlqc2tUQ1NxRUNtM0hJRXROUjdKdzZuWXFtTTRJUlpEcjJLVkRkTWhIS1A2RnJObFhPYmdERy1EelZFUWFGNmc5b9IBoAFBVV95cUxNVEowcUwwd0U1VGp0TXQ2dGtTMm5RYm1DUy1Xem5ZVzFETzdHZWladVJuZHNWQzljM0l0SVlWUEk2VlJCcy1SWC05YTRZcXhhT0hMWWpINVBrby1RNTJrSHR2a3YzQ0x1U1NERm9MeXdtQlpYN2tfQ191UEkyVk9DQXFWSG16ZDZ5NHhnMkVEa2FfOTZWejVMT1dsZk1NY25a?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-25T10:12:28+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 10:12:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7ab8627056cad21cb6daa758421962b3b8c66ae9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.92,
+      "reason": "Iran proposing a seven-day roadmap to end conflict indicates active diplomatic proposals and talks.",
+      "event_key": "iran seven day roadmap offer"
+    }
+  },
+  {
+    "title": "Oil Prices Fall as U.S.-Iran Diplomacy and Regional Tensions Remain in Focus - WSJ",
+    "summary": "Oil Prices Fall as U.S.-Iran Diplomacy and Regional Tensions Remain in Focus WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkwxOXhTT2ExSk55Yy1KWDl0NVlKOERpbW04c2Q2NVE1aXRmT2ZpSFNoRkpGYmJKSUZpajZ6NURoanZiTlU0Tkx5anJaWUhLY3dhQ0N5RUN6SGJ0M1haR25NZDBwdWRZb2REbURyU2gxbk4zN2VZRU1aLUg2ZHdDd3duUU1Wa1pSb20yal96N0VXeFRvMEY3ZDgwWS1WUmVYOV9CdUlVY3c2QWRMWVVMQzhpbw?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-09-25T09:10:56+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 09:10:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "63361c94511ed11864304c41b1e6ef8ca0b4b0dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Market-focused oil report mentioning U.S.-Iran tensions without specific diplomatic or military developments.",
+      "event_key": "oil prices us iran focus"
+    }
+  },
+  {
+    "title": "The US kill count in Iran makes the phrase ‘precision strikes’ absurd - Responsible Statecraft",
+    "summary": "The US kill count in Iran makes the phrase ‘precision strikes’ absurd Responsible Statecraft",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rY2YzWVFDb0hHRWwxb1Z3b0FvdncxWm9ZYml6bzh1OXlvbGFvcFBqYnQ0Sl9ybzRlM3AyNzhVb1FpR19LZDFLenNCbWV4aVFsSUM5WWdSNmtBcmhWZnhYZ2owaXNCNXQxYUF2T3l5elZxVzhRS2c?oc=5",
+    "source": "Responsible Statecraft",
+    "published_at": "2026-09-25T09:45:00+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 09:45:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8c53020ec01a6b74a3e5a32a5bb92c5cbbbcb768",
     "source_weight": 1.1,
     "classification": {
-      "label": "ceasefire",
+      "label": "strike_or_retaliation",
+      "strength": 0.75,
+      "reason": "Critiques US military strikes in Iran and high kill counts, challenging 'precision strikes' claims.",
+      "event_key": "us precision strikes kill count"
+    }
+  },
+  {
+    "title": "UPDATES: US War on Iran, Day 211 — Houthis Fire Missiles on Saudi Arabia - EA WorldView",
+    "summary": "UPDATES: US War on Iran, Day 211 — Houthis Fire Missiles on Saudi Arabia EA WorldView",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PSy02TUhURVVnbE9fTUJCenpTQS1NdENLaUVEY183ZFpUX3kwXzFJS3VNNlVLTEs1UjNtYld5eG95b2VFdEMxQWZFRm1uWUVBeXotN1pjMER4RHVyLVVsc1VMZlp5aDhlVDVHWXA5WGpUdTA?oc=5",
+    "source": "EA WorldView",
+    "published_at": "2026-09-25T10:46:45+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 10:46:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7f1eecc02d504d9998382da743b4d9e28c098a98",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
       "strength": 0.9,
-      "reason": "Iran has offered a specific seven-day ceasefire proposal to the US.",
-      "event_key": "iran offers 7 day ceasefire proposal"
+      "reason": "Houthi missile strikes on Saudi Arabia are Iran-backed proxy attacks escalating the regional Iran-US conflict.",
+      "event_key": "houthis missile attack saudi"
     }
   },
   {
-    "title": "Iran's Pezeshkian seeks US ceasefire deal before midterms, signals nuclear openness - investingLive",
-    "summary": "Iran's Pezeshkian seeks US ceasefire deal before midterms, signals nuclear openness investingLive",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3VvNUVwOXB1YWpnc1dfQW9oTzNURnpaTnhsUGhuUGdyek1fS1RrQUhDUnF2OWVWTU9zYVZ1WjJfWmlRZGFXSWFPM3NrR0tkOXdwZ3U4dnAyNzI5cnlVNWJSX3Bmd1VVT3hRRW0xRnMwWVBOZnNObjB1a2FOazM3VEdCUk1YUmRTcThQbTZfSnB5Qk9obENHRDBaLUhMUGFwcUQzQWU1WmJrdGNpTHhQYm9TUm1zMHlzbmlPREhR?oc=5",
-    "source": "investingLive",
-    "published_at": "2026-09-24T21:37:51+00:00",
-    "raw_pub_date": "Thu, 24 Sep 2026 21:37:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e01a092773fa851c421bf17a03e81d802fd31bc1",
+    "title": "Will Washington accept Tehran's offer for a rapid de-escalation deal? - theweek.in",
+    "summary": "Will Washington accept Tehran's offer for a rapid de-escalation deal? theweek.in",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUxxSVZkSnkxYVdnNEZLa2pObGQwTDl1Z2RUaUlIYWxfYWhjYmNSWnoxWnloMnlVRllRR21EamcxNmJHNFhjU0dGQnFvRGNKY1BJc2loVzlFbzZkLWQ5V2E2RmUwZEp1T3RuSmljY2FId0JEbG9rZHFUVWxyWl9jRjZFSUE2bXpqSFp0UnZjUXFLalBmNHI2cTlnQ0pnNkxOdXVhOWZON2d6ZXNJd0VPOFg3OUpQcWxJUXdfX0FMT2HSAcYBQVVfeXFMUDRIWTBnaXh5Z0lyU1prekhCSVZZVTlSbjVoVE9oX0F2RTBkN0I1WURacHlsbjJ4ZzBxZmE2MDdBM3RQbEd2R1pNRzQ3bUw1ZHNOSWotc2ZqelZPeG5SX1RlQWkxYjhUckJId0tidlQzU1AwZmJUcmZCSHJydGhqSEtTTUVlYkd3WkNHNVJHVVlXNkpHc0dmWURXNmtqcDFPTE9oZHBlU2xmcmZrZEljWWo5ZWdqRHBBMm9xU0pLYmJaQk5VcWhn?oc=5",
+    "source": "theweek.in",
+    "published_at": "2026-09-25T04:32:07+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 04:32:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7b8d410586a778497b178def146e11c3b1a22106",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Iran official seeks a ceasefire deal with the US, indicating active diplomatic engagement before midterms.",
-      "event_key": "iran pezeshkian seeks us ceasefire"
+      "strength": 0.8,
+      "reason": "Tehran has put forward a rapid de-escalation deal—a diplomatic proposal aimed at talks with Washington.",
+      "event_key": "tehran offer rapid deescalation"
     }
   },
   {
-    "title": "Pezeshkian straddles Iran’s divide at UN as US talks test balance - Iran International",
-    "summary": "Pezeshkian straddles Iran’s divide at UN as US talks test balance Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03eWU2VWhibE9WblRCbVZDQU5udGdMVXphaDFZUkpTUm5qUUlZeHVMNk5RMWkxcmdnbjFkRmh6dWg3UWMzQ3o5RDVWN2FGSEFDeHc?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-09-24T23:00:32+00:00",
-    "raw_pub_date": "Thu, 24 Sep 2026 23:00:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "85ae13b158908bd0e0527c25eda02f89f61e8f4c",
+    "title": "Iran Puts Onus on U.S. to End War as China Pushes De-escalation - tokenpost.com",
+    "summary": "Iran Puts Onus on U.S. to End War as China Pushes De-escalation tokenpost.com",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSc2RGUXpkTWpNbGlEeTFVd01oSC1tZDhCdTRtdHpjdTdEZ0huVWJ6dThQdTZZVWN0bDBJZDhqaVV6MEZQV1IwVnN4Q1AzVFV2enRIZjlEQktPeDA?oc=5",
+    "source": "tokenpost.com",
+    "published_at": "2026-09-25T05:42:27+00:00",
+    "raw_pub_date": "Fri, 25 Sep 2026 05:42:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2332dc1e038262edefb5261cbae172f0e41b0f30",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Discusses Iran domestic balance amid ongoing talks with the US at the UN—active diplomatic engagement.",
-      "event_key": "iran us un talks pezeshkian"
-    }
-  },
-  {
-    "title": "Iran says it has given Trump administration new proposal for peace talks - The Washington Post",
-    "summary": "Iran says it has given Trump administration new proposal for peace talks The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkxxQ0tXQkJTWm1HVER6Vk9aOUU2cEhZc3M0ckNEaFBuMHVnOFVDS1dBakZCMmU1MVpjbmpDVHR1SlNkMlY2U2kzMC1YT1BpOVk3RWNUT1ZGWlVjbkF4M1FXcTlDQ3BJN2E4Y29MbjRudzNHWnVTYVB2djIyVUxKc1pGb2pFRjR3WlhMOFIycWlGdkVrMS1SLWlCYTlKdXJaR1J4d3h3ODFZOTVfd3hLc2FqeGY0cW1j?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-09-25T03:21:25+00:00",
-    "raw_pub_date": "Fri, 25 Sep 2026 03:21:25 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eb4e45566a183ed859b2bbacf5048cc2c03b660f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Iran says it submitted a new proposal to the Trump administration for peace talks.",
-      "event_key": "iran submits peace proposal to us"
+      "label": "deescalation_signal",
+      "strength": 0.65,
+      "reason": "Iran urging US to end war and China promoting de-escalation indicates diplomatic/restraint signals rather than a ceasefire or strike.",
+      "event_key": "iran calls on us to end war china pushes deescalation"
     }
   }
 ]
