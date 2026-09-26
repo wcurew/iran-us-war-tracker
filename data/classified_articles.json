@@ -1,70 +1,53 @@
 [
   {
-    "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’ - Al Jazeera",
-    "summary": "Pezeshkian says Iran ‘no longer trusts talks with Washington’ Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkF5NC1SODlDdVpxazhVLXItbmNtUEg4ZjVVaXZpYUJLbjNHWE1QVWJ5Z1RNR29GRjU3UmdqOUhzY2FJVHIzcUxNV3E1cE40SlpmTHJnZGwxRXJpVmVQS2VlNzV2Vm1nNTRKUmVfOTdqM09WV0tsNDVMQWRiR0JRV2taOUxkZUEzY1RUcjN5Qm1veGhGaGx6Y2F3MTlWQ3M3MkHSAacBQVVfeXFMTzFiTG1MS0M5bFg3Um1BWmRwR0xYa19ON094c2ZPUVhtaUNjZjlHaHlnbVhzbW9FZDlzSWJDbXZWS1I2QVBYVzU3cVZDN3pGR3c1dUZka2NLRVZMR2JucGtTOXlqWEVzcGFsclJ6WkNLdzlWSC1YOFhpaFE3LThaNFlrYm81MXd2V0xFLWdFT216MFVZaDBOZGszSGFIUTRsams1QXJzbUU?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-09-26T11:12:52+00:00",
-    "raw_pub_date": "Sat, 26 Sep 2026 11:12:52 GMT",
+    "title": "Iran War Day 211: Trump Rejects Ceasefire, Reportedly Plans Post-Election Bombing - The American Conservative",
+    "summary": "Iran War Day 211: Trump Rejects Ceasefire, Reportedly Plans Post-Election Bombing The American Conservative",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmlJREdRVzVoenl3MjhIQmZGVndYTDFYcEM0RG5rVjZyLWF5bkV6eUZqUjZmNEllc3VHa0g3NHVvOVdhZzdyenA0OW9US3dWeS0xRDZsNGVXSklkNXB6MkRVeUduN3BHMVFRMURuY3VDNlpMVW91RFFoT0pHR2VHZkM0ZWN0bTZ1ekxwaEhZbEpuaUVVdnNleW90UV8zbjFrTDVzRlJKVkZMSzRRLVV2UFBNT2I5MDdLakdZNA?oc=5",
+    "source": "The American Conservative",
+    "published_at": "2026-09-26T19:13:00+00:00",
+    "raw_pub_date": "Sat, 26 Sep 2026 19:13:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "085fc0f3b5f9b46a684490977b431daabd8fc52f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Rejection of a ceasefire and reported plans for post-election bombing indicate rising tensions and hostile intent.",
+      "event_key": "trump rejects ceasefire plans post election bombing"
+    }
+  },
+  {
+    "title": "Trump rejects Iranian ceasefire offer - Washington Times",
+    "summary": "Trump rejects Iranian ceasefire offer Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVEhRVTgtZG0zdWZfbkJ3V095bTlYU05nSFRNOFJUYlhCcFJCcGZJdGNwNlJodjZaVVhUVW5rYVZZaTRNVlFSVFVkLTNlbWppcmZ4aHQ3QTVxRUNhLW10OHRyd0FHR0tQU2YtY0RLYnBsYXZkTE1BcWcwbzZtZF9GOTJaZjZxY0ZVT2xVY3p3VFA?oc=5",
+    "source": "Washington Times",
+    "published_at": "2026-09-26T16:07:55+00:00",
+    "raw_pub_date": "Sat, 26 Sep 2026 16:07:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9a332124adfb35ba2fad4d71432d0caa5e4cbca6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "President Trump rejected Iran's ceasefire offer, signaling a breakdown of diplomacy and increased tensions.",
+      "event_key": "trump rejects iran ceasefire offer"
+    }
+  },
+  {
+    "title": "Trump rejects Iran’s proposal to reopen Strait of Hormuz, restart peace talks - The Washington Post",
+    "summary": "Trump rejects Iran’s proposal to reopen Strait of Hormuz, restart peace talks The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1Rja0Y2Z0RxMU12MzE5M2d5UUhPRnZYYWdhQVJ3YTdtdjBIZ1c0eXV1WjQzSVZJNnk2UGlpR2dQV2RtUHZqR2tzRjVwaTNSbXJRV1RWUEdEN2hBY1p0VXBxVzJnZFUxVV92N0gyTmhqYkg2Szc3THE3UTByRWUyN09fT2M2WWRDanQ5VTV0aGJCWXFDeXZCSjNxMEY4LUQyY3ZBWHk1VHl0RjktMGh2V0VwTUZ4SGpqOFpELVNTQlFSRjh2b1Vtdg?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-09-26T20:21:17+00:00",
+    "raw_pub_date": "Sat, 26 Sep 2026 20:21:17 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6a30273ae5c83acc30e95e590afa6d95ab129f2f",
+    "article_id": "e8200307e3936aa7582b57d172856dc0476f7193",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran official says Tehran no longer trusts talks with Washington, signaling breakdown in diplomacy and rising tensions.",
-      "event_key": "iran distrusts talks with us"
-    }
-  },
-  {
-    "title": "Pezeshkian says Tehran 'no longer trusts' talks with US, claims Washington 'miscalculated' Iran - The Jerusalem Post",
-    "summary": "Pezeshkian says Tehran 'no longer trusts' talks with US, claims Washington 'miscalculated' Iran The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ORGNOVVh4dDFjZnBCUmRwQ0pHRzkxQnJzUTlyV2w3VFd5OGRWX3RHcmN4dExRTHlpclhpWndJZkV0MzBJWlpPWklMWGRSMllvcl9yaTlkWDBZQW9ldmliZm9TSWZTRXJIZlE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-09-26T12:59:18+00:00",
-    "raw_pub_date": "Sat, 26 Sep 2026 12:59:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b4803bc561144970c05614c7c848987e87371b96",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iranian official declares loss of trust in talks and accuses US of miscalculation, indicating diplomatic breakdown and rising tensions.",
-      "event_key": "iran loss of trust in us talks"
-    }
-  },
-  {
-    "title": "China Confronts US at UN Over Iran and Cuba - Modern Diplomacy",
-    "summary": "China Confronts US at UN Over Iran and Cuba Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2pFaWlBV0U3eVc3MTk4eUI3X3kzbWdvYXhESndXcHFDaXM1clV6OXhSRURHYnVjN0Y0akt0ekxKSml3ZFhXZzY3Z3lpazJuXzg3RTN2MmVEWnFIbjJ4MEhmVUsxUXJPaWFUVWtzdTAyWTRUeWo1aEF4eW44bVBpbThDOExDczl0b0E?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-09-26T15:15:00+00:00",
-    "raw_pub_date": "Sat, 26 Sep 2026 15:15:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "417aa3e307e5048733ae81a6b9a81d03598dc3e0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "China's public confrontation of the US at the UN over Iran signals diplomatic escalation and heightened tensions.",
-      "event_key": "china un confronts us over iran"
-    }
-  },
-  {
-    "title": "Trump rejects Iran’s 7 day ceasefire proposal, prepares for military escalation after US Midterms: Report - Asia Insurance Post",
-    "summary": "Trump rejects Iran’s 7 day ceasefire proposal, prepares for military escalation after US Midterms: Report Asia Insurance Post",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MbmtYR0JQY01TbUlzS2Z4VlFsQ2taa0otSHZKU0tFVzVpbGZSZkVSOEo4RnA5OW8tbVhzQ0FKeFpiUEtLRnU4M29CcnNudEc0eEJ1ODBMbw?oc=5",
-    "source": "Asia Insurance Post",
-    "published_at": "2026-09-26T14:16:06+00:00",
-    "raw_pub_date": "Sat, 26 Sep 2026 14:16:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a213113ef7b101081fd2b4fd537fa261d8c5eca7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Rejection of Iran's ceasefire and preparation for military escalation signals rising tensions and breakdown of de-escalatory steps.",
-      "event_key": "trump rejects iran ceasefire prepares escalation"
+      "reason": "U.S. rejection of Iran's proposal signals breakdown of diplomacy and rising tensions.",
+      "event_key": "trump rejects iran restart talks proposal"
     }
   }
 ]
