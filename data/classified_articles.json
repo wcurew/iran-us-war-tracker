@@ -1,53 +1,138 @@
 [
   {
-    "title": "Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. - WSJ",
-    "summary": "Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXp0VDVwMkZGQUR0OVFaQ0F6UHY3eDRsYmVadXFSWkRLQUhWVEZCVkFkdmZqd3FnMHBLQ05nWWZLV2p6MzVFWlVRYzZ5MDJURDczQ0FaMmdEOUNPTENwN3RRU01oOHpIdUNKenN6dnJWRzNWeVZwZFpuQ2RLakc0SE1qVTVLNDVsWTBIbm1Tc2N6V2N6aWNPN05wUmx1dkJLRE9Md0Vxd3ZVWTBhUDJoOWFOeGYydXRVRUE?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-09-27T21:17:00+00:00",
-    "raw_pub_date": "Sun, 27 Sep 2026 21:17:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0ddf86f9c79bccc6898c990652c6dbdc4d1ee2c7",
+    "title": "U.S. Marines injured in recent Iranian attack - nbcnews.com",
+    "summary": "U.S. Marines injured in recent Iranian attack nbcnews.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUc1RHFEY1d2aXlOMElSX2tyVU4taDZNdmdMdUdQckN5aWw3MVhQQnU4NUlQWTBfV1prX2RnZGFRdHI4VjFJdHpOdWUwSTQ4XzgwbW14cjl5V04yWlNLd0NkRUdLX190cURfRUw0dWN2WmlYeFlkOGhEQy1zdFZ6S2VGZ3ZiRHpfSExyd2dySS1BUGtFdXRzelhkLVVoMk1IT2duWQ?oc=5",
+    "source": "nbcnews.com",
+    "published_at": "2026-09-28T01:07:00+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 01:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "24980b19f8011cb468c052dc6a7ba3a7d37c5a7d",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Describes pressure on Iran to make nuclear concessions to revive peace talks with the U.S.",
-      "event_key": "nuclear concessions revive peace talks"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports of a direct Iranian attack injuring U.S. Marines indicate a military strike/retaliatory incident.",
+      "event_key": "us marines injured iran attack"
     }
   },
   {
-    "title": "Trump expects more U.S.-Iran talks this week despite rejecting truce proposal - Xinhua",
-    "summary": "Trump expects more U.S.-Iran talks this week despite rejecting truce proposal Xinhua",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HN2FpODVQWndFUlFEMU5YaC02M1Vaa0U5TE9QUGxNOXZ0VFhVVFk4TmNYYkt6QjFWQXJJY0JCcll6bGs1SDlJR1R4Z1RhczRRNTFrMk9tZE4tajlYeGxJdHhsSTkwTW1PYUdRd20tNkJhVnlFc2g4Rk92bGM?oc=5",
-    "source": "Xinhua",
-    "published_at": "2026-09-27T21:00:30+00:00",
-    "raw_pub_date": "Sun, 27 Sep 2026 21:00:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "db1b271fef07de4da1270bc420354e8b860668e9",
+    "title": "UK Thwarts Suspected Terrorist Plot Against Base Used by US Bombers for Strikes on Iran - Air & Space Forces Magazine",
+    "summary": "UK Thwarts Suspected Terrorist Plot Against Base Used by US Bombers for Strikes on Iran Air & Space Forces Magazine",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YMjF0MHpsSVk5dC1lalVjU250dFhxb1gyeTd0VzE0dm81SFhQU3ViRUNINEZ6Z2p1ZmpDcnBaSXRfUml6Ul9mR2t5N1oxMy1LQXJQSFRYRExCY3JFWjVsU2YyMEZnSGR5WDlXdW5mdmxmRWZmdlZKZjAxMUgwZw?oc=5",
+    "source": "Air & Space Forces Magazine",
+    "published_at": "2026-09-28T00:52:34+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 00:52:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e6ba9f5c896eea28cdc2a0fef761d34cfb5456d5",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "proxy_escalation",
       "strength": 0.7,
-      "reason": "Article reports ongoing/expected diplomatic talks between US and Iran despite rejecting a truce proposal.",
-      "event_key": "us iran talks expected truce rejected"
+      "reason": "Suspected terrorist plot targeted a base used for US strikes on Iran, indicating a proxy-linked escalatory attack (thwarted).",
+      "event_key": "uk thwarted plot against us base"
     }
   },
   {
-    "title": "US-Iran talks continue as tensions rise - Semafor",
-    "summary": "US-Iran talks continue as tensions rise Semafor",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTm9WYVV1Q0RCWFNWSF9ZWGV1MU83QjU4RVBJdGFCRkVfdVc3Z0J6elhfaVhlNVNZMnBPU0luZUEwTlZoZm9BUHdUMndHMmItNjI2Z2w5Tll5TXhiY0Q4VXdWSDlMR1BzVEZsbGhoUHJzVlRsc3l2dFdvdndHQWdubm1WZG5UMmdDNmc?oc=5",
-    "source": "Semafor",
-    "published_at": "2026-09-27T22:26:00+00:00",
-    "raw_pub_date": "Sun, 27 Sep 2026 22:26:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "05fbfd0d4d31193367d4786ba02ecfcc9bb74451",
+    "title": "Report: Eight U.S. Marines Were Injured in Iranian Strike on a Ship - The Maritime Executive",
+    "summary": "Report: Eight U.S. Marines Were Injured in Iranian Strike on a Ship The Maritime Executive",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONE5qbFFuZmdKb2dPUVBYdWQtS3hLdHFKSExQTllRQ1ZpRHh5RVJzUWd2QmRjWTB2TUV4VXpKZjJoZ3NZQUpPeGMzejIySkR1TzlCdV9tVFBPMVQ0dnJsNlh2Q3o3Rm9ib2xqVWFyUkVaeDlRb25QeWVuYXhkR2FFOC1WMWJwOGZsMEZpQ2VRSUZBTG01bElUcW1GT0hINERBeWp2WnZHaw?oc=5",
+    "source": "The Maritime Executive",
+    "published_at": "2026-09-28T02:53:33+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 02:53:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "852c5cc0af06b08e0d1d9cc5a9c8403d1af2cf85",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports ongoing US-Iran talks (active diplomacy) despite rising tensions.",
-      "event_key": "us iran talks continue"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran reportedly struck a ship and injured U.S. Marines—direct military attack reported.",
+      "event_key": "iran strike us marines injured"
+    }
+  },
+  {
+    "title": "U.S. Sea-Drone Strikes On Iranian Base Offer Glimpse Of The Future - Eurasia Review",
+    "summary": "U.S. Sea-Drone Strikes On Iranian Base Offer Glimpse Of The Future Eurasia Review",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2l5MzJ6LUhfeS1yZUlLUXNmcm9CVUVXQmZVVXF4c3ZWcGxmWDZ3aEdNcDNJTk9EVmpMYzVpSVpWZXVINkdpaDl4c1VIUWFtZGpfX1hGd0pjcU0wZVp5MmpxM2xUNUNTSTg1YmlCNFVlbkVlZHN4MzNkMzhrY1ktM0wzYklZeFExNWJIREliX29XN2xFcklYcnByQ3FIZVZ3TGtuUmx0YVo?oc=5",
+    "source": "Eurasia Review",
+    "published_at": "2026-09-28T00:11:06+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 00:11:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "351039eb929b33f083279a68700daf72eafcdace",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports U.S. sea-drone strikes on an Iranian base, a direct military attack.",
+      "event_key": "us sea drone strike on iranian base"
+    }
+  },
+  {
+    "title": "8 US Marines injured in Iranian missile attack in Strait of Hormuz: Report - aa.com.tr",
+    "summary": "8 US Marines injured in Iranian missile attack in Strait of Hormuz: Report aa.com.tr",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSy01bDFHNDlwMVpkZ0VrN0s3ZVM0N1BaeFR4eVd0NFNJMDdYanF0bWw4cXY2dl8zeTV3bDhxTTNCWnFBX1lMSGhxQ3NTUHdsQm0wZ2JCem9ic2dHTkxXOExhbzlhTU54VWxzcHJ3NmdRejh5ZHZrN0pjRkFwMzYyYVd0STNFR0NsOXEzR0tadlVZS2VESGpaby16eFN6N1IxcUJ0Mm53U1FWRVdLN0pnVGRKUDgxQQ?oc=5",
+    "source": "aa.com.tr",
+    "published_at": "2026-09-28T03:28:04+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 03:28:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "de379e83d7f849d4ef10a4dba4248d2cb87f7085",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.95,
+      "reason": "Iran launched a missile attack in the Strait of Hormuz that injured US Marines.",
+      "event_key": "iran missile attack strait of hormuz us marines injured"
+    }
+  },
+  {
+    "title": "Eight US Marines injured in recent, undisclosed Iranian attack on ship in Hormuz - report - The Jerusalem Post",
+    "summary": "Eight US Marines injured in recent, undisclosed Iranian attack on ship in Hormuz - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1OV9LTC1WODJFLTZndEZveUhQM05PRHFyLVFBM29WWlNHNGdDNWlNVXE4UW5oYXNOLU42U0t0NGtxTl9PQ2RaZzFPb01qaTNsd01jbHNKaE80SlM4YTI0?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-09-28T02:39:07+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 02:39:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fa4846f36820f3234072ac86efb1652e895f3a35",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Undisclosed Iranian attack on a ship in the Strait of Hormuz injured eight US Marines—direct military strike.",
+      "event_key": "iran attack ship hormuz us marines injured"
+    }
+  },
+  {
+    "title": "Eight US Marines injured after Iranian missile strikes vessel in Strait of Hormuz: Report | Hindustan Times - hindustantimes.com",
+    "summary": "Eight US Marines injured after Iranian missile strikes vessel in Strait of Hormuz: Report | Hindustan Times hindustantimes.com",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcThsZWpTS0EwVDdERGZ0eHJIOWEtY2oxN0JrZ25YYzZlRVVfQW1hY1AzNGNjMFF2Q0l0RlhDTFlid2U3OHUtNkhIR09VMmpFMXlmQXZoM2M5UHQ2WFpOcVNLNmo1VDhLSG5zV0gzeDhJNWI2X2FNZ3IxUU8zdUNmSlVjb0hiaklMLU9iWmdEVDZiTThyWXBkVVhlNEF4SjdZMVdWUU5EVzJjSHhHOWlUUWppLWdNM2xMNi1CekYzZUw4NVVJZ0RpaEpSOWZoQWVCMGFGbHpfVHVoTFFCcVMyV084NHFqSFZmbGJkWnp1aXpKUU55Ymw5VFhNQ1BJbVFvS1hLWjJ3RWEyeGw5UURnSWE3TdIBmAJBVV95cUxQdXhwYm1yY3o2cDZRTGEtNmVxYXAxS0tpQ3UzR0I5aTA0dWNxby1tRW9YUGRLVTUzRFZIWnZTY1ViME4tWkdOaHphbVFGSEU2dHVFXzA2TG1NNkVLU0tldUx0VWsySXc3Rl9PV0JCdC1fRUQ1V01tUUVXblVwME1VaFVSc2pnVGFfQkM0TjhPc05tc0N1eGk0M1JHX0U1aVFLck5QUnRkYjVEVlF3NFhoRTlKUnV5dEs0eTM0X2hITkFlYkZnMVBSS28yQ0hhTWUzMnVWS3IxbmdSSXBSdDFrTkFYN3ZwRzVLNG5kNUNhNVdSUm9hMlpWMkNwRTB4ZVBhbTRYTV9LaC1FM0VfUHBFbXV3MEN6eDN6?oc=5",
+    "source": "hindustantimes.com",
+    "published_at": "2026-09-28T02:23:19+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 02:23:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2089015fe3a13fa96b8b8e11d1c3d78b68c2281d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iranian missile strike hit a vessel, wounding US Marines—direct military attack between Iran and US forces.",
+      "event_key": "iran missile strike us marines strait of hormuz"
+    }
+  },
+  {
+    "title": "Eight U.S. Marines injured two weeks ago when Iranian cruise missile struck ship they were operating on in Strait of Hormuz, officials tell NBC News - news.cgtn.com",
+    "summary": "Eight U.S. Marines injured two weeks ago when Iranian cruise missile struck ship they were operating on in Strait of Hormuz, officials tell NBC News news.cgtn.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hQk9kR25TM2N2RlZ1eU1GUDlyZS1zeS1KeVN0Ym1rRy1mdHgxTzBFOUtqa3paeGpuemhmMWZEdmt1d3RtZVl6NEl3cGh5ZXZkV2xhMDJaNXhoVFBIMDQwR3laVVdka0E5RVJIV0NR?oc=5",
+    "source": "news.cgtn.com",
+    "published_at": "2026-09-28T02:56:44+00:00",
+    "raw_pub_date": "Mon, 28 Sep 2026 02:56:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fc29bf256166b9fc3359513ded94b91d5dfa9be9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iranian cruise missile struck a U.S. ship, injuring Marines—direct hostile strike against U.S. forces.",
+      "event_key": "iran cruise missile strike us marines strait of hormuz"
     }
   }
 ]
