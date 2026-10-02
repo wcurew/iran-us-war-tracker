@@ -1,121 +1,189 @@
 [
   {
-    "title": "Iran weighs options as US pressure, nuclear impasse deepen - The Jerusalem Post",
-    "summary": "Iran weighs options as US pressure, nuclear impasse deepen The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94REpNUDB2WnJEVlZycG12SGU0WE45cFJVdEdhMmNycXFQNms5bGZHZF9rQjBmLWpjaUpvRkNFUm80ODA4czBtRUFtSW1HRmI1SEVqbldMOE9RVXJrZExWMm1aRUlyaWtpakE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-10-02T06:29:01+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 06:29:01 GMT",
+    "title": "Iran talks stall as Yemen fighting escalates and Flydubai probe continues - ArabAmericanNews",
+    "summary": "Iran talks stall as Yemen fighting escalates and Flydubai probe continues ArabAmericanNews",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHo3OG1ER2pWVlRIZXluYlQ2TmJrdWlJcFlXN2tFM2RSblJ6bHhvcnphY3VpU1lHeEpDVFR5YWxOUDlWZ1Q0OUFuMTBOclB4Q0JpUUtkNmg3aDRvb01QWEhXdW5wbXNMLW5ZMXZPZElZdDBJTUUzMURDOC03cE9Za2NNbVNLYWlQYzIyMkt0NVdNUHpfWnpnTnpDR1o5cFBabG43Vlc1dnZOVjNrYUlDV2p3WjM?oc=5",
+    "source": "ArabAmericanNews",
+    "published_at": "2026-10-02T10:31:19+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 10:31:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0722de18f51258eb6bebaa37cfb29da5ace23bf7",
+    "article_id": "5b90192af867f7e29ae0155f3a62d33fb78acd7f",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran considering responses amid increased US pressure and nuclear stalemate, indicating rising tensions and potential confrontational moves.",
-      "event_key": "iran considers options under us pressure"
+      "label": "proxy_escalation",
+      "strength": 0.75,
+      "reason": "Yemen fighting escalates while Iran talks stall—proxy (Houthi) escalation tied to Iran-US tensions.",
+      "event_key": "yemen houthi escalation iran talks stall"
     }
   },
   {
-    "title": "Iranian press sees diplomacy alive but narrowing after US response - Iran International",
-    "summary": "Iranian press sees diplomacy alive but narrowing after US response Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12TkNrOUJjbVF1Ymc1MEQyZ2hkMnJNa0liUGJkX20yeVA0QXNwZExucFNOamc4a2tRT0hWa1FFdGx6MXNYd3BPUTdfS3ZoS1RINGc?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-10-02T02:34:50+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 02:34:50 GMT",
+    "title": "US Sends Third Carrier Toward Middle East as Iran Diplomacy Faces Pressure - The Diplomatic Insight",
+    "summary": "US Sends Third Carrier Toward Middle East as Iran Diplomacy Faces Pressure The Diplomatic Insight",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmFpNkI2MG9lSlFTY3c1TTVLRGJNNkRSd1lGSzhCbGN6TVBCYmJUUF9fZFQzREJYcWtGYWhLeFIyRk5tUXJwbDdDdGpxWDgzMkJiUFBJTVk1cG12bUR2LTdvYUJPRlJTX1Rxc2dvRF93MVBrdGU3dFZmWl93T1JZUQ?oc=5",
+    "source": "The Diplomatic Insight",
+    "published_at": "2026-10-02T10:00:05+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 10:00:05 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "70ed43ca57e6284d1b1b1ffa24efcfa15b4e3291",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Reports that diplomatic engagement remains alive, though narrowing, after a US response.",
-      "event_key": "diplomacy alive narrowing after us response"
-    }
-  },
-  {
-    "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes - CNBC",
-    "summary": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes CNBC",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBidi1mNG5GZUFydmJ6X2tKWVZBY1VPV3lnY0NXN19LdURsMk9mN0NleFcySnN1aDVvaFJDMm1zNnlSbXpiZW13RlR4NHJrT0QycGpHcTlmajdxUk1PRVRGWmdCN0RZTEdIcEVXRG90TdIBdEFVX3lxTE1HWVhkdG5BYzJwTWFWaEo5U1BQbDJaeXRqTDIzR1BTYWtESnotcDhTd2RobVFLajlFTUNOcEZaVnM4NjJ2cmVBeWpBbDJmV2UtcThTaDNCdG5SVUJTdFVZSERiakp0WGJYQ0ZoaXRvRGVFTWJ1?oc=5",
-    "source": "CNBC",
-    "published_at": "2026-10-02T06:51:41+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 06:51:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4cecf045cb438b919507fa6d1468bdf95cb820ac",
+    "article_id": "d2e6d752d806cf73ef433f121929d52783c530ca",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.9,
-      "reason": "U.S. carrier deployment and presidential warnings of strikes indicate rising tensions and potential military action.",
-      "event_key": "us deploys third carrier group trump warns iran strikes"
+      "strength": 0.85,
+      "reason": "US deploying a third aircraft carrier signals military buildup and rising tensions amid pressured Iran diplomacy.",
+      "event_key": "us third carrier deployment toward middle east"
     }
   },
   {
-    "title": "Third US aircraft carrier heads for Mideast as Trump keeps Iran strikes on table - Türkiye Today",
-    "summary": "Third US aircraft carrier heads for Mideast as Trump keeps Iran strikes on table Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlp4cGFQQktYaGYwZ3MxOFJMVGFQNGpZbWZVRnNGMlNubThEVzhoUFI2OG9rOEcxMWR1cTQ2VkVJaUZJdTN0M0JtLUI0TFR5QmR1bjdoUkxmZHhHNDh3aEN6WE9GWXdkMjc2TTJiZ1V5OGlMM3NqMTFaU0RlRFdpZGFLNE1icEVfazhnOUVRV3REdGc3WlV3YU1BaWZzaFJFamNpeTVwNjh1VWFZTGdFT1l5eFdqQVJfWkNMN0x5X3lhZw?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-10-02T06:50:44+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 06:50:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cb73354530814a83750e49879c72ed726c3b99ca",
+    "title": "Trump is warning of severe retaliation against Iran if it's linked to the Flydubai cockpit attack. The U.S. is already deploying more missile defenses and carriers to the region (with videos) - Plataforma Media",
+    "summary": "Trump is warning of severe retaliation against Iran if it's linked to the Flydubai cockpit attack. The U.S. is already deploying more missile defenses and carriers to the region (with videos) Plataforma Media",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVRPUWlndDZNeGFXaGJ5T21QZ1FUdEVvMXdMMUlJNXh0NFZEc0lkU0tuOWhhSGtNb01sSVh6ZDNVX3JJYlNRVG9UNHptQzlSQ3FRdmpVbVk5QlRNNXRqODcxQ18tV0U3Tm4yUGxIOVQzVTJWZ2lGQnFyZ3QxZGcyVEc4LV85amNONldTYVdibFVmRVota0JqNHBjYjh6TFhK?oc=5",
+    "source": "Plataforma Media",
+    "published_at": "2026-10-02T09:54:46+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 09:54:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d5a1fbf1d8205c3fbaf4e5f98f120749c981e294",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US military buildup and threats of strikes increase tensions and risk of confrontation with Iran.",
-      "event_key": "us third aircraft carrier deployment iran tensions"
+      "reason": "US threats of severe retaliation plus deployment of missile defenses and carriers indicate rising tensions and potential military escalation.",
+      "event_key": "us threats and deployments against iran"
     }
   },
   {
-    "title": "US signs $24.4b deal to rebuild missile stockpile depleted by Iran war - WION",
-    "summary": "US signs $24.4b deal to rebuild missile stockpile depleted by Iran war WION",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVdfX015d2tJQ0hwTF90T1NFZEk1SzhIZHB3cmxBdjhmM0Z1aXVHYnNibmpXOXhvLW4yQWVWYXB3MzlBRW1JUEtVeWdWS09wZTBKQ2w2ZUNWQUlVUzNIVFJITC1mZVVKWHlGdGp1dy10aklINTVrbkRHdWxSN21vMFJ3MXBiZHJremFmajJUSDdPOWJ2WGNKUEpCN1ppVmdGd20zdk9wQjhVTFJmNTg1QTZENNIBuAFBVV95cUxPSlI4cWxJdzdFSjFHcFgzQnkyV1gxMDhERXpYenhWLVRWYkdaeVJNX280YnFiT0FhN0pfemdZaTdVTDI0VVROM0RsMjhod0JlYjY4TjFyZHVqOWdqeXJSc29kX01vTUxBaVBjeER5V0pDUHAzQi1OdUQzb0xqVWc1SVF3VnVJalJsOXdqcDViQzVnMFlFdnMzalh4M2RkWnIzdTA3SWpYZFNMbE8tNHFZWGUwLXN0eW52?oc=5",
-    "source": "WION",
-    "published_at": "2026-10-02T05:19:00+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 05:19:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "faff4beb19371e390b2502dd47ff2cb6c7571659",
+    "title": "U.S. Sends More Troops, Patriots as Trump Weighs Iran Strikes - kurdistan24.net",
+    "summary": "U.S. Sends More Troops, Patriots as Trump Weighs Iran Strikes kurdistan24.net",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzdRc2NLLVlONWI4dVlkLVpJZEgza3ZBNnh2MHVNSWNUX0M3aEhkT3VDUEUtc29Idm9FeUU3Mi13NDA0M0h5QktKM2xnM2pmdGRsUDJxUlRpVEotNUFMUkVyc2tUaFVHSFI1S0JBLXZhcnBpSkFpMjIyTWlLR1ZkV013cTJCdk9ZVU5YSWpONzk5eWZ4Sl84ZVN2dEktVzJPTG05WA?oc=5",
+    "source": "kurdistan24.net",
+    "published_at": "2026-10-02T09:23:00+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 09:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "df2f3ebbe5241861983e8aba2660bc22913d1af3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.65,
-      "reason": "US rebuilds missile stockpile depleted by Iran war, signaling military mobilization and rising tensions.",
-      "event_key": "us rebuild missile stockpile iran war"
+      "strength": 0.85,
+      "reason": "US troop and Patriot deployments while considering strikes signal rising tensions and potential military action.",
+      "event_key": "us deploys troops considers iran strikes"
     }
   },
   {
-    "title": "US Moves to Rebuild Missile Stocks as Trump Weighs New Iran Strikes - kyivpost.com",
-    "summary": "US Moves to Rebuild Missile Stocks as Trump Weighs New Iran Strikes kyivpost.com",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fM3djXzhwa1E2RUtBMUFPZ21WR0NuUFV6TnVYOGhrcDhpU0VRWnV4aC0xblVfSFptcExXaGFvREZDbVBaRU9xUVpmYw?oc=5",
-    "source": "kyivpost.com",
-    "published_at": "2026-10-02T03:48:07+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 03:48:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "524d0807ce53bc15e935ce0c8a8e0dc0f294bdc0",
+    "title": "Trump Threatens Iran as US Sends Third Aircraft Carrier USS Theodore Roosevelt Near Iran: 15 outlets compared - NewsCord",
+    "summary": "Trump Threatens Iran as US Sends Third Aircraft Carrier USS Theodore Roosevelt Near Iran: 15 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0Jha1BtNmE2ZEZ1VnF1OFdIZ2I4aUc2Sjctdmt6MFFEUXdMT2hGOVFNVUkwMklMRDdMdkhhSGhmTkJ5ZUpMV2RZTFN6UkNZdHozeFFwSUVTQ3d2aURuekh3SWZOOFNqT242cF9fS0h4VG9hM3ZBZFJJOFpycUNCM1FGX2dmejlHU0QySHNPeUZ1dFBYSGVSc3MzWExXWExyT2pFZEMtV0MzdE93Y3VFemFJRmhKSnBDbmlwREF5OXZJeVBYaWF1S1pSaU5mdENzckJ5QVR6M2tRSk95NjZLRkJKZV9QWkx2X1E?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-10-02T11:44:20+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 11:44:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "516c2df08c41808097d100df9829c2065b4b8855",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US threats plus deployment of a third aircraft carrier signal rising tensions and military escalation.",
+      "event_key": "us sends third carrier threatens iran"
+    }
+  },
+  {
+    "title": "Another US-Iran escalation in the offing as Trump weighs next move? - The Federal",
+    "summary": "Another US-Iran escalation in the offing as Trump weighs next move? The Federal",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVG5MSVBTWF9uZk8tUWxWbEIzMWUtQldCR3BzNklMT3dJeEd6RDROeWNSeVhnVGFTb3FZZmhDRmNkNXY5OWQ2YWg1RlVRMmJEdFFXNlVfY01VWHluWDdTYjlWYzdQYzFCZ3ZkUExaWldobXV2NDUwRU14QzJEYmpEd0lxMnl0Q1lZNnFkRU80TWhXOEY2YkhVZm1qck9mYVBRSFBNbVk1OVhBSzV1NzVUdWFYOE5mSGNxY2dN?oc=5",
+    "source": "The Federal",
+    "published_at": "2026-10-02T14:53:53+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 14:53:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3cc346dd9b72dd145d74239e9bd9f212a5fcc07a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US rebuilding missile stocks while Trump considers strikes signals mobilization and rising tensions, not an actual attack.",
-      "event_key": "us rebuilds missiles trump weighs iran strikes"
+      "reason": "Headline signals likely renewed escalation as Trump weighs next move.",
+      "event_key": "us iran potential escalation trump"
     }
   },
   {
-    "title": "Gulf oil infrastructure at risk as US rushes Patriot missiles to Saudi Arabia, Qatar amid Iran tensions - The Times of India",
-    "summary": "Gulf oil infrastructure at risk as US rushes Patriot missiles to Saudi Arabia, Qatar amid Iran tensions The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSktfZXFBYl9RZFliRHQ4TWJTMFhUdktyenlKVUdfd0RsQURFRHlkVnFWRVc0amV0WDV3enhWci1kTGlic19PMHJyTEVnOVJRZ3hTWV83WXJILWxGWUJmQ1pzMDh1NzdNUHNzNzVfSG1BNXhQZUR2SGg0eENUbzdJN1ZyQWpmTjRJcnhfWklBWkpHeUhMWTIzTHFORGx5WjhvQUkzemNlcVU5d0gtLVZTTFkwVkx5Q3JzMjlVdGJJOFFvYTJ1cU5nbklFaTE3TVBBVXY4bzYta1BsTnQ4c3c5aDRxMU11Yk9WeTdLaHBDMmJKTEpEdC1aWHZCNnFTbHgycVpIWW1EbHhpWkdaS2xVTGllTlXSAZoCQVVfeXFMT2xSWW5VWHVndHV0WkdYMmJwQUNJbkI1V293SUptTDdoQlJGQWg0QnNPRW03LTdGTlZmcTZUNERnbFFHWGIxMUs4WlBoQ09nYWVQaXdVUXhVLWd5X19MNkJ5ZFBuSE5kVXB4S0pTcUZISE9hcy0zSS1SU2szeUtFbHNzTGJmNEhvX0pGcXVxQ1FvOGwyT0NMalJTclpjR3BEeXU1a2pxQWtxYlQzZHYyYlU1VkdreUptU1h0eDdyY2dYUGtmdWZkS1hqaXd2U3o4aHJXemxLOVdNakV5SlcxLXlFMGhFRFBBUWROV25wbUktQUR0d0pVdW5NLUVZelRTUWp5WTZISHZHcDFtWF82dGtpUkRPMkFFRUdR?oc=5",
+    "title": "US deploys Patriot missiles to Saudi Arabia, Qatar amid threats to renew attacks on Iran: Report - thecradle.co",
+    "summary": "US deploys Patriot missiles to Saudi Arabia, Qatar amid threats to renew attacks on Iran: Report thecradle.co",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnZQbVpLcWQzMnRzd2lnVHEtbEZIYWVSRzIwWEJZM3pUdlV6SllGVTA1a2I2VnM5TzJUNC1tWFktOVBrWVprS0txUE5jSmZPbU9oOG80YlFsUGl2T0dpWkJzZDBGTkVSV2lDVEdQdmZOTWZMS3R2bWJXZnM0cDlnMFc4YmdIS1BKX2tkYnBOZGpXeFVHUmNQR3pRM3dpRzg2LUZoWHlHS2ZjalFrUTR4dF9zVzdKeHBGX05hcksxc1pmZw?oc=5",
+    "source": "thecradle.co",
+    "published_at": "2026-10-02T12:28:15+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 12:28:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "74631b79968c6fcd1655d18e035c212079d7f854",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US deploying Patriots to Saudi/Qatar amid threats signals mobilization and rising Iran-US tensions.",
+      "event_key": "us patriot deployment gulf"
+    }
+  },
+  {
+    "title": "US Navy Flees? Iran Launches 40 Missiles & Drones At 'ENEMY SHIPS' In Hormuz | WATCH - The Times of India",
+    "summary": "US Navy Flees? Iran Launches 40 Missiles & Drones At 'ENEMY SHIPS' In Hormuz | WATCH The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOblVDS0xLRTdBOTZrdkgwTVNHXzR2SEUyb2VpV21WUHRIQlVjeUhoYmJMeUtMNC1BQllZajVfRGNmbmJzRTBxdHJXNmhpbTVmZkx6by1jcjlaLW0xclpFMnBRekZqbHJuaVc3OHdCZGFBdzhLVVRFVk1TWHByaUNEZmdTZlBWWHhqWGduVlRUU3JKQVd3UVZIWEZNM1VHYTAySktFWUtQTzZuNnoweU9zVEozekVKVXNTTkpqaUhKWV9KZndXU3BTWmxiWC12UDhjdFJpZEl3VkN4WkstbG1OWXlHYzctUHpLRzQyUk1iTdIB9AFBVV95cUxQUUYwTUlOQUJjU3hJMnUzXzdXU19xdzNuNmZMTmNaNlBRUDVUMHRCUV85NzNjelUtOWZVQmp3YWRubDE2WUF3RmVOX1JkRW9vdFFmZFJ5cDNYdjk4a0lETV91ZGRLN3Rpclh2SlhZX0RIWjVaamNnS2JHLTltT042VjZxRE5rc29SeGRrUUJUd2ltTFFsZEJaeEUwTDlkYi1JeXZwaU1tY2Q2eW9rRlJXTW9SQ1BQWF9ROHZOU1hpV3BzZ05GV21JZk5Tb2VwRzNoNUwwVTJXMXBhRVFTTzJxaDhkLWt1XzhkdEVlUExlb1JfZDls?oc=5",
     "source": "The Times of India",
-    "published_at": "2026-10-02T02:53:00+00:00",
-    "raw_pub_date": "Fri, 02 Oct 2026 02:53:00 GMT",
+    "published_at": "2026-10-02T09:23:53+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 09:23:53 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ee5527746ee1083ec1d3fc9d99fd745a96942e45",
+    "article_id": "be754b4e01d1029ba080792cba4202f84249b033",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran launched 40 missiles and drones at ships in the Strait of Hormuz—direct military attack.",
+      "event_key": "iran launch 40 missiles drones hormuz"
+    }
+  },
+  {
+    "title": "US signals potential escalation in the Iran war - Semafor",
+    "summary": "US signals potential escalation in the Iran war Semafor",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGRiWVBtb2xOT1FWcGNaQk00eFQ0X2dyZ1FkZ0pSZUduRTVUTWhMZ1JpeTJMdl9RRHpDYld5ZEc0RW8xQzZlbU5fbHdoWlpoNlNrTGs4bzFQLUpSNlVBTGN0WEV1b0dyT1hUckR3ekVYVndzallrb1RRaEM1Y0xXS0pzWDdXbnBiTWc0RHRVSHUyeERfaDYtQkFVcEJJV01HX1lFdnRaMDFiZw?oc=5",
+    "source": "Semafor",
+    "published_at": "2026-10-02T10:53:00+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 10:53:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d21860e51c735e9fa0237222074a799d3dacd5fc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US signaling potential escalation implies threats or readiness to increase military action against Iran-related targets.",
+      "event_key": "us signals potential escalation"
+    }
+  },
+  {
+    "title": "US sanctions Iran’s auto and rail sectors amid Yemen escalation - NewsNation",
+    "summary": "US sanctions Iran’s auto and rail sectors amid Yemen escalation NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRwSVRfeVhKR2Y3c2VldGxYU0RYN2tTYVlpRy1nUHNveXBNLVdQVWZ0M1NzUlFmajRXUWsxZldSR1htWUN2YVhXUjItblZ1dkN0V2VnNnpaUWtRR0V5TkdkSGozb3paRHYzR2lXZUZnWWM4eGlfUkhFVUFSQUI1NnMwTDNjUjczTER0azln0gGTAUFVX3lxTE04MWpRZ0NwX2lkQ2V5UFJhOFNSWjMwTEhudzFNT0ozUEVnSnY0SVZyNW9yNWM5c1I2NW1jRzJ0cWlJYlR5WXFwRGRPaFdNblhIYTc2SElLM3ZaeXJSbDFWMGFnRXJIZXItR1RXRXhtSTRvSE03aGxvSWE4T21qTG0ySUN2ZnJoSGUtR0NXNkN6b0YtSQ?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-10-02T10:58:59+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 10:58:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a01c64ef42a92b148760bea3389e24b9358d0878",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "US sanctions target Iran amid Yemen/Houthi escalation, a punitive response tied to Iran-backed proxy actions.",
+      "event_key": "us sanctions iran yemen escalation"
+    }
+  },
+  {
+    "title": "One month to midterms, US and Iran caught in an escalation trap - firstpost.com",
+    "summary": "One month to midterms, US and Iran caught in an escalation trap firstpost.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFB4QXhXVjlvXzdndDAwczlLUEJSUFdvU0d6b1ZPTUQ4MzkyODU1Q3FYQVd1dEtJTjdJeFdWQ1JVZnpqZGNQbHZxWkJiNjlEY2pwSWVhaDcxZnd3ejNDZHZ4eTJETXF5UnQ1RVZ2M3A2ajRPR0dWek52c2Z0OGRkUmJoeGVXVGFjQmlDQ0dteWN2MDBBbGdaTmYzRUgxdzNSUUpRMlpoTnFZdjQxaXZN0gG0AUFVX3lxTE9hOGtETlVzN1J3dnJLMDVscVAtQUVndUZIVDVEajVEMmdJdTZGa2ZLdVJ4bjV0NGowRGJ6d09UdUk5U3ptam9xeEtrWHNNRmxXSjJmWUQzSWxYRlcySnY4V2dEaDZBTUtwcnRvbjN6R2c2SVM5dTluTG5SMGJLMUotLVRSZHBlSDlhZFZZNTNpWFFIS2wzUm1PektTNXB0clloRlc1UE5zcnY1blVFcGNaR0VLTg?oc=5",
+    "source": "firstpost.com",
+    "published_at": "2026-10-02T12:14:20+00:00",
+    "raw_pub_date": "Fri, 02 Oct 2026 12:14:20 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0fdfb02188e3bf74280912c9ea6ae58762402e2c",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "US rapid deployment of Patriot missiles to Gulf states signals military mobilization and rising tensions with Iran.",
-      "event_key": "us deploys patriots to saudi qatar"
+      "reason": "Article highlights rising tensions and risk of further confrontation ahead of US midterms.",
+      "event_key": "escalation trap near us midterms"
     }
   }
 ]
