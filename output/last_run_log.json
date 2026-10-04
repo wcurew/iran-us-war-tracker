@@ -1,16 +1,16 @@
 {
-  "started_at_utc": "2026-10-04T20:51:15+00:00",
+  "started_at_utc": "2026-10-04T23:48:31+00:00",
   "openai_model": "gpt-5-mini",
-  "window_start_utc": "2026-10-04T16:25:07.177224+00:00",
-  "window_end_utc": "2026-10-04T20:51:15.893217+00:00",
+  "window_start_utc": "2026-10-04T20:51:15.893217+00:00",
+  "window_end_utc": "2026-10-04T23:48:31.078111+00:00",
   "steps": {
     "raw_fetched": 360,
-    "time_filtered": 19,
-    "keyword_filtered": 7,
-    "deduped": 6,
-    "after_seen_filter": 4,
-    "classified": 4
+    "time_filtered": 11,
+    "keyword_filtered": 3,
+    "deduped": 2,
+    "after_seen_filter": 2,
+    "classified": 2
   },
-  "finished_at_utc": "2026-10-04T20:51:42+00:00",
-  "summary": "협상·완화 신호가 일부 보이지만 아직 중립권이다. 확전과 완화 신호가 혼재한다."
+  "finished_at_utc": "2026-10-04T23:48:52+00:00",
+  "summary": "상태 점수는 중립권이다. 이번 구간만으로 방향성을 단정하긴 어렵다."
 }
