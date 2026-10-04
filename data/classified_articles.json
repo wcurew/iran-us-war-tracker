@@ -1,19 +1,104 @@
 [
   {
-    "title": "Pressure builds on Iran as Trump boosts U.S. military presence - The Spokesman-Review",
-    "summary": "Pressure builds on Iran as Trump boosts U.S. military presence The Spokesman-Review",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGRsT0lIUTBfNHR6Y0FDbHIwRkRvbGZ4d3lrdGJCQ3pGM2JPOEVEa29kWG0zcXZXQkpmRnJMSmZHMWJQZmpEQVByZG02V3RjYkllMmVHYmxKVFEyaTBCekNja3pGZjd5SUZwcUUtWGg0Y3VDQlk1MjJ5OVJJS3NORG14anhxYlB0VjhiM21aR0xIczIwMzZIUXBJZW8ydw?oc=5",
-    "source": "The Spokesman-Review",
-    "published_at": "2026-10-04T02:58:13+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 02:58:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "40e3c26d3cdb503a5424b400f2e56075b06a5ec0",
+    "title": "Iran tells US there is no military solution to Middle East war - RFI",
+    "summary": "Iran tells US there is no military solution to Middle East war RFI",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0dGTHczeTFQQ0xHZ1NQNUtSMGdFN29ZMXJOQk5HYkpSUDV6SHNvODJnNFFNV0p5bkdqSDBId29kLUFrN01EWmg5cE5FWGxjbUNUbFYzdXFkeWJvRlJQMFhhUWhLcy0yQlZlV21WZGJuYlJnMWxVMWNYeVppQXpVVmdLZGcxTWV3MWZxNXZhTzE4Zk8tNDJlc0JJV0JVWnp4VTJ3RFBnSmtZc1FPRUdqNGFn?oc=5",
+    "source": "RFI",
+    "published_at": "2026-10-04T09:48:51+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 09:48:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "86f08edefb5438dbd5b8b9fc27b66dfbbecbcb1c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Iran's message to the US rejects military option, signaling restraint and desire to avoid wider war",
+      "event_key": "iran warns no military solution"
+    }
+  },
+  {
+    "title": "Iran FM: There is no military solution to conflict with US - The Times of Israel",
+    "summary": "Iran FM: There is no military solution to conflict with US The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-10-04T10:02:46+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 10:02:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "34605f1e916df722d2abf70da440485f1120044d",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.65,
+      "reason": "Iran's foreign minister rejected a military solution, signaling restraint and intent to avoid wider conflict with the US.",
+      "event_key": "iran fm no military solution"
+    }
+  },
+  {
+    "title": "Iran Tells US There is No Military Solution to Mideast War - ASHARQ AL-AWSAT English",
+    "summary": "Iran Tells US There is No Military Solution to Mideast War ASHARQ AL-AWSAT English",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFN0bkk4UXpSQ3laUDNJSWVTaVctR1BNLXlVNlZfTnFwTXFHZWN6d2NTMnM3dWRMdkoyVDVTWF9zVjMtdGZvTUVjOHVTLTBzSHZ5c2VEbUU5ZnEtZEJheEhWZm5JVF9QRGVqb0MzUVpEZ3VyTzJubXVyQm9vbmpndFNVNTdoVThuekxnSTFVWE1HLWNqbWs1ZA?oc=5",
+    "source": "ASHARQ AL-AWSAT English",
+    "published_at": "2026-10-04T10:32:23+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 10:32:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d3030a6de529c9134bb2b6a2ec2efaccf5156b8f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Iran told the US there is no military solution, signaling restraint and desire to avoid wider war.",
+      "event_key": "iran no military solution statement"
+    }
+  },
+  {
+    "title": "Iran plans to boost missile range after US war as American forces move within 1,000 km of coast - Telegraph India",
+    "summary": "Iran plans to boost missile range after US war as American forces move within 1,000 km of coast Telegraph India",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1pVb2t5dzVROFRLQVhUNU1PaXhaNDMwU0kzenB4WGhOcDFPNm9TT1hyUFNBVUNOV3g4WVJrZ1JzbEpfT2w4Vzl3bUNDbkhESEM5N2hibHUxRkxBNkhRMnc0aDNrUkNWNFdLbV9Nelhyb3Iyek5LTVhDM3NPb2NrNy1MQnVqLXU5R2JlSjhkUFRMYzJzY1ZlZlpuYUxldl84YVV6aGtzN04tazJlbzBNV3NLZzNZYk1rbnRHT2ZudlRxRVZseFFSRXI3SzgteWR2b1RwaVdYZ081R2vSAeABQVVfeXFMT1RydkNWeDA5VGgyYmtLdVljVXJzMTBjRWhEVVhpbWRBLUoxTTl0WE5MN3V0VGt6QlE3ZE1jWDNkT3VsTm9ObHZXLUtEOTJ0NnRkaFFOdmY1eGpUQmJMNmI2ZkhFSTRieWtkaXZIc2pJVXZsREJhcnVWWmdfdFlQdTZrUjJpQ3lxOTJWNG9aNWE2dHMxY2lsMDlUbHpiUGx4UW4tX1czckhYWE8yN3pNREJjQXk0OFVFZThWVlpwcnl2OEhDQURKbnhobGRNWXNaQ2pQZ2k0M1hqZFlaVmJ5ZWM?oc=5",
+    "source": "Telegraph India",
+    "published_at": "2026-10-04T10:51:21+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 10:51:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a95171f260969dc986b9c9223ba4c952922ae594",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran planning to boost missile range in response to US force movements signals militarization and rising tensions.",
+      "event_key": "iran plans missile range expansion"
+    }
+  },
+  {
+    "title": "IRGC Fires 150km Range Missile; Iran Claims US Aircraft 'Spying' Strategic Qeshm Island Downed - The Times of India",
+    "summary": "IRGC Fires 150km Range Missile; Iran Claims US Aircraft 'Spying' Strategic Qeshm Island Downed The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTHVpeS1NbFpsY0xzSXN0ZGJmd25uSjh6OGxKUlNVRFVNTWtLOVFKMUtNTENBZm4yZlEwUkFnZVpiOG1tTkpqQ1pIdGhmTUcyM2hxSUg0SThKTjJhM21aNldEOWh3Y0l3QnZfN2pQVF9BSlhONFdLcG50TnpZeE9LcUxURVJkdVNDMER1XzQ4bGZYQXdETHVISEVaVzVEWDhRTmdnQlNFajM4Y240SFpoTzZNYTB2ZjAxODJBenpyR3YzVGN3TmpfdVQ5SXBMcVFyVjhucEp5V09oWkJNNTA3MGZpclFRcHVONW1wSUY2eFlyTEFWOXI4dkJrXy11ZTV6TWc?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-10-04T07:41:28+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 07:41:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ed351e5cc15d58fa4c3e4f4e0ff15a66d8edac08",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "IRGC fired a long-range missile and Iran claims it downed a US aircraft—direct military action/attack.",
+      "event_key": "irgc missile fire claimed us aircraft downed qeshm"
+    }
+  },
+  {
+    "title": "Iran to increase missile range as US forces retreat from the Gulf - Roya News",
+    "summary": "Iran to increase missile range as US forces retreat from the Gulf Roya News",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PY05sNll6RVlycFRkaFlaaHNibUl1T1d1RlhuOGFaOU5faWx2c3phWVI1U3VpTTJoakVpSDJKemRVSFpib3NldA?oc=5",
+    "source": "Roya News",
+    "published_at": "2026-10-04T11:15:45+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 11:15:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f1e08b48c7409a9bba7d5396874170efa2f3e682",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "U.S. military buildup increases pressure on Iran, signaling rising tensions and mobilization rather than diplomacy.",
-      "event_key": "us boosts military presence against iran"
+      "strength": 0.7,
+      "reason": "Iran expanding missile range signals increased military posture amid reported US force withdrawal.",
+      "event_key": "iran increase missile range us retreat"
     }
   }
 ]
