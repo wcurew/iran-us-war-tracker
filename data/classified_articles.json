@@ -1,104 +1,155 @@
 [
   {
-    "title": "Iran tells US there is no military solution to Middle East war - RFI",
-    "summary": "Iran tells US there is no military solution to Middle East war RFI",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0dGTHczeTFQQ0xHZ1NQNUtSMGdFN29ZMXJOQk5HYkpSUDV6SHNvODJnNFFNV0p5bkdqSDBId29kLUFrN01EWmg5cE5FWGxjbUNUbFYzdXFkeWJvRlJQMFhhUWhLcy0yQlZlV21WZGJuYlJnMWxVMWNYeVppQXpVVmdLZGcxTWV3MWZxNXZhTzE4Zk8tNDJlc0JJV0JVWnp4VTJ3RFBnSmtZc1FPRUdqNGFn?oc=5",
-    "source": "RFI",
-    "published_at": "2026-10-04T09:48:51+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 09:48:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "86f08edefb5438dbd5b8b9fc27b66dfbbecbcb1c",
+    "title": "Iran rejects US proposals as ‘unilateral demands’: Ghalibaf - The New Region",
+    "summary": "Iran rejects US proposals as ‘unilateral demands’: Ghalibaf The New Region",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WaXEzYlFiRW4yUjRPcE52eGljMmpJVXlmSVgzbHNDSnFzZk1OQVc2d3pRcmlvTHE5dnBtbVZjLXdPVGtPemJWRjRCMA?oc=5",
+    "source": "The New Region",
+    "published_at": "2026-10-04T12:37:51+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 12:37:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a6cc927fdd144f14fc3c2aa2b2d043fc9e0b9d9",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
+      "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran's message to the US rejects military option, signaling restraint and desire to avoid wider war",
-      "event_key": "iran warns no military solution"
+      "reason": "Iran publicly rejecting US proposals signals diplomatic breakdown and rising tensions.",
+      "event_key": "iran rejects us proposals ghalibaf"
     }
   },
   {
-    "title": "Iran FM: There is no military solution to conflict with US - The Times of Israel",
-    "summary": "Iran FM: There is no military solution to conflict with US The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-10-04T10:02:46+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 10:02:46 GMT",
+    "title": "Live - Iran says reviewing US response to seven-day proposal - Iran International",
+    "summary": "Live - Iran says reviewing US response to seven-day proposal Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-10-04T13:41:34+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 13:41:34 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "34605f1e916df722d2abf70da440485f1120044d",
+    "article_id": "3d4adf73e85fce59286d2246a6ece33891d41de9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iran reviewing a U.S. seven-day proposal implies active diplomatic engagement and proposal exchange.",
+      "event_key": "iran review us 7day proposal"
+    }
+  },
+  {
+    "title": "Iran says Strait of Hormuz main focus of talks to end war with US - Anadolu Ajansı",
+    "summary": "Iran says Strait of Hormuz main focus of talks to end war with US Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2FVcmhiWFZPTVVTMFctZWpLVldtZXZyMnYwV2pON1VyMXJHVG15U2Y3ZnE4ZkMzVHlaX29pQlBTazUxcFpsQl9YbkFjdHBac2xjUHBvN3FRSi1uZ0d5eFFuX3B1T05NYXM5QlFXaFVoMEotSlY2QmM5MkpiYUkyU21KSmZ5N0pmMHVJaGQ1MkFqeVIwU0IwcGw4QXJOR2wzcE9EcmV0WmI4d1NBUmZz?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-10-04T12:42:55+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 12:42:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e5ec9271551c5de195b8b17d1fba233e3225101b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Article describes talks aimed at ending the war, focusing on the Strait of Hormuz.",
+      "event_key": "iran us hormuz end war talks"
+    }
+  },
+  {
+    "title": "Iran says no military solution to conflict with US as talks remain at dead end - The Times of Israel",
+    "summary": "Iran says no military solution to conflict with US as talks remain at dead end The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0U3dWJMYzFfd3pYNHU3UWpIZjBZT21lVGk1V0VCazEwcTRoQ0w4MWpnZC01VHNSMXkwMWw4X05RRFdmd2ZzcmRpVlBvX2s3Q05TMnUtVGs5YnhrdDdaTHpvRGxIVWhsOXhtNVlXMEp5U29aUTVSOW1WdU1WU193c3dYYkViZkJ2SVNWT0dWQ1NhTHBnYjF2OEoxdHIyYlZGS1kwa3pIa0RwanVMZXfSAbMBQVVfeXFMTjRhTEFRc3FncGx4bGdXeEk4bmhRZ1JEc0FZbURDMEEwOUQydlBIaEJLTHZhOEN0NlZpeW1nR0xGc19xWTVidnB6LUE4NTFJaU9OUGtQQ0phNEp6M1p1aF9FMXgzUS1jTXg0QUtRTXE4THI2UHNIUXlYV3lSbEppQUF5VFQyeGpQdnpmVHlMWE96cFc1UXpFMU9KdWU2SEQ4eDRyMlhuQU1GNkFHQVpVZWxqNTQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-10-04T15:21:15+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 15:21:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eb482ea79e8be4f7a040f86bcd9d920d554fae62",
     "source_weight": 0.95,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.65,
-      "reason": "Iran's foreign minister rejected a military solution, signaling restraint and intent to avoid wider conflict with the US.",
-      "event_key": "iran fm no military solution"
+      "reason": "Iran publicly rejects a military solution and signals restraint despite stalled talks.",
+      "event_key": "iran declares no military solution statement"
     }
   },
   {
-    "title": "Iran Tells US There is No Military Solution to Mideast War - ASHARQ AL-AWSAT English",
-    "summary": "Iran Tells US There is No Military Solution to Mideast War ASHARQ AL-AWSAT English",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFN0bkk4UXpSQ3laUDNJSWVTaVctR1BNLXlVNlZfTnFwTXFHZWN6d2NTMnM3dWRMdkoyVDVTWF9zVjMtdGZvTUVjOHVTLTBzSHZ5c2VEbUU5ZnEtZEJheEhWZm5JVF9QRGVqb0MzUVpEZ3VyTzJubXVyQm9vbmpndFNVNTdoVThuekxnSTFVWE1HLWNqbWs1ZA?oc=5",
-    "source": "ASHARQ AL-AWSAT English",
-    "published_at": "2026-10-04T10:32:23+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 10:32:23 GMT",
+    "title": "Iran says Strait of Hormuz main focus of talks to end US war - Yeni Şafak English",
+    "summary": "Iran says Strait of Hormuz main focus of talks to end US war Yeni Şafak English",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEZZTk9UTWs0eWJacWNLVEhJaExjaE9XR3Z0SGswWFZXcTNqTVpFcF84RFRXRzl5OVdyZ0tzcEo2NG96UG45YmhnbkNDcXhGUlF1WU9kRTdkaFFMb1lzcFRtYWpQSkRXQ25XajktYnAyNHptdmpwYTduanl5T3drcFJxQW9wVGtidEpNRF9rSnJrWHlBQnBXS1VodnE0S3h6?oc=5",
+    "source": "Yeni Şafak English",
+    "published_at": "2026-10-04T15:20:57+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 15:20:57 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d3030a6de529c9134bb2b6a2ec2efaccf5156b8f",
+    "article_id": "feaac09cd8b19eb3921e3dbdab6b35ac4a4ab062",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Iran told the US there is no military solution, signaling restraint and desire to avoid wider war.",
-      "event_key": "iran no military solution statement"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Article reports talks focused on the Strait of Hormuz to end US war — active diplomatic negotiations.",
+      "event_key": "hormuz talks end war"
     }
   },
   {
-    "title": "Iran plans to boost missile range after US war as American forces move within 1,000 km of coast - Telegraph India",
-    "summary": "Iran plans to boost missile range after US war as American forces move within 1,000 km of coast Telegraph India",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1pVb2t5dzVROFRLQVhUNU1PaXhaNDMwU0kzenB4WGhOcDFPNm9TT1hyUFNBVUNOV3g4WVJrZ1JzbEpfT2w4Vzl3bUNDbkhESEM5N2hibHUxRkxBNkhRMnc0aDNrUkNWNFdLbV9Nelhyb3Iyek5LTVhDM3NPb2NrNy1MQnVqLXU5R2JlSjhkUFRMYzJzY1ZlZlpuYUxldl84YVV6aGtzN04tazJlbzBNV3NLZzNZYk1rbnRHT2ZudlRxRVZseFFSRXI3SzgteWR2b1RwaVdYZ081R2vSAeABQVVfeXFMT1RydkNWeDA5VGgyYmtLdVljVXJzMTBjRWhEVVhpbWRBLUoxTTl0WE5MN3V0VGt6QlE3ZE1jWDNkT3VsTm9ObHZXLUtEOTJ0NnRkaFFOdmY1eGpUQmJMNmI2ZkhFSTRieWtkaXZIc2pJVXZsREJhcnVWWmdfdFlQdTZrUjJpQ3lxOTJWNG9aNWE2dHMxY2lsMDlUbHpiUGx4UW4tX1czckhYWE8yN3pNREJjQXk0OFVFZThWVlpwcnl2OEhDQURKbnhobGRNWXNaQ2pQZ2k0M1hqZFlaVmJ5ZWM?oc=5",
-    "source": "Telegraph India",
-    "published_at": "2026-10-04T10:51:21+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 10:51:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a95171f260969dc986b9c9223ba4c952922ae594",
-    "source_weight": 1.1,
+    "title": "Iran reviews US response to seven-day proposal as officials debate next steps - Iran International",
+    "summary": "Iran reviews US response to seven-day proposal as officials debate next steps Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xbW8xWUN2VjE5c1JLbTZRNU5ZWUNRMWQySlNzTWNLTjFQQnJPSGtoN2pmYmxLT3EzY1Frd3c2T1dSUmNmU0l5SkJvM09STzJHY2c?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-10-04T13:22:34+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 13:22:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "915f6e851cf22d3a64708b75912fc86e71a4a810",
+    "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran planning to boost missile range in response to US force movements signals militarization and rising tensions.",
-      "event_key": "iran plans missile range expansion"
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Iran assessing US reply to a seven-day proposal and debating next steps indicates ongoing diplomatic engagement.",
+      "event_key": "iran review us 7day proposal"
     }
   },
   {
-    "title": "IRGC Fires 150km Range Missile; Iran Claims US Aircraft 'Spying' Strategic Qeshm Island Downed - The Times of India",
-    "summary": "IRGC Fires 150km Range Missile; Iran Claims US Aircraft 'Spying' Strategic Qeshm Island Downed The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTHVpeS1NbFpsY0xzSXN0ZGJmd25uSjh6OGxKUlNVRFVNTWtLOVFKMUtNTENBZm4yZlEwUkFnZVpiOG1tTkpqQ1pIdGhmTUcyM2hxSUg0SThKTjJhM21aNldEOWh3Y0l3QnZfN2pQVF9BSlhONFdLcG50TnpZeE9LcUxURVJkdVNDMER1XzQ4bGZYQXdETHVISEVaVzVEWDhRTmdnQlNFajM4Y240SFpoTzZNYTB2ZjAxODJBenpyR3YzVGN3TmpfdVQ5SXBMcVFyVjhucEp5V09oWkJNNTA3MGZpclFRcHVONW1wSUY2eFlyTEFWOXI4dkJrXy11ZTV6TWc?oc=5",
+    "title": "Iran Extends Missile Reach After War, Puts More Distant US Military Assets On Notice - The Times of India",
+    "summary": "Iran Extends Missile Reach After War, Puts More Distant US Military Assets On Notice The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFp6NmJUZXdUbk1ZdUc4STNKRFhSYTlzRkdPTWI3X0pFOFRVMlZOazFEVkl6SDhQS3F2VUc2cGpaVDR2eHdFdFVVVXhwWEtZZnByZVVNQzgyNmZYUEtJWnNqaWJYNklrNDNiWVhMZHQwcGc5QzBXVGJRRjFTZHNGMkpaVU9vVGRRTExodDBYUllGdTV1NXlSSTN6dHhTNDQweUttZWwtRmhEbGRKcU5Fb2hUcUtCSGpfSjR4QmlRcXFGal9la3YwTlVsUkZBNzU3Ynl1ZlJfSjhpVjM5N3lVWHVjb2Fnd09iUERCSXlPN2FBbU0zaDNN0gH8AUFVX3lxTFAwSzRCRlhrcElDcVZBbXg1cnZEMS1OVWR3WFF5UlRXR3N0b0x6UEVOcDcyY0VCS1BzbVNaandtTFRoVlFlOHZ3a3ZyaUJnUy0zV0tialBrcl9LRGJRRjc4VzdTWlkya3Y2LWlEY3p2U3AwdXlpMnlLVVNLdEVqVmNkeU8wWVlkOWNwMzJmS09lMlRZYlY3bkhzTzRZNkpqU0lJRkZxQXpfLTZWZEI3clFZM1ZMYlowVjhnekRJQ2htUTFjMkpfanBKd3Atb29VWkRCVjVRUHRRS244SWJPSDNael9FUnM1Mmt5cXJDdnU0RXRFZC1BQWZfY21vcw?oc=5",
     "source": "The Times of India",
-    "published_at": "2026-10-04T07:41:28+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 07:41:28 GMT",
+    "published_at": "2026-10-04T14:53:18+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 14:53:18 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ed351e5cc15d58fa4c3e4f4e0ff15a66d8edac08",
+    "article_id": "854d91f2decb3a4666e678942ab3fe6d96ab1e02",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "IRGC fired a long-range missile and Iran claims it downed a US aircraft—direct military action/attack.",
-      "event_key": "irgc missile fire claimed us aircraft downed qeshm"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran extending missile reach and putting US assets on notice signals military escalation.",
+      "event_key": "iran missile reach extension"
     }
   },
   {
-    "title": "Iran to increase missile range as US forces retreat from the Gulf - Roya News",
-    "summary": "Iran to increase missile range as US forces retreat from the Gulf Roya News",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PY05sNll6RVlycFRkaFlaaHNibUl1T1d1RlhuOGFaOU5faWx2c3phWVI1U3VpTTJoakVpSDJKemRVSFpib3NldA?oc=5",
-    "source": "Roya News",
-    "published_at": "2026-10-04T11:15:45+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 11:15:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f1e08b48c7409a9bba7d5396874170efa2f3e682",
+    "title": "Iran vows to keep Strait of Hormuz closed until the US meets 7 demands in new warning - AOL.com",
+    "summary": "Iran vows to keep Strait of Hormuz closed until the US meets 7 demands in new warning AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00c0QyMG05UWg4a2xzblVMMm9ON3JHZ1Zid0tYM0FTcDBvQ2NJOVVmMG5MeTFvREo0VHJOTW9lQzYzWW5WMFIzVXJlVXBWQlRGeEQxWExzcHh4SkZQM2QyQWpocFZQazhXZ1ljNEhHR3dYV0pMbVRwTEhwMm8?oc=5",
+    "source": "AOL.com",
+    "published_at": "2026-10-04T13:17:04+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 13:17:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "052c75805a8e368db075509e1901f02607e959a5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Direct threat to close Strait of Hormuz until US meets demands signals rising tensions and hostile posture.",
+      "event_key": "iran threat close strait of hormuz"
+    }
+  },
+  {
+    "title": "Iran’s revenge strike is locked and loaded? Europe’s biggest American bases are in the crosshairs | Videos - Hindustan Times",
+    "summary": "Iran’s revenge strike is locked and loaded? Europe’s biggest American bases are in the crosshairs | Videos Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQURpcnZpR2FUaE1rNUZiRVFEUXIwTk9fSFBoY1haTlM2QVd5amNJeXRHVnpIWkYtU3ZPSzZRd25kZ2RpcVVxdVNuTGgxNnAtOU9VTHJ6bmFjZ3NObk11LWFCTzMxT0tJc2NkV2ZVTVdjZkh2UV9ZOGtGR2VZZ3ItZ0w0cTg4YTlzdlVvMkhITzVqbVc0b054blpHVllLUHBpMDNpTTBBTmFJalRJUEF5RnRmYWVLel9CR1JSSlA2SWZrV243NlFyNXRNS2h5UVMzelJBeHhnY3Z4Y2dCLU9CYlgzZzVySkhqOXfSAe8BQVVfeXFMTnUxcE8zYmNyaUl2TU1NSkY4NWVjSFhNXzRVbEFvbXVOZk5uVDAwelhSSnNvcDczeEFFUmJoUE93NXlJeDgwRGhwX0hsQ2FoeXBMU0JlMEE0MTMycnFmSkY5MFlOU3R2WXMtYWhFZFFRZ0t6eUxFZnp6UXpUUkozaGpid0dVeU83UG5pZFExbl9BcEZnWmVuZDl1UnpNRTBEZWh3UEVlT0lpdlUxYmtsYjV2eHJzWVNFOUgxeTZGUklZUGZDRTZTN1hhS3FiMjh0RnV3QlVXci1tTXdITF9JU0JTRm91WUpiQ21tUzhQSTA?oc=5",
+    "source": "Hindustan Times",
+    "published_at": "2026-10-04T14:43:27+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 14:43:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e07ab8dff639c275617ced217e24426d6703c93b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran expanding missile range signals increased military posture amid reported US force withdrawal.",
-      "event_key": "iran increase missile range us retreat"
+      "reason": "Article frames Iran threatening revenge strikes against US bases in Europe, signaling rising tensions rather than actual attacks.",
+      "event_key": "iran threatens us bases europe"
     }
   }
 ]
