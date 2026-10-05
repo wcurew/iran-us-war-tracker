@@ -1,138 +1,325 @@
 [
   {
-    "title": "Guterres travels to Pakistan to discuss US-Iran talks — The Express Tribune - UA.NEWS",
-    "summary": "Guterres travels to Pakistan to discuss US-Iran talks — The Express Tribune UA.NEWS",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1B5VUkxODdzZFJURHNzM19scjc0dXJIM29yTVg1ajhLamRYS05Nbkx1VTVuaF9UejlQMmlmY3hucWdpMXNiNU14dU5PekdqUVBPU3owOHFkQW9oMXY1RW5YZDBpbzliYUJWN0VxQ2NFN1dqRFdLejdGaThoVkdvMTFIVjBWM3RLQnZoTWowcVdZZjk2LUtWTTRna3A1SW5xcXVlVmtRV3g3dFdLQUZjX0t3?oc=5",
-    "source": "UA.NEWS",
-    "published_at": "2026-10-05T09:09:55+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 09:09:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "daaa85be4e435ef39a1c29ed8512e498fbe25d45",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "UN chief traveling to discuss US-Iran talks indicates diplomatic mediation and active negotiations.",
-      "event_key": "guterres discusses us iran talks"
-    }
-  },
-  {
-    "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens - AP News",
-    "summary": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens AP News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-10-05T11:08:00+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 11:08:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ea33bfc5842ced914835d1218d6b96e547edfd8c",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Reports describe a direct Iranian attack in Kuwait that killed and wounded US soldiers.",
-      "event_key": "iran attack kuwait killed 6 us soldiers"
-    }
-  },
-  {
-    "title": "Iran US Port Shuaiba Attack Wounded - Idaho State Journal",
-    "summary": "Iran US Port Shuaiba Attack Wounded Idaho State Journal",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlFldVBnRUROSE5NdTN6U1dUblJHMTI3a1JBMWdGeGRadXNPcWd1elpuaktOUW9Gc0V5VjEzbEFwNnd5RGt4MmhQZXUzVW9iVlFZOHNsUzZIZi0yU1V1THdZUm1Xdmd0SVdsajN4eHN3ZkRld0Fnd1ZXNG96VTZPZGEzamVSXy1oLUxfb3JLMmI3TDJnajFYNmNMVWV0blUwcGd4azE0clJkRUFQYXRtQXc2Z1ZTekpOSFdWV1FiYmtoRzRFS2RBdzdIaw?oc=5",
-    "source": "Idaho State Journal",
-    "published_at": "2026-10-05T10:01:27+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 10:01:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9951252042773ff6c7729e4db232992c63cdb926",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.65,
-      "reason": "Reports indicate an attack at Port Shuaiba wounded people, indicating a direct strike/attack event.",
-      "event_key": "port shuaiba attack wounded"
-    }
-  },
-  {
-    "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens - Oskaloosa Herald",
-    "summary": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens Oskaloosa Herald",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYWRILTRMVGJEb1dSTjlWMzNLdEh2aGhOYkVBOEN4eG5DcGg4cVF1R1JLaHJ4UDBFM2tvZ2xiaU05VnBIU0E2Mjh4RlluNnVtaTZyN1ZvUDdoNGJXZWdPdzY0Q2Y5M21famJUUXZLSmhfbjFWYVRibW5xQ1VWTFg3cnZIYXNSMHhfdVNod05HX3BvNjJJRVJNbWswR3JpV1M5WWdSS1duZDhLRmVEV0hBQmtSOEFMN21hbHkwUWd6S1dBYUpidGNmM0VSV2g0ZFY0RTZNTzVUeURUc1ZtTVJhM0hYc1hGWng1VnV0SVV1QzdpNFpDSU9nV3lSRTlyQ1J2a1RHOW9FN1g?oc=5",
-    "source": "Oskaloosa Herald",
-    "published_at": "2026-10-05T11:08:24+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 11:08:24 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "17609b51c00d8b17a946348228a117784366625f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Article reports a lethal Iranian attack in Kuwait that killed US soldiers, a direct hostile strike.",
-      "event_key": "iran attack in kuwait kills us soldiers"
-    }
-  },
-  {
-    "title": "Iran reviews US Hormuz response while coalition strikes Houthis - Arabian Gulf Business Insight | AGBI",
-    "summary": "Iran reviews US Hormuz response while coalition strikes Houthis Arabian Gulf Business Insight | AGBI",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1RXUzhVcnBncE90andwX0ZVcW50RnRFbXZfay1aTERwUm1QM1ZTZFlnRXJXcXZCQklxekRGQkJEdmNnaXNqb0RUd0JWMkw3QjZlSHYwSnpzNHdVenduNTRqT0p2cVUyNmxvN3h5Smp4bWxPNmdsb3J2NGN0bnRiVEJsTjgxdFEzVm14UXY4MmRSMDJBOGtYN0diN010aF9ZUzFJZXdpc2U?oc=5",
-    "source": "Arabian Gulf Business Insight | AGBI",
-    "published_at": "2026-10-05T05:24:00+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 05:24:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "eb62ca613df6d5d9b17fed84097327122ca7759a",
+    "title": "Attacks in the Strait of Hormuz continue, U.S.-Iran negotiations remain unresolved; when will the oil price stalemate break? - Moomoo",
+    "summary": "Attacks in the Strait of Hormuz continue, U.S.-Iran negotiations remain unresolved; when will the oil price stalemate break? Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHJkLVdnclRxSXkxNml2VFVqZVNrbklRZFZQVHFkd3hMVGl0MXZFMnhNbDZMVHVTaVROVXBDRWdVQldhaW1FdHprOE9hOVJ4ZnhETXc5SGtQU1FEUzlqVFFjeTF4RjRXRWI2TU93YTMtTk1rS0ZNZ0JZWXA4WnB0aWRFQ1RvbGxfZVQxTVB3NG1CTWYwSmVUVzVmdTlrWENwM2JvdV9NRG0?oc=5",
+    "source": "Moomoo",
+    "published_at": "2026-10-05T13:46:12+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 13:46:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c1b409e8fa1549d3b2db30fef12285cb9239f017",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
+      "strength": 0.6,
+      "reason": "Continued attacks in the Strait of Hormuz imply Iran-linked proxy actions amid unresolved U.S.-Iran talks.",
+      "event_key": "strait of hormuz attacks proxy"
+    }
+  },
+  {
+    "title": "Iran's president says negotiation with US 'has no meaning', state media reports - marketscreener.com",
+    "summary": "Iran's president says negotiation with US 'has no meaning', state media reports marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3Q1bUFxTWx1S1FEQXpYNDlpMmU5YmI2bFI3YUo5bHZtaV81a0VLR05ob2R1UGxLS3hXMTA3bl9XcENOMlo5TXNwdjhreXBEX3FnU0RTUVJsaHZROV9GelhHUWRod0pfRjdrTlZxdC1HVDNhSDZhQmQ3VnFHTTR2NmF1amNkdlpvUldvU0c5UkxDSjR6ZGlqWW1NUkVVb3ZWRG9nN2JRSHJuV1lILUEyR1EzWk85eldmM2JaZDA0SWFnU2YwY2lkVA?oc=5",
+    "source": "marketscreener.com",
+    "published_at": "2026-10-05T17:17:19+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 17:17:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bff23343760ce195535b2e0fb63695beb863819c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.7,
-      "reason": "Coalition strikes on Iran-backed Houthis while Iran reviews a US response indicate proxy-driven escalation.",
-      "event_key": "coalition strikes houthis iran reviews response"
+      "reason": "President declared negotiations with the US 'have no meaning', rejecting diplomacy and raising tensions.",
+      "event_key": "iran president rejects us negotiations"
     }
   },
   {
-    "title": "Iran threatens to target US bases, warships if Washington launches ground invasion - Anadolu Ajansı",
-    "summary": "Iran threatens to target US bases, warships if Washington launches ground invasion Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHNRdWkycUxoanMzWlJkZzdfaVdMZ01CS1RSWXhlX1pkR01TMlA1eUZOMFF2MnViVVRBRG9MNVlWdDRFNTBnUjhlLWRBdVo0RFJ2cFprbURoVERNc0lOenYzSFlOa0tKRmFVTGo2czhLMWZiUGZoaVdiN25VTURoSG1FUnhvV3pMY0F4VG5hOHVydENzam1rY1VReFVSZnBYSFNVdU85T0pVWDBQc3RxTE41ZjdTYUxNLWJVc3MyNA?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-10-05T06:26:15+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 06:26:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ea2e345de36d169d1df32ddf41ceda1935bafba4",
+    "title": "Iranian President Pezeshkian says negotiations with US are meaningless - scanx.trade",
+    "summary": "Iranian President Pezeshkian says negotiations with US are meaningless scanx.trade",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmhqa2U5T1N4eHhDTnBJX3dyNS1HeERFNlBzZFp1dWl4anhrQTVYTFY5RFpHUHZ5Vk9QemozZUthN00yU3J6V0JVTjlXR3dXUm0yTUNheXpMbkFteExiS2FXZGlNaU54NWZSa3FybDJyaXlGcXNhRFh5eWFURklhNmVJNmJKRFJhSkJGUy1fVGlpcm5ITTR4X1ZheU53QW90Q2c0OXZJTUdBdFpRZDlKU0FtODZ6M3RIRE0w?oc=5",
+    "source": "scanx.trade",
+    "published_at": "2026-10-05T19:19:14+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 19:19:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "71fcdce1d36400501bab9945dc761c00a2d6b821",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran issues explicit threats to strike U.S. bases and warships if a ground invasion occurs.",
-      "event_key": "iran threatens to target us bases warships"
+      "strength": 0.75,
+      "reason": "Iranian president rejects negotiations, signaling breakdown of diplomatic engagement.",
+      "event_key": "president rejects negotiations"
     }
   },
   {
-    "title": "US pulls bombers from Fairford amid Iran threats, security fears - The Arab Weekly",
-    "summary": "US pulls bombers from Fairford amid Iran threats, security fears The Arab Weekly",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanVhWnNmS2hvdUc1NmEzT2p1bVlXdlRDNXl1U0pFX2hqX0otR3p6RjM4VWllelA1bmpRMFFfMFhTbHlyeU9hN0tIdnl6aDR5UGxlZFJHcnJZTnNKeENxYWlSR2ppbk1RNE1iMlkxY2RTSko1VXBwQjAwNF83enIzSW1sRXMzQ1JRNC0zVGNSZlc?oc=5",
-    "source": "The Arab Weekly",
-    "published_at": "2026-10-05T09:20:33+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 09:20:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "af1963ae6e7d11bae434fce96e3cf4ec8ff1a7ed",
+    "title": "Iran president says talks with US ‘meaningless’ - The Times of Israel",
+    "summary": "Iran president says talks with US ‘meaningless’ The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2tWdU43cVo5NWNydG5FMER0WGZubjVJYUI0UjJHazBiZTZqbkJjREJTV05xRjRac3JCNnJHNVFNUXhGQThXZS1LN01yc2lwSG5ZajVGVzlZRHFjS3JqNjRidTZfUUExS2FlNTdBbVp3dGtSRjd6MnJxaTRNaXZCYWNsaU1wY0QxVlRsUy1FMEtxSGdwYVE?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-10-05T18:13:59+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 18:13:59 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8e130452be1d3f70168802678b163d2901d60f12",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran president dismisses talks as 'meaningless', signaling rejection of diplomacy and rising tensions.",
+      "event_key": "iran president rejects us talks"
+    }
+  },
+  {
+    "title": "Iran's Pezeshkian says negotiations with US 'meaningless' - dailysabah.com",
+    "summary": "Iran's Pezeshkian says negotiations with US 'meaningless' dailysabah.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzAtb3l2OEd1cTBYdVBtTFZjUGdTWThjUXduN0tZSjF6X1VLZWt5eUhkUEtTT0FLeG1jNFZKd1lSRjJxOVRVVU11WVFXc0xRY1JBTlVBekN6aUZyem5iOUpUZWhjRnpibE9nRzNhUE5Nekk5WHJTdS1wd3ZuRTZxS3llem1ucjYwLWtZLXNKNzhNemxCQkVON25Ub2c?oc=5",
+    "source": "dailysabah.com",
+    "published_at": "2026-10-05T18:25:00+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 18:25:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2a30dbfcfaaa0ab5ee5c7829e3971def5536d210",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.45,
-      "reason": "US removed bombers from RAF Fairford amid Iran threats, reducing forward posture as a precautionary de-escalatory move.",
-      "event_key": "us pulls bombers fairford"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iranian official declares negotiations with the US 'meaningless', signaling diplomatic breakdown and increased tensions.",
+      "event_key": "iran official declares negotiations meaningless"
     }
   },
   {
-    "title": "Iran threatens all US bases, vessels if ground war begins - middle-east-online.com",
-    "summary": "Iran threatens all US bases, vessels if ground war begins middle-east-online.com",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEI0OERsZV94eUVtcVB4UXR3eEdOdEp5eUFvaTludldIQXlXMndtdEtCcHZfSXNGLXJ1bEN2REJWY1R4bmp5OENTS1NaZWNWdF94alpCZ1FXQUpmTjl1MWNBR1JtUXN2TGtsYUxFbm8wamJNQ1VucjlQUnpDNUxnS3l3bHZUeUMxdHh0Vy1FcjFDQjdG?oc=5",
+    "title": "The Latest Round of U.S.-Iran Talks Failed. Tehran Now Says Conversations are Meaningless. - International Business Times",
+    "summary": "The Latest Round of U.S.-Iran Talks Failed. Tehran Now Says Conversations are Meaningless. International Business Times",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVRkRjYyRGZnQ1diRW9Zc3lMRUJqeEsyczY3NUIxaW00RXoxX09QaTVoSkF4SlFvaDljLUdxcE9zbEtjU0hWQVd0azdwczF4VWpmTEZLR2gtdFBjZVo3NUNtOVREZGpCemZVVjgzU0dhaGllcng2aUJtbjlkODFSSkhER1JaVk9lV0pYb3l6Q3NJMDhsNUd1U1RkU1VwN0Q3RFNRRldrRzdRcFQzV3djUw?oc=5",
+    "source": "International Business Times",
+    "published_at": "2026-10-05T18:15:58+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 18:15:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0cffc1676e6dc0deb6189daf6eaa8c294f67bd14",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Diplomatic talks failed and Tehran dismissed conversations, indicating a breakdown in diplomacy and rising tensions.",
+      "event_key": "us iran talks failed tehran rejects"
+    }
+  },
+  {
+    "title": "Escalation And Diplomacy In The U.S.-Iran War - The Organization for World Peace",
+    "summary": "Escalation And Diplomacy In The U.S.-Iran War The Organization for World Peace",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52RHN5VVI1S1A5R2RLR0syX2hsWTI1NkpZY3lNcGJCOTFhTDBEaXpVU2RxcGlXSXF4TTdXamVLNW9YYjltVmhKLWp3VTRSWHRFX2lxSEQ1U29IdmJOZVI0LU1MQlpPcnhwUGtoTlJzQ2EtSnRSOHpGaEgzNHk?oc=5",
+    "source": "The Organization for World Peace",
+    "published_at": "2026-10-05T16:29:35+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 16:29:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1450e21ffd16ed9abb9804647b44c6f08421aa84",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "Title mentions both escalation and diplomacy; article likely analyzes rising tensions with diplomatic responses but focus is ambiguous.",
+      "event_key": "escalation and diplomacy analysis"
+    }
+  },
+  {
+    "title": "Iran’s Pezeshkian Says Negotiations With US Have ‘No Meaning’ - middle-east-online.com",
+    "summary": "Iran’s Pezeshkian Says Negotiations With US Have ‘No Meaning’ middle-east-online.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHRyY0tFdk5xQ1Boc2k1cjNrN2hGZTJmbDN6UDhjTURONkNLWWxSc01QbnlJR09YeG5keVdjbWNOamNKSmJadVRKTDFEM29vTWdWeWlMVmlqczVoZUNxUDZPczI5WWlGNzE0TXRURGVULTBnWUNRRGdxbkpIYjdDZHpRaTJLUkxNNHpUQ2NNMERXdWxURXU4bTA1QlZ2MDBrSHV5TGJ0d0E5REpjOUw5NUtzQkc?oc=5",
     "source": "middle-east-online.com",
-    "published_at": "2026-10-05T08:08:10+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 08:08:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2822221def5b19e2690d1d445e37b33b0afc464e",
+    "published_at": "2026-10-05T18:00:26+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 18:00:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "448718a2b6deabff38694a02210a36083329843e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iranian official rejects negotiations with the US, signaling breakdown of diplomacy and rising tensions.",
+      "event_key": "iran official rejects us negotiations"
+    }
+  },
+  {
+    "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them - militarynews.com",
+    "summary": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them militarynews.com",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdjJRMmJTVkNvNmM3bm1FcGMtWDJNMF9vNnU5Z19LNVFVaHBINWNrNjJvQkdHMmZYWFVFNXlHcWt1Qk5ieUtBdE1WZ1BLZ0U4ZTZidVFCaDhkOEJJNllCaGk2Y25sa2VoNDkzVmpDVjRBV2dPSnhrY01xVmpzWXlQT2IxQU10a2Fqb0xFN0dwSlZiSHFHX3NMQldZUzdmeXJDWGJCaDhzR1lPb2VjdldaUVRlREVlbTlxWHdiaWVtTEFmTDVsd05Jc2NTOUdQN2MtTV90WnpNcDRpeGh3NnJzMk1Fdjc4M3E0TFZVZUxlR2tRbDAyTDZvNGRpVEZZbHl3VHd5N3dSUC1CU19IMk83cWpFZw?oc=5",
+    "source": "militarynews.com",
+    "published_at": "2026-10-05T18:27:31+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 18:27:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f4794bc1af2c2021066ccfeb42e2e6d74c1b0e31",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Report describes an Iranian drone strike that seriously wounded US soldiers—a direct attack.",
+      "event_key": "iran drone strike us soldiers wounded"
+    }
+  },
+  {
+    "title": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base - WSJ",
+    "summary": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base WSJ",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlhFVFZMQklTYzhqUHR0d2h0ajItejFkSm1XNXZqREhzZGxYOVY3NzRlV1A4ZzFJcEU0U0hYM0gwbUtmNG5YWE5zVkUxZDlKZXp1bWVfYm1ISFhXbjJ0TDVRcVpJSVR5NXhfb3ktNjNScnl3czQyaVE5eFVfbU1aVjFuQTRwZG9aNGNleUhPTDcweWFBUmc?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-10-05T20:00:00+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 20:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "de8157da1609597a600b73e345479af5f112e637",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "U.S. redeployed bombers in response to an Iranian drone threat, a precautionary military move signaling rising tensions.",
+      "event_key": "us pull bombers uk iran drone threat"
+    }
+  },
+  {
+    "title": "Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them - arabnews.com",
+    "summary": "Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them arabnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXQ5ajhLRk1CSGlKQzJEWXVIVEdqMnNHNHliYWthdWFyTEJHN05EczlQSktzdTdjeURHb2dwRFNsVmRDdUZMMnFsRFpESGdHcThUNXJoWXZSUThsWU5acGRxYVRPWmJkR2lDVTVVS2dKZ2t5N2FEdXdPd0N0RWJBSmZsdnpROGZhUzVudHpHa21wbldnYmN6MzBQSlRmc0lNSjNqbnJnOTJQck1RY3RBNnpsSWJILWhjTk82em5rSURZX2M?oc=5",
+    "source": "arabnews.com",
+    "published_at": "2026-10-05T19:28:34+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 19:28:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "38316cd1fdd536f7e7934ddeae5c63e7bb20947d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports an Iranian drone attack that wounded US soldiers—a direct military strike.",
+      "event_key": "iran drone attack wounds us soldiers"
+    }
+  },
+  {
+    "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them - KTAR News 92.3 FM",
+    "summary": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them KTAR News 92.3 FM",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHo3ZjUzYkROMUg0amF6VzhjdllKYjRzVFNCUUFYajRVOUE3Nnd3dWVxYWd0eTN4MVFjSjJMdFZCUzUzcjRTU0hiNU1zSS1VQjVTX25SSUUxRmhKZFdnSm96d05aMTNtdHhaRG4tUFJzOFc4WFlGbmQzNFo0RS1iaDFPUFNTRm1fTmE5a3E4QjlTNHRDSXBkc2RvYXdFRnl4SHVHRWRhMHFBZmlyWW1qU1otTjh5SDczZThJZHNOTklxRnFESzJV?oc=5",
+    "source": "KTAR News 92.3 FM",
+    "published_at": "2026-10-05T14:07:55+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 14:07:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "100e8c69ff7637a97582b7974bc8ed1a82965ff1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Iran issued explicit threats to target US bases and vessels if a ground war begins.",
-      "event_key": "iran threatens us bases vessels if ground war begins"
+      "reason": "Iranian drone strike wounded US soldiers — direct attack on US forces.",
+      "event_key": "iran drone strike wounds us soldiers"
+    }
+  },
+  {
+    "title": "US bombers moved from UK airbase due to Iran-linked threats, Trump says - South China Morning Post",
+    "summary": "US bombers moved from UK airbase due to Iran-linked threats, Trump says South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1o2bjdWN1BIZnZKVFh6TlRZZmU3Uk1nT2t2dXFPZjY0YzZXTU1oWHNYLUZLTWg2c1BjM05IMjJhUUNPVklEXzZjUTh4cUlBNmcxNVZ2b3dKUVFYTVFGRlVmMVNZT0NOaTF2Q1E3T0taNncwVG9mVEVScHpfcm83TDNUbHFhdWxSUEtkYzlaODNfd2ZDSVVacWZaeXp6MjRqdmZoUHZTQ19MTE41VUVidjN5NVF5NmxT?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-10-05T21:40:14+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 21:40:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1ace2f23a3b0936759949b4d0eba92491ef827ee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US repositioned bombers in response to Iran-linked threats, a military mobilization raising tensions.",
+      "event_key": "us bombers moved due to iran threats"
+    }
+  },
+  {
+    "title": "Months after deadly Iranian attack, US soldiers’ families are struggling - The Times of Israel",
+    "summary": "Months after deadly Iranian attack, US soldiers’ families are struggling The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekRpVFFTVW5IRHVPSDNCYWRsUHF0OWFSOVZhUmJYZHBOVkJraVJHRi1DdnU4MjdhVXB1MlVxOGplMWhTNEFmRC1vX2ZBdDAxR3VHWjhVVkc3N0xQclNjQ1FiMl8wSkxxZjRhdjhtRWtjTlpPVnNxeDF0Q0pjSUwxU3RoNXhTdlQ3X0I2bFYwUlR5NXZHaTJSWFhNdnVWWXRoZjcw0gGoAUFVX3lxTE5lQXNWWm42ckhvd3Q4dlZKd19PUGtJTkRQRFZPZVdvQmtNT29RYmJxYzE2aTNCRXphMlhpZldNckVlcVZPQUVxemNQUDdBNHVad3E5Y1pBS1RZdm1MSnM1aVVRa2pzejltZGpyM0hlai1zdmF6dmlPUTM1SVh4ZHFRVUFwUVJtRy01TlJxVHVoek1LaHVXQk9rM0dNU2FMVEdUMEZtejd4TA?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-10-05T19:52:30+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 19:52:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c4885187a583f008d18b5167b40a62c97db53f35",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Aftermath of a deadly Iranian attack on US soldiers, focusing on victims' families.",
+      "event_key": "iran deadly attack on us soldiers aftermath"
+    }
+  },
+  {
+    "title": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them - Bangor Daily News",
+    "summary": "The Latest: Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them Bangor Daily News",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3h6bE12bVpCLTJJaGdlSzctb202bXI3ckdic1JJRWlHZnVKNi1EZzdmZF9BaVdaVmVWOUVWdnp3TWtvRlBvWkNHbzhfRE10eWFSaFkzUmIyV25XU2lWRTRnM0tJWW1UakI0TnlrM3hIZnFiMFZtWDNXZEFOZEhNaFdqdFd6YlVja0Y1SEp4V2JsNEViNmVCMWhSZDZQZ0NtbmI3bnY1TlFabVFrcC1Ub2lZTXJPOC1qN2NUeXE4VC1DUFY1ZEtxd1BObmtpc1FvVHBSaFIwSU1paGdYX0hOcjZB?oc=5",
+    "source": "Bangor Daily News",
+    "published_at": "2026-10-05T14:07:55+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 14:07:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e9e6d65f593e2211c2fbbd1c9f76df51c849b8d0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US soldiers wounded by an Iranian drone strike — direct military attack.",
+      "event_key": "iran drone strike us soldiers wounded"
+    }
+  },
+  {
+    "title": "7 Oil Tankers Attacked In Strait Of Hormuz, As U.S. Official Admits Iran's Targeting Abilities Keep Improving - Jalopnik",
+    "summary": "7 Oil Tankers Attacked In Strait Of Hormuz, As U.S. Official Admits Iran's Targeting Abilities Keep Improving Jalopnik",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXUyTUhoTTB0SVdRd1BYVUg4SXM0eUYwdjVDb04xemZ3UUlreVAtM3RiRUkyLTRhWmN2VW5UalRFd2RIcWdzS0M5UlRLcjlHNnByRTJSTm14bnpaV09rNXRxT2lQYU9ScEFGR0JXWU5ybHRQVm9KTUJ2QmdFaThHVGpQd196WGViejZGMVBsUW1WdnpTZ3Zn?oc=5",
+    "source": "Jalopnik",
+    "published_at": "2026-10-05T16:33:14+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 16:33:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5b0b8f0e5ec5933761baf90b6cb75d8fb68c1f13",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.6,
+      "reason": "Seven oil tankers attacked in the Strait of Hormuz tied to Iran's improving targeting—escalatory attacks likely by Iran or its proxies.",
+      "event_key": "strait of hormuz tanker attacks 7"
+    }
+  },
+  {
+    "title": "Israel prepares for possible military action against Iran with US or independently: Report - Middle East Monitor",
+    "summary": "Israel prepares for possible military action against Iran with US or independently: Report Middle East Monitor",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZW5BNmI2S3hXZ2ZPZGRiN3AtcVA1UTZWTFR5RW9XdFc3bk53RjBZOE45REVZVkxfa3F0VEkyN3dNblItWlYzU0kxQ3ZxeE9fUUZGeUxTZHVkUWtYcm1RLVVYTWtNNjFZWS1ieUNFN2V4emFMLVRDX0VVdlNUd01CTGUxd29Pek1kNTRwN2NlTnpDNHpGWmRsM24yS05XUWM2azdFRWV6Q2xkRVJRdnNrYjUwRzNtaFdNNkpsU2JDaXU3Z3FqR3JOb2xoYUN3d9IB0wFBVV95cUxNSlNWZUFsU3ctYXF1QzBfZE1Pbk5ldFNWb1pRNjg4ZVkxWFhEMWdqanJma0hlVkhuNmZYSmFWTm5kMVZjWmpxb1VSQUJqYWhpUlJRTV9hX2JORDFVZzVqUmw1NTE3dGVaTzdScGM2NE1BWm11ZXZTUVdnRzRiWHlaam1CVXVyQ1RpeHFkTlVnZHZ3TG1abnppYVJWSWQxU3RTNmlLYmVPZ0p6ckJKZTJmTVJqN2FqcTFlSUZELWJwUC1QUTVWWnc4MjlYZzdxcnBNaDEw?oc=5",
+    "source": "Middle East Monitor",
+    "published_at": "2026-10-05T14:35:00+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 14:35:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c0fce5a6565fe59533d5f5495033adb7a514dc8b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Israel preparing potential military action against Iran with/without US raises tensions and signals mobilization.",
+      "event_key": "israel prepares military action against iran"
+    }
+  },
+  {
+    "title": "Iran's Missiles and Drones Missed US Navy Nuclear Aircraft Carriers. It Attacked the Base That Fed Them. Resupply for the USS Abraham Lincoln Moved 2,200 Miles to Diego Garcia, and the Food, Mail and Soap Had to Come That Far. - 19FortyFive",
+    "summary": "Iran's Missiles and Drones Missed US Navy Nuclear Aircraft Carriers. It Attacked the Base That Fed Them. Resupply for the USS Abraham Lincoln Moved 2,200 Miles to Diego Garcia, and the Food, Mail and Soap Had to Come That Far. 19FortyFive",
+    "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPNWxJZ3Z0QlNiMkM3UDBnNzRTdDJkMDNaYXZ4VUN1ZGpPYTB0Z3pRb244dHNQRWZXUGFsazVfTmJfOHRUSHJtSnUzSHBMODU0aW5YX0NIeHlfS0x0cTZ5dDBWcEF1R2JHOWJfXzM3UndiOXRkMDVjUW5ZQ0doUjlFRlR6VmlPSHA2QnkwaUY2enJCTzdtSE9WX21hOUU0Mmg1bi10TkJuUzlKZjFxaWdxMGV1TlFWRjM4ZkplUk1YS0xDbjBWR3NBYzJzeGxWS2JiRXBlS2VVS2t3NnZ0amk5Qy1tV3g4Mk9TUkNCMWFjRHNYcDZQczJJdUo4dkpoS1lBUkc2cDRCckE0anF6TFNuX1lTb3pLQkZKV0VMUm9pZnB0QkkzaXJ3bmYyNTZiTlpkX0F4NVR5WXpUVGJFRXZXWmliVmk4bmpzOGxYeXdGMA?oc=5",
+    "source": "19FortyFive",
+    "published_at": "2026-10-05T14:21:01+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 14:21:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c0db1ece58117187cfc9ab13b01f44fe6cdb1796",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Describes Iranian missile/drone attacks on a base supplying US carriers, a direct strike incident.",
+      "event_key": "iran missile drone attack supply base"
+    }
+  },
+  {
+    "title": "‘Flames Will Engulf Everyone’: Iran Warns against New War, Threatens US Interests - Palestine Chronicle",
+    "summary": "‘Flames Will Engulf Everyone’: Iran Warns against New War, Threatens US Interests Palestine Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHNQb0JqUlk0YTc3X09hQlF1VF9CaV96VVhEazJzcmJtWHU5SjlOeDZ2aWZiXy02WXVxQjFUZEEzckRIcHo5Q3FNelNaa2dwMm0tNXRNb0lXdXlFdWo1ZTRwLXdScURNRmxONDBZSS1hbGNzVHNWQjNEeEEwRzE2dkhrc0lNajVTa2NpYVVVNnFaME0xaENpS2RTVVFiVnNDV0NvaHV2M21XaGkzWlJFRVZ5WQ?oc=5",
+    "source": "Palestine Chronicle",
+    "published_at": "2026-10-05T20:11:35+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 20:11:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0d600d14be36809df5729cbe1952fc6b0bb3b9d3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issues threats and warnings against the US, signaling hostile rhetoric and rising tensions.",
+      "event_key": "iran warns us interests threat"
     }
   }
 ]
