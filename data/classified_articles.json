@@ -1,53 +1,138 @@
 [
   {
-    "title": "Diplomacy between the U.S. and Iran remains at a standstill - WAVY.com",
-    "summary": "Diplomacy between the U.S. and Iran remains at a standstill WAVY.com",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWlyb1lwTDhOU00xeGlYX2NtaEtXem9tNkVjRXNCekhtbllFSFkxTXd1UTQ2ZTk5N2pzZVRsaXlTbHlMaWhtXzdWQWFFbDRaSzdhTnc0aWdlZEo4UmtZNDZOR1MyNkRjNDlka1pZbVJEQ00yZ0pXSDNLVFlqVGRYcWF1czRhR1BUNzZSVGFPTkRuaVNyeHB5alJ1VQ?oc=5",
-    "source": "WAVY.com",
-    "published_at": "2026-10-05T01:10:48+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 01:10:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cd743060df3e370d350b6126bec091eba1378b36",
+    "title": "Guterres travels to Pakistan to discuss US-Iran talks — The Express Tribune - UA.NEWS",
+    "summary": "Guterres travels to Pakistan to discuss US-Iran talks — The Express Tribune UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1B5VUkxODdzZFJURHNzM19scjc0dXJIM29yTVg1ajhLamRYS05Nbkx1VTVuaF9UejlQMmlmY3hucWdpMXNiNU14dU5PekdqUVBPU3owOHFkQW9oMXY1RW5YZDBpbzliYUJWN0VxQ2NFN1dqRFdLejdGaThoVkdvMTFIVjBWM3RLQnZoTWowcVdZZjk2LUtWTTRna3A1SW5xcXVlVmtRV3g3dFdLQUZjX0t3?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-10-05T09:09:55+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 09:09:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "daaa85be4e435ef39a1c29ed8512e498fbe25d45",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Diplomacy has broken down and talks are at a standstill, increasing tensions.",
-      "event_key": "diplomatic standstill"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "UN chief traveling to discuss US-Iran talks indicates diplomatic mediation and active negotiations.",
+      "event_key": "guterres discusses us iran talks"
     }
   },
   {
-    "title": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
-    "summary": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran Axios",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGVFcXp0VEluYW14M2pjWk91QUdjLWNoS25SdVBEeU1vZjZ6Y1BRSUVsaHc2aVRmR2V3elJJSHdFdUx6bGpHU01ZVUExRnVCRXpEZUYtSEVkampkVTBhZGlnM181RXVIbXZJN3NOcV8zdlc1QnpQRy0xMjlDUDkycjZfOG5sc192alU1bmp4Nk92QW1xYnRGRm1fQ0cyVGk4Q3J3?oc=5",
-    "source": "Axios",
-    "published_at": "2026-10-04T23:52:25+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 23:52:25 GMT",
+    "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens - AP News",
+    "summary": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens AP News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-05T11:08:00+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 11:08:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "04f426fbeb07c6a353214a66992e86288523b838",
+    "article_id": "ea33bfc5842ced914835d1218d6b96e547edfd8c",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Reports describe a direct Iranian attack in Kuwait that killed and wounded US soldiers.",
+      "event_key": "iran attack kuwait killed 6 us soldiers"
+    }
+  },
+  {
+    "title": "Iran US Port Shuaiba Attack Wounded - Idaho State Journal",
+    "summary": "Iran US Port Shuaiba Attack Wounded Idaho State Journal",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlFldVBnRUROSE5NdTN6U1dUblJHMTI3a1JBMWdGeGRadXNPcWd1elpuaktOUW9Gc0V5VjEzbEFwNnd5RGt4MmhQZXUzVW9iVlFZOHNsUzZIZi0yU1V1THdZUm1Xdmd0SVdsajN4eHN3ZkRld0Fnd1ZXNG96VTZPZGEzamVSXy1oLUxfb3JLMmI3TDJnajFYNmNMVWV0blUwcGd4azE0clJkRUFQYXRtQXc2Z1ZTekpOSFdWV1FiYmtoRzRFS2RBdzdIaw?oc=5",
+    "source": "Idaho State Journal",
+    "published_at": "2026-10-05T10:01:27+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 10:01:27 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9951252042773ff6c7729e4db232992c63cdb926",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.65,
+      "reason": "Reports indicate an attack at Port Shuaiba wounded people, indicating a direct strike/attack event.",
+      "event_key": "port shuaiba attack wounded"
+    }
+  },
+  {
+    "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens - Oskaloosa Herald",
+    "summary": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens Oskaloosa Herald",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYWRILTRMVGJEb1dSTjlWMzNLdEh2aGhOYkVBOEN4eG5DcGg4cVF1R1JLaHJ4UDBFM2tvZ2xiaU05VnBIU0E2Mjh4RlluNnVtaTZyN1ZvUDdoNGJXZWdPdzY0Q2Y5M21famJUUXZLSmhfbjFWYVRibW5xQ1VWTFg3cnZIYXNSMHhfdVNod05HX3BvNjJJRVJNbWswR3JpV1M5WWdSS1duZDhLRmVEV0hBQmtSOEFMN21hbHkwUWd6S1dBYUpidGNmM0VSV2g0ZFY0RTZNTzVUeURUc1ZtTVJhM0hYc1hGWng1VnV0SVV1QzdpNFpDSU9nV3lSRTlyQ1J2a1RHOW9FN1g?oc=5",
+    "source": "Oskaloosa Herald",
+    "published_at": "2026-10-05T11:08:24+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 11:08:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "17609b51c00d8b17a946348228a117784366625f",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports a lethal Iranian attack in Kuwait that killed US soldiers, a direct hostile strike.",
+      "event_key": "iran attack in kuwait kills us soldiers"
+    }
+  },
+  {
+    "title": "Iran reviews US Hormuz response while coalition strikes Houthis - Arabian Gulf Business Insight | AGBI",
+    "summary": "Iran reviews US Hormuz response while coalition strikes Houthis Arabian Gulf Business Insight | AGBI",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1RXUzhVcnBncE90andwX0ZVcW50RnRFbXZfay1aTERwUm1QM1ZTZFlnRXJXcXZCQklxekRGQkJEdmNnaXNqb0RUd0JWMkw3QjZlSHYwSnpzNHdVenduNTRqT0p2cVUyNmxvN3h5Smp4bWxPNmdsb3J2NGN0bnRiVEJsTjgxdFEzVm14UXY4MmRSMDJBOGtYN0diN010aF9ZUzFJZXdpc2U?oc=5",
+    "source": "Arabian Gulf Business Insight | AGBI",
+    "published_at": "2026-10-05T05:24:00+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 05:24:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eb62ca613df6d5d9b17fed84097327122ca7759a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Coalition strikes on Iran-backed Houthis while Iran reviews a US response indicate proxy-driven escalation.",
+      "event_key": "coalition strikes houthis iran reviews response"
+    }
+  },
+  {
+    "title": "Iran threatens to target US bases, warships if Washington launches ground invasion - Anadolu Ajansı",
+    "summary": "Iran threatens to target US bases, warships if Washington launches ground invasion Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHNRdWkycUxoanMzWlJkZzdfaVdMZ01CS1RSWXhlX1pkR01TMlA1eUZOMFF2MnViVVRBRG9MNVlWdDRFNTBnUjhlLWRBdVo0RFJ2cFprbURoVERNc0lOenYzSFlOa0tKRmFVTGo2czhLMWZiUGZoaVdiN25VTURoSG1FUnhvV3pMY0F4VG5hOHVydENzam1rY1VReFVSZnBYSFNVdU85T0pVWDBQc3RxTE41ZjdTYUxNLWJVc3MyNA?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-10-05T06:26:15+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 06:26:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ea2e345de36d169d1df32ddf41ceda1935bafba4",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "US evacuated B-1 bombers from UK base after Iranian attack threats — indicates military precaution and rising tensions.",
-      "event_key": "us b1 evacuation after iran threats"
+      "reason": "Iran issues explicit threats to strike U.S. bases and warships if a ground invasion occurs.",
+      "event_key": "iran threatens to target us bases warships"
     }
   },
   {
-    "title": "Iran's Army says to work on increasing missiles' range following war with US - Awani International",
-    "summary": "Iran's Army says to work on increasing missiles' range following war with US Awani International",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2pubHhCSFpNYWhxTGlYX2ktYjYwSW9lSjNhel9rZ1N1Si1uZl9OdjVSbzFzT1VYeVd5bVVqYzBhNmtJemVDRFBzM2hsdVZ0eTBiUDB0WVljWW9vS1ZVYVc2bjNocV9pZVNhQjcyWi1yOEltNEM0NkRXSjRUaV8tRklLc0NKOGZqck5fQzZpeXFPV0hYUi0xOVhhWkx2RTh3Um5CcUtSQWdsWDJXUWNRWW1n?oc=5",
-    "source": "Awani International",
-    "published_at": "2026-10-05T03:12:26+00:00",
-    "raw_pub_date": "Mon, 05 Oct 2026 03:12:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6b7acc3bc6fb4363ebc9a2e49dd2a1b62456fdee",
+    "title": "US pulls bombers from Fairford amid Iran threats, security fears - The Arab Weekly",
+    "summary": "US pulls bombers from Fairford amid Iran threats, security fears The Arab Weekly",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanVhWnNmS2hvdUc1NmEzT2p1bVlXdlRDNXl1U0pFX2hqX0otR3p6RjM4VWllelA1bmpRMFFfMFhTbHlyeU9hN0tIdnl6aDR5UGxlZFJHcnJZTnNKeENxYWlSR2ppbk1RNE1iMlkxY2RTSko1VXBwQjAwNF83enIzSW1sRXMzQ1JRNC0zVGNSZlc?oc=5",
+    "source": "The Arab Weekly",
+    "published_at": "2026-10-05T09:20:33+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 09:20:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "af1963ae6e7d11bae434fce96e3cf4ec8ff1a7ed",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.45,
+      "reason": "US removed bombers from RAF Fairford amid Iran threats, reducing forward posture as a precautionary de-escalatory move.",
+      "event_key": "us pulls bombers fairford"
+    }
+  },
+  {
+    "title": "Iran threatens all US bases, vessels if ground war begins - middle-east-online.com",
+    "summary": "Iran threatens all US bases, vessels if ground war begins middle-east-online.com",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEI0OERsZV94eUVtcVB4UXR3eEdOdEp5eUFvaTludldIQXlXMndtdEtCcHZfSXNGLXJ1bEN2REJWY1R4bmp5OENTS1NaZWNWdF94alpCZ1FXQUpmTjl1MWNBR1JtUXN2TGtsYUxFbm8wamJNQ1VucjlQUnpDNUxnS3l3bHZUeUMxdHh0Vy1FcjFDQjdG?oc=5",
+    "source": "middle-east-online.com",
+    "published_at": "2026-10-05T08:08:10+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 08:08:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2822221def5b19e2690d1d445e37b33b0afc464e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran's military pledge to increase missile range signals hostile posture and capability buildup after conflict with the US.",
-      "event_key": "iran increase missile range statement"
+      "strength": 0.9,
+      "reason": "Iran issued explicit threats to target US bases and vessels if a ground war begins.",
+      "event_key": "iran threatens us bases vessels if ground war begins"
     }
   }
 ]
