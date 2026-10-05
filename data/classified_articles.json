@@ -1,36 +1,53 @@
 [
   {
-    "title": "Iran says no military solution to war as peace talks with US stall - France 24",
-    "summary": "Iran says no military solution to war as peace talks with US stall France 24",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkdGTmxyRWNXbGxHTklnUzRHbmk0OHJYNVQ2NUFpZHZ0NnB4V0xXa1ZMLWN0UmY0TlFxMHJtbHpwY0lvOFEyak90eVZJSlZHbjl3MTl1ZDFYY2FWQkJfOExRNkxCNXNuX1B2bUYxdnNLRzBYbkcyMjF4RHpoRzdRaUZmRm9JNjlkdmZTWWxLOFNpdjdJV3ZhVA?oc=5",
-    "source": "France 24",
-    "published_at": "2026-10-04T21:41:47+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 21:41:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "97e3da48c8cdc05e5ee4aa9dada5afac34ea62aa",
+    "title": "Diplomacy between the U.S. and Iran remains at a standstill - WAVY.com",
+    "summary": "Diplomacy between the U.S. and Iran remains at a standstill WAVY.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWlyb1lwTDhOU00xeGlYX2NtaEtXem9tNkVjRXNCekhtbllFSFkxTXd1UTQ2ZTk5N2pzZVRsaXlTbHlMaWhtXzdWQWFFbDRaSzdhTnc0aWdlZEo4UmtZNDZOR1MyNkRjNDlka1pZbVJEQ00yZ0pXSDNLVFlqVGRYcWF1czRhR1BUNzZSVGFPTkRuaVNyeHB5alJ1VQ?oc=5",
+    "source": "WAVY.com",
+    "published_at": "2026-10-05T01:10:48+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 01:10:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cd743060df3e370d350b6126bec091eba1378b36",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Iran's statement rejecting a military solution signals restraint despite stalled talks with the US.",
-      "event_key": "iran no military solution talks stall"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Diplomacy has broken down and talks are at a standstill, increasing tensions.",
+      "event_key": "diplomatic standstill"
     }
   },
   {
-    "title": "Iranian leaders focus on diplomatic talks as U.S. adds more military muscle, prepares for escalation - Washington Times",
-    "summary": "Iranian leaders focus on diplomatic talks as U.S. adds more military muscle, prepares for escalation Washington Times",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWtvNVlGcXVqSjc5ZmhVSXlZWlZPd24tNmxNSzJWWXpBUGhMRXNSOUhKSklLXzN3UHZMbmhhZEF4RDlFdklkcjVFZUkxWnBMSmNMblBNRDdSaUFTRUNwMy1MMHFtYWhyZ2FsYnA4TWxrY2FOV29SR0pod0JQdnhsZHNKNG1aamZrRUwtaFZmczRDeUVvaHlTMERtUnB2SDV4UVk3M1RIa08wbTBWZGVwUQ?oc=5",
-    "source": "Washington Times",
-    "published_at": "2026-10-04T21:23:12+00:00",
-    "raw_pub_date": "Sun, 04 Oct 2026 21:23:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1ef380b92538380701025614c6530fa92e8a7a93",
+    "title": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
+    "summary": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran Axios",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGVFcXp0VEluYW14M2pjWk91QUdjLWNoS25SdVBEeU1vZjZ6Y1BRSUVsaHc2aVRmR2V3elJJSHdFdUx6bGpHU01ZVUExRnVCRXpEZUYtSEVkampkVTBhZGlnM181RXVIbXZJN3NOcV8zdlc1QnpQRy0xMjlDUDkycjZfOG5sc192alU1bmp4Nk92QW1xYnRGRm1fQ0cyVGk4Q3J3?oc=5",
+    "source": "Axios",
+    "published_at": "2026-10-04T23:52:25+00:00",
+    "raw_pub_date": "Sun, 04 Oct 2026 23:52:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "04f426fbeb07c6a353214a66992e86288523b838",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.45,
-      "reason": "Iran focused on diplomatic talks despite U.S. military buildup and preparations for escalation.",
-      "event_key": "iran diplomacy us military buildup"
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US evacuated B-1 bombers from UK base after Iranian attack threats — indicates military precaution and rising tensions.",
+      "event_key": "us b1 evacuation after iran threats"
+    }
+  },
+  {
+    "title": "Iran's Army says to work on increasing missiles' range following war with US - Awani International",
+    "summary": "Iran's Army says to work on increasing missiles' range following war with US Awani International",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2pubHhCSFpNYWhxTGlYX2ktYjYwSW9lSjNhel9rZ1N1Si1uZl9OdjVSbzFzT1VYeVd5bVVqYzBhNmtJemVDRFBzM2hsdVZ0eTBiUDB0WVljWW9vS1ZVYVc2bjNocV9pZVNhQjcyWi1yOEltNEM0NkRXSjRUaV8tRklLc0NKOGZqck5fQzZpeXFPV0hYUi0xOVhhWkx2RTh3Um5CcUtSQWdsWDJXUWNRWW1n?oc=5",
+    "source": "Awani International",
+    "published_at": "2026-10-05T03:12:26+00:00",
+    "raw_pub_date": "Mon, 05 Oct 2026 03:12:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6b7acc3bc6fb4363ebc9a2e49dd2a1b62456fdee",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's military pledge to increase missile range signals hostile posture and capability buildup after conflict with the US.",
+      "event_key": "iran increase missile range statement"
     }
   }
 ]
