@@ -1,19 +1,53 @@
 [
   {
-    "title": "Base in UK faced Iran-linked threats to kill US troops and destroy planes, official says - The Washington Post",
-    "summary": "Base in UK faced Iran-linked threats to kill US troops and destroy planes, official says The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb3hVNzEzdW5yQ040eGpTbUtkSEdSV01VWXhFSGFmT0U4NzlEWVVrbkhTY3ZCNmpjWk9vczJwTzgybXI3SFBUYXpkNks2WlUyZ21wcU1zeUhSNjl1Y3htNlNQd1RJRURzcEJaQXZ5S2ZZenNMaEFnOWo0VHZKOWk5TWhWdS1QTEcwLURlUVkzMFNMRHdMUW9uYURMNXl1SHZ2clQwRWgyUzBVdzRmR0hYcW8wa3pydHl1SEpRRU80UU5rR0c3dVl5QnRKcnQ?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-10-06T21:38:58+00:00",
-    "raw_pub_date": "Tue, 06 Oct 2026 21:38:58 GMT",
+    "title": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event - AP News",
+    "summary": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event AP News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VpOTVFYU5JaFIxSGZ4SFg1dTVDamJQb2xSc18zanA3Nkc3UGxJTmhXS24xTmxwbUlRb255NGtncnJpSU1fUDBzUzNSREtydzJhdFIzS1kzcEVESGw2UDY4dDN2Sll6Rzg3MlM5REhiOXJSSDYyZW02cWFsendNMGFTbTJyejRILWRMMXNOVzU4blMxQ2NIdHIwSXNTeGkxaFIzdg?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-07T02:19:00+00:00",
+    "raw_pub_date": "Wed, 07 Oct 2026 02:19:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3122ba53ecdee0cab75f6c80af121c4b07185038",
+    "article_id": "569bc1075c9dc28867cfe006878b3140af1da061",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.1,
+      "reason": "Focuses on families absent from a White House event, not on diplomatic or military developments.",
+      "event_key": "families absent white house deadliest strike"
+    }
+  },
+  {
+    "title": "Israeli officials fear Iran may launch missiles amid US pressure — Jerusalem Post - UA.NEWS",
+    "summary": "Israeli officials fear Iran may launch missiles amid US pressure — Jerusalem Post UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXd1ZnFuU2ZWQVdxVzdqYzdPNnZ5VGhuMGZrdkpQR1ljOVNSMzlhV3pBTXdWN1ljRFI0T1NKR0ZsMmFqMVZqeFhrWFlFVDlxc003X3FzckRZdkJpbGMwSEZrbl96X3UxdngzUENGbEFEWjRCSmt0enVKZjItS0I5eUludFJNQVF5X05OOHhVSWFPTndWbDZxNXQ5VWtkdkM0dWlhVXBYVVhIbGIyX09fNldWNWQ?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-10-07T07:40:55+00:00",
+    "raw_pub_date": "Wed, 07 Oct 2026 07:40:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3324718d0c9114fdcc33eb013035ee6f3571e218",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
+      "label": "escalation",
       "strength": 0.6,
-      "reason": "Iran-linked actors threatened US troops and aircraft at a UK base, implying proxy-driven escalation.",
-      "event_key": "iran linked threats us base uk"
+      "reason": "Officials fear Iran may launch missiles amid US pressure, signaling rising tensions and potential escalation.",
+      "event_key": "iran missile launch threat"
+    }
+  },
+  {
+    "title": "US-Iran War To Escalate? Tehran Warns Of Painful & Devastating Response Amid Trump's 'We Have To Finish Up' Remark - NDTV Profit",
+    "summary": "US-Iran War To Escalate? Tehran Warns Of Painful & Devastating Response Amid Trump's 'We Have To Finish Up' Remark NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMDJ5OVRFdmxwUi01SGFnN2UyYnlQdHBtRm5QNV8wVC1qdF9kRXk0cktnWDRueGI4UlFjb0dPRXI2TW1OTkpDWlB2S1pWWUhldmRwbjA2aFhENXJhczZqMC1GMUYyT2hOTTduVkZIOGpjUWp0SURHN19JZ1E2Y1RQSVlJR3pFTmxVMno4MzJhM3lFZ05DMmR1N3RaNjRESVNYOENFdUsyX2JMXzd1dmI3UU83ZEdmblBhNmNuQU14dmwwSlJuMWZhd1NRcFZXLU5feWU3bzZxNExBY1J5RWF3STJRV2XSAewBQVVfeXFMUGwwNFVzTlZHalFQWDYtS0pGOGRRMmg0cGhWLXQ0ek9CTTFqdWdZV2hlemZMT2FQNXdRcmphcGpiZ2RZNEQ1YkZXbWk5TUVxaVhxTjV6OWYyRU42Sjg2eU94RFBDbHlESF83bXc1bDR5MnBQU3Y3N2U2Q0FTNXpuZWwxa2JFYmszRWZ4Mll0QTdxZ3IteVhNVVpsQUx0Y2laNjM2U3NrTF9menF3NzIzSVJ2TG85QUdyUUpJcWF1Ul9Hb2xiOGRYeE1jdTJlY1BLb1d0MVZxREduS2dxNlQtLUFzVF9SUWt1X1duZkE?oc=5",
+    "source": "NDTV Profit",
+    "published_at": "2026-10-07T02:18:03+00:00",
+    "raw_pub_date": "Wed, 07 Oct 2026 02:18:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4aa422e7fc830267c6a4b266948ea672f44217b5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Tehran's warning of a 'painful & devastating' response to Trump's remarks signals escalatory threats and rising tensions.",
+      "event_key": "tehran warns devastating response to trump statement"
     }
   }
 ]
