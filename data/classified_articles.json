@@ -1,172 +1,53 @@
 [
   {
-    "title": "Iran says US talks can only succeed without pressure, threats - Türkiye Today",
-    "summary": "Iran says US talks can only succeed without pressure, threats Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHRhX3F4VklablhxVFBudkNqRzJ2LXp2ZTYzV1pia1k4dkFNZGN3elYtMVZVYzFNOTAyUnRGVXZHZjFVWmd4SkEyWldJcGkxN3owdjJkbVQtaFExMlQ5bHh6bWdfVGltRnBUd0dMT1JYdFowYkJ0ZW9WVjg4WC12a3hoYVBuUmNzSU5DQzY0UlZEeVRyaF84amlxclJ1Ml9fa2NmZjhuUQ?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-10-09T15:34:29+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 15:34:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a958143e23d2db4ac1959a90004eb31b48bc38cb",
+    "title": "U.S. Stocks Rise as Iran Escalation Fears Subside - WSJ",
+    "summary": "U.S. Stocks Rise as Iran Escalation Fears Subside WSJ",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEk1S05kM2xybmFka25kR0pBbkNJeE8zUXJXSkt6eFJocUU3eUg2a1BjcGE4RnI2WEc2ZmFvQjNmTjlNc1BTeFNMZE90RnRjazNfQVdhU1I4ZTRFLTNwdUdnUDJxdEc5OVdxdGFnM3VReTgtY2NYLVByZ01GRkpuR3B1QW9lOHIyUVZqeDV4dW82LWRtT0Jj?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-10-09T20:51:00+00:00",
+    "raw_pub_date": "Fri, 09 Oct 2026 20:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "846c47a4a5d4ffd75aae4ead1c02024bedc085fd",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Iran sets preconditions for US negotiations, demanding talks without pressure or threats.",
-      "event_key": "iran demands no pressure for us talks"
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Markets rose as fears of Iran-US escalation subsided, indicating calming signals rather than a formal ceasefire or strike.",
+      "event_key": "iran us deescalation sentiment"
     }
   },
   {
-    "title": "US-Iran WAR: Iranian President Says No peace Talk Under Pressure, Threat - THISAGE",
-    "summary": "US-Iran WAR: Iranian President Says No peace Talk Under Pressure, Threat THISAGE",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDlCLTk5N0QzcmlfZHQtZ05aNS1zdFo3LXp6TEtOZ3Y5YnNXQ3NCZ05JazFxX2M0R2c5UktRcFhVSFlhOUpBcDl6NkYwNDM3aW1jMURPNTF2VUMtY0g3a2dqQUtmazhhV3V0LW9KRmwyT0NQZGpHZ1VzbjRHcmJIbUdBSHFjMHJBNU9XRzAwTXpXaVo3TVFIX3NB?oc=5",
-    "source": "THISAGE",
-    "published_at": "2026-10-09T12:34:14+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 12:34:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a01125ab8f3d5b3fb0caf9c7b9db2e7a50ebf0c9",
+    "title": "Donald Trump reverses stance on Iran strikes ahead of US midterms - The Jerusalem Post",
+    "summary": "Donald Trump reverses stance on Iran strikes ahead of US midterms The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDZmVfaUtfeE93YV9iUkVNZG1zcTFXWXpncG91YzZQX2NwWVV6R2tKU3NfeEE5Z0lFeGZHdHdLWHJwN3VqVENnX1NWTS14Z19QSHhicDhtbVdJZGhxRElJ?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-10-09T22:03:00+00:00",
+    "raw_pub_date": "Fri, 09 Oct 2026 22:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c5c20dffe8a650f941ba1e18728142ddccb2187d",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian president rejects peace talks under pressure/threat, signaling diplomatic breakdown and rising tensions.",
-      "event_key": "iran president rejects peace talks under pressure"
-    }
-  },
-  {
-    "title": "Iran President Pezeshkian says peace talks with US need freedom from ‘pressure, threats’ - Moneycontrol.com",
-    "summary": "Iran President Pezeshkian says peace talks with US need freedom from ‘pressure, threats’ Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFpEcnpjbEM1NUFsMzNGWUE4LTZlUW9KTjBQQ0NNZHJOSWlBdWZxX2htbVBvZ2J2OHE2ZG45NkhjQmtVWURzcXZEV3g0WHVrQjVxMjVlelBqYkZsSVRPSXFmanE4Q1pWLUF0OUhXMktmM2R2N2d0VnUwVEtIUVppNDkwbzNxcUhualQ5Tm9lbmZPd1lRRHNwaEtwMmdfTk92Y1UwYlpLMmd2SkY4alhsWjI1YW9BTmtVNDFuUlYybWhRc2F5WEZYVjRGLXlkNExJR1RHMDFNOHpqUdIB3wFBVV95cUxONFdBemsxUnZnZ28tX3ZYdHJVemJRM1hNS0RKS1ItcFZCYldHaGRnQkdSVDYwb3EwWmZnRENnb2s4SklOeU5ZZDFkXzlxN0tRdXE5cFVkeFltN1VWdmhKTHhRZkh2WUlLeWNIOExBRzNJMGxGWndIbENxTmprMmt6NWhLU2tUQzZHZ08tbmkwbGUxNDlqazZiUTZ1QUJfRGZsclhJaDhTY0tfNHpxWjdvTnJhcmM5VHhoRnFZTTdSVDBrOTVoR1JwM0VmRkNDQnk3SjYydnZIcGk2TjRRcnhF?oc=5",
-    "source": "Moneycontrol.com",
-    "published_at": "2026-10-09T10:14:36+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 10:14:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a1a0ab9cb93111ffbb132ab2ab512bb4e209c58e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.4,
-      "reason": "Iran president sets conditions for peace talks, indicating diplomatic engagement contingent on absence of pressure or threats.",
-      "event_key": "pezeshkian calls for pressure free peace talks"
-    }
-  },
-  {
-    "title": "President Trump announces the US will not strike Iran before the November midterm elections - KCRA",
-    "summary": "President Trump announces the US will not strike Iran before the November midterm elections KCRA",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlgyYnh4OUhzakM0S3VuOThzekdYWk9MMG5WV2hnaHJ5andSUFNwODk3TF81NHpkVEtPeFZxRk91WlZhT3VScTEtaUFPTlRER1lCaE0tWkdZc3RDZjRGUURHVGRvVjdZc2NjaVpkZnY0UVJYYmg2OU5wSlEwU25nT01nLVRxRjZjbUQ4?oc=5",
-    "source": "KCRA",
-    "published_at": "2026-10-09T11:15:00+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 11:15:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0ce3daf5730eb9974a1f776a0ed8547b2826a383",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "President Trump publicly pledged restraint by announcing no strike on Iran before the midterm elections.",
-      "event_key": "trump no strike before midterms"
-    }
-  },
-  {
-    "title": "Latest Status of Iran-U.S. Talks - WANA News Agency",
-    "summary": "Latest Status of Iran-U.S. Talks WANA News Agency",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IcDlCNmRvZXBjQW5RUEN5OTNsbFFCLTVLR1BPODIzTE1LTWJoV0UxMU8tNEx2X2ZTOUxrb3RHb05MVDdsblZheC1yR3RwdXFsUTByV0lSNGJoVV8tYnlncGdMbw?oc=5",
-    "source": "WANA News Agency",
-    "published_at": "2026-10-09T12:06:39+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 12:06:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e019d9a269e245426626177db3182bb5a719eb2b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports on the status of active Iran–U.S. talks/diplomatic discussions.",
-      "event_key": "iran us talks update"
-    }
-  },
-  {
-    "title": "Oil Prices Retreat as U.S.-Iran Diplomatic Talks Ease Supply Fears, While Gulf Hurricane Limits Losses - EnergyNow.com",
-    "summary": "Oil Prices Retreat as U.S.-Iran Diplomatic Talks Ease Supply Fears, While Gulf Hurricane Limits Losses EnergyNow.com",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE02dllPNDFTODlYQS1BVGRDWDJPa3V3NzkwNGxMd2ZwWi0tZkwzQzByNzdpU0NjVWtUaFpMWnI1MHMtTkNIVzBDV0JNTE1wUV8tXy1sSy1fcm42MEswLVY1RElxRnlBeHRuUHYzblVZVmlvNTlnSWx6Q3ZqSmZSdGZIajdUSmxFaFNHMEV2alAxNlp3aHdiX1NJa3VBek9XcnprTVRaQlcyejhfbVk4YTBjQjBSRDhwdXVxUUhxVWVhWnYzQTZYUmJjQQ?oc=5",
-    "source": "EnergyNow.com",
-    "published_at": "2026-10-09T11:30:00+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 11:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cfb3e4742c748593815d02c079467c2fed6d70a4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.75,
-      "reason": "Active U.S.-Iran diplomatic talks are reported easing supply fears and influencing oil prices.",
-      "event_key": "us iran diplomatic talks oil"
-    }
-  },
-  {
-    "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC - NPR",
-    "summary": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC NPR",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalhmck5wcTF4VERITW41U2xVWTNUX0NEelJ0b2VObGhmQW90cW1RcGx5VnpQMU9rajBwS1dKbUNnOUNPcnQ2ZWdlTE9abVJIV05UZEhDUnNzYzg5WUdjTDVFemxEYkVYcUpVaFRScGpvQmZvY3VOd3lwdl9UMFF5ZEFib21qYTdhNnp4aFpFMkxITEFvQTdJLUcwQUhPUGF4NkNVWkp0SVpKNXJQMlg1NlA1Q2ZVb1MwMnc?oc=5",
-    "source": "NPR",
-    "published_at": "2026-10-09T11:37:04+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 11:37:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "499b2f1b5238984e562aa7d460e6427ac5a70502",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Trump publicly pledged not to attack Iran before midterms, signaling restraint to avoid escalation.",
-      "event_key": "trump no attack before midterms"
+      "reason": "Political reversal on willingness to strike Iran increases tensions and hawkish signaling rather than diplomatic engagement.",
+      "event_key": "trump reverses iran strike stance"
     }
   },
   {
-    "title": "US prepares options for intense three-day strikes on Iran - The New Arab",
-    "summary": "US prepares options for intense three-day strikes on Iran The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmFwN2xNdlRyay1qWWd4aWJVYnZPUHhqY25rX0xGR3REYlRmVDJmOVZUTFBpdzY4YkF4ODA0TXJPRjdzV08tZWZyRHJ6bHB0YlRmSHVWWjZPT3k0WW95TE5MaG9JYUVSNTd2WkRpakxtWlJBc0FwbXNfVWdqY1hGLTlxMHVMdw?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-10-09T13:05:05+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 13:05:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2de6d81f8ec3885748589362ee3db6c641290c8b",
+    "title": "Pentagon Overhauls Missile Procurement After Iran Strikes - Военное дело",
+    "summary": "Pentagon Overhauls Missile Procurement After Iran Strikes Военное дело",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0xDRkNVR2hINWZ1cWlreWxGdWZmUTVON2lkTUltS0puZXhhTnhoSGh6R3JrZWV0UmVKdTVDd0hDMzQ5OVc2NmYxUjhWWk5SbVVRV3N3SE03S1dZRmpiaUJFejNvM3FVdDlIcWhlV0dHWWc5YTV5WUpHTjJ2WXZ4SjlDTTVUUHZGU21kdWpwTFV0Y2dVemx0R01iakJUUHM?oc=5",
+    "source": "Военное дело",
+    "published_at": "2026-10-09T17:58:02+00:00",
+    "raw_pub_date": "Fri, 09 Oct 2026 17:58:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c1670f487bb1fa7117692a4011c5122a01c7392a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "US planning intense multi-day strike options signals significant military escalation and rising tensions.",
-      "event_key": "us prepares options for strikes on iran"
-    }
-  },
-  {
-    "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - GV Wire",
-    "summary": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates GV Wire",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTVUY1hNZFRpRklPSFluSVh5NTNrbk9LNXBRdFhDRHhHWW13UDkyUldZQU5hc3dqakw3R3lYSXpEaWJndkV3dnhsbk1rYmo4VS1RcnFtNHdCemxSRlFNb2FXS0V6cFhHZENyVWx3cVBERzQxdlNYa3ZOTUwxMVFDbWtrNXdRd1lWREN4MGVuRVFlVk0?oc=5",
-    "source": "GV Wire",
-    "published_at": "2026-10-09T15:46:46+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 15:46:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c38cb4ea8d0f5ee918083be0b37a4256aac59a2e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Pentagon preparing strike plans signals mobilization and rising tensions despite presidential hesitation.",
-      "event_key": "pentagon draws up iran strike plans"
-    }
-  },
-  {
-    "title": "German Stocks Recover Amid US-Iran De-escalation Signals - marketscreener.com",
-    "summary": "German Stocks Recover Amid US-Iran De-escalation Signals marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHYyZGFkcnVMYW1fS1JqRUtJMW1PQnBpTHJfdlVLTVBUclpfZ2NrcENRQk5NX0kxUnpfRm1YLUxJVlEzd3RaTTI4RFcxUU1fVjlxVW9lSHlGTWFjbjhGbkpjTGpuSG81N3I2eEd6eUl5MEM2bVJ5VDhRTlphTkMtNjBkc2x2Uk50bVlfdUdpbW50d3haZmY1M1BMOXBYNS13dmMzWUFlNk9ka2FiWWc?oc=5",
-    "source": "marketscreener.com",
-    "published_at": "2026-10-09T16:00:43+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 16:00:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9d89e4ca763c351becccb59cd880925c868d93a2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Article links market recovery to US-Iran de-escalation signals, implying restraint rather than a formal ceasefire.",
-      "event_key": "us iran deescalation signals"
+      "strength": 0.62,
+      "reason": "Pentagon altering missile procurement in response to Iran strikes signals rising tensions and military posture shift.",
+      "event_key": "pentagon procurement overhaul after iran strikes"
     }
   }
 ]
