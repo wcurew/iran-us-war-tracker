@@ -1,53 +1,19 @@
 [
   {
-    "title": "U.S. Stocks Rise as Iran Escalation Fears Subside - WSJ",
-    "summary": "U.S. Stocks Rise as Iran Escalation Fears Subside WSJ",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEk1S05kM2xybmFka25kR0pBbkNJeE8zUXJXSkt6eFJocUU3eUg2a1BjcGE4RnI2WEc2ZmFvQjNmTjlNc1BTeFNMZE90RnRjazNfQVdhU1I4ZTRFLTNwdUdnUDJxdEc5OVdxdGFnM3VReTgtY2NYLVByZ01GRkpuR3B1QW9lOHIyUVZqeDV4dW82LWRtT0Jj?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-10-09T20:51:00+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 20:51:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "846c47a4a5d4ffd75aae4ead1c02024bedc085fd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.5,
-      "reason": "Markets rose as fears of Iran-US escalation subsided, indicating calming signals rather than a formal ceasefire or strike.",
-      "event_key": "iran us deescalation sentiment"
-    }
-  },
-  {
-    "title": "Donald Trump reverses stance on Iran strikes ahead of US midterms - The Jerusalem Post",
-    "summary": "Donald Trump reverses stance on Iran strikes ahead of US midterms The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDZmVfaUtfeE93YV9iUkVNZG1zcTFXWXpncG91YzZQX2NwWVV6R2tKU3NfeEE5Z0lFeGZHdHdLWHJwN3VqVENnX1NWTS14Z19QSHhicDhtbVdJZGhxRElJ?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-10-09T22:03:00+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 22:03:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c5c20dffe8a650f941ba1e18728142ddccb2187d",
+    "title": "'Leave Iran Immediately': US Issues Big Warning For Americans Amid Strikes In Hormuz - The Times of India",
+    "summary": "'Leave Iran Immediately': US Issues Big Warning For Americans Amid Strikes In Hormuz The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLV91aFh6UkFUcmoxRW9TZnU4RG5NZG9BMmJOTzZfTlNibXdyQ1pYNzRGU2pNUlQwVmRacTI0STN2TFpweUgyaGZEM3hVejFaVVBoSzZfOFhnQU9EanpqUVlHempKOUI0Q1BBQlNRNXE1X2ZvOElOUzRzNW00RGI3MDZkbU9TdU5lSXd4ZEJrM1paSk9IS1ZfUkJJWE0xQ0Qtd1o5UGFjNWdTRGdrbnE2dWItTTBOSHgzREN3UEhzYVhYeThfZVh1NnBocmtBQWxTSkdMQkd2bzRDWjMwUEZnR1JOakR2QVZCY3ZjMjNKSzYtNkho0gH6AUFVX3lxTE5BMURhVXFxYlhZQk9tb3R2bko3Ui1GNUV6dTRud0ZkTEs1RVA5SVdhQXpTVmFpdVdtOTBGRTJVZ2s2MER3SmNrWHZWMTRMTXhqVEtuT3pDaXhjMWF2cWRXY3NXalc4RzJYMk1sbVNLanJWVmxPZUJaNzQwZUZ1TDNYSlpzcHB6V0tPNkxwSlk2T1Z6V1BDbHpKNk5QRW54R21HN0JyQjduOFNucTAzeUlOVGU2WkJNaXhxWVNHVlF5NUIxN0tUTkdweXI5cm1DSXA4UktLakg1Z3BUa2JDZTRaSlh1ZHFJcWl3QS15Yk9yTURvWXM1dU5iMUE?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-10-10T03:52:45+00:00",
+    "raw_pub_date": "Sat, 10 Oct 2026 03:52:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "97fe2ee34bbdd616f90c606f034262178c2efb9f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Political reversal on willingness to strike Iran increases tensions and hawkish signaling rather than diplomatic engagement.",
-      "event_key": "trump reverses iran strike stance"
-    }
-  },
-  {
-    "title": "Pentagon Overhauls Missile Procurement After Iran Strikes - Военное дело",
-    "summary": "Pentagon Overhauls Missile Procurement After Iran Strikes Военное дело",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0xDRkNVR2hINWZ1cWlreWxGdWZmUTVON2lkTUltS0puZXhhTnhoSGh6R3JrZWV0UmVKdTVDd0hDMzQ5OVc2NmYxUjhWWk5SbVVRV3N3SE03S1dZRmpiaUJFejNvM3FVdDlIcWhlV0dHWWc5YTV5WUpHTjJ2WXZ4SjlDTTVUUHZGU21kdWpwTFV0Y2dVemx0R01iakJUUHM?oc=5",
-    "source": "Военное дело",
-    "published_at": "2026-10-09T17:58:02+00:00",
-    "raw_pub_date": "Fri, 09 Oct 2026 17:58:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c1670f487bb1fa7117692a4011c5122a01c7392a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.62,
-      "reason": "Pentagon altering missile procurement in response to Iran strikes signals rising tensions and military posture shift.",
-      "event_key": "pentagon procurement overhaul after iran strikes"
+      "strength": 0.8,
+      "reason": "US warning to citizens amid strikes in the Strait of Hormuz signals rising tensions and heightened risk.",
+      "event_key": "us warning leave amid hormuz strikes"
     }
   }
 ]
