@@ -1,87 +1,53 @@
 [
   {
-    "title": "US asked Israel to strike Iran alone, then withdrew request: Report - Türkiye Today",
-    "summary": "US asked Israel to strike Iran alone, then withdrew request: Report Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0UwMmdhYzVGZkE2M2RNOS1oX29iTzc4STNOMXhTYncxckh6aVd4TnljY2FyaF82ZnJHVFl3RDNBcXZMMHVUMmZ1TzBPYVZUZ0VjYVpjaV9pT0Y1Y0VRcG9oU0lhbFBEOGZtOHBZOF9VZWRfYWdXZnIwcC1KOEZHNVpvMDFKdW9jUkZ4d2cwLUZxX1hXTHpiSjRXcHJzaVd6eWtkUGdlUmFRV24x?oc=5",
-    "source": "Türkiye Today",
-    "published_at": "2026-10-10T15:55:39+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 15:55:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5842c75fd86c89d2362c5008949b0296638b5eb1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.4,
-      "reason": "US withdrew a request for Israel to strike Iran, signaling restraint and avoidance of direct escalation.",
-      "event_key": "us asked israel strike then withdrew"
-    }
-  },
-  {
-    "title": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes - Ynetnews",
-    "summary": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnMG5SWkxaWWZISzVBUzI4Q0w4N1RDUy00eGxQY3hUTzd4czJ5NGFuS0doN2tnNDR1VEc1TkJBa1NaR1pEQ3Bmck9uX0R1Rno2WDdDYkhn?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-10-10T13:31:10+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 13:31:10 GMT",
+    "title": "Live - Trump weighs US strikes on Houthis after Riyadh airport hit - Iran International",
+    "summary": "Live - Trump weighs US strikes on Houthis after Riyadh airport hit Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-10-10T18:52:36+00:00",
+    "raw_pub_date": "Sat, 10 Oct 2026 18:52:36 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "71430fb4a015b2a526fbdd3ab5a151d50515f317",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran rebuilding missile and drone factories signals military buildup and rising tensions despite strikes.",
-      "event_key": "iran rebuilding missile drone capacity"
-    }
-  },
-  {
-    "title": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war - The Washington Post",
-    "summary": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-10-10T16:00:00+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 16:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9b75ba782494989a22e979c548ef9f46a6b0856c",
+    "article_id": "46243c4cabd938e4cd3229c037723253e1f55439",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.75,
-      "reason": "Houthi attacks on Saudi Arabia, part of Iran-backed proxy actions escalating regional conflict.",
-      "event_key": "houthi attacks saudi proxy escalation"
+      "strength": 0.7,
+      "reason": "US weighing strikes on Iran-backed Houthis after Riyadh airport hit, escalating proxy tensions.",
+      "event_key": "us considers strikes on houthis after riyadh airport attack"
     }
   },
   {
-    "title": "Iran Retains Missile Production Capacity despite US-Israeli Strikes – Bloomberg - Palestine Chronicle",
-    "summary": "Iran Retains Missile Production Capacity despite US-Israeli Strikes – Bloomberg Palestine Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2JQUUhObWQtLUEzWWdBZFA2SmF5dGFCU2EtMkFIQU9QSG5CaG1QTG9nc2VRZlAyWGM3UU04M2tfb1ItSms1RGNqSUhUQzA5SE1xMVNTblNndzN3M0R2YUNFZWROZzhkTFJTdE5zTjB4UVJ3VmxqYmwtSHk1ZlM4RGU2ajFlaDRwS2Z0NjRwT0FILWhPTEJlUVlCS2pqVG5WRVpSZlZHdktiY1RjclVJOEsxdw?oc=5",
-    "source": "Palestine Chronicle",
-    "published_at": "2026-10-10T13:08:41+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 13:08:41 GMT",
+    "title": "Iran Can Still Build Missiles After US Strikes, Officials Say - Yahoo",
+    "summary": "Iran Can Still Build Missiles After US Strikes, Officials Say Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcFltLTQtd0U1QnVlRnBNWDF1UUpDUEN3S19SSlNvU2hGekNER0E0SG1FRWN4bEdldXZrMkp2ZHFwQ0JpalZyTHZZakt3OVBCd0h2dkxlOGVKQ25vREZGeGh0SEVpMUZwWmFDQUhqZ2hnWHlpSTEzZV9lODlEY25DT2k2X1hfWUVNUXJ1M1NR?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-10-10T18:54:51+00:00",
+    "raw_pub_date": "Sat, 10 Oct 2026 18:54:51 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "579440e4a192beac876f40a00d9873755f53672f",
+    "article_id": "dd3c0baa04ef5f55227642107dc7f30a21f0df40",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports US-Israeli strikes targeting Iranian missile production facilities; direct military action described.",
-      "event_key": "us israel strikes on iran missile production"
+      "strength": 0.82,
+      "reason": "Reports say recent US strikes occurred but did not prevent Iran's missile production capability.",
+      "event_key": "us strikes fail to stop iran missiles"
     }
   },
   {
-    "title": "Did Iran retain most of its missile stockpile after the US airstrikes? - Vietnam.vn",
-    "summary": "Did Iran retain most of its missile stockpile after the US airstrikes? Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTMxekJYeHhqekNwZ3N4eUt5dnJLSGdVcWNpanVFbmNNT2NBcjFldC1uMF9MNHM0dnF4cHBLZkp2eU9MWnIxWXoxVUtGcnpfRkFsclJlY3Z4NmhscHVRUkJ6SFRqaFhGMlR4aTg3UHBrRWZOZ2tFVHdVUHlVWkExT25pZ0Y0eWFLdkIyQUxvcGpQcFgzdEl5UzZ3?oc=5",
-    "source": "Vietnam.vn",
-    "published_at": "2026-10-10T11:54:10+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 11:54:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c91b8f883ee62ef768ad7ca3d42b34dff0356dd5",
+    "title": "US Wanted Israel To Strike Iran Alone, Then Backed Off Over Election Fears: Report - NDTV Profit",
+    "summary": "US Wanted Israel To Strike Iran Alone, Then Backed Off Over Election Fears: Report NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanp6X3NkaHRNNEJuWkg2RHVQSklkZy1LRk5zTXhDU0RMSHA0cy1DZjVwaFI3ZEVodlVUMUtxSnpDNGVFVmhKR04tWTNJRFJ2bzd2NG1LUlk2aUpQTmdSMmYyWm1Fb1kyQVNyNWtiYTl1bXRPTFZWTTd6SDYyejhPdTJsbUx0eEh2ZGkzOFNobU42OXBOdWYwclRETUJuNjJVb0xSeDhPaHdheTQzWEpRbFl3ajgwckU2MVloNi1ta9IBxwFBVV95cUxQWG1DdVp4am96a0U4ajFtQmRMNWlaSzN5ZnVHUGY0dkFYMi1pSjVDZUNaQXcydDJidU1MOHFjZUg5b3NNWVEtSjZyNDctRjhCUTEyVnlvV2lMcmJVNk8zbFlrM1Y0S3NLSzlsVC1hb3NVVXFBczh0VXJPR3NIdHJBSVNjcFp5RGJ5bHNhbzdEOS02ODJvRUNBRTB1RXQ3R1FDTllGVlcyQ015OU52TGl4Uzc3c3pzdjhnbTBZeFlVb2tHY3d5eFk4?oc=5",
+    "source": "NDTV Profit",
+    "published_at": "2026-10-10T17:10:18+00:00",
+    "raw_pub_date": "Sat, 10 Oct 2026 17:10:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9c3e24dd19a270c8ea8227c01105cbf2cacedf41",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Article examines US airstrikes and whether Iran retained most of its missile stockpile after direct military strikes.",
-      "event_key": "us airstrikes impact on iran missiles"
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Report says US pushed Israel to strike Iran, indicating escalatory intent before later backing off.",
+      "event_key": "us urged israel to strike iran"
     }
   }
 ]
