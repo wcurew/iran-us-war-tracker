@@ -1,53 +1,36 @@
 [
   {
-    "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
-    "summary": "US military says it disabled cargo vessel trying to run Iran blockade Reuters",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-11T01:35:00+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 01:35:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "276103c6fe6c0cf43810c02adfbbf69150c340e4",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US military disabled a cargo vessel attempting to breach an Iran blockade—direct military action.",
-      "event_key": "us disabled cargo vessel blockade run"
-    }
-  },
-  {
-    "title": "American among 12 dead after Iran-backed Houthis strike Saudi airport - New York Post",
-    "summary": "American among 12 dead after Iran-backed Houthis strike Saudi airport New York Post",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPalpibTQtRV90NWlPelFiMFY2R0ZKNk11dXhCNVZzVk9aLXhWbXUwN0t5bEtZMnNSRk5OcldHeHNfRlFxVWVDd1lvb0czU2FzNnpNTnB0ZkdaX0EyOG9IVFgxcDNxY1JwSm95UXhaQzhNdEp0dkpxU1Z3WnVQbzhKM2xsNndSS0xtQkFmeDJqYTVaT1lOeC1RNGE0STMxZU1ob1JabDV2M0hLLWpQTWtYSGVkZm9tcnM?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-10-11T00:00:03+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 00:00:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "16d9931cb6921784ef14b928105d9f934ed6e367",
+    "title": "US weighs strikes on Houthis and Iran after deadly Saudi airport attack - Iran International",
+    "summary": "US weighs strikes on Houthis and Iran after deadly Saudi airport attack Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTzBYU0lxSGR2OEJ1S0ZsSDRQcVZHRlFOV0dQeWsxZ3VrZFNyRU5lTGxISEhvU09GREx2WUJjeVVzYVFWVGktSFdQZC1BeHdyY0E?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-10-11T04:19:54+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 04:19:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6565eca6b3efd5e098ed82d56159d62ad4a84775",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.9,
-      "reason": "Death from an Iran-backed Houthi strike on a Saudi airport indicates proxy attack widening Iran-US regional tensions.",
-      "event_key": "houthi strike saudi airport"
+      "strength": 0.8,
+      "reason": "US considering strikes on Iran-backed Houthis and Iran after Saudi airport attack, escalating proxy conflict.",
+      "event_key": "us considers strikes on houthis and iran"
     }
   },
   {
-    "title": "US fighter jet strikes cargo ship in Gulf of Oman as Iran blockade tightens - The Times of India",
-    "summary": "US fighter jet strikes cargo ship in Gulf of Oman as Iran blockade tightens The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaHIzUXdsZzJsU2FGUmJUMjNWWFdNS0dIdUpkLUdMUVk2TDdDeWpHR1U1NTZOSDduNVMxaFpmTnpURkw5RFg4RzhoRTk4OFVVbDF1dk9aZTdRSTVYN3NXX0tRRHU0cHJxZW5oaUtZT0ROdDN2WmNKa1ZrSXRzZ0diZkdNYk5rRGxlMms1OHhrcFRyb1BDWTd1S0o4NTFtRGtPcU9fbC1JY3RyVGpzTXZVNWlXZkNNcUUxQnZDMUQtb21ROFZubWR4dm1UMzJBbDRBSDExWWVLbm5lTDVoZDNwVDkycnpWT0g4T2ln0gHwAUFVX3lxTE5mSzRIVi1tbjFfNnVKazlKV0RUa2RyTFhRMjNlR1QwUlk2bnhwR1ZQTmxDMEhrSVExbTZhc1VEaUlXMWlzM25SdEJYS3BzbmN5S1pHQjVKb1Y3Wng5Nmp4enJrY1ZFQ3BCOEdfVkFNWXNNOXhLQ3hycU9LNkZuNVQ0Vld4VDVnbzZWRFJISkFvNmNjQU5hNzN4LW5tdGtRNFZvV09BMmVkb29DNThiV2h1Tzk0MWNRODhvb2l0dk91QjJCZ0U5TWRGd2FTWjN4VWRRUVRfU1hYOVlWQm5IbHdCUjU5WWU2YTFRRmJLbEd2QQ?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-10-11T02:32:00+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 02:32:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "17216d55ed66531c9c67993a599a213df5e42519",
+    "title": "Mystery in Turkmenistan: How Russia's diesel maneuver averted US strikes on Iran - Bankingnews",
+    "summary": "Mystery in Turkmenistan: How Russia's diesel maneuver averted US strikes on Iran Bankingnews",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXJVYjluTWJfT0psT01BbWk4Y0xKdVc5MkQ1blRCdkZVY0IzYnViWGlFcEFMMW91ckI2cGdFR3ZRb2t2aldsdlN4eXRpY2Q1X0NScm1GeU1jbVU5bFJOQlNId2oxbHhmWE90bmZrNHF6Q19KaDZvNlp1RHN3WXBNUjF1bEV2ZWhJZDFmaVIzZkZvQ3d6a1NEa2JObkowN1hFMHVkNnhOQXVyREpiVGxkVGdpV2FybHlxMEQtWTh5S3lOaVh0R0xoNC1n?oc=5",
+    "source": "Bankingnews",
+    "published_at": "2026-10-11T11:52:16+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 11:52:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d3040205bc483be6ab03ba8bb813febd0b8fb839",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US fighter jet struck a cargo ship amid tightening Iran-related blockade, indicating direct military action.",
-      "event_key": "us jet strike cargo ship gulf of oman"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Russia's action reportedly prevented US strikes on Iran, indicating a calming intervention rather than formal negotiations or ceasefire.",
+      "event_key": "russia diesel maneuver averted us strikes"
     }
   }
 ]
