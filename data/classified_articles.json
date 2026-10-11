@@ -1,53 +1,53 @@
 [
   {
-    "title": "Live - Trump weighs US strikes on Houthis after Riyadh airport hit - Iran International",
-    "summary": "Live - Trump weighs US strikes on Houthis after Riyadh airport hit Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-10-10T18:52:36+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 18:52:36 GMT",
+    "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
+    "summary": "US military says it disabled cargo vessel trying to run Iran blockade Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-11T01:35:00+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 01:35:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "46243c4cabd938e4cd3229c037723253e1f55439",
+    "article_id": "276103c6fe6c0cf43810c02adfbbf69150c340e4",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "US military disabled a cargo vessel attempting to breach an Iran blockade—direct military action.",
+      "event_key": "us disabled cargo vessel blockade run"
+    }
+  },
+  {
+    "title": "American among 12 dead after Iran-backed Houthis strike Saudi airport - New York Post",
+    "summary": "American among 12 dead after Iran-backed Houthis strike Saudi airport New York Post",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPalpibTQtRV90NWlPelFiMFY2R0ZKNk11dXhCNVZzVk9aLXhWbXUwN0t5bEtZMnNSRk5OcldHeHNfRlFxVWVDd1lvb0czU2FzNnpNTnB0ZkdaX0EyOG9IVFgxcDNxY1JwSm95UXhaQzhNdEp0dkpxU1Z3WnVQbzhKM2xsNndSS0xtQkFmeDJqYTVaT1lOeC1RNGE0STMxZU1ob1JabDV2M0hLLWpQTWtYSGVkZm9tcnM?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-10-11T00:00:03+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 00:00:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "16d9931cb6921784ef14b928105d9f934ed6e367",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.7,
-      "reason": "US weighing strikes on Iran-backed Houthis after Riyadh airport hit, escalating proxy tensions.",
-      "event_key": "us considers strikes on houthis after riyadh airport attack"
+      "strength": 0.9,
+      "reason": "Death from an Iran-backed Houthi strike on a Saudi airport indicates proxy attack widening Iran-US regional tensions.",
+      "event_key": "houthi strike saudi airport"
     }
   },
   {
-    "title": "Iran Can Still Build Missiles After US Strikes, Officials Say - Yahoo",
-    "summary": "Iran Can Still Build Missiles After US Strikes, Officials Say Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcFltLTQtd0U1QnVlRnBNWDF1UUpDUEN3S19SSlNvU2hGekNER0E0SG1FRWN4bEdldXZrMkp2ZHFwQ0JpalZyTHZZakt3OVBCd0h2dkxlOGVKQ25vREZGeGh0SEVpMUZwWmFDQUhqZ2hnWHlpSTEzZV9lODlEY25DT2k2X1hfWUVNUXJ1M1NR?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-10-10T18:54:51+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 18:54:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dd3c0baa04ef5f55227642107dc7f30a21f0df40",
+    "title": "US fighter jet strikes cargo ship in Gulf of Oman as Iran blockade tightens - The Times of India",
+    "summary": "US fighter jet strikes cargo ship in Gulf of Oman as Iran blockade tightens The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaHIzUXdsZzJsU2FGUmJUMjNWWFdNS0dIdUpkLUdMUVk2TDdDeWpHR1U1NTZOSDduNVMxaFpmTnpURkw5RFg4RzhoRTk4OFVVbDF1dk9aZTdRSTVYN3NXX0tRRHU0cHJxZW5oaUtZT0ROdDN2WmNKa1ZrSXRzZ0diZkdNYk5rRGxlMms1OHhrcFRyb1BDWTd1S0o4NTFtRGtPcU9fbC1JY3RyVGpzTXZVNWlXZkNNcUUxQnZDMUQtb21ROFZubWR4dm1UMzJBbDRBSDExWWVLbm5lTDVoZDNwVDkycnpWT0g4T2ln0gHwAUFVX3lxTE5mSzRIVi1tbjFfNnVKazlKV0RUa2RyTFhRMjNlR1QwUlk2bnhwR1ZQTmxDMEhrSVExbTZhc1VEaUlXMWlzM25SdEJYS3BzbmN5S1pHQjVKb1Y3Wng5Nmp4enJrY1ZFQ3BCOEdfVkFNWXNNOXhLQ3hycU9LNkZuNVQ0Vld4VDVnbzZWRFJISkFvNmNjQU5hNzN4LW5tdGtRNFZvV09BMmVkb29DNThiV2h1Tzk0MWNRODhvb2l0dk91QjJCZ0U5TWRGd2FTWjN4VWRRUVRfU1hYOVlWQm5IbHdCUjU5WWU2YTFRRmJLbEd2QQ?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-10-11T02:32:00+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 02:32:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "17216d55ed66531c9c67993a599a213df5e42519",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.82,
-      "reason": "Reports say recent US strikes occurred but did not prevent Iran's missile production capability.",
-      "event_key": "us strikes fail to stop iran missiles"
-    }
-  },
-  {
-    "title": "US Wanted Israel To Strike Iran Alone, Then Backed Off Over Election Fears: Report - NDTV Profit",
-    "summary": "US Wanted Israel To Strike Iran Alone, Then Backed Off Over Election Fears: Report NDTV Profit",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanp6X3NkaHRNNEJuWkg2RHVQSklkZy1LRk5zTXhDU0RMSHA0cy1DZjVwaFI3ZEVodlVUMUtxSnpDNGVFVmhKR04tWTNJRFJ2bzd2NG1LUlk2aUpQTmdSMmYyWm1Fb1kyQVNyNWtiYTl1bXRPTFZWTTd6SDYyejhPdTJsbUx0eEh2ZGkzOFNobU42OXBOdWYwclRETUJuNjJVb0xSeDhPaHdheTQzWEpRbFl3ajgwckU2MVloNi1ta9IBxwFBVV95cUxQWG1DdVp4am96a0U4ajFtQmRMNWlaSzN5ZnVHUGY0dkFYMi1pSjVDZUNaQXcydDJidU1MOHFjZUg5b3NNWVEtSjZyNDctRjhCUTEyVnlvV2lMcmJVNk8zbFlrM1Y0S3NLSzlsVC1hb3NVVXFBczh0VXJPR3NIdHJBSVNjcFp5RGJ5bHNhbzdEOS02ODJvRUNBRTB1RXQ3R1FDTllGVlcyQ015OU52TGl4Uzc3c3pzdjhnbTBZeFlVb2tHY3d5eFk4?oc=5",
-    "source": "NDTV Profit",
-    "published_at": "2026-10-10T17:10:18+00:00",
-    "raw_pub_date": "Sat, 10 Oct 2026 17:10:18 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9c3e24dd19a270c8ea8227c01105cbf2cacedf41",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Report says US pushed Israel to strike Iran, indicating escalatory intent before later backing off.",
-      "event_key": "us urged israel to strike iran"
+      "strength": 0.9,
+      "reason": "US fighter jet struck a cargo ship amid tightening Iran-related blockade, indicating direct military action.",
+      "event_key": "us jet strike cargo ship gulf of oman"
     }
   }
 ]
