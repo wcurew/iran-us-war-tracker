@@ -1,70 +1,53 @@
 [
   {
-    "title": "US War on Iran, Day 227: 12 Killed In Attack on Airport in Saudi Capital Riyadh - EA WorldView",
-    "summary": "US War on Iran, Day 227: 12 Killed In Attack on Airport in Saudi Capital Riyadh EA WorldView",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamhtRG1qYXlZbmcteGFRb0g5eDVlc1NnWTNJaTZFVjUxMDV4LWdQbThxODljMTFkUm9KMEhTV2RPalZMY21JV3hCbDNEWG9nblhhWnhCZmN5UktBeUsxTHdpY2xVcmJZQnpQRHlTc0xJdFBuRUxkOXQ4aHRZSlYyTUVmVXVWZw?oc=5",
-    "source": "EA WorldView",
-    "published_at": "2026-10-11T16:59:21+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 16:59:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "300a02e1239dc571254178dfe20b048741648fa6",
+    "title": "Iran says US response falls short of conditions for deal - Middle East Eye",
+    "summary": "Iran says US response falls short of conditions for deal Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd21lcjdKMWFROWRncUdpVlhNNFYwNWxMOXZidTJfdUlqRFQ5UnJLNUYwNEVvcUZpZm14dUpFMjAxRi1UVWl2czhhRm9obnllaW40QXphazdhcGVkb2Z1ZE9TRnJlcGliYV9xQlE5Y18zNEdhWnFOeHJHWlRTV3ZGUG1tNUkwRlJ4UnB5VjNGQ2ZuMU5PVkFUcFFWUFMycFBaYTJrUkpuRk5WUQ?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-10-11T22:18:00+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 22:18:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c3718b3ec9316a62a8a8e18615d0721c5e75fa64",
     "source_weight": 1.0,
     "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Attack on Riyadh airport likely by Iran-backed proxies, escalating regional Iran-US tensions.",
-      "event_key": "riyadh airport attack proxy"
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Iran says US reply insufficient amid ongoing deal negotiations",
+      "event_key": "iran us deal response insufficient"
     }
   },
   {
-    "title": "Iran rejects U.S. stance on Hormuz as Trump weighs strikes over Riyadh attacks - Investing.com",
-    "summary": "Iran rejects U.S. stance on Hormuz as Trump weighs strikes over Riyadh attacks Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDRBVktUUXNVOEtIeERMWkRUdExxbjFUTGQzOS16dkMxMnQ2Y0RJUk45YXJrRG53ekhPSmxYZmZYdWlOSzVUbE9vM1lQaVlvaDhxNUwyZTh6NmI5Qm9JQkpaMl9BS2ZqSlZsc0Z6MllxVE9aa2pEc19aUl9yNS1fZ3l6UE9sY0tXQ0NmOHlkNDZVUHI5dE52bjRxS3JNSENlVDgxX3VjbEpXZHJDdUhqVndyd1FhdUQ5dVE?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-10-11T18:33:45+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 18:33:45 GMT",
+    "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
+    "summary": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes PBS",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
+    "source": "PBS",
+    "published_at": "2026-10-11T21:43:11+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 21:43:11 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9ca8759cf4a3fa8e2a45e943677d33bb804bf36d",
+    "article_id": "ec9cd5708fa124251f1301d49e2b2c765d3a591d",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "negotiation",
       "strength": 0.75,
-      "reason": "Iran rejects U.S. stance while the U.S. weighs military strikes over Riyadh attacks, indicating rising tensions and threats.",
-      "event_key": "iran rejects us hormuz us considers strikes riyadh"
+      "reason": "Iran responded to a U.S. proposal to end the war, indicating active diplomatic proposal exchanges.",
+      "event_key": "iran rejects us proposal to end war"
     }
   },
   {
-    "title": "Iran Flew US Military Grumman F-14 Tomcat Fighters to War and Fired a Mach 4 Missile 'Made in the USA' To Destroy 78 Aircraft - 19FortyFive",
-    "summary": "Iran Flew US Military Grumman F-14 Tomcat Fighters to War and Fired a Mach 4 Missile 'Made in the USA' To Destroy 78 Aircraft 19FortyFive",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPejlhRGZ6dVFiWXlFWlpCenNrTU1QWjk2amhHR0sxV2tuMkpxcFdoMEFnZmFlVzl5QXVOTEpONUNVT3I2VzBOMnJiRXg2WXRFaFpCU184cnRVT1dXX2xUMWhnaWhndnpvNmNqdXNyMUhjTDE3M0Y2UXJoRnk1bl9FWjRQc3ppd1gzam9rTkpURXFFNVFOVDcxMmpVOENGVVFDUDNqTWZqLUVhUFNBdFNnZE40dUlaY0JEMzd1cXpCNzhMVnQwbDFqMFFYYnVnOW1fb0JvNkZBUTB1X2RXX3h4a3VMOE1aNTFfVF8ySmRxbVJZQQ?oc=5",
-    "source": "19FortyFive",
-    "published_at": "2026-10-11T14:27:08+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 14:27:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9fa4d1d51fbbb310ffb46b8675a11cd38fc2adc2",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "Describes Iran deploying F-14s and firing a Mach-4 missile to destroy aircraft—direct Iranian military action.",
-      "event_key": "iran f14 missile attack"
-    }
-  },
-  {
-    "title": "Abbas Araghchi Warns US and Israeli Attacks on Iran’s Energy Facilities Threaten Public Health: 11 outlets compared - NewsCord",
-    "summary": "Abbas Araghchi Warns US and Israeli Attacks on Iran’s Energy Facilities Threaten Public Health: 11 outlets compared NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2UwZzB0UmsyZjBEcnRRZzVjZHp5RUdfblRhVzZrTU9pS2E1bUZHUS0xU1FsVVN1aGxTZVl3YlJnSE1sYmVKTjVPaGVCZVdSbXFRSGZxbzVZM1RQTENnTG5tVTB6UjJ1bG5VUjFHZGFUbjloZFF2QTNOVXpXb202a0FzQzVxTzk0cG9mNVFsdU9DNVVXQTRvUWhCOEV4UDJjLXJQdy1YRHBabHNvTy1wQV9TZnRseGExRU1iVHZNbWhzTmF5RG5CY1BYYzgyY0RxVVZwTmNDMXE?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-10-11T12:14:46+00:00",
-    "raw_pub_date": "Sun, 11 Oct 2026 12:14:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1b30fa1108e201dd982f96788b073675f19b8ca2",
+    "title": "Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops - Fox News",
+    "summary": "Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEpUYXVFNWlYeno0Z19ubU9GWmlULV9tVzY2RS05VjEwUlJ2YjFxdE9fTHZvUGdYMkhuRERlZkhvVlRPYlMtRjVBRHlyNzJwbU1xOWNkaGFnZWFDU0xCRVFBNHJXSC1CeXNhVkluTkFUTzNVcGw3NmNJMWM0cUlvM2xjN09QSGlxMzc2X1ozeHczNmplZlY3aWlKaVVXZWlfUHdKMlVIdWFQQdIBrwFBVV95cUxQcXVSZ052dVlSRjEzYkVFX2FRVlpnS1J0c2w5d3FkeDV4Yng3aHdDM3Z6eVlHbXh5QjZIZVZoLTBzbFd4bnExR3JTNGJYUXBJSmk5dGR6aDJEZFRWMDhrX25uRVNpWDU3aVBDbDQ0NzZtMmpjNUtLSmh1NEE4NUt1eFZkVV9CMlRPZWl0SUdhVEJIcHl6Y3pON2lOckJxdk56aFkzTzAxTkptc1lSXzBz?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-10-11T20:34:39+00:00",
+    "raw_pub_date": "Sun, 11 Oct 2026 20:34:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f10bc66da3ff72a0de688baf8ccabf2f254a10bf",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iranian official warning of US/Israeli attacks raises tensions and signals a confrontational stance.",
-      "event_key": "iran warning us israel attacks energy facilities"
+      "reason": "US Army targeting Iran's 350,000 troops and defiant rhetoric signal rising tensions and mobilization.",
+      "event_key": "us army focus on iran troops escalation"
     }
   }
 ]
