@@ -1,121 +1,121 @@
 [
   {
-    "title": "[MARKET ANALYSIS] Crude extends losses amid focus on US-Iran diplomacy; gold edges higher as yields ease - Newsquawk",
-    "summary": "[MARKET ANALYSIS] Crude extends losses amid focus on US-Iran diplomacy; gold edges higher as yields ease Newsquawk",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMThPMGF6MGxpQjZDYTRSaTJuZUhHblg1aEt6VkVITkJjdHdXeUEwRmdSMG10ZHltb2IwM2JlbFBpZnM4SkdfQlBraDRXWGZzeE8wcG5qUTljdzJwM0dTaEpJN19NUmE1VEVPeFVzbEx4aUdlUHRtT1Rabmc4Nk5FUUt6RlVleXdRckdJMjBUSkZqOFJEOFQ2Q2t0RFF1c09YLTcwN1VqY05sSjBjX2IyTjU4U3p0NUtWWUJvcUpodEc5R0R5WnRiclpsUHVKOU9heG1n?oc=5",
-    "source": "Newsquawk",
-    "published_at": "2026-10-13T08:35:00+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 08:35:00 GMT",
+    "title": "Iran warns US against renewed military action, stresses readiness for diplomacy and defense - Tehran Times",
+    "summary": "Iran warns US against renewed military action, stresses readiness for diplomacy and defense Tehran Times",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVB2RElwajRneloybVVPYlNyemFuSms5X0RYVEtobUtGa0JrcTRTVzdLUFZVT085cGRHdm4tbE1XZk5QRjRNZ3pMV2ZYMHA3NmlsQ05ITEk2WVVQTjAzbmFodUM4dklQVFNrcXNfXzZXZF9NTTIxRE42M3hGZ2thQXozRi1GUmhidnRzaHpXQndEU3JHVDZPOHJyYnZfa2ZYN0Z3c0tTQQ?oc=5",
+    "source": "Tehran Times",
+    "published_at": "2026-10-13T16:49:34+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 16:49:34 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "015fa8ff37e8a80f23214ec253262ab82e19998e",
+    "article_id": "630fa196ca0cfc6bd4fa6845343684eb6b5d8e17",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.15,
-      "reason": "Market-focused piece mentioning US-Iran diplomacy, not detailing conflict developments or diplomatic actions.",
-      "event_key": "market mention us iran diplomacy"
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "Iran issues a warning to the US about renewed military action while signaling defense readiness.",
+      "event_key": "iran warns us against military action"
     }
   },
   {
-    "title": "Iran officials hinted at land incursions if US resumes strikes - WSJ - Iran International",
-    "summary": "Iran officials hinted at land incursions if US resumes strikes - WSJ Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQmNpWW1fRjRsWk9VbE1PRzBWRjRHbUtReXRTYlZWYXZrWUg0SlBnclhaaWZnQ2YzM21veXZidGdtM0Rfc0x6aU1FTHEzYXhVbVE?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-10-13T07:03:55+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 07:03:55 GMT",
+    "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms - CNBC",
+    "summary": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms CNBC",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzRCT1BEckNubkQ4V2N1RUZZQUhZU3NWUEtWRzlDbjdsbzFIYmQxZlFmT2RtTHA2d0lkelhGTklyV2RWTFROQnpVWU1IV3ZleGQ2cEJOakp5T3VUTkFTOVhtVUpxVXNDa1lEU3ZZcWlqZUswT0NsMWNzU0dRR1U2bGpyd9IBiAFBVV95cUxPek9nRnpJSEdtRDhZZnpheFFVTUdibjY3ZWxSSkNqRndpbFVabjhuSENyaVR0bi1nTGU2NFI0b1JINFlmSnZab2ZpMjFmeXVzR3F4WVZPVndUbGpFNHhxcGx0VkZtSC1uZVBPSGRRd0dodDZ2QV81b0QyV2ZKSF9tcDVMS3JBN2RO?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-10-13T11:53:45+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 11:53:45 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cf3dd39a4e5a21a7208cf9b6cd5ab8947efc762e",
+    "article_id": "ced061a0c0a179430cfcb12ea62b63ae5c1a8d87",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran officials warned of land incursions if the US resumes strikes.",
-      "event_key": "iran warning land incursions if us resumes strikes"
+      "reason": "Iran strengthening defenses at nuclear sites anticipating possible U.S. strikes, signaling heightened tensions and escalation.",
+      "event_key": "iran fortifies nuclear sites preparing for us strikes"
     }
   },
   {
-    "title": "Trump says US struggling to negotiate with Iran as too many regime leaders killed in strikes - The Jerusalem Post",
-    "summary": "Trump says US struggling to negotiate with Iran as too many regime leaders killed in strikes The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12TlJlbXRoeERFWmdIaDRDSTN0R0dSZmV6NGlIWUpSU1NuWmg0Y0NCeExvaC1WdzFDMnR1QVZzbUUyZ0NrZU8ybmRUTnIzNkdTSjJ5dFVkREpLaWxBSXRuRnRJaE9RN1YxeHc?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-10-13T06:32:37+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 06:32:37 GMT",
+    "title": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post",
+    "summary": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-10-13T18:16:43+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 18:16:43 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "732d41fff6face10fc227ba6fe5e4d2b3d6c461e",
+    "article_id": "16ed970abefedae339016408c16db92f021c7a72",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Comments say negotiations are failing due to regime leaders killed in strikes, indicating rising tensions and breakdown of diplomacy.",
-      "event_key": "negotiations hampered by strikes"
-    }
-  },
-  {
-    "title": "Iran fortifying nuclear sites; warns of land incursions into Gulf states if the US launches new strikes - report - i24NEWS",
-    "summary": "Iran fortifying nuclear sites; warns of land incursions into Gulf states if the US launches new strikes - report i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZmZmTklnX2ZCQ3h6aTllTlhraXRRWG5nODdfMV9nNHJDVmFNZEd5d0FudGlzLUlNMTZFN2JCbUV4bkszUk51eWk3TUtZWmJFYTlSNFNSUXotTUwtcVZQNkhTYXZLZjRVTkJnQzJldGlyVjYzSFZGTHBVckF4eEplM2lIcEJINEFmc2pJUTBOcHp5WnNVVkdxbWNDVUxGbGhhSUNwel9yMlkwSDJyenBZcDZNZE9BanM0UFVGeTR3U3NjMGxrT2l4YW1PLU1KczNEQmdJMEE3RHRZRlRPOE5OMXNaZGFKT3Bfb2VRZW5PVXFiY1A5Tk1VVjdnSWFwMm5tcnJjU3QtTFU?oc=5",
-    "source": "i24NEWS",
-    "published_at": "2026-10-13T07:53:00+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 07:53:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "239bb79dfbd1443733f7038b442468cd5d69c781",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran threatens land incursions and fortifies nuclear sites in response to potential US strikes—escalatory warnings and mobilization.",
-      "event_key": "iran warns land incursions fortifies sites after potential us strikes"
-    }
-  },
-  {
-    "title": "Report: Iran threatens ground incursions into neighboring countries if US attacks - Ynetnews",
-    "summary": "Report: Iran threatens ground incursions into neighboring countries if US attacks Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pRkpPUGd2SndWUjVLYXVVRHN6WTduVkhtYmgyY3RMbkFJVGpPMG9XdWRjVlZqaHBMSHhaZko0Q2hCN1hTOERwY011c0s2VzBHVExaNlBR?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-10-13T08:26:57+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 08:26:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d27190cda8cf05ac9713b2a169b0d4abde6486d9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
+      "label": "proxy_escalation",
       "strength": 0.85,
-      "reason": "Iran issues explicit threats of ground incursions if the US attacks, signaling rising tensions and potential mobilization.",
-      "event_key": "iran threat ground incursions"
+      "reason": "Houthi attacks on Riyadh are Iran-backed proxy strikes escalating regional tensions.",
+      "event_key": "houthi strikes riyadh proxy escalation"
     }
   },
   {
-    "title": "US report reveals: Tehran is rebuilding its missile capabilities and threatening neighboring countries to deter Trump - صوت الإمارات",
-    "summary": "US report reveals: Tehran is rebuilding its missile capabilities and threatening neighboring countries to deter Trump صوت الإمارات",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMnVMZ1NpcGJTWHMyNGRDUmI0R0JKYTNyVUJfNmFqZWl4X0M4ZDNwZlhLQUVsTFVDMnBZOE5YeDA2T1FmNDJjZGNpYVJkMzVZY3BGZ0RzaDU4YlB0SmFMMWkza0ItNVFNbE1pVGxqMzM4ckpSY2ZMVGJXb0R2U3g4Q1Q3ak9kaU9pZ0FNeGtFMElYdWdDTThpajdSRGF6bVBwSTVwQXV1emdkbUYycE05OXl2d0FlTkN2aXhpc2I0dXl4c25tcm83cGtnSWFQYUNNc3NhcFd3ZEtZTTVna0lvQnFiRjhqcDJldmhfd3B4MHRBMFg5NWFrMjUzNnc3ZGExOXc?oc=5",
-    "source": "صوت الإمارات",
-    "published_at": "2026-10-13T06:44:27+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 06:44:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8c141aa70bee925dcb0c762266b0ae7ac845415f",
+    "title": "Iranian attacks target 6 ships near Strait of Hormuz in 1 day, highest since war with US began - Anadolu Ajansı",
+    "summary": "Iranian attacks target 6 ships near Strait of Hormuz in 1 day, highest since war with US began Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGxibXEtZ2FFRTM2RGpqU0FpNTRfb3RLakt5UENVc0pzUGNTWFl3dVA1ZDlFYkUwQWpnN3dCMkJuT0NIMU1JWkNrWkh1UUczZkE2M0Q4R3pEc3lwN2Y5QzdEQXdJc3RzUVBSOFhDbUdkZW5RZnJtREQ1ZUlmLUlNMFhRMWl2T1Z4NXg1SkJFZnY5NmdPVFE1TlN0RWFDRVNoSkhGOXJfT2JseGxtY1c4MW9lbzdmcjcycnh5VDVUNG9GallPMjQzLU1JZkxWNmluZVg1Rw?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-10-13T13:16:15+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 13:16:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "de5ab59b309c5562f9d5e72810b54c76f0fcfc4e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Multiple Iranian attacks on ships near the Strait of Hormuz are direct hostile strikes.",
+      "event_key": "iran attacks ships hormuz"
+    }
+  },
+  {
+    "title": "Hormuz attacks spike after US airstrike on Iran-linked tanker - Al-Monitor",
+    "summary": "Hormuz attacks spike after US airstrike on Iran-linked tanker Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWpCTkxOYVBYY2dmVmkxZ2NiamliZnUwRTd2bE9NVnduOFh2UjAzOHpWZXJpUy1pdHVWVC1wLVZPNk12RmZ0TWI5eDRwazB5YVNrTkdmUk9NQlZnX0I1ZkNyVUVaYXhLaklsMmxrUnh3R0gxNXFNLVFKYTZZMjJJQXFBOWtlampXbG5MSW1kZXM2UWVidTlORXQ2OGpxY3oybmJlNWZn?oc=5",
+    "source": "Al-Monitor",
+    "published_at": "2026-10-13T17:11:15+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 17:11:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b544b49c0b3cb643e6b27ed01cadd22d64212788",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.85,
+      "reason": "US airstrike on an Iran-linked tanker preceded a spike in attacks by Iran-backed proxies in the Hormuz area.",
+      "event_key": "hormuz attacks after us airstrike"
+    }
+  },
+  {
+    "title": "Trump says U.S. will decide next steps on Iran as regional tensions escalate - KTSA",
+    "summary": "Trump says U.S. will decide next steps on Iran as regional tensions escalate KTSA",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEhLczRETXBhemRSdU5IY25tVThZZ1pabDgwZ3JuMXBjYUM5b0hMeU1rN216TFg5MmZCekNvdklBMVRORThwNkxVWWVNdUk4N0tPYUxIbnlub1NOWVA5RDZCaDBTX1Bzb29aMktHUnd2elEzTXRaaTBpenM0OEpLanBSMDl4ME9uWGRESktEREtXYzllM0dYLUowZGd1dw?oc=5",
+    "source": "KTSA",
+    "published_at": "2026-10-13T17:51:00+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 17:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ff2cba854a7b55e7755d2cf3655f39011966d0a6",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "US report says Iran is rebuilding missiles and threatening neighbors, indicating rising military tensions.",
-      "event_key": "iran missile rebuild threats"
+      "reason": "U.S. statement about deciding 'next steps' amid rising regional tensions signals escalation and looming policy/military action.",
+      "event_key": "trump us next steps iran escalation"
     }
   },
   {
-    "title": "Iran's Big Warning Over U.S. Airbase Attack In Britain; Shock Reveal: 'The Attack Was Led By...' - The Times of India",
-    "summary": "Iran's Big Warning Over U.S. Airbase Attack In Britain; Shock Reveal: 'The Attack Was Led By...' The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTAzMkpxZGR5a3hGODRtUDZfaEpaN0xJT1VfbERTSm1FVFBmUUhPQUoycW1BLWtzSF8wbDNZNzNfRUNIQ01fcFNNSzQ1NVBBbmVtcGZPQ3V2eFhGMDhoUWFPMHg3MmxZbWRVbHZack92WW51LWxQMVZSbzNUS2x2SW9YVlBoZmxEUnBuaU5HUWhSOUN1cEwwdnNaYkpITWxLN1lYTkg0bGdUVTh3YUg5bmtzQjlheUNJX0dxVHVHMFVjY0FPdVVYdExDNC1jcXloZWg3TGlqeVJsYS1HbXg1MlZLVlp3RlFNSFlPbGNyMnI1R253anRLQmFnUENFd9IBgwJBVV95cUxOdk1ITlNYRlJmZEowcmhEeEpKNXlqUlR1UkpPVjM5OXJUMXlBdzNlanFqZkxNc1h2QzhtdVJFUGFONmRsRzJGRE51M2NyeUUxcnFXblMzaFRfcmxFVzh3dWI1cGNKWU9Eb2xZNTFBa1VHdnc1b3ZpV0F3WmRKc29HN1dyeWVRMHEwU09mMkJwcUJ4a0pOenZhRklHWkF4bmZkbC04Z05Rd2xjY0EydmI4YzRRRHE3WGtFMG4waVJ0YTdfQTdPQlQyQmY2SFBhYlh6Z1Q5X3FaQndURU1kb1lBX2xPTDMteWNEZG5aMUctdWVsZEJ3NDUwampHT3U0UVBuNUJF?oc=5",
+    "title": "Nuclear sites fortified, loyalists rallied: Iran braces for possible US attacks after midterms - The Times of India",
+    "summary": "Nuclear sites fortified, loyalists rallied: Iran braces for possible US attacks after midterms The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOTNHTklKbjJDdk50eU05ZFJGNzdPMWRnTzRCTERBdjFPU2RCX1FOTGJyNjBPUFpoVms2MlF1SjFSTXlrRkk0OW5JR0JyTTY0Z0dFUTB1N3dxQzhPSkJIaFBBOEp1RTluRGtlWl9PYm1LNkN1T2Nocm5qQ2UtN3dvOWQwTWhkV2JGY0JNTkE0WmFTSy1UM0prZFdDSGdoR3BHU2tNVUxkZkQ2dUVTVHFfdXFXZ3BoLU1PNGNWdTdRV2U2bVRJMVlVR2tuQmpnN1RfR3dHeVNDV3Q5NEhncU84VENwanU2cnZydWMtWFpvSW1Ub0ZWLTVxTy05N0R1OVRUeVHSAYcCQVVfeXFMT2c1Tm5zM2pQME9fSFVBQ2hjdXRxTkNneDNnRzgzWWZtaHRxYmRXUGdxakNEVVNRTXotMXlkUkpkSnBsV0MyeVRZWkVGeXZOQlJZLXEyQk03TWlQSS1TYWNNZDhqZE4teGlsM3VJUmE0c3F3ZkplRGNWMGJVTGdzUVR0aXc1ZkMzSXRkZVNIRFJHTlBaWUFTQmk1X05UaHd1UHNoZFlJbUY4V01pTUg3NFh4T1NHNFctT1NVZURPeVRlR0xHd1otX08zWEt2UHNNOVdzZnpjMkVFUDZkQ2hQaUVTRG9iX2MxcnVrX3hkaTBVekYtQjZHTDg5dTVRN0x1NW5hYXJYUmM?oc=5",
     "source": "The Times of India",
-    "published_at": "2026-10-13T08:33:26+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 08:33:26 GMT",
+    "published_at": "2026-10-13T10:05:00+00:00",
+    "raw_pub_date": "Tue, 13 Oct 2026 10:05:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a187768e25448c2ac28ce9dab54de6d1f13dce1d",
+    "article_id": "28516ca76f5cf8748a727c5e4151a0dd89da172a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iran issues a warning over an attack on a U.S. airbase in Britain, signaling threatening rhetoric and rising tensions.",
-      "event_key": "iran warning over us airbase attack uk"
+      "strength": 0.78,
+      "reason": "Iran fortifying sites and rallying loyalists in anticipation of US attacks indicates mobilization and rising tensions.",
+      "event_key": "iran fortifies nuclear sites braces for us attacks"
     }
   }
 ]
