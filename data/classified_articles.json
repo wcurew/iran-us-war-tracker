@@ -1,70 +1,87 @@
 [
   {
-    "title": "Iran threatens to invade neighbors if US launches new wave of attacks: report - New York Post",
-    "summary": "Iran threatens to invade neighbors if US launches new wave of attacks: report New York Post",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1hKVW5EU091VF9oWi1CVlRzWS1xS05aMkxKNG5FNnhXWmJHRGNLY0U0N1pYbXZic1d6YnpqUkJmcmd0d2M5RlF4SDd2eW13Mk5lY2l4bnUyZkxjUXRxWHZwTVJpR1Z5cHpSU2JEd09HZzlJS2VpTVA4bFNGcGk1a1VLNk54R3JPelhZdlRIT0lVeXJWVnhuUmhXU01mYUhUWThWUDFtWFByZmd1V2dqeg?oc=5",
-    "source": "New York Post",
-    "published_at": "2026-10-13T21:28:00+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 21:28:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4dff6447c2dbe78824ad03e1596af7eb21b47e3d",
+    "title": "How Iraqi Kurdistan became a key mediator between Iran, Syria, and US - The Jerusalem Post",
+    "summary": "How Iraqi Kurdistan became a key mediator between Iran, Syria, and US The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94QWtreFR5WWZVdHdfNHp5VGI0R1NwVjBaeWNBYVdMZ29wa3I1SzhQcVRUXy1GeXlCcDM4TlFDc0tUT1RMYzB0cGtKN0xWbWdHWEw3UHdoQTVOcXNU?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-10-14T07:46:58+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 07:46:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f84b952ff91d380de29732ce15965c57947d37c7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Iraqi Kurdistan serving as mediator indicates active diplomatic talks and backchannel contact.",
+      "event_key": "kurdistan mediation iran syria us"
+    }
+  },
+  {
+    "title": "US ‘may have gone too far’ in killing Iran leaders, says Trump; cites difficulty over ‘who to deal with’ in peace talks | Hindustan Times - Hindustan Times",
+    "summary": "US ‘may have gone too far’ in killing Iran leaders, says Trump; cites difficulty over ‘who to deal with’ in peace talks | Hindustan Times Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVGlmMHMxTW42cnFhRVRYT21JVlVqY05qYndIUWRtY0xEN3lGdkZnaTdud0RvMUNEX1BzMVBFVEgzRldINXdVRUo0YkhCcThMYWdzdEg0aDdDdFN0T0d4NS1DRmtETFI5c3JabE1XVmlwem1aODlMT2N4UzNsVTJZRjNlT1VxZ0UzZWZ1ajAwXzFQaFd2NzhweVJJSG5femlDVlJnekxTR0N5SjdxaXN4UFRkU1IwMEUwZ3NFS3M3WEFMdWZWSlczTFJPR1FOTWl3N3lZZHk1X05lWktVaGppTjRQRnliMDR3U29YMy1IVGEzZXRyRDVWTlpVYVpXek9xRENadml3b1BHZF9DZE1qcUJn0gGXAkFVX3lxTE85aUZzWWpoUkpaaTZPT2JQcEgtcnBoOHJYWTN6R0UwVmYyQmVta0NpN3dzeTRsVVhzZ05hejFESzZGSDA0ZFRjN1p0QXpteVcwQzJYU3ZrR0t0TzVlSEMtVkFmbi1MUHBIYzUyWkJMQjRiV3pyRHp5WjlucHNxRTVXLVUyaHZKYzVPMnFFLUctQTdhRmVaTHJBLXhmb1ZIWjF0b2kwQ0duZVJxemtQN0lnRmtwaVdQVmJCZDdGMHpfUk00bThkeUFURjZDZS1JWmdCRmQ5S2cxSTAzR3RmcUpnZGFoY1BJdGJoS2hsMEQ2a3pjelJkRGtBZDNmd2l0TXhEd0o0bGtDZ2x1MGVBZDNTQWhsbmJlYw?oc=5",
+    "source": "Hindustan Times",
+    "published_at": "2026-10-14T05:04:29+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 05:04:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ff3a628e3a867dad840f2aad0868ec5803c691af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Trump's remark expresses regret over killings and signals restraint/willingness to pursue peace talks, a calming political signal.",
+      "event_key": "trump regret targeted killings deescalation signal"
+    }
+  },
+  {
+    "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - The Express Tribune",
+    "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say The Express Tribune",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTBNSzM5ejhwei1KSnB4aWY5bkxPbmVTVTZRVkJKMktmYkJZLWpyQVJpVmJoYW5tRVdKM3JMbjVTdGVqMEJoZzRBaFFPMnJKSFBwN0drRG50M0RVN2FHeU9BaEhsNTNpQndYQ1h1THZnQURvVm1PX2JwbWZ6d2xuZFgxc0RFUFZRVGtPV1J4Z1BBdXNyT2FnQ3VFWnZDUXJkMG00T1V5MWtoWXBhbkd0Y2IxSERoREJKR1E?oc=5",
+    "source": "The Express Tribune",
+    "published_at": "2026-10-14T07:57:37+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 07:57:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "db3037460e44ec5f8677d73de6c94e43d405068b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.8,
+      "reason": "Reports say Iran is shifting tactics to increase attacks on shipping, implying proxy-driven escalation against maritime targets.",
+      "event_key": "iran shift tactics shipping attacks"
+    }
+  },
+  {
+    "title": "Israel’s hypersonic interceptor goes public as the U.S. and Iran race to develop advanced missiles - CTech",
+    "summary": "Israel’s hypersonic interceptor goes public as the U.S. and Iran race to develop advanced missiles CTech",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STN1LUJVUzBoUUh1R1ZlTHIwTW1rQ1pya2F2M2Zmd1pHYW81RF81UTY0QUZJSDRBOWJIbm9HcFJZbndST3VWc1Y5b3pUdGxON1l6amg0ZFNEaXB0OWcwNkdrMkVOajA?oc=5",
+    "source": "CTech",
+    "published_at": "2026-10-14T07:28:00+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 07:28:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "60cf26c6e358bb3c9491526ffa1a26fec753b835",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.9,
-      "reason": "Direct threat of invasion by Iran in response to potential US attacks signals clear escalation and hostile rhetoric.",
-      "event_key": "iran threatens invasion if us attacks"
+      "strength": 0.5,
+      "reason": "Describes an arms race and missile development among Iran, the U.S. and Israel, indicating rising tensions.",
+      "event_key": "missile arms race development"
     }
   },
   {
-    "title": "Iran War Escalation Threatens Global Market, Ups Demand for US LNG - Natural Gas Intelligence",
-    "summary": "Iran War Escalation Threatens Global Market, Ups Demand for US LNG Natural Gas Intelligence",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWltOVphdnZtZm9pR3hSQXlPb1RYNXNjRm1tVmVhVmtNRmVLSkQ0Zk1wTUtNcm5pVmlyTkV2bThsT2VaUHZXcW5DRlJ3a0g2TzRwTmxYcmVFd0R6a05jTURTcHNJcmxvaUtrMGZyakhoUnJEeGY3YUo0UjNXRjlKWUptSVFMQThqWklBc250b3JlZmplM0tuRmg4djdXRzVk?oc=5",
-    "source": "Natural Gas Intelligence",
-    "published_at": "2026-10-13T19:25:39+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 19:25:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "deb636049b304cde2f7c1715ba71272e9fdb021c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.55,
-      "reason": "Article focuses on energy market impacts from Iran tensions, not direct Iran–US diplomatic or military developments.",
-      "event_key": "energy market impact from iran tension"
-    }
-  },
-  {
-    "title": "A Warning to the US Military: Iran Is Fortifying Its Nuclear Sites and Borders and Signaling It Will Hit Back Across the Region - 19FortyFive",
-    "summary": "A Warning to the US Military: Iran Is Fortifying Its Nuclear Sites and Borders and Signaling It Will Hit Back Across the Region 19FortyFive",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTJzY2lscmM4cjlvOW9EeS1MWmtZaHYxV2RTNkh3RWVRN3NTZEw4WHdpczNGNHo2Y3VFcWl1U2JSYkJHTU9DZ2Fpckc3bXFtM3pocVZfLTlyWkNrbHFteFJLQVlURFJfeHBlbUdLclE1ZGZ3X3ZJTkdWV2hCbWFLbWJwaXQzaUlhNnRZa1k0bDhQMzNmNmpVcnpEdExPWno4NkZGWjl3VGVLTnJLdjItRE12MzV3U2ZvV1dpblh2Wkh0S0Y3d250MjNLczJ2RDhUck8tbThjc0d6MmYwNkE2VWVGWVY5NUhYdnhENXkza2ZMYTZfaHc?oc=5",
-    "source": "19FortyFive",
-    "published_at": "2026-10-13T23:15:34+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 23:15:34 GMT",
+    "title": "This is how Iran prepares to counter US attack: ‘Boots on the ground' - The Week",
+    "summary": "This is how Iran prepares to counter US attack: ‘Boots on the ground' The Week",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOel9rNTdwUjQ0eGlnN243ZXY3MGd5c2VlUUJLNkZkeXhGbkJrbzJjX0haYm81ZVB6SkJWUHBDX09xMDFrdk1UQ2dRYWhySXgyRGUtWWszWl9yTzFLVFRnV3poTUg2SUNIY3htX3JlV2hSVFVRRUNpSFc5aFprTDVROExpUUgyQ3M1Ty1iQ2doUGVHc0JKQzNPLTdYMnpXek90UHdqSk1aZ3prNkQ4RzNqMV96X2psbVNQZ1FJam1B0gHDAUFVX3lxTE5wS2xfdndOZ19TQWwtMUgyYTIwMHlJWjVVYTltaEtzRFJpb1Y3WG9QZzB1N3BKN2hrVHhLTXhtWnY4SkVsSmZFUVFRQlF5a0tGT2hoNTV3TlpOVjRoMDNIZy1zV0JMZVBKRGxkeGNSTE9WYTBBREVNNlRMUUlLczhEQkE2dUxsd2pkeVFlWVJrMWZ4SnUycjhuQlRkcDZmTi10alAyM2FBZmdyX1RmUk9OeFJuSjJWbmJLN2xyVEoyMlNpYw?oc=5",
+    "source": "The Week",
+    "published_at": "2026-10-14T05:56:10+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 05:56:10 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6fbb19830091fff032990c78358c384480d199d6",
+    "article_id": "f16a2ed484cd327ebc2ce475a29b31bb25612fd3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran fortifying sites and borders while signaling regional retaliation and threats against the US.",
-      "event_key": "iran fortifying sites signaling retaliation"
-    }
-  },
-  {
-    "title": "UK warns Iran is targeting ‘military sites’ as US and allies recognize growing threat of IRGC ‘hybrid activities’ - Washington Examiner",
-    "summary": "UK warns Iran is targeting ‘military sites’ as US and allies recognize growing threat of IRGC ‘hybrid activities’ Washington Examiner",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc1JrcUJHNnZyT0dBaWpmdXdDZm5rT0RYUVY1SU83T3RtOTVYNTJlMV9MX1ZKVXAxeDN4ZmZ4NUpEbWhZSFFSb0Ntak5XanJ5T0tYeTE0SndkTUlHSXVfdGZZaE1ySDN1NS1mc2FVSXdqV3hkdVBmWVpCUGZxbHV0bW9iUlllVzU2YWdfbEJxREJzY1REUVNhSG4zblMteS10UG1kdWV6VUxaRTE5SWR3My1pNVhZMGJDR1dPYjRGZnRPdnEwSk1ZY0pSVkZNWk83eGxr?oc=5",
-    "source": "Washington Examiner",
-    "published_at": "2026-10-13T21:30:00+00:00",
-    "raw_pub_date": "Tue, 13 Oct 2026 21:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9c730949c15168570d1f7a9c31b96dfc846c3fea",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "UK warning and allied recognition of growing IRGC 'hybrid' threats signal rising tensions and hostile posture.",
-      "event_key": "uk warns iran targeting military sites irgc hybrid activities"
+      "reason": "Iran preparing 'boots on the ground' signals military preparedness and rising tensions, a clear escalation posture.",
+      "event_key": "iran prepares boots on ground"
     }
   }
 ]
