@@ -1,87 +1,138 @@
 [
   {
-    "title": "How Iraqi Kurdistan became a key mediator between Iran, Syria, and US - The Jerusalem Post",
-    "summary": "How Iraqi Kurdistan became a key mediator between Iran, Syria, and US The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94QWtreFR5WWZVdHdfNHp5VGI0R1NwVjBaeWNBYVdMZ29wa3I1SzhQcVRUXy1GeXlCcDM4TlFDc0tUT1RMYzB0cGtKN0xWbWdHWEw3UHdoQTVOcXNU?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-10-14T07:46:58+00:00",
-    "raw_pub_date": "Wed, 14 Oct 2026 07:46:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f84b952ff91d380de29732ce15965c57947d37c7",
+    "title": "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends - investingLive",
+    "summary": "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends investingLive",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVSamYzQlYtWExiRlJyaHZfTEVHVXJwWEprbmd5RDN6MDA2UUIwVmJfYkt6LTRmeGxjMGJXNy1OZ3MxNURNYnJYTUxWc1A5WHMyX2F6cWgtbTQydExvZkxFQnVUMmtMMGx3bTMtMVBlbW9BVXBNdk9wYkZOeTdscE42aHRVcmItRVdHQWgzSExTMzdCUmc2M2p5Y0x6d2RiRmVBZmRrMDFuVnZyTXF3bVh3UjZfdGV5ZlQ2NFRwRFlLVmFzZHY0?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-10-14T08:47:01+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 08:47:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "267e884009c119285142da887f1d3262dcdb703c",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Market-focused oil story; only brief mention of a US‑Iran stalemate, no diplomatic or military developments described.",
+      "event_key": "oil market us iran stalemate"
+    }
+  },
+  {
+    "title": "Trump Warns U.S. Will ‘Do a Number’ on Iran as Reports Emerge of Talks With Netanyahu Over New Joint Strikes - The New York Sun",
+    "summary": "Trump Warns U.S. Will ‘Do a Number’ on Iran as Reports Emerge of Talks With Netanyahu Over New Joint Strikes The New York Sun",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZkxfbC1kbm1TdXJhOG5FTHN6dmlsbTN3TjQyaDBtTDk1MWJTWEthSnlGajN5Vzk0S29ZOTJJWk1sVThZZmNhdXpBNFZUVmRwbjM0OFhVMGpfMTU3MmtlSXNPOWxpZFF4QmswNWpmVVpkbWFaMEtCMmtZWVFfY1lpaHhlY2FSRWdwZjFuS3pSVU9SX0xWRGZ3bnlHdzk1cFl6b0hRSTdacmptY281bHlqMGZPMG14MnlNblVyM0Z6N043ZFZkd3diVjg1NV8xWEc4?oc=5",
+    "source": "The New York Sun",
+    "published_at": "2026-10-14T09:19:39+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 09:19:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ca6c55328913edb82c37d5fa4fbe0ee99b6504d7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.8,
-      "reason": "Iraqi Kurdistan serving as mediator indicates active diplomatic talks and backchannel contact.",
-      "event_key": "kurdistan mediation iran syria us"
+      "reason": "Threatening rhetoric and reports of talks about joint strikes with Israel indicate rising tensions and potential military action.",
+      "event_key": "trump threats joint strikes with israel"
     }
   },
   {
-    "title": "US ‘may have gone too far’ in killing Iran leaders, says Trump; cites difficulty over ‘who to deal with’ in peace talks | Hindustan Times - Hindustan Times",
-    "summary": "US ‘may have gone too far’ in killing Iran leaders, says Trump; cites difficulty over ‘who to deal with’ in peace talks | Hindustan Times Hindustan Times",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVGlmMHMxTW42cnFhRVRYT21JVlVqY05qYndIUWRtY0xEN3lGdkZnaTdud0RvMUNEX1BzMVBFVEgzRldINXdVRUo0YkhCcThMYWdzdEg0aDdDdFN0T0d4NS1DRmtETFI5c3JabE1XVmlwem1aODlMT2N4UzNsVTJZRjNlT1VxZ0UzZWZ1ajAwXzFQaFd2NzhweVJJSG5femlDVlJnekxTR0N5SjdxaXN4UFRkU1IwMEUwZ3NFS3M3WEFMdWZWSlczTFJPR1FOTWl3N3lZZHk1X05lWktVaGppTjRQRnliMDR3U29YMy1IVGEzZXRyRDVWTlpVYVpXek9xRENadml3b1BHZF9DZE1qcUJn0gGXAkFVX3lxTE85aUZzWWpoUkpaaTZPT2JQcEgtcnBoOHJYWTN6R0UwVmYyQmVta0NpN3dzeTRsVVhzZ05hejFESzZGSDA0ZFRjN1p0QXpteVcwQzJYU3ZrR0t0TzVlSEMtVkFmbi1MUHBIYzUyWkJMQjRiV3pyRHp5WjlucHNxRTVXLVUyaHZKYzVPMnFFLUctQTdhRmVaTHJBLXhmb1ZIWjF0b2kwQ0duZVJxemtQN0lnRmtwaVdQVmJCZDdGMHpfUk00bThkeUFURjZDZS1JWmdCRmQ5S2cxSTAzR3RmcUpnZGFoY1BJdGJoS2hsMEQ2a3pjelJkRGtBZDNmd2l0TXhEd0o0bGtDZ2x1MGVBZDNTQWhsbmJlYw?oc=5",
-    "source": "Hindustan Times",
-    "published_at": "2026-10-14T05:04:29+00:00",
-    "raw_pub_date": "Wed, 14 Oct 2026 05:04:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ff3a628e3a867dad840f2aad0868ec5803c691af",
+    "title": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked - CNBC",
+    "summary": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked CNBC",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNUFJM2owdTNnTkFfdE5lZnZtTG1yYVpHUTVwdnVlMnFZblRnNjhLczM4QncwNlhpS01LM3BXWEdNSGphX3dsaUo4VE1lSjJZS1c2ZFVyUGYxWldZUURNMnRYZkkyb0Z4R19uZ3AzYlB3VFVYaFHSAXtBVV95cUxQQnVidjVNVXRTS0hOVUpyMThmOTRCaHhRRDNKUU55TFg4QWhicXlTZGd3SDRXQzJoX2ZMT2F3XzJ4LU5kQlgzak9IbG5QXzRCMnM3dk9RdUJqSXd5OGRDUlNGN3ZQQlAzS3R6US10UDNWRFdNcnBsSDktcHM?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-10-14T12:13:46+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 12:13:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "083814e0176007ed79f4e89fe5891781cbd0ff84",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Trump's remark expresses regret over killings and signals restraint/willingness to pursue peace talks, a calming political signal.",
-      "event_key": "trump regret targeted killings deescalation signal"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran threatens attacks on U.S. warships; Saudi Aramco facilities attacked — signals rising tensions and hostile rhetoric.",
+      "event_key": "iran threatens attack on us warships saudi aramco attacked"
     }
   },
   {
-    "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - The Express Tribune",
-    "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say The Express Tribune",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTBNSzM5ejhwei1KSnB4aWY5bkxPbmVTVTZRVkJKMktmYkJZLWpyQVJpVmJoYW5tRVdKM3JMbjVTdGVqMEJoZzRBaFFPMnJKSFBwN0drRG50M0RVN2FHeU9BaEhsNTNpQndYQ1h1THZnQURvVm1PX2JwbWZ6d2xuZFgxc0RFUFZRVGtPV1J4Z1BBdXNyT2FnQ3VFWnZDUXJkMG00T1V5MWtoWXBhbkd0Y2IxSERoREJKR1E?oc=5",
-    "source": "The Express Tribune",
-    "published_at": "2026-10-14T07:57:37+00:00",
-    "raw_pub_date": "Wed, 14 Oct 2026 07:57:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "db3037460e44ec5f8677d73de6c94e43d405068b",
+    "title": "Iran Expands Shipping Attacks as Houthi Missiles Hit Saudi Arabia and US Weighs Renewed Strikes - The Media Line",
+    "summary": "Iran Expands Shipping Attacks as Houthi Missiles Hit Saudi Arabia and US Weighs Renewed Strikes The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZUdHWUdnVHN5dGNLeGhZLU9TWnFzUjFyeTMzLXIwRUhVdXpXN21vVE9CcGhibHBvLU5nbVdUUklBdm0xVldIeUhqbnFoam84eTR5N2FZMzhXdXA5RzVRcWUwbEZOcmtNaWVVbF9xckpOWVBDRmd5ejF0SkR6ODUxYVYxT1VXdnUzVHU4RS1SbmVEd1RuUEliNl9OQTZiMFRiamxqUkxneWM1MW82ODhXSEVwZkg4VUEwOE9xZzRORG9GSjBFeWJ1Mm9uQTFrS1ZmN18zLUViSQ?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-10-14T09:14:26+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 09:14:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f0a6e962cb409e6553de0d98c4fab0f31566233b",
     "source_weight": 1.0,
     "classification": {
       "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "Reports say Iran is shifting tactics to increase attacks on shipping, implying proxy-driven escalation against maritime targets.",
-      "event_key": "iran shift tactics shipping attacks"
+      "strength": 0.82,
+      "reason": "Houthi missile and shipping attacks by Iran-backed forces imply proxy-driven escalation; US weighing strikes.",
+      "event_key": "houthi shipping attacks us considers retaliation"
     }
   },
   {
-    "title": "Israel’s hypersonic interceptor goes public as the U.S. and Iran race to develop advanced missiles - CTech",
-    "summary": "Israel’s hypersonic interceptor goes public as the U.S. and Iran race to develop advanced missiles CTech",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STN1LUJVUzBoUUh1R1ZlTHIwTW1rQ1pya2F2M2Zmd1pHYW81RF81UTY0QUZJSDRBOWJIbm9HcFJZbndST3VWc1Y5b3pUdGxON1l6amg0ZFNEaXB0OWcwNkdrMkVOajA?oc=5",
-    "source": "CTech",
-    "published_at": "2026-10-14T07:28:00+00:00",
-    "raw_pub_date": "Wed, 14 Oct 2026 07:28:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "60cf26c6e358bb3c9491526ffa1a26fec753b835",
+    "title": "US market regulator appointee halted probe into oil trading ahead of Iran strike reversal: Report - Anadolu Ajansı",
+    "summary": "US market regulator appointee halted probe into oil trading ahead of Iran strike reversal: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXZLVWtiUUt6SWRNY3JjbktEQnZXS082N2ZqNXlmTlZSWnI5S3FrU3ZmbmN1RmtMWnJPVkpTOW5hVlhiVUxSUVM3S0x1YllvQXMwWEpwbXZBOXRQY1B3dGVnYnVpSWV4N20zdWdid0xrdjg0Rm95UHU3c0VFTFQ5YnpzTkVOUGYtMG1tUmdqdG9MRUN2akFlcWVIUmV2LWRrT2w1TmJPaWpYV0gzd1ppZzlud2Zpc2hyQ29kOWxNOE9OSTk2d0g5cnd4YlBrMkE?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-10-14T08:46:34+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 08:46:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a3bf08ced4e6865cedea01be0cd1fb93a75749e",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "Describes an arms race and missile development among Iran, the U.S. and Israel, indicating rising tensions.",
-      "event_key": "missile arms race development"
+      "label": "irrelevant",
+      "strength": 0.3,
+      "reason": "Focuses on a US regulator halting an oil trading probe, not direct Iran‑US military or diplomatic developments.",
+      "event_key": "us regulator halted oil probe"
     }
   },
   {
-    "title": "This is how Iran prepares to counter US attack: ‘Boots on the ground' - The Week",
-    "summary": "This is how Iran prepares to counter US attack: ‘Boots on the ground' The Week",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOel9rNTdwUjQ0eGlnN243ZXY3MGd5c2VlUUJLNkZkeXhGbkJrbzJjX0haYm81ZVB6SkJWUHBDX09xMDFrdk1UQ2dRYWhySXgyRGUtWWszWl9yTzFLVFRnV3poTUg2SUNIY3htX3JlV2hSVFVRRUNpSFc5aFprTDVROExpUUgyQ3M1Ty1iQ2doUGVHc0JKQzNPLTdYMnpXek90UHdqSk1aZ3prNkQ4RzNqMV96X2psbVNQZ1FJam1B0gHDAUFVX3lxTE5wS2xfdndOZ19TQWwtMUgyYTIwMHlJWjVVYTltaEtzRFJpb1Y3WG9QZzB1N3BKN2hrVHhLTXhtWnY4SkVsSmZFUVFRQlF5a0tGT2hoNTV3TlpOVjRoMDNIZy1zV0JMZVBKRGxkeGNSTE9WYTBBREVNNlRMUUlLczhEQkE2dUxsd2pkeVFlWVJrMWZ4SnUycjhuQlRkcDZmTi10alAyM2FBZmdyX1RmUk9OeFJuSjJWbmJLN2xyVEoyMlNpYw?oc=5",
-    "source": "The Week",
-    "published_at": "2026-10-14T05:56:10+00:00",
-    "raw_pub_date": "Wed, 14 Oct 2026 05:56:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f16a2ed484cd327ebc2ce475a29b31bb25612fd3",
+    "title": "Iran executes man accused of armed attacks during US-Israeli strikes - Euronews.com",
+    "summary": "Iran executes man accused of armed attacks during US-Israeli strikes Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDlOX054aVhXX2lHS2hNcVp1Q0xzU2pPN3FkUGRZV0VTdzFHZlNvTHpIZ3UxcF9EalNOakRTZ1EtRHpwWEswa3N3MUV0eTVBdjVfc1E3aE4zZ1A5V0xRVkxtT3Y2MUhGdVptSmVSazdGdUlTQUdoUTZ6bDNFZVNoY3dUaGw3cHQ5TjRhTGg1ek9Xc25Ma2xXc0hDME8tSXhLbWloOEpudw?oc=5",
+    "source": "Euronews.com",
+    "published_at": "2026-10-14T09:40:38+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 09:40:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8259e544d061f89a1912529bafe962b8441ce845",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "A domestic execution, not a direct diplomatic or military development between Iran and the US.",
+      "event_key": "iran execution domestic"
+    }
+  },
+  {
+    "title": "Iran Warns of US Strikes Before Midterms, Says Trump Needs a Win With Voters as US Blockade Drives Tehran - Benzinga",
+    "summary": "Iran Warns of US Strikes Before Midterms, Says Trump Needs a Win With Voters as US Blockade Drives Tehran Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPY3VJRkZScFlUVkVtdnNrSG1yRjdVX29adGotTkx6ZkZ3eTAtWWt2aVd2aDRKekZjZU5kRV94UEpXcDRSdXZwWFBxTUwzR2xveVJONzlnUjZTNTlpbTVHQjJuNVdldDFya3BKM1lpclFqTXUwM1F6Qzg1dkNYeFBqdThXaXY3VW9kUXo1dGNBb192VnFjcXY4XzA5WDg3RzhHdUU0NDd0eXJDaVRRQ3RPeVFzWDJCUDZPcmg4M3pacFFuN0VjTGRuNDRLRVpad1dfVGQxclVkSXQ0NmRCSTNBMEtiblljUFl4blhnUTg2Q3pvc1RfcHhYRi1GOFV5ZDIzMGNCQ0ZUR0RsLVNPOGc?oc=5",
+    "source": "Benzinga",
+    "published_at": "2026-10-14T13:37:25+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 13:37:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f83096c44d5b8c62c59d4270e5b7da0ab0d1bf31",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran preparing 'boots on the ground' signals military preparedness and rising tensions, a clear escalation posture.",
-      "event_key": "iran prepares boots on ground"
+      "strength": 0.7,
+      "reason": "Iran warning of possible US strikes and framing political motives increases tensions and hostile rhetoric.",
+      "event_key": "iran warns of us strikes before midterms"
+    }
+  },
+  {
+    "title": "Iran reportedly fortifying nuclear sites amid escalation with US - Fox News",
+    "summary": "Iran reportedly fortifying nuclear sites amid escalation with US Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zVG9IMWFyaGYzMUI3YmJDekFaN0FuLVFORUk5aWpDRTNZRjdNd3gzNE1yT25qWkRtYXN5U2s1RWtaNmwyQWQwNndGemZVWVBIYnI2Z1h3?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-10-14T12:34:32+00:00",
+    "raw_pub_date": "Wed, 14 Oct 2026 12:34:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "718d56098211ecfeeb81e70d27b61c4f196b8c37",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.82,
+      "reason": "Iran fortifying nuclear sites signals preparation and rising tensions with the US, not direct strikes or negotiations.",
+      "event_key": "iran fortifying nuclear sites escalation"
     }
   }
 ]
