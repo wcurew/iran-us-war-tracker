@@ -1,155 +1,104 @@
 [
   {
-    "title": "US War on Iran, Day 231: 1,500+ Killed in Gaza Since \"Ceasefire\" - EA WorldView",
-    "summary": "US War on Iran, Day 231: 1,500+ Killed in Gaza Since \"Ceasefire\" EA WorldView",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUtNYzg3ZGVuLTBJeGRxWlRBREhjSTA2UmgyUmQtTHcwbTMyajExSHBEODVzN2R3dktuT2NRcHgxWWxGcTVfRzNXVDdyeENxcHN6dHZHNkpOSXRDNjFNTG5xcU5udDl6SHc3NzFLczl4WVNGY00tb0JmZzZXWGNucnlZYUVGVWs?oc=5",
-    "source": "EA WorldView",
-    "published_at": "2026-10-15T06:01:04+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 06:01:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "be02c5c01851a94be8a9041dfd586ce9a5f021c8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Focuses on Gaza casualties since a 'ceasefire', not direct Iran–US diplomatic or military developments.",
-      "event_key": "gaza casualties since ceasefire"
-    }
-  },
-  {
-    "title": "Trump claims Iranian negotiators ask US officials to spare their lives during talks - Roya News",
-    "summary": "Trump claims Iranian negotiators ask US officials to spare their lives during talks Roya News",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxeEdiMnpFTmJaVGY1N3Q1TU0yVjd2X29yOWhiNDlpVVp3VE8wSlU5dmgyaGxRLXRvUFhVS21qSUZEemowajA1UA?oc=5",
-    "source": "Roya News",
-    "published_at": "2026-10-15T07:01:40+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 07:01:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fea508af260f022f8eceae74ddf7bc678796f76c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Describes claims about Iranian negotiators during talks, indicating diplomatic contact/backchannel negotiations.",
-      "event_key": "trump claims iranian negotiators plea"
-    }
-  },
-  {
-    "title": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
-    "summary": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkE2TjhWV0FPQU53YTl2bDFSaHNWVDBnMkFlekJxWTZ0RTFMTDRxa2czR0F4alduTnIzN2JBRkxlS1ZIb2I2Wk56WXE5OFBDQ0Z3cVNkcmpXWkNjc01JZm9hLWtqSFZHUktvUUt4S2hVTENQOXJ5Wk5mam93SjgxcW15SkttV2s0bU1TeFotalEtQXJ3M0MwSGtGd3FtdWp4eUlJSm1ubGJmT1ktai1YRk9fMGJPWmpaVDBBMA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-15T04:23:00+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 04:23:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f029d27dd89ae600919a5701fa5c3bc6fe80baa8",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "US military considering use of a massive bomb signals escalatory intent and potential for direct military action against Iran.",
-      "event_key": "us weighs moab against iran"
-    }
-  },
-  {
-    "title": "'Mother of all bombs': US potential Iran strike plans include largest non-nuclear weapon - report - The Jerusalem Post",
-    "summary": "'Mother of all bombs': US potential Iran strike plans include largest non-nuclear weapon - report The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVeVQzcUFKRzBJWUVWT01RMWZfeUxoajdGd2tsVXhMZVRIV2RwbVotQ0tCT3B3NE1mY1ZibUp4Z3dScmhZa0NjYW01TUtGaTY0SlFNczlRdUMzZnN6MHd5VUZ6TXM1RFhTMkE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-10-15T05:15:38+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 05:15:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9dda2f629cfed06de2236e273f3ad1d2ee18f452",
+    "title": "US-Iran stalemate: What are Trump’s next military options? - Al Jazeera",
+    "summary": "US-Iran stalemate: What are Trump’s next military options? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemE4b3pxbDZ6dkJpVk1GSWpQMnNSUkZVdzByRTVORTgtbDlaMTRaS2M0QUhOYUVsQWMwV1JON21rVE9NVUZYcl91cWRWYTg0ZElQM3BlVm4wMzhKbVpBTEtHdW9mSmw4eGNNeTBGZzRhR0lNSll1aXpMbEs0V2lZaDJQX3pDa1czNFdPTTdnQ0VHZ3pLbW1nYlhxZy1pQdIBowFBVV95cUxNSkVVT3EwYkdPa1FxbHlnUmh1dmt2WExwbVNaTEtaWmFvUXZwWTVibDB0bzhZTnE3SXRzT2ZIVGlhSWtRalBWQkRHWDRmVkRjWkozTGJyV1JIdFpNZ0d3V19NSWNGTklyNUtzNGFrQWFGWUJhOG5Ib293NVpFSWRZVFd6Z2FWdENySE5Lb2NiaUR4N3NIOTVKVG1UbVpJZGllcWtn?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-10-15T11:45:06+00:00",
+    "raw_pub_date": "Thu, 15 Oct 2026 11:45:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fae5b4c41e482fc5ec8506273238539ca9603356",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Report describes US planning a large non‑nuclear strike option against Iran, raising tensions.",
-      "event_key": "us potential moab strike iran"
+      "strength": 0.7,
+      "reason": "Discusses potential U.S. military options against Iran, implying threat of increased hostilities and escalation.",
+      "event_key": "us iran military options discussion"
     }
   },
   {
-    "title": "US Weighs Using ‘Mother of All Bombs’ in New Iran Strike Plans: Report - The Media Line",
-    "summary": "US Weighs Using ‘Mother of All Bombs’ in New Iran Strike Plans: Report The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1J5ajVkY2tvVGxYb0ZMaG1kRnIyTEhfbzlqZWRSeFp2X1NvT3NiQVhrUTV3TS1DbFVUNTJIal9RZFBFSm9ZaEl0OXppX2VnT0piMDljSDY4cDRhN0FtNXZoZjlBcWxpeVVfUDNkTVZVS3FxTHNteW01Nld0UzZMMmUyNjcxd3JQYVBvWjJOTjJJbWdNXzBqVXJNNlJPcXlxWHZJYXVB?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-10-15T10:20:04+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 10:20:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e0332af2562785e06f50fb537880cb05bd7e3608",
+    "title": "European power turns to Africa’s most powerful military commander as US-Iran war leaves Middle East in a strategic deadlock - Business Insider Africa",
+    "summary": "European power turns to Africa’s most powerful military commander as US-Iran war leaves Middle East in a strategic deadlock Business Insider Africa",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQTFaUHBxOXgwcXBKVHhrTl9YLWVTRzRSUW9Wb2tKTFJwTDJzRllUU1hJNTU0eWtJRE5xSEV1Q2pnLTJpbnpRRnRFZUdDS1BFaTlYWXlZUk1yZXdoRGNEckJpN3ZxZ0RGcEJIN0JsRmJZT2JZS3Z5R0tsenlDOGUzWVA5TWVIWm1KQjFFeWFWcndVRzRpZXNyRlRsWUxHRUw5djlJMDJaZDllOTdoYWROOFA1S3p4Q2lVaEt5WFkzd2UwUzQweXVDeTRtbHRvTjRXWGNMODh4UQ?oc=5",
+    "source": "Business Insider Africa",
+    "published_at": "2026-10-15T14:09:26+00:00",
+    "raw_pub_date": "Thu, 15 Oct 2026 14:09:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ba8447ada202c1766128dc9e218896df07226901",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports that the US is considering use of the 'Mother of All Bombs' in plans targeting Iran, indicating planned direct strike.",
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "Frames ongoing US–Iran war and military responses, indicating heightened tensions and strategic escalation.",
+      "event_key": "europe pivot africa us iran war"
+    }
+  },
+  {
+    "title": "US weighs using 'mother of all bombs' in potential Iran strikes: report - WPDE",
+    "summary": "US weighs using 'mother of all bombs' in potential Iran strikes: report WPDE",
+    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNaXBMNDdQUkNlbmZ6NnB4V2o4TGhYUDhEMkViR29RbDIxWVVzWElQWmdjcVh6akJzNFpxSUFSdjZXSjhjNHlIaUhzblFSbVZacmNOOE40VW9tU2NyRmFkOTNVcXphMUJjX0QxQVhoLWtUYUlKWmZrUzYybVNCZ2VwVVFzMXhCQlh1aTBGWjNXVnY1R010bi10REFkck1idFJjYXdPUVd2TERob21RdGJLT0hudmxZMVlMVTliY0JJWjZMUzFmc1BOSUNMaW9NajgtVWdLb2J2VmV2Umh2MXNTMTBwd3JBbWhnV2N2VjgtRGhWeW1Tb2Q0TFVmSEY5Z3ZaUU9jaV9rWjBGTWtILUw5ckZjWENoWG1ySnpfWDJzYjRiYnRUWnFKb1VzT2xNcDB0MzNMOUNaS19ZQkdnUE55UmNXZFpNRkVOT2xZSDZkYW9MTEoxNFlfVVphWVRBT21yNGN3akhaWno3dWdxcTc1TUg5RW1PZjczbjhfcDNNUVM5QlBsaFdORzRCNzRObEdkaE5KOHNZamZMOF9I?oc=5",
+    "source": "WPDE",
+    "published_at": "2026-10-15T12:25:45+00:00",
+    "raw_pub_date": "Thu, 15 Oct 2026 12:25:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "25f25c3ddaee404e5fa27178beb3a128f48ff0c1",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US weighing use of a massive bomb against Iran signals military escalation and threat of direct strike.",
       "event_key": "us considers moab against iran"
     }
   },
   {
-    "title": "US military weighs use of ’mother of all bombs’ on Iran: CNN - The New Arab",
-    "summary": "US military weighs use of ’mother of all bombs’ on Iran: CNN The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2JOVGpRVFJDdnE2ZEt5NHhyTURJVHVZM2lkcEdoZFpjZzdIUU1nWlkydDFMRHpYXzM2Nm5mamh2dXI0Rk00WlFadEU4T3VraVU3cllIamdidllJaFpmMFl5aVZ2dE5uVVhGYm1pMm81Qm9ZZm1NTjZCbUN4UHFyeVFwSQ?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-10-15T07:29:11+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 07:29:11 GMT",
+    "title": "Mother of All Bombs Iran: Can the US Lawfully Hit Energy Sites? - Diplomacy and Law",
+    "summary": "Mother of All Bombs Iran: Can the US Lawfully Hit Energy Sites? Diplomacy and Law",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xME9pMk5xeDJRVHQtc29yeEFHcERFTWJoR3RHTEhWTHRjNVFNc3JiMG1LZzc2WGoxYUY5SnJpbloxV2daY0xFdnNyemVVcVE2bm5ES3hibEozdXVjT2llei1Qd1FUb3FXSFp1d3dR?oc=5",
+    "source": "Diplomacy and Law",
+    "published_at": "2026-10-15T11:18:09+00:00",
+    "raw_pub_date": "Thu, 15 Oct 2026 11:18:09 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "90f67c24bde68c00634c7e71dc567fe92fe82bae",
+    "article_id": "5b73e023fda5161c795adf566a3cc7f96c499492",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Analyzes legality of US striking Iranian energy infrastructure—a discussion of potential military action and escalation risks.",
+      "event_key": "legal analysis us strike energy sites iran"
+    }
+  },
+  {
+    "title": "US weighs using 'mother of all bombs' in potential Iran strikes: report - KATU",
+    "summary": "US weighs using 'mother of all bombs' in potential Iran strikes: report KATU",
+    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPTnRGZ185WFNMVU5Edko2dElKV3UybEFONkpBUHRjVlJXcmljcUdGNm9NeXRUOHFfZnJzV21VZG1pNEo3bDZqa29RaTFtWE1CeTl0YjJCU1RBTVhtRVEzak1MV2VtTmlvejFmeFA4bVdYelZveDRVQXZ0Zm9PNHVsbEtvSW5aTThxR283LThyZXBXdUZRM1lJNmJDRnBUMnZzOENuankyRUlPSUkzcE9OV3REWE5aX1l6bU5ZWjd0djZ3dTVpRko2NnhYMU9feFNvanZDYW9aUGo2c2lCM0FUUWpmeWlNeWFQR3RXTUstbTExYTFMUmp3WXFNMFcyaUpkWXlfeFFETmR5bE9KNDdDSUxaYXBtVmVmVV91cC1Mb2FocWpWZzJKWTdzSE5qSWEyTlFSR0xBdmNLeXRoU2ZZNU9UZC1XZUxqZFQtX2hMR1RLdXQ3NkpqamJoNmVQTlZ3cEVwd0hyYmNmNFNDWnZYUGIwOU8zN1U1c1Y3bFM4a2VLSkpqeUUzeUg5bExkaVprcWxQcmxwLWFHeUVRUFJmdjNTSQ?oc=5",
+    "source": "KATU",
+    "published_at": "2026-10-15T12:26:52+00:00",
+    "raw_pub_date": "Thu, 15 Oct 2026 12:26:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5073993baecdf9ca76f031d93f65dc17eedaac3b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US reportedly weighing use of a massive bomb against Iran signals a significant military escalation/threat.",
-      "event_key": "us considers moab use against iran"
+      "reason": "US considering use of a massive bomb signals heightened hostility and potential for major military action.",
+      "event_key": "us considers moab for potential iran strikes"
     }
   },
   {
-    "title": "Iran fears imminent US attack amid ‘war-like atmosphere’ in Tehran - i24NEWS",
-    "summary": "Iran fears imminent US attack amid ‘war-like atmosphere’ in Tehran i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFBtbmxPaFJMRlYzZmItVXRLZHZVX01zc0pkLWhoNmZxZHlGLTFhVW1ZRDAxMWJTRWVONHZSY1pNWEsydU9UUEtEWWJpMkhIbU9pQUk3bGZrdkVzZV9Nb2NFcURxQ0FfVC1yLXowckZtWnQ4Nm13YndFSDRFdEg1cGJJTkJMdjdjY09Sd1IxcTBDc0k5SUp0VGhpNUdDNGVJUmxjc3pGYkJFVDFDdnN0RW5LMDlsdmlSWlpBRmhhNkg1TlY4TXo0MmpNTQ?oc=5",
-    "source": "i24NEWS",
-    "published_at": "2026-10-15T03:46:00+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 03:46:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "adb3111ff293c0e7355f8815c241bf9c91e949f1",
+    "title": "‘Bombs Cannot Force Surrender’: Iran’s Pezeshkian Urges Unity Amid US Strike Threats - Open Magazine",
+    "summary": "‘Bombs Cannot Force Surrender’: Iran’s Pezeshkian Urges Unity Amid US Strike Threats Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeS1qMVdpZy1BT0RveXgzdHByVGFPYkFXY2tObEZ6UDFkWFRYUnJLVjRweXF2aUVXQktnUDJwNWN4SWsxZTF5Nl9IajVmU0twYVYweUEzaG40MHF3MFRjUnFVSGZUWVJaSmhPeDlsbk9NTlJDTjV0VlVNcHB2MDU0YXJxamRnMC1lc1hkellNTlpSM2J6LUxGWW5zcmVJWmUyWFZfWllKSktELWF5QTVwTWNKZjk?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-10-15T15:07:11+00:00",
+    "raw_pub_date": "Thu, 15 Oct 2026 15:07:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5f82ecde4b5cbb29bb0983d57ee8b4b66d3211b0",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Reports of imminent US attack and 'war-like' atmosphere indicate rising tensions and threat perception.",
-      "event_key": "iran fears imminent us attack"
-    }
-  },
-  {
-    "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters",
-    "summary": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-15T10:00:00+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 10:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bc314046f78b10fb86cb506a15c215ad078c080e",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran carried out direct precision strikes on Gulf infrastructure, affecting US war plans.",
-      "event_key": "iran precision strikes gulf infrastructure"
-    }
-  },
-  {
-    "title": "Drawing lessons from the conflicts in Iran and Ukraine, the US is rushing to upgrade its Patriot missile system. - Vietnam.vn",
-    "summary": "Drawing lessons from the conflicts in Iran and Ukraine, the US is rushing to upgrade its Patriot missile system. Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDltNXRpeUdSeGgzV1VzZEZleXRmMWV4aHZfZlRETHdTSTBiZGhFX1ZuejJXelNZY2pJdlRtN1M4VGRGVWNtM2d5NldzVE43ZUVLbmlqWEVBVEwwSVY0ZERSMlNuNjdmTC0taDdsckRSYmVfRHlLYUJoNFI0QnJ4dk1Fb3dhbUhoMEctdW1scFo1bWVGQWVyaElndEI?oc=5",
-    "source": "Vietnam.vn",
-    "published_at": "2026-10-15T07:40:58+00:00",
-    "raw_pub_date": "Thu, 15 Oct 2026 07:40:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ca934886557bd38aef209175115a757775fb0eba",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.3,
-      "reason": "Article discusses US Patriot upgrades generally, not a specific Iran–US diplomatic or military development.",
-      "event_key": "us patriot upgrade lessons from conflicts"
+      "reason": "Iran official responds to US strike threats, signalling rising tensions and hostile rhetoric.",
+      "event_key": "iran official unity response to us strike threats"
     }
   }
 ]
