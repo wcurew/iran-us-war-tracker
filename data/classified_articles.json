@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "title": "US considers escalation in Iran conflict - 7NEWS",
+    "summary": "US considers escalation in Iran conflict 7NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTV3MTYtNk1NRkI5dzBZV3ZrRzFuRUtoeHBxWU5nWTd3NXRQX1EtcWt1SmplTXNZUVNDcUEwVnBFQkhITFE5Q19OanBNd2liUnU0czdYOUt1dDJKU0tadUxGUVVTSnpLeml5V25paG9sMFFFT210UkJJU1ZfR0pCV3ptNExCOWJ0ZE9TNTc3MGdBcG5lRlMzOVJneGFybE42aWE4?oc=5",
+    "source": "7NEWS",
+    "published_at": "2026-10-16T00:00:25+00:00",
+    "raw_pub_date": "Fri, 16 Oct 2026 00:00:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8540c6cf3b3ed109663c6af1ca023fb05d5605f0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Reports US is considering escalating its involvement in Iran-related conflict, signaling rising tensions and possible military steps.",
+      "event_key": "us considers escalation iran"
+    }
+  }
+]
