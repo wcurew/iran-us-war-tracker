@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "title": "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response - NBC News",
+    "summary": "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkpjbHhhcjBfM1pXOUVuTE5rZ0lrMWJTUFBrZXYxY2FhcEtKWEJyR0lGSjBIb05pNTRfMW92elFEUlVHc3JjdzAwMmdWQTlLdmdZY0R4NGJOd3dUbEF1M3FCUVZRa1RfVjY0NnVxR013emZQTHMwSUFpNG5XU2RZendpNzd0LWZ4ZE5LakMycUEwMG9MQlZKQW82QTB4c0w0SV9QNTkwVlJIYnM?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-10-17T09:00:39+00:00",
+    "raw_pub_date": "Sat, 17 Oct 2026 09:00:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b1c8a36c841954836d44ba149b1fb366e1af6500",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Iran increased strikes on ships in the Strait of Hormuz, indicating active military attacks with limited U.S. response.",
+      "event_key": "hormuz ship attacks escalation"
+    }
+  },
+  {
+    "title": "America’s “Mother of All Bombs” vs. Iran’s “Father of Missiles”: War Closer Than Ever - WANA News Agency",
+    "summary": "America’s “Mother of All Bombs” vs. Iran’s “Father of Missiles”: War Closer Than Ever WANA News Agency",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2pXQk5IVERLd3hOQkQ4Q1NhX0NfSDJyYWgzTXlXVnhoLXdvUnkxaG5MbFplYUUwME5jVGdyckJ0cXprYnFGTGE4ejh1OFFLbUN4ellOaWpMNFAzNVEtanJpVmRxOEhkODNudzFaLWNiYmJ3c292TEtMRkZiOUFtX3hncnBVd01HTlpVaVhUbFpSalJqUGs0SjlpMHQwdw?oc=5",
+    "source": "WANA News Agency",
+    "published_at": "2026-10-17T08:46:46+00:00",
+    "raw_pub_date": "Sat, 17 Oct 2026 08:46:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a2d82a493ee0ebe2563e1eab27c1b72e2753452",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Inflammatory rhetoric and threat comparisons indicate rising tensions and heightened risk of conflict, not direct strikes or talks.",
+      "event_key": "rhetoric escalation us iran"
+    }
+  },
+  {
+    "title": "Iran’s Missile Power Has Changed Equations, Defense Chief Reminds US - تسنیم",
+    "summary": "Iran’s Missile Power Has Changed Equations, Defense Chief Reminds US تسنیم",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXhuUUdYU2xSTV9mbXJxZG55RF9WUGdFUl9nRW4tcktENjdWSWUwYUVmTktwSWM3V3Vielp2Qm1xaHhpQlN5bnBrUGZzZi00S3BoN18tdUlIWjluZ0JZY2NBZGkwRGx2WFU5MmlOR2U4MlJ6UGJ6WkduYl9XZnV6d1M1Mk40ZHhqbkhJOWk0cGFZWkRCb1R3eEctVENJNF9TS0pHSmRteXhEelNBNUtrTmgtYy1jc0JpSFE0cNIBwgFBVV95cUxORVEtZU1QZS1QbWhvR0VfeklFcWJZa3RxRjVIWkVjT3VWQTcwTk5sNlFYSzlyZkdBdHJhbmo3aXRMajZFUGEzZnc2bXluellUMTFmWEtZbW5GMW1ycTN3VmFrSEI1a3phaEkwUU1yYTEyYkhjTXpFZjZ6TUg5c1l2QmN2TFNaWUhVWUNDa2dvbzBFcGx0RUlkcGl4TFloWHJKdUtUam94YktCck1qMkZzdWp4alA3cmt5YXRfUmdMZThtdw?oc=5",
+    "source": "تسنیم",
+    "published_at": "2026-10-17T09:38:12+00:00",
+    "raw_pub_date": "Sat, 17 Oct 2026 09:38:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b0714c872678182a2bfbe625cb12459ae60ac5ab",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Defense chief's warning about missile capability is hostile rhetoric and a direct threat to the US.",
+      "event_key": "iran missile warning to us"
+    }
+  }
+]
