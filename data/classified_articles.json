@@ -1,19 +1,36 @@
 [
   {
-    "title": "U.S. Air Force used GBU-72/B bunker-buster bombs against hardened Iranian missile sites - Defence Industry Europe",
-    "summary": "U.S. Air Force used GBU-72/B bunker-buster bombs against hardened Iranian missile sites Defence Industry Europe",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVNQeHJlQzlURXluTkRRQXpDX19CTnRKMTBTRmxoSURmM21TLWdWbU1zVUZjX3VHakZkTklyVDJaZ05tSVlVYlRVOWRScDNvUW5oWW45cjBTTjNHdjRBVUlTVVF6T3g0akl3OVcwQVNyMHlBOHBNTmtWMGtMVmxFejBYRDFnVW52cFF2Z1E1ZUNRM2t3Y1NrVEN2STd1WDMydXFzQ1JERm03VWc5cEVVV3ZQV2Etdw?oc=5",
-    "source": "Defence Industry Europe",
-    "published_at": "2026-10-18T21:54:14+00:00",
-    "raw_pub_date": "Sun, 18 Oct 2026 21:54:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f9a2024b1861aa2970b42d8bca1c474a6c343bc3",
+    "title": "Iran warns US against renewed attack, says it has ‘unfinished jobs’ too - The Hill",
+    "summary": "Iran warns US against renewed attack, says it has ‘unfinished jobs’ too The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGluVGVkdUtBaXAySFdfWXJPRFZxdmxWMHpCV2tMRVhoZTdCcFVlcXowLVZhVjkxc3h1bjl0T1daRURDZlBOUGdfSkRvUm5MUWlzV0U5SE51UzRRczNqTlc1Q0FKX0pQUXhjRG4wc1ZZUnZqc0dlSlYzb3oxamdNa1pvdHVKQlnSAYwBQVVfeXFMTm80aG1IU3pnNlhuellYbExmTmdwbFNEVnAwRnZ5d0h4Z09GY3FyVHNCZDRRZWg4VEh4SFhGSkFRMUYzU3ZzNlJJVzBXNFBHbmFaWklHM2ZoRmx1V0RDNERkenBJX2dJVmxEcFJ2OVJhV0RZVVBoWHdkeEExTnVsdjZENERzUV81TUlYc3U?oc=5",
+    "source": "The Hill",
+    "published_at": "2026-10-19T02:07:00+00:00",
+    "raw_pub_date": "Mon, 19 Oct 2026 02:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bd3b1c31489835bb77fa5b72df4611fb5c911b0b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran threatening the US signals rising tensions and hostile rhetoric, a clear escalation rather than diplomatic engagement.",
+      "event_key": "iran warns us unfinished jobs"
+    }
+  },
+  {
+    "title": "Trump Weighs Iran Strikes as US Prepares ‘Mother of All Bombs’ Options for Tehran's Nuclear Sites Before or After Midterms: Report - Yahoo",
+    "summary": "Trump Weighs Iran Strikes as US Prepares ‘Mother of All Bombs’ Options for Tehran's Nuclear Sites Before or After Midterms: Report Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGs4Rzk1ckdZbHVkX21EY2xVODlhSjl2Rm1ZOG9sSUVGYzZDUndSUm80QjVRdE1pVDNiTnducjhwZTBBempEUjJSWkYySFBsUXdYdjlZaWVadExNeGNuSzFrcUV2Rk1Ob2lCZTNMYWVvdktRY3NuaG1nSnY3TEdIQklxRUREOHpqTHg5QlBQZFhNQQ?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-10-19T01:30:00+00:00",
+    "raw_pub_date": "Mon, 19 Oct 2026 01:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "58c390c7fdbc29c212b22e25f5a265f349989e4a",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "US Air Force employed GBU-72 bunker-busters against hardened Iranian missile sites — a direct military strike.",
-      "event_key": "us air force gbu72 strike iran missile sites"
+      "strength": 0.8,
+      "reason": "Report says US weighing direct strikes/MOAB options against Iran's nuclear sites, indicating potential military action.",
+      "event_key": "us considers strikes on iran nuclear sites"
     }
   }
 ]
