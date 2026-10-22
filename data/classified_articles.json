@@ -1,206 +1,121 @@
 [
   {
-    "title": "Trump has threatened to escalate his Iran war after the US midterm election. Is Tehran prepared for that? - DW.com",
-    "summary": "Trump has threatened to escalate his Iran war after the US midterm election. Is Tehran prepared for that? DW.com",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkxDQ2tpZVRLa1c0UXF2cTdnODBiVGVMejNZRHQxUHc5RlhpXzVqLXBST1JwRENUVTIzX3NwNVgzU0FOQk9xejFJYm51eEFTWXpqMUl6SUd2cWxfdVVqRDZSdWhUZVZtVi1NeWVaQlFFN2lxYm5XaEFNTFlEVWpBcTZrNjFNMkJTeEhaRnpucFRScW5qS3ZhTmVTVW1jOEnSAZ8BQVVfeXFMTWlVUE5ZRTZ3VjFicDBkQnBwVml6NDBxbzF5Tlp4SjhZcnJiQ2g0bmMwQlJQRGR6RWJCWlFhZWxHeGk5Y05ndHlqWUtTUGQzdXkxTmF4blJQcVNFUnUyak9fWkVkc2FkNVYwM1U4V0FBZzNnTndKUHBaRXB0RjJxeDJYN1ltdlJHanczdXhJaUNLMzNMekNwYzJuZnBoMEE4?oc=5",
-    "source": "DW.com",
-    "published_at": "2026-10-22T16:07:30+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 16:07:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "67314ef9686e174ffd953c671339120141eb7824",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Trump threatened post-midterm escalation against Iran, increasing tensions and risk of conflict.",
-      "event_key": "trump threats iran escalation post midterms"
-    }
-  },
-  {
-    "title": "Dozens of Israeli Jets Fly in Attack Formation to Iran Border as Tehran Rejects US Talks - CBN.com",
-    "summary": "Dozens of Israeli Jets Fly in Attack Formation to Iran Border as Tehran Rejects US Talks CBN.com",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1cxUXZNY2xtdEVSeVlzRmpoUXdzdHZPVzBGYy13N3FBNWZUM09OblMzelV5YzRzVzF4aHdwX1BQN3Zzbkt1QXYyMlBGQ3Y3ckpZMnpzVGpEZTljeGdhcWlDS3BvcTFESUJiYXZKekx1OFVBUE1xMWp3N3RCZkhycXp3N2VRMHBsQ3E0dlU0cldVRzRGNkw4aTF1WXZRcEpBN3hwU2U0bw?oc=5",
-    "source": "CBN.com",
-    "published_at": "2026-10-22T15:10:08+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 15:10:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5a0744026196cb483cfba49e6c7cb7281f7b164a",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Israeli military posturing near Iran combined with Tehran rejecting US talks signals rising tensions and hostile posture.",
-      "event_key": "israel jets near iran tehran rejects us talks"
-    }
-  },
-  {
-    "title": "US pulls diplomats from Saudi as Houthi and Iran tensions worsen - thederrick.com",
-    "summary": "US pulls diplomats from Saudi as Houthi and Iran tensions worsen thederrick.com",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0pvNWE0Qnd5aDBIdjZhMVdCWlcyc180aHIyXzExUEVCRHd5Um15dUdWWnFfcHVHYkxwLTdWSVhBRF9hU0VCclk3RFBIVFl6SERublFWaDVjNHI3WF9TMlJ1Zm5sakhMZkU4c29HbEkyZTVzRlB6bS1ndWdYQmdyS1lBWkk1bXhsbVoxMk14azZ4Y1NfaGUwVDhtQjhOQlhzYnVLdGZkRXJFOTluVElNU19KdWJPUlpwaGQ3S1I2aXloWmM5eExWd2dKWDVPbm5SLWVFZ2I3X0IzNnVuYmdnWVVvdlgyTTFEMjBsdkl0aF9Qdw?oc=5",
-    "source": "thederrick.com",
-    "published_at": "2026-10-22T13:21:00+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 13:21:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4d67741017345b970e2b7859a1a7c230ee8c68a9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.8,
-      "reason": "US withdrew diplomats amid worsening tensions with Houthi (Iran-backed) forces—proxy-driven escalation.",
-      "event_key": "us withdraws diplomats over houthi tensions"
-    }
-  },
-  {
-    "title": "Iran’s Guards threaten US bases in retaliation for Hormuz escorts - Arab News",
-    "summary": "Iran’s Guards threaten US bases in retaliation for Hormuz escorts Arab News",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWS13bjluT1hxRnpxV29LSjRJWmgteXkwR2lxQnlsb1pYYU4wMDVneFRNdjlJTkk0dndLS3hnS2Mwc3FzbklEeTFERWl5eXhMTVpmYkVuUWIxT0RCdlBRWDlIY3F1M3NMTG9PTDZxVHVfcDhJaTF3bVpnZFhrUWFlUURUQmIyTlhyejZVOVozUllPTC0yQ21mdm8wVHZPR1N0clFiWlpMLWFtQ0E5cWc?oc=5",
-    "source": "Arab News",
-    "published_at": "2026-10-22T15:24:49+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 15:24:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "30b10ef0e8945d724aedddb8c620c078d96fbdfc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "IRGC issues threats to US bases in retaliation, signaling hostile escalation rather than actual strikes or negotiations.",
-      "event_key": "irgc threaten us bases"
-    }
-  },
-  {
-    "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks - The Guardian",
-    "summary": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-10-22T15:48:00+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 15:48:00 GMT",
+    "title": "US and Israel drawing up plans to resume attacks on Iran post-election, sources say - ABC News - Breaking News, Latest News and Videos",
+    "summary": "US and Israel drawing up plans to resume attacks on Iran post-election, sources say ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-10-22T20:58:09+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 20:58:09 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d71dd16973cf33faa659cb6fba6ca59158ef1846",
+    "article_id": "4cf58d2e6fce0616f4b148be9f5dec83947eaa9c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.65,
+      "reason": "Reported US-Israel planning to resume attacks on Iran signals rising tensions and potential military escalation.",
+      "event_key": "us israel planning resume attacks on iran post election"
+    }
+  },
+  {
+    "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response - Al Jazeera",
+    "summary": "Iran says seven ships hit in Hormuz Strait, warns US of wider response Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2lYdm4tQXgwRVpCQVdqRnJ4RHQzRkZFZWpRZk1sNHB0dUQ5d24xRXVpdDdsSWxMSlNCNEVxZlRqcjJ1TFJ3YjhDd1ptbXFwajRGZTZBNXBEYklIWkJ3LVJ3eHhsRmY2Zy1iaGNlelVnVnVmeG9EaHM0bk9USEw5TEZ4cHVGbkFIQmZOOHRmaV95TENqSHBBZTZMU0E2dHdnbnJ1Q3hFbUZtaUpIR2RCMdIBtgFBVV95cUxNMm54SzB2S0o0VFJ5QlVVbzJnQXN5Q0FldUZTNy1rTG5TT2pLb0t4Q2VXYXZ3aEdVUTdoTXdlVC1kcC02NEw5QTJBN0JoS1ZodFY2UXZTdVVBbkg2MWJyYjFYZGpFXzhuNG04NUhjc1VLNTEzMm5zV01JNkVsYU43WDZKOXpNM2wyT054LXVWUzIwa3hHUlctWWstX0QxajFpWm1FeHFkVVg5VDZSMFV5U3Mzc1BEUQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-10-22T18:04:16+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 18:04:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8cc9faabc4d6d4e6dbff846ab661c609eb2c8ed4",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.75,
-      "reason": "Iran's public threats to strike regional oil and AI facilities raise tensions and signal potential military escalation.",
-      "event_key": "iran threat strike gulf facilities"
+      "reason": "Iran reports seven ships hit in the Strait and warns the US of a wider response — rising threats and tensions.",
+      "event_key": "iran hormuz ships hit warns us wider response"
     }
   },
   {
-    "title": "U.S. and Israeli Militaries Draft Plans to Resume Strikes on Iran After Midterm Elections - Democracy Now!",
-    "summary": "U.S. and Israeli Militaries Draft Plans to Resume Strikes on Iran After Midterm Elections Democracy Now!",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVFlZDR2Ymxsc2hnc0JlNEtQX1BodEMyYmxSQmFiWG1qNU5mZXBlNlNwdG9yYlBmbTVDZGo1bGdzOExFclJfajJUU0FCUGZoUGkzbThwUjRyVktCbDNwN3NvV0ZzM1ktN2dGaTVDZDdrSE9mdlJRazF6T0hteVBBZUlCLTBBVXF0TFJucXQ5Z19MRlVjelJycWNGMFBPaUF6UEJQTTIxal9kNkwyZ0NlQ0dWeWJiWXFveGVQbUFtd2xhS1VSRmNONE5fbjJHb2VtaDB3?oc=5",
-    "source": "Democracy Now!",
-    "published_at": "2026-10-22T14:32:17+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 14:32:17 GMT",
+    "title": "Iran War Day 237: U.S., Israel Planning to Resume Strikes in November, Per Report - The American Conservative",
+    "summary": "Iran War Day 237: U.S., Israel Planning to Resume Strikes in November, Per Report The American Conservative",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakNpeTZZX1JrdXBKaWhjMTI5S2xVX1JuMHhidXlCclotQ0l5U2JRRnNibVExeXg0Ymx4X2Z0cTVIa3dOM2F0eHVmaXBEbzk4NUJTZlBWTDBPbnFQZFFLS1BGUW9TUEM0dkJmOXltRTZfZXR3eE1Pb3RwOWlWeUV5MzBIRHpFWDFtTkR6T1RQMUpFUGlTeUpDcHUzYkJTUkk4aWVMckY0WWZVYktTYnl1d0VzZDdZLWVUc0E?oc=5",
+    "source": "The American Conservative",
+    "published_at": "2026-10-22T19:07:00+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 19:07:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "818b0be3ed95347bf796b66c915e99d26bae1d29",
+    "article_id": "4bc44927c56e6402e5f755f1897db4e89d6fcdf9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. and Israeli militaries drafting plans to resume strikes signals mobilization and rising tensions, not an executed attack or ceasefire.",
-      "event_key": "us israel planning resume strikes on iran"
+      "strength": 0.75,
+      "reason": "U.S. and Israel planning to resume strikes signals mobilization and rising tensions, not an ongoing attack.",
+      "event_key": "us israel plan resume strikes nov"
     }
   },
   {
-    "title": "Possible strike against Iran planned by U.S. and Israel after elections - WBUR",
-    "summary": "Possible strike against Iran planned by U.S. and Israel after elections WBUR",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53T1hBbzdvV0JkWjRDZDF2d1QzMk9LZ1ZXVW5xc2VHVFBGZXNEZnkxLUN1TXVIcEtWbXd6TDJJVkIwRXY1dDIyWHhlWjNlRXB6NG52ZF9HTUxuUk42Tk9jZnM3SVk5cEU0c2lQOVBENA?oc=5",
-    "source": "WBUR",
-    "published_at": "2026-10-22T16:06:30+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 16:06:30 GMT",
+    "title": "Report: U.S. and Israel prepare plans for possible renewed strikes on Iran - KTSA",
+    "summary": "Report: U.S. and Israel prepare plans for possible renewed strikes on Iran KTSA",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXpLZVdkNDlNS19pVnRPTlBxeEdvaDVDUnhrZUp3ZWR5d1RwRXhILVRmWWhYVnNWb0ZrcmNOUktsRGl0ZEZHdE5jV0dIWlFFZE56OGpwdFd6TG14NzVMQXQwUW9iM1I5TlVxRWdaR0x2N05JbjRvWGVwUy1mSmFLeXFOb0N4aEJvX2dudHp3T24?oc=5",
+    "source": "KTSA",
+    "published_at": "2026-10-22T18:10:00+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 18:10:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e6c7ae7642202599d08f2119f85490ccaf2c4ae6",
+    "article_id": "7becda6938f8c980ff2305b1714321e161251a1e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. and Israel reportedly planning a possible strike against Iran signals heightened confrontation and increased risk of military action.",
-      "event_key": "us israel plan possible strike iran after elections"
+      "strength": 0.75,
+      "reason": "U.S. and Israel preparing plans for possible renewed strikes signals rising tensions and potential military action.",
+      "event_key": "us israel plan renewed strikes iran"
     }
   },
   {
-    "title": "Lockheed Reports Q3; U.S.-Israel Sketch Out postelection Iran Attacks - Investor's Business Daily",
-    "summary": "Lockheed Reports Q3; U.S.-Israel Sketch Out postelection Iran Attacks Investor's Business Daily",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMm9ZN2dfa1gzaEV2UDNjbUE3d3R1Q082RURNMS1MaG9sald4NllZaFpNV3ZUaFliOGtLTDhabEJObDZDc0hmMDNWOTFTN2JaTXJQR0ZZTkJoQ0ZHQW5jUU9YcnhxLWhuN1FURk4zcWZwT2FwUml5QmF0ZkZLOXBJSGtMQ0FpMkdyYlBpSFFERkdPc2EzUFU0UUZPZERGYzBMTWV3N0hn?oc=5",
-    "source": "Investor's Business Daily",
-    "published_at": "2026-10-22T15:38:00+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 15:38:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a12cecc185108a9c154431a025a0127230f8c3d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. and Israel planning post-election attacks on Iran signals escalation and preparation for potential military action.",
-      "event_key": "us israel planning postelection attacks iran"
-    }
-  },
-  {
-    "title": "Are fresh US-Israeli strikes on Iran in the pipeline? - Press Review - France 24",
-    "summary": "Are fresh US-Israeli strikes on Iran in the pipeline? - Press Review France 24",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTdiQzdSdWdkdFNQMU9JaFJoSHAwYngzbEVUVEtLdXRFQWs1bnQwSWpvTUU0X05LckpzWjNIMEp4MXdTWUVNWHhKVWdBMDdRQzhCYXJkbVdYRVI3NU9ZazIyWU91SDMtT24wT21GNVVRSjVJQ0drcl9DS2sybklaOEh5dm1nQ1l5ZHlTTmtrWUp3ckVWOVBFMHFfVUxtUXJrdldDSzh2X0xYZzJ1Q0hIbQ?oc=5",
-    "source": "France 24",
-    "published_at": "2026-10-22T11:32:22+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 11:32:22 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7e0efdd7d1db3024f4ca7d5f662960d7b5a8dc66",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Speculates on potential US-Israeli strikes on Iran, indicating rising tensions and threat of direct military action.",
-      "event_key": "potential us israel strikes on iran"
-    }
-  },
-  {
-    "title": "US Pulls Diplomats From Saudi as Houthi and Iran Tensions Worsen - Military.com",
-    "summary": "US Pulls Diplomats From Saudi as Houthi and Iran Tensions Worsen Military.com",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONU9GNjY3QzZRM0lrUV9LZzBCRWJ6TTZZNVVKLWZ0VlhmU19peldlT2lmWFQxNE9oSk44U0ttU09XZ1Q2bFNBcTIwNEw0N2FIY1lLb0lTRjlXR05tclk2a21UVjJ0XzFFamNSeDZ0XzdZUmhOYUI5OTNQcEJuSHZOODZiMG5OTnFlMnB4MFZMLU1OZlU?oc=5",
-    "source": "Military.com",
-    "published_at": "2026-10-22T13:29:30+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 13:29:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1527ce6b35424db0bbeb5711685630493fa9ee4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.7,
-      "reason": "US evacuates diplomats amid worsening Houthi (Iran-backed) tensions, indicating proxy-driven escalation.",
-      "event_key": "us pulls diplomats saudi houthi iran tensions"
-    }
-  },
-  {
-    "title": "Seven Ships Hit Near Hormuz as Iran Warns US of Escalation - Marine Link",
-    "summary": "Seven Ships Hit Near Hormuz as Iran Warns US of Escalation Marine Link",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGtaUm1QS1RjNWdmRXhoT3dUVHJya0MyM1BMSURQcjRiNjZPNElic2NjbGcwTVZkZ3hsSXNaU3ZZQWVYRzZhQU94aTdTeWJuTzhPNDF3U3l4a1ltajhkbkpKTzNPbXk3TDFkMTRibjNPWEx0YVVPdlQwODhUazF6NmxERkV4V1k?oc=5",
-    "source": "Marine Link",
-    "published_at": "2026-10-22T13:12:06+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 13:12:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "79073b9efaafc5ba32de5b2863798689ee4be683",
+    "title": "Iranian Missile Strikes Prince Sultan Air Base After U.S. Interceptors Fail - Yahoo",
+    "summary": "Iranian Missile Strikes Prince Sultan Air Base After U.S. Interceptors Fail Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVBKSmN0dUY0UkdyNnFKbTNBNzVyNF9zZzVxNE9tSUczaGJwVXhERTc0dmcxaHp4b1FkaFRzVDJ4WDVfWFZ4LUNid3BYVzF6dlA1NGFnazk0Y2dIRlhzRmcxc0tUN19oYkFMR01GTDgyMG9YSzhTeTR0OUYzalFhYmdCckhkdlhYckpmR1gyMA?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-10-22T16:47:48+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 16:47:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4a26de2e18de5c1282256e2abd34fffa9c09b278",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "Multiple ships were hit near the Strait of Hormuz and Iran warned the US of escalation—actual attacks reported.",
-      "event_key": "seven ships hit near hormuz"
+      "strength": 0.9,
+      "reason": "Direct Iranian missile attack on Prince Sultan Air Base following interceptor failures indicates an actual military strike/retaliation.",
+      "event_key": "iran missile strike prince sultan"
     }
   },
   {
-    "title": "Diplomats are racing to prevent an escalation of tensions between the US and Iran. - Vietnam.vn",
-    "summary": "Diplomats are racing to prevent an escalation of tensions between the US and Iran. Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3hMX2x3TnNwOTZwUGdxVE5RY3ZWSnpHZ0Q2SjZ5MXBSRks2alBnZzhEclprcWpnUkVLXzRZUm1ScWkwRXhhREFpOGl5MXlqOWM5OFRwcE1ObE5HeDA4b1RxRFNPUDlQeHdvWFBESDBQd1o5NjhQRm5kdjVzbzYyXzcxZEZNNGpBbVMzdWNqd3BuRjlNQjN2alJKYw?oc=5",
-    "source": "Vietnam.vn",
-    "published_at": "2026-10-22T15:40:13+00:00",
-    "raw_pub_date": "Thu, 22 Oct 2026 15:40:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dda1ced67ac4f72009c9c39f743468766a3c0284",
+    "title": "U.S. Interceptors Fail to Stop Iranian Ballistic Missile Striking Prince Sultan Air Base - Yahoo",
+    "summary": "U.S. Interceptors Fail to Stop Iranian Ballistic Missile Striking Prince Sultan Air Base Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTBId2pEZXFwaFlJNWhpaDdxSHQyeUtaZmVuWW4zd0JKNjZXQklNaFh3b0JKMV9ZdnBFQUpvVFVvY2EzWHNVQ1dPYWRsU3hLRzVISGtrR1ZBRkZXVk9BLVY3dlRIRklRdk1sbFJucGNWbE1TM1dqdjhSVF9HZXJMMHcwakVTc1J0?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-10-22T16:53:07+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 16:53:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e69ab4de6c374d377a39e2a9318c8bde7e85a2af",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Active diplomatic efforts to prevent escalation between the US and Iran.",
-      "event_key": "diplomatic prevention escalation"
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Iranian ballistic missile struck Prince Sultan Air Base; US interceptors failed to stop it, indicating a direct military attack.",
+      "event_key": "iran ballistic missile hit prince sultan ab"
+    }
+  },
+  {
+    "title": "🇺🇸🇮🇷 The next Iran escalation could turn into total war I spoke with retired U.S. Army Lieutenant Colonel Anthony Aguilar about what another round of American and Israeli strikes on Iran might actually look like. He believes it could happen within days, before - X",
+    "summary": "🇺🇸🇮🇷 The next Iran escalation could turn into total war I spoke with retired U.S. Army Lieutenant Colonel Anthony Aguilar about what another round of American and Israeli strikes on Iran might actually look like. He believes it could happen within days, before X",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNnNxS1hRQUN0dEhTTWIzbDdoMEg2Q1lWekFuUHNHTzk1cmtiSXAwZHAzSXhzVUpyQ1VGVFpxOEdHVkpBZmNhTUx2SnVQNVZlbE01ZE8zWmJ4SHB2bzRpSmp6OFZfVXVEdF9JRA?oc=5",
+    "source": "X",
+    "published_at": "2026-10-22T20:28:57+00:00",
+    "raw_pub_date": "Thu, 22 Oct 2026 20:28:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8ad69302eff4076ea1c9607f995e84f9946158de",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.9,
+      "reason": "Warns of imminent U.S./Israeli strikes and potential total war, indicating rising tensions and threat of escalation.",
+      "event_key": "potential us israel strikes on iran"
     }
   }
 ]
