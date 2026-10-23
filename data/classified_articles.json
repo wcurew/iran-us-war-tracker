@@ -1,121 +1,240 @@
 [
   {
-    "title": "U.S. Senate candidate Adam Hamilton talks Iran War, tariffs in Kansas - The Topeka Capital-Journal",
-    "summary": "U.S. Senate candidate Adam Hamilton talks Iran War, tariffs in Kansas The Topeka Capital-Journal",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0h6LVBaLUw0dmdvaC1EUk85MXpBU0pjYUU0VjhuSUJHeUVFUU5FQWhPWnFGMWcyMEtoN1JwWDdONE4ydUk1VzRqd2c2R1NRV25lNmJyM0FnUndObG91YklKa3RzMmh2XzRENm9Vc21CT2gzaWwtZ0VKRlZDa3hoMFE4a1BSRzl4SmxrbHpETEx2aXNhQlJXNjM3TXQ4cVQyeTl0WFpqZXlxdVRpb1Uya0NtMEZrTUdLaWV4QUtuWUZUOGVLdHpFNnJrVVlGak9ma3pLZkI4N2h2TWFyMzZmNTNB?oc=5",
-    "source": "The Topeka Capital-Journal",
-    "published_at": "2026-10-23T09:11:18+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 09:11:18 GMT",
+    "title": "US signals prolonged Iran standoff as Trump weighs new strikes - Iran International",
+    "summary": "US signals prolonged Iran standoff as Trump weighs new strikes Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMXEyY09IRXU4YnZ3SGVxcjBaTkZub1Rjc3JBSnFIWU16VDNhUlNmTlpFVXNYSC03QWFrUTE0VDZfWDBuRy1BTzhGMnhweDg3Z3c?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-10-23T11:32:09+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 11:32:09 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f8d76188af5ff868b0f14e0f2429d2b626e849ad",
-    "source_weight": 1.1,
+    "article_id": "455a92f59e1161b193c35868d3642ace3566e739",
+    "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.2,
-      "reason": "Local campaign coverage mentioning Iran war without reporting on actual Iran‑US diplomatic or military developments.",
-      "event_key": "campaign discussion on iran"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "U.S. signals prolonged standoff and Trump considering new strikes, indicating rising tensions and potential hostile action.",
+      "event_key": "us prolonged standoff trump weighs strikes"
     }
   },
   {
-    "title": "US and Israel Draw Up Iran Strike Plans for After November 3 - houseofsaud.com",
-    "summary": "US and Israel Draw Up Iran Strike Plans for After November 3 houseofsaud.com",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZnBJZi03VGFvQWg4YVZYdHk5Mjd0RzQ2YXc4TG1reFJ6RWw0dTd5Z2lUWWFXbGc1TzhjUmctYW1NY1poWWk2dTh1NHJrTDhuSTJoT2tIZkRDRjJhMElXbjVRXzRpQmM?oc=5",
-    "source": "houseofsaud.com",
-    "published_at": "2026-10-23T10:38:02+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 10:38:02 GMT",
+    "title": "Iran reiterates conditions for reopening Strait of Hormuz and resuming talks with US - VOV World",
+    "summary": "Iran reiterates conditions for reopening Strait of Hormuz and resuming talks with US VOV World",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDNNNGRMQzlzNVFCT3pfbS1PdW9BZVF0WjZISE4yTGVaM25iYlJfZzlxQlY5V0NPWW84aENCdHI3ZWM5aTB5SXFxSUhGUmNwTGRDM3ZycWZHb1B4R0VBRURZRWZzNG1DcE82blpTTHRzeHhhYmROWkhqQjlVY1dSVDJPcVo5aGFabU9rNzJwTm9RRlAtNERXZG50MnRYcnlRai1wdE5TT2tYWVNnal9XdnJZQXhWblpjMFBSN3FpMA?oc=5",
+    "source": "VOV World",
+    "published_at": "2026-10-23T11:23:00+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 11:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "25041c162afbd17771a85eef18f805060b4129c4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.5,
+      "reason": "Iran specifies conditions for reopening the Strait and resuming talks, indicating diplomatic bargaining.",
+      "event_key": "iran conditions strait reopen and resume talks"
+    }
+  },
+  {
+    "title": "Sunni Cleric Calls on Iran to Compromise in US Negotiations as Economic Hardships Deepen - IranWire",
+    "summary": "Sunni Cleric Calls on Iran to Compromise in US Negotiations as Economic Hardships Deepen IranWire",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHZWVEhYZV9lbjF6aXlYaVN4NC1ieGw3MUQyMUZ3ZE5iQUhITzlfMlZuYnZvXzBpVll1YkNQV0FOd1BfZ0FfLTdLNi1JNzBjZmRQUTZPcWFPTE1DYVVPczAzdzhmaEVURXk4Q1N0a0xjQmlyalJXT3QwVlNEVGQ2aVRvMTIzUVd1UWpSbmRrRmVsM0FzaVBUcHNfc0pvUWJ6S2FZdmFFM3A0dVJmZVhjdVRZX0lJQnJuaHFqWTBfQzVDdVE?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-10-23T16:15:10+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 16:15:10 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8bf73bcbc288597e5463514f6716a486f7e71089",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.4,
+      "reason": "Sunni cleric urging Iran to compromise in talks with the US amid economic hardship.",
+      "event_key": "cleric urges compromise us negotiations"
+    }
+  },
+  {
+    "title": "Turkey Says Renewed Attack on Iran Would Expand Conflict, Diplomacy Only Way - U.S. News & World Report",
+    "summary": "Turkey Says Renewed Attack on Iran Would Expand Conflict, Diplomacy Only Way U.S. News & World Report",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDZDZTMza29PNGpOSFVsM0x4MHI5OXlqcEFpSmVEMkllWURYNlktM0E5cV82X1hPM1o0R2s3Z1lUVjBZYUxyblBtZkVVSlVQTkFDeE5hRmtTbHRkNEVjNzh0RkwyZnFxcjZzOGh2ZzFTeFE1T01KRVlUWHNVZ2xoeGVQc1pDa0dqWmtCTjlXMk9BaUdCWktLaHg0Tk9MOW9pcGxhMWd0UndFN3gtUnpMb2JxNml5X2pNYjRnc3ZNeG1rNDFfaEJYOQ?oc=5",
+    "source": "U.S. News & World Report",
+    "published_at": "2026-10-23T16:18:35+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 16:18:35 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4bb5ba52fec7a6526b46b632b1a4f293307cbd04",
+    "article_id": "ab93f16adca564cc87f9599a6ee3c8f5aecc55e0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.75,
+      "reason": "Turkey warns attacks on Iran would expand conflict and urges diplomacy, signaling restraint and avoidance of wider war.",
+      "event_key": "turkey warns attacking iran urges diplomacy"
+    }
+  },
+  {
+    "title": "As Trump Threatens New Strikes, U.S. Ambassador Says Iran War Could Last Another Year - Democracy Now!",
+    "summary": "As Trump Threatens New Strikes, U.S. Ambassador Says Iran War Could Last Another Year Democracy Now!",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHhWN2FjNmpzZWEtRGNUdUxrN2tUUzVIM2UwdWgtYkVKMDh2TU1FZ3FMcTVTMkVING5PbDVNNldUY3M0ampzRFNQbXg2ZzNpUXNsaVBoZVJnMTU5dk5XV3ZmMEItamg0TEw4Q2d5TXZmdU53Z1c0cUp3ak5sOGpCTmZmeVAxRXRmRVozZkMtWVJnZHVWcFluOGNQT0hKaW9PTFpqUllONi14WVdDYWtVRTlDNkR2aFVBYzVscEZKM3BWaGQ0T3dxMUpiWkk?oc=5",
+    "source": "Democracy Now!",
+    "published_at": "2026-10-23T14:08:39+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 14:08:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "478ad4ddb2ea24849c6d392aa8f148c26c29cc4a",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "US and Israel preparing strike plans signals military escalation and mobilization, not an executed strike.",
-      "event_key": "us israel planning iran strikes after nov3"
+      "reason": "U.S. threats of new strikes and warnings of a prolonged Iran war indicate rising tensions and escalation.",
+      "event_key": "us threatens new strikes trump"
     }
   },
   {
-    "title": "WSJ: Iran Threatens Regional Economic Targets if US Strikes Resume - IranWire",
-    "summary": "WSJ: Iran Threatens Regional Economic Targets if US Strikes Resume IranWire",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFpQeUx4VlExckZIcUk5T2NRdTlXdHB4TGw5eFgteFlmeDUyaEVUZDRTZVNseGtFV1FwVVM0eG05eTFINE84UnVKNTFtUklZM3lfR3daNzAwVkZiS2FCZVhLY3dkV1R6cEtwZzlhVE1TanlwNHc4Ri04TGNlXzJBRG9ydjV5NnRfRm5LTHlhc0FjUkx0Z2xKcTRqY09LTHczUFpjeg?oc=5",
+    "title": "US and Israel Plan Potential Post-Election Strikes on Iran - IranWire",
+    "summary": "US and Israel Plan Potential Post-Election Strikes on Iran IranWire",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczYxV21YWFF2eDRSdjl5cUdhRnJITGJNSDVDcXZDN0hrcnVmWFRGY01XdDFMVkR6S2FNaEdtRWN3aG51TTNmbkNRR2RhcHMwT3BKNXY5TzRRb2tBOHYxOFhERENlYWxTanc2aTVFUUY3UjJrOTZ3Z0k3ajZHWjV2UVBiSmlRRlZWODNhRjIzb0lsMjFmb3pHRnFSTQ?oc=5",
     "source": "IranWire",
-    "published_at": "2026-10-23T09:02:38+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 09:02:38 GMT",
+    "published_at": "2026-10-23T14:04:35+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 14:04:35 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "de69594b03ce6296de3f552065517105076fdd13",
+    "article_id": "e0cffc448b5a191395f7cb42b9f608a62d9f54db",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran issues threats to hit regional economic targets if U.S. strikes resume, indicating rising tensions and possible retaliatory escalation.",
-      "event_key": "iran threatens regional economic targets if us strikes resume"
+      "strength": 0.85,
+      "reason": "Planning potential post-election strikes signals rising tensions and preparation for direct military action rather than a realized attack.",
+      "event_key": "us israel plan post election strikes iran"
     }
   },
   {
-    "title": "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March - EA WorldView",
-    "summary": "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March EA WorldView",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk?oc=5",
-    "source": "EA WorldView",
-    "published_at": "2026-10-23T05:06:41+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 05:06:41 GMT",
+    "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran - The Guardian",
+    "summary": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjhUWEhFUEhXV2ZVbHVLbmtmUVdDeUxTRzlsZEdYY3JYd09YdVBYOTE0RVFlYnZZUkNNSmZ2MkRTamo3c0g4bTJrNllYbWpXWXBVMHl2MnNrNnlwVGJMdWYwN3I0alFzaTE4M2FXdWM5WEp2ZXFLWHdDUGRsOGRQWG53R2hwTTg5b1RqenVCNkEyd2NzZ3lmdm8yQWRBUQ?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-10-23T11:35:00+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 11:35:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "47fd6126417d4f58660645fb3f212790f82fb8fc",
+    "article_id": "c430dc0666ce752b27bd5c544f91d03c638cf361",
     "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Oil price rise tied to fears of renewed US strikes on Iran, signaling rising tensions rather than a confirmed attack.",
+      "event_key": "fears us renew strikes on iran"
+    }
+  },
+  {
+    "title": "US Navy prepares indefinite Iran blockade as Houthi missiles target Riyadh - The Telegraph",
+    "summary": "US Navy prepares indefinite Iran blockade as Houthi missiles target Riyadh The Telegraph",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWlLN2dvN0VUdFNlQTlTRE1rdWNNWU5BNzBFTUJnNnYycEJXZDI5ZkVpbF82TTZycC1YSEw3Zk5WQ2NXUnFyN1FEYjFhWDU5OFVhdlRkekR3T0RhbWl1cEdFZFJCLXlFdU5pem1kVmU0T2NKeFRkVVhQR2JsUzRhM1pHa1FUNnJBa00xOEdXME0tSGp4dHVtanE5X0hUdWViX29lSW5WRQ?oc=5",
+    "source": "The Telegraph",
+    "published_at": "2026-10-23T15:55:00+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 15:55:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e100e336af3c259cb4a6d30fa5b49dc21990e9cf",
+    "source_weight": 1.1,
     "classification": {
       "label": "proxy_escalation",
       "strength": 0.8,
-      "reason": "Rising attacks on shipping in the Strait of Hormuz imply Iran-backed proxy activity escalating tensions with the US.",
-      "event_key": "attacks on shipping strait of hormuz"
+      "reason": "US Navy preparing a blockade plus Houthi missile strikes signal rising military tensions and mobilization.",
+      "event_key": "us navy blockade houthi missiles"
     }
   },
   {
-    "title": "Oil Heads for Weekly Gain on Fears of Renewed U.S.-Iran Escalation - WSJ",
-    "summary": "Oil Heads for Weekly Gain on Fears of Renewed U.S.-Iran Escalation WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-10-23T07:26:00+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 07:26:00 GMT",
+    "title": "Iran Foreign Minister Slams US for Spending $11 Billion in Taxpayer Money on Israel's Missile Defense, Ca - Benzinga",
+    "summary": "Iran Foreign Minister Slams US for Spending $11 Billion in Taxpayer Money on Israel's Missile Defense, Ca Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREJOZDVBTFp2WTRvd2dxeHJoT0ZjZXhNSlhyRjBIUXUwRmRsd1V6ZDNJREZqSDJYYVdTWUlOVVN6eGJCWHdoOXNOVkNudzNTcGlMak5uRGRXLUlFbXZSTXB5dGlIdXpOOTR5SWNzcmdkSlRhZTFDdi1UbHk3TF9aN3d2S0U5Y2VlUmFMRzdqWUZZZENIR2YtYXNQcjVwYWdBMk05aHdNZ2VTeFRQdHFxZjhYNERwU1JtRzNSZFhiclc3WGhEYW8wQWFoR25sTXJsd24yZVlyc0ZTaGN2MWVFSXZIYXJubHAzRlRkSkx4SUpOU1pVd0JiMFRCd1h2UGhkb0pKSDByUnFwQmlGYzBnT1AxRWtLZw?oc=5",
+    "source": "Benzinga",
+    "published_at": "2026-10-23T13:06:51+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 13:06:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5bdf7166a01b3e084b6d1318058a59c49aded4d3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Iran FM's public criticism raises hostile rhetoric toward US support for Israel's missile defense.",
+      "event_key": "iran fm criticizes us missile defense funding"
+    }
+  },
+  {
+    "title": "French FM: Escalation between Iran and US ‘would leave no winners’ - The Times of Israel",
+    "summary": "French FM: Escalation between Iran and US ‘would leave no winners’ The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHM1NnI2NUlnbTlvMTlNYWNrZ3RWYk1FNTJFTlhTUGlwbEtPOHVaR1FrZWlKQV9WU0ttUXNzeDdGMVlITTRiQmxpN2lHcGVKa1FLTjRPZ3BDMXhZOW1KVHJfUEo5eHlhRHk0azIwMkJERGdUb1RPbW85Q3dQdklJVFdkNWNrNkVZdDRUSTVmQnppRG1rWEo5c2pXU1k5WHR5bEgyX1o2UklER2xLSlE?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-10-23T14:22:25+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 14:22:25 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2bfd390f728c2864da2e2adf548a59281f57237f",
+    "article_id": "fac5c052f906d66b7532016e64f26c637aab7db3",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.78,
+      "reason": "French foreign minister warned against escalation and urged restraint to avoid wider conflict.",
+      "event_key": "france warns against iran us escalation"
+    }
+  },
+  {
+    "title": "Potential escalation between Iran and United States would only have losers, says France - CNBC Africa",
+    "summary": "Potential escalation between Iran and United States would only have losers, says France CNBC Africa",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemxIMjZOcmZiT0ltS2QtNWRrQ3hjV2M2bndKYXhjMHFxQXpxd2tERkJsbW1GZDhWVGdlMUxyaC1RbTJ1V1FBMUFYN2w0S0dRcThRWDBkdER1Vl93eHlFU3dpZVVoR3dEUnFENGlCQkdPYlBvYmJQUFpQRzhTSHp1OXFTNFd2QmlCcE90dnlRWnVMUFdZdVNWSEhWZmZ4OUgxSE5LRVVoS3hrcXJWQ2RqVmo4QnN6NnJFaFV3?oc=5",
+    "source": "CNBC Africa",
+    "published_at": "2026-10-23T14:14:38+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 14:14:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ae4d193420b9d5d69a536c406871b7c447579ae0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "France urging restraint, warning against escalation between Iran and the United States.",
+      "event_key": "france warns against iran us escalation"
+    }
+  },
+  {
+    "title": "Barrot: New US-Iran escalation could push oil prices up - Breakingthenews.net",
+    "summary": "Barrot: New US-Iran escalation could push oil prices up Breakingthenews.net",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVldfM2RieGVkQzVjY1dSa1dtTDVhZjBybFkxb1dxRXJZOE9IanZaUmJ3VVFqemVYN0M0dmZQQlNJa3kzeWg0QmJoZGNiakJfTzZJaUNQblpMeU5HUVRqTWYtM2t0Z1BrcDNrZjNuVjVSclI4MVZveWNrU0FieTc2bW9pOXFoVkQyVTNVSW5fTkFqV3hJNDNvYUFHSVlvR0tDOHc?oc=5",
+    "source": "Breakingthenews.net",
+    "published_at": "2026-10-23T14:33:00+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 14:33:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8101f9079955d8b3ccdb581e9d077c91d6e4cfff",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.5,
-      "reason": "Oil rally driven by market fears of renewed U.S.-Iran escalation, indicating rising tensions.",
-      "event_key": "us iran escalation fears"
+      "reason": "Commentary warns of a possible US-Iran escalation raising oil prices, signaling rising tensions rather than active diplomacy or strikes.",
+      "event_key": "escalation warning oil"
     }
   },
   {
-    "title": "'ALL BAD, NO RED OR BLUE': Iran's 7-point Warning To American Voters Ahead Of Midterms | WATCH - The Times of India",
-    "summary": "'ALL BAD, NO RED OR BLUE': Iran's 7-point Warning To American Voters Ahead Of Midterms | WATCH The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVEw0R1FVLWFKQVdVcFZpV2FSQi1xRk1oRHp4TWl1dGViQ01HOW5zdzl2OUpMQUYzYmVUQzdaQ040aGcxSzhTMXlDR0QwM2l4LV9lVXA3NFUtTWtocFJYOEw1N1k1VmQxVzViYzJPcnBoWlV6Rk9mdDVPMzBqaGhNbU5LZzBfUE54YWliUUtIZWd2Yk94UFYtUTBSYU1xeW9EUGRjZmdhOWp4Tl9LOVBGQVRlRHd0Vkt0cjBCRTNheEpvMHZIdWNYXzJ4UEFQdzVpaWVNTU05XzhxenRiQXVSSmt3X19PUDU2d2ZEdV9vQVo1UGJERXNJbnItUDXSAYICQVVfeXFMTXlJNG93QkpubV9ZWjVpTFBzM2VTUXp5STJmSDBuZFJEN0ZTa1lEbldUVkRiMWpwd3VGbWdMNTNMV0V6UUZZeFl0S0I1aWxGbzk1eXgwM3hWSThkUC12QXhOU3pfNEpEYzYzV3pQZU44LTNMdGdHU0V5d290TUFOemlaWUxHbjJaWVlET1Q5ZEVYcXNGSGIzUDhsNDJUZU1LVGRmTEhMYTNidWttMUFyWVM2eDlOT25NbkRpT2k4bWZjV3dkSjIydzBEX0N6VXpPQUJxR0ZPa2paYnJrdTBIYTlNdTJJaThoV2FpbW1RbzF1SnhpRU1YZTRYdXNXRTBrY0tn?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-10-23T10:41:00+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 10:41:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "66ce5898b5c77fb0cfba52fef73b147e37d0ae19",
+    "title": "Potential escalation between Iran and United States would only have losers, says France - marketscreener.com",
+    "summary": "Potential escalation between Iran and United States would only have losers, says France marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTJ2dVpmV0o5YVpwUXNQbDY0ZjlJVjI3UnJiZFB5cE5JbV9SODM4TEtGVDU0Z3ByZUxNb0dLbG5JUWlsb2FhSXM3cVdPbVYyNVFsU3FTVjB4OHJmOE1vaDNUTXlyLVVDZkM1YnNEczJIVi1ZTHRaRlo3UHhlb1hWcEJCWm9DcFFDbDktSllKeWdZQk1TZW9EWk5kcl91UXZhcXoyN1NhZE8xaHlLZEszYm9LUEtzeWx6eDNlVzRpb2lGMENPMldNcEhYNE1FZmRjeEV5SnFn?oc=5",
+    "source": "marketscreener.com",
+    "published_at": "2026-10-23T13:56:58+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 13:56:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "46b94899c4f025ddaa327e2145da204e7e5f93a0",
     "source_weight": 1.0,
     "classification": {
-      "label": "irrelevant",
-      "strength": 0.0,
-      "reason": "Political messaging aimed at American voters, not about Iran‑US diplomatic or military developments.",
-      "event_key": "iran warning to american voters midterms"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "French warning urging avoidance of Iran–US escalation, signaling restraint and desire to avoid wider conflict.",
+      "event_key": "france warns against iran us escalation"
     }
   },
   {
-    "title": "Iran unveils offensive doctrine, US issues warning: Is war imminent? - Vietnam.vn",
-    "summary": "Iran unveils offensive doctrine, US issues warning: Is war imminent? Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjJTMTlRYWZLdWQxd2FNbFl3b3hCazFkaXpjYjd2UjZIeFc2VmY5T1luSEpUc1VfLXQ0NHM5NDVBcGJ4YkFwUWN3NExLdngzU2dGcWNYb2lVOE5PY2I3MVJ4R3RLNlkyU21VQ0NSYnVWUVZLalFmeVRyd2QxMlBWem9CTUhfV0hqbnlZN2E4YVRLYXpoSGNWT1pDNW1CN3Bu?oc=5",
-    "source": "Vietnam.vn",
-    "published_at": "2026-10-23T05:20:32+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 05:20:32 GMT",
+    "title": "Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared - NewsCord",
+    "summary": "Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3U4OEVUVV9BS2FyZDRjVm9tajNZYlMxdVJSX09xTlNRU2RnUEZNVmJwaGxFSUJibjZhTm14YmN4d0hOOFM3c2EwaF8zbTA0dVV6bzJERkFZT09oWExfWUVNR0ZTVHZHS0UtZ2ZCTkpCazRReXdhSS05VHFpRm9mbG9NTVR3YXRlNDh0Rjd5em5uWHYxYkxPZUlwcmFfXzh1M3FvMXNkSVhzMkZhRGhsSmY4cm10LTF4bzdvcVdPSDJOSjl0YmJ0UmdpWmlmVjJPWVBROWZrblU5bEt1LTFFSWNuOFBhVEFGZXc?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-10-23T11:27:36+00:00",
+    "raw_pub_date": "Fri, 23 Oct 2026 11:27:36 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b36d05ee4bc75fb075591e2a9895f11179b611a9",
+    "article_id": "6ccbbf7979c48c69d3aaf05aa7926a8b44f2d02e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.85,
-      "reason": "Iran's new offensive doctrine and US warning indicate rising tensions and threat of conflict.",
-      "event_key": "iran offensive doctrine us warning"
+      "strength": 0.7,
+      "reason": "Iran threatens attacks on Gulf oil, cables, data centres and AI infrastructure if the US/Israel strike — explicit escalatory threats.",
+      "event_key": "iran threatens infrastructure retaliation"
     }
   }
 ]
