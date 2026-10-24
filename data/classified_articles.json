@@ -1,36 +1,53 @@
 [
   {
-    "title": "US and Iran trade new threats, diplomacy yields no breakthrough - Iran International",
-    "summary": "US and Iran trade new threats, diplomacy yields no breakthrough Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OOFg3U2wtNk1Ncll0WnQzSzVQM09oVjJsazdyVXVZWlVDMzNGMkt1aTNhVmhwME5adXRKZEFURFVHVzBpbWxhLVhiZWpEdU42X0E?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-10-23T22:44:09+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 22:44:09 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0c861bf8440944eb422784ae2c67c2507fd3a6da",
+    "title": "US could strike Iran this weekend, envoy says - The Straits Times",
+    "summary": "US could strike Iran this weekend, envoy says The Straits Times",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGFzZlFOaEEyNlFYOUxrQ3VtRHVac1hUdl9Pd190RmhZZlNwZW5WbzktbXVwR3d2dFhhVkQyR2xrcm1abnlKZm8wLVhhQ01yb2lDRmU4YjNWVTROLTdvUFVkdFZDSUZFZi1DSWJob3IyM3RpenVSeUJ6eVBtTWplUGdiNE12ZDN6dUdtNUc2T2VJU1lQMmc?oc=5",
+    "source": "The Straits Times",
+    "published_at": "2026-10-24T01:51:00+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 01:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "13d3e3776c7bbdaba585bf06a16c2279b9b6e019",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Mutual threats and failed diplomacy indicate rising tensions and breakdown of talks.",
-      "event_key": "us iran threats diplomacy failure"
+      "strength": 0.8,
+      "reason": "Envoy warning US may strike Iran this weekend — a direct threat raising tensions and signaling potential military action.",
+      "event_key": "us envoy threatens strike iran"
     }
   },
   {
-    "title": "Oil Prices Rise as Fears of U.S. Strike on Iran Grow - Barron's",
-    "summary": "Oil Prices Rise as Fears of U.S. Strike on Iran Grow Barron's",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2p4Sm04Ujh0VVphWm85ZnVWM1hqMGNIeDRibm1ESW8wNTBXcTVxV29rQTZtcnJ1QTkyV2dCTjUwX0w1SGxtTDA2ZnU0M3Ewdi03QXVtTjhMaWdRbnc0OHRBeDBYLTVkTUNSOEVLMU1faTNtQ0E?oc=5",
-    "source": "Barron's",
-    "published_at": "2026-10-23T22:24:00+00:00",
-    "raw_pub_date": "Fri, 23 Oct 2026 22:24:00 GMT",
+    "title": "US strikes on Iran now serve the blockade - Iran International",
+    "summary": "US strikes on Iran now serve the blockade Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUFJDTXdReEhhWERNdW1ueksxZzJhanNHTVRGc2ZIeFVNdmoxOGdXUTBwSWUtR0E2Zk5RQWlkOEl1Z2ZzNGxCeVFZd0MzQUdWeHc?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-10-24T00:07:49+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 00:07:49 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1ea2895387c049046b58f2a4edc46397a6c84fa4",
+    "article_id": "d91b9db326f45d9dc410b03356b8aeb639777019",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports US strikes on Iran—direct military action described as serving a blockade.",
+      "event_key": "us strikes on iran"
+    }
+  },
+  {
+    "title": "US could strike Iran as soon as this weekend: Envoy - The Business Standard",
+    "summary": "US could strike Iran as soon as this weekend: Envoy The Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0FjS2hqM25LclZzRTZ6SGhCTTB0S3BzMXZYMkZpdGpjNndhT21Nc3VWd1pGV2VqbTR6TWVENHJnX3FHV1Y2VlluVmpRMWZNYWlNZFZCUG9fVkVlQVpUNDBlc25YMGJQRWM2cFJBX0ZrT0xFVjFocGNYeE8wdTBkNi1rNkdQbkFOWDFrTFVjaFJ6Y0ZhZHgw?oc=5",
+    "source": "The Business Standard",
+    "published_at": "2026-10-24T02:13:13+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 02:13:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3d87078d04f93feec2616b28604b023f183d6296",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "Markets reacting to growing fears of a U.S. strike on Iran, signaling rising tensions and threat of military action.",
-      "event_key": "us possible strike on iran"
+      "strength": 0.8,
+      "reason": "Envoy warns of imminent US strike on Iran, a direct threat escalating tensions.",
+      "event_key": "us envoy warns imminent strike on iran"
     }
   }
 ]
