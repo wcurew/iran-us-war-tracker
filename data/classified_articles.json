@@ -1,53 +1,87 @@
 [
   {
-    "title": "US could strike Iran this weekend, envoy says - The Straits Times",
-    "summary": "US could strike Iran this weekend, envoy says The Straits Times",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGFzZlFOaEEyNlFYOUxrQ3VtRHVac1hUdl9Pd190RmhZZlNwZW5WbzktbXVwR3d2dFhhVkQyR2xrcm1abnlKZm8wLVhhQ01yb2lDRmU4YjNWVTROLTdvUFVkdFZDSUZFZi1DSWJob3IyM3RpenVSeUJ6eVBtTWplUGdiNE12ZDN6dUdtNUc2T2VJU1lQMmc?oc=5",
-    "source": "The Straits Times",
-    "published_at": "2026-10-24T01:51:00+00:00",
-    "raw_pub_date": "Sat, 24 Oct 2026 01:51:00 GMT",
+    "title": "US is reducing staffing at 4 Middle East embassies over increased threats from Iran - News4JAX",
+    "summary": "US is reducing staffing at 4 Middle East embassies over increased threats from Iran News4JAX",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3JsblktS0s2TVlySlk3QWM0MEVCcHFlbUhpODByUnZVV3UtOGxzWjFLX0VRM2xkUG5wOVozVDBVdHdWcF9LRS1fLThQM1NweEcxY1FUV3ZrY3pPYW5CR2JzbXA1amIzM3JfcklaSnQtVjJhVXNwWWFGQkRYMHZRUTRkUk9CbzBudmVGLVozQ19FMkZiaHZhYWVLaEN2YmVibUxZblIta1pNLTRqRVhYWnhEWE05SVpfMnZLRzFCZE5sTFlpRldYZVRrT0ZKeHc?oc=5",
+    "source": "News4JAX",
+    "published_at": "2026-10-24T04:21:45+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 04:21:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e647587eaab6f243e6b99480c8a7e243b79d8a84",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "US cuts embassy staffing citing increased threats from Iran, signaling rising tensions and precautionary mobilization.",
+      "event_key": "us reduce staff embassies iran threats"
+    }
+  },
+  {
+    "title": "Trump Warns of Possible New US Military Operation Against Iran - Modern Diplomacy",
+    "summary": "Trump Warns of Possible New US Military Operation Against Iran Modern Diplomacy",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMldnTDh6RTlnd0w5Zm1ObjZVcU1pN196X3ZWQUNkbDg1M21abDFmUTU5MGpyRk1fcWVtS2hyOXRHaFFyOGUtMU5VX0FWbHNFMVBGdzdIZkNSVHN3eGdJRzMtWHlwM2NUYWVMSU5vNEtQc2E5YnczS2xEMDdDd2psY3Y4bDJWX3QyZ2lQMWQ3V0RpTEJad05oQm9vT0NkcENMVVFR?oc=5",
+    "source": "Modern Diplomacy",
+    "published_at": "2026-10-24T08:58:44+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 08:58:44 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "13d3e3776c7bbdaba585bf06a16c2279b9b6e019",
+    "article_id": "83b5362a95ec32c55f9f3bcc2b493c037bd31533",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Envoy warning US may strike Iran this weekend — a direct threat raising tensions and signaling potential military action.",
-      "event_key": "us envoy threatens strike iran"
+      "strength": 0.75,
+      "reason": "Public warning of a possible US military operation signals threats and rising tensions between the US and Iran.",
+      "event_key": "trump warns possible us military operation against iran"
     }
   },
   {
-    "title": "US strikes on Iran now serve the blockade - Iran International",
-    "summary": "US strikes on Iran now serve the blockade Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUFJDTXdReEhhWERNdW1ueksxZzJhanNHTVRGc2ZIeFVNdmoxOGdXUTBwSWUtR0E2Zk5RQWlkOEl1Z2ZzNGxCeVFZd0MzQUdWeHc?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-10-24T00:07:49+00:00",
-    "raw_pub_date": "Sat, 24 Oct 2026 00:07:49 GMT",
+    "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times",
+    "summary": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-10-24T03:46:54+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 03:46:54 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d91b9db326f45d9dc410b03356b8aeb639777019",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Reports US strikes on Iran—direct military action described as serving a blockade.",
-      "event_key": "us strikes on iran"
-    }
-  },
-  {
-    "title": "US could strike Iran as soon as this weekend: Envoy - The Business Standard",
-    "summary": "US could strike Iran as soon as this weekend: Envoy The Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0FjS2hqM25LclZzRTZ6SGhCTTB0S3BzMXZYMkZpdGpjNndhT21Nc3VWd1pGV2VqbTR6TWVENHJnX3FHV1Y2VlluVmpRMWZNYWlNZFZCUG9fVkVlQVpUNDBlc25YMGJQRWM2cFJBX0ZrT0xFVjFocGNYeE8wdTBkNi1rNkdQbkFOWDFrTFVjaFJ6Y0ZhZHgw?oc=5",
-    "source": "The Business Standard",
-    "published_at": "2026-10-24T02:13:13+00:00",
-    "raw_pub_date": "Sat, 24 Oct 2026 02:13:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d87078d04f93feec2616b28604b023f183d6296",
+    "article_id": "f33d5a36ececc606e7494711cd2c8df8824637e4",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Envoy warns of imminent US strike on Iran, a direct threat escalating tensions.",
-      "event_key": "us envoy warns imminent strike on iran"
+      "reason": "Officials report Iran is actively planning attacks against Americans, indicating rising tensions and imminent hostile intent.",
+      "event_key": "iran planning attacks against americans"
+    }
+  },
+  {
+    "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet - CBC",
+    "summary": "Why a new round in the U.S.-Iran conflict could be the most devastating yet CBC",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxMSnE1UkdfNGtYV2lnR1hIUFlIdXo0bVFHdXNTaktManl6WFRRZEJCSUoyWVhOeGhnSkQtMjdxM0xVZTFQeTFEaG5TR2gwSk80RzZIODBWd2kyT1FRdktwZEhKSHhaNGlZVlJmNjl0Q0Qyd0loaFp1cXdEZkZ5LUlUdEY?oc=5",
+    "source": "CBC",
+    "published_at": "2026-10-24T08:00:00+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 08:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "89a7291ec1291b5b29bbcf4d71ed2eb5358f0a68",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Analysis warning of a potentially severe new round in U.S.-Iran tensions and rising conflict risks.",
+      "event_key": "us iran potential escalation"
+    }
+  },
+  {
+    "title": "US Says Threat to Americans Highest Since Iran War Began - Kurdistan24",
+    "summary": "US Says Threat to Americans Highest Since Iran War Began Kurdistan24",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3lmd2Q1Q1hKMmxva1cxb3FDZXI1QUlkeHphVVVCNDk0X2QxYm52QXBHTnFiRUZ5OUtWNDBrX3BfdGh0eU5RSUFLS013RnJHaFV2Y2w1dmlWTzJ3MDBGZ3pQNU5UVFRVMXFDeHFWa1R3MFVFV19JQkdKcTAzQVlrblRtNUhGdGZXVFRtUzdITGhnMTU1NlR0WGdFMmtfNEI5R0E?oc=5",
+    "source": "Kurdistan24",
+    "published_at": "2026-10-24T07:20:00+00:00",
+    "raw_pub_date": "Sat, 24 Oct 2026 07:20:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "badfc944e9fdb17a2f4b413099664a2463da419e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US warning of heightened threat levels signals rising tensions and hostile posture.",
+      "event_key": "us warns highest threat since conflict start"
     }
   }
 ]
