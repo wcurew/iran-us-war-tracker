@@ -1,189 +1,291 @@
 [
   {
-    "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - Newsday",
-    "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say Newsday",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjNrano5UDE5NXBfcnhZek5ZRG1IU1lyT1RncmllOHdGODdLcWJKRVQ3bU53WlM4aFQ5WjdjZDlrQ3Q0b2RnT0ljR0xSdlZrMXBHVmtGQjdGOGhSYUwxOXVnWDl0a0doOHE3eE5HeXNqd01Fa013ZjN0c2ZBbmVmZUdHN2ZLUQ?oc=5",
-    "source": "Newsday",
-    "published_at": "2026-10-28T22:44:37+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 22:44:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dd6078499ba68e03d4725acf989684be41972eb9",
+    "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - Oregon Public Broadcasting - OPB",
+    "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say Oregon Public Broadcasting - OPB",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXplT3ctQTJuX3hibGxpdEYwbjhMYXF1ZThqRmh6TFpMeldtZzNfUWhELU1ybU1hMmdUTVhNakNPQ1ZJX2NwUkwtcUE2UElIR25FdTZES2hwMHZYX1Y4a3hDQmEycHdOZjdrTUNKTklISHdJRU5nZ2dfNlVvMnowUHF3WWpwWDgwN3pOVEpWa3EzbkdlNnlWOTN4dGRfMnlCOThPdC1OV2szdmkwdHRhaF9iZ21KTEJZMTdlX01NQ3MtSkQxd0pQYW1RZF8tN2Jy?oc=5",
+    "source": "Oregon Public Broadcasting - OPB",
+    "published_at": "2026-10-29T00:43:24+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 00:43:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3f2cb2c3cef3794aeeae0ed0f9606eec0198a849",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "US warning allies to prepare for possible Iran strikes signals rising tensions and threat of retaliation.",
-      "event_key": "us warns allies prepare for possible iran strikes"
-    }
-  },
-  {
-    "title": "Abbas Araghchi Says Iran Pursues Diplomacy as U.S. Defense Cites $47 Billion War Costs: how 6 outlets framed it - NewsCord",
-    "summary": "Abbas Araghchi Says Iran Pursues Diplomacy as U.S. Defense Cites $47 Billion War Costs: how 6 outlets framed it NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUhnWjJOU2t5b1VXNTZqSFoxWVJCcHZGcVlWNWlEYjR0dkdtUEhwN1JZc3hNM0o0VG9HV21RQVRNNEd2NDRsc1phelI5eGdjQjcwNk12NnVEUWhIOU14ZGMtS0Z3UzZiYm0zc1BVbm1zYllOU3hQbUtJVFFlRVpXZFpzNFZSTkxvT2VENFA4emhkcFhTVkpDbm5oSG9tVklXX0N0WlhlY211Z3RpZmN1TWdEWmhhV0hmSlkzTWxhWEVJSXZZTDUwNWtyanlUZlhOc1lIMFBSWC1qU2ZpdG9hR2pjSWdtUTcyU2c?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-10-28T23:19:47+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 23:19:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2cd035bb0a2b5dac5a56288b2bb447def9166559",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Iran official signals pursuit of diplomacy while US highlights war costs—calming rhetoric rather than active negotiations or strikes.",
-      "event_key": "araghchi pursues diplomacy us war cost warning"
-    }
-  },
-  {
-    "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - AP News",
-    "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say AP News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
-    "source": "AP News",
-    "published_at": "2026-10-28T22:44:00+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 22:44:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7ba8fdda17c3136a53543744b5a42838e63d7d22",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US warning allies to prepare for possible Iranian strikes signals rising tensions and threat of retaliation.",
-      "event_key": "us warns allies prepare possible iran strikes after elections"
-    }
-  },
-  {
-    "title": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz - The Washington Post",
-    "summary": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSnBuVWJnSDhLNTdMSEc0aEJpWUdBWjJMSVY0VjFaZ1BtMlk2a2pXdUhGb1hMZU9UbFVDdklSRzM3SUExUGl1MHZUSGR2dmVmakNsWXpUbU42R2JnTGxQNWJlMVNvcldSdnpKUXpoWHR6UXBCSmFvTWxnOWFETDFjTVRRV2lxMmVtSVc1Vkg0cEtqeXREOVNrT2xJbU9kNDFwczhUM09YX1FmZWEyaHVILWlTZnJBcmhsOHpTUUxRUk1qWVAtaWdUbG9IdzhiMzhfcHg5bkdJUmhFekV0aGFxQ0R1SFpJZzdWVlBudHhBLWViUXRLQ0g5OThSS0E1M0ZhQ2dMS2hocmF5SWJXeVJFOEtYUQ?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-10-28T21:00:00+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 21:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6d02fe69708a35bf66ff99f1df7b99e64268b86c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran threatened retaliation after U.S. announced ship escorts in the Strait of Hormuz, increasing tensions and hostile rhetoric.",
-      "event_key": "iran threats after us hormuz ship escort"
-    }
-  },
-  {
-    "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - Ottumwa Courier",
-    "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say Ottumwa Courier",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRUxZVFNHdlIyNFVlckRqVWtQN1NvdGxRVEh2dFpZMUs3LXduaGdmN3dWN044Y1l1UXVrQ1ZxR1RJeEhqMEpnQ2dnVEtBZF9kWjBFY2pUM09DTkNuWWNSRzh4aTNkajJlc3pnQi12UDNCc0tPd3Vpd0RvSVZpdmM2WTA1cENsWWFYR2FkazF4ZFM2UU9WTmJqVmYzaFhkMlUtLVcyT1dKRkhMWjBkVmVkbk9kdHZHai0ybnFZRmJsM1JCUllmQWxyeE1xdEl6R3hORkxEYndsZkJDWGRpZjJBQzBJOVJEb194aE5PSmloVmlORzBUWUVtUVNkcl9ZX05TM043UXozbktzVlQxMXA1Z3NsNEdqSlZIVUxsajlIaVM?oc=5",
-    "source": "Ottumwa Courier",
-    "published_at": "2026-10-28T22:44:13+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 22:44:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d2a4e13ec17109ff2576e4d45e5e46bf09ce2475",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "US warning allies about possible Iranian strikes/retaliation signals rising tensions and potential military escalation.",
-      "event_key": "us warns allies of possible iran strikes"
-    }
-  },
-  {
-    "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - The Seattle Times",
-    "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say The Seattle Times",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVXlFZFlGTDAyeS1Zcm5wUlluc0hUeTVVd3dkaWVkN2ZKaEtBVUxsckstY2lMQWVHdUwzT3JlckZYUVdwQ3VybzdPcnRTYmdYb1lNX2xWWGhacXNjSUtvcEhWWGZOUzFUTzNyblhtUUdXMnpmaVh2R0FnUWsyc0pLNmdkdDJDNV96bXM2ek5Ubl92ZFp0TkFaMHFzaU5SVnBpb3hIOEVUN1pqb2hPWWVXREpoNmpjMFIxa2pkMG9EMFlpaXpPblhLaFRQRmFtU1kzNEVIeTRMWDRKX3h0Ync?oc=5",
-    "source": "The Seattle Times",
-    "published_at": "2026-10-29T00:22:11+00:00",
-    "raw_pub_date": "Thu, 29 Oct 2026 00:22:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "23c2e9497ce599c66f6544112447bbc3ec536ec6",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US warnings to allies about possible Iran strikes/retaliation indicate rising tensions and imminent threat of escalation.",
+      "reason": "US warning allies to prepare for possible Iranian strikes/retaliation signals rising tensions and potential escalation.",
       "event_key": "us warns allies prepare for iran strikes after elections"
     }
   },
   {
-    "title": "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - Terre Haute Tribune-Star",
-    "summary": "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say Terre Haute Tribune-Star",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ0lMbklDM0o3eHJ6V3dDbEt3TjZOa0NxUC1hLTZtZzl3NWU4UVZRWFo2N1JQTW44ZTAtOFJFOHhsck8xUzM3NDdCWTJEMzZPb0VJWWdXeG9PRWx5SWVIcEpUSUhMRm91MFJGei01cGFJMkE5YjF3cXQweUx2cHM0dlpsVmNrUWVvUFVrclFxT3lhb3hTS3BoOS1mTkFDTXc3M0hBSzdJZDJxLWo4a0RQalgzMjhETUx3OUgzd25kNnlYTHJEUjZpWmZrSkMzZm1SRndCQzRWbEJVYzh0dmFfOG91cUJPd2cza2hIVkt6R2xzc3BEc2FFSHBkSUpUbkhOT1BCeQ?oc=5",
-    "source": "Terre Haute Tribune-Star",
-    "published_at": "2026-10-28T22:44:00+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 22:44:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e2c2a23ccf34dc53fa983ff37be5c18b14503e28",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. warning allies to prepare signals rising tensions and possible retaliatory strikes rather than diplomatic de-escalation.",
-      "event_key": "us warns allies prepare for iran retaliation after elections"
-    }
-  },
-  {
-    "title": "US warns allies to prepare for possible Iran strikes - Stuff",
-    "summary": "US warns allies to prepare for possible Iran strikes Stuff",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdF9vOU1jZGZ1Wm9WZjFpRUlkV1lCTHFsQjNUSmRHcWlBdXJWYnlrQXZyc3Vjdl9MdVdjc19SY1BLWHlUbm51Nml3TjNKN1pBclJKdjVFYXNPbEtiYjN0aV93cE44SHhic0I2c3Y0N2RzdGZIQTdRc01OTlJIYW9BWEQ4MmRjbVFPUFMyWVRaVEN1d1FJ?oc=5",
-    "source": "Stuff",
-    "published_at": "2026-10-28T22:53:44+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 22:53:44 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6965509b4a4abc5bfda45ad7d7c94fb47d018bd7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US warning allies to prepare signals heightened tensions and potential imminent strikes, a clear escalation indicator.",
-      "event_key": "us warns allies prepare for iran strikes"
-    }
-  },
-  {
-    "title": "Trump signals possible end to Iran war as US reportedly prepares for post election strikes - WZTV",
-    "summary": "Trump signals possible end to Iran war as US reportedly prepares for post election strikes WZTV",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEtIUlduMTR2SW1EbWpIQmh1TTMxd1BhVmxmd0ZLdjNWN1FLV3cwZlZvRnBuaGVPdXNnR2xveFdFTnZxaFBmUFdoaWQ2SEUzR1g1RVEwRDZEc2k4Y3pNRlRlNWxCY0tyMEJKR1d5dW83QTVlVVFKTGZMM0VLdkoxaDVvMmsyTDhRWW0xU3ItWVJWZWphUWhyaTZFYUw1ZWduNF9hay13bHExTzh6emZkb1JsaVdNclZNS0FyVHNmRHRUWHY2anVNTV9Pd0ZMdGozOTRxSVVBTkNzMk1DWm0tdDRlQTRfa3pBRjU2WUoyZw?oc=5",
-    "source": "WZTV",
-    "published_at": "2026-10-28T20:07:42+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 20:07:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a17b68a11f73233fdee614af6d8d77eda1272a83",
+    "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks - CNBC",
+    "summary": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks CNBC",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YTnV6ZDY4ck1NMHRaQzRYX0hFVGRPTlVZLVVZdHp0cFhGZVJ6dWc3alhpVVZxSi1mZGtlSE1KenRyMmpmV0FWNS1JM283Z2tIemxMSkZkRGE2bkNqUmJCQ0M3YXpWZ2hqNmFlSFFB0gFzQVVfeXFMUDJCcm5OWTVVc3pnWVJZVmlwMklMeXMyaXI3aTUtWEIzamN0SGJRek5DN0tQQi1MdGtkYmEtZmREZTg1bEwtZTJGcHIyMjV5bDlNVDBfeExDTElIc3plZUNNQlpvQ3NIVDZHVUJkaEpLTFFJaw?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-10-29T07:35:45+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 07:35:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f032e6d998e639b6212c9bd79dd94a9897d12119",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "US preparing post-election strikes signals mobilization and rising tensions despite Trump’s end-of-war suggestion.",
-      "event_key": "us prepares post election strikes"
+      "reason": "Firing US military planner and Trump downplaying Iran peace talks signals breakdown of diplomacy and rising tensions.",
+      "event_key": "us military planner fired trump downplays iran talks"
     }
   },
   {
-    "title": "US tells Gulf allies to ‘brace for new strikes on Iran’ - The Times",
-    "summary": "US tells Gulf allies to ‘brace for new strikes on Iran’ The Times",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemtmV2dIbV9SbjdZakRsTEpMUFF0emNYRE9BdmFheXM5aXRjMFRlQUktdHc4SXR2aFNpSTZsSG1QUi01UXZ3Ty1DeUVqRkt0RUJwQ0FkdF9zT2hKZkdnR0U5VFVrbEUzckkxcTA4UTc2ZzV2MlRpakVqb2JKclQ3ZnY2TGdMNGtTVURDcncwV3UxaVdRSkNRam8zTklEZjZyRDUtOWRjcWN1ZGRUczFxTg?oc=5",
-    "source": "The Times",
-    "published_at": "2026-10-28T20:22:02+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 20:22:02 GMT",
+    "title": "UPDATES: US War on Iran, Day 245 — Vance Approaches Tehran for Talks - EA WorldView",
+    "summary": "UPDATES: US War on Iran, Day 245 — Vance Approaches Tehran for Talks EA WorldView",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YNjJGUkItQU1CRUNBXzNWa3NISzRacXVqQ3pQR1ZiSHdpVzV0dkM0RC1kX3QwUGZhV3p3b3hXeFQzeGtkamd3R0JWVFNFbjkxamFkRnBubjhOZy1sOFlrZ0pzc3NidXBMMW14VDdSaERTOTNx?oc=5",
+    "source": "EA WorldView",
+    "published_at": "2026-10-29T08:22:45+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 08:22:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "25766782ce7a908e9f23753cac2c1078965cce2a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "US official Vance approaching Tehran for talks indicates active diplomatic engagement.",
+      "event_key": "vance tehran talks"
+    }
+  },
+  {
+    "title": "Why US allies in Middle East are accelerating direct talks with Iran - South China Morning Post",
+    "summary": "Why US allies in Middle East are accelerating direct talks with Iran South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaG0zRUxlSTllUFVyMVU3MDBvRU9IR1hTamZjaUhRZFdjWE9YOWpUUXJsTHpJU1BrNlcxV0ZSLWd1eHhta3JOblltd2JHYVRzRlB6eDByZnBYcXdaWnhBbHdRX3ZDZG1DaFR1dDZnMGdlaHJ5NnI3cC1yQnQyVXR0LXkzYTYxeXhlMEZCMUo2VXJsWG0yM2FLVTFLS0NMUE5KQ2M5UnNXQWp4dGRjczNzTDc2MFFEYUXSAbcBQVVfeXFMTy03OHYwWGRVNnVwUTZGZzlBU25HNTF0SDlOYW9LQkV2em9WQXhULXQ1ZjdBR3BLNU04dEZYWGp2OGJPX1VpWTVSNVVTa1dHS2RDVGFMbjVhOXF0cTh4TWZ1Z1YzbmhFbkVYWGVOQkQ2ekNiSVZxSXF3eURvNnpiREpiQk5ZaExmcHppZjgxdGVxdU9MMnZTM0ZKSDRkV2l2ck15bVB0dThMVTFDTHJra2Rrd3JUYXh3?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-10-29T08:01:28+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 08:01:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9aea058bbd17c7121b1a8b795fd0b2aa3c588f4c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Middle East allies are accelerating direct talks with Iran — active diplomatic engagement/negotiations.",
+      "event_key": "middle east allies accelerate direct talks with iran"
+    }
+  },
+  {
+    "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy - WSJ",
+    "summary": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-10-29T06:59:00+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 06:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "54d14dd6243f95e1a3306a1174c819199a9c8a28",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.75,
+      "reason": "Market story about oil prices referencing U.S.-Iran diplomacy, not a direct diplomatic or military development.",
+      "event_key": "oil prices us iran"
+    }
+  },
+  {
+    "title": "Could the path to US-Iran diplomacy run through Moscow? - Responsible Statecraft",
+    "summary": "Could the path to US-Iran diplomacy run through Moscow? Responsible Statecraft",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wbVRlQkQydkdiWnNYZTdWZmF3Rng0cU5QclF4eDZYcHNMSndFT0pJaHNhaFEwTnhlOUhOR0R6YUZJbjhKSS1xNW5WWkpVZGtUMUNZNkVMcDY0MkFyTnc?oc=5",
+    "source": "Responsible Statecraft",
+    "published_at": "2026-10-29T05:11:16+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 05:11:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "22b440618850a1c65640e3fe58a2051dae6835b9",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.65,
+      "reason": "Article explores Moscow as a potential mediator for US-Iran diplomatic engagement.",
+      "event_key": "moscow mediation us iran"
+    }
+  },
+  {
+    "title": "UN Urges Diplomacy As US Warns Gulf States Over Military Campaign Against Iran: how 7 outlets framed it - NewsCord",
+    "summary": "UN Urges Diplomacy As US Warns Gulf States Over Military Campaign Against Iran: how 7 outlets framed it NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUV3TjJaT0tSbmFyQkxmbU1JVFBObmFTVVBsb0VFUVM5T2JPcld5aHlJWUtxNUNNbkZQYTVhTDdCektNaUdoWHkwSlpra2xjLWFhU0d4ak80N05YQ3QybU5vdlB3R2E2NURDekc4eWR3RTB6Yy1nejR1LXRCaXBjV0xXNkxvMVIzQjRWZi0wOU83a2dVVlJ5aGMtaWNSajd6V3lXaGJtMHl4dmRhSE9xQkxkM3BQTEZ6YUZLMS0tVzNIaENYdklGc1duZTk?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-10-29T05:25:38+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 05:25:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1d12387762ec3d9bd013126e46733a12ffeb8c52",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US warning Gulf states about a military campaign against Iran signals heightened tensions and threats despite UN calls for diplomacy.",
+      "event_key": "us warns gulf military campaign against iran"
+    }
+  },
+  {
+    "title": "Officials warn of Iran response to potential US action - NewsNation",
+    "summary": "Officials warn of Iran response to potential US action NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTRjZk5zVm9aRnhNTDRVTkJTNWZ1ZDFjRTFVZXRJclhvREY0ODVPTWI2eUhPclllZ3ZkWTgyR3piTWRVcm8xZlZacUlIaWkycVVyRGdFQVFtZVJVaGJsM1JvOC00d3N5dm1rclpNOWdHbEZjZzFhSElxZ2IxMTRJWDA2b0bSAYoBQVVfeXFMUFc4N2xiaVZfOXlpX2RSQWJ2TF9USDFqS1VuMm1zcjJvR3BUMmp2bE1pNW9FWG5ISTlSb0Q4bERaal9scTNHR21taEk3bVlCckt2dEt4Z1VKY3pjeHN6STBWTm1GQW9PV3ZLX3dtZGFMWFJqTHBOYUNYbTRmWjNnMU1aT3FlVXNiektB?oc=5",
+    "source": "NewsNation",
+    "published_at": "2026-10-29T06:07:54+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 06:07:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2e67901f5cdedaf390407247c86335e5c28411d8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Officials warning of Iranian response to potential U.S. action signals rising tensions and threats.",
+      "event_key": "iran warns response to potential us action"
+    }
+  },
+  {
+    "title": "US warns allies to prepare for potential retaliation by Iran if military action renewed after midterms - The Times of Israel",
+    "summary": "US warns allies to prepare for potential retaliation by Iran if military action renewed after midterms The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZjNDTGVmekJ5eXByemNhNnd3YUdSZUQwVV9Qa3ZnT2hXelVBQzRpeURNVERJV0NxelE4Z3UzOXcxeU4ta1piZXUwOGowdHZkWGwzTEoxVFpvYzNvMEp5cXZsTG9VVGZzUnd1cjJSaGtBZ3ZVZDVna2gxR3ZRb1NmdWxPWFIwMTJCeUdUQXZBaUJZdmRWdGdFeGFac1FIM0ZMRFBvMGR2U2NScnlsb1NlYjNCN0NVWkRMN1ZNLVBfbHBtMUVGdzYxSmwzRlpfZms5LURSMHpLVTdKd044NGlIdHVB?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-10-29T07:01:04+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 07:01:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d01844a45c6fd1aefff79fd725c70cc496705109",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.78,
+      "reason": "US warning of possible Iranian retaliation signals heightened tensions and risk of escalation rather than diplomatic de-escalation.",
+      "event_key": "us warns allies prepare iran retaliation post midterms"
+    }
+  },
+  {
+    "title": "US tells Mideast allies to brace for post-midterm Iran strikes and Iranian retaliation - Türkiye Today",
+    "summary": "US tells Mideast allies to brace for post-midterm Iran strikes and Iranian retaliation Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmhrdkpRSUNnVGVzTW54R05lSXcyaDNGUnRMSmJxdFlWdmJPU195T0VBUjVIaHhfek95NWV3RE9YNWdoMV9kZU5MTXJHeFYwbDFfSV9zWEpuWC1ZQnhlZXg2MUZxUWNYOW5yQ0xlZUYxbEhXWEdvY2xscnNUc05Cd2Mzd2ZySFBBSEZyTk9pd0xYR3N4cFp6dzRyUHVPX2tXUFM1RFRrRlBYX3QxV3NyM092T3JMOHE4bkR4b2FiVlFma3lzSVV6cQ?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-10-29T06:36:40+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 06:36:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0798e886e7643795f0b6508e71beae1b291049f0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US warning allies to prepare for imminent strikes and Iranian retaliation, signaling rising tensions and threats.",
+      "event_key": "us warns allies post midterm iran strikes"
+    }
+  },
+  {
+    "title": "Trump ready for fresh strikes on Iran? US tells allies to prepare for post-midterms attacks, says report - Firstpost",
+    "summary": "Trump ready for fresh strikes on Iran? US tells allies to prepare for post-midterms attacks, says report Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSkJsTExtNmZBWjRQZ0x5bGpha2FMT3c3UVY1VHBSbGJHQUxIYzJoWmNuUDlrRkRyWURFaG5RTHI1WmhINXBQU3dKSnI1UjZZQmVfa2R1VllncG94RlJnRF9qOVhSWDl1OEFlRThQQ2VDQXM0a0MtVlJiclhITFNCaXFOcDZITVhLT2pvemg4dFhpX2lueGlTcXVKNkdFUWNtRUVZLTc1MVptZkN3U1NlVzQ4RVI2SV9jUHpJemZkOG9id1lkVUJBTDdrZXNITndoNzBLSzhvUzA2YkpId0pPV0FB0gHnAUFVX3lxTE8yMHh2NXZmeFVNOHFsX0RSV3Z3OFo5Y3k1am5vZkJNaTVnTGlBenJIUmstWnFzdHNPVTVJVklza0ZNX01lMFpQSTFVajV0SG04SE4xMTJhdUhDMGx5M1V6Rk9CbjgyOVhsaXJ1TE9QMnNaTTVrNG5zcnFvQndFbHB3cDBHaGFDclBObFAzMWZZeFZlcjhHa0g1MndKUWp5YXBFaU5TVlJwM0ZLNlQySUtPblI0eFVvOFBaeXVsZFdkUExBQThFZGNfV2pCXzNTRHJQRnZrMDFSTzlpeGVsUnFpNGVXV3ZVaw?oc=5",
+    "source": "Firstpost",
+    "published_at": "2026-10-29T06:30:56+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 06:30:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ac4438c53301e341140a543b7d584875d87fbe01",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US warning allies to prepare for post-midterms strikes signals mobilisation and rising tensions toward military action.",
+      "event_key": "us prepares post midterms strikes iran"
+    }
+  },
+  {
+    "title": "US warns allies to prepare for possible Iran strikes, retaliation after US elections - Times Kuwait",
+    "summary": "US warns allies to prepare for possible Iran strikes, retaliation after US elections Times Kuwait",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1Jkem02R2RLSnYtOS0zRUlyUGozTUV2aFR6NElJSWxhcURybVhUSDlYcTFDd1U5ZWpDS0xqQ1VRc19GTzFSb3p1UHRjZXZteERTb3BjU2xsRU5WSm80a0lQdTlVR29jRUo1T21NWXdGc1g0ckZKM2RUVElEMW1jLTNZUTNqNTRZVVc1cEVncUIzQ2dHR01rMnQyaEJRekxBdmJJNFQwSUZhZXFj?oc=5",
+    "source": "Times Kuwait",
+    "published_at": "2026-10-29T06:39:44+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 06:39:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "44a78a1a9e9a639173f95cdc98f9d4ce6b16e503",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "US warning allies to prepare signals rising tensions and potential retaliatory strikes after elections.",
+      "event_key": "us warns allies of possible iran strikes"
+    }
+  },
+  {
+    "title": "US warns allies to prepare for possible new strikes on Iran after elections - United News of Bangladesh",
+    "summary": "US warns allies to prepare for possible new strikes on Iran after elections United News of Bangladesh",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTHpGY0FhcWtTLUZTV0pfdUxMUzhtOGVKUnd5RFRiNlZWRVBOY0ljdGVQZWdFMnpPdEd1QmJiTlNwemMxVGdWQjE1c0NpMmdJUFh0NlFtY08yXzBzOU84Z3RsYkZvc2tVX0o2VkZWSWNoMFBrUW1RdWhIa3ptNnAwSFVZRy02N3RwVEdlaDY5dG5nc2JuaENjV2x5V3JtOENBc1N2QzhlY2NSOERMRUFGN3NlNExLUDFQcHJiQUhFa0I2WklqaHJSQTJYYkN6T2tNc2c?oc=5",
+    "source": "United News of Bangladesh",
+    "published_at": "2026-10-29T02:33:48+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 02:33:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0e24949aeac547ead3d7f340355c2914c2afbb97",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "US warning of possible strikes signals increased tensions and threat of military action.",
+      "event_key": "us warns allies prepare strikes iran post elections"
+    }
+  },
+  {
+    "title": "US Warns Gulf Allies to Brace for Iran Strikes and Retaliation After Midterm Elections - Arab Times Kuwait News",
+    "summary": "US Warns Gulf Allies to Brace for Iran Strikes and Retaliation After Midterm Elections Arab Times Kuwait News",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDZYWTllODF1WDM4U3pBQm8zT0NZSEFXSnZyUFRydERGdUI0eVFpTXhydzVBVXhGZ1dlXzh2V0pEbUtFSTAyaktFTlRPc1FlMnFUQ3kwdzBVLXFHTURyWnd4dzJ5YWUtU2ZIRDFhMHV2cUhRcVBQOGhrNjZRTm5taXNlMjhCRGJDRzlsUWR5cEpXNmRtZFJZZm9GODQyeFlySVhkdGhqWDlRMENMX3F1V1J3Yjl3Y2VmZ1d5bVczXzJ4Zw?oc=5",
+    "source": "Arab Times Kuwait News",
+    "published_at": "2026-10-29T04:24:25+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 04:24:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ad832e43d8be3eec51ec214bb41ee16267866b6c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US warning allies to brace for strikes and retaliation signals rising tensions and potential military action.",
+      "event_key": "us warns gulf allies brace for iran retaliation"
+    }
+  },
+  {
+    "title": "US to Gulf States: Prepare for Short, Intense Strike on Iran - IranWire",
+    "summary": "US to Gulf States: Prepare for Short, Intense Strike on Iran IranWire",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnRoTWxjU0lGNEJuZ29rNHdzeENJdzZndUhfY05Scm5YVEg1akJVM2FzVGZvWGNxc1hhcG5qVWYzNXBqRjBtWnRJYVR6NzE0MTJPN3FFQ0ZkVEhTUFdtV1VGRHhjbEpnR2Y1ZjM1Q0U2UlpDc1RKTzNIclRMaVlhWVZRbkNJN3l6SnBIV2R6TndHemlJTG4wb21FMA?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-10-29T08:56:25+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 08:56:25 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8de88aecc084cceb889f4ce42b17267e1b7ef6c1",
+    "article_id": "c398eed2f49fafa91e254e5cbeb28e13fab0aff3",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "US warning Gulf allies to expect strikes on Iran signals a threat and rising tensions, no confirmed strike yet.",
-      "event_key": "us warns gulf brace for strikes on iran"
+      "strength": 0.85,
+      "reason": "US warning Gulf states to prepare for a short, intense strike on Iran — a clear threat and escalation.",
+      "event_key": "us warn prepare short intense strike iran"
     }
   },
   {
-    "title": "The United States is preparing for a new war with Iran after the election, threatening another surge in oil and gasoline prices - Українські Національні Новини (УНН)",
-    "summary": "The United States is preparing for a new war with Iran after the election, threatening another surge in oil and gasoline prices Українські Національні Новини (УНН)",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjY1NVZ3eEFrN1F4N1JyZ0ZLeUgyU1BwejA0ZDU0enU5bVJWd0ZaeHhmR3FQeTVvdmlYVG9kLVQ2U2VFcVZPbFpjVHdmX2FPRjQ4LVotcXo4UkdwQjFnc01TR2ZMdk9hY28yQUxxT01reVZXMzlWMFdxWXZTaHhETWZ2MktVaERXd2JGSzA1cnNQWmo2andpWXc3X2xfNG1nZWthVDFaSzhMN3drWV81dXNyUHdjVmNOeVRhZGJOYjJYSVM3VW90OS1kNlBsS2lCTWpKOWstWjZVWUlkRXc1eG5wc9IB4gFBVV95cUxPeDNQeHp1d0pkUzRTdUFrTW9wN1laUHZWVXdSVEJOSFVlbHNSQ1pKMDJ6NUZRWmM0eUFLY0lEcXNRS2IyUDZQcV96VURwZFVadFRnTkNQai0zMW9pQ0FRcDZHQ1FVbGtyZVBuNUhqVDdZZUM4TjJ6VTdwdThXZzlQMlg2VUgtek5MNzA3Q2hnOXJJcmxtVDJ0NjNEdWJTR1UtNVYxQktsamFSQzVGV1BQY0ctb29JY2UzeDZ5TlFNQ2VZWlYzdmNfdzF3c1pZZWdmeE9kc3VXQklMdmxLZ0VqOU9B?oc=5",
-    "source": "Українські Національні Новини (УНН)",
-    "published_at": "2026-10-28T21:35:01+00:00",
-    "raw_pub_date": "Wed, 28 Oct 2026 21:35:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a1cc83e3b1ff18ccd433d5249cfe67d906327a06",
+    "title": "Washington Postures for Potential Escalation in the Conflict with Iran - The Soufan Center",
+    "summary": "Washington Postures for Potential Escalation in the Conflict with Iran The Soufan Center",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByN05wcXZYUXc3NnItekxJRGttenZ2Q0tqUXlpWlBXaFd1X20wV2YyMDJmR3lvTnFhRVhEYWh0MFVQdHYxUjZ2SEg5bHQ0MGU2blBCMS16VmhTVEN6RFR0SEFFaWIwZw?oc=5",
+    "source": "The Soufan Center",
+    "published_at": "2026-10-29T04:05:44+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 04:05:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5bfb66754b0a7a76e72631f749a9dd06f43241da",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Claims the US is preparing for war with Iran, signaling heightened tensions and threat of military action.",
-      "event_key": "us preparing war with iran post election"
+      "strength": 0.8,
+      "reason": "US posturing for potential escalation indicates rising tensions and preparations rather than diplomatic talks or strikes.",
+      "event_key": "us posturing for potential escalation"
+    }
+  },
+  {
+    "title": "US reportedly warns of renewed strikes on Iran after 2026 midterm elections - Fox News",
+    "summary": "US reportedly warns of renewed strikes on Iran after 2026 midterm elections Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByYzJSTXdGSmNwU2lCajAtN1U4RVVfaHZtT2s2ak9LMDZqOUxNekdiOHBDRVRWSEFweDJZZjd2bW1RZUc2ZllzZ2dDOVBrOXR4UzZ5bmt3?oc=5",
+    "source": "Fox News",
+    "published_at": "2026-10-29T03:28:32+00:00",
+    "raw_pub_date": "Thu, 29 Oct 2026 03:28:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aadbe9eb20ee47dab92ef265e4a9a58ab5e6e86b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US warning of renewed strikes on Iran signals heightened tensions and potential military action.",
+      "event_key": "us warns renewed strikes after 2026 midterms"
     }
   }
 ]
