@@ -1,138 +1,291 @@
 [
   {
-    "title": "Internet disruptions hit Iran amid prospect of renewed US strikes - Iran International",
-    "summary": "Internet disruptions hit Iran amid prospect of renewed US strikes Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-11-03T21:36:54+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 21:36:54 GMT",
+    "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes - Al Jazeera",
+    "summary": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZqTGJfa3lWVVdvUzRRRUc3TlVVYUNFMHhkWlREdDZsYUFzSmdJVjBhcU9PaEptVWRxRm9QMnRGcmpkYkNHVXgydHhJYTd6X0d5dF9JMG1vc1dVOWtBWWxBUTB3VjhkZlAyUEt4cGhPUlJIRzR2cFhkdFVoOEc4SkRkM1FRQ0FpblBPZHh5S3JKMl9zbUhjeUlVazhmdkJ5QjRaUXJ6eV8taGNpV3lv0gG0AUFVX3lxTE1qMndoTmRKR0xGNDZnMVJYWmdselZrTXdiXzFKVjgwQW9OZ242eHJDWFlMa2x5MU1mbGVGdFIwV2V5Q2V2OVpfYmtfd0RLUnhmN01vTjZMdHgzVnVaMlZfelBSajJHOWVJOXZ0UTlQZEMwR0RsalU2bThPekFSRDExWG9KUUVMdFlVSFRPNTgteTdyNGxZMmhCMU9aUjU1SnNaTWJETmdSTlFyeHUwQmRUOGpRMw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-04T07:35:38+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 07:35:38 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d1276409fe8f78eea037378414bbc9caf622dda1",
+    "article_id": "d6295dd02d43a08b019c6b5bd86a66f0ff3e77a9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Trump confirmed military strikes while Iran called US response unconvincing regarding Hormuz plan.",
+      "event_key": "us confirms strikes hormuz plan"
+    }
+  },
+  {
+    "title": "Iran Rejects U.S. Negotiation Draft, Expands Threats to Europe - IranWire",
+    "summary": "Iran Rejects U.S. Negotiation Draft, Expands Threats to Europe IranWire",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHppdUFVemZXLU9mN2JTUXZ0ajVKWkxTWTRsdldyR3c5ZXFkZkh0MW5vdDd0ZEM2UDZqRkdWMjM3RlYxR1gzczlGb2pxbXFKb1ZxamZWV1R6MXU0Ynp5NUE3N1MtSFgyNnNzeG9PRm9tUUp5YWhSN2ZpeUptYmVHM2xKWFl6YTNkcEpJa3VsdHE2SHd6LUh6QUVYblM?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-11-04T10:11:23+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 10:11:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ab3af28ba01293c8ecb53352c8ec5569ccc7b881",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's rejection of a U.S. negotiation draft and expanded threats signals rising tensions and breakdown in diplomacy.",
+      "event_key": "iran rejects us draft threatens europe"
+    }
+  },
+  {
+    "title": "US has no immediate plans to strike Iran but is 'locked and loaded,' Donald Trump says - The Jerusalem Post",
+    "summary": "US has no immediate plans to strike Iran but is 'locked and loaded,' Donald Trump says The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01dHUwTm5ZYmVBZ19kMzVITlBod19LUEtlT2pYVVJaTVJTNldTZ2tOWGZJSl82ZFdvNVdsMWVKQlpSZlM4REZqcFdwS3cxOG05RVdselFCTk5tT0JRRmJMLURTaVFCNkdJaEE?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-04T01:18:28+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 01:18:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e57aa5e3a7c2b885a67dd712a2bcbe679bb0addb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Threatening rhetoric and readiness to strike increases tensions despite no immediate action.",
+      "event_key": "trump locked and loaded statement"
+    }
+  },
+  {
+    "title": "Who determines Iran’s fighting and negotiating position amid US threats? - Al Jazeera",
+    "summary": "Who determines Iran’s fighting and negotiating position amid US threats? Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTB0QV9yODh4YVZfbzZxU2gwUTF6eE53UHNYS0xxNS1JSURSZGd0TG9MQnVoVFVlLU91Z29KZ2NDbW1iWm52N0RCS3IyeV9NYkptZVppbUFCS001RHVRZHQ0YnhpYjZXQl9wVU5HcDNKM3pRUGhHMGpFeVNvazY3dzRmQVRYUDUtWXhLMzFrNDZ6cnA2UkZ1dTZOWVdLYXotQUhsV19QdEdjOW0zeU1CWtIBtgFBVV95cUxNYlQwSEVVRnBZNHRYamt1aUxhcl96Z2JtcjdjTlg5eFVhdEwteDlTOVFwV05ybGJ4MElIcW9OcmpOaEg0UHJHdEo1TUtxN2M5Nldoa285RGc0RWZKSUVZY1YyVkp4aWpjWm5SbmdpRWtuM2tCS3dpdjVHWGtzSXRQbG9sTm1Yb0o1d3FkTEt6cEdBdHNJNjJuLUZPZF9taFVtNmw5eW1TaTMwbUZLbHBDbGFMS2EyZw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-04T09:32:36+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 09:32:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f04cee8ebd5ad4e475a2f7f396105bac905be5b4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Analysis of who shapes Iran’s negotiating and fighting stance amid US threats—focuses on diplomacy and negotiation dynamics.",
+      "event_key": "iran fighting negotiating position"
+    }
+  },
+  {
+    "title": "US strikes Iran hours before midterm election - DW.com",
+    "summary": "US strikes Iran hours before midterm election DW.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONk1DSmZYZmRhS3lZWWxtTTlKWjNsdDlSTXJ4RFE0Y3JVUXlwXzl2UVlqTnhPdHU2akRyd05rNXJBWWxmT0xGU0RmYkhGRjhZaTRRMF8yODFidkdjOGtoajZLQTNKOGg1cnA1V29mcC0yNS1ZOHRkamJYajhWN1hkRVhsd3kzOGozc1E?oc=5",
+    "source": "DW.com",
+    "published_at": "2026-11-04T03:50:25+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 03:50:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e15ddd7be0dbbf739bf97a1afdbdc1f19130488b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "US conducted direct strikes on Iran reported before the midterm election.",
+      "event_key": "us strikes iran before midterms"
+    }
+  },
+  {
+    "title": "Iran looks to China and Russia for leverage in US talks - Iran International",
+    "summary": "Iran looks to China and Russia for leverage in US talks Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxSHYyamlQdjBNMEdXVTc3YTFHanoyanVQWUFrR2sxWlNxdzhwcXVnbE5zY1FTWDZnREN6WFhFSG9JbXZVNWFyMTVSNUpqSWdVWUE?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-11-04T04:08:13+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 04:08:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "18c170db26e9b74bb849dd0b81b2481eada40843",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Article describes Iran leveraging China and Russia to strengthen its position in talks with the US.",
+      "event_key": "iran seeks china russia leverage in us talks"
+    }
+  },
+  {
+    "title": "Iran war latest: Trump says no immediate Iran strike plan but US 'locked and loaded' - The National",
+    "summary": "Iran war latest: Trump says no immediate Iran strike plan but US 'locked and loaded' The National",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUJpWFN1Mk9MR1J5dGYzd0xld25oanpjSXJvcS1jQWhVY2tBUi1iY2Q5Z3RUZW9Ia0hkcURmMHhoM3VvU1ZrMnRzcHM3S093cVNGQzdvR3NoRERIMmkxUWpuYnJaODBHU1pfTFNjNGk2WTdVNFRrVU5jUFJza19TUS1Mb3JWQTk0M0E?oc=5",
+    "source": "The National",
+    "published_at": "2026-11-04T08:08:39+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 08:08:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "965bb106a08cfd73225fcdb17da3e624c18e8c0f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Reports of internet outages amid threats of renewed US strikes indicate rising tensions and potential escalation.",
-      "event_key": "internet disruptions amid us strike threats"
+      "reason": "Trump's 'locked and loaded' warning signals threatening posture despite no immediate strike.",
+      "event_key": "trump no immediate strike locked and loaded"
     }
   },
   {
-    "title": "US has no immediate plan to strike Iran, Trump tells FT - Financial Times",
-    "summary": "US has no immediate plan to strike Iran, Trump tells FT Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5",
-    "source": "Financial Times",
-    "published_at": "2026-11-03T23:34:36+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 23:34:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d225865b2d88c90d04c4d5adc530eb666a7b9af9",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Trump's statement of no immediate strike signals restraint and reduced immediate escalation risk.",
-      "event_key": "no immediate strike statement"
-    }
-  },
-  {
-    "title": "Mohammad Bagher Qalibaf Says Iran Delivered Strong Response as Qatar Mediates Iran-U.S. Talks - NewsCord",
-    "summary": "Mohammad Bagher Qalibaf Says Iran Delivered Strong Response as Qatar Mediates Iran-U.S. Talks NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSHo2ejY3QlpKRVlZQUY0c3FpalNIaUg3dTF6VF9DNjZLVnpHRURETGcyVUJ6ZDg0cHhEQVlRYjNFRDJLSDEwVUh2OUVCSnNFYkY4YjRfYVdOUEhGSnV1VDN6cTdNbGhaNkhEQlFGZHc0Z0FSc1ZfV2RzQzFCc0lQV1NTQkJnNHNxemRXd0VmeG4wZEtTcDRkTHBnNEc2N1RPUmgwTi0yLVIzZ3RRU1M4eVVhNU43blpiY0hRWWpMc08tZ3hjNEluYklDMUVKMEk?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-11-03T23:22:54+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 23:22:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "388130cabee422d3da6daac14c7ef7c1590f9cfa",
+    "title": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm - アラブニュース",
+    "summary": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm アラブニュース",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1FxOGZRWE1reUZ5Nk01Q1hvY3RSYjdENUtCUWkwWEJCemtUdUM5YWZ4clYySFhsVzFyV2NDWUVGTnRZMXdJeUVuNXcxTlZNOUlXYVVHTWJvRlFXQk0zTXVVempQSU1mXzN1RDg2M3UxNkZMRUkyYTVES1VVX0YxS1JrV2o2aHI4R25VQmNyTllKdl9pV0dnRGdqc0FUaU1YUFJuOEVuSDVGZEZZajhDdzdXdmk0VUVuRmpRMVdtNjY?oc=5",
+    "source": "アラブニュース",
+    "published_at": "2026-11-04T10:19:55+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 10:19:55 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "119947dab40b69d2768cc431ca7806c85d73a030",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Qatar mediating Iran–U.S. talks and Iran reporting a response indicates active diplomatic negotiations.",
-      "event_key": "qatar mediated iran us talks"
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Article reports Trump confirming strikes on Qeshm—direct military action amid US-Iran tensions.",
+      "event_key": "us strike qeshm"
     }
   },
   {
-    "title": "US prepared to strike Iran as early as Wednesday as Israel faces election chaos, diplomatic crisis - Ynetnews",
-    "summary": "US prepared to strike Iran as early as Wednesday as Israel faces election chaos, diplomatic crisis Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmOHo1WGxFMXRDcVc5SGxMemFCc254dFlFZWk1eHllQjdZS1FJbVBFWlVUSGJaYVctakJ0SVNCdHd5TDhoWWwxQWJPN0xoYTg5eVBxTkRR?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-11-03T21:41:40+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 21:41:40 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e9bc417833d7beb9076f221e55be9711dbd38850",
+    "title": "US strikes Iran on eve of midterms - World Socialist Web Site",
+    "summary": "US strikes Iran on eve of midterms World Socialist Web Site",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WXzRib3RVQVRZYjF1cy1LZnE2Vm1iQ3V1QmhhMzFZVkh0MURaU0lqaU51WkI4T2J5MzJwN0JKRkNyZ1p3OXhRdWxiUEZ2YURBellMQjRXM0ZoaW9YaUtqbkRkc3cwSG5a?oc=5",
+    "source": "World Socialist Web Site",
+    "published_at": "2026-11-04T06:18:24+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 06:18:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ecea6c99c10a14097540930e7b7e57da4defba7b",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Report states the US is prepared to launch direct strikes on Iran imminently.",
-      "event_key": "us prepared strike on iran"
+      "reason": "Reports a direct US military strike against Iran.",
+      "event_key": "us strike on iran midterms"
     }
   },
   {
-    "title": "US has no immediate plan to strike Iran, Trump tells FT - Reuters",
-    "summary": "US has no immediate plan to strike Iran, Trump tells FT Reuters",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-03T23:51:45+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 23:51:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "146c6e223fd069d8f0802d8edcf3020c5653ab18",
-    "source_weight": 1.15,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "President Trump said no immediate plan to strike Iran, signaling restraint and delay of military action.",
-      "event_key": "us no immediate strike statement"
-    }
-  },
-  {
-    "title": "US Continues Strikes on Iran Despite Trump Claims That War Is Over - Truthout",
-    "summary": "US Continues Strikes on Iran Despite Trump Claims That War Is Over Truthout",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNi1QTUhmV1BaeU12cUE3TFJkVUlZMy1PYmVObDUwU0t5dDc1czRxUEE3LXM4ZUxvN19IRENPeDZWNVFJV0hlTDV0S1diQmQyMVdNRWktRnF5NlE3ZG5qUUlGMWFzX2MxYmN5LTgyRUJsU09reWktSzRDWF9kclZESFJCT1gySnF3b0NESHpoOWZqSGd4Qzh4bnhKLWVKZw?oc=5",
-    "source": "Truthout",
-    "published_at": "2026-11-03T22:24:20+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 22:24:20 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "955f1d6baa7edb1dcc5c56f634be7c01f4e76408",
+    "title": "Iran will strike Europe if US uses its bases there, MP tells Euronews - Euronews.com",
+    "summary": "Iran will strike Europe if US uses its bases there, MP tells Euronews Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd1VuenFpb29Sc3VkYVJkQzJUM2o2Ti1iellaSXBya0ZrS011bXQ0cTZDUFBlZERMMnItc3VNTG9OUXpKY24wZHd1d0Z1YldYQ0I1NFJ1bGJINTBfMy1SU0gzR1Zvb1YyTWEzTkJsZ21DOHZhY0dDNmV4TERhYmNOWUc0N0dfa0ZxYUMtVUJCSmhORGdwOFZ4SEtfc2lWd3JTZGFydVpWN0JsaUtmdlJkTks0OTRRV0taRmx1ODJybGgtdw?oc=5",
+    "source": "Euronews.com",
+    "published_at": "2026-11-04T10:03:28+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 10:03:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a76c8e469c4676ffaaec00fa9167ffde388d9b0",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.85,
-      "reason": "US conducting direct strikes on Iran despite presidential claims the war is over.",
-      "event_key": "us continues strikes on iran"
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iranian MP threatened strikes on Europe if US uses bases there, a hostile warning raising tensions.",
+      "event_key": "iran mp threat strike europe if us uses bases"
     }
   },
   {
-    "title": "U.S. launches new air strikes on Iran - CBS News",
-    "summary": "U.S. launches new air strikes on Iran CBS News",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMldjSlBjblJRdUxpblcwenpWekZGRGRNVkkwaDEteWN2RFVUVXZUb3pMZElybVZiNVJwaFpKcERMblN2U1pOblZkc3ZEa2NKQWFCVjZwSFZMLUQ1bFdHZWhwc2xrd0VXUEpyenV0dXdUZlAta0JYU0lPN3ZDOGRFNg?oc=5",
-    "source": "CBS News",
-    "published_at": "2026-11-03T21:50:00+00:00",
-    "raw_pub_date": "Tue, 03 Nov 2026 21:50:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "abfd52890750d53795c71884528fcba5a9fcafe0",
+    "title": "U.S. Jets Blast IRGC Missile Site on Qeshm Island After Iranian Forces Fire on Aircraft - The SOFX Report",
+    "summary": "U.S. Jets Blast IRGC Missile Site on Qeshm Island After Iranian Forces Fire on Aircraft The SOFX Report",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkNrTG5nQkFkT3hCOUtEWTBqcUIxeDcxaDF1LTJiY0wtSVhtN0ViTXpPT1JFUXFCd2JQVVkzclBVdkZ0a0pXSHJCeXZXMFhHaVU2TnFlRW5SYnZCcGtOSW5ra3dCb28xS3BBakFwb21vZzV6MWhTVEV5MnE4X0Q5T1F6T2hSYlplc2dWakIzd21TU3lvNmNDSGNjbWR4LVlsSkFFY200dC1ZeTRZ?oc=5",
+    "source": "The SOFX Report",
+    "published_at": "2026-11-04T04:36:07+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 04:36:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cebfb3077b609d7864b295836539be3e15dfe317",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Article reports direct U.S. air strikes on Iran, indicating immediate military action.",
-      "event_key": "us airstrikes on iran"
+      "reason": "US conducted direct strike on IRGC missile site in retaliation after Iranian forces fired on US aircraft.",
+      "event_key": "us strike qeshm irgc missile site"
     }
   },
   {
-    "title": "Watch: Qatar working towards 'interim deal' to end US-Iran escalation - Middle East Eye",
-    "summary": "Watch: Qatar working towards 'interim deal' to end US-Iran escalation Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUcydmZHLVRNczBNU1VKc3FWajFzaFVzVDdsLUlJaFVjazZGd2ZEQi05eEFNdW9EM2EtVVlkc2EtRk1aV1lfTTEydmpILW4xa1ZjRUZUcS1abllXV2FpQlhuMmtuSG96MlN6LUw4RWF1TGh5c25xNkJZb1dxT1ZlWWFubldUR2prcnhWdTFOTFhJcVhXM3Z2Q0xEZGgtY0JEZHktcGVIMlFwbzdQV2I5N1dmUDdCRkI1OTlMMg?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-11-04T00:24:00+00:00",
-    "raw_pub_date": "Wed, 04 Nov 2026 00:24:00 GMT",
+    "title": "Despite calling Trump a “man of peace,” Africa’s most powerful leader issues chilling warning to the U.S. and Iran over what may come next - Business Insider Africa",
+    "summary": "Despite calling Trump a “man of peace,” Africa’s most powerful leader issues chilling warning to the U.S. and Iran over what may come next Business Insider Africa",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeUpUb2Z3UVdqSWQzaGVlTTRXQnF0ZVNXYjlicERvSFhEYWxwMWtRSTdicmlCSkk4a3d3X1lBOUtGb2F3Y2x3X3hvZDZXek9vZW05NDQ3c004aDVwRnUtNlJOQ0laMTlQNDhteG1QbGU2dHFmUDBQZ1U5cWhTbFFKY2hnLXhKVnhzMHJoSjE5c180WUZ6V2daRkgtR2Fwbmh0ZHJfb01TYV9JeG5JTVhaeTNiUlZPTmJqT3pDMUJ2dkNJUF92QTJSZnpHY1JuQzlUSXl4VQ?oc=5",
+    "source": "Business Insider Africa",
+    "published_at": "2026-11-04T05:00:00+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "34733c7810eec39869eb8666eed4ff1bc3db3784",
+    "article_id": "4465d9430264a903121f1bacc536b3acc7c1f87f",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Foreign leader issues a chilling warning to the U.S. and Iran — a threat/hostile warning raising tensions.",
+      "event_key": "african leader warning us iran"
+    }
+  },
+  {
+    "title": "Iran says Indian ships can cross Strait of Hormuz as tensions with US escalate - Open Magazine",
+    "summary": "Iran says Indian ships can cross Strait of Hormuz as tensions with US escalate Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQW1PNXdzRzdlTU5DUWFrSi1VZUtBUjFtcTBIcnlacDBJbHhOZFdld3c5eERwdFVyOGFNekVfUG9HeHEzdTY2bHU2aDBWOERSMzJhc2lzR3pyd05mZ0hCNGNlbE8xRHhmZU52Tjg0NFRxNWduTzUybDdiWm1hNkpLaFZJeFVaTlBFZlBjM0xNMjF1SzZZNHBjZ2xjTzFzTkxZT0p5TlRVVDlKdGMwU3dZcG53?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-11-04T10:15:33+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 10:15:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6fbdae7cef5705c74b334019437e43d335d9ff46",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "Headline frames rising tensions with the US; Iran's allowance of Indian ships is reported amid escalating tensions.",
+      "event_key": "iran allows indian ships amid us tensions"
+    }
+  },
+  {
+    "title": "'Americans said no to war': Iran on US midterms as Trump admits conflict hurt Republicans - The Times of India",
+    "summary": "'Americans said no to war': Iran on US midterms as Trump admits conflict hurt Republicans The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcTR5Tnp2aDE0WEhyYnVVcWNHVkdJdkRlQzM0dnBMYmhCMFBPWTZPTTNLVlJiVEM3Tm1Gd2FYUzVyaDdESEk4TlBDclg5WVhFZ3VZaUV3TGJUaTNkcm9HT3pTOTE2blBUMEg5VlBKWHJwelZSRVVVQWJTUGVSMmJzYkFvZ0l6TnV5NXZCa3FIRVlWMHJzTDlHQkwwT0tMRWpsVXhRLTlQNWIzV092QUg4c2RxajBIQml2c1k4LU1qOVg3eE0zNmRQYUpOdTFjdHQzeGJkZDVfZkdJVFlHWG14aVJGcEczNl9RVGYyZXc4SEZTd3d2djVqWVpB0gH_AUFVX3lxTE1tLXRRTVJ6bXhUWDFWNGJCR0FKSWN4Q1hweEY5T3BNU19YV0tfRGk3Nm9idm11ekhmNTI0MUxxTzBweDNFbkFpSXhwRl90Y2pxQ0hldjdZQm5FcHVoX2MzZklFZks2Zno0NGJRRFBOZElDVmhIalNzMFZDdlJnVFBpbWE2REhfU1A2QjZXYUN4LXlUQnhiWlR1WlFmb2Rqbmg2N29IMm5XTkEwanZTNzJSZGZ0REJMSlpmcmFoX1ZObTVPM1pRTXF0bm1fMTBfRGtrYWVFVjdMbEpBckltdHFIc3lxTlhNSTNiTWVLMi03TGZCMXpzWHBWN296VGtZaw?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-04T06:22:00+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 06:22:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "990827139ceddbc1c9f9f03ed004283447a811e4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.9,
+      "reason": "Discusses Iran's reaction to US midterms and political effects, not military or diplomatic developments.",
+      "event_key": "iran comment us midterms"
+    }
+  },
+  {
+    "title": "The United States has developed a plan for new strikes on Iran following Israel’s warning about the possible use of chemical weapons - Українські Національні Новини (УНН)",
+    "summary": "The United States has developed a plan for new strikes on Iran following Israel’s warning about the possible use of chemical weapons Українські Національні Новини (УНН)",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXMzTUNOdHUwN1cyMlg0LU9vMVZrRVZpRHNqdy03bFhzVHFlS3o5V2ladWZhNmN3cnZ1dFFDaGZ2SlZ2ZVBsRFNsZVVacjFPWFF5bmF5c2IxNkw3X1pYOGxGVWZOX2lEdzhzeTdOM1JvUUctQWJlb1poN2FEZktBTVpWTkNudTdkZXVXZE1Xd1ZZRVdWZFBCNWhsb2dHcjc3UFI3dDBqZ3hKN2ZWR0ZadlExM3V2V25GRWdCX2FjMmJSc1VtWmRBME45alMzUTFRLVZ5OEpsTmVEQjlXeDhQc05UcWJ3UmlQS2fSAegBQVVfeXFMUHI5RWlVdFZac3RNNUdTUER0Vm5IVFE4UHZNNGItMXBXTFVnZF9GT0xsS0lsSUZsWERrTTl6MXpvSmp2WEhuZ2p3ZmVRLW9FSllJdS1PUDBLQ0VCTGQ1a2tjQUhjdUdMOTlXOU8tLUlhWGNXbjZIZjk2NHhYNVFla0xBUW5NNERoZmxBYmViUUNBeFpxcHhxdmhNREJSVFM1enBBRG9aMDlvYmstSEtvNDEtUm4xUlFjV0dwTFZBdF9uOHlsZU5HMVVvMUliZWJ4Q0dDTlpfdFVyb2ExWnlySWlHdk9LNDFXeg?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-11-04T01:16:14+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 01:16:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2623dd2f3aea853f19db9d11d568037a04145cd5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US developing plans for strikes against Iran signals military escalation and increased tensions, not an executed strike.",
+      "event_key": "us plans strikes on iran after israel chemical warning"
+    }
+  },
+  {
+    "title": "Iran Declares 'Total War' On US & Israel; Tehran Threatens Global Oil, Energy And Military Targets - The Times of India",
+    "summary": "Iran Declares 'Total War' On US & Israel; Tehran Threatens Global Oil, Energy And Military Targets The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSDN2N3JMZGJJeGppMlFSR2U1U2ZsQi1XOUV0b1kydTFzZ01famo3X2VycWpfQk10YUpiWUxuVGRPdEtGY0dHTHgxZ3BPZDV0YWxEY0JTNmUyN1lyZ2N3NkpJN1llT3pwbDBPaXg4U29mSWtjc3BJRW9DUFNmU1dvVGc2TzM0dFR1WXdjY2hkSDNlTG5jNWNGWHRaMDJZRVM4bjJTU3gxbHFEZWNxOTBzaXcxQlBWZzl1ZTJQR0hBczRPVHNtWkptaXNTZU9QbF9vVl9PM1hZQ0FHallYcExycFh5TmVnM0FWZC03ZkhQUGhBbDNHQ0Q0enFRanV6RDZ1c1Ew0gGIAkFVX3lxTFBwOFRESmIzWnN2VlJ0ZkwwbHV4VVNWWFlzcUlhazNpZmJlLTF0NUx6Z2lQMzg5dXpVSjZ5M29uZmUzSnBLVFpfemxsYnh2YU0ybTVBM3h6YmlTVEE2WXJ2bjl3TUw3bWRxajUyNTF4UDJGX0Z4TXY3N0wwZkNIYlo0aDMzTmdBQmktZmRUeWVHYmRYNlJLUjVIT0lLdTQ2aDNubjVBWGZONWJTWlpick1lcEZHODB0Umw5N2JIc1hQQVI1ZTItSW9nRVl6RFFIdXFraW1jbkdVSGx0X25XNWtYbGNPVlVrLTl5eERzaFl6ZmVMSUhMZ0RhXzJnUTE1VGN3dmk1blZqSQ?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-04T06:54:01+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 06:54:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fc64beb1a68cb811175f479d42d9fa612dba7423",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
       "strength": 0.85,
-      "reason": "Qatar mediating an interim deal to end US–Iran escalation indicates active diplomatic talks/mediation.",
-      "event_key": "qatar mediates interim deal us iran"
+      "reason": "Iran's declaration of 'total war' and threats against the US, Israel and global targets are hostile escalation.",
+      "event_key": "iran declaration total war threats"
+    }
+  },
+  {
+    "title": "Trump rules out immediate Iran strikes amid US Midterms result and Netanyahu's push, repeats ‘locked and loaded’ warning - WION",
+    "summary": "Trump rules out immediate Iran strikes amid US Midterms result and Netanyahu's push, repeats ‘locked and loaded’ warning WION",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNemc4MEdDQldMU1ZlLVhkNGd3R0xrNTNSYkJma2xPLTZ6Y2xzVDgxUWVxUFNYM0Mzcm1BRUVyeHhRdVF4WmhtR1BicUNvMmQ0SFRRZi1iUHJtQTJCZy04aG9hRDBHMHE0YWUwZzVCOWJmWnBOMVY2T3VwZTJGVVBiWW9ybmkwVWVEMVpJS01yTXhRWHZPNUdOYWdIUUhUOFpqaEc4bERtd2FRWmZMYkVYUTZjT0hjVmxuS21fTVpZMkNCN2FZWU9XWUpFZk00ams3X3gtd1hLbFdXUmVwTExnS2d5UkhnSWhJQ09QclpmbzdmUjTSAfgBQVVfeXFMT3VSa1NLa2NVbGNtS29NMTJpR0lhSEdnNG9BZW9KRm5QVE1MeHBxVEtWcXNIMEVQZjBIRy1QbzNkUXJQaWwxaTh3eE91TExsQVY4ZzJtV0VSRy0wTTY1bllyMkM5cXlzeGZnZF8yYllIR2FNd3ZMS2xaVDltRWZveGZ1QmZXWEhkRHZVLTMzNEJoOWVvS1pGandISWpNcUZaNHJQVnlnYkxlaUNyUnJZRElTejZtUnpUeVB2ZVpaS3RzMjlKRU9LYnZOeWd3VmR5M1RKZlAxcFVNRzlySkUxSS1aWjVvb1J6bkRZOENycTJJeE5ZV2ZSTWo?oc=5",
+    "source": "WION",
+    "published_at": "2026-11-04T01:48:00+00:00",
+    "raw_pub_date": "Wed, 04 Nov 2026 01:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a1931b22455b78c8b97aeecf4e79ce1bdfc7587d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Trump ruled out immediate strikes, signaling restraint while issuing a threatening 'locked and loaded' warning.",
+      "event_key": "trump rules out immediate iran strikes locked and loaded warning"
     }
   }
 ]
