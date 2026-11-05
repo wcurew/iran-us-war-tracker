@@ -1,70 +1,189 @@
 [
   {
-    "title": "How Are US Sanctions Targeting Indian and Turkish Networks Supporting Iran? - Modern Diplomacy",
-    "summary": "How Are US Sanctions Targeting Indian and Turkish Networks Supporting Iran? Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW9NYk94VlI3bFNvSGtTX2dZTmQzY1lLcjFmVXhOZjNDXzhZOE1LUmpBNXRHWVlYby00azYwQWhHbFZ6SXd0SDZ4eWVYeTZ2RDlsMVN4UnJoa3FocDR4M1BETmhieHgwMFlfVGFLbnVnc0dZdk9UM2hNb3F2cWNlb29wRzZaYTN1MTZCTGxVc3ZRUVJTNjV0aDROVE8yYkF1cXJxZ25wTzlDaVpPS1dQV194SQ?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-11-05T07:55:39+00:00",
-    "raw_pub_date": "Thu, 05 Nov 2026 07:55:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a0c4db8129832e3eca3aceab376b3dcda29594cd",
+    "title": "Tehran reviews 'concrete proposals' on future of nuclear program amid talks with US - report - The Jerusalem Post",
+    "summary": "Tehran reviews 'concrete proposals' on future of nuclear program amid talks with US - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WlA3enpyQTF1VDZ4THg2NFp1OGhxUVFvVWNGb29GalpZVVdqdzVnZ3BON0VUS3REcmNBSlFZcU1ybVQyMlBiXzAyOTBzY0toTWxVSnE0NHRqX1MxNW1yVC0xNzdZaUtDV1E?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-05T19:04:51+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 19:04:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "febf1d7fb7144797d5acaaf9e868f80b8a2ecc1c",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US sanctions impose coercive pressure, heightening tensions in Iran-US relations.",
-      "event_key": "us sanctions indian turkish networks supporting iran"
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Active talks with US; Tehran reviewing concrete proposals on its nuclear program.",
+      "event_key": "iran us nuclear talks proposal review"
     }
   },
   {
-    "title": "Iran wary of new U.S. attacks despite Trump noting war's role in election losses - NPR",
-    "summary": "Iran wary of new U.S. attacks despite Trump noting war's role in election losses NPR",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmVWZUdheTJFaDZpMFEwU2p6M1pLeTZfTHBsRlBSVlBQSTRGVVVhZTJCWS1la2R0N0YtdjQyRjhNTEdTTGZ0ak9qSkRrWXZvMHhNRmtKekd2RkVhSmlQX041cmtxWmh2b0RTekFlVWJRZVc0a0gwR3QtVUxGRVBIZzQzc3pPVFJaVE1ISDRPeVdocWFsV2lHYXVYbjRhd1N1VTJDQURnajJBTXZpTWxoN1ZKZFB6NTVVNjZNdzYtV2Q?oc=5",
-    "source": "NPR",
-    "published_at": "2026-11-05T09:46:24+00:00",
-    "raw_pub_date": "Thu, 05 Nov 2026 09:46:24 GMT",
+    "title": "Tankers Hit in Hormuz as Iran Keeps Up Pressure After US Vote - Algemeiner.com",
+    "summary": "Tankers Hit in Hormuz as Iran Keeps Up Pressure After US Vote Algemeiner.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWlnUU1MOUxUR3JETE9qbFFVcUNsZ3FBSjBWb0tZcEFmOFh1RDdGRmJuMmFKZll1R2V4RW5OM2VRa1ZBeVRSSXBzb1RLamZzVmFGbC10N3JTTWRGclhPSG9pVjZLOW1tMWJUYXFWZWJ4S3N6WmtIUTJWcUJiYUw4WUw4MTlwNDVHaUZGeUF1eFpJZw?oc=5",
+    "source": "Algemeiner.com",
+    "published_at": "2026-11-05T17:28:00+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 17:28:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0d4ccddc21a8b14c956454088b73eb62d5085ec4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "Attacks on tankers in the Strait of Hormuz indicate escalatory, likely Iran-linked proxy maritime actions amid pressure after a US vote.",
+      "event_key": "tankers attacked hormuz"
+    }
+  },
+  {
+    "title": "US held secret talks with Iran to deport its nationals even as war raged, court filings show - The Times of India",
+    "summary": "US held secret talks with Iran to deport its nationals even as war raged, court filings show The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT1h0Yk5RWkgwZ3htNFRsZE40MmV2WnMwbmNuRENRY0hLSGY1VWpNcDM5MHR3d3ltSFQyQjl2TVJZdjc0VGRSaWFsS0xMM2ZHd3c3N0o2cTBOdVpXTHdnVmJjVnNQMlEyVzRRdWRjemE1M3ViSEhxQTRxNlgwWmRhaEZMNU9FU3BaYkpiblVFT1prYTF0UklwOUk4YjNzNUpmU1dFekx0dWplZUhZNnJGLVM2R3lyZ1l4UjViR2J5VXB4ZUlSQmlEdC05WFowOHRIWEtITk44Tnp6V0pucGVKNU03S3NaWGlGREZ1c1dRMWZwekZlVXRsU2JEbVpsOUkx0gGGAkFVX3lxTE5oWDRGblREXzAySXJOclYyRGJEeUtmY202SjNZdlM1MDdIbnluOWVBNlBibVQxTUpSWlNrdm9RaHMtYmhSV2RTbjdrRS02TkVEY0NFS2g2eHJDVDE2NnBRZzFld2wyV0MwWlFueW42VVdqMENmNmhiVURrOEJxUVpJYVhjQ3RCR29CS2JPa2V5VHVqaDZyNTY0VXFPc1ZxbDB1NnZwQnh5QjE5V1p3UTNxUFpvWmcyQXlSNGVrNnE1R0lNb3N1b2dKbXpZdl9aWURpY2JhU0hINlUwY0w0MUJJa09MNFROVVhab3R0Qi1fX2wtc0hEajhMUzBncW5YWjdYYjhiMkE?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-05T18:56:00+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 18:56:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bcdc4b538c1f6bcc4805cb0fbfdd2b398866a1af",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Secret backchannel talks between US and Iran about deporting nationals—active diplomatic engagement amid conflict.",
+      "event_key": "us iran secret deportation talks"
+    }
+  },
+  {
+    "title": "US midterm rout puts Trump's team, Iran war and Ukraine talks in doubt - IntelliNews",
+    "summary": "US midterm rout puts Trump's team, Iran war and Ukraine talks in doubt IntelliNews",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDlWVmxSOHNuU0RLNEFYekpZMWZHSlZLSlA0SzRGR3ZoWkdRUmRtVU9JU3l3bFNLWDlsc1Y0bm1PZXBWd2YzWGVHQXFsay01cm5jWDJrZ2p0MnJtcXF1WWIxRlQxQXBicGJ6bU51UHhvMTd6OE5lUG5acmhOclVNc21BZGtUcW1zZ0VINmV0LVBXV012V3NEWjRMdEZ1MDE1NFY2akZnakw?oc=5",
+    "source": "IntelliNews",
+    "published_at": "2026-11-05T16:29:35+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 16:29:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "22db73714219c1b5874555aa453133ff92d5e7ae",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "General political analysis about US midterms affecting Iran policy, not a specific Iran‑US diplomatic or military development.",
+      "event_key": "us midterms impact on iran policy"
+    }
+  },
+  {
+    "title": "Putin Hosts Iran’s Security Chief Days Before Abu Dhabi Talks With US and Ukraine - UNITED24 Media",
+    "summary": "Putin Hosts Iran’s Security Chief Days Before Abu Dhabi Talks With US and Ukraine UNITED24 Media",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzRDelp3WC1PeElITHVMb1JzWVRZX09mYnRsaHhiLVBTNGItRW5Eb3ppVE5pQkEtdGlFUFdkNTBCLTBmUGItMlhaODdnOExqaGM2c2N1T0JHMTFpUV9IaXZDQm56eXFBemhZd1ZTMVBpVDFyM2pJOFZzd0xzamFrcjdKNW9vSDB0VEVDZHdEZ2VQS3d3eE1RZy1rSkQ1ZDZhOHlNVWlGMUJCdk9IOFkydHdQQjV6cko0blE?oc=5",
+    "source": "UNITED24 Media",
+    "published_at": "2026-11-05T17:10:42+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 17:10:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2eef29954f6679e3c8acf4dcbca6b0aa759cb0b8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.3,
+      "reason": "High-level diplomatic meeting between Russia and Iran ahead of talks involving the US, indicating diplomatic engagement.",
+      "event_key": "putin hosts iran security chief before abudhabi talks"
+    }
+  },
+  {
+    "title": "US said to secretly hold talks with Iran on deportations - Breakingthenews.net",
+    "summary": "US said to secretly hold talks with Iran on deportations Breakingthenews.net",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3JBUWNLOHNocVFURS04UjNjdVYyY1lGSWRXazV4eVV6em5WVFdNNjBWMGtiaXBfZndfSE5LclkwWVZtMHBPaXltZU5FY2JZUzgyTU5DZ3E2T2JERGE0by1STEJGWlZUUzV6cDNMRm54MTEwZzdmaXI1bk1ybUdfdVZXWElrYkxveGo4Y1dTMnI5amczalFGbllGbHpLWnFZZmU0?oc=5",
+    "source": "Breakingthenews.net",
+    "published_at": "2026-11-05T18:54:00+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 18:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "15ab8875090332d60a29ce463d861cf6946ac5c3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Secret talks between the US and Iran over deportations constitute diplomatic negotiations/backchannel contact.",
+      "event_key": "us iran deportation talks"
+    }
+  },
+  {
+    "title": "Iran warns countries aiding US attacks could become 'legitimate targets' - Latest news from Azerbaijan",
+    "summary": "Iran warns countries aiding US attacks could become 'legitimate targets' Latest news from Azerbaijan",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZW1VTXZKX1kzM0hZU0pHT0M1UjNvRDljTE9oNENOVHlndkVXa3B0MWNBUFRiTTdob3lwUThhdTJ2djFIQ0g3N3RlMFV1OFB0QTE2MFVOUllxVVRkX3lOb0pFcTJ3ZjMtdEpUZjlydUlBdTlRN3NEdXBodFFEM3dUeThsNHl5NjRjRmNfSUYwUnFiNDhxY3c?oc=5",
+    "source": "Latest news from Azerbaijan",
+    "published_at": "2026-11-05T17:43:26+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 17:43:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8768e7f96683b7584fca3b063322ce18693a7869",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issues threats to countries aiding US attacks, signaling escalation and hostile intent.",
+      "event_key": "iran warns countries aiding us attacks"
+    }
+  },
+  {
+    "title": "Iran says tankers struck in Hormuz amid fears of new US attack - Al Jazeera",
+    "summary": "Iran says tankers struck in Hormuz amid fears of new US attack Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSndUR0pGRi1MMEthNENuNFlReHRUcGJUVjdxMm9mbEp0bnVncHFlX0ZyMTVXUkR0Ql9CR2lLRElpcnRvQU5mUVFuT2oyakMxaEdGeHZqMnd5dTJyN3hhaFoyX1Z6NS03eUpMTmlCSFd2NktOeU43b0hhRXFKY0tqWHhKYW9FRzNibFFTVHdjSGFTVDhzMnZwak1MMGhTY1N0X3hCZkV30gGrAUFVX3lxTE5jd3JPYU1KcGFXeEJsc0VoM1FsaklHcnVnMkkwTmpZbkNNM2owMDlIOFViMmxWaTlwSzFSX0lqd2FCTWhNejlPeWE1QWxpcFEtbHZ5eklHbXJhTW0yWWlwQ05PeU04OVFLamJvcjBvUHI4ZW9INDFILXVGUHZFQmUwd3hVeW1NUFVmdVZTMGJMSUJfeEtFZS16bTI1SkhKZ3pIVzZaWWd0VG13aw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-05T18:47:41+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 18:47:41 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2b0fdf691196f329ccc79caad0209def0ac2214a",
+    "article_id": "9049923643f6d90f263c4f0be0e651abd83b0cd7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Reports of tankers being struck in the Strait of Hormuz—actual attack incidents amid fears of US action.",
+      "event_key": "tanker strikes hormuz"
+    }
+  },
+  {
+    "title": "Pentagon intel sees Iran as 'emerging' space power despite US strikes - Türkiye Today",
+    "summary": "Pentagon intel sees Iran as 'emerging' space power despite US strikes Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk9sOEJhT2VoZjhyR1paajZnUlFYQ0QySTdxNG5nQ0xRN2NFNGo2akFOZnp5RGJGM0Y2VE1BS1dEX3JyREY0SXV3c21HQmk3MW85YVJNWkJrb3hwUVpFWmk4WmphbV9LOV9haE10d2tfX2VHbVVrTUV0VUVOLXV4RWt2czVvTjlmejNWRndsTDFrZTRvaFFGenZkT3JmT3E4TndTaEpZNHUtMlFsazlHOA?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-11-05T14:12:48+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 14:12:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4202372b0cbeef58a4bdc0ac3bfdc54ca37c8458",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.4,
+      "reason": "Pentagon warns of Iran's growing space capabilities despite US strikes, signaling rising tensions and military competition.",
+      "event_key": "iran space power assessment"
+    }
+  },
+  {
+    "title": "Strait Of Hormuz Tensions Rise After U.S. Midterm Elections, Trump Netanyahu Discuss Iran: 5 outlets compared - NewsCord",
+    "summary": "Strait Of Hormuz Tensions Rise After U.S. Midterm Elections, Trump Netanyahu Discuss Iran: 5 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ0pPd0dHWjB6cmpGUHVIZVVNTWl3SzB4RktYUUk5cEt4TXdGU0NFOEticklqTk95Zk5VMGYxeHNiUzJ4bWxFTkZnaWJGU3RRRG03UXpOcWd4RTI1dXIyTFFzajk5a1ZVNTZmb1REZjNUUnJla3dYZGdVb2RKelNpVENsV2tuaFNWdWVKVGFRb2I0aVhoWlRadXVva0UzVF9zeGh5S0w5SVlwSnpqV3ZaY0tOb0toWEFmcUgxUkQ5ZERpNFRGbGhlN0Z4dVN2QllWZEpuZFJyUXo5YUFSS05rQ3ZMRWtUVTIxWHc?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-11-05T11:25:45+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 11:25:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0b0d5efb0e81b745071ed24911fa4d2d81da0d26",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.7,
-      "reason": "Iran warns of possible U.S. attacks amid Trump's war-related remarks, signaling increased tensions.",
-      "event_key": "iran wary of us attacks trump comments"
+      "reason": "Reports of rising Strait of Hormuz tensions and leaders discussing Iran signal increased hostility and risk of confrontation.",
+      "event_key": "strait of hormuz tensions post midterms"
     }
   },
   {
-    "title": "'15,000-Km Range': Iran Eyes America-Hitting Missile After Trump's Nuke Threat | Firstpost Live| 4K - Firstpost",
-    "summary": "'15,000-Km Range': Iran Eyes America-Hitting Missile After Trump's Nuke Threat | Firstpost Live| 4K Firstpost",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd1daVUlVQTF4MGhkMlQ4MDJsSGE3RWMtZUQ1SXBqczNZUU1iNmg5SlV5bWpISWUwb2tlaWVqbzY0SU1mcENwT1RFT05wOUtSVzNocGVOaW84RGlNNWhQYzVzNjNGRWpENzdXbHFkNHE0WTJqR25ldVVMMjNwVGJFT1RyNTdwZF9Wd3hEWi0zTGtJNlE2YWduWWJpb1NpTXJOcTRoMldjcDMzclNIV1JDZXBjR0FZcjVlcUVRTTJXbW5iUGNrSkMtVm9aREc5ZzA4SW9GMmtFNTlMaVdOZFBrbjdraDRHRzg?oc=5",
-    "source": "Firstpost",
-    "published_at": "2026-11-05T07:46:02+00:00",
-    "raw_pub_date": "Thu, 05 Nov 2026 07:46:02 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1fc37778ab947f3321925eb663d92c15b501dbfa",
+    "title": "Despite Iran's warnings, South Korea announces military deployment off East Africa towards Strait of Hormuz after resisting US pressure to send warships - Business Insider Africa",
+    "summary": "Despite Iran's warnings, South Korea announces military deployment off East Africa towards Strait of Hormuz after resisting US pressure to send warships Business Insider Africa",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWhBajBzZzVTNHZEbWtLVjRFZ2Jrc1NNWWw2bkdWM005dFE0cVgtclcxZEhYdmY5SjFDSzUtWmNXenZMUFlWYTBHY1AtM1VPNTJnMm9JTWVVcnA1NVNkTU1FU3pWbmo3QVJ6R0pfeThIR1dEVXd2V0ZsNDhjU2xpa0QwakNyc0ZIUU1VX1ZablM4UUtGRDQ5Vlpnb05kTl9STGN5azd4YktYaGFNNjFsRjBqNUNQR3NWWDZZenRicUpOZHlzc1ZEQnVwM1BPVm9Pb19r?oc=5",
+    "source": "Business Insider Africa",
+    "published_at": "2026-11-05T18:15:28+00:00",
+    "raw_pub_date": "Thu, 05 Nov 2026 18:15:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "35c7140696f05b3a90addff97e9c82ff50d3a2cd",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran pursuing long-range missile to threaten US after Trump's nuclear threat — weapons development and heightened tensions.",
-      "event_key": "iran eyes 15000km missile after trump threat"
-    }
-  },
-  {
-    "title": "Prices edge lower after US mid-term elections reduce Iran war escalation fears - TradingView",
-    "summary": "Prices edge lower after US mid-term elections reduce Iran war escalation fears TradingView",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUw2a01veTI4aE5zZTAteVFqY19OY1ZJaVZPU2lzRU12ZjNuMTVLU3ZPcUpYd1VFUzdzQzBlV25LTGdYNUEweTM3Z3NMa0dZUTR0ZS1PdFc0aXZ2RlZwTy1YSGw5cmJaMVZOTkY0dkdGX0hod3BUNnNaRUtKMEF1MUdOOEk5NklEUEpnV1pfbm5IelE0VHlnM0l2WUk2RTRNdlVGWTJzeHFBOFlVWXVxcW03WlF1a3dnbFI3WDNFSmFxa296SjNieURwVndCR1hDWnN6LVhIbGtOMll4a2xrNGlB?oc=5",
-    "source": "TradingView",
-    "published_at": "2026-11-05T09:24:51+00:00",
-    "raw_pub_date": "Thu, 05 Nov 2026 09:24:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8856e8859441bf2e2875b665bf45a2a55cb03306",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.3,
-      "reason": "Market reaction to reduced Iran-war escalation fears after US midterm results — a soft calming signal, not a concrete diplomatic or military action.",
-      "event_key": "us midterms reduce iran us escalation fears"
+      "strength": 0.7,
+      "reason": "Seoul's military deployment toward Strait of Hormuz despite Iran warnings signals mobilization and rising tensions, resisting U.S. pressure.",
+      "event_key": "south korea deploys to hormuz despite iran warnings"
     }
   }
 ]
