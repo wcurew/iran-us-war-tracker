@@ -1,87 +1,546 @@
 [
   {
-    "title": "US urges Iranians to stay away from IRGC positions if tensions escalate - Iran International",
-    "summary": "US urges Iranians to stay away from IRGC positions if tensions escalate Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNF9ZYlFPUVNITUxUNndyQWRLYV94WGl6MzI5aHk5S3dwRTZScmg0MDl0bVRib1NHWFpJdkg0TVAwampndWVqbHpFOUlzbTF3cWc?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-11-06T20:26:16+00:00",
-    "raw_pub_date": "Fri, 06 Nov 2026 20:26:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a80298f4bf92954d3cfb0345f13ea5eb6b77b900",
+    "title": "U.S. Strikes Strategic Qeshm Island During Iran Ceasefire Talks - 조선일보",
+    "summary": "U.S. Strikes Strategic Qeshm Island During Iran Ceasefire Talks 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTl4aUpnVU0xZWw3azItWmZSb3lTZVhjc1YzekhSQkRYN2pPVUh3MTdMOXNaS1lzcVNQdEQwRWFsQlJablVWMjEyanRXMWNpa08wVjhZOUk3OEtsUkNRQ1lxQlVaellBeDRkUzU3cHFmVkNRd082cFJnaHpKVEpVdTBwQmQ?oc=5",
+    "source": "조선일보",
+    "published_at": "2026-11-07T07:25:44+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:25:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "61e84d5194f5e12277a24f75fc4600614a516b53",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US warning to civilians about avoiding IRGC sites signals heightened tensions and potential escalation.",
-      "event_key": "us warns iranians avoid irgc positions"
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted a direct strike on Iran's Qeshm Island amid ceasefire talks.",
+      "event_key": "us strike qeshm island"
     }
   },
   {
-    "title": "Iran reviews proposals as hopes for U.S. nuclear talks grow - The Seattle Times",
-    "summary": "Iran reviews proposals as hopes for U.S. nuclear talks grow The Seattle Times",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1pSTksyUFc5Z0liaXRJY0NMRGlSWTRLOS05WGtaLVllaW90ZUdwQ3JPdFNFeE5PZFFkSGFqQldiQW9hUThoTzdzRGY5TTZYbHNheUtuTGJVa2hLVGJSM0ZybDZhOFliNFd3Y0VOVk5XYmZkTWRSRXdETEFzaWlSNGFtaHlKR1FURWhPVF9PSWVfSmh4U0tkanMxbHRlMktVOEswd3NGUVZCdWhoLVl4RG8zQnQzQ1VsVDZndUFyMkRZUUJKaHc?oc=5",
-    "source": "The Seattle Times",
-    "published_at": "2026-11-06T23:42:42+00:00",
-    "raw_pub_date": "Fri, 06 Nov 2026 23:42:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "30dec8b668a646ceebc61854fceedf33c6a25662",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.85,
-      "reason": "Iran reviewing proposals signals active diplomatic engagement toward resuming U.S. nuclear talks.",
-      "event_key": "iran reviewing proposals nuclear talks"
-    }
-  },
-  {
-    "title": "US issues new Iran sanctions as Trump says talks with Tehran going 'very well' - Middle East Eye",
-    "summary": "US issues new Iran sanctions as Trump says talks with Tehran going 'very well' Middle East Eye",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzFpR25CbmRpRnptM2FBTTVySnhOaUNob3oyTXZmcVQtTFY1cUVxRVhXdGNTakxhWlJHaDFVMFFWRzk4SGZaM0F1bnBEa2M0ZXgwLTlOT3owRXdBZmlEM2RSa2dldmh4Y3JROXY5VXFOb0l3RWNNZzJNVkZ5aU8tLWw3RkNfTU1rWnllaDcwN1JLeHJ5cUtqVWpkSTJscU5lcWc0SzJSY193b3A5WkpwWmFXWU5KSURqdW5WUE9TdlFLTVE?oc=5",
-    "source": "Middle East Eye",
-    "published_at": "2026-11-06T20:11:00+00:00",
-    "raw_pub_date": "Fri, 06 Nov 2026 20:11:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aa61b7c0290df9b6c5d06caa2270689142f1b8e3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US imposed new sanctions on Iran, a coercive action indicating rising tensions despite reported talks.",
-      "event_key": "us issues new iran sanctions"
-    }
-  },
-  {
-    "title": "Report: US and Iran near possible breakthrough in talks to end war - Israel National News",
-    "summary": "Report: US and Iran near possible breakthrough in talks to end war Israel National News",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jc1hrS1lZME1vNWdOVkhmbXgzZTR3RG9nc0V2MzFVSDRjeGVqUHB5bmFFbXplWVc5QWRlVzlOMnhSRDFWRkVwWnI2OGw5Q0pOTkRfOG41Rmo0UQ?oc=5",
-    "source": "Israel National News",
-    "published_at": "2026-11-06T20:02:14+00:00",
-    "raw_pub_date": "Fri, 06 Nov 2026 20:02:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dc3bf5fb98baaa75ffb535807c8adaa043595a91",
+    "title": "US-Iran Talks Continue as JD Vance Pushes for a New Ceasefire - Open Magazine",
+    "summary": "US-Iran Talks Continue as JD Vance Pushes for a New Ceasefire Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVdveldKaGdIdHF3Q01SdU9PN0JlYzB4eVRhd0xnaUhia2d3Wjd6WUVGb1FLdTZNajlvQjVlN3VXampZV0hvTFdKQktpNFVjdHd0VTVONjNSZzRXYkVyQ1hoSWt2TFdmUUIzSU9jNWNhUnJaVnVvdExLeGZuakNGdVdPR0hMaUdlNzBmcnplQzZ1NXhtZ2RGNU05RQ?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-11-07T03:55:50+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 03:55:50 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1aaf5ec859b0117ff1dc31e4377a45bd9aa35c84",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Reports indicate active talks and a near-breakthrough to end the war, signaling ongoing diplomacy.",
-      "event_key": "us iran near breakthrough in talks"
+      "reason": "Describes ongoing US-Iran talks and a political push for a ceasefire—active diplomatic engagement.",
+      "event_key": "us iran talks ceasefire push"
     }
   },
   {
-    "title": "Crude gains on worries about renewed US attacks on Iran - Yahoo",
-    "summary": "Crude gains on worries about renewed US attacks on Iran Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93aGoxbFV3NTZJTWEtUExsdk5UejJqcUVlSG9KRk9IOXEyTkhVWVBfT2lacEcyN0tNbzJIX3hORlpBQUlCQ0NVcjZsaUExQ2JIUzhCQ1VDVFk4UWNzT2VsWWlnYXE4djd5TEtWbzc3TDNKSE1LSGlpTXM4N3I?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-11-06T21:47:23+00:00",
-    "raw_pub_date": "Fri, 06 Nov 2026 21:47:23 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5fb7c9f370059632862cf0d2245d6fdddf437c14",
+    "title": "US Iran War Latest | Trump Says US 'Doing Very Well & Talking To Iran' As Ceasefire Talks Continue - NDTV",
+    "summary": "US Iran War Latest | Trump Says US 'Doing Very Well & Talking To Iran' As Ceasefire Talks Continue NDTV",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXF3eTFwREphMDJHZFIyQTFuMkplUHdsVmZPQUVYaDZrTXpWV01iaGFFVm5sMXp4ZGFDeXdCM1IzZkpMV19UVkZSNmVFV19HbHNfRDBKaTdNc3JBOEtVU0lnX2FXQ3dCWHhBQWFHVERZOEx2UTE5WnlWcFVNUkc2YUM2c1R3NlM0QXNtT0pHSG9vTTJkdjBWaTNzZjVOS3Z5NDdaQWxvNnpUVGlqVTVkdVpfc1JzX3RVSlZwa3pNcjBKSUdpR19v?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-11-07T02:17:35+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 02:17:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1bcec091ff0018a15a9694adc6135339f820334d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.88,
+      "reason": "Active diplomatic talks reported, with ongoing ceasefire discussions between US and Iran.",
+      "event_key": "us iran ceasefire talks"
+    }
+  },
+  {
+    "title": "JD Vance leads US-Iran backchannel talks to revive ceasefire and nuclear negotiations - BusinessLine",
+    "summary": "JD Vance leads US-Iran backchannel talks to revive ceasefire and nuclear negotiations BusinessLine",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMmN1VzlidU5pUGR0Y2NPOEY1ME0yZkMyRE1JWkxvbmhvVnZ5cVI0R2pNTXlQbGs5ZTdrS2tMSnBvcXFpMGxFcjNmbXpRS0c1T1dsZ2FWNmJkeUZvbHpjdUxrbHppTGVSQ3JhclF0dmRPMnlwbnBMYTNWU3hhWmtfRTlxVklYV29lZFNEeWJkZFZvYUVZaGJTSlVnRDhrNkdxSGhVQi0zajctM3FIdmpzd2dRS3VsU25XUzBaVnAxQnB4ZFQzM3p3M2xuSHJYTUxTTU81UEtQdDlfNU0wdTUtLVdUTUVDQTgtU3F1aVd0ONIB9gFBVV95cUxPLTV4b2N5OENZUmRNY1YtcGdmZ25LenVNNkJ2TWZ0MVFzYkhfZEdnRktGa0t4clZMU0hKWkxUaElhQjhRM0VBbmxuM0F0a211c3Q4b1Vhd3JaaF9Uc3VwQlM1LTFLbUN0cG1kYnNFRFRZWWhxZlVIdUZPeEtDZ1dLLTQ0NHM1cXpWVTd5WHFxcVE3REUyVnhfWFhGNjc3YnZSbXBVYmVYQzBVZS1GSjk3clhWeTNSVGM3OWMyTzlCNXVIRnJLNjh0Zkc3S0Q1elRpckNhYi1fMzNwd3Y2U3R0ZVdfYmFnZ1RhZGFDV0xsRmtzUmhMenc?oc=5",
+    "source": "BusinessLine",
+    "published_at": "2026-11-07T03:33:19+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 03:33:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "34886e9d2be316d0143af74999b8d380f629686a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "Backchannel diplomatic talks led by JD Vance to revive ceasefire and nuclear negotiations.",
+      "event_key": "vance backchannel us iran negotiations"
+    }
+  },
+  {
+    "title": "\"U.S. Vance leads behind-the-scenes push for a ceasefire and resumption of nuclear talks with Iran\" - 파이낸셜뉴스",
+    "summary": "\"U.S. Vance leads behind-the-scenes push for a ceasefire and resumption of nuclear talks with Iran\" 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oOFR0azROQTVqVEI4VkdXRVlxZVpYYm13Y1hCdTR3NUZ0QmJaSXJNallMQXdSQ1p6dUg3R2Y2cTdQdjBseC1FMEphaTB0VFVEejFvRFVIMXk?oc=5",
+    "source": "파이낸셜뉴스",
+    "published_at": "2026-11-07T01:11:45+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 01:11:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a92ce6a309c12252c9678ddb0430fc436f8983b3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.85,
+      "reason": "U.S. envoy Vance is conducting behind-the-scenes diplomatic mediation to secure a ceasefire and restart nuclear talks.",
+      "event_key": "vance push ceasefire nuclear talks"
+    }
+  },
+  {
+    "title": "Trump confirms new US strikes on Iran’s Qeshm island - Al Jazeera",
+    "summary": "Trump confirms new US strikes on Iran’s Qeshm island Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpOc3NISlNqd2RIa3JOMjU1TUxPQ1loWXFoN2ZycXNmZ1QyU3hBVG9TWVhHcDNuWlZ2MGE1eVdLRGw5b2tCOTdseGZ6RHQ0RDB6UzZQVWpMSENnTmRSZFhWaGpBRWgyZXJEalpsc0xIbnpHQi1mQmJya1BXTlE4MTdnd056SkZlc1BXTnE2YktwRmhrR1kw0gGcAUFVX3lxTFBQamY0WVlzbUcwRjcyeXRQVFhPZWc0cTZmZWw5WEZxQmhwRkk0TnZlNDhwMFBLb2RZVWNKcGRjTENOV2NKeDlDbHkzUWs0SnBFS3ZkRkpwOXl5VWUza3RELUtQZm1HbTkzMlZCUjJMdHRoN1dHb1FTTTZxZlF1TzFKSXlnU1VWbnBSSjFJUzBqWWVPOUFHYmJua2pabA?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-07T07:06:23+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:06:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1bd9685ca6f86013bac451fe28ae646194530cfd",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US confirmed direct strikes on Iran’s Qeshm island, indicating military action/retaliation.",
+      "event_key": "us strikes qeshm island"
+    }
+  },
+  {
+    "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island - CNBC",
+    "summary": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island CNBC",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-11-07T07:37:36+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:37:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ac6150104cfeb33aa12857294ab08ad5cb1f7ce8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US reported conducting strikes on Iran as missiles struck Qeshm Island—direct military action and retaliation.",
+      "event_key": "us strikes on iran qeshm missiles"
+    }
+  },
+  {
+    "title": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals - AP News",
+    "summary": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals AP News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5",
+    "source": "AP News",
+    "published_at": "2026-11-07T02:11:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 02:11:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "991520619d88c2fe0ded2f7978cd146abc5c3f6f",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US military conducted targeted strikes on Iran; direct military action despite mediation efforts.",
+      "event_key": "us targeted strikes on iran"
+    }
+  },
+  {
+    "title": "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’ - The Times of Israel",
+    "summary": "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’ The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGg2eHNFcW9FRTJ4eEFxXzBVR0U4Y3RRUDNuRjhCcWQxVW52LUliR1hKS293NnRQQ2N1SlpscjhyR0lFaEN1TldGdm5IY0otSzF2N3BsVzNoLUF4RG1YREMxVzBJWFJTcGtzNFVzWVpHQS1FTUt1VEJZOWNCNmJKZnVtclA2OGUwX1J4cjlHTWNlMU5FamFDWWpmYjZFdFRrZHo1cktNZ0kyVmV4Vk5NQlJONnVOMmc1RzB0WHhZX3plTUlKeWdpSXVabGE5Z0V1Q0xJMHBwTQ?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-11-07T02:31:36+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 02:31:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7d9b80664e115dacf929d9950785bd7141600fbb",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Reports US carried out direct military strikes on Iran targeting an anti-aircraft device.",
+      "event_key": "us minor strike on iran anti aircraft device"
+    }
+  },
+  {
+    "title": "Trump Confirms US Strikes on Iran’s Qeshm Island, Calls Them “Minor”: who 7 outlets blamed - NewsCord",
+    "summary": "Trump Confirms US Strikes on Iran’s Qeshm Island, Calls Them “Minor”: who 7 outlets blamed NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZl9jWS0yZDdVM1VGNldrNmpKMHdfOFR1RW9kWWpqajJIUVViRExRWVJ2VlJpZEU4VWl2NlZUU3VwSnlsdF9PRmdFb2pIZmMyQ2hZUHg1ZHQ0M2pSX1hGTXhWZDBpWEdmanh6c2VQaC13MktsMjhtVFAwUmZ3ZnYzTU0zWTBNTnloQXpxVldkR0haMDdSWUhVRngtN2R0RVV3dGh0ZGlVX1AyWlUzZ056UGV6My1EZUk4VndLY2pBeVZQZ3pCRTZtX2dfQXZvZTZ2b2VvSA?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-11-07T05:19:19+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 05:19:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1382a48bcb3f194a55a9ee0dfb944b01202820d4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US confirmed direct military strikes on Iran’s Qeshm Island, indicating actual retaliation/action.",
+      "event_key": "us strikes qeshm island"
+    }
+  },
+  {
+    "title": "US midterm setback puts Vance at forefront of renewed Iran diplomacy - The Times of India",
+    "summary": "US midterm setback puts Vance at forefront of renewed Iran diplomacy The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVJyRVN2QWhoRDdVaGpKeDdXaU9Vd1FfRTA2Sk5CcXY4OWFqSUUtOFZZMzdkVldGc1U2US1yM0V3ekFoS3dTOUd1RkYybFgtQmpKSi0xd25vbzRielU2Qmk4SEl0ek5Jc21MVnhsdEd0dVhraDludjJoVm92Rmg1U0dERFJuLVA4RUVDSVZDa2xKaE16WVpqa1RwWS03YWVINkNxcFdaclJhRTdSNnJISGxSS1VQUlE4anVxcjFCMWhUYVNFbTdOR0s4WjdRRDFhRXh2R2JR0gHbAUFVX3lxTE1RVUZUam9vRWNCaU1SNDBreXlidTFSbkxPZlgwMkY3aXloRDJ6ZWJya0M2a2k5ZDBZek5fQ3VjV1hCWF9NMkdqaUo2Y1NGN290eDB1WWp3QlhkR0RRbEY1VlQyRlZNbHlEbi1TMC1wS0N5cW5xcnZIMU5lSTZldk5MREc5Mk1FR0dKcWhndXdLZDNVdkNKQ0VERVNGQkx1aXlBbVZpX2NfN2MtRXRLTEx1TDNreFBWaGRDNmpFVW42UVZCVkZVeTBZLW5tY2hDTEgwM3V4R0VZUjJZMA?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-07T03:04:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 03:04:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2dfe9da008ec6125004d3dea855fb6567a41f77c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.75,
+      "reason": "Reports renewed US diplomatic engagement with Iran led by Vance following midterm setback.",
+      "event_key": "vance renewed iran diplomacy"
+    }
+  },
+  {
+    "title": "Iran demands action by US to resume diplomacy | NHK WORLD-JAPAN News - NHKニュース",
+    "summary": "Iran demands action by US to resume diplomacy | NHK WORLD-JAPAN News NHKニュース",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96U0I0R2x1VnN0d3p0ck5kSk11YXM4bDJqcFhiM1E0TGIzS19kNjZOQi1qZnI3ZlhtRUVBUUxDMkRUS0pNZG5vSjQ1NERTcjM0MEZMTWRhTE00clB3TjZCMk5Mbw?oc=5",
+    "source": "NHKニュース",
+    "published_at": "2026-11-07T01:23:14+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 01:23:14 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ce13800f3e0a226d466a3a5f1b5a492753cbcdb7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.7,
+      "reason": "Iran calls on the US to take steps to restart diplomatic talks and resume negotiations.",
+      "event_key": "iran demands us resume diplomacy"
+    }
+  },
+  {
+    "title": "Iran says military 'stronger' than at start of US war, warns of wider retaliation - Türkiye Today",
+    "summary": "Iran says military 'stronger' than at start of US war, warns of wider retaliation Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNm83VlprRDJHYUxVLVdNc0k5bXFSdlBHSlZCSEpIbWRmMEM4SHNyb2ZrUEQ4NkstemZzXzlDM0tfZ0RhTHBFb05pOHlUTWdkeGl1QVBkS2lLYmxqbHI1akJlbkZGMzZSRTV4MlhOcFJXR3pJV1M0SEJtZkU5dEM0S3FMTXpQZkZvR3VlS1VZN0Ziek55WmFmVnBIdkJsdWhCTnVQekp1d3E3XzRXQlZaVDA5QXpEMzA2MjNET2xGNA?oc=5",
+    "source": "Türkiye Today",
+    "published_at": "2026-11-07T07:11:21+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:11:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6a6c077a0dbf0c87097d3ff77c502fbb2d688a2e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iran warns of wider retaliation and claims increased military strength, signaling heightened tensions and hostile rhetoric.",
+      "event_key": "iran warns wider retaliation military strength"
+    }
+  },
+  {
+    "title": "'No geographic restrictions': Iran warns US of immediate retaliation if fresh attacks launched - Moneycontrol.com",
+    "summary": "'No geographic restrictions': Iran warns US of immediate retaliation if fresh attacks launched Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR0FmV1Uxb0xUcExBN3ZZZUZYSTU3MFZYaEJvTFcxYWpocDZBbE0xMXN4d1dYSHREb0FFWkJLRkZ2N3daM0UxYXJsQnZHY3FpUkx5dkg1dWJsYUdaY2w3QjFselA1TElmRDh3ZFNYUkh5NW01ZENXcE1lY0phOUpHWFJqOElSOU5GeU1DYm1ZeGRkLS0xUjd1eGhvbFB6cWFsa2d4WFlCbnZsOHAtZWRtTVpObzE1QXNLUEpXZXd2T2dveVNJUkNWWXZIb2FPdGJmY3hSZTA1T3lYYWUwZlBEbDRB?oc=5",
+    "source": "Moneycontrol.com",
+    "published_at": "2026-11-07T07:35:34+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:35:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "41766eecc7e9d363dd2b371f29334d07a56eb0a9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran warns of immediate retaliation against the US, a direct threat escalating tensions.",
+      "event_key": "iran warns immediate retaliation vs us"
+    }
+  },
+  {
+    "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says - The Guardian",
+    "summary": "US carries out another round of ‘minor’ strikes on Iran, Trump says The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhQNEhVWUJ5ODk5MkxWbFlVZVZVUnU4dGxYVWJzdTh2R2x1aHdSd1pkVHlERGNod3JCOEVSWVIxdC1SbHlRX0RPVGM5UkVCTk5KR3RWb0lWczUza01JWkNwNU93ZnpKV1pGRHk2ZW1ZZExxeGEzYW5qekxFM2dRZDhFUWZ0MzVka3RYajRBVU96cWlDTWhvM2NpVm85YTlZZm5JdkxUQ3o3VVVFUzFR?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-11-07T03:26:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 03:26:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ea2b80147bea0f96d58565e3e979e96d46e6eae9",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports of the US conducting direct strikes on Iran; clear military action/retaliation.",
+      "event_key": "us rounds of strikes on iran"
+    }
+  },
+  {
+    "title": "US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says - The Jerusalem Post",
+    "summary": "US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3hBa3JORVJTTllMNFlWcDI2M2EwQVowc05SZVhzNWNMT3ltcndlcFVJQjRGMzYzNFh0dlZlb0pqMTludzVQTFFxVXhvdGQyYTVsclBkbWQ3dzEwajllQ0VscWVZMTdVU0E?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-07T07:13:21+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:13:21 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "223ba64c8de789da749c1189b6bc016deb66b754",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iran's Qeshm Island targeting air-defense equipment.",
+      "event_key": "us strike qeshm island"
+    }
+  },
+  {
+    "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation - Reuters",
+    "summary": "Qatar says its mediation efforts between US and Iran continue to prevent escalation Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-07T04:23:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 04:23:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f41c5623a964ef462c2739c508f97da28753fbcc",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Qatar is mediating between the US and Iran to prevent escalation, indicating active diplomatic engagement.",
+      "event_key": "qatar mediation prevent escalation"
+    }
+  },
+  {
+    "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’ - Al Jazeera",
+    "summary": "Trump confirms US strikes in Iran, insists ‘it’s not a war’ Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFVzN1dmN0xGMGpGLVNmc3ZkaF9zRUJ6cVg3MkloZGtZeER0RWw0MkZEY0Y1MnJyai1SU0ZyOFc0MnBYQUdCTm1KVm04VXRITGQ4R2xRWkJ2RktESnRVZDFlSncwUEhVS1hhZ1JadTgxYUd2VDJXdFBCZHppU0RQTkk2ODBzNFJnanZvcmw2dUgxQjExamdkb1lxQm55QVhQbTV3ONIBqgFBVV95cUxQbDhXVGdyNkg4RFljS2l2S2U1bDFyYU83NnNsUm45OU8wbnYtWTdPMzJWVUljUWpmQ000dk9PUVY2YURYdWxrQi1USWg3MDVpM3dtanN1SEZTNnFzQnlMM3RoSVZiZWdQNFZnMEVPbjhMUVRCSnZEVndFYVp1MjRSNkxEbkVYMDdJUU04YXh2Y1NqbVJIZGVnLVRFajFhMjh5a0ZLX0NfQ3NWUQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-07T07:16:48+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:16:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0c4e064c62ce7067391596aa43267cba463df466",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "President Trump confirmed US military strikes in Iran, indicating direct military action.",
+      "event_key": "us strikes confirmed in iran"
+    }
+  },
+  {
+    "title": "Trump Says U.S. Carried Out 'Minor' Strikes on Iranian Air Defense System - Haaretz",
+    "summary": "Trump Says U.S. Carried Out 'Minor' Strikes on Iranian Air Defense System Haaretz",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRW10U0p5WnlEZFM3VFVQeExYaFlJRHp2a1ZKak5FYjd3R1N0ZS1TNGZCb0E1RllBVkRzYmFndDM3SHpJYWZpMDM2Uk4zNGJ4eks2ay0yd0RDck9nZ1hmeXlLbkFBaWtFemw4R3FZcFFjNWJpN0d3ck5XbXZkd1E1bDd1X0Z1X3oxajVIZmR4X3lOZGJSSERENzFWQ1JUdVRwajREN0lhMzFNYlZlYkR3VUphWWtSckZndXU4bGMta0RFbG5NeHlreXJyZW9yUWx1WTFIVlRzRVVxdHFrOGJpVE1wZGs3QkxFQU9hNWswTVhwNDN0VlFJSGtHODgxX1NqV0JNdGR3?oc=5",
+    "source": "Haaretz",
+    "published_at": "2026-11-07T07:42:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:42:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9ccc022eab5e8005a835a5d7134f45f8a978aa8e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "U.S. carried out direct strikes on an Iranian air defense system, indicating military action/retaliation.",
+      "event_key": "us minor strikes iran air defense"
+    }
+  },
+  {
+    "title": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes - chinadailyhk",
+    "summary": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes chinadailyhk",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4TXExMDQ5M1MwSXg4YVBNRHlOZWVKbUlDNkNsWnRGUlFxMERVYU5HS0QzTEpsOVdBY0k2M3hOTnU4amFXc2xBenNZUlZfOW9lWVlmeEdnRGI?oc=5",
+    "source": "chinadailyhk",
+    "published_at": "2026-11-07T04:30:48+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 04:30:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c50937bb42aa7cf9a35ed29f89d443c82bb33bf7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Iran shot down U.S. drones and U.S. announced 'minor' strikes—direct military actions and reprisals.",
+      "event_key": "iran shoots down us drones us announces strikes"
+    }
+  },
+  {
+    "title": "US launches new strikes on key Iranian island as Tehran weighs proposals to end war - The Independent",
+    "summary": "US launches new strikes on key Iranian island as Tehran weighs proposals to end war The Independent",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnNENHkzdjhNbXVNbnphczdiQWpiOHFRTFJQa2RmaF9seTlzazkyOFQ4THp3Z1BhMHp2emI5ZFhxTkpaMDF4d1NORVE2cVR5N1F1NG9QZUJqOXljcmZQai1Gcl94T2NZVTRfTGpKNWplNEc2UXFnZjJNYzRVendNU3JfRjdOcVR2QXM3LVUxRmF2d2NuM0JfdHBZNkt5U0FRU01xLWtTMEE?oc=5",
+    "source": "The Independent",
+    "published_at": "2026-11-07T05:52:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 05:52:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b12f62af0777cd234c1688b837fe9248256ed865",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports describe new US military strikes on an Iranian island, a direct attack/retaliation.",
+      "event_key": "us strikes iranian island"
+    }
+  },
+  {
+    "title": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals - The Killeen Daily Herald",
+    "summary": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals The Killeen Daily Herald",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRkdGdFFYeTBKOUNGLTh3aEp4NzBMWVpiTE92NHNNVm04bVE3MkNXRGhiX2lKV1dHbVJYb0tzdHFOVmhHaGxQMUVVN1lwOGI1WVFuNVFUYklyM3F4aU9Ibm5JdVhDS25sNy1VWFpIRGl1VXo2YXdyUHFORDhxRWthU3dXdVN6WGNMcHNpQUZMWmxzcWQyNDh3NG1lRkV6c2pIWVhqQ2xUNTB1LWxOMFZXRWxncktZRFBoZl9Lak5kVWVlUTd2ZDkwNzZVMklDYlc3NzRYaHVxWmZZZ3BCc2RxcXFvcHY4TXpCN2xxQmhMTEFrcjRyRjdnR1V2VjBTMUlKcEplaA?oc=5",
+    "source": "The Killeen Daily Herald",
+    "published_at": "2026-11-07T01:59:07+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 01:59:07 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7dbb10ed34989cc659d2d826f6de6435707d7612",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US military carried out targeted strikes on Iran while Tehran considered mediator proposals.",
+      "event_key": "us targeted strikes iran"
+    }
+  },
+  {
+    "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals - The Hindu",
+    "summary": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2c2ZDhsWElVQ0VzUldUVHZ2cl94aVJuTUtuem1XZHU4eUJjbjgwTTBLay1FNDlnaXczX1ZjQVpQSFl5WnYzYk8xWWpidmpUWThIcnh0amRqRmRWc3ZNN3JucE1XczRWNlhPV0g1VWpzLUl4VEVfb3NrX1FTd0tqdFpZcHhoU1IzTlllZzlvRGY3VTNlT3hCS3p5VWFyeHpjSl8xYzJsWnRfdE0zR0lLWVRtLU5NTzdUbVJITEVfa2lrYlVQWnQ0dzZIYWZGN2VKWkw0eFJ0WnV6NFRPeS1RVmFtZ2VSaDJPUlY00gHyAUFVX3lxTE1zd2lOZUFKdEJRQUlfNW9BTHZGdk5UeF83UmQ3V0QxLTJJZFBMVGdvUkd5cDNwbU85eHpDQjl4eGFYeC1HbE1teDh0eEQ2eThBMzV3eDdZNlJ1WE14bHBSMHdYQnVXTjg2bl80RWFDLURtaEtTME9qSWQybUxQc2VHR3RJQjlhUTdvOEs1MXU4VV9hR1hybG9YbXlqSjBNUm1KaVFTT0JUazRxcHQtbmRGcXAteWlvajhNSFVicTRwN0NmTlBtRHFnRkR3dm8yUktMUmUxb1M4NmpqZ0ZTQkRYdnRCTldibmdwQ3REUWNiWGtB?oc=5",
+    "source": "The Hindu",
+    "published_at": "2026-11-07T04:20:09+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 04:20:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c568983e66c5c0dcd953bec7594833127768135b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "U.S. military carried out direct targeted strikes on Iran while mediation was underway.",
+      "event_key": "us targeted strikes on iran"
+    }
+  },
+  {
+    "title": "The US has struck Iran: two missiles hit the island of Qeshm - UkrMedia News",
+    "summary": "The US has struck Iran: two missiles hit the island of Qeshm UkrMedia News",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tdDlJYVFLNFI3a2FRdjJWZTRyR1FKQkZjWU5PMFlONzJaRFZ3X2syVmtrcFRLQXVqc3p6NGFwdEFIRlYweVU5dEFpOVRzU3pTcU9WYS1CYUNWcWZuYTJObEI1RnhrUXdUQW1YaEJCRlp6VndJekNRQk5rWQ?oc=5",
+    "source": "UkrMedia News",
+    "published_at": "2026-11-07T07:28:47+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:28:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ed13a2182f64499b37c960cc341b02220fa7ab59",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Reports US-launched missiles hit Iran's Qeshm island — a direct military strike.",
+      "event_key": "us missile strike qeshm"
+    }
+  },
+  {
+    "title": "Qatar says its mediation between US and Iran continuing to prevent regional escalation - The Times of Israel",
+    "summary": "Qatar says its mediation between US and Iran continuing to prevent regional escalation The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1ZRb0tuZzBSNVhGWW41T196aUxqdEZCZTNmOFEwVFFBLTVIcHEtTW5ZcTc4V1FTc0VNYUh0SGNXaWVpX1pUaU5ucFFhVGltbEtuTzdKLThlM2ttTnVQS0lHeHBCcC1LMF90d1VVdTVSLWhTMVpWQnFHT1ZBbHBhUDI3aVEycmlkc2h3dG5UaEJ3cFM1bEpJeDBSM0FCdU1SZUFVOHlzV3JGNEpMUjdVdHRJS05VUjhtdThsR1Z5M2FJTVZFR1owdnNB?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-11-07T02:31:36+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 02:31:36 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c3b7dfccd44b373a08514ed2d6c0926840638fd2",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "Qatar mediating talks between the US and Iran to prevent escalation indicates active diplomatic engagement.",
+      "event_key": "qatar mediation us iran"
+    }
+  },
+  {
+    "title": "A major rollback in pump prices is expected next week as fears of an escalation in the Iran war ease following losses by US President Donald Trump’s Republican party in the midterm elections. http://tiny.cc/qh9d101 - Facebook",
+    "summary": "A major rollback in pump prices is expected next week as fears of an escalation in the Iran war ease following losses by US President Donald Trump’s Republican party in the midterm elections. http://tiny.cc/qh9d101 Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRzhhT3ZnNzB0bVNWbUxzMEJyRzVKODI1QkdsaHhCaEtHTEtBeVpaTEZ2T2VDVk5WcHE5c254eTZvUjdTelpqRjFWbXJuMzU1ZnJWWTJFUjM2RFdQMG1lYUphQ0htZmZuOHZrTDRFS3NzUkZLVWw1SWsyUm9vNjBPNHQyT1dPaFJtMUlaZDc1UmxacG05aTRvd3JhOS1OY3Y0Mm1hLUNXanVnS2IzbU54XzlJa2RDdXZXajFVTUEtMEhERDFBeXpJTTNtc0EyeUxLaUc4ZDh2OEJmcjZU?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-11-07T01:04:16+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 01:04:16 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "86fadd96fe61b28c146f7de8da22f78d5733bd70",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Oil price rise driven by fears of renewed US attacks on Iran, signaling rising tensions and threat of military action.",
-      "event_key": "fears of renewed us attacks on iran"
+      "reason": "Midterm election losses eased fears of Iran war escalation, signaling reduced tension rather than a formal ceasefire.",
+      "event_key": "midterms reduce escalation fears"
+    }
+  },
+  {
+    "title": "Australia PM Albanese urges Iran de-escalation after US midterms - The Straits Times",
+    "summary": "Australia PM Albanese urges Iran de-escalation after US midterms The Straits Times",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjU1VUJ2VkRJN3dncnpPbVdUX0FwVWtxVzlpNHlCd2tHejhPa1JKZ1ZLT3M2WVJWcFNCemZiUUZuZWd1cURfYW9qRV9tLW5pYURuZWlCTjIwWmJEdGhYdDR5ZVJCOTJYN2pVbjcxVEZDWkZ4ZkNvdHZCVm12ak5XQ0RJbUFKa1l4c1ZDM0VYZlllbnM4ME1td2tkN0JCczFmLUVaWEdkU1VIR2g5TjM0?oc=5",
+    "source": "The Straits Times",
+    "published_at": "2026-11-07T06:49:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 06:49:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "88c26cce5d870816fa2b4ca0047787737d2ab1ad",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Australian PM urging Iran to de-escalate is a diplomatic calming signal rather than a ceasefire or direct action.",
+      "event_key": "albanese calls for iran de escalation"
+    }
+  },
+  {
+    "title": "New US strikes on Iran raise fears of wider war as Tehran issues stark warning - Ynetnews",
+    "summary": "New US strikes on Iran raise fears of wider war as Tehran issues stark warning Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDbm52TXNOTTM1MTZLSk5DZTM4b2F5dU1RTGdndWJmcThab1lpcUJ4ZXQ1TmtxMXM3b1RZcWh3R3pRLVNIRXdndUlkRlA1YmlHOHJuakl3?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-11-07T02:05:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 02:05:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "01ef7435cf8796a893e2c87ecc754038c60b0580",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Article reports new US military strikes on Iran and Tehran's stark warning—direct military action.",
+      "event_key": "us strikes on iran"
+    }
+  },
+  {
+    "title": "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats | World News - Hindustan Times",
+    "summary": "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats | World News Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjlhcVNZNUxFWDFiR0tDcDRNWmVZRnMyWHU0Nmw1UWxYOTdVMmhodGV0SFo4NW1PODNtNkFDNUpNMS0xblVNSzdwUTlHOWd1OGoyS1BMUzB4d3RrU2RBcm5taC1VUXNkQTdFNkE2bVpJbFVTZGJEZFQ2OVA0RWduOTJFVmYtT3VTc3VXNzJJdzVuNkZPc3FsOENZNzZHZHFwamtkR0Z0ZnR5dzJXd29uSUhKV0QtR05QTi1HRFFrTUtmR20yMGV6aktmNDlJUFRBMF9JMjhCZlV2ZVhEYjh0ZdIB5gFBVV95cUxPeXcxWkh5WHF6VmhocUp3QzJ4NWNaVC0tUmRBdl92RXV4cnc1XzNlRHluZVdaWFoyS1U0UGVQdXI2dVFuYzE4TENLNjNqZ1dudDBRanlGWW1QbHdsZlJwS1c0VW1ZV1NZTHRDX1hnYWdSZnFmaHQwLWsyMVY1c1VMTFpvX190UHd6RDgxclpRUXI0d05lVXlkNmNxOEE4ckplMm1vajBBVlVxY2Q2UFp1MGtiVndzZHlZLTNLTGp5WjlzSjl6a0RUMWQzbW5UWm9lS01TcVExSUJqSmxIak1kOFg2VTVOZw?oc=5",
+    "source": "Hindustan Times",
+    "published_at": "2026-11-07T03:58:52+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 03:58:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "64953ff53e6854945cf424159e71157cdfa8ba89",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's explicit threat to attack the US 'without geographic limits' after Trump's threats raises tensions and hostility.",
+      "event_key": "iran threatens unlimited attacks on us"
+    }
+  },
+  {
+    "title": "US issues fresh warning for Americans across Middle East over Houthi attacks, reported Iran threats | Hindustan Times - Hindustan Times",
+    "summary": "US issues fresh warning for Americans across Middle East over Houthi attacks, reported Iran threats | Hindustan Times Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeWo2N25ueGdiSHVNRTE2S0tOa2lYSVNZVXljbDJ6NkU3cTVjaWR0WTlFMUZsX1NXRVZrRnVMNGMyelczMGIzdDcwMlZvQWdYZGZXdnRsRU44bzlkUkhTRE1CaXRDYlVCMVpIRTRhTUhCcTJ3aV8tcWNUNUdyQXZUQ3ZwamppWjRldlF4b2tFQUp4UWtGQ05MT3RLbUN3SmZSRkVJM1RQMlhUVkdpR3o3WXRMVm1sb0I2bEJKbGIxeW5HdkM4bzBPdkd1dS1zWFN0aUJUSHh2c1c4TnNKQ2xrZ085UGJqRmN0SzBwaXVDa2E2dk5GTjNsYUtxVmh6d9IBgwJBVV95cUxQMGN4YkViY1JzeTFvUlhLTGo2UnZhUk5ud1VnM0Z1SGlhWS13dmZQT01KVzJyNGF2ZFpyNmZpYUw5WHV5MlZQbkF6VGlkTWh5U2FZVzRHWFdCaG41QW9ZN1lUR3ZIMDJmVTlPaTJhNUtMRmphaTNxaTB0U0R4MDFZbklEWWJYVmZ2QjhiZzZseWxLbnRxbFZTN0tzS1pZTndGbUhZNlBsb2Y3M0VyRTU4RUE3eFlYWlFfVzN3RDZ3Tl9FUjh5VFZzREhyMnJMLXlpMWk1SnNOX3V0UXNmSFdBb1FRcm83cWVReGlTUzhMenk3dnFrNzkzV05JbUY4MEZXLVFB?oc=5",
+    "source": "Hindustan Times",
+    "published_at": "2026-11-07T03:37:45+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 03:37:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1618c546a7ec049f74e362903ebdd9d34cf43b7d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.6,
+      "reason": "US warning prompted by Houthi attacks and reported Iran threats, indicating proxy-driven escalation.",
+      "event_key": "us warning houthi attacks"
+    }
+  },
+  {
+    "title": "US Offers $20m Reward for Iran Nuclear Information as Tehran Issues Military Warning - The Diplomatic Insight",
+    "summary": "US Offers $20m Reward for Iran Nuclear Information as Tehran Issues Military Warning The Diplomatic Insight",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT25vTlc4bmZMZ25nYjNWMnFXVThDb0NUWG9teGpUS3hUcG03WmVuYmhJN2NXcUl4elVYXzRyZ0VFdFpxeERsRnE4R2ZwYTFPQTBKTW5CcFBzanRiTTI4aTBDQkY2ZkVwbWpKMTZMS1lwVEFPUURTYU9CeC1GVzBFekhybHdmQllQNmYwRndhOXJlU3RRQ0ljcjVaVG1TMXgtU0ktdU9n?oc=5",
+    "source": "The Diplomatic Insight",
+    "published_at": "2026-11-07T07:27:19+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 07:27:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fde7f025d9bd3c8dfcbaf37b431804115b71ff64",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US bounty on Iran nuclear info and Tehran's military warning indicate rising tensions and hostile rhetoric.",
+      "event_key": "us reward iran nuclear and tehran military warning"
+    }
+  },
+  {
+    "title": "The U.S. Embassy in Baghdad warns its citizens in the Middle East of Houthi and Iranian attacks - صوت الإمارات",
+    "summary": "The U.S. Embassy in Baghdad warns its citizens in the Middle East of Houthi and Iranian attacks صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPejBVMG1XbXNJalZOT1Y4UTUwZUkyQnU0T2MtQzVMMkQyT2huTWF2endJbURRTVNZaWQ3QjJ2aTdSSm00ZUhPSWZJN1laUG9hUkh3X04yTXR2eVdXdF93MVpoVmhiSmVqSl9aemVkT190b3I0QWRsejBFWjBidUd4YWxOX1B1UFgzU19DM2NTbzB6WFRMOG1NYUo5aHVWOHlFNlVPU1RIaUNfcHJvZjlDY0Fwam0xZXdYa3pfZDRzNzNZcnNYZGZkaDBIN2pEbDhXMzIxVUdtWmxYRzdxZWhCSklOcFU?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-11-07T08:05:13+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 08:05:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "729b880dfa88ae4769ae47685048744a180ab2dc",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "proxy_escalation",
+      "strength": 0.7,
+      "reason": "US embassy warning of Houthi and Iranian attacks indicates proxy-driven escalation risk.",
+      "event_key": "us embassy warns houthi iran attacks"
     }
   }
 ]
