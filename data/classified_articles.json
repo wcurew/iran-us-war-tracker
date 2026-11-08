@@ -1,87 +1,104 @@
 [
   {
-    "title": "U.S. carries out targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals - Los Angeles Times",
-    "summary": "U.S. carries out targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZldIY0JYNjllYmVNb1AyYzFHOGNyMzNXYmxvbERBQmpqX0VWYks5ZVVacDUyQk5TRTMxQU5QNUI4Z1ZKeG45dFZTVWZPTEdzdzl5M1F5V3BHOHpXWEMwbU1DRVF3R0pIWlR3TGRYcHNKNWRnb0JSaEZxem9XSlA0NkhVYUktUFU2RG1EcmpiVHhlNzdiRVU2eEdxMnVyQUhEMnZwck5NeGhWM3J4T2sxQllmcW9lMFdvc0NFdU9zdW5ydXM?oc=5",
-    "source": "Los Angeles Times",
-    "published_at": "2026-11-07T17:34:00+00:00",
-    "raw_pub_date": "Sat, 07 Nov 2026 17:34:00 GMT",
+    "title": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors - New York Post",
+    "summary": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors New York Post",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemExdmpEbnc5TjNrbHBtalVLNmVmM3JQMmlwcm1pbzZuemhZUjBZT3hGY1Mxb0JIQkUzWlVjMnBvOVZTWVphZDh4c3YxamQ4RVZrODRlUWt0czVnRUZTdTB0RnVDd3RaUHBvSVd5SnZpQ2JnUllHcDc5QXNIMENNSkFFWnNtejd1Q2RIYnlocTZsRnM?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-11-07T23:02:00+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 23:02:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "85624b6aaa588e21d52dba1f5cb9a78a6f49cefe",
+    "article_id": "917658aa086c8d68c298b902e638256edfdf8c33",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "U.S. conducted targeted strikes on Iran while Tehran considered mediator proposals.",
-      "event_key": "us targeted strikes on iran"
+      "reason": "US confirmed fresh strikes on Iranian defenses, indicating direct military action despite concurrent talks on nuclear inspectors.",
+      "event_key": "us strikes iran defenses"
     }
   },
   {
-    "title": "US Expands Iran Blockade to Land Borders as Talks Continue - The Media Line",
-    "summary": "US Expands Iran Blockade to Land Borders as Talks Continue The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzQ3QXNxc015cm9yV0lBMTdmakxMTG9LTE4zbDhWSGw0Z0xQZF84RFZkanpBcTg5MTFhR2Z6V2N2d0UtNnJQYlNPaXJyNVQ2UUxhY0FnS0o0Uk14Vm9CU0QzaXlFaFo1ZlFIbWRnMzJPb0N3Ykh5NUYwRlhVVjY4aXExQ3I0YlhkVFA1T002UV92NzBRY2lxQkdB?oc=5",
-    "source": "The Media Line",
-    "published_at": "2026-11-07T17:42:27+00:00",
-    "raw_pub_date": "Sat, 07 Nov 2026 17:42:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e1f869f28e7d16f53afe5e3c47793741d5e42c8b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "US widening blockade to land borders is a clear escalatory move despite ongoing talks.",
-      "event_key": "us blockade expand land borders"
-    }
-  },
-  {
-    "title": "Erdogan urges diplomacy to resolve US-Iran tensions in call with Trump - TRT World",
-    "summary": "Erdogan urges diplomacy to resolve US-Iran tensions in call with Trump TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kT3JQa25vWHdlWER4b001aEY0WEZGVVBSR210V3ZrRzVpNlRNdEpTNV9pcHZYVWd0TkRSMFB6UDI3bTQzM20xRlZhR0hqTU9JSUw5M1BJMm0?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-11-07T18:30:48+00:00",
-    "raw_pub_date": "Sat, 07 Nov 2026 18:30:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "517e3e80a646b8e8b8053894850fbde631dffac5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Erdogan urged diplomacy in a call with Trump, signaling mediation efforts to resolve US-Iran tensions.",
-      "event_key": "erdogan urges diplomacy trump call"
-    }
-  },
-  {
-    "title": "US-Iran tensions intensify amid regional calls for restraint - Daily Finland",
-    "summary": "US-Iran tensions intensify amid regional calls for restraint Daily Finland",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjRGS2I1V1RIMmV5WkdMZl9Dc1FuS2lxT2lmUGtJb3RqbHQ1WmRXeWtJTng5SC11OWZhRXBtNm1ONm5kTzdCbW5WelQyVWI0ZzdCcVpyaDlwN056NER4OGlQM3lkUVdJWjBXVzRIODFJLUR3YkdjbnVFdmdGSGNGUkZzb2luX055NHNQM3lnMC0zYUFvYUZsMEs0YVN4bjNNVDJIVFdCYw?oc=5",
-    "source": "Daily Finland",
-    "published_at": "2026-11-07T19:24:04+00:00",
-    "raw_pub_date": "Sat, 07 Nov 2026 19:24:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "182e8e6267c03fc96e277de8ee2f30bbdcb56a54",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Reports of rising US-Iran tensions despite regional calls for restraint indicate escalating tensions.",
-      "event_key": "us iran tensions intensify"
-    }
-  },
-  {
-    "title": "Iran Warns US of ‘Catastrophic’ Retaliation as Australia Presses Trump to De-escalate - Palestine Chronicle",
-    "summary": "Iran Warns US of ‘Catastrophic’ Retaliation as Australia Presses Trump to De-escalate Palestine Chronicle",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWxsLVpaLWpubkk2VVB1a2JpLW54MUM5NkRteS1RLVpBUGFKWkpuN3pHN2R2RnhtVVV5c3Nrdm5TWF9rMXZjYzJNN01RTi0zd0dZUEp2aHA2RlNXeUU5c0dkUEltMktGOG1xWXd3T3hOdnhGVEUtTjNjTGtxZDZlRzVrX0VYcV9UeWd4UlA4djB1ZXhNSWdLVFY4VEk4UlZhNTZtd1RROE9UekV1bjlKSFRwcng3Qkk?oc=5",
-    "source": "Palestine Chronicle",
-    "published_at": "2026-11-07T20:26:55+00:00",
-    "raw_pub_date": "Sat, 07 Nov 2026 20:26:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f1ee1e6dd0129a7dc2803a2aec168e2910146b59",
+    "title": "Washington’s ‘Iron Gate’: A New Squeeze On Iran—And A Threat Of Retaliation - Eurasia Review",
+    "summary": "Washington’s ‘Iron Gate’: A New Squeeze On Iran—And A Threat Of Retaliation Eurasia Review",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWVhdC1Tenc5TmZQVHNORFRhZ0FVUXFJTUNodjZFRkZyMi05cmk2dERYT3NYbGtZTDBCWEc0MjlJckVuRjE5WjZSakVJaFNRd0VVZ0lPODIxN21HZFlkUm03RThTd2o2RW5DMUtDM2c1a2hCZ3gxOHNqY1lvY2NJRjdtUjU2R2ZkODJYYktVWXNCWWdScTByMktLd0ttZHY2S2NNYUwzcEFabkx4SjhTVQ?oc=5",
+    "source": "Eurasia Review",
+    "published_at": "2026-11-08T01:27:58+00:00",
+    "raw_pub_date": "Sun, 08 Nov 2026 01:27:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3715978302fbe5a64dda9b117fde97123beb5174",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's warning of 'catastrophic' retaliation signals threats and rising tensions despite calls to de-escalate.",
-      "event_key": "iran catastrophic retaliation warning"
+      "reason": "Describes US pressure on Iran and accompanying Iranian threats of retaliation, indicating rising tensions and hostile rhetoric.",
+      "event_key": "us pressure and iran retaliation threat"
+    }
+  },
+  {
+    "title": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders - LiveNOW from FOX",
+    "summary": "US strikes Iran air defense system, unveils new effort to monitor Tehran’s borders LiveNOW from FOX",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVpZOXNqTERYTENkQ1BidTFBVzlWUGszazZrOGpZeVRLdUxkUGJzeDJRSWE2NjNrakNRX0RZYmd2c2c5S1R1WFJ4QnF3bDY3ejhmYjMyenJTRnRaTUZMZURPcFBfbTNhaWFWT1hjOFdOalZQVjJFZ3BzRTlodmRqUU9id01FVTlGY08wcURaRFMxaUdHTWU4UXRmOFE3eU5LZlNHMmlQTHZJTDdzeGc?oc=5",
+    "source": "LiveNOW from FOX",
+    "published_at": "2026-11-07T21:30:11+00:00",
+    "raw_pub_date": "Sat, 07 Nov 2026 21:30:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2402255703128673bded3d167072fd7fe4c5c651",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "US conducted direct strikes on Iran's air defense system, indicating military retaliation.",
+      "event_key": "us strikes iran air defense system"
+    }
+  },
+  {
+    "title": "US-Iran tensions intensify amid regional calls for restraint - chinadailyhk",
+    "summary": "US-Iran tensions intensify amid regional calls for restraint chinadailyhk",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pS1o1YlpiOFAwNVktZHhvSDEySWZkRDNkM2MyVUlabjlIQWZVd3ZJWUE4a3JxVHN0eTEzUXRNMDVWR3N0bnYtclZ6WVJCdVlrbWM2VWxna3I?oc=5",
+    "source": "chinadailyhk",
+    "published_at": "2026-11-08T02:09:46+00:00",
+    "raw_pub_date": "Sun, 08 Nov 2026 02:09:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6e66ec32c5952119355a1a2908d797f9b9a72c69",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Article reports intensifying US-Iran tensions despite regional calls for restraint, indicating rising hostilities.",
+      "event_key": "us iran tensions intensify"
+    }
+  },
+  {
+    "title": "Task Force Iron Gate: US expands Iran blockade, tightens squeeze, as Tehran lifts missile limits. Is another war looming? - Gulf News",
+    "summary": "Task Force Iron Gate: US expands Iran blockade, tightens squeeze, as Tehran lifts missile limits. Is another war looming? Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZWhuQ01mYTZpRFFnbG1WQzJrNWs2WjRRT0Ryczk5bGdjQWVTdXpzd2pzVm1MLVcxeG5wUmYxckxyZ0lWWGlwRGpqZ0k5TkZYYmd6Q3pZbWh1azVXNkFGSlBEdGdLT19wQ3FSWnNJeDlaaUVmSTBEa1ZsNGJXWGhWcU80TlZBbUdJNUthS3dhd2dBb3pXc3pzeExkTXFWSGpET0dVVE41eldqOVBHUVBlSF84SHh4MUtGX2hyd1ptN05obllpZEgyQzBrZ29KY3BPXzVRa0ZBWk1Ca3R0bWJiZll5WWRUQllHZmFqWVIyU2RrTm_SAYYCQVVfeXFMTjRrUTlMMmU3ejM4LU5mT29CLWJOb1FyY1d4X1RVbHQyRmtoZlpqZ0FQR1BFa3UzZERxRHpsMFBDZnhoOXNYNkVFMjgyTmo5NVlzTzBvaTJhbXJGeWt4ZDB6SlVNNHluVkFvMmRHbXZ4WGdVM2VUOVZva2NCVjZ0QWxsU2ptVTY4TTVvSEJyU1VNN1plQkx5M3hXVmpJZW5TZTZDOThjN1EzajN5RDNpWUlHaE54M0ZDRlpCdVR0Y1dhdzBzYW55bUdUT2xKcVZPdkJzMGloY3QtVzVNcmdVQnlSSnZ5X0ZJTXdoQ1pJMjNDT092TnVlQWlGQmZydDBCdFRnM3FnZw?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-11-08T01:09:00+00:00",
+    "raw_pub_date": "Sun, 08 Nov 2026 01:09:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b7fb96085bd5ed759dd5ccd830c40f7a3f8a45c4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US expands blockade while Iran lifts missile limits, signaling rising tensions and mobilization rather than de-escalation.",
+      "event_key": "us expands blockade iran lifts missile limits"
+    }
+  },
+  {
+    "title": "What is Qatar hearing from Trump? PM reveals US panic amid Iran's most menacing missile warning yet | Videos - Hindustan Times",
+    "summary": "What is Qatar hearing from Trump? PM reveals US panic amid Iran's most menacing missile warning yet | Videos Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb3JlQzNTZVk4QWRxUnVTeUFHcC1TR0RVV0V0eUNLZk94Rm9FQlpYSDVpd2NrREF0Vmk5WWVfYUluMFZ5WTVVdW4yR3VFOHhwMkNxRGRkbldyeUpSUl9jX0xCWjFBOTVYcUYwV0l1SXlkTmJSenNxOG5yRDVrRTBvQXpJR2xuRkJQX0RDeVhwUk5qZmthNmFvQ0hmdUMwRjVBY1R3alpFRkI0STVMUXJBZWNFak5LaXAwMmVKTk85UGloYjBWbUNOR2dZZ0hzMlhQVjlLNnhNQTd1R3VjSjIyTnQ3N21TWWpCMkQwVtIB8gFBVV95cUxORkxyS3EybHNWenlHdWlJdmJsVExVNGZlclg3RW9pSkZLT1RHallvalFXUmpXcFg5RWctZXNuVDJrcmV1SG9rUDBHazF5Z0FNWUlXd3dsZGtaZlBtNzB4cXAySGpJTU10SUtGRHh2SWpYeDdGTmFRbEJzRXYwaE5taFluUG1LdFdCazB1WEM3ZFZJZzJiMnF5T1hkU3BaUTRKWU9GcU9NS3A0bGVza3l4MWI4ZDMyVHgzZFVDVVhZZ1VKQnQ1ZTMxVEFNWjlZTmZhT1dtY3BGN3JMaG5Gc0dfTHRFVzdSdE85VFd5WmdIckV1dw?oc=5",
+    "source": "Hindustan Times",
+    "published_at": "2026-11-08T01:16:24+00:00",
+    "raw_pub_date": "Sun, 08 Nov 2026 01:16:24 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "2d5203418344c02cc9005dfb6ae942fd883f2c70",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran's menacing missile warning and reported US panic indicate rising tensions and threats, not an actual strike or talks.",
+      "event_key": "iran missile warning us panic qatar"
     }
   }
 ]
