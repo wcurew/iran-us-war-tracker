@@ -1,172 +1,376 @@
 [
   {
-    "title": "Iran asks the US to stop spreading fake news about negotiations - Laodong.vn",
-    "summary": "Iran asks the US to stop spreading fake news about negotiations Laodong.vn",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2R1VHRFNWFHd3RWeldibF9QQlBNaWhYV1NwVTlreWl2WUVDUDhzWDJFdllmNFZ3cWw1bHBpeWdyRlkwZnBMZnFCTlZuYV8wMjZrWDBxR19rR29hZHBMREltV0Z5Y2xjSDIyazRpc01DakpQVG11SVJRcFNIaF9HazNMT2tJaGNOaUxqa3hWXzFEY2JtX3dneXJFOWV1azFvZGc?oc=5",
-    "source": "Laodong.vn",
-    "published_at": "2026-11-10T03:02:49+00:00",
-    "raw_pub_date": "Tue, 10 Nov 2026 03:02:49 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "381c2e96ec7b4964490fa093c2a7a58be606ab20",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.6,
-      "reason": "Concerns diplomatic talks—Tehran urging US to stop spreading misinformation about negotiations.",
-      "event_key": "iran stop spreading fake news about negotiations"
-    }
-  },
-  {
-    "title": "US Signals Diplomatic Focus on Iran and Russia-Ukraine Abu Dhabi Negotiations - Sahi",
-    "summary": "US Signals Diplomatic Focus on Iran and Russia-Ukraine Abu Dhabi Negotiations Sahi",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFhpQ2FyY013Y3dIb2hhV1FLQjAyVmoyekRDbUJzMlBMYVd4aXRuQWVycW1sdVhRS0Z3am41ZXlnME9VN2tSU2diQTJ1OTgycC03TERjRVhhRzB3VkVOdVN0YS1GbDlpaUxiRWRMbkY0TEdCVDFGYzFkaVEtTFpnU2U5U0NFQll2YVQ4enlxV3VWMkNqU1BQTkVteFZNcGF2VXdF?oc=5",
-    "source": "Sahi",
-    "published_at": "2026-11-09T22:23:26+00:00",
-    "raw_pub_date": "Mon, 09 Nov 2026 22:23:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1167b7ecb34478e3695f44d4d1243ae18e14c522",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "US signaling diplomatic focus and Abu Dhabi negotiations indicate active talks involving Iran.",
-      "event_key": "us abu dhabi negotiations iran focus"
-    }
-  },
-  {
-    "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns - The Guardian",
-    "summary": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-11-09T23:12:00+00:00",
-    "raw_pub_date": "Mon, 09 Nov 2026 23:12:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0b7078406c06b806a026f5f5c3bbc31d86052a64",
+    "title": "US-Iran War is ‘Effectively Over', Russia-Ukraine War Ceasefire Shows 'Very Strong Inclination': Trump; Are the 2 Big Conflicts Ending? - Jagran Josh",
+    "summary": "US-Iran War is ‘Effectively Over', Russia-Ukraine War Ceasefire Shows 'Very Strong Inclination': Trump; Are the 2 Big Conflicts Ending? Jagran Josh",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNTJpd19EWjJ6dDhXVk8zUUswS1BnQUQ2TjQ0eFBhVXI5UmpEeVRsdElLUE40ZFJuTlUwUldrVnVONWJrUEpVS1RiUjJ6TEEzVVB2TjlDcndrejhsVHBKbmg0emF1OW1DcFpJSEkzYkdReVpkWF9FZnJFUkxhLU5pcGlUeHU4T0hmM0ROMFdlaGxCUjduME5ISnRHZkVIY1hqQjJHM09JNHFfOWQ4X3liTUVtUldXUVRueEhZckdpbVRpRDRXeURDaW1BZDlBR2NWdWY0cTJIR3d4T2hXZ3h6NFJqUXREb3JraHdhSnJ3M3R4ZVRLaXZ1bWgtUVRIazR1SllSaS1LRzd6dTJDZHVXQtIBlwJBVV95cUxPYXJjQ2JzUFp3a0Qxb2ZPV1EweTVOSkJpc1VFX1hROWJlZWNTN1piVFY5eER2ZHlJVUNQUVMwRi1heWlQa013VXZHZ3R1ZHgtRUhJM05odjVRSkRaXzhkbklnbDJ2dF9TeTNsai1hMlpsTnFjM21TMUVqd0djY0o4XzFPbGxrandTTjBvbkNDWHQ2b0ZSb0VzNktMa29rdmozd2FlZEdscTZiVWZ6SFB3MncxN28tSkRvdVA0MlN5LXN6REZDZ0V0RjdGRU5qUkVrV0R1QjZLeml3dGVYOEdHNFE1aExXcmVBU3JfQzlqTVFlZmNYeENGZGo1QXJlSjRyVUhYTUxuSlpGQkJPRm85UTV3N05TVG8?oc=5",
+    "source": "Jagran Josh",
+    "published_at": "2026-11-10T14:06:29+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 14:06:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e8a979bc4c62ce177901a1c0c510dbd89ee46d5a",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Trump publicly downplays escalation, saying the US war in Iran is 'effectively over'—a calming signal, not a formal ceasefire.",
-      "event_key": "trump downplays escalation says war over"
+      "reason": "Trump's claim the US-Iran war is 'effectively over' is calming rhetoric, not a formal ceasefire or active negotiations.",
+      "event_key": "trump claims us iran war effectively over"
     }
   },
   {
-    "title": "Trump says Iran war ‘effectively over’ militarily, but US ready to strike again - Iran International",
-    "summary": "Trump says Iran war ‘effectively over’ militarily, but US ready to strike again Iran International",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCeVZKdTZtT0RVUEhBdElDaTZ1cHpIQ09wc1lCT3ZmS0kyTmpqT2QxSFQ5ZmVGZmt1QU52LXo2c1B4ZUJIcmw1bllEeUJoMk5GUnc?oc=5",
-    "source": "Iran International",
-    "published_at": "2026-11-10T00:56:10+00:00",
-    "raw_pub_date": "Tue, 10 Nov 2026 00:56:10 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "339d8e79dcdb5e6cd85d3aae7050ab2a4bc2a2eb",
+    "title": "China calls for US-Iran talks after reported US request for help - China Daily Global Edition",
+    "summary": "China calls for US-Iran talks after reported US request for help China Daily Global Edition",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSHotVDRlZThkSUlIMnRFaWItZ1E5T25PZkJKZkNfOWxxVnNKVjVQU1ZTbGhJczE3Q25wanhKX3lqd2FtZ0hKTEVWSGNqRUl2OE9JTXp1ZEt3VmM2Q1ROTGNsOWx3Rk5ORi1XVUtGejBReWdESHJkSUpwWGIyNElCTFpR?oc=5",
+    "source": "China Daily Global Edition",
+    "published_at": "2026-11-10T08:52:46+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 08:52:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7cedfc8c11c001d7de3dd3af75a085581851f1a5",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "negotiation",
       "strength": 0.75,
-      "reason": "Presidential rhetoric combines declaration and explicit readiness to strike again—threatening tone and escalation of hostilities.",
-      "event_key": "trump ready to strike after saying war over"
+      "reason": "China urging direct US-Iran talks after reported US request indicates diplomatic engagement.",
+      "event_key": "china calls for us iran talks after reported us request"
     }
   },
   {
-    "title": "Iran's top security official says US should stop manufacturing 'fake news about imaginary talks' - The Times of Israel",
-    "summary": "Iran's top security official says US should stop manufacturing 'fake news about imaginary talks' The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb3V6OUd1ajluR2JjUnRQUVJvOHlRNEkzYi04MkhraUpIQnE2cWJkZm5naDJXdXdVdDJFbnJVYktLeFJwRVBiQzlvVUhZNzhTalhVTlpjR1pLd2hPcU9pb2loSV9QQ3R2T0E5MlVmVWJkUTJVLTVMRkdsbEVtdWh4bGYzZmFhWkRzSmhVMkVKSmRzZHRfdi1VeUREMGl5T0NCdktfT0pJYzBXQnJuSmdzWFFmOXZ0Z1lWSFlRX0FOX2paR1pTT21rX0F5aUFlTUE2UWlGV2FB?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-11-09T22:32:52+00:00",
-    "raw_pub_date": "Mon, 09 Nov 2026 22:32:52 GMT",
+    "title": "Expert discusses the prospects for negotiations to end the U.S. war with Iran - NPR",
+    "summary": "Expert discusses the prospects for negotiations to end the U.S. war with Iran NPR",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2VXaWt3bldNZ0FmbTJnOWJLdG1BTEs4Q2FQSTlyXzg0MDdFd0hHeFMxWWJQR1I5UEdWODFEQzRqOU1UcU9waW56YkVMZ2I1ekd5T29JaDktNVhCanhDRzE3T2hGaFMwU2M4MjBYQ1NETG1OdFJRNjRaWFdVb1ltdVlDZWR2Q3VvWVl0cXUzMmlnaDQ1eURGVTY1cDliOC1LbjF6QjdzVlZMZ2ZJTkJpYjNpNlNEX1ltR21uTlNR?oc=5",
+    "source": "NPR",
+    "published_at": "2026-11-10T09:37:28+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 09:37:28 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3d00268fa02d5c6a6c5e507b60a14d73a80c41a5",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Senior Iranian official publicly accuses US of fabricating talks, a hostile rhetorical escalation undermining diplomacy.",
-      "event_key": "iran accuses us of fabricating talks"
-    }
-  },
-  {
-    "title": "The High Likelihood of Another U.S. War on Iran - Modern Diplomacy",
-    "summary": "The High Likelihood of Another U.S. War on Iran Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnEtVDgyelI1V3lQaUh5dW5vT0VXTERjeERTVHY2bEJkV3pZaXZLRDdSWXVBdlp5UmNPRzZIRWU5T2dkXzlvV3VDbW9ISl82TmFlUnVaemFQMHBjZUZCcENnSUZ0TU1XVTFtVGVmUUZzMnpudWFsX2tKM0RGOGM5N21uSWhNUnh3Wm9sZnpn?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-11-09T23:00:54+00:00",
-    "raw_pub_date": "Mon, 09 Nov 2026 23:00:54 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e4833fa52c2fef5756fc54e3bc4ab6c511910a81",
+    "article_id": "93b06c700acbbd93444eb5787ffb5e9ec24c4262",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Opinion piece warning of a high chance of US-Iran war, indicating rising tensions and breakdown risks.",
-      "event_key": "risk of us iran war prediction"
-    }
-  },
-  {
-    "title": "WTI falls below $85.50 as US-Iran diplomacy hopes rise - FXStreet",
-    "summary": "WTI falls below $85.50 as US-Iran diplomacy hopes rise FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWcxVkJISHQyX1dkVmlWSVpvOS1PU29Xak9NNVlmRkM3MWZQZ1lxVnQ0MURHLWFGeG5wLXdGaUdnV0dBOWVqXzh1QVZkbHJfNjdLZElYZ1pldFc2QjNYWFJOaVdadlYtaFN1dXZIUjdsQ2hoYVA0TVJ1LVhnN0FvaU0wMUZiSXdFU1lZaW5lV016dDhMZ0lmemFtaw?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-11-09T23:27:31+00:00",
-    "raw_pub_date": "Mon, 09 Nov 2026 23:27:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9114584d41f18cad142973a548fa8d4cd569cb80",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Oil falls due to rising hopes of US‑Iran diplomacy, indicating calming signals rather than confirmed talks or ceasefire.",
-      "event_key": "us iran diplomacy hopes deescalation"
-    }
-  },
-  {
-    "title": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes - The Washington Post",
-    "summary": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZENobzk1VURRa2N5VkZGWHBnaHllTVoyNk9aTEJEU3p3bWU2ZFNOVmNCcHpkVGctVklLb18ya3piM2dfTkhKNHJjWGlDMzJyWnVGNnZFOEQ5Sy1NbGlEUE0xNmZzeUNYMjhXcWt1SXFTS0QtMHpkbjFwanRlNFRxYXZOQk5HSmpnc0kyWXVvb1BUQnVzQ01DQ1lZZVRMOTNfeTY4ZGhKckZKb1FwYUxYYUF3?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-11-10T05:42:29+00:00",
-    "raw_pub_date": "Tue, 10 Nov 2026 05:42:29 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bae5c0c498a299a7e95012e847904bef2078efb3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Trump says he will keep the status quo and no new strikes, signaling restraint to avoid wider conflict.",
-      "event_key": "trump maintains status quo no new strikes"
-    }
-  },
-  {
-    "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns - inkl",
-    "summary": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns inkl",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVVlSldqbnF5TTVkOHBZZktxMl9ubDYzcXlKc1ByU2Y5dGoyWGl6VXZ3NVlBSmFsUDhXSS14OTRVZ3BLRTF0dm1idFRnSHJmd3VBa05UOV9mNF9zdEJ2Uks4QXVENU1Fd2xvQ1I1bGJEcVlKUDFFa3NLNEZJSm1tY0lIWXhrR29lVGJORGFZQno0MFB1YjBJMEI1YmFJTUx1ZkhqM1hFemo?oc=5",
-    "source": "inkl",
-    "published_at": "2026-11-09T22:58:31+00:00",
-    "raw_pub_date": "Mon, 09 Nov 2026 22:58:31 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8b711c5ebd8a8f0065c7aaa2cc3aec80e5a8319d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Trump downplayed escalation and declared the war 'effectively over', signaling calming rhetoric rather than concrete ceasefire or talks.",
-      "event_key": "trump downplays escalation statement"
+      "label": "negotiation",
+      "strength": 0.95,
+      "reason": "Expert analysis focused on prospects for negotiations to end the U.S.-Iran war.",
+      "event_key": "negotiations prospects end war"
     }
   },
   {
     "title": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely' - BBC",
     "summary": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely' BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jaFRKYWFVQWxWSVF0bDFUUG40V0RYMXZaelNOWTBfX3AyZmE3UkFhaHduOU4zaDJIakhUOEo2R1dFZFZyTmpXS3ZLYnlEbTM2U19QT25VQjVSRTYxNkE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
     "source": "BBC",
-    "published_at": "2026-11-10T02:38:00+00:00",
-    "raw_pub_date": "Tue, 10 Nov 2026 02:38:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "cf0b80a0196c88f9daaaf6fbe1dc72f116603940",
+    "published_at": "2026-11-10T09:40:31+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 09:40:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9c3dfc8e1b00d34bb21104afaeeeab295778e3a9",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.7,
-      "reason": "Trump publicly said further US attacks are 'highly unlikely', signaling restraint and reduced risk of escalation.",
-      "event_key": "trump more attacks unlikely"
+      "reason": "Trump publicly said further US attacks were 'highly unlikely', signaling restraint and reduced chance of immediate escalation.",
+      "event_key": "trump more us attacks unlikely"
+    }
+  },
+  {
+    "title": "IDF prepares for surprise Iranian attack as US pursues deal with Tehran - The Jerusalem Post",
+    "summary": "IDF prepares for surprise Iranian attack as US pursues deal with Tehran The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40Zzhja25JdnVTb242NExwTHpzVV9SYVZQREhGNGdYdlc3WThreFdobjhpejc1eENtWkV2TkQtYWlLOGtxNnZQVHV6YlZvZWJJRTNsSmYyT3NZY0o0QlY2RnRXRWFaSlB5b0ZCNFZR?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-10T12:32:23+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 12:32:23 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b78d173358bb80a1eb84fc30b837f043f2cb0887",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "IDF preparing for a surprise Iranian attack signals rising tensions and mobilization despite US negotiations.",
+      "event_key": "idf prepares for potential iranian attack"
+    }
+  },
+  {
+    "title": "Iran Uses Global Climate Talks to Highlight Impact of US Strike - Bloomberg.com",
+    "summary": "Iran Uses Global Climate Talks to Highlight Impact of US Strike Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS10b2hUNXhtQ3BuektfU1IwTXdwZG43S0xUQnYtOUJNclJsM2szNi1QQ285M0NQdmFEVzB6WWxBbVNkNkJKcGt0TjE5YUlOWlFzeUxrQ2NoS19EY3ZqWmkzTHVjbkowanRLX2d0QzIyOHhSVW54OGtFdmROZUNuUVRmcnZBa2RYakpnZFp5VkhlcC0tX0lBUV9tV2FpaVdtRVRaU0lKVTNXNHZfclVpR252dU4?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-11-10T12:32:28+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 12:32:28 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "09710969d44d270d0d480b40c8dfe52f52995531",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.86,
+      "reason": "Discusses consequences and Iranian messaging about an actual US strike highlighted at international climate talks.",
+      "event_key": "us strike on iran highlighted at climate talks"
+    }
+  },
+  {
+    "title": "Trump, Qatari PM discuss U.S.-Iran negotiations at White House - upi",
+    "summary": "Trump, Qatari PM discuss U.S.-Iran negotiations at White House upi",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmNiSEczN0FFY2ZlbW1jX3Z6NUU0eVFrOERaSWE4cEtOZ2dZMGt2YWxRRDRTRmNaWEtaUksxWEkxWmU5YUxqelc5a0RwQzJjbDVhMXpsQUFiNkFjekx3VVk4TGpFcXp5WF9YZ1dYbHZBZnpGZlZDU2NvZTB2cWRFVlpQcTBUZ3RWT295RzVZNzFQeXZERC1sVVo2SdIBoAFBVV95cUxOZ05UR0lNRG8xeFZPS1RkX0VXUmQxWDN6UjJJVmp5eERXZlBDdVp1dFZ0MTZDcEVPdG14MHVsOEVNQVEyVERJYWlUR1RNVFRsdjB5NE5qd3BRYmw3c0kySjlNeEpkZ2ZUVjBSQUQzYV9yNmlmOE5odWRwSFBxTUE0M0lzUEl4R2dxZDZ3ZmczUnFEVXNaajhtUlhCTXp2dTBZ?oc=5",
+    "source": "upi",
+    "published_at": "2026-11-10T08:08:44+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 08:08:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "6f17b4fe25d720ba9d0900b9d4cd81a24b43890b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Meeting focused on U.S.-Iran negotiations—active diplomatic talks and mediation.",
+      "event_key": "trump qatar pm discuss us iran negotiations"
+    }
+  },
+  {
+    "title": "Qatar sees 'progress' in US-Iran talks after White House meeting - Euronews.com",
+    "summary": "Qatar sees 'progress' in US-Iran talks after White House meeting Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3hQeERLQ3VqdU14QUVnamZONmJTQ0U3QVF5bVM3Z1lxeWV0VHd4R3pXUDhHZHh6c0d3RDh3VlFTSWVyV1JmOVUxako0SW9qU1RyYS11WUtveGVhQURsTndyc05aZFBUTkV1Y0Zzb3VmaWZHVklLTENHLWhTY2dwU1c3Qkxua2tMV0VucDNGV3lRMFVTSE5YS1JwVFNaMVU?oc=5",
+    "source": "Euronews.com",
+    "published_at": "2026-11-10T13:31:40+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 13:31:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5e586adf2611dffb0dae4924c22781983501c4e5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Qatar reports progress in US-Iran talks after a White House meeting, indicating active diplomatic discussions.",
+      "event_key": "qatar reports progress us iran talks"
+    }
+  },
+  {
+    "title": "Oil prices continue to fall on hopes of US-Iran peace deal talks - Euronews.com",
+    "summary": "Oil prices continue to fall on hopes of US-Iran peace deal talks Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXpnZHladnR5dXd3RExHd2M3Tm92T3gyU2xqVGhxek9Wa2pBTkk3OThmQV9YOVRLSHp6Mmdod2pQQlZrTkxiampJd2VvWjZTUGNVdzA3MEFaalJLZlFyUGs5NXVncXpTdkFhU0NLQVVzNkZfeDVIS3NjRVpEakFHUDZWelBMTzREMmZSa1kwUkdEbVNPaUp6bVZ5bExUSXB2Mmc?oc=5",
+    "source": "Euronews.com",
+    "published_at": "2026-11-10T07:54:01+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 07:54:01 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9036d088960110bf33bdd9881bb7ab4299cb14ec",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.6,
+      "reason": "Links oil price decline to hopes for resumption of US-Iran peace deal talks/diplomatic negotiations.",
+      "event_key": "us iran peace talks hopes"
+    }
+  },
+  {
+    "title": "US-Iran conflict: from nuclear diplomacy to all-out war - Al Majalla",
+    "summary": "US-Iran conflict: from nuclear diplomacy to all-out war Al Majalla",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkhUdGRWdWlvc3g1V0dEMm9LdDlhM0dlQ21jS0Z0NGhrRWxpVzg4Z2JaWXdFX2lNeU1DMERBbUtCWEtVLVFKMjJLclBxYklXZXBLdzUzN3V6V0pET1NuRTRaOVUzZmJzSFRYLV9MVEFUX1IzN0dIWFozX0FIbEdBaUY4SkJEVTdSTExGUkp5Z2U1VTVjbFFYWjh3?oc=5",
+    "source": "Al Majalla",
+    "published_at": "2026-11-10T11:16:03+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 11:16:03 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b099406f69861de29d8f674e649ec2ba93815912",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.5,
+      "reason": "Analysis framing shift from diplomacy toward potential full-scale war, signaling rising tensions and escalation risk.",
+      "event_key": "risk of escalation from diplomacy"
+    }
+  },
+  {
+    "title": "Trump-Netanyahu Iran war row: Israeli PM pushes for fresh strikes as US favours diplomacy - Open Magazine",
+    "summary": "Trump-Netanyahu Iran war row: Israeli PM pushes for fresh strikes as US favours diplomacy Open Magazine",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlRQc2Q4NEZHenh4M1dHNllpM2dqdk0tUGtUMG8yWkJLVWhYR0xTWmxfNlBNOS1tSFBKMnJQMUdqV1hNT2NnMktJQUtjYURReGlTbVNpTnl2V28wTVBnWVVPQ2ViOHdkNEcxOEE5ZnJRazRlZVlQdDdrZGFITW1pM1BZOE5oaExwVVJXSGZidWJHY01FOXVvLUpaaV9YNXFpRF93V19td0YtYmIxZ0dxNlNTRFZGSW9PYVdfaFZUaw?oc=5",
+    "source": "Open Magazine",
+    "published_at": "2026-11-10T07:00:52+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 07:00:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d5416fdf7c1701ecea351bff1621a9a3a94b8312",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Israeli PM pushing for fresh strikes while US favors diplomacy, indicating rising tensions and pressure for military action.",
+      "event_key": "netanyahu pushes strikes us prefers diplomacy"
+    }
+  },
+  {
+    "title": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait - WSJ",
+    "summary": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnNCdG05QV90X2xsbjY3QmtkNERKeDBUV3NYM1BQTTNtRzQ1T1lSc2FZTUJaQzdRYmpoaVFnOEZUZHRyMWZOWG1VQ3FnYnMzUTk2SG1oZkhNT1lCdVAyMlVlbU82aWQ5a0VPd2k1SWg1MW5NeUFTTlBScVJCeGxvbllOSXJGZXQtTjVoNlpESWs0SExHUVo5c3MyYVlETERRUnhVWi1LRkN0emdvYnBvN2dZY2lsdHhpd2Nz?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-11-10T13:07:00+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 13:07:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "483be141da94b99d046145471927f992d28d6f80",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.92,
+      "reason": "Direct exchange of military strikes between the U.S. and Iran over control of islands and a strategic strait.",
+      "event_key": "us iran exchange strikes islands strait"
+    }
+  },
+  {
+    "title": "U.S. moves military aircraft from British base amid Iran threats - NBC News",
+    "summary": "U.S. moves military aircraft from British base amid Iran threats NBC News",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZ4UXBPOUctT3V2bHR5V2x4NFRtX1NqQmx4OVgwdmtCejhDVndySUxORllTRThrNlNoNTZ2WUNDcVlWVWNNeGdNdHFJOFpuRENOLTIzQm8xMDV2VnhzeUEtcFh5Y1M3SDEzVlh5djQ1Y0pkWFBzU1d3MENaZVcyaWRGN0FVcHhXMUozeFd4ZW00NzZoUVZOTktwMUlwOHVDUGMxM2NHQkwwWGNEMk5nQnpfWjZSQQ?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-11-10T12:28:32+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 12:28:32 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e11ccb958d1c4716c7ec4c279d3d24b7504143cb",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "U.S. redeployment of military aircraft in response to Iran threats indicates mobilization and rising tensions.",
+      "event_key": "us redeploys aircraft from uk base in response to iran threats"
+    }
+  },
+  {
+    "title": "US moves aircraft from second UK base over ‘threat from Iran’ - Al Jazeera",
+    "summary": "US moves aircraft from second UK base over ‘threat from Iran’ Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmt3YkxLbWZTMl96cVd3eVRIUHdvekd4X3pBQkxJeDA3UkR0SnRsdHdXbVFpTkVwRHBKWUl1eE9VeHBGTVVLNmpodXFfLVhqRnNyVmdVNXdYZldidVFidjhac0tLb0U0bnhqd2gweW84anBna3B3MjFNSHA0SjVubGVHMjVGZ3U5RHVCbUpGSlFlZnh6LXpvTWgtX0liUzR2NXdR0gGoAUFVX3lxTE5aZ3I5dUpPNGZLa2tVQmVGc0l1amdBcDBTUHVjWU5TVXBBZklRdk9tSGVsMVNnMDlhZjZhdWYyU1NVVHpYR0x4eVcxMzYyWFN4eTZ0cHN4WTIza082c2NURUVMcnN3TVl2QjMtdmhhZ0JHMzJlZTRtSU5KVFQyd1YyWEpZcFBHa2J6V2NreGlMelVueWx6RmctOUM1OTNhR1lJRy14Nl9obw?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-10T08:16:38+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 08:16:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "635a520d8332347dd5eb9401fc2f12e94173ee2c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "US relocation of aircraft citing a threat from Iran signals heightened tensions and defensive mobilization.",
+      "event_key": "us moves aircraft from uk over iran threat"
+    }
+  },
+  {
+    "title": "Trump Says Iran Conflict Nearing End, Warns U.S. Ready to Resume Strikes - IranWire",
+    "summary": "Trump Says Iran Conflict Nearing End, Warns U.S. Ready to Resume Strikes IranWire",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmFjb29VUFUwRDZuUDd5SFBPWVFXZkNUVFZoLWFxRlRzSUFEY1BqU3Bjdm9CMHNGX3laaHN0SlkzT2VpakpzVEk1dUx0WVZhcGgzMWtCLUR0d0tLSGx5WW9FRGluLVRpSVBYdHVYM3BkSjRQSDNuRDMyeHd6YzlQOWJ2Y3h4UkJFOGNfSi1Za2NKVldiLTloNXRVZzJ0UVVGa0JEcnNDb2VfZw?oc=5",
+    "source": "IranWire",
+    "published_at": "2026-11-10T08:58:42+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 08:58:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9bec7a0de28ce157c1d283e3d002b211a904acd6",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Trump's warning and readiness to resume strikes raises tensions and signals escalation.",
+      "event_key": "trump warns resume strikes"
+    }
+  },
+  {
+    "title": "Iran Makes ‘Radar Killer’ Missile Claim; IRGC Reveals Weapon Designed to Hunt U.S. Defences - The Times of India",
+    "summary": "Iran Makes ‘Radar Killer’ Missile Claim; IRGC Reveals Weapon Designed to Hunt U.S. Defences The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdnZkTk42MVdRWmo5Z1FjMU1pTC04eVNwVUJvb1VSbDJtdU00TE1xbGZpdVpadC1iUXNpazA5dDJXNEZxRWt1SXk2OE8ySDFIMFl0X1k4enB3ZnZIUG5JUTltNDc2OE1neFlUOEJWc3JKcjFHUmFNNFhkSG1uVXhjRnJNMFZST3hyLXhWc1YtYm9KdkI1RzdnMzV0ZHdkaUtKZi1KNnBzZUxUbE9XU3NjdGJ3UUFDWnBTZW5LRHZkMWw2ZWU1bGk3SmdxUGlqVnVEZGprbnVrd0dWNm9pM3BnSGY5LWFZTmhBeGtGY29fX3htcWhSaFJFV0hvclHSAYICQVVfeXFMUEhwNEx1UEVwV3R2N0tERXZMM1hUd0JMdVBPZ3A2VmlMT2RyNXhQMDItUDZaZHNDUFpHdnFjTTJrTjJ6X01ZcW4tMldLUlN1c2ZfbmFGMTBPbnlkeGZ0N0lIazVIV1NBdXlibXNzb2N2QWEwRTBNQ3pXZUJRS2VTN05lTEJBY0F0TXFNS3hYR0ZjZXI4Q3p1ZDZDOVpXYTg0OEw4aGRwSEkxamlOS3JMZW1HR090anpMa2Nnd2psaXZOUFJQRGJDNkhfeUxGWGg4a21PSHpRdjh2bmFOMFZNMzlzaXBkMzFSUTZ1b19MOUN4eDNOTHVONjcwRmJ0T3gwdi1B?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-10T11:11:29+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 11:11:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "307d21f9db4ce211fcaae41e9a339be20d11b903",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "IRGC unveils missile claimed to target U.S. defenses, signaling heightened military threat and rising tensions.",
+      "event_key": "irgc radar killer missile claim"
+    }
+  },
+  {
+    "title": "Iran War Day 256: Trump Says Escalation ‘Unlikely’ - The American Conservative",
+    "summary": "Iran War Day 256: Trump Says Escalation ‘Unlikely’ The American Conservative",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHB4UlV3aExiZTdQYmdkYjYyeTBwcExIVEx1d2hESnhpWkdOMVNlQ2xmNmVyRkh1RlZzTWs3bGlsSFE2aTlQTE9RQl9hcHcxN0h3dDY1ZHpHNXdWbkVfRXJhSWlsV2JIZEVGYTlEMTVfVHNwZDJ1TUVvcmdqVlhTQi1SRlM4LUUxQkltSWpMV3doQQ?oc=5",
+    "source": "The American Conservative",
+    "published_at": "2026-11-10T12:54:00+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 12:54:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "390489f8274f96e38c81c789022a24a38372e34e",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.65,
+      "reason": "Trump said escalation 'unlikely', signaling restraint and reduced risk of wider conflict.",
+      "event_key": "trump says escalation unlikely"
+    }
+  },
+  {
+    "title": "Oil prices dip below $90 on hopes of military de-escalation in US-Iran war - The Irish Times",
+    "summary": "Oil prices dip below $90 on hopes of military de-escalation in US-Iran war The Irish Times",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTdWQUhlUVBIeGx1X3Y4M3puUU5DX0lyS3IwdUUzNEVDaXJyam5lQV9MeGgzRjl2LUlDblVZTVJoSERpaTRfUE9HT1ltMF9ncDJBUUlFSzhvbTJsVXZPSlZGOUZtZWxtcEpxeWRjZV9hWWRqSlhkQm5NYk1UdG5HeDYzSHlsMlZ0bF9heEhXdzhHNHl4V2VRZXkwQUQ0c0gwemN2eHVKdGJacFh2SWlSTnJDeWFKSkFCSGZjU0h3?oc=5",
+    "source": "The Irish Times",
+    "published_at": "2026-11-10T09:35:57+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 09:35:57 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "f6708732f7031a16582f115af77c4ec1f5a5660a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Links oil price dip to hopes of military de-escalation, not an explicit ceasefire or active talks.",
+      "event_key": "oil market reacts to deescalation hopes"
+    }
+  },
+  {
+    "title": "Ringgit ends higher against US$ amid hopes of de-escalation in US-Iran conflict - The Star",
+    "summary": "Ringgit ends higher against US$ amid hopes of de-escalation in US-Iran conflict The Star",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlvb3RPeUNyaENUODBEejZLTU5oUmNnWUViR05FcHVxdENOZ0kxcnFxM25SYV83NEc0R1lUdDZmRnRhU2RLb29Lam05RTR2cG1FWDFXTHNadldkMmJtUzQ3WmVFYUFlSDZ4VVdxUENxb2hZUWY0RVZfZkU4M01XRHFsMnZEbjNhMjM2dXZOcE5MMWFHcE4xbllxQXlhQmNFUldiMV9sQTFCUDdEU184bFN2aF9pbnU5V1RnNFl1VWF0N2pvTENpTVJZMzQ2QTBGWGEtY1FR?oc=5",
+    "source": "The Star",
+    "published_at": "2026-11-10T10:59:00+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 10:59:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "190d094f92a0fcbea16e066550e08cd2cb7d49a4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Markets rose on hopes of de-escalation; no explicit ceasefire or talks reported.",
+      "event_key": "hope deescalation us iran markets"
+    }
+  },
+  {
+    "title": "Ringgit ends higher against US$ amid hopes of de-escalation in US-Iran conflict - KLSE Screener",
+    "summary": "Ringgit ends higher against US$ amid hopes of de-escalation in US-Iran conflict KLSE Screener",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWW5YSF9seTZHeGI0M3YwUnJnSkNsVU1adzRKcDl4TXdlMllSbkFhQzB2VENqd1ZJOEh3ZDZzc3NGeUFENnpGcnFlTkwzV3lNZzRJUFdhVlZERk1ZZWxxSlRfUVJYSnVhODQ5MTVnSmYxci1CVUlfQzVSR29Md0NiR28xeFpmYnFvc3dOcnFhcHhSUVgtOERwSjY4VFNPOTROU3EyQWZOWkRhZVl3WE5BWkFuMmdNMjRsR21UaVJrcWRRMWIxZkFF?oc=5",
+    "source": "KLSE Screener",
+    "published_at": "2026-11-10T11:11:53+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 11:11:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "82d2443fbe2b917a747ded338e7ca055a2b71b73",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "Market rise attributed to hopes of de-escalation, not an explicit ceasefire or negotiation.",
+      "event_key": "deescalation hopes us iran"
+    }
+  },
+  {
+    "title": "Trump Signals Reluctance to Resume Iran Strikes, Keeps US Forces on Alert - Novinite.com",
+    "summary": "Trump Signals Reluctance to Resume Iran Strikes, Keeps US Forces on Alert Novinite.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcG9MaTNwLWVFek5TUHczWlB5VXZFWHFZZkRwNDUzN0IzdUo5NDIwQVRhNEpKMHRGLWhGaG9CbTBGdWoxamZxWHF3ZWsyU2RuLTJHdjBlRGRoTVZUanFDbl9xT3E2WWxnTnBxVjdYWEJwX3VFYzhJV2lmekh0MzU4Y0RrdGZYcnMwTmRIZExhZ3o3c09tNWFqQ1VwajBLN1lQNUYtWS1MZ2JXQWhPaVlzSjVmYml0bFk?oc=5",
+    "source": "Novinite.com",
+    "published_at": "2026-11-10T10:05:39+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 10:05:39 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b12fa2aa19c9f40f8c98ed58c77c6b8713b2318b",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.85,
+      "reason": "Signaled reluctance to resume strikes while keeping forces on alert, a restraint signal avoiding immediate escalation.",
+      "event_key": "trump reluctant resume iran strikes"
+    }
+  },
+  {
+    "title": "US evacuates aircraft from UK base after reported Iran threat - Yeni Şafak English",
+    "summary": "US evacuates aircraft from UK base after reported Iran threat Yeni Şafak English",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcURtTTJtalRFeDFtNlJpSlAyMGhEVGpCVXNVYmxBR2l1ZzFKaWN1aVZqTUw2c1pHSkdxLTVSU1UxMGVWS0x1X19JcFZqQklzaHVGRDBIbkZfS3dVZHdMUTBQZHBfTzlsejg2bXBobGE4Z3J3R1I1dnNrWk9lbjNaeDFqU1VyME04ekRQSDdaYThyV1AxUFcyQVhzb0JQZ0VPQXc?oc=5",
+    "source": "Yeni Şafak English",
+    "published_at": "2026-11-10T08:14:44+00:00",
+    "raw_pub_date": "Tue, 10 Nov 2026 08:14:44 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cefd4ca695ec9d1444aa4c080ba1c59b354a4eb5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US evacuation of aircraft after a reported Iran threat shows mobilization and rising tensions.",
+      "event_key": "us evacuates aircraft from uk base after reported iran threat"
     }
   }
 ]
