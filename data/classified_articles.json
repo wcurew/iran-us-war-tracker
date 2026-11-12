@@ -1,121 +1,189 @@
 [
   {
-    "title": "US-Iran Talks Stalled Amid Warnings of Military Conflict as Iran Pushes 'Two-Day Plan' - news.sbs.co.kr",
-    "summary": "US-Iran Talks Stalled Amid Warnings of Military Conflict as Iran Pushes 'Two-Day Plan' news.sbs.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91bmtxRDY3Y3VsdGdIRktvQ1FPVWRoU0tiMEwzZ3lRSkdSZ19yN0t3b2pKNEZVRjVHQUJ6QWNQdzlqbkVfV0ZMQVRrRThqRDhyY0JYM2FCbHNUTkxobWxaTFhUcGZGWjVvYjNtTWR3?oc=5",
-    "source": "news.sbs.co.kr",
-    "published_at": "2026-11-12T01:41:26+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 01:41:26 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f7dcf66748fb28affc6a1e59867020f0fa3c9ad1",
+    "title": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy - WSJ",
+    "summary": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy WSJ",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-11-12T07:29:00+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 07:29:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bb8747a0eb05ca9f5a47cff4278faa61c4616ad9",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.9,
-      "reason": "Talks stalled with warnings of military conflict signals breakdown of diplomacy and rising tensions.",
-      "event_key": "talks stalled warnings of conflict"
+      "label": "deescalation_signal",
+      "strength": 0.35,
+      "reason": "Oil prices fell as investors reacted to diplomacy signals implying reduced U.S.-Iran tensions, not an explicit ceasefire or strike.",
+      "event_key": "market reaction to us iran diplomacy"
     }
   },
   {
-    "title": "WTI Crude Oil Falls for Fifth Consecutive Day Amid Stalled U.S.-Iran Talks and OPEC+ Output Increase - KuCoin",
-    "summary": "WTI Crude Oil Falls for Fifth Consecutive Day Amid Stalled U.S.-Iran Talks and OPEC+ Output Increase KuCoin",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHpwam9ISnljUEVQLTlzMmZRbzNJNWFJSl9SQnAtM3Q3cnBBd2ZYM01tVUdSeGRxZXljX3BHOWYzX3h5cnViU0ZzY0E5TE8zcGx4OHlhMm5iZnM5aGIxZmNOSDJuYml3ZUJGVVdWaE1ER1EwaWtQUUZOTnNOb1FqdGhVTEp6ZkhVVjEtUWVFWi1xLTV5MUprMm82WlIxQ1ZtZ0g4VXhFM3oxNUcwVWtJVzBJOWp2Zm5zSGoyRWZUcVd0R3JfTm1J?oc=5",
-    "source": "KuCoin",
-    "published_at": "2026-11-12T02:06:47+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 02:06:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "af3c9ebe4683086ecd899f57cc7467abd9a69184",
+    "title": "US War on Iran, Day 259: Vance Takes Lead Role in Contacts With Tehran - EA WorldView",
+    "summary": "US War on Iran, Day 259: Vance Takes Lead Role in Contacts With Tehran EA WorldView",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0dPLUd5NlRYSlUxRXByd1pTMENJSmtvc1FPenpydE1PSkVnbXBNSWJGd0ppOFNDdkZ2Uk1jZnRPNmdzMDlKU2pYaUVMNzAzU1RIcDhLZ3czdEl0aEthLVlyOE5IRkxDcmNUcGQ0X25YQ2VZc1Z0SFhzUkRFZko4ekEyekRjUU82aWxQRVRkRzI1d3NBV3I5UQ?oc=5",
+    "source": "EA WorldView",
+    "published_at": "2026-11-12T12:33:45+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 12:33:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "563d05197cc835b6c77e2558fe0e1f4eb7b72f7a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.8,
+      "reason": "US official Vance taking lead in contacts with Tehran indicates active diplomatic engagement.",
+      "event_key": "vance leads contacts with tehran"
+    }
+  },
+  {
+    "title": "Erdoğan urges return to diplomacy to end US war on Iran - Turkish Minute",
+    "summary": "Erdoğan urges return to diplomacy to end US war on Iran Turkish Minute",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWh2NVBwX2V5NnVFa0t0cVVycDNpZUdHZmE3cEhOYmtUV0o5Q3lOa2Jyb21rOS1CT2JoaWtwXzliTWJkaHVIMVJrajdyOE1QZkJQQkZSRV9kZUhqdzFKQ0NERWN6TU9sc09PYVRfZ2dFNTFCRHA3VHZGeDJYWDNNczN0d1Ffamx1YnkySFZhd21YcmRkblFUUjVOeGZjZ9IBowFBVV95cUxQa2taOTRWSXdOOWZfX21VclZ2SzlZcWNfTmhDazc1R3c4bE4tM2Qyc0kyLWxZRlNnRlozY0ZkOUVRQUM5ekdnWHFQSGxMbGt5a0piaTBqaFZ0Q3A2RWUtZ2h4MVdncFlYY0Y1R2hlVVhGa3Y4ZzNESG1DMTFSamRZTVU2ZV9Pc05yYTFZQ3FZdW5QMW43YkZWT04yQ2F5T1BSN0Y4?oc=5",
+    "source": "Turkish Minute",
+    "published_at": "2026-11-12T09:45:29+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 09:45:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "4c36c83c4dda0c5995867ffabe05db78113f84de",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.7,
+      "reason": "Erdogan calls for renewed diplomacy and calm to end US-Iran hostilities, a de-escalatory political signal.",
+      "event_key": "erdogan calls for diplomacy to end us iran hostilities"
+    }
+  },
+  {
+    "title": "Iran's security chief threatens consequences if U.S. strikes resume - NBC News",
+    "summary": "Iran's security chief threatens consequences if U.S. strikes resume NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGZSWm10S2hqSzl6Q2RKZjJXaWZYNTJsVFktLUd3WDRyMkFTT2pLMjFjcEs0eTQwU0ZBdUN5NXBlOGIwNEZveEQyUXB2bHJUVUR0Zmo3a3NaX3NfdEZIUEFhcmQ3QTlfUnhBV1k3QWpaX04xZUNpVlVWdlJlaUNpZWFMY0Naa1BhakhENk1ZSWFpcmhKM19pMEhBNk44VGd2UXdwa3JBR3dLV1lrdlJFek9XTQ?oc=5",
+    "source": "NBC News",
+    "published_at": "2026-11-12T13:27:18+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 13:27:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a244164c81c319d5a7cfc929ed1b5500b950968c",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran issues explicit threats of consequences if U.S. strikes resume, increasing tensions and risk of confrontation.",
+      "event_key": "iran threatens consequences if us strikes resume"
+    }
+  },
+  {
+    "title": "Iranian commanders threaten to kill Trump, strike US targets worldwide - Iran International",
+    "summary": "Iranian commanders threaten to kill Trump, strike US targets worldwide Iran International",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rUE9oRU5waDBDdEVFOERlOHBtZGNHVTZRYkFGMU11NU50YUhiVHhXTmRJTWxTbXQtSkJ2VjBJMjdnRDZYZy1HWU00OTBKU25WVnc?oc=5",
+    "source": "Iran International",
+    "published_at": "2026-11-12T09:30:31+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 09:30:31 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "955e814389574b3b5c9c12f9b4616e36b13500c2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Iranian commanders issued explicit threats to kill Trump and strike U.S. targets worldwide.",
+      "event_key": "iran commanders threats global us strikes"
+    }
+  },
+  {
+    "title": "Iran will strike US bases in Europe in any war, warns Rezaei - The New Arab",
+    "summary": "Iran will strike US bases in Europe in any war, warns Rezaei The New Arab",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjY0Qm1kWktzM1J3Z2Rrc2ZQVE5UWDNiQnJ5b19ZQWNuUFRDeWd6QVpsUjNVSVJhM3JSeDk2emFoRGRsNEZHUzY1MkpOZW9vV1JQbWZJY0YzZmJZRnNCMGZrWDF5SEJaSjVHdjRGc3pZTEl2M0FEcmhRNjZOUUN2Wm05T2N4c2Q3X0E?oc=5",
+    "source": "The New Arab",
+    "published_at": "2026-11-12T12:53:46+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 12:53:46 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9239b47b9cdb1c64790b36f3b4bd3567eddf66c7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Senior Iranian official threatened strikes on US bases in Europe, a direct hostile threat raising tensions.",
+      "event_key": "iran warns strike us bases europe"
+    }
+  },
+  {
+    "title": "Iran can still produce 50 ballistic missiles a month, despite US-Israeli strikes - report - The Jerusalem Post",
+    "summary": "Iran can still produce 50 ballistic missiles a month, despite US-Israeli strikes - report The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fb2Nta0NnYU9oS3dnTkc3a2VPNVRSVXdUcS1wNFNlcXo3eG9kS0lZbWlFRy0wQ1pzSmUwZTNMZWVUbmFFT09MYXYzLS1JandqVWtTdnlyVWthRmo4Wm5xTmJOREwwU1pmMnc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-12T08:36:48+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 08:36:48 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c93fee403847d57333173dd9dfd3acb7faa20d76",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Reports Iran maintains high ballistic missile production despite US-Israeli strikes, raising military tension and escalation risk.",
+      "event_key": "iran missile production persists after strikes"
+    }
+  },
+  {
+    "title": "Iran war restart wouldn’t require US to drain tight supply of top-tier missiles, analysts say - www.stripes.com",
+    "summary": "Iran war restart wouldn’t require US to drain tight supply of top-tier missiles, analysts say www.stripes.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc19JdkMxelBrM0kxRl85bmkzWld6OU9nN091NWdsLWNJT1RERmRReGV6OC15NnVTQWVtOUlxSmd6UlM3dmRoZzBNalFjQWlTRE52TEJIc2pvUlE4SE5nYUNIWlo3NjdTMTNDVzZDOUx6SmtBWHJBUlk3djBHc0NudEo1N19PV3B1ejc3cUVjeXlMWldlTDJWVg?oc=5",
+    "source": "www.stripes.com",
+    "published_at": "2026-11-12T14:14:11+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 14:14:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bd2aa58239668a46549ba1617c9aaca52e4da681",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Reports stalled U.S.-Iran talks indicating a breakdown in diplomacy and rising tensions affecting markets.",
-      "event_key": "stalled us iran talks"
+      "reason": "Article discusses potential restart of war and US missile use implications, indicating rising military tensions and escalation risk.",
+      "event_key": "war restart us missile supply analysis"
     }
   },
   {
-    "title": "Oil prices dip 1% on report of more U.S.-Iran diplomacy plans - Investing.com",
-    "summary": "Oil prices dip 1% on report of more U.S.-Iran diplomacy plans Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnZvSlNXaWZKY2RaNkc4VlA1UlY0b1kwQmlFXy1BRHpJTFdfb05IY0hTbDI5TVJXMENhSEcxRmhCUnRCRERPMzZBY09FdXdoMk9UeFFLV3BQUWw5MnRFdGt3NEpmTmhiZkhHdDl4SEpGakU1YVhkVjEtZTZvNmpNdDFCYTdEcVRZaVk4aXJuaGd6VlJZNDlWa1VOSmkwZ3lrZ3lHZ1FpRVRXLWJoMThZcQ?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-11-12T03:32:52+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 03:32:52 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f585471a3cb866f9477bb28e2bc78542d85a67c7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Report of more U.S.-Iran diplomacy plans indicates active talks affecting markets.",
-      "event_key": "us iran diplomacy plans"
-    }
-  },
-  {
-    "title": "Iran's Rezaei threatens US military bases from Middle East to Europe: ‘No safe distance, no safe haven’ - Gulf News",
-    "summary": "Iran's Rezaei threatens US military bases from Middle East to Europe: ‘No safe distance, no safe haven’ Gulf News",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1VRQWZRMGU3T3lrRzlyR3Y3T3JxbERZREtUbUlSWXhORXNQc2lzbjA4ZVRnYkNQMm1JUWZQeVBRaDAwcTdJY0lrQlk4WUFjbGVJSlhVVTBjdzk1LVZJX0luQmFMeG82Q1Q2anYyLWwxMk1TcW00d1lBckFWRlk4dVhFaExtRnRwTHpTRXRXSlYwY2ZpNjlBTy02aEEwLUloU2J2NmdjeFduUElUc1hEV25mT3VHVHdMdE93dEZpeG55SXpBV1ItUHNKN3l0azJYN3lRQXBCTnRkd9IB7AFBVV95cUxPN3BxQnNJZ21uYmd3Qk5ueS1HVjRIZ2hzOVYwOVlkVkM0WV9fQlZHclZaZ3NseTd2YzF1Zk5iclY5R0ppaElOdjY4UkdzbXVrb3BjNjk2N1o2UVFxMW9jWFJhTFg2b0ZNVWV4QmhHWTlRME5LZnZWTzBqbTd2ZkowU0ZBZ2pvUVFuWWFYYlVSWFRXa012N0dyb1oxTFFCYS1md0FlLXlZZVhBVnpzdk5PYW9xRm4wdHptamFPMHgzOFN5RVlXOGxQQU9KN1VaaTdrQ2RnejBCMi1Nd2hyOFBzdU16dmE1MlEtN3lnTQ?oc=5",
-    "source": "Gulf News",
-    "published_at": "2026-11-12T00:32:32+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 00:32:32 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e6ff7709e4444234660a9c755ad4681d65569b70",
+    "title": "US-Iran Conflict: Rising Tensions Amidst Heating Cost Concerns - India News Network",
+    "summary": "US-Iran Conflict: Rising Tensions Amidst Heating Cost Concerns India News Network",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWHFiR1J0Si1VQUxkcUF4bVgxOHBUSzdWS0pxMUx2MHVUQlpneGM5QVk0V2xiUXJzZGEwS1c5RG9vbm45NFVFTTk3S1l5UUxRcFdhQTRzTTRFUlJtY3ZWd196WWd1dGZ5TU1DN1VYaEZVMEphc2ljdnhGMEtlLXlkLUx6TXlTVURzTTE5bEo3dlVPZThsSzlsNXV1N0pHVTRuUHpxZEgxNlZ1dw?oc=5",
+    "source": "India News Network",
+    "published_at": "2026-11-12T05:54:42+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 05:54:42 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "d7624d4874eb3828a2370eded559aa2b6a6b111f",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Iranian official issues threats against US military bases across region and Europe, increasing tensions and hostile rhetoric.",
-      "event_key": "iran threatens us bases"
+      "strength": 0.6,
+      "reason": "Headline signals rising tensions without mention of talks, strikes, or proxy actions.",
+      "event_key": "rising tensions"
     }
   },
   {
-    "title": "Iran threatens retaliation on military bases if US attacks again - Oman Observer",
-    "summary": "Iran threatens retaliation on military bases if US attacks again Oman Observer",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVEM1aXJHTTBIVllrdUR5NFdqZ2hCLTlLNXJqZnYzS25NX1pHQUNMYVhWNzlfb2NTWExJWi02SU1rbWtVRFlTT0g2RnN2aHdFYnhGVWtFQ3lVWHpkM3U5UzNfQzRSaTVxOTlnUWxUSXUxU2ZGNWlIajVWdmJsQkl3WmZSWnRkZmZ3Vi1lbTNCWWh0SEljYWVxUVFhQW5MdFdjUWpmUDZIdkRTaDVLcVp6R0pzeGc5Wk9NN3d1Q29R0gFaQVVfeXFMTTZJRlFQWjR2Z0oyYUF6eVJ0UjJ0cEtxeHROem90Ykh5WTM0b3ptcHJVRUZ0c241bEJGMXlxMDF0c2x1OTdPQk9LNTNVUmcwa3RvZi1oQ2pnTUR3?oc=5",
-    "source": "Oman Observer",
-    "published_at": "2026-11-12T05:19:19+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 05:19:19 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d2638210fa84337a5815ff5b1cf4941ca88dc74c",
+    "title": "‘No safe haven’: Iran warns military bases in Europe could be targeted in new US war - A News",
+    "summary": "‘No safe haven’: Iran warns military bases in Europe could be targeted in new US war A News",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNS1RU19XR2ZXNUN5Sl81NlRoRVZYbmFWRDMzRjlKRTI0SkhaOHBRckhVX1ZxbGpNdFdBUG4xc19MUm55S2dzVnVDRWJRRnJqT0RrVlNiSlN2cTNSbXpvbUVBc3BRTWR1Q2NIOTRVRnNlZS1Jekp2dHJUOEVtWjcxU0Raa0xMT1AyUHpXa0xzUFRmVjJxNDlRbGQ5Ri0zSnhfQkdXY1ZrTm9pTGYzdGdLbFlZX05PaDRDd2UwZkJITmfSAcYBQVVfeXFMT3k3MEVfcU1JM29Wcnd4THRtYlVnTnl4eF80eEVjbmQ5NTVJcE1wc2t4T1V2em5Xdm5kTVg3bFNPSXZtb2tJa2FvaVRWVFRaSzRuaGpQclQwNEpxSk1OR3JjSkNBd0ktQWVvX1YtQWV4czJ4aFYtRFlHNGF2NXFzeTAxdDZ0dk91cFVGZkpEaHdNZXNZcEpROUdSYklZMXlZZElieDZhZHZEdERoNXFQQkZqdmw2R2VxOWxjQXo1WlY5WFNSdE9n?oc=5",
+    "source": "A News",
+    "published_at": "2026-11-12T07:33:09+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 07:33:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "596b2beaee0c6c600d0a13a8cc49191de1ed9f9b",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.9,
-      "reason": "Explicit threat of retaliation against US military bases increases tensions and risks escalation.",
-      "event_key": "iran threatens retaliation on us military bases"
+      "strength": 0.75,
+      "reason": "Iran issuing threats to target military bases in Europe signals rising tensions and hostile rhetoric.",
+      "event_key": "iran warns targets european bases"
     }
   },
   {
-    "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops - Fox News",
-    "summary": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ05QYWVnRGU4aV9FS1pCczA3dU9VY3U4VnVoeVNLLUg2aC1XQndBUlozb1FtaXZFRndfcjVYS2dRTG1LS3JxUFcyX2ZQNlJtZlVBRElmZkZyZFZUYUw1TkdQdEtRWURZd1B3a0VWV1FCTzVrYm5MWmdtbkxYNmNNTlF5d2hiNTJCQ2pGbVBfZktVczBXZHBfUU5YOVZQaXRuemh6SjFJX3jSAa4BQVVfeXFMT1hVZFdKM2dWV2kzRkVWazJIUmlZekZhM1RpVnhMc0ZBWTNYa0Q0THpRRVM5VmhPcGdrdTNLLVhfYVhtekFSbDhJUG4wRWQteEdNcGJjVlZaVURvdTlFRGdSWDY0NjB1dVlxQ2ZzV283NmFzdGJGNFJOSGpxLUJ6R2w0QXhXMWREMjlJYzFnUk4tSElzdDJBakFKLTFnOWVyTFBYRTJzZGlFN1ZwREFn?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-11-11T22:48:03+00:00",
-    "raw_pub_date": "Wed, 11 Nov 2026 22:48:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "900393e5ada6c842f65c03d484671f7d4bcb2351",
+    "title": "Iran’s threat to destroy American military facilities overseas could put several African countries in the line of fire - Business Insider Africa",
+    "summary": "Iran’s threat to destroy American military facilities overseas could put several African countries in the line of fire Business Insider Africa",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2FxZGpQZVpEN3gxQjcyMkJ0WFFRT0xIazE5OXNVQlNpcHU0bnp0TC11SEhVS0hJWnl2UUdpZkRYZ0FSajBYczRIMFVEWUFHVWJYRmhnVXVNWUFkNUE4cHp6S0F0R2J3RmdTRUFDVEJsaDNWWVVLQlZ5TDFTRjhGUkJxVXdRYTZEeVV4T1A5b2hMS2ZXb0M1WUNKTzlvY3BNYkN0NDc1YnNISnNjWlYzb2wyb3Njc1VPelJ0WnBNTF92T19LanRaZDlzd3kzdGwzYUE?oc=5",
+    "source": "Business Insider Africa",
+    "published_at": "2026-11-12T06:56:25+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 06:56:25 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "87fbe929da85aed5b4f4d163a4d387f4ac3bdeab",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claims it struck an Omani island used for US military operations—an asserted direct strike/attack.",
-      "event_key": "iran claimed strike omani island hormuz"
-    }
-  },
-  {
-    "title": "Iran Continues Missile Production Despite Months Of US-Israeli Bombardment | Report - The Times of India",
-    "summary": "Iran Continues Missile Production Despite Months Of US-Israeli Bombardment | Report The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYWhudFBoOG5NcjAxX3BxdWU4TWpnREtvRmFTZ0phOWJhTHR1NXBpcndQLXJlVWk0V1FfYjZQUVVncGt3ZUhGeTBtaWZLWXFndXJ1UV8zdllJZWRvMmp5b3R3S2FsaTBjVE9PTTZua1dDVGlfSVl0UXpVQXdlYjR4MU85ZnJyMVJ2RV9sYTFmLXhsT2tvdDFSZUgycmQ2NU5KSThWU1E5LWg0ZkNySGxCN3U1ekJ1YWx4WDJfQS1GWm5TX1Y5aFNxS0JpTTMxVkFPLUVXTk4zVndqTWI1Z0pHa3ZzN1hiRlQxUzFHXzJEeVdyRS000gH6AUFVX3lxTE5nZTVmSHRwUkUtTEN5ZmpDWmd0V083UkZIUlVuZFpQSHowUDN1V0NSem5EcEpmWFM3WWI3cjVCNlpwc3lKd2RnajVqTmkxaGtQQnJ6U05UVnAzcEN2UDJDVFNiWTZJZEZxRnBCNnpLdzd6dl9OLTQwYlZ6Zy1kZEZ2LTJTUUY5NVJKd29ETGxUbDJNam0wWllEYURPV0xoMnI1M1RVLUY1RlQ0RFpOYnlWcTM1ck9hRlRjRFc1SWZ5NUdpVlgwdm9LamNDVFJEbFU2cGxDOU5EaUlpZXJNWmJ1Vmo4bEdwMmYwZkZLamZCckpUTXhFVEUyVUE?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-11-12T02:39:16+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 02:39:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "963a15ac7a31aaa55032758a4fd3cb3661aaf391",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
+      "label": "escalation",
       "strength": 0.78,
-      "reason": "Article describes ongoing US-Israeli bombardment and Iran's response in continuing missile production.",
-      "event_key": "iran continues missile production amid us israel bombardment"
+      "reason": "Iran threatens to destroy US military facilities overseas, increasing tensions and risk to African bases.",
+      "event_key": "iran threats us bases overseas"
     }
   }
 ]
