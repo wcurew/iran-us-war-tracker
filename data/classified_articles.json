@@ -1,206 +1,189 @@
 [
   {
-    "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
-    "summary": "Trump says no deal needed with Iran, closes down Vance negotiations The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-11-12T21:05:27+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 21:05:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ab463a4f1444f0b3c1eca668a597ddda64bc61d7",
+    "title": "For Iran, negotiations with the US may be an end in themselves - Ynetnews",
+    "summary": "For Iran, negotiations with the US may be an end in themselves Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1STlN1aHBOSVByODNpWVIwWjNCdTFMM2dueVoyTm9RTV9KdVppX2tyRmVVcW1SdHZlMW5qb2lhTXVMVHdRcm5faEF0X0Fzc0VIbDUtWFMxRHhnd3VJeTZKLUJsTzFsVUJhQ0JidER3cw?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-11-13T03:54:43+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 03:54:43 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ba2eff6a71de0266f147203fdfcb882864cc07d3",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Trump ended negotiations and rejected a deal, marking a breakdown in diplomacy and increased tensions.",
-      "event_key": "trump closes vance negotiations"
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Article discusses Iran-US diplomatic negotiations and their political purpose.",
+      "event_key": "iran us negotiations analysis"
     }
   },
   {
-    "title": "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases - Foundation for Defense of Democracies",
-    "summary": "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases Foundation for Defense of Democracies",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlFOR0dZeFZ1eEc0b0pYUDhuelBjXzB2a0p6eHhZb21kYUF0R2o4WmJPc216SExnTDEwaW1aWjRGcU9qSUttYVM1Q0lEUi03TzNGNzh1dk04WjF1blo5MlBRTnIwRFRhamxpNFJRSFloOWNmVjRiei12NGlDbWoxUm5QMlI4MU9FaThOU0FRZjdwWWVRMlBuTTBGQUIzbUF0MVozR3k2ZG03UQ?oc=5",
-    "source": "Foundation for Defense of Democracies",
-    "published_at": "2026-11-12T20:14:58+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 20:14:58 GMT",
+    "title": "Witkoff and Kushner spearhead Russia and Iran negotiations. Has Rubio been sidelined? - Washington Examiner",
+    "summary": "Witkoff and Kushner spearhead Russia and Iran negotiations. Has Rubio been sidelined? Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGlIMkVybjFUZ3VybVZsM18wYlhUcjYydVE5aXpWalFVRUNEQndzMVUyRWNlbW91SmxkUzZGVGpYX2YwQ1BOTWlrZ0xyWFUySy1HWWhyUkI5Ulgya3hWY1VOODlXbTF0N3ByY2pSS0RtZDRNQ2tKV1N4dEM5YUdEZ3hPM0NqRGJhQ2NlZE1lZkdoUnZVeEJ1QURDcktMVmJoTjRWLU9LVzBuekxIbE1kQkNLdmg1RnZhZlF2ZEZYNWtDVGgtcjIzS01FU24?oc=5",
+    "source": "Washington Examiner",
+    "published_at": "2026-11-12T22:00:00+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 22:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b55af2db380c9b9907922e0ea880ddefd05d944a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "negotiation",
+      "strength": 0.9,
+      "reason": "Private actors (Witkoff, Kushner) leading talks with Iran indicates active diplomatic negotiations.",
+      "event_key": "kushner witkoff iran negotiations"
+    }
+  },
+  {
+    "title": "Iran strikes US target in Bahrain as Trump pulls Vance out of talks - The Times",
+    "summary": "Iran strikes US target in Bahrain as Trump pulls Vance out of talks The Times",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEgyRDJEelpXcXZ1MlltZGowdUVjY0FOcHo5OGhtQm9hSXFnZHN4M2g4UDJGQjFmajdTcTZTVW5NR0Z1OThfemJ2WHlIVUJRUk9FTjFEU3dPQkdFYmRuRG92OFlKZWZpdEdGNHBncVVmT3pwTEFXM214WERFQ1V6M1ZWazNReEFIbS01WEx5eDVDWHZOaEZUNTRNTXhLMUhnT3dDMDNCZ2diNlU2V1AzcHNlOUJMWnJTQTIyQkhn?oc=5",
+    "source": "The Times",
+    "published_at": "2026-11-13T00:10:29+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 00:10:29 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "0f3a0b79143c623599e27efa1bcdc5249f60487a",
+    "article_id": "d40167b0efc463fc1f5d959df18d9d465f06daa2",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.92,
-      "reason": "U.S. launched strikes on IRGC bases—direct military action/retaliation against Iran-linked forces.",
-      "event_key": "us strikes irgc bases"
+      "strength": 0.9,
+      "reason": "Direct Iranian strike on a US target in Bahrain and US pulling envoy from talks.",
+      "event_key": "iran strike us target bahrain"
     }
   },
   {
-    "title": "Trump Directs Vance Away From Iran Talks, Says US Does Not Need a Deal - Algemeiner.com",
-    "summary": "Trump Directs Vance Away From Iran Talks, Says US Does Not Need a Deal Algemeiner.com",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3lzdkpWSkk4dkY5cDBVbGlBWDFxcC10S1hyaVpsWFQwZ3Q0ckJfVERQczRPby1VQlNRVGM0cjZsTXdWUEpOdXRvcVpmX2tGWTF0YzBraVFiNVk1aFhtTm5WcW1vMnVGNHVfanFyNFRzUV9FRWdRbjljQmJNd3NpSjBFQWNjQU92Vlg2Qk9LY1UtQ0t5OUhLTzd0emo5S3k5bHRz?oc=5",
-    "source": "Algemeiner.com",
-    "published_at": "2026-11-12T18:23:00+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 18:23:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fb4a4d24f02a2646946aa9fa28567a2ee73ab4c7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US leadership rejecting talks and directing envoy away signals hardened stance and diplomatic breakdown.",
-      "event_key": "trump directs vance away from iran talks"
-    }
-  },
-  {
-    "title": "China’s Response to US Threats Against Iran: What Would a New War Mean for the Region? - Modern Diplomacy",
-    "summary": "China’s Response to US Threats Against Iran: What Would a New War Mean for the Region? Modern Diplomacy",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2xsT2dBb3F0RzFjcHVnbXdvV0VMUGVLQjF5NFFUa2ZjcGJ0MmFNVTlkb21lMkF2ZVdtSWV5MW9HTjlpWF9CRVVXYnBFT29aMFdLOFg2cm8tcW9NRVhTd2I5VFhHYVd1djRrOWdYVkh1VWJPLWRrNFlKcElWa2tiMk9fMkY1N1Z5VlNGMElpWkxHcW1uV2NxaGh2OTY4UjZtOFo4QUpnSG9tTGVGUG1ERmw0cUNLRHU4a2hwYjkzNA?oc=5",
-    "source": "Modern Diplomacy",
-    "published_at": "2026-11-12T15:33:04+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 15:33:04 GMT",
+    "title": "Iran threatens bases in Europe if used in renewed US attacks - Nation Thailand",
+    "summary": "Iran threatens bases in Europe if used in renewed US attacks Nation Thailand",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXSFkwdzFaU0dBNGVfZjdBWGh6dEJrdE83TUJpX3J3clh6TFgxdldCcThYRWUxVnRqU0x5dUlzUHpjaUh4U18zcEhaNGI3MkpMakg5bFZxY1Bib1l1QzRn?oc=5",
+    "source": "Nation Thailand",
+    "published_at": "2026-11-13T00:48:00+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 00:48:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9a830222a147316ce79a3733c8fe6813ca1a347c",
+    "article_id": "80c77b33cadc51e86e94c5c01d040f7da94b8efd",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.7,
-      "reason": "Discusses US threats and regional implications, indicating rising tensions and potential escalation.",
-      "event_key": "china response to us threats against iran"
+      "strength": 0.85,
+      "reason": "Iran issuing direct threats to strike bases in Europe if US attacks, a clear hostile escalation.",
+      "event_key": "iran threatens european bases"
     }
   },
   {
-    "title": "Shakarji: US assets within reach of Iranian forces; retaliation will be tenfold - وكالة سبأ",
-    "summary": "Shakarji: US assets within reach of Iranian forces; retaliation will be tenfold وكالة سبأ",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EMUxxMXFxb1RHUzJkUWhDTVFRNmxqaXdYNVNCUUIydGhuWU5XMlRjdXB1WUhnZDFtb2lza3BlUXdURURLUnZIRE5kRmF3Y2s?oc=5",
-    "source": "وكالة سبأ",
-    "published_at": "2026-11-12T15:01:37+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 15:01:37 GMT",
+    "title": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack - The Jerusalem Post",
+    "summary": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-13T03:13:37+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 03:13:37 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3fccd96a8f5350eb965bb1ebb1f4c571ca8375fd",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iranian official issues direct threat of tenfold retaliation against US assets, escalatory rhetoric signaling rising tensions.",
-      "event_key": "iran threatens retaliation against us assets"
-    }
-  },
-  {
-    "title": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat - WSJ",
-    "summary": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat WSJ",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-11-12T21:41:46+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 21:41:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5b00e18436526c520384e67b47ab37875c5b7270",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "U.S. evacuated aircraft from a UK base over an Iran threat — precautionary mobilization signaling rising tensions.",
-      "event_key": "us aircraft evacuated uk base over iran threat"
-    }
-  },
-  {
-    "title": "Iran threatens US bases in Europe if Washington resumes war: What to know - Al-Monitor",
-    "summary": "Iran threatens US bases in Europe if Washington resumes war: What to know Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVF3VHpiZFZDTjZnaTAwbWJIVzEtcDRyWlk4b2J5cjZzUHJ3SlZ1aWNpV05NY0RnTjY3amR1UW9ZUTVXaml3RkZqczhYTVE0SjExQmFhNjV2bnNKV3JBdTdxaXozWlN5dWlmbmVlNWF3ZXhUNXA1QnVOT3k1dFNnVUJzYlhoS0FQSGIteWxRVWJRV3Z4MFpGa0steExpZ0RNeWZSVFFZdFVBR2ZJY1BoVw?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-11-12T19:29:00+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 19:29:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7cd5f471955340c8966256a111cda00b388f35eb",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issues threats to strike US bases in Europe if Washington resumes hostilities, increasing tensions.",
-      "event_key": "iran threatens us bases europe"
-    }
-  },
-  {
-    "title": "'Bombing Starts': U.S. Strikes Southern Iran After Trump Suspends Talks; IRGC Reacts - The Times of India",
-    "summary": "'Bombing Starts': U.S. Strikes Southern Iran After Trump Suspends Talks; IRGC Reacts The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM1JwT2E3NmZnZHpmZUpzOGFDNy1rRDNYM3VBYjNKT09HY2c2aEpSTzVRb0FjMFJtZXZneUpNNzlFalVmazVSTmtoWGo0Q3gzWkxjVWtWdXdMazUyU1diVlpYaVdzd0FSLU9uOW9DUzFqbmFvVUxYdy1scm5ab1dIeXpnWlhDUndRYkJEVmluNl9wZl9GTzZWUGpGMklvS3k5ZHdKRnpzSGNUM0pFc29uVU1pOEllQ1pvak1UYWFPMGFfX3VpbVJkbUEzRlJFTHZzVjZOXzVXbDVBYzhaOWI0dXlaM3hXVnV0QS1KSUg4RkRXZDDSAfgBQVVfeXFMTWZRb1JhMUtWRzhKODg1ZGpmdXk0d2MyM3dQM3hOWnUyRkZuWTlmeDQ5VGFUU2dRZGQ5cUNsbHV3UFNQdDlrbnJfaTZPNnNPUThaZU9HbnFsUnVFck5LdE42RTBaOXNmVzJnQ3NFVWlfVDNoMHppOGxZRVhiaXVwZWxmSDdtV1BaSWdjTUd4RWNMZ1FDZVBPNWgwN1NHbzJyejJVbHZ5cEhfNW9MQm04Y3I5LXNIMFptYXFDXzVhSUVMbGFJODVvcWxCaG9rR3J3aGJLYzg1Qnc2TFBsLVJpZ3VEMl9XMWtPY05FOElmNFA1dF96TE9NNXI?oc=5",
-    "source": "The Times of India",
-    "published_at": "2026-11-12T20:04:06+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 20:04:06 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "636eb94d4a8ccf401f593f3fce592b4fda37c9b9",
+    "article_id": "54a0f2ec3a7431c3b504c9ec079587765b817ebd",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "Article reports U.S. military strikes on southern Iran following suspension of talks, indicating direct military retaliation.",
-      "event_key": "us strikes southern iran after talks suspended"
+      "strength": 0.9,
+      "reason": "Iran claims a direct strike on a US radar site in Bahrain as retaliation for the Sirik telecom attack.",
+      "event_key": "iran strike us radar bahrain retaliation"
     }
   },
   {
-    "title": "DETAILS, ANALYSIS: Iran showcases underground 'missile cities' after new threat to US - Fox News",
-    "summary": "DETAILS, ANALYSIS: Iran showcases underground 'missile cities' after new threat to US Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxeFBOdjVXeEhDU3huQU9RbzBkTERuMXpvaGVualE2VHRWeWozcHFxVDUwSkE3Skg1VGo3eWFNM0x5QkVkS2FUNldhN3Fybm9FMmE4N2JR?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-11-12T18:49:20+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 18:49:20 GMT",
+    "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain - Reuters",
+    "summary": "Iran's Guards say they targeted a US early-warning radar in Bahrain Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-13T02:51:00+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 02:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "8f44065871472e3a71e686560f1468c4a84cc859",
+    "source_weight": 1.15,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "IRGC claimed a direct attack targeting a US early-warning radar in Bahrain — a military strike against US assets.",
+      "event_key": "irgc targeted us radar bahrain"
+    }
+  },
+  {
+    "title": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened - Anadolu Ajansı",
+    "summary": "Trump says he may use force against Iran 'right now' if US allies and ships are threatened Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0t4bWRRUG15cnNuS29ZYm02cVpES1FEWll3dDVtSWFKdE11a3hGVDJzVjZUWldRellYdjRLRzdRYS1HclZCYWR0SXN3cE95am9sUHR3bGl6QnpfT0Qyc3ZHT3l2dXNtMkxGLU5JVktWZnhfWkJtS214YVF4Z1VoMlRGdlA5RHZORXNNcFlBY0N5RzMwQjNEa3NydV9wSVRCMUJSYXcxcWU4cXNYSGJ4UE9Tblc4M3ZkRTdTRTRwVHhGWXhOZDRjWnQ2TURJYlYwQnc?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-12T21:49:38+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 21:49:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e9255fd60f59115a7db5fb3423d6047f3a8bd667",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "Trump issues a direct threat to use force against Iran, raising tensions and signaling escalation.",
+      "event_key": "trump threat use force against iran"
+    }
+  },
+  {
+    "title": "Iran Races to Rebuild Missile Arsenal as Trump Signals US Unlikely to Resume Strikes - Algemeiner.com",
+    "summary": "Iran Races to Rebuild Missile Arsenal as Trump Signals US Unlikely to Resume Strikes Algemeiner.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmtWTDVydm5DbG90elAxaGxzQ1A2bDktbm5WZURWYUtTd1Bocjh0b1I1SFFnZ0RjY3dHWVd1c29xektTYk55a285QVc1NG1vR3BscV9TUTA1QVFRaGozaFBuNVRZU25rVEpvQjBIUUNjM0FsdTI4elBmRU5rdEhMX09MYnlNamVXZFRLS0hsb0JMU3VvanJ2TGE0QmcwVlYwVkdwWmJyV3lQcm1tN25EMFNpTTM?oc=5",
+    "source": "Algemeiner.com",
+    "published_at": "2026-11-12T22:46:00+00:00",
+    "raw_pub_date": "Thu, 12 Nov 2026 22:46:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ac05598df6e190c7251e8487f3c0f24232db419e",
+    "article_id": "f8bd5994924da2565005b105b72f275f1d98e25f",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
+      "label": "deescalation_signal",
       "strength": 0.8,
-      "reason": "Iran displayed underground missile 'cities' and issued a new threat to the US, indicating military posturing and heightened tensions.",
-      "event_key": "iran underground missile showcase threat us"
+      "reason": "Trump signaled US unlikely to resume strikes, indicating restraint despite Iran rebuilding its missile arsenal.",
+      "event_key": "trump signals no strikes iran missile rebuild"
     }
   },
   {
-    "title": "US Treasury yields rise after Trump comments raise concerns of Iran escalation - The Business Times",
-    "summary": "US Treasury yields rise after Trump comments raise concerns of Iran escalation The Business Times",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTRHU0lsbl9neGFKMGxnV3dnbmhrR09Bb1hjOHU2Vy1xb3FkMnN6UTJsR0k3b09YYmYxdm9SLUZ4Mjc2dDBPZHpqMF9sdGRqOXZIcTBCVGsyNjc2MG9QWWE0SXRoR3BVSGJuZ2dXd2lzbkU1UEhsX3JmZGxRYkpBQ2x0RFE1aGVQVUFkcFAzR1NkUkpuSVNlak4xb2FzZlBFUmVmRC1EaWg1MzFfUExoaFVSQWRuS1JXWHVaaWR0UQ?oc=5",
-    "source": "The Business Times",
-    "published_at": "2026-11-12T15:54:00+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 15:54:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a1644c0d6722322a51bb96530d72ad3a453c552",
+    "title": "Iran's MISSILE SHIELD Activated; Air Defences Target US Aircraft Heading Towards Sirik | Watch - The Times of India",
+    "summary": "Iran's MISSILE SHIELD Activated; Air Defences Target US Aircraft Heading Towards Sirik | Watch The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPXzcxLThzWWtwUlJFSjQxWHZpdm5YYWlnUDAxaUdhU0dQMG5YZGZtcThPcVg5RkhpcUJVN2xpZEloT0JydlVMSDg5RHZiX1RJMkpUdWw5M2N3YWlMbkNYaF8zMzlVRGtqaDhBVWp6NVdFRGNWNVI4VG1pUzUwandLdGU3dVVRbU1FTXN6VzhQT1ZJRXBvT28xbWM2U25WM2RtOVJlUUhJVnVJbmlnbmNyWW5ZXzZTWkdBOTVzRll3bWhUbnViV2hOYXdPclVPdWFNYmo4TGhWZGtsY0JhNHh5WHYwNVFzX2c2dFRINzJfT1JKQWxJaXBleDAwVGhiNWhI0gGGAkFVX3lxTE4zQk01NXdUaGZiRmoyVmtSck1aWEhuUFdxS0JmM3dMUDBWVDgydC1TV0tLajBYQUpWUmFhcnVQNjdZRFRSaWpUenNpTktJaE95ZW8yMDVrZGxnY0lRQzdDZGZVSUxYdDdqT1dNS0hGeEEzbFpFSXRsT19ZbGJzX0RCQ2wtbVVGeWt4TWs0eG5NSjFTNjNPUTFrM2NMaThuRzRaOHRlVVdrWXpMMWZ0Z0lPYm9xazhfalVLcVd0YUVNcVU0UGZ3QWIyYllmYzcxcUg4WXZ1OXV3Y1pLQXNuQTlEWjktekJzbWd0RkZfc3NSaTQyNm1iNW9fNjkxX3lZTmRrbkFfYmc?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-13T02:37:26+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 02:37:26 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "598616f403af25dd82d705b9596064d4e62ee937",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Trump remarks prompted fears of heightened Iran-US tensions and market reaction, indicating rising escalation.",
-      "event_key": "trump comments raise iran escalation"
-    }
-  },
-  {
-    "title": "Iran security chief threatens to strike US bases in Europe if used for attacks - Al Arabiya English",
-    "summary": "Iran security chief threatens to strike US bases in Europe if used for attacks Al Arabiya English",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGM4UnlNejM2VTlGWjdXRGVzVWc3ZFlmeF9MdnV4UTNVWVlyU3FQM3k2elByWmNNNENNLUJqdkktbkx1X01OZXpjNjNfSXdOX1dLLVNFTkVabHA3T000TmlQZkNpVlMtNkpQdFR3T25XQ3l1YjIxRHpFakZ4YURkUWNoX3V6WVUwblBoS0xxSFBWdFBiZE5GcGxuYXFjVERBSlZLaE9GdmhGRzZSM1ZkUnQ0RUg0SG92bS1KSllLWDlBeWpReGNEUXVUZDdfSkpObXNzZWdQOVnSAd4BQVVfeXFMTjZTR2RGMHRzT2UzeXlUaUdKamxoZjJfLXctZlVzeFpEVnozSFNiUXFmZl9mdG5rOGNUNnhvclhOMTZEejY2dmNSTkozNmdHbE90NlBOVl90UGNQbkxpVVRvQkhmY1RTN1pjYXpHSTgtSnQtWi1kYUVJQXBSV1NYVzJpejBOQk5kV2xTVnk5enJLSkpWZkh3VVVTclQzcU9YbElvMWZNcks4c1dQcFVQbHVFanktcVFrSUZMOFk0MEt2VV9CUklKYmIxSGdYVzAzOGZoUGo2LXdJMGctYUdn?oc=5",
-    "source": "Al Arabiya English",
-    "published_at": "2026-11-12T18:02:00+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 18:02:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d7a062ec72723f064306a17446cd9c30f88ca38d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
+      "label": "strike_or_retaliation",
       "strength": 0.8,
-      "reason": "Iranian security chief's explicit threat to strike US bases in Europe constitutes hostile rhetoric and escalation.",
-      "event_key": "iran threat strike us bases europe"
+      "reason": "Iranian air defenses targeted US aircraft, indicating direct military engagement or imminent strike activity.",
+      "event_key": "iran air defences target us aircraft"
     }
   },
   {
-    "title": "Any territory from which US aircraft take off… – Iran issues a WARNING. - TodayPress.tv",
-    "summary": "Any territory from which US aircraft take off… – Iran issues a WARNING. TodayPress.tv",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkNlNWFJdVdOOTVwdFg0bjF0NWZHSG1yQ1o1c2VKN2UwdHlmT2U3WjQ2RnNob0hpaTVUVm9IZTA5VkYxbE9OVkxiSDVRUi1lQTh3V3M0TU5xcjBkbmRfb3JxTzdUZVdUUzZDeDhjeG12UWJLb2NXdTJ0U0VPY25Ed2ctazduaHVOV1plYmJsZzFFRW10a3pZbl9UdDNCTHM?oc=5",
-    "source": "TodayPress.tv",
-    "published_at": "2026-11-12T17:23:37+00:00",
-    "raw_pub_date": "Thu, 12 Nov 2026 17:23:37 GMT",
+    "title": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade - investingLive",
+    "summary": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade investingLive",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzRIdGhES0ZXRS1yam1FT3pJTVZRQm9zN2JjSGFYQ0d3ekhVSXJmMnhOWDVVUUtFeXlpc3RWN0Itb2hoX2ZlOGZHVWFnVWdaYnc0RVAyQXkyeG1rOVZiN01Kdm5RMi1BdDRqZWFnS1QzTFJDaXNiNzBsNU12VzhqdV91RWFlTEJlQm13TDlBaV84VUhCQ1ZYbnlNX3hjYzBteHJiNzBMbzFMdnJhRXh1VlN3bGFIWmZxM0JXbERR?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-11-13T02:50:44+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 02:50:44 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "438c1eca915f4a95bf72a8281ad01062ad4ffba1",
+    "article_id": "29ef2c2dc5c4c10eef9ca6ccefc09e1a33af6a88",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "Iran issues a direct warning threatening territories hosting US aircraft, increasing tensions.",
-      "event_key": "iran warning against territories hosting us aircraft"
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "IRGC claims strike on US radar in Bahrain — direct reported attack and warning to firms.",
+      "event_key": "irgc strike on us radar bahrain"
+    }
+  },
+  {
+    "title": "Iran's IRGC says it targeted and destroyed a US early-warning radar in Bahrain - FXStreet",
+    "summary": "Iran's IRGC says it targeted and destroyed a US early-warning radar in Bahrain FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlV4aFY0Y3Ffc1RPcFlXZm9xUlJfNzJ5d214S2JRbEVrTmRqTzN0NWtoT0pzMHdJUmoxUEtTRE4yWDJqX1p4Rkp0NmpwYVBCNnBXTktValRabXZ2VE1FV0pmREhKNXRtM3Z1cEtfLVBGbm1YTl9yNHlXUWdhM0JsZGNkRUVhbUNvWlBVUmVCTGVrRFJDZnJGLWY4eTBLLVBsaE1YN1I3bm4xMmxsSXRUbUpKTVFDbWVwdm1zbA?oc=5",
+    "source": "FXStreet",
+    "published_at": "2026-11-13T04:19:13+00:00",
+    "raw_pub_date": "Fri, 13 Nov 2026 04:19:13 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "aef526d0598e6a3f883ce04e43726d85dbf8c507",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "IRGC claims it targeted and destroyed a US early-warning radar in Bahrain — direct military strike against US asset.",
+      "event_key": "irgc destroyed us radar bahrain"
     }
   }
 ]
