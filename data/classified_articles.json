@@ -1,138 +1,70 @@
 [
   {
-    "title": "Report: Mossad chief in US for talks on Iran; Netanyahu didn’t update Eisenkot on visit - The Times of Israel",
-    "summary": "Report: Mossad chief in US for talks on Iran; Netanyahu didn’t update Eisenkot on visit The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaV9VSkxSWUVFcEUzdC1zV19zSjZtUWRWSmdEVlN0QzBCZV81TWpmN2plUkNHbEF5VHpGcnRTOG9DMGxwbGlYaWQ4am8zVnFURzRxdkdaeTQ5d241eldNdDBzbkVYTTlmMHZlYU9RYTBfUlZRZkVudGhkb2lDUllRTW5TcEZoM3J6SU53ZWtiQ21SZjBCVjJCcXVwX1NxNlVYNm1tU1lyWWxRQWcwTVh0MU1IajdLZ9IBuwFBVV95cUxQdC1DSVBuZllWd1FuNFNpTk1TQjcyNXV5cUt3S1BmMlNMRkRDNFBrdDFRYmhDelVqNmIybUw4MkFaQUpRMVBYSGY4bnRDYTVmdXdzQ2xCQWRfdzZCTmJ6LUlwYjhLbVUzRDg5RTRVM3FRZmZEc1diVUFNWTJWVER3ZW1hdy1WOEpUNzR0TGJkdTl0OHpobVllamxidzdKZlBhQnJZeVNfZnhSNlp5T0RRazRkRHFsT2xPUHJR?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-11-13T21:43:00+00:00",
-    "raw_pub_date": "Fri, 13 Nov 2026 21:43:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c5d29b8a8eecd00f386c0ccf276eceda47333934",
-    "source_weight": 0.95,
+    "title": "Iran’s UN Envoy: US Must End Aggression, Lift Blockade for Diplomacy - WANA News Agency",
+    "summary": "Iran’s UN Envoy: US Must End Aggression, Lift Blockade for Diplomacy WANA News Agency",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWoyM01BdkpteFhrTFNCYjJEczc0U1Jkd2R6cFcyQXctcXBwTllsdnRnT1E5Ymp1R1FQUW9INnE0TXhKeTlUc2thTWtubE0wWEJZbjU0TmI3dmFxVXRocHBBLUlpY0FFM29TQWctTVdLZ3Z2OTdVLTQ4emIzZlJhZm1WT25oOG9paGVUaGdB?oc=5",
+    "source": "WANA News Agency",
+    "published_at": "2026-11-14T07:11:02+00:00",
+    "raw_pub_date": "Sat, 14 Nov 2026 07:11:02 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "95c8fd0e936adc92ba51431be35fe1f4ddc0b950",
+    "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "deescalation_signal",
+      "strength": 0.45,
+      "reason": "Iran's UN envoy calls on US to end aggression and lift blockade to enable diplomacy, signaling de-escalatory intent rather than active talks.",
+      "event_key": "iran un envoy calls end aggression lift blockade"
+    }
+  },
+  {
+    "title": "Türkiye and Qatar reaffirm defense ties, urge diplomacy in US-Iran war - Yeni Safak English",
+    "summary": "Türkiye and Qatar reaffirm defense ties, urge diplomacy in US-Iran war Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUU5pMkREbnQ0dFdqV05GUncwWXYtWkQtaUltSkN2b2QxYjhKem1KaWdURllvWkxTZXphOHZRcy1XWV9nLU5NdjcyV1FSSHNqa2pJQnpkelNhTW9nQ2pjcGFXZGdLTVdSelQwSlducWJmUUs4RG1KQmlJc256Xy1iV1NieVNhZDN6Um50MXpWQW5RVG9JRExkRkxTbVZtSVBCOWFoanYwa3NDbVZW?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-11-14T06:12:38+00:00",
+    "raw_pub_date": "Sat, 14 Nov 2026 06:12:38 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e7d53f0eddfe1879874274891efc1ec8cec66d85",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Mossad chief in US for talks on Iran indicates active diplomatic/intelligence discussions.",
-      "event_key": "mossad chief us talks on iran"
+      "reason": "Türkiye and Qatar urged diplomacy and restraint in the US-Iran war, signaling a calming intent rather than formal negotiations.",
+      "event_key": "turkiye qatar urge diplomacy us iran"
     }
   },
   {
-    "title": "Trump says US could devastate Iran in three days as diplomatic efforts stall - WBFF",
-    "summary": "Trump says US could devastate Iran in three days as diplomatic efforts stall WBFF",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalo0R1YxLVBkVWRDUElfNVhXUkgzaXRWUi13cmt6M3h6bXFIeXB6eGVDWVNIU2RKR2IzZVdvX3NKcWFLZDc2SUlZbW1pd1U1bTg0RUN1TVQxdkt1YXo0V1ktQUZUVlZVUDV2Q3o2M29WTmNlSUVrT3JyREt5N2NHSXpiY3ZYbTJpbXZJSEEyUkNTTlU4Njktem10Um9ZSXRWMzg5RWRBWlRnY1RuMVVWa2NGeXFUaDJWYzZ0eGtmUjJocXdPRXZZMQ?oc=5",
-    "source": "WBFF",
-    "published_at": "2026-11-13T21:49:32+00:00",
-    "raw_pub_date": "Fri, 13 Nov 2026 21:49:32 GMT",
+    "title": "Iran at UN accuses US of aggression, warns of ‘decisive response’ - Yeni Safak English",
+    "summary": "Iran at UN accuses US of aggression, warns of ‘decisive response’ Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjR4endsWFczYlZlZjBIazVRNnVmNVN2bENvWk1NTFExS1M4bnF0QkU2em1aUWl3eWQ5T3daSWxueEhoSU1oTkdtU1pibk5JNW84MVdTcHN1SzBTclVUXzJVT3dEdHp1RDF6dHNlemZwNlAxUEgyaDExRVJfN1RsZU1DLTBpclRxckRlZ1A2ZHRZLUtJbXRxTzJ5aXRrMUtZQkw4?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-11-14T06:17:16+00:00",
+    "raw_pub_date": "Sat, 14 Nov 2026 06:17:16 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d8605dc45a55bfe2240ded18c3a47ef450b88459",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.85,
-      "reason": "Presidential threat and stalled diplomacy increase tensions.",
-      "event_key": "trump threat devastate iran"
-    }
-  },
-  {
-    "title": "Iran accuses US of aggression, warns of 'decisive response' to renewed attacks - Anadolu Ajansı",
-    "summary": "Iran accuses US of aggression, warns of 'decisive response' to renewed attacks Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHVTcnB4OWgxMGRrVjRBMTVHUGpZYWpxaTF1cTVJSjFBSTlfTU5pTm5XT3hZUGZKUmxJdlBnZXJlZ05fODBlZm44b0k1ZXNSd25nQ1lvTDIyNEk4R2ZBQnJ2RFNnYjNJYndqVWJSLXU0T19USE1SUVZwb2w0YVViZVFoS292QnQ2Q0pkcHJJdzJ2MUtCNTlsTDFGQmxiZ0RlZ0ZRRUIxNmZjZzBxS0VjRDlPZ1hmZGdiNnpOMDRCYmVVeEhpOGc?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-11-14T00:06:07+00:00",
-    "raw_pub_date": "Sat, 14 Nov 2026 00:06:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "daa70eec3e1638a89d0b12edb804962f848c2e44",
+    "article_id": "ab84946ddb4dccce764b20a7eb51f119fb4e39a1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.8,
-      "reason": "Iran's accusation and warning of a 'decisive response' signals rising tensions and threat of retaliation.",
-      "event_key": "iran warns decisive response to us aggression"
+      "reason": "Iran's UN accusation and warning of a 'decisive response' constitutes hostile rhetoric and threats.",
+      "event_key": "iran un accuses us warns decisive response"
     }
   },
   {
-    "title": "Trump says US could devastate Iran in three days as diplomatic efforts stall - KFXL",
-    "summary": "Trump says US could devastate Iran in three days as diplomatic efforts stall KFXL",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcHV0bGh5WTY4TnNhYjd1Y0NlSUlPWUd1aUNLaEZWYlMxXzF2U25wS1ZYU05XYkhSNDczZk5yd0NrcmpaTjZhdlJHNXNvbXpuaE9iZmRFTDVrWEFNWFhKdzB0ZDYwZ2FaYmRyeUE1N0dJSlVNV0RyNXpQclBCZzNKcG9JNV9iS3FzNGVWVnRqNTQtbjNkQTBOcnQ1RWREREdncGRrNk5vWGJpeHlORmRXRV9FbXZMVHE3T3JPZW5PQlpaN2VRNGprNmdDS193OWxwblNBY08tc01XVE5adTBTMXg4NnY?oc=5",
-    "source": "KFXL",
-    "published_at": "2026-11-14T03:58:39+00:00",
-    "raw_pub_date": "Sat, 14 Nov 2026 03:58:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f8b44c8eedf15cbe1c87c948ed653d423088f298",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US leader threatens devastating military action as diplomacy stalls—hostile rhetoric increasing tensions.",
-      "event_key": "trump threatens iran devastation"
-    }
-  },
-  {
-    "title": "Trump Steers Vance Away from Iran Diplomacy as the U.S. Leans on Its Blockade - IndraStra Global",
-    "summary": "Trump Steers Vance Away from Iran Diplomacy as the U.S. Leans on Its Blockade IndraStra Global",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hbkl2d3hqS1gtNGZTaThlaVdVcFZTLUVYNlNDQ1lCeXQ1Z19RYlg4N3ZNQ2liODlqbFpGVFRlM3JYQnpxd0FYZjZRTVY1a3ZZX1o3RlN2aDFxcHpWaHYwXzB0cHhtVTJCdkpIc2NxdVdGSUo2blhaN3k2UzU?oc=5",
-    "source": "IndraStra Global",
-    "published_at": "2026-11-14T04:24:00+00:00",
-    "raw_pub_date": "Sat, 14 Nov 2026 04:24:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f23c2f0790e4426f7cf76401910f71d103c79e21",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "U.S. steers envoy away from Iran diplomacy and leans on a blockade, signaling rising tensions and refusal to engage.",
-      "event_key": "us steers vance away from iran diplomacy blockade"
-    }
-  },
-  {
-    "title": "Iran warns of 'immediate and decisive response' to any new US or Israel attack - TRT World",
-    "summary": "Iran warns of 'immediate and decisive response' to any new US or Israel attack TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iVV9LN1Q0WjN1OTdacVMzR2pqbi1abmcxWmZucGx2R0ZuMWNEM3BLTXBUeFRfTTVXUWhuT1JhRUdrVmk1VnozX085cENSVE1VcVJydUd4RFM?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-11-14T00:01:13+00:00",
-    "raw_pub_date": "Sat, 14 Nov 2026 00:01:13 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "bb95d2e7cd76f09840e46388ae88be6dffa1cca7",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran issues direct warning of immediate, decisive response to any US or Israeli attack.",
-      "event_key": "iran warns decisive response to us israel attack"
-    }
-  },
-  {
-    "title": "🇺🇸 🇮🇷 Iran may not need a missile to stop a US strike... it may just need a keyboard. Former Army officer David Pyne says a massive cyberattack could knock out power across the country for weeks and keep B 2 and B 1 bombers from ever leaving the ground: - X",
-    "summary": "🇺🇸 🇮🇷 Iran may not need a missile to stop a US strike... it may just need a keyboard. Former Army officer David Pyne says a massive cyberattack could knock out power across the country for weeks and keep B 2 and B 1 bombers from ever leaving the ground: X",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uczRFNGhNUkdyS2Q1a3JFLUhpQ0RLakhhVnJkYmVWRTE1cjJkdXJXakNqb2J3bDhQMzZvYUFaRHZOZGszbmtMbUNGbF9BTzNXNnZlUHZUR1g4clo5cGczaDhfOFRoVERvVUpWRQ?oc=5",
-    "source": "X",
-    "published_at": "2026-11-14T04:07:16+00:00",
-    "raw_pub_date": "Sat, 14 Nov 2026 04:07:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "644711036b164c314917606b5a37286b3d6d53b1",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Public warning of Iran's potential massive cyberattack threatening US infrastructure and military operations.",
-      "event_key": "iran cyber threat to us"
-    }
-  },
-  {
-    "title": "U.S. Navy says USS Spruance returned to San Diego after 12-month deployment and Tomahawk strikes on Iran - Defence Industry Europe",
-    "summary": "U.S. Navy says USS Spruance returned to San Diego after 12-month deployment and Tomahawk strikes on Iran Defence Industry Europe",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVnlMVklGRE9kTGFDMml4NDROVTJneUY5cG16TTAzTFVBSlEyZ2IyX1NzT1BwX2J0ejNXWTBjVjVuby1Oa3NHRFp1bXRpR1RULWRZM3pXTjdtc3doTmFJbWFzMDRRel9zT3g5MWI4aTl0SXlacDJ6NzhGUzZJbGxSLTBlUHo4NFZmQ3lSanBEbUlwcTVzMTdUV1h5R1ZPYkNZOUZhNHlVTGtrTE91Rjh1cm1LS2NJT2FqOTV6ZmxoMlliRU9vaTNoaGd5WUY?oc=5",
-    "source": "Defence Industry Europe",
-    "published_at": "2026-11-13T21:12:15+00:00",
-    "raw_pub_date": "Fri, 13 Nov 2026 21:12:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d26530fc27a88e6c6bd42c13239196238e9e2176",
+    "title": "US downs two Iranian attack drones - The Arkansas Democrat-Gazette",
+    "summary": "US downs two Iranian attack drones The Arkansas Democrat-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnRrdVh1YXNCcnNudzJIRzJBdklIOTNZUVpRMy1KTVhRZXlkMkNHY3RuVHRVWmVibEw4NWE2b0RTLVlyUWVHN1VNdVVMbXNCa2lWeDhfZDVEQkQxU2NMMVFGbndHSG0tRFhDWXBuMjJVcG1GMHRWZTVabUV1a3B4U1VPb2VQYUJ2Tzl3?oc=5",
+    "source": "The Arkansas Democrat-Gazette",
+    "published_at": "2026-11-14T09:50:00+00:00",
+    "raw_pub_date": "Sat, 14 Nov 2026 09:50:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e487165b48f5d0145ffc3b80230872a0f39446da",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Reports mention Tomahawk strikes on Iran and a US warship deployment—direct military strike/retaliation context.",
-      "event_key": "uss spruance tomahawk strikes iran"
+      "reason": "US shot down two Iranian attack drones—direct military engagement/retaliatory action.",
+      "event_key": "us shoots down iranian drones"
     }
   }
 ]
