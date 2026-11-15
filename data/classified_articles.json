@@ -1,19 +1,342 @@
 [
   {
-    "title": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis - The Jerusalem Post",
-    "summary": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLOFpzRl9MQUJDakYzbFlFLVRtXzRxdjVhT215Y0piSG9LRHJucXU1WmpzSDJXYi1zV3FyblIzWTQySzFBRWZkVnV4TEhZMDBUWE4tdjlZWGdlXzJMSmZsVXhqUldlNHN5T3c?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-11-14T20:00:28+00:00",
-    "raw_pub_date": "Sat, 14 Nov 2026 20:00:28 GMT",
+    "title": "Iran strikes Bahrain base, repeats path to U.S. deal remains open - The Japan Times",
+    "summary": "Iran strikes Bahrain base, repeats path to U.S. deal remains open The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0RhaW9oNk5fWGVOTUJXY1dzZWxqTTREVW54cVBnOUdTU1hVbEtuV0U3NE5FUkNvUGF0aFNmYUxjWnkxc2RPY0tGUDE0ejVicHlUTG9DTjNRYWtabGlPUFV5MzFYY3cyUFJibHhmc1U3MlhQcEU1YnpNTGt0UUlLcmFXMA?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-11-15T09:49:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 09:49:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "82e8e049bbf4a12a1a1d581c7a6ac2367bfdb5fb",
+    "article_id": "b75415f26e5083528d0ab2a8ed4d9359c9278753",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran carried out a direct strike on a base in Bahrain, indicating a military attack/retaliation.",
+      "event_key": "iran strikes bahrain base"
+    }
+  },
+  {
+    "title": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base - The Japan Times",
+    "summary": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIU1hvek5UekhCd1p5dmtXLWE0SkpCTzhTajNXWGo1TUViSXdHNnJLQVJxcHlJX3lWU1M2dnZHWUduOUNoWWhJellScWd0dTV3X2t2SWxzNVdJSGFTbFJOcm9WMWhnV29MS0g5aUNHdmItR0l1bGFDOF8wM3VhSnM?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-11-15T06:46:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 06:46:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b95cbf26f7f900a316cfac6435275e7a14d6c3fa",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran says it attacked a U.S. base and Bahrain issued threat alerts — reported direct strike/retaliation activity.",
+      "event_key": "iran claimed attack us base bahrain threat alerts"
+    }
+  },
+  {
+    "title": "Bahrain Issues Threat Alerts as Iran Says it Attacked US Base - ASHARQ AL-AWSAT English",
+    "summary": "Bahrain Issues Threat Alerts as Iran Says it Attacked US Base ASHARQ AL-AWSAT English",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19oT2ZfQ0dwN2hydzUxeTd2MkQtdUZhTlFUUzZUbV9neGx1WURXTnRvTm1kbzdZUk00RDB6elRKMUlGclIxbl9mXzhyQ01zbGJYeXdWdFhQcVVmZXE0WnlGUkx4VlpUNmRRM0U1LUwzVjhKREZZWGNRaExNVU9xQkl6SWwxaVRueW44Y0tKb2wzYWVWWkY3NGVnSUNQamM?oc=5",
+    "source": "ASHARQ AL-AWSAT English",
+    "published_at": "2026-11-15T06:07:37+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 06:07:37 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "0a0e2c46c9af2d7148be4044e2f91164891998ca",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "Iran claimed it attacked a US base, prompting Bahrain threat alerts — indicates a direct strike/retaliation incident.",
+      "event_key": "iran claims attack on us base bahrain alerts"
+    }
+  },
+  {
+    "title": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ",
+    "summary": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-11-15T08:03:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 08:03:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a89b7a9a02a332eb82129b57c0f05a7c5650ce5d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran resumed attacks targeting Bahrain, a U.S. ally, indicating direct strikes/retaliation.",
+      "event_key": "iran targets bahrain resumes attacks"
+    }
+  },
+  {
+    "title": "Iran claims attack on US military airbase in Bahrain - France 24",
+    "summary": "Iran claims attack on US military airbase in Bahrain France 24",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1c4aEZGVWxpWDlYajhJZXFCbTBRa0NTTlZDWEpBMWNacEw5aEFOUnZGLTVGMXVlZkFVOEwzSEFFZXo4SW1nc0E5dUQzYzVqZmx5WXpBNlRERy10Uk1WdFd3S1VkOXFvUXg3VlF0ZFBlM1ZXMU53WXdVT2VKZG14ckNoVF9mWXdRckdxc1N2SWNETmo0Nzd3alA2YzNsRnNwVFdv?oc=5",
+    "source": "France 24",
+    "published_at": "2026-11-15T09:57:35+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 09:57:35 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "94319306f8efa30a669d557d5141e279a76de098",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iran claims it attacked a US military airbase in Bahrain, indicating a direct strike/retaliation.",
+      "event_key": "iran claims attack us airbase bahrain"
+    }
+  },
+  {
+    "title": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open - Bloomberg.com",
+    "summary": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXpxVVpLejY0TU5TcHFqQUFIY1YtTThlNkc3MFJ2OVkwM2JZZHcyeHF5WVkzVzdXX1IwZHlWeDBPcnkyeXdtQXkyWHpKdlU4aGl6SnA4cmVfMmxUWEhBMlR4MjluNkNUNUJieUxhSDlZZzVRYkxKdUxYY0RGNTJGWXB6NlpPb09jcWhOYS0wOE40QjdnZWRzTFNPOTZ1dEpuTERPWFcyZkxqcmwwcF80V2VfNA?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-11-15T08:14:04+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 08:14:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "40e8e0d3b9bfbb29fd0dcee1f303bfeb3f9d2101",
+    "source_weight": 1.1,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran conducted a direct strike on a Bahrain base while mentioning diplomacy remained possible.",
+      "event_key": "iran strikes bahrain base"
+    }
+  },
+  {
+    "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report - Anadolu Ajansı",
+    "summary": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-15T03:22:52+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 03:22:52 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1cf92877ea0998cafd9c8b770d73a5b7efb56f6e",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
       "strength": 0.6,
-      "reason": "Article highlights fears of a possible US strike and rising tensions amid nuclear talks, signaling increased escalation risk.",
-      "event_key": "israel fears us strike iran escalation"
+      "reason": "Report highlights Iran's retained missile capacity, signaling sustained military threat and heightened tensions.",
+      "event_key": "us intel estimate iran 2500 missiles"
+    }
+  },
+  {
+    "title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions - WSJ",
+    "summary": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions WSJ",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDVwNnk4SFpaRVhKQVNBZFI3VkdXM1VQaEtPcURJT3FMUUxXaVF5NjNVOUt6U0gyY0NWeV8tQkR5cXQtT2V0OUVncDhrdlh3amRZckptN2Uzbi1yNXhteFN2S1hMbGpIZEdXLTN0YTQ5aXVkVURRWmFHTTdIS2cxUjFKWVlFY19JbmZFN3ZucXVFTkV5OV83a2xrdnFRb0VUT0x2R3N5TVJFbWZFNzF5N0hSQlVhNmpYUDExU1Njbw?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-11-15T01:00:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 01:00:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3326fa9408e32f246708ba48a6df53ae08a250c5",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.3,
+      "reason": "U.S. intelligence reporting Iran's large missile stockpile implies heightened threat perception and tension.",
+      "event_key": "iran missile stockpile report"
+    }
+  },
+  {
+    "title": "US intercepts two Iranian drones as IRGC claims strike on radar in Bahrain - The Jerusalem Post",
+    "summary": "US intercepts two Iranian drones as IRGC claims strike on radar in Bahrain The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uWFRmVVJGY3FWZXdNNF9LRFJMMGpIaUxsMWhIejF6MnN1QkJFVjRndHFGaEw5RXlrYWRWMWNTMkFIaHNkeURhM01ZcGRFUTlTOFlBVTA4b3Y1Y2dZX0Y1M0cxakxyM0RKbmc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-15T07:50:41+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 07:50:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "e8a367718c91eedd2958f15fd03d04ea757041c2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.8,
+      "reason": "US intercepted Iranian drones and IRGC claims a strike, indicating direct military action/attack.",
+      "event_key": "us intercepts iranian drones irgc claim bahrain"
+    }
+  },
+  {
+    "title": "Iran claims drone attack on US base in Bahrain as Gulf tensions rise - Ynetnews",
+    "summary": "Iran claims drone attack on US base in Bahrain as Gulf tensions rise Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NWtyYk1keWZqZFlXNGh5c3pES2JlTVpQYjNaLXhnRWd5OW9rM1VsUG12ZFZLbm5TZF8yNHBCV0ZYakZxTmJwWEt2ZDhuZG02emNvWVR3?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-11-15T05:32:08+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 05:32:08 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "544be0c043db46928ffb8377e84794bf5037582a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran claims a drone attack on a US base in Bahrain — direct strike against US forces.",
+      "event_key": "iran drone attack us base bahrain"
+    }
+  },
+  {
+    "title": "How American troops’ data guided Iranian strikes and left a US$9 billion hole - South China Morning Post",
+    "summary": "How American troops’ data guided Iranian strikes and left a US$9 billion hole South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDV6ZEZtdEVnV1h0X1piZDBLYnlqZmRuYkFtd3N0bVA5aHZ2R3oyeXRyUlNvNF9pSHVPMzdNVVdrY0FhV0dQMDJ2Nlo2VjBZcXJMd2tfa0I1ckpxVjlNS01iTWtxMTU2dFM1eDVSRzZiWU90cmI1UXdtUDBzanc2RDJ6WlZxR0R5VE9nVW9EcGEzdGNFQlpIblBNZjEwVFZYeEthMU9qczk5UEVPSDRhcmlBMWdxcDRKMnVvU0lsLXVzUjBQSFVxQUZMUVh5RWNoWFHSAdIBQVVfeXFMTS1PN1hvR1o3Z0xQYW1Hc01WdGhkQUVkNE9JQzJ0bmxwaHBEMHNKZFVLWU1wRDRMMzhFeU90M24wSVpKRC1NeXhKZF9PSU13RGRwRmZfVG5SZUJna0N2WDNUZHhBWndycjA0SU9kNjRDN1dvQ1l3enZ6akVfR1Nob2xQTVM1UUpoQ2JfWG5pSG81dHpRM0xKRnJfSmw1Q3lSQmJpU2VrZElvMW9lNWRlODMxYXV2ZXFFLUFCSHNQa282al9oV0s1c3FSaHZwaW1pRmdn?oc=5",
+    "source": "South China Morning Post",
+    "published_at": "2026-11-15T05:57:18+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 05:57:18 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "37a9e6b9eb7af58f318234202478fc1e22a56bc0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Describes Iranian strikes guided by US troop data causing large financial damage.",
+      "event_key": "iran strikes guided by us troop data"
+    }
+  },
+  {
+    "title": "IRGC Media: Technical Modifications to Allow Iran Develop Missiles that Reach US - ASHARQ AL-AWSAT English",
+    "summary": "IRGC Media: Technical Modifications to Allow Iran Develop Missiles that Reach US ASHARQ AL-AWSAT English",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEZ0UUVobTlmaUtsSDlFckVKRVdReklXbGN2NVcxalQ5WEdaLWZWZWl5dVJLTWFnd0ZDcnBIa2FRMVBWWjV4MTduNjFvUVRoYTBCMG96VHJhOTR1Ykl4MjJCYU05V3NxWmtwRDVOaldBZmN1dkxocGdWYWFqdEFOWFRfcGZ2V3pKOUhfb0F1VVU1QmNHWTJGRE1BMG9nV1plRDBxM2ZtZ0VCRy1VZFZtdXRn?oc=5",
+    "source": "ASHARQ AL-AWSAT English",
+    "published_at": "2026-11-15T07:39:54+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 07:39:54 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a91644d0917413a11d4f6ebd3f6bf06f7f0a76f4",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "IRGC technical changes to extend missile reach toward the US signal military capability escalation and heightened tensions.",
+      "event_key": "irgc missile capability extension toward us"
+    }
+  },
+  {
+    "title": "Iran still has thousands of missiles despite war, US intelligence says - The Jerusalem Post",
+    "summary": "Iran still has thousands of missiles despite war, US intelligence says The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wOGI4VlAxdVJ6SGhBdWV4SC1Jemh2VU9UTmFfazVUSGpoQXI1M2EyRVI4THhfWFduek5KMGkzNVpYVURCazJrVzhncGd1czU4d0c3NVZrT04xNkZXbkk2ekYtSk5veVQ2ZXc?oc=5",
+    "source": "The Jerusalem Post",
+    "published_at": "2026-11-15T05:36:58+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 05:36:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1a0e86a8eaa2703bf74128f6e87d3edb0c868886",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.4,
+      "reason": "US intelligence warning about Iran's large missile stockpile raises regional tensions and threat perceptions.",
+      "event_key": "iran missile stockpile us intel"
+    }
+  },
+  {
+    "title": "US Intelligence Estimates Iran Retains 1,500–2,500 Missiles Despite Strikes: 12 outlets compared - NewsCord",
+    "summary": "US Intelligence Estimates Iran Retains 1,500–2,500 Missiles Despite Strikes: 12 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1A1aFZqaXlpMDBwS1FEc3g0OW1WSF8xbmVPanZIOW9VZWpTVkoybUNXYTRieUlKdmdfalBGcTB4OG9Wd3otM0liR2l2ZHllZlktdUNJMjY2Vnl2MWgyZ3E5ZVFrTkhmcW5lLUlkcE00VFFuNlp2VDZ3Y05mOHBHUFE5eWgxWG9xMUFSZlNySGpadjBONWh0VEtBZVFZV0VzUmUxb2M1Sl9oTUZ3V0xmZFV5cmxlX2FsRDlqektTSUd3Ym51bVVmcnZnd0E3TFIweGt0MVdQQ2NoandLSlVB?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-11-15T05:22:56+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 05:22:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ef159d508b87ae13b3e5f0682bab91935d7f7e75",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US intelligence finding of substantial Iranian missile stocks implies continued military threat and rising tensions.",
+      "event_key": "us intel iran missile stockpile"
+    }
+  },
+  {
+    "title": "US intelligence believes Iran could still have up to 2,500 missiles – report - The Times of Israel",
+    "summary": "US intelligence believes Iran could still have up to 2,500 missiles – report The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm9YZEZBLTUxTUZOODItV1Q1Z2RweWVTYVBBMTgySWIyOVN5eWJrT0g4SUVHMmJkbTJLWGQ5dkNYMmlPb3BQaHB2TEJyYm1HaEM4bVVMOHR4a1FBRmN2SWFrRUk1Qi1DWmRya1Q4MDhwWlMzMnNCc1ljVXhSSGJEUXdkUHlwbDhPNW5uUEM5VmZhREFtdks5OHBOemUzMnN5dXF2QzNTSdIBrAFBVV95cUxPZm40NWNrbnlXc1NsbXlOU3V4R00wNXdIQ0FuMnl3dGdzbkpqaGxmTmRQbFJNM2NNM0pOYm1lWC0zNEs3SXhjZnRtcVYtdFZqNHZ4eDRwdHZTSjZTczFSR2FZNGxoOGc2ay1KRDBfbnNOQjhQWEcybW9jV0syaVBDaFVGX2Jyd0l0OWlQWlFZRmg0dFF5N3pVNUxqa2xvN0lBWUc4WXR0U3pLbnZ4?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-11-15T10:19:12+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 10:19:12 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "eaf4d1055b79b557c7a9be84fa048515fa635906",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US intel estimate of large Iranian missile stockpile increases threat perception and tensions.",
+      "event_key": "iran missile stockpile estimate"
+    }
+  },
+  {
+    "title": "WSJ: Iran still has 1,500-2,500 missiles, influencing US plans for renewed war - Middle East Eye",
+    "summary": "WSJ: Iran still has 1,500-2,500 missiles, influencing US plans for renewed war Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHQwRUNQT3IzbXp1ZmFQUUEwR2ppVGh4NHhkekZrbmREZjJIT29BZTRJbklpTXdEdy1fVmRYN08xVnBBTkNVZVpPZW1jVGg2OXN0cTRfRmtBeUQ0cENLdHRmeW5mRmJLbG56bEI1bVVmdVVZdWdKOW1QQkhNbTJYUlNaSWhpVHVVQmRXUXJjYjdwWFA4QUg2WFc3UXJCS0dwVzJWaElhcXhKNndxRnRFYnh2N1J1Z0pPUXRHSm5aWEJIZDdX?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-11-15T06:06:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 06:06:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c67aecc3133cdcb46997d4ac4a68bb59d3610265",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Reports Iran's missile arsenal shapes US plans for renewed war—indicates rising tensions and potential military escalation.",
+      "event_key": "iran missiles influence us war plans"
+    }
+  },
+  {
+    "title": "US intelligence believes Iran could still have up to 2,500 missiles – report - The Times of Israel",
+    "summary": "US intelligence believes Iran could still have up to 2,500 missiles – report The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelFhQzNJZGxuOWI4Nm9WMWg0RnpoYUdmSDhCXzhKb1hSQmlrcWxGX0RJV1hSZ1lIbWtHMVUwak5OU3JZRnR6eG5xdnBtNWJUWG9tVzc3a1dJcEp3LXc3QmRFLTZEQVFGcXA2bXlNSVZlNWwwc0p1TzhsOFQ5X04yaFFIcU9aQ2kzTWVhbmNKa2YyRW9LLWx0TmhfbjliNWVNYTlwRjA0SjdvZnNqUDdvYnREa3d2STBhcXNF?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-11-15T05:39:49+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 05:39:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "df2e5ae3bb07a1e9e5a6125329c19738e5b429b4",
+    "source_weight": 0.95,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.6,
+      "reason": "US intelligence report highlights Iran's large missile stockpile, raising threat perceptions and tensions.",
+      "event_key": "iran missile stockpile estimate"
+    }
+  },
+  {
+    "title": "Iran’s Revolutionary Guard Targets U.S. Radar in Bahrain as Saudi Reports Missile Intercepts: who 9 outlets blamed - NewsCord",
+    "summary": "Iran’s Revolutionary Guard Targets U.S. Radar in Bahrain as Saudi Reports Missile Intercepts: who 9 outlets blamed NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQXy1ESUw0bXF0MUdoUEtwV0FUNHBUcXozOV9HSElFTXNtM1l2cXRmOWFrNGUxWjdhZ19KUUVZZjVSbkd1Ujd0enZzUk9WaU5HOHJLOWtWcTAwcW45VTNEQnE0MUJadWJJOHJ1WFp1OUtsWVRHOGd2TWJYVkw3MjNlVmJjOVlMYk52ME11clBRZFRCbVZJTkd3QXJrY2xDZVljeDMyelhyNFdMdE9wM2xBb2tkSWlhUmdVNHBrMXlnUVoyNHZvZnNvUFF6TjVhYkFyUlotMWc5STVOTFhzLW5tMTNySzVmanlheHc?oc=5",
+    "source": "NewsCord",
+    "published_at": "2026-11-15T05:20:06+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 05:20:06 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "1647a9b71ac4ddd55f3dfdc481cd8f19084f80b8",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "IRGC targeted U.S. radar in Bahrain and missiles were intercepted in Saudi — describes direct attacks.",
+      "event_key": "irgc target us radar bahrain missile intercepts saudi"
+    }
+  },
+  {
+    "title": "Iran has 1,500-2,500 missiles despite US claims of ‘decimated’ arsenal: Report - The Times of India",
+    "summary": "Iran has 1,500-2,500 missiles despite US claims of ‘decimated’ arsenal: Report The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQzhrb0dlNEJHZ0oxcGtjc0FlWWJ2MVVtcmt4S1pBSUtyOTA5QXRlVHVQMXV0Q3dEeHZmdFZwd2ZhRlhGY1ZKc2xTTGRicC0wMUl5cm5yWF91NE5HWjI4cnprU29NSnJhZFZadWlnSko3R18yN1h0djlISGUzbDR5R04tMm5NOTVMMXRYeWgzODlPRTZWT0NQTk96SDVRX3dwMVVlejk4RVE1eUNRY1RLVDdZSVYwNnJtS2lKd0NqSDQweHNaMnl3b2pnOUk3LUp6NmZMbUJfWmN4RllfR2xRWmR1VnFDZ0Nx?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-15T07:26:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 07:26:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "95b7bd535ede6c171912750ba60de9561c90ca82",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.35,
+      "reason": "Report disputes US claims about Iran's missile arsenal, increasing tensions and challenging US narrative.",
+      "event_key": "iran missile arsenal dispute"
+    }
+  },
+  {
+    "title": "Iran eyes US base in Britain? State TV warns of missiles with expanded range - The Times of India",
+    "summary": "Iran eyes US base in Britain? State TV warns of missiles with expanded range The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxON0Z4TnNUT01KMDg2dmJFNWpEcERTYThDanJ1VWN6aWxrbU1abS1UbFplX3BJQlBVSng3Nkdrd2hndTZ5ajRGS1Z5ZUZWRzQ5VWFfQjZIa0dKM3dXY056dFN1bXZJY3FqUFZTTTdiWkdmWXJWcm94RG1mUUd5cGc2QUMtRmxBM2xGUExyaXBBaHBLYTlyOW80dkxZVFhyRzBRME9nemRFY3FhdWRpc0U3eGpsUTk1dWl0VWJVc3g4TDZBUE1FYWYwWnp2SV9kcWRINkRIYTM3cWpiWmxTMm9YTzM5UE1pYTlOUl840gHwAUFVX3lxTE9rU3pYQ3Y4NDc1cUo2MUNRQXplMU5obWRtbEFLaDBsLXlRUGZsQS1nR0FpNTV1T3NsTFMwMzlSM1VmTE9PNElyY3BOT01rX01KOHlHRmZNY29HaHFOaFdSU0lqMFJtcU52MGhSMzNpQWlvWnl3QWN0THVXeDBpTVBQYVpzVUdmaG90VGxNNGY3OG5mSUZqMkpnWjdVTGJnVEtVX3BJbEJ3bndjaXBsOGZuMU1nOHhQUDFSWlhXZFYtMHFFY09HUzVacnM2bDVWSzFGMzh1NloxN1FFaEZwaEYxZVFQM2FPSm9ST3RvRTIwUQ?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-15T10:08:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 10:08:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "7243475231961fc328f9f8ee0abe94ffb2e4404d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Iran state TV warning of missiles capable of striking US base is hostile rhetoric that raises tensions.",
+      "event_key": "iran missile range warning us base uk"
     }
   }
 ]
