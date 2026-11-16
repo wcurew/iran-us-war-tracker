@@ -1,393 +1,104 @@
 [
   {
-    "title": "Iran launches drone attacks against US military base in Bahrain - The Guardian",
-    "summary": "Iran launches drone attacks against US military base in Bahrain The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
-    "source": "The Guardian",
-    "published_at": "2026-11-15T17:38:00+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 17:38:00 GMT",
+    "title": "Iran attacks US military base in Bahrain as talks stall - Semafor",
+    "summary": "Iran attacks US military base in Bahrain as talks stall Semafor",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemlOT1VXbHFPOU92b1hMOU5yZ252ZUYwOU8zaUhZVjBST0dZaEJ4Wl9YRmxmN0l2ejdwWGJLb2xrcEpITDd6U2lyaU1qSF9HcW5VeDIzWWdxNC1EckVDeXFPU1ZjNUdZaFVDdHhGb1dXa25pRGNKLWR2QTFsZmgyTzNxSDI?oc=5",
+    "source": "Semafor",
+    "published_at": "2026-11-15T22:34:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 22:34:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6d834a0b5c44ea41f1bfda451e27b571462d702b",
+    "article_id": "71538b4267720916c2cbe4f2ef1b0d51209adbf6",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "Direct Iranian drone attack on a US military base in Bahrain constitutes a military strike/retaliation.",
-      "event_key": "iran drone attack bahrain us base"
+      "reason": "Article reports a direct Iranian attack on a U.S. military base in Bahrain amid stalled talks.",
+      "event_key": "iran attack us base bahrain"
     }
   },
   {
-    "title": "Mossad chief returns from US Iran talks as Israeli security cabinet convenes - Ynetnews",
-    "summary": "Mossad chief returns from US Iran talks as Israeli security cabinet convenes Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HNnZ0aEVJb0M3LThhUUhKNHBIcjdIbWNjV2U4dnlMWk0tVlIwUVhNTVhqX1Nmbm5haHZieVRuaDROXzdmQ1o0Rlg1R3N0eExhaDhGX2Jn?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-11-15T17:11:19+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 17:11:19 GMT",
+    "title": "Mossad chief returns to Israel after US talks on Iran, set to brief Netanyahu: Report - Anadolu Ajansı",
+    "summary": "Mossad chief returns to Israel after US talks on Iran, set to brief Netanyahu: Report Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFhJVkhNM25VajlTeS1sSVhCaHF3MS1YWDRFR2pma1F5NjRPbzhFbzl1UjdtM0xaLUNYZjNyRTdSaEg3TjlURFZUeU1RNVFhejROUk1xOWFmQkNMWHh0RHhVcUtHblktdzg2a3M0am5ta2lmNENuRW91QW9icmdydHlqUWpjdzNpSGo0eXhZdVJOQkdlcklZQmpuYVdpeEsxVnJEUWNubGt3SS1rVWtTOWRUNEYxTGtJZ1RmSFhLZTFCQXVHUVU4?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-15T18:38:16+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 18:38:16 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aaa9a620aa7de7ff964e2f694a0932fec4cb5d07",
+    "article_id": "9f04f9ec96d50160487a1aea7d8cae1dab9fd64d",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Mossad chief returned from US talks on Iran, indicating active backchannel/diplomatic engagement amid security discussions.",
-      "event_key": "mossad us iran backchannel talks"
-    }
-  },
-  {
-    "title": "Bahrain faces fresh Iranian threat as US-Iran diplomacy stalls - The Arab Weekly",
-    "summary": "Bahrain faces fresh Iranian threat as US-Iran diplomacy stalls The Arab Weekly",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlpsd1laS1VtbHROSkhyQlhEeUhlaXZRN1MyWnlVTkFNSlRfMG56XzRrUEQ2LWIyV19Pb0ZnaUIxYWt1bFFuekNEWF9DZ3B1UnRWTzkzSl9mMjZ1RDV4dEUxYTQxd19xcmNiMDVaeFozZXdoMXBYNko4NGp4NVhjQVRsMFBxRk5HQmY0b0VR?oc=5",
-    "source": "The Arab Weekly",
-    "published_at": "2026-11-15T12:07:58+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 12:07:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a5bcfb9b2c75897eeb0a7fb5a5cf177117e87512",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "Diplomacy stalls while Iran issues threats to Bahrain, signaling rising tensions and breakdown of talks.",
-      "event_key": "diplomacy stalls iran threats bahrain"
-    }
-  },
-  {
-    "title": "Iran Exposes True Face of the U.S. in Diplomacy - WANA News Agency",
-    "summary": "Iran Exposes True Face of the U.S. in Diplomacy WANA News Agency",
-    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE92UUUzRUxpdURITy1DamthdzJyT1lLeHhUYVdBdTZpTXJZQVNJTjJSZmllU285UmdKZFV1MFlNUXM?oc=5",
-    "source": "WANA News Agency",
-    "published_at": "2026-11-15T12:21:15+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 12:21:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9084248e879e6233dfa07b6c690907d22c8d64a5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
       "strength": 0.6,
-      "reason": "Critical piece framing U.S. diplomacy negatively, indicating hostile rhetoric and diplomatic deterioration.",
-      "event_key": "iran criticizes us diplomacy"
+      "reason": "Mossad chief held talks in the US on Iran and will brief Netanyahu—active diplomatic/intelligence contacts.",
+      "event_key": "mossad us talks on iran"
     }
   },
   {
-    "title": "Iran says IAEA is yielding to US pressure - Tehran Times",
-    "summary": "Iran says IAEA is yielding to US pressure Tehran Times",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGFobnJEVldzaTI5V0tSMmVPbFhpeDZmekpES2l2d3g0QmhsX0xUM2pLQ3o4R0xrLW93RlRiS0hoSDhiQ0dHSnhZZmcxTWcxaVNVSW42eFlzVHBuN1BnRDBDbWhPUkJYUjBvOVYxTVRLNnliWXotenBMOHU2RVNuNEE3Y2MxeGZi?oc=5",
-    "source": "Tehran Times",
-    "published_at": "2026-11-15T17:38:46+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 17:38:46 GMT",
+    "title": "Iran Drone Strike on Bahrain: Can Tehran Target US Bases on Gulf Soil? - Diplomacy and Law",
+    "summary": "Iran Drone Strike on Bahrain: Can Tehran Target US Bases on Gulf Soil? Diplomacy and Law",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhaDVzUXl2TE9FaVk1Und5R0tpb09FVnVFMlFMMEk1cU9aakkyN2ViMnQ1RkxjNVBXQjVuYnFwY0VyV3I4LXdKREpIVnFsUHpaMWc5djZ2N1BQd3h5bzY4X1MtelhHVUFv?oc=5",
+    "source": "Diplomacy and Law",
+    "published_at": "2026-11-15T18:48:24+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 18:48:24 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "189ec15118c27db05e8683d8a9dbbd690c7e90dc",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran's accusation that the IAEA is yielding to US pressure increases diplomatic tensions and reflects hostile rhetoric.",
-      "event_key": "iran accuses iaea of yielding to us pressure"
-    }
-  },
-  {
-    "title": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S. - The Washington Post",
-    "summary": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S. The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDJzX3ZZUmk0ZHJvY3hHNFpBbDRfQlBpT25MWEZNNGY1QUsxWnlRVkl2WXNFN3puTS1ra2pHc2ZkeDI5WUxZcm9yZ1JheGRQYXlGM0VfMVRmY01UdmVDc1R1UDYyUk9MWGpKTzQ0bzFKOGJQS3VhMDhJdzkyaDQwanNLTFMzVU5vRVdUbVRudjQtQ0NCZXdleUJOeWwxaEVXQ3c0TEs1dkNZSTY4RnAxc1I3c1JhY3dNNy1JRFR4cmJnWHNl?oc=5",
-    "source": "The Washington Post",
-    "published_at": "2026-11-15T18:13:03+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 18:13:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e2d2b7858c5f158fc0d8c5e6f8bf69d9856eabe5",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran launched attacks on Bahrain claiming they were retaliation against the U.S.; clear direct strike event.",
-      "event_key": "iran strikes bahrain retaliation us"
-    }
-  },
-  {
-    "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes - Al Jazeera",
-    "summary": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmJpRzd4b1dzR0xuNEpuS0tRS0xXYkI0UldTdG9SU3pwVEFRVThGQUwweFo1TUxlXzlOMVd0cFBMNmEyTlhGRXlHUjZTZE1aeGZZN29Nb1BiMVMzYS1tZGJSWEYweXRDcV9xdEJ2dy02WVd3cXBlZzhHYUR1VXFTRDdCZlRoOG9HTzEtU3J3VXI0eVZHdFFnVWRlVHJHd0ROcDlhYU9YTTAtcnVncm1tVTMyWTgxbjQ4TU5IR0lCa9IBxAFBVV95cUxNZGxFLUFwd2ZGRlF4cFpIQnl2VXhHVHYtVUJmMU1xLV9mNjM4aDliWFFidmdJX1lKZS02anJpOWlSNTBkdGhKMi16djFpQWtwMU9NVHNEY3I5UHBfR1MtcHBSREZ0dWVnQ3AzN0VIRy1NY3VfR215Q1NlVFc5OVdNVzlnYWZIZTdKU3BvdHRIVGVQSVVBeVpHZ3laeXlCb2lNLTVLWXd4X0JIdTJ3MGhJRXNKT2RHck40c1JJdlNVNUVqVnFk?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-11-15T12:27:43+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 12:27:43 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f983057a4d5a7233da4597d39c5ac56616f1ffa3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran conducted retaliatory drone strikes targeting US military radar in Bahrain, a direct military attack.",
-      "event_key": "iran drone strikes bahrain us radar"
-    }
-  },
-  {
-    "title": "Iran says it targeted US military base in Bahrain in retaliation to hostility - The Independent",
-    "summary": "Iran says it targeted US military base in Bahrain in retaliation to hostility The Independent",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWg0dmtnQnlTQUpvYno4NnNhU0NTWDZrUUdKbmJhOXowOWN1ZWllS3JBU09MVTFic2pnZENSMnAxSXo2Q1pKZDNyZU5pQzRQeWpuQmdaVVNfeHllMXAzdGZIR0JHU1BHVW9FQ3A3Z1FqdFVwaUZKTnFsSnpNWUxEYUVlMFk1MHFjNFhiMVczT3RCSi1jUWh0elIyaw?oc=5",
-    "source": "The Independent",
-    "published_at": "2026-11-15T14:30:00+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 14:30:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2c4524a15cf9bd890d92dbee32d0ca1cb0aac9c8",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claimed it targeted a US military base in Bahrain as a retaliatory attack.",
-      "event_key": "iran targeted us base bahrain retaliation"
-    }
-  },
-  {
-    "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones - The Atlantic",
-    "summary": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones The Atlantic",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEJkb2FSNEU5NWtBVk5vX3RudElUMEFFWlVoZXhYMFItMC1FOXhtY0VyenN5VzdRNlh5c1RzZnQzUnZxMHR6Z3dSX2dySDg1dXVybWlXV0dLQU9CYnBCYmhwMWNrZjFNVUpSNE9DNkF5SmpaSHNyNkRIdHFoOTEtRXY3WUphM2hGWC1Wbi0zNUFhejhfLUtMVjBR?oc=5",
-    "source": "The Atlantic",
-    "published_at": "2026-11-15T14:52:46+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 14:52:46 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5a7166f3d0b47c280011e8b3f71d158390cc028d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.4,
-      "reason": "Reports ignored warning about Iran's drone threat, indicating rising military risk and tensions.",
-      "event_key": "iran drone threat warning ignored"
-    }
-  },
-  {
-    "title": "Bahrain intercepts Iranian strikes on US airbase - The Hill",
-    "summary": "Bahrain intercepts Iranian strikes on US airbase The Hill",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDdKWmtnMUUxYS0tZThsV2M0cmhTQlFZdDNNZGNPNGROOFczaTVZekdyYlNlblJaSEJmNUVKZDJsNzZydll1b25CMENycUVWMjZpNzFEUm5YNlg1b0QzUzkxRTBaa0tJcXV0c2dmazFOQ3VuNXE2NWhtSjItRU9pUdIBhgFBVV95cUxPdzVHb3A5UmNFSFpqdHpBWURnc3YteEtQVXJhSE5iSzRpdVcya2loNUVyaFY0aE1wUUZIVkZvQ1JsRWtyU0FWc0RBVzdOaG0zemdMRUJFOXNQSl92MXliU0Ntanp6bW1HcGhJSmpvcEFrVDBibFhKUkdEZ1NLNEJFeFh4c2pkdw?oc=5",
-    "source": "The Hill",
-    "published_at": "2026-11-15T17:57:00+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 17:57:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "057e83807fd9bfdb3d6e81b7d227f1f2897478af",
+    "article_id": "55ac3a51e50eb20791f872b274a58bca7c5627ba",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.85,
-      "reason": "Iran launched strikes at a US airbase that Bahrain intercepted — direct military attack.",
-      "event_key": "iran attack intercepted bahrain us airbase"
+      "reason": "Article centers on an Iranian drone strike and legal/diplomatic implications of targeting US bases in the Gulf.",
+      "event_key": "iran drone strike bahrain"
     }
   },
   {
-    "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US - Al Jazeera",
-    "summary": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnZfRlIyYV81ak90RjNRX0c0eHFfVElETDhZTmZfb2F5WDhxOFk4TVRQNFhvV0x4cHJvRVlLQVAtWmpUczhfM0NraTJoblE2bHd3cENGTzhGbWlaczNBZmdZUTd5Nko2S003RmJoOVhCRlFlX2JOSXI3NldfMUszLWg4UDlKeXk1Z090Q3Zma2h3WllQTEpreDFlSGtNOXp6WU5UVXI0Tkdnb1EwYjY5SWg0NNIBuAFBVV95cUxPUE1GeWU3b1pQZkRVS3g0YjVkejJUdEhwNU90QVgxVXA5dEVBOVpzQXd6eHIwNVJkSHUySldvVWk3MGF5T25WSFlGemx0QW1xZS11bVpXdnFkYjlGdFRLRVQyczIyVnVTc1JjOFFFUkxYUW5xQWllbUFsYmlDRUljdDhhVk1udXZseDlwU3IzQjZOVVhFZElsem1HNG9OOTE4UVpYeTZYX09zZW5Za0xVUU5BZlZXeW4x?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-11-15T12:39:53+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 12:39:53 GMT",
+    "title": "60 Minutes Transcript: Families of U.S. military members killed in Iran war want answers from the Pentagon - CBS News",
+    "summary": "60 Minutes Transcript: Families of U.S. military members killed in Iran war want answers from the Pentagon CBS News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rZ2VORmxNTk1RNVZ1VUV0Q29Xc1lvcmFENXMzZVlsZnhOVW9GZmxvVzhtTXlXVm1yanN5MFktUmNrbE5Ha2lrbkJWejFxQ0QzazBua3F2dFpKaUNXU0RXNkNjMXkzamV5c21Vd0FVS1BRQjBxckhN?oc=5",
+    "source": "CBS News",
+    "published_at": "2026-11-16T00:00:15+00:00",
+    "raw_pub_date": "Mon, 16 Nov 2026 00:00:15 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7a087dd8f844e071cbe9cbe82b529da999bd9c70",
+    "article_id": "5f1c700c485715df09ef90f2b8b99941a6b55398",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Bahrain accuses Iran of carrying out an attack on its territory—implies a direct strike/retaliation scenario.",
-      "event_key": "iran attack on bahrain"
+      "label": "irrelevant",
+      "strength": 0.72,
+      "reason": "Human-interest/investigative piece about families seeking answers, not a new diplomatic or military development between Iran and the U.S.",
+      "event_key": "families seek answers pentagon irandeaths"
     }
   },
   {
-    "title": "Iran claims drone attack on US military base in Bahrain - France 24",
-    "summary": "Iran claims drone attack on US military base in Bahrain France 24",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2ZocWx0VkRxMGh5N25RcDZMQnQ1LS1HU0RMVHg5U3dOWDlGRTlkcHdaRHVCLTRfR3hUYXE4a3BVV0ZncERjU2RuVXlnR2dBcUhMTUc3UVR0RG1tNW9sV1FVX2FBLTNhRXE1WkJ5WmwxR2pQVHZHV3ZxSVdHVnpUWWFjNjgyX0tSZWtz?oc=5",
-    "source": "France 24",
-    "published_at": "2026-11-15T15:26:08+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 15:26:08 GMT",
+    "title": "Iran launches drone strike on U.S. base in Bahrain - upi",
+    "summary": "Iran launches drone strike on U.S. base in Bahrain upi",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGZBa0VxcnpiTXkwczJSRFlnYjllZnpvNTM2ZkNIQ3c2V2ZJNzBseThhWjNUa1FiY1doY0J2WFNndmhURzI3TUtiMHJhdzJoU1plUk5oaTItRkw2T05UYUp3M19NNC1mcldKQ01NY09IMkh5VlppUWV0Ykk2bHJ6RUIwajYtN081MndkQmRfQjJKZ9IBlwFBVV95cUxNclh1bVNyMXpMR0F4OHhsN3EzLVcySWhCSThidDRMZFZTNUpDUjFRUlZKS2RDYWROcHI2RUFfZncwQUJ2TzBmZGg5a1pFVEVIbTBWcWNVWHJvOC1MZTJCbm9FUkRvb2hScEN1NnNnZi14Z2NGWTgyb3R5ZzFScnRoU2JfcGtFRjVSV1JnVGo4TjJxSnNtU0tZ?oc=5",
+    "source": "upi",
+    "published_at": "2026-11-15T19:19:37+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 19:19:37 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "feba489d70a29483ee7bac4846a8c7f8ee1f8513",
+    "article_id": "6e8a5ed0736de769c0b726a86b9654bb9425acff",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claims a direct drone attack on a US military base in Bahrain, indicating a military strike/retaliation.",
-      "event_key": "iran drone attack bahrain us base"
+      "strength": 0.95,
+      "reason": "Direct Iranian drone attack on a U.S. military base in Bahrain.",
+      "event_key": "iran drone strike us base bahrain"
     }
   },
   {
-    "title": "Iran launches drone strike targeting US forces in Bahrain - Fox News",
-    "summary": "Iran launches drone strike targeting US forces in Bahrain Fox News",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ySmhQQnRyRWp0bkhncjh2YkcwQUkwTHFpXzJ0clRLcEVGc2o0MFBCRzhEWkNhdmFEQkZ0eUIyWFV5cG1NbEoxbEEwNklNRWZldUI0ZGJR?oc=5",
-    "source": "Fox News",
-    "published_at": "2026-11-15T15:04:36+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 15:04:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "7c34a6517775efa95a8f3e42cb43f5b2b5f60dec",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct Iranian drone attack targeting US forces in Bahrain.",
-      "event_key": "iran drone strike bahrain us forces"
-    }
-  },
-  {
-    "title": "Iran drone attack on US: Islamic Revolutionary Guard Corps target America military base in Bahrain wit six drones - BBC",
-    "summary": "Iran drone attack on US: Islamic Revolutionary Guard Corps target America military base in Bahrain wit six drones BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mR0FaLWZjVTI1X3dZcTZSX2tTQ1NndU44M3JCbkJNRFFaWUc1NHRpOF95SmVOSWJna2U0VDdhVkxRMFZGcEtUdXdCVGZvT0VUYm5qUlRKODBRdzhGOWfSAWNBVV95cUxQYTM4Nk9hSjNlcEk5RGN3ZXZicGVtbk9xeHR5dmg0WTU1NnlZdXltRFBRUUpqc2pGZlVLUGJzRk1fNGVKUUpwNDNOVW8tWUNDZS1kNEdWbVVzUTFKeHNzLVptLVk?oc=5",
-    "source": "BBC",
-    "published_at": "2026-11-15T16:09:04+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 16:09:04 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f0e36909df8473fee8213a10d66fb56bc02cdf22",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "IRGC launched a direct drone attack on a US military base in Bahrain.",
-      "event_key": "irgc drone attack bahrain 6 drones"
-    }
-  },
-  {
-    "title": "US estimates Iran has up to 2,500 ballistic missiles, or more - The New Arab",
-    "summary": "US estimates Iran has up to 2,500 ballistic missiles, or more The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtfVnU2U2NZa2NTOWkzS1pyLWFRcWxRMDlVR2c1Mk5JbEhuMkJ1eVVTLTJpc09SdUJmaVZUX0dGYW5sOEFpeHgwWG45Ny04TFRsdEt5cGFqalBRbWFPbGljdkhWLVRKdUlRNkNwYXFoTG91MEJISUJBdkFaWkItQ1dld2s4UVUyeWc?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-11-15T14:59:34+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 14:59:34 GMT",
+    "title": "Iran still has stockpile of 2,500 missiles — as regime threatens US bombers as far away as the UK: report - New York Post",
+    "summary": "Iran still has stockpile of 2,500 missiles — as regime threatens US bombers as far away as the UK: report New York Post",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUFuTmllcjZBaFRkckg3SmhsZzNVbjdXWjlsSmpaQ3lUQ1RPVWlHTmJLVVZYNDRJbGRZMW16UDJxQkJTOHhnZHZYZXlfbE9NdXA1NkRST3BHZnFkWmM4My1LbWFVcHdIelJ2OHBWdnJrNXBEaC1xRmswMjVHblJfWC1KVzhyM1d0ZXNRSGNfZEFzU0JsUnN3dDZyYTZMelRUMGtxeldkNGJCWWw1OUVYZ3Z6cGIzWTQ?oc=5",
+    "source": "New York Post",
+    "published_at": "2026-11-15T18:44:00+00:00",
+    "raw_pub_date": "Sun, 15 Nov 2026 18:44:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d566f6c7a88e63fd2a569f28533c082e1200dd7c",
+    "article_id": "cd1078fdd361ecc5ab6f922f312d6ab4c1a201e9",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.6,
-      "reason": "US disclosure of Iran's large ballistic missile arsenal raises tensions and implies increased military threat.",
-      "event_key": "us estimates iran ballistic missile stockpile"
-    }
-  },
-  {
-    "title": "Ghalibaf Warns U.S. as Iran Unveils New IRGC Aerospace Force Missile Base: how 6 outlets framed it - NewsCord",
-    "summary": "Ghalibaf Warns U.S. as Iran Unveils New IRGC Aerospace Force Missile Base: how 6 outlets framed it NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc192NFNKMVU0bHNYdjEtcHY4R2JUWHZ4RmFVeHBRdzN5TGdhdTBNYkJZc2h2bjFVM3g5VkpVRG5oekU4X3FmYkMtekQ3bzFjTmpocUtlN2pGc2cyVzR4X3EyWmhMeHdXZDFlTUFPZUFRYW5sR21adUpzNUVZZWEzaWxXNjFTSWFYSzBTUUtodmNDVHhwLUFpaEpjTE5kRWQxb0tUdnV4eEFFeFJaU2pEU0dscWhvamxlYVQydjBqZXlLNzBkSWdidg?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-11-15T11:19:37+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 11:19:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "70147f25d96902664af79d611f8e81849aa0e848",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran unveiled an IRGC missile base and a senior official warned the U.S., signaling increased tensions.",
-      "event_key": "irgc missile base unveiling warning to us"
-    }
-  },
-  {
-    "title": "US Intel: Iran Still Has Up to 2,500 Missiles - Yahoo",
-    "summary": "US Intel: Iran Still Has Up to 2,500 Missiles Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEgwUzMtTVo1N2dPcl93bVE2TFJkU1NuUUg2VUtqWGlDN1NmVXhQUFpWblhsM3BXMi10U1Zub3Z3bXZzb1NkeEFpeW40cFdjekV6NjJvakNtRllZeVV3OUFmTlFrWGJrdUJBR25JVDU5Zzg1ZWFPaUprbzlVaW9fYg?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-11-15T14:47:14+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 14:47:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "be94af143078dc1336d26742f248cee29cdffc9e",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.5,
-      "reason": "US intelligence revealing Iran's large missile stockpile raises tensions and highlights military threat perception.",
-      "event_key": "us intel iran missile stockpile"
-    }
-  },
-  {
-    "title": "Trump Claimed US 'Destroyed' Iran's Weapons. It Still Has 2,500 Missiles - NDTV",
-    "summary": "Trump Claimed US 'Destroyed' Iran's Weapons. It Still Has 2,500 Missiles NDTV",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1VVbFlUaHNlVkFBYXgzRnhSMUZxaVRMWk1zZWlVc3dVaC16Q2Rsd2JlNTZDLVVKay1MX1lfeW8waFNISEdLYU1rOUhjQ25pX0REZnFPYkVIdC15cUlZM1pwUGxUOWllSXoyM05xOXBGZklzc0VVWHpRYTM1UnJHTjh4MFNQbzFZS1BFRmN2MlhOUGctQWYxQkdkcnN6SG1qc2dCVzJqZC12V0Uwc3fSAbYBQVVfeXFMT1R4bkd1ZEhkaXhQT3FRd21Ub3AtTzFjUzN6N2Vtd2FLQ1QySG1JYzdQTmdjTTR6QU1PVzRUVC1aY1pmWkVyYTg5VWFZeUZfTnU0WlFKaHo5WjVOTlIzUWxCZ2lUeTFZWFVzTFNIYW51TlRwaGV2RFdVWjJWdll0TWI4UlBwSWc4WTdkV3pRRW5pNkFFcS0tOHE0ak02UnM4TUpOd21KdVlqM251eUR2bnZtSEowTWc?oc=5",
-    "source": "NDTV",
-    "published_at": "2026-11-15T11:57:50+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 11:57:50 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c841ee08ebfef347c042065bbd5a8708de0e4918",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.4,
-      "reason": "Hostile US claim about destroying Iran's arsenal is rhetoric that raises tensions rather than reporting a strike or diplomacy.",
-      "event_key": "trump claim destroyed iran weapons"
-    }
-  },
-  {
-    "title": "Egypt and Türkiye intensify diplomatic efforts to prevent fresh US-Iran military escalation - The Eastleigh Voice",
-    "summary": "Egypt and Türkiye intensify diplomatic efforts to prevent fresh US-Iran military escalation The Eastleigh Voice",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzR5WVhOU0lMdFR2RDJnOF9wdUM2YmFPdE9oRHZIVGEwVUZUS1pWYTRlbnpkWFVDQTY3UE5Da0RzTlFpMENUX25YeEtsZ0tLN0g5ZGdodU4yTkJTeVJxSk4xa294YlhLb3VfWVJzb0Y3cm1zWmJHLXJJSGJBeE5xNjlvWFRTYVVfQXJETjA2bnpjRDJXWVdqYkY2RnNQUVB6RFRtYmtvaF9LVnp4WjdQcHV1VGJhdkNucXp2MGtDS3VsYTdKZE4xTkY0RG54bXhoWHVLdnhR?oc=5",
-    "source": "The Eastleigh Voice",
-    "published_at": "2026-11-15T15:32:05+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 15:32:05 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "6e49cff78fccc846309134d61e90f87becdec23b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Egypt and Türkiye intensify diplomatic mediation to avert US-Iran military escalation.",
-      "event_key": "egypt turkiye diplomatic effort prevent us iran escalation"
-    }
-  },
-  {
-    "title": "Egypt, Pakistan, Turkey FMs urge diplomacy to avert further US-Iran escalation - Foreign Affairs - Egypt - Ahram Online",
-    "summary": "Egypt, Pakistan, Turkey FMs urge diplomacy to avert further US-Iran escalation - Foreign Affairs - Egypt Ahram Online",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU1CUEhZQUpLS1JVSVJJT1B4cnFSazJqRkpfYXM5N3c3eUhKdERuemZJbGM1dV9yd3F0NWNLY3RHZEc1czVybVdLSTBFU3JyQ3gwRmhFS3FvVDNKclJDbVFwWnZFU2UyMGMxbjExX2JhSlUwREwzUjlwSXpJMkwxcVN3Zm10VE43V2cza1VRRzc1cDBxRWk5ekZocno4RU83VWs1aHFQSGtuX0x4bnc1QjVn?oc=5",
-    "source": "Ahram Online",
-    "published_at": "2026-11-15T11:16:39+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 11:16:39 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2bc14ca92810ab0319cdee247479e5ba4911a42f",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Regional foreign ministers urged diplomacy to avert US-Iran escalation—a calming signal rather than formal negotiations or ceasefire.",
-      "event_key": "regional fms urge diplomacy to avert us iran escalation"
-    }
-  },
-  {
-    "title": "Iran targets US military base in Bahrain with drone attack - BBC",
-    "summary": "Iran targets US military base in Bahrain with drone attack BBC",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54d1BneWo3NFRhV3MxVkVJa1p4SXJkTE5rbFZvUTVTWkM0UDFrVWp2WWloenJjMmcwTDBKdkV1N3QtRVgxWV91NEpXN2pCbUxtTFNaSjBQM0t6dEk?oc=5",
-    "source": "BBC",
-    "published_at": "2026-11-15T13:42:58+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 13:42:58 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f90b79f2a28f12f479440648a78e1dda88cc4e0d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct Iranian drone attack on a US military base in Bahrain indicates an actual strike.",
-      "event_key": "iran drone attack bahrain us base"
-    }
-  },
-  {
-    "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report - Middle East Monitor",
-    "summary": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report Middle East Monitor",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHowdnEtS1JZZk92a2xwSW5Tb1VQbHRJZ0Iyc1hlc2FiQjh4TGRxOFFXMHl4QjA1al9vTmZNTFlyYjVzVUJYWXRRX2dtN1lvZElfbTBxVlZfQ0I4QVJpNkc2SVVHMGEzcVVKWFlqNUkyX1I4dUNKSVEtbE0xNVlLNkJuZGlHR05tUV96bUY2WkN3T2VZX1JXRXI1UDhzV2Rlek1YTDN2TjJTcjhoQ0hudS1IZVFfRGgzZkY1a3JB0gHDAUFVX3lxTFAxeUlmdHNNazdRcVk3LXdxWWN5R0h6eHVMdVNJWFFrWlc4WXoxZ3RXQ1llX0NpM2R3cHVfSnl6SmVNUjBFSlRUN0cxdW1YNDk3ZDFlSEN3blVWVm9URHBBQkZlaGxCbW9zZllXYlpQSFBNSlgwbXFoSEU3blM5MEQ1YW14b0s1eUh1bml0ZGt4Y01ackVTYUVNQmxiMTVuaVhWOXZaR21MZUE5VWloTHVPV3F6UWJ3NXhjWk1GQ2FoajZlUQ?oc=5",
-    "source": "Middle East Monitor",
-    "published_at": "2026-11-15T13:32:00+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 13:32:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f62a5db6a78b42882ad76406f0d99166ac52d924",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "US intel showing Iran retains thousands of missiles raises risk of further military escalation.",
-      "event_key": "iran missile stockpile intel report"
-    }
-  },
-  {
-    "title": "Iranian strikes on US bases in Bahrain escalate Gulf tensions - Business Day",
-    "summary": "Iranian strikes on US bases in Bahrain escalate Gulf tensions Business Day",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkdlcVFxT0swOU1sZm8xTDloMFJieDFaYXNzd0dGMUoxbWV4b3c5RDhZMV9iSzR2TkJOeVl4cC1VMnZEVEJmcncxOVE2ZUFLVnZGRUlXcWJ3aU5rNmpPNE1lMUZLOHAyOFMxcnk3T3RqdmJ1QkJFOXpqbnFEZjk3bHhPZnN3SFpxaVhFaERZZXZSWGpLNUZZcGlRbFlDeXZvY3hnd05JUmcxWVdwSTBCUVJZQUtpRmxqZm1CMHpZWXM?oc=5",
-    "source": "Business Day",
-    "published_at": "2026-11-15T16:28:07+00:00",
-    "raw_pub_date": "Sun, 15 Nov 2026 16:28:07 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=Iran+US+Houthi+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "161a1fd4a89fc93cf997647964bff6ba66318ac9",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Direct Iranian strikes on US bases in Bahrain constitute a military attack/retaliation.",
-      "event_key": "iran strike us bases bahrain"
+      "strength": 0.75,
+      "reason": "Threats and missile stockpile indicate hostile rhetoric and rising tensions.",
+      "event_key": "iran missile stockpile threats against us bombers"
     }
   }
 ]
