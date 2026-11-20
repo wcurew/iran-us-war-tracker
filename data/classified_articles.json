@@ -1,138 +1,36 @@
 [
   {
-    "title": "US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins - The Conversation",
-    "summary": "US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins The Conversation",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3RabHVlVmxhYmFlal90UmlBRmYxV25wRzJ5RFYxOGxsdGlhYnRpLXdySWdlMnQxenItY09RZ1RGc052SGViX21ubF96NGlwa3ZKSUVwQkVia0JReFNPWE5IdTRRU3NmNl93VEtCSDR6Ri1FYk0zMFVXYlVjWjB1SjhLcUNzMUtIV0F0SnlMX3YtRlY4dTRFRXVDbFQyWEs2Rnd4cXRkd3FGdkR1dDBMLWtwRFItcmVsY1BGVS1wVWtsM1E?oc=5",
-    "source": "The Conversation",
-    "published_at": "2026-11-19T13:42:48+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 13:42:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "c412999e802e681359447c84ebc7e18f1f95c310",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.9,
-      "reason": "Discusses historical cultural/archaeological diplomacy, not current Iran–US conflict or military developments.",
-      "event_key": "archaeology diplomacy"
-    }
-  },
-  {
-    "title": "US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins - Caledonian Record",
-    "summary": "US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins Caledonian Record",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeWZvVmxxRThwSW9LcldlZVpQMkxNTEdjdVJqazNnU25jTjlOc1R2SkRSaVFSSTVKZEF3dDNsYk8xM1Q2dHBQVm9Zbm9VNFU5d0hnNWtSbERvUy1wanVCLUVpZENzMGp3VE84cnZQT29JWmZnME9rM2pGV25rZkJQTFd0eU9hNTdNaEVGRGVoWTFVVHJFVVd1OGwycUVERHoxLXlpbjFOUG5MYzlSVk40Q05NUlNOcHFRRXdENUduUWZKOEYtRXZ1MkhJNnQ1UE9jb2Q5d3BaUEFXMGZDWEVvVl9iYXJHMDI4emx6TEtUdUdDTk9DVVQ0cC1Ya0NmV3g3TWhlNHVqSDZzQkZKX19FdWptZ3JTQUxBMllQenRlMA?oc=5",
-    "source": "Caledonian Record",
-    "published_at": "2026-11-19T13:42:48+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 13:42:48 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ad28d815374c668f62841d91741efb489f50c503",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.9,
-      "reason": "Discusses historical cultural diplomacy through archaeology, not current Iran–US conflict diplomacy or military developments.",
-      "event_key": "cultural diplomacy archaeology"
-    }
-  },
-  {
-    "title": "U.S. Strikes Iran’s Qeshm Island After Iran Targets U.S. Radar in Bahrain: 24 outlets compared - NewsCord",
-    "summary": "U.S. Strikes Iran’s Qeshm Island After Iran Targets U.S. Radar in Bahrain: 24 outlets compared NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdVNrSXBtSmltVVpWVDhyX2VLUFF5WS1Fdk5qOVFaaUNVWTJDeGsyYzNqQmNSWjlsaWxtYXdiSlhVNUk5emR6Z2NqeG1DQWhVdXBPVXRzLXVLbHRmTWVzVlJqcEl2QkdtYmp5WWh0a3BXWTdIUFN4WHJ6YmUwdW5XY1MwRmYzYURUaHB4dS1YREloSnZtWDdUZVRhTHRudGVSdndrSzd5TE9rNjBDdzhmWVJRRjZBNjUzVHVpVDAyWWpxdTFVY05VdXhTUnRrOEZ3NmtkN1VLUlFnT2gtOEFHYnRzVGY0TkhjMktz?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-11-19T11:23:47+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 11:23:47 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "96b364fcb3e9bcc7d6111f7983be230d8c5c2811",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "U.S. carried out direct strikes on Iran's Qeshm Island in response to Iran targeting a U.S. radar in Bahrain.",
-      "event_key": "us strike qeshm island retaliation bahrain radar"
-    }
-  },
-  {
-    "title": "Likelihood of major US strikes on Iran rises as regional hostilities intensify - Israel Hayom",
-    "summary": "Likelihood of major US strikes on Iran rises as regional hostilities intensify Israel Hayom",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PMFVGeWVuYzNJWGRkamxMcDczc09VWDR5VkdEcXFJSHBKeEEwY1ZZQjVQMFBGY01oSk11aV9vQUd6TEhGUUtHLVhJWFZyZE1IV2NtY0xQZmtjN2owRGVxR2JNTVRYNDVBY3BHS0N5eDBpbEFf?oc=5",
-    "source": "Israel Hayom",
-    "published_at": "2026-11-19T13:06:34+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 13:06:34 GMT",
+    "title": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit - WSJ",
+    "summary": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit WSJ",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-11-19T23:37:04+00:00",
+    "raw_pub_date": "Thu, 19 Nov 2026 23:37:04 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "def094bf5d20541953bca530367556c7714f8f10",
+    "article_id": "91b1d586e809c9ab70c4eeee4a7a74bf58040b54",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.75,
-      "reason": "Discusses increasing likelihood of major US strikes and intensifying regional hostilities—indicates escalation.",
-      "event_key": "us strike likelihood increases"
+      "strength": 0.7,
+      "reason": "Israeli spy chief pressed U.S. officials to renew strikes on Iran, signaling push for military action and rising tensions.",
+      "event_key": "israel pressures us for strikes on iran"
     }
   },
   {
-    "title": "Crude Oil Prices Edge Higher on Fears of Escalation in US-Iran Conflict - Barchart.com",
-    "summary": "Crude Oil Prices Edge Higher on Fears of Escalation in US-Iran Conflict Barchart.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVQNFFWQWc4WldBSkN0LThtZkZvejcxRDBIb3U5bGoycEJUYWNaRDJPbXlNbVdudUVZX1drX0xmSzVsOGpPWGdWbi1lMk1CV1U0S2tOYkFIZVhleU0xa0dIeWJ6aW42Zlk0X29WNU1sdXBvWF9rQkVUcllJVVF4dUtNd1JUUHpDakh1S0lvVFgzN2xZUnFUdmVRZFlxRnloZ0JXZFJmbi1NUk0zV25iWF9JamNGdw?oc=5",
-    "source": "Barchart.com",
-    "published_at": "2026-11-19T16:38:30+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 16:38:30 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8a263a6fce7670d0439830c8c9f1caf0996aad8d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "irrelevant",
-      "strength": 0.85,
-      "reason": "Market reaction to fears of escalation; no direct diplomatic or military development reported.",
-      "event_key": "oil price reaction iran us fears"
-    }
-  },
-  {
-    "title": "Analysis: U.S., Iran continue strikes as both sides contemplate escalation - Heartlander News",
-    "summary": "Analysis: U.S., Iran continue strikes as both sides contemplate escalation Heartlander News",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGpQU1lSUm9YbnpiZFNvdDUyb2wtd3V3UWp6ZEJKbWk4UEFoXzZhekFNOTRjdjVHSVVkQWdYMHhva290ZURWaGVvak55dkJkMTN6bE12VHdTeEZwS1AtUmhZdFRRODluTklQdFo4VWViUGlrcEduQVhrTnZpRWpXQWE4ZFlPUTA1VnZYMjlBZTY0N3Qtb3cwOUJ2OHFVQnFSNGc?oc=5",
-    "source": "Heartlander News",
-    "published_at": "2026-11-19T16:01:12+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 16:01:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "39817804e4afb06134e5013d8309d860a7985b53",
+    "title": "The U.S. and Iran Are Back to Trading Strikes - Foreign Policy",
+    "summary": "The U.S. and Iran Are Back to Trading Strikes Foreign Policy",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbUtPd0N2aE9RSlA5Y19OMUx6SllSTmdPbDJ6MXQ3U1RIbGxYb3UtQmxXeGJGWFgybUtGeFRlVW53S3ozbjFpVGVCeDhfNXhRTDZsaEZqWEhkSjd6UlFtWnZfMkpHbTRVYVFkWmtjZm5aZURHVUtNMmgtWmthQzA?oc=5",
+    "source": "Foreign Policy",
+    "published_at": "2026-11-19T23:26:15+00:00",
+    "raw_pub_date": "Thu, 19 Nov 2026 23:26:15 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "64bce2489115293fc437472582caa44ebf2b1005",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports of ongoing U.S.-Iran strikes with both sides considering further escalation.",
-      "event_key": "us iran ongoing strikes contemplated escalation"
-    }
-  },
-  {
-    "title": "West of Suez: Brent rebounds as US ponders Iran escalation - Quantum Commodity Intelligence",
-    "summary": "West of Suez: Brent rebounds as US ponders Iran escalation Quantum Commodity Intelligence",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXl0bjRHSURJZzI4WHZrbXpJYTlWd21SUzcybVpxaUpWRjVMNm9oSkVtbUJURFQ0MDdiMlJ5MmdYSjhIM0JWaW1MSlg1WHdyaGp3WXg4VHRia3B5Z2kwcTFLSTdxWkkxWFFWclBsXzRZYnpxVW5xWktpUlJfeTJhYmpyQWVZRHpxS3FQN2JDdEYxMHJlSFgzeW1sbzRqY0hJRUE?oc=5",
-    "source": "Quantum Commodity Intelligence",
-    "published_at": "2026-11-19T18:10:37+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 18:10:37 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5c85d4ed9a486c4c590887f0592259a001909643",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Oil rebound tied to US considering escalation against Iran, indicating rising tensions rather than direct strike or diplomacy.",
-      "event_key": "us considers escalation vs iran"
-    }
-  },
-  {
-    "title": "US Embassy in Kuwait warns Americans of heightened threats from Iran, Houthis across Middle East - Middle East Monitor",
-    "summary": "US Embassy in Kuwait warns Americans of heightened threats from Iran, Houthis across Middle East Middle East Monitor",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmY3clZ0bndBeFE0SExWSHc5WWhxWkN5ckJYZmd2TG5tRHp2Q0syR1FLUl94S3Roa3RoRkY4alZXUnlYaERSMjd1enphZ2ZiUVNmQWRzVXpDVVY5LXNNNHVtYThrR1V1aGZPLXFjbXUwdmFvb1VONnNwanZEMDZ3OF9uN2tPV2R1akRMU3NaTTJPMHJqY045cnN4VHVmX3ZHWlVrMjJCVkpFRzF5NkxtRkJlT05kQ2NRT3UzX0Y5VmliVFBDeEFkTkhORTdxOVNjZUdjbnBR0gHbAUFVX3lxTE5XQ0RhcURDcERGakpIVHc0VEVEVHNDdkl0QnNVY29YSHBmaU5Qa1I3WDdqWUcyMlFQM3RMNFAyZms2RjNtLUp1WndXcmVQWG1uOTZSVEZPZVVUWnJLcUpMQVZxY1B1QlBPUGF4TmdPdUdxRklLRzc3ZjNBSXl1c05ZaFhld0ZZOFNsM0VTbW8tUjVZQUwtdVdQM2VxQmo0TFhWQ2xDM2hRUGdaWEVnZW5XT3J5QnA5d0Rqb3pRcHV1LVFJM2ZxOVVKQ1ZtODZ2TU9LSE1EUGY4eXFQSQ?oc=5",
-    "source": "Middle East Monitor",
-    "published_at": "2026-11-19T18:14:00+00:00",
-    "raw_pub_date": "Thu, 19 Nov 2026 18:14:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "711bb36f3b16935672520a489a0aa1dbc6f099be",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
-      "strength": 0.7,
-      "reason": "US embassy warning of heightened threats from Iran and Houthis signals rising tensions and potential escalation.",
-      "event_key": "us embassy warning iran houthis threats"
+      "strength": 0.9,
+      "reason": "Headline indicates direct exchange of strikes between the U.S. and Iran — active military retaliation.",
+      "event_key": "us iran trading strikes"
     }
   }
 ]
