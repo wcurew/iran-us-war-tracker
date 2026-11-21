@@ -1,138 +1,87 @@
 [
   {
-    "title": "Israeli Prime Minister Benjamin Netanyahu Urges U.S. to Resume Attacks on Iran - 조선일보",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu Urges U.S. to Resume Attacks on Iran 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS090WVpxQ183bzYzRDlaNmNNZVFSekpKMWJ1a2E5R09xQ0lLRlp1NGlCN2VRZVZQRFNrQjRIbU9IZ09SbWwtRmo4dkQwZTFuOUFxbVlaV1VqQlRtNmtwNnJnbjFWbnBKQ2x0ZzV3RkRzMTRvZ2ttLVFoM0lsbGtpREc1X2g?oc=5",
-    "source": "조선일보",
-    "published_at": "2026-11-20T15:46:01+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 15:46:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "031aa7badd07b3c2806f761c63d48f1fedc133a3",
-    "source_weight": 1.0,
+    "title": "US Vice President Vance declines to say he would have ordered Iran strikes - Reuters",
+    "summary": "US Vice President Vance declines to say he would have ordered Iran strikes Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-20T23:45:19+00:00",
+    "raw_pub_date": "Fri, 20 Nov 2026 23:45:19 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c1dc65fdf2d52f7c95bd59bac160dd100d5595f3",
+    "source_weight": 1.15,
     "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Netanyahu urging the U.S. to resume attacks advocates military action and raises tensions.",
-      "event_key": "netanyahu calls on us to resume attacks on iran"
+      "label": "deescalation_signal",
+      "strength": 0.6,
+      "reason": "VP declined to endorse ordering strikes on Iran, signaling restraint and avoiding escalation.",
+      "event_key": "vance declines to say he would order iran strikes"
     }
   },
   {
-    "title": "US-launched missile strikes outskirts of Qeshm Island in southern Iran: Iranian media - Anadolu Ajansı",
-    "summary": "US-launched missile strikes outskirts of Qeshm Island in southern Iran: Iranian media Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXFFOHpMU1p1akVWc2FmczBjSHJSRW1Wb0dwZm52Q2taOE1xNVh6a09ISmNuZnZwZE5RVnVrN0E1WUg0QUsxUTAxVDFfekRZYU5TYVFyOHNUUG1mVE5CRlgzNUJPZnVHSkotdWFUbDVkNkM0bG8teUxSbUp2SjVKcW8yc3FrR0JWWDZnX0NhOWNqS2I3VDY3MVN6WUV4ckhmVktFSHZtaFd2NEdWZ2hDVUFYeVZfUjAtRjItZXZFWDlyWDVxUmxFZDUxdHQ?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-11-20T16:44:17+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 16:44:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e5e92d154af3a3f151b5027a0cbd60e6af29fcf3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.95,
-      "reason": "US missile strikes on Qeshm Island constitute a direct military attack/retaliation.",
-      "event_key": "us missile strike qeshm island"
-    }
-  },
-  {
-    "title": "Israel, US weighing attack on Iran in coming days — report - The Times of Israel",
-    "summary": "Israel, US weighing attack on Iran in coming days — report The Times of Israel",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDVXWnJFQ0ZCMm5YYVB1Q0I5ZFU1ZW5SaEFHYTJNZTRieGtUN0I4Wm1RNHhjajFZZjM5UWo5dXkyQXZsckhhcVptUGl4elpvblp1TmNIM0xDdTdBTXVMVjZVV21wMHZubkRlSmxoemZhUzdqMWpvUFI2ajdqanVlWHpneFRvM0RrUTBTdWtWTDg2UmtKWDlkZnBpLUxqSFd4VWJJ?oc=5",
-    "source": "The Times of Israel",
-    "published_at": "2026-11-20T13:09:34+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 13:09:34 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1fe93aa1021bb60595d6fbe33ffe3dd264953cd0",
-    "source_weight": 0.95,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "Report that Israel and the US are weighing an attack on Iran signals imminent escalation and military planning.",
-      "event_key": "israel us weigh attack iran"
-    }
-  },
-  {
-    "title": "Israel, US weigh renewed Iran strikes as Democrats seek to block war funding - report - The Jerusalem Post",
-    "summary": "Israel, US weigh renewed Iran strikes as Democrats seek to block war funding - report The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrbGcxNU1fbk55WnJLbmh5ajQ0NDVWSWR5TmFZTDV4MW1hMUZwLTkxMldzSHhVLUtHd1ZLQ0I1b1pHX2gtREh4RHVGSHhhRjBXNnY5cXRYMEY1a25Rd09YQTRKX2FISWVEZFE?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-11-20T16:17:38+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 16:17:38 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b74018856827070af314eb723a53d0eec6b3f411",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "US and Israel weighing renewed strikes on Iran signals rising tensions and potential military escalation.",
-      "event_key": "us israel consider renewed iran strikes"
-    }
-  },
-  {
-    "title": "Israel, US could launch joint strike on Iran within weeks, ex-Navy chief says - The Jerusalem Post",
-    "summary": "Israel, US could launch joint strike on Iran within weeks, ex-Navy chief says The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VaDR3cGtCckhHamdYMG0yYlFYamFadlp1MEFMUlBSbmpJb1RWdjVDMzUteWVnWlYyVE9KRV9pQzJiMTdnNGNONS0yTzFMN3VlYTQ1eWhyTGxmS0dyOXYxOVJnbzBSZ202X2c?oc=5",
-    "source": "The Jerusalem Post",
-    "published_at": "2026-11-20T11:47:14+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 11:47:14 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1f2ecf48f761c00f4a9fafe7cfe9a7f566e58f61",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.78,
-      "reason": "Former official warns of possible imminent US-Israel joint strike on Iran, indicating rising tensions and threat of military action.",
-      "event_key": "us israel joint strike warning"
-    }
-  },
-  {
-    "title": "Report: Israel, US weigh new Iran strikes 'in the short term' - Ynetnews",
-    "summary": "Report: Israel, US weigh new Iran strikes 'in the short term' Ynetnews",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WWnNaSllWZ1lJZlFFQTMzZ042TFFZRGliVTVkRVlHT20tNTZYQ0t5ODJOZkF1dlFUdDNHYmJ5VVhkX3FYTy1ZWHFOc0F2MlU3SG1OWGtn?oc=5",
-    "source": "Ynetnews",
-    "published_at": "2026-11-20T13:30:45+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 13:30:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "e0cf9421b22456acac430615c49bd70bb90c8dfa",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.75,
-      "reason": "US and Israel weighing imminent strikes on Iran signals heightened tensions and potential military escalation.",
-      "event_key": "us israel considering strikes on iran short term"
-    }
-  },
-  {
-    "title": "US Navy fired ‘expired’ missiles in Iran war, and its acting chief likened them to bread - Yahoo",
-    "summary": "US Navy fired ‘expired’ missiles in Iran war, and its acting chief likened them to bread Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1RSVU5iMEoyVWlLcWVNQTdtU1NJTDA4ZzNSTnEybmtGZUpHVHIwVko5OFQwQnR5ZlpuRDhnMS1EV0xMbEktM0hHcEZzQ0pkSmxmWmJpUnpxNUJuNDYzVnlYMkhsNU1LNjUxb2U5SXRZbzJkQ2k2YjVpeWdyRjlxeXNoaWliTmVscExuMU5hQVcydjJx?oc=5",
-    "source": "Yahoo",
-    "published_at": "2026-11-20T14:00:00+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 14:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "014bcba7aa3814f2d93e26e17cec9533b51e7771",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.8,
-      "reason": "Reports US Navy fired missiles in the Iran war—direct U.S. military strike/retaliation.",
-      "event_key": "us navy fired expired missiles"
-    }
-  },
-  {
-    "title": "Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation - Al-Monitor",
-    "summary": "Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation Al-Monitor",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhFbTdrQXpweGl0T2UzY3E4Slh5REd2SU5WQjhYN2JoaXBQWk9BQWdNR1k3U080SVpfY3RHWC1YTGRKSXBxRi03d2RnaTh2a1RBaFFBT3R6aHZDekEyOU5USUprREx6aU9CNUl5UGQzb25ReUNsX1ROcmFsa1dCSDlHejh6SEptNU14UzYyWkdWWGVCbTByWEI2cTUtODE5eWVleE1HYXl3YnVISjJjbnYyMWZOa0RMNzF1TEdQNA?oc=5",
-    "source": "Al-Monitor",
-    "published_at": "2026-11-20T13:53:33+00:00",
-    "raw_pub_date": "Fri, 20 Nov 2026 13:53:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5ad7c59186bd5ca444d8b7a72f86ba4f70437c45",
-    "source_weight": 1.0,
+    "title": "Trump considering new Iran strikes as US military warns of strain on forces - Financial Times",
+    "summary": "Trump considering new Iran strikes as US military warns of strain on forces Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5",
+    "source": "Financial Times",
+    "published_at": "2026-11-20T20:19:49+00:00",
+    "raw_pub_date": "Fri, 20 Nov 2026 20:19:49 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "38c919a3bd1ab066298710187582bef89db739bb",
+    "source_weight": 1.1,
     "classification": {
       "label": "escalation",
       "strength": 0.85,
-      "reason": "IRGC's threats to attack infrastructure beyond the Middle East are hostile warnings indicating escalatory rhetoric.",
-      "event_key": "irgc global infrastructure threats"
+      "reason": "President considering new strikes signals an escalation in US posture; military warning of force strain increases tensions.",
+      "event_key": "trump considering iran strikes"
+    }
+  },
+  {
+    "title": "Israel braces for surprise Iran attack as US weighs strikes - Ynetnews",
+    "summary": "Israel braces for surprise Iran attack as US weighs strikes Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-11-20T21:34:29+00:00",
+    "raw_pub_date": "Fri, 20 Nov 2026 21:34:29 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "3b7d5cb4767be28ddc5fcc99f7c6a813aa045f96",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "US weighing strikes while Israel braces for an Iran attack indicates rising tensions and potential military confrontation.",
+      "event_key": "us weighs strikes israel braces for iran attack"
+    }
+  },
+  {
+    "title": "Araghchi: Iran still hopes diplomacy can end war with US - Egyptian Gazette",
+    "summary": "Araghchi: Iran still hopes diplomacy can end war with US Egyptian Gazette",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGs0NHpQWkk4M1RyX3hnN2laTnh4TllEdXJRRHo3UHhUQmhhbDBBaXB6QlFQWTBXa1k0SjVJR19KYU9OaHJMOXBEZUhSZjdsa2tLTDZTNDV6NEJFcXhLcWJGYkZSaFNmR3NQYWZuOUpGZ2t3ZEllSTlsVUJJM040eFhPelh6MzNiWVVhNFJfQ3dqVFBDbWc?oc=5",
+    "source": "Egyptian Gazette",
+    "published_at": "2026-11-20T22:51:40+00:00",
+    "raw_pub_date": "Fri, 20 Nov 2026 22:51:40 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dedd893a93ec13a23871c072ae588bd30fb70c6a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "deescalation_signal",
+      "strength": 0.5,
+      "reason": "Iranian official expresses hope for diplomacy and restraint, signaling willingness to avoid wider war rather than reporting active talks.",
+      "event_key": "araghchi calls for diplomacy"
+    }
+  },
+  {
+    "title": "Iran denies reports of US-Israeli missile strike on Qeshm Island - Anadolu Ajansı",
+    "summary": "Iran denies reports of US-Israeli missile strike on Qeshm Island Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWpfdTNZaVR1eFMyYWNhWW5obTdTWUxPeXVkRlEzY3JaLTZNeE96Q1BocmVrNl9UTXVIUkkxT0pGNW16ZkJoM0hvejlfcFRfVDJRMnpHQ0xBbU1EWnVGUWtURW1qMWdSc0Nja2EzQ1hZM0dMN2ZzcTRrYlk2MVRJZUd6OUoxaktvLTJidTJ2YjFkNjJURXo4djlsZ0h2QUFGaDFrSzB6OUlDRVByNGRMZDNR?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-21T01:03:51+00:00",
+    "raw_pub_date": "Sat, 21 Nov 2026 01:03:51 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b6e65c90a846bfde11d3be555e961e6cf6c4e9d7",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Iran denies reports of a US-Israeli missile strike on Qeshm Island.",
+      "event_key": "qeshm island alleged strike denial"
     }
   }
 ]
