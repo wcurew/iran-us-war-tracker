@@ -1,172 +1,189 @@
 [
   {
-    "title": "Iran says held talks with Qatari mediators, urges US to accept conditions - Al Jazeera",
-    "summary": "Iran says held talks with Qatari mediators, urges US to accept conditions Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFKUDdNZFRCLWtBLVdXaXJicmtVTFVoMFM2anB6VnA2dER4bHhWTVROaDdpWFhTeUpZYUJRWnZjYzc1b3g1WC1TcTJnZk5EdXpULTRwRFJRMGJRYmRKTzlzd1FiazJrSlNGRHNuUktRRjNaLTBTWlJScGhkeHJMTnYxdUdlcVRJOHZmWFdFeE1fUnlhMHB5MnM1SzcxaTdrWnRiT1BFbktpcmhSemw3anQ1R23SAboBQVVfeXFMT01MTmVjb1NOQWlBR3ZTRUhUU203dVZZSVljRnUwcGhWSUtiQkFOOFdsQjduS0tSVkN0VUtIVDc5NTJ4b21UbVVXWEp2SmdXTFZpbHB1X3FvM3ZHZ2piWURGTU45anA0M3VDOTJiaXh6ZTNZVFhlSlhlTjBoS0FFWjY0NDJ4V04zSUFwcVVORTJqQ083RjAtdmtCanZUMWQxNzgwak5NSWxwMWx5eVZGWHlWODhIM1R4Uzln?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-11-21T21:00:04+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 21:00:04 GMT",
+    "title": "Israel, US agree to develop joint plans for possible escalation against Iran: Report - Middle East Monitor",
+    "summary": "Israel, US agree to develop joint plans for possible escalation against Iran: Report Middle East Monitor",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmg3Q2V5TzdFTG5GM201aERtU1VmRVhDeGZfN184LTl2aE44NEtLOTVxUDh5R2VxTFBxWmdicDZlbmMtT003N2IwZ1R3Ukw2NlUzSTJzOU80Q1pDSzdsSkxwZDFZVlg3VUxOYnJBa1JNWk44elFlM0RjNUZUZm1VRXpjREVsLVhlMUpIay14YW82TzRSTEdnM0NGNk5iMmxLZFlUYjZ0d2NmWFF3T2FOUzRWOXJIUDVwWkx3WE1wMldjclVR0gHKAUFVX3lxTFA5SlQ2cW9vTU1ZckZnT1VBdWllU2E0YWo0ZndLSG5SNi14ZlpScG5WZ0pBX1VvS2VLQjV6M3Y3ZE1ocG0zOWlfZGk1NFJJSXYyV0R0QVRvSkg1bWFJVHVEZXRIV1V4QmZVaU05YlliVnYtYWlRMllQRkczcmlHeTBYOFo1cF9GMXJqOEEtaXo3TU90TmJKX1FxMEk1b01tTk92N0prYWJvMHdDSno0YW4xRUw3b1dQd25kd19IdGhiQ090N1ItY1RGNGc?oc=5",
+    "source": "Middle East Monitor",
+    "published_at": "2026-11-22T08:57:00+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 08:57:00 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "d62e0518c79ae8466e74f2f11095d952c46e0fe1",
+    "article_id": "700f784c2655346ba111498600c52c3ff2eebe16",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.85,
+      "reason": "US and Israel agreeing to develop joint plans for possible escalation against Iran signals planned military escalation.",
+      "event_key": "us israel joint plans escalation against iran"
+    }
+  },
+  {
+    "title": "Iran sets conditions for resuming nuclear talks with US - VOV World",
+    "summary": "Iran sets conditions for resuming nuclear talks with US VOV World",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXV4UnM2UXdETXhjZFlLUUtPZWRYcEVvd3NTVnllWWVrcnJ2TS1rUmJFT21LdjJBOFdlcXRKd3VnS0d1MXhNeTRvTVhlaXJsMW9hOHJaRmctRWRqZm5aank5ODM4UWtPekdBR1dQY0lVRmNjS3d4TEk1REllZGdvbkM0YUNUam1zWVdoX05CTUxtTzVFVTlXaQ?oc=5",
+    "source": "VOV World",
+    "published_at": "2026-11-22T07:48:00+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 07:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b09110820941bfa7d1d1478c48c9497bdfd8d617",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.85,
-      "reason": "Reports of talks with Qatari mediators and Iran urging the US to accept conditions indicate active diplomatic engagement.",
-      "event_key": "iran qatar mediated talks urges us accept conditions"
+      "reason": "Iran laying out conditions to resume nuclear talks with the US indicates active diplomatic negotiation.",
+      "event_key": "iran sets conditions resume nuclear talks"
     }
   },
   {
-    "title": "Qatari delegation visits Iran for talks to end war with US - The New Arab",
-    "summary": "Qatari delegation visits Iran for talks to end war with US The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjdodFloV0l2a2V3TW9wSmU4TkNvYXZpalRmdlg1MjZubVpQOTNMc3d5NG9rRGtGRkZnNVMtaWtJZ3BRZDVBeDlRajZnYkVFWVBnUEtNbkJkM1RoMjhOS29GdDhXMHFSdnYyal9PMnRFR0lyMGpMOWRDVVBndVoyadIBhgFBVV95cUxQQkswaFBWRVMzU0gycWlwSFZEMU1rVklpVXZQSHpEelRpU1plZjRUYkhoaWhtUjg1RjBRR2tEOG40clVnOUkyQ1dadHlVYUJDQzhJNGRZY3ZsX2k4NmUxV0V2QjRkWG1CQjlST1RWUE1Gdm1LbUR0NklTR1NyWjFRY0hLUGtkQQ?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-11-21T19:23:37+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 19:23:37 GMT",
+    "title": "Israel, US develop joint military plans for possible renewed conflict with Iran: report - TRT World",
+    "summary": "Israel, US develop joint military plans for possible renewed conflict with Iran: report TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WWnhkNkxyeXR5S0NPcDNSX2g5eEhZS3diSExZV25ERVF1YS1QVy1JZU5id044SXhUM1Rad3dkcHQ2QmVrMWdNUXNISkoyUEhiajhLMDZYZTc?oc=5",
+    "source": "TRT World",
+    "published_at": "2026-11-22T10:20:17+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 10:20:17 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2270732b4ea7dedfaa580b7781d801262a1dbf8e",
+    "article_id": "d2afcaf8e127bfb410a99d5cda4462f4c420b598",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
-      "strength": 0.9,
-      "reason": "Qatari delegation mediating talks in Iran aimed at ending hostilities with the US.",
-      "event_key": "qatar delegation mediation iran us"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US and Israel developing joint military plans signals preparation and rising tensions toward possible conflict with Iran.",
+      "event_key": "us israel joint military plans against iran"
     }
   },
   {
-    "title": "Iran claims it struck US bases in Bahrain as retaliation against Washington - RBC-Ukraine",
-    "summary": "Iran claims it struck US bases in Bahrain as retaliation against Washington RBC-Ukraine",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUlU5cnBOSTZERDUwYmRkejZyZFNLTjZSYVE4VmNaQjV1UmNzSDE1cjA4UkFJZUFiMkhZeE5lQmNyTFVWaUJrc2ZtdGszN3V3WldXcjdFQVRkTUprTDhiU0MzaGJrMjZZbTk4YXJGUUJTQ1JLRmJqX0FKWkVBSkVwOVlLSkRVVHVNc01PNTNBX3JmSWc?oc=5",
-    "source": "RBC-Ukraine",
-    "published_at": "2026-11-21T21:25:00+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 21:25:00 GMT",
+    "title": "Iran Claims Strikes on US Patriot Radars in Bahrain - Deccan Chronicle",
+    "summary": "Iran Claims Strikes on US Patriot Radars in Bahrain Deccan Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUYxeWM1Zkd0Y3NxVUJQVFY5S0lIcFR1UmJSTUdUcDBCNm1xZlZlanMzS1BJSjVLMDI1Z0FnSGsxeFBBWkJKTE9Sci1oSy1ydWhtS0s2YnlXU1JXV2l5M1lnQzhpenpKYTJnZDFDbW9kNTZxRHJWcGVwZWxTTExndEN4bW9nVHN0LTdrNmxNaDBWTTRvTnI5ZV9ndnhXQ0lkQldTb0hoaTZwOFVPbU9WbF9VdWVOMktD0gG-AUFVX3lxTE5PVEtOZm5lZEZxbFViaURNY1JJenFaOWczOF9UVGM4enZJT3MtWTJoMk1YYVFrdk9hYjk2U3NHc0sxLTFISUVHSGhqb0dFTXZGTUtYWVZ2N0F5c1c3U1VQQVdEYnJ6QlpyanNaSnFPalFqaDdockFEM2JLWVFxN29jZWhQeWJrZFpXdWs0cllYOWpjVGp5YkExQmZIMklyR0ZFano0SmpBOHZITnpMRjd0Y2ZrMkFLVVNYYUtnZmc?oc=5",
+    "source": "Deccan Chronicle",
+    "published_at": "2026-11-22T02:28:44+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 02:28:44 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9b29810d17355f63af57c91b11355140d7ca8f54",
+    "article_id": "61b96ece5091286cf1595fad6af72130b41c0cc4",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claims direct strikes on US bases in Bahrain as retaliation, a direct military attack allegation.",
-      "event_key": "iran strike on us bases bahrain"
-    }
-  },
-  {
-    "title": "Iran launches attacks in Bahrain, Hormuz and moves against US blockade - Euronews.com",
-    "summary": "Iran launches attacks in Bahrain, Hormuz and moves against US blockade Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUJYOUdFdXlpMHE3RUhFVzFQTENEc2pUcEJ5WDZuckZlQjN1bF9aX055VUZUelpSSGVwT2dHLXFVQmR2Yk9IYUxPU1d0MlJhS2lWRDlWaTRleFZkeXlHTExaVTNTamZ0Y216QTJEVXpEYkdfN2pGN0xYSXZ5Y01Yb05FRE1qOVpXMW1yUWgtcEt2RVBzRURyOHJhRnZWcjNDbmh4aWI5RWE1ZDFVQW5UaTAwZFhmOVp0TEE?oc=5",
-    "source": "Euronews.com",
-    "published_at": "2026-11-21T21:32:51+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 21:32:51 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "169d6ac8f95d3ea1c4a1827573e62a58418c714c",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran conducted direct attacks in Bahrain and Hormuz and acted against a US blockade, indicating military strikes/retaliation.",
-      "event_key": "iran attacks bahrain hormuz against us blockade"
-    }
-  },
-  {
-    "title": "Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it - NewsCord",
-    "summary": "Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLU15RFlwS2NabF9pUlVrN3MyOU9CYjFQWmZuMFYydWhHR3daQW1oaHFXSjNKcy1tVkMtbGI1bUZaWHpPUXkyaWZYRzlBb1NsZ3MtalV5Y0ZzR1doeXowb3ZWSUI4aDJKQU5PYXpMSWhVcDd6N0QyQjI4TzY4N0ZFY2pjRmxHd1ZuWGcxa2M1NURQbjVNY0N4NG00dlpWZF80ZXFXdnNQOU1GMVlEVkpJc3pEbTJVT3FTZkQ4U0ZpbVlDRXRfN1E?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-11-21T23:23:08+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 23:23:08 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4fe77b85a6bacf6e878d26e73645f27fb5bd6ac4",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "proxy_escalation",
       "strength": 0.85,
-      "reason": "Increased attacks in Strait of Hormuz likely by Iran-backed proxies raising Iran-US tensions.",
-      "event_key": "strait of hormuz attacks spike"
+      "reason": "Iran claims it struck US Patriot radar sites in Bahrain, indicating a direct military attack.",
+      "event_key": "iran strikes patriot radars bahrain"
     }
   },
   {
-    "title": "Iran claims missile damaged U.S. F-16 over Persian Gulf, but Washington denies attack - Air Data News",
-    "summary": "Iran claims missile damaged U.S. F-16 over Persian Gulf, but Washington denies attack Air Data News",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQW9Rd1h0a3JGQThFZjh0R2RKSmxhUFRmVFkxNzNlZ1A2OHdUcEZaWlZwT0MxNl9HNFZVamVaSmw4S0Rxczh2SnJIbG1jaTBoV0o0NWJNNl9BSDhYNzRRMkQzWVRHQjhoWHZlMVZMNENWTGt0Y09ZUTFsZG95ZnVoenRkdEV1TjN2V1RGUzdSbEE5dlZyWXVSTk15THFVMDYweEU0SThKSU05OUx1SGhTcTBB?oc=5",
-    "source": "Air Data News",
-    "published_at": "2026-11-21T18:53:17+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 18:53:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4219023724f627591ffd31603e9c4af65c4b615a",
+    "title": "DW News. . Iran is openly threatening European countries with missile attacks and clandestine operations if the US bombs again. How big of a threat is the Islamic Republic really for Europe? #dwgeopolitics - Facebook",
+    "summary": "DW News. . Iran is openly threatening European countries with missile attacks and clandestine operations if the US bombs again. How big of a threat is the Islamic Republic really for Europe? #dwgeopolitics Facebook",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjhYZHFjTTNnQWVNLTVnRHpOeFYyM2Q2YVpDUjByMkFabjVqV1RqdEVYZ1BmRzVjdjQteWlqY0daZ0g5aFd3LTNBQ1lpY09ZaGNHMk10aHBfRS1CdEVtanZhVkFHZ3VNUHI3UXAtUnNULUVDT2t4S2pCejJHSTlENzRwOGlpYzNVWGg0SXN2bUZQMzJsSmY3enpXZVV1NHFjZFdB?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-11-22T07:50:09+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 07:50:09 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "a8c3776b0eac486438abd205eb7d521921fa8796",
     "source_weight": 1.0,
     "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Iran claims a missile damaged a U.S. F-16 over the Persian Gulf; Washington denies the attack.",
-      "event_key": "iran claims missile damaged us f16"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran's explicit threats of missile attacks and clandestine operations signal rising tensions and hostile rhetoric.",
+      "event_key": "iran threats missile operations against europe"
     }
   },
   {
-    "title": "Iran claims strikes on U.S. radars in Bahrain; Saudi downs missile - Investing.com",
-    "summary": "Iran claims strikes on U.S. radars in Bahrain; Saudi downs missile Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnZFODNvOUNzbTN2cllHd0tMQ05KS2tJRkpkZWcyb3dIQy1wWUNSd1U2ZjVMZUNDSURFNUdUNjFiRS1fVDBrMk9MTlZ2aC0tbU1Taks4LXBmNkx4MTdGLThPWHJrb1J2X3RoVDZTNWdfYXI0MUJmQjRQUHlRdW9nYmp4QTVPTzI1VGVITVVTU2dTWjFDdlo1dEdRZUNYREVSZlZEb3ZOZFF2Vk53MU9TUkk1bDdyS1plMkhSU2Z6d1RFeUhPRkM0ZUhYWQ?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-11-21T23:14:41+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 23:14:41 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "8f27b91f993ef78ba210354f7faea71c08c473bf",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.9,
-      "reason": "Iran claimed direct strikes on U.S. radars in Bahrain and Saudi intercepted a missile.",
-      "event_key": "iran strikes us radars bahrain"
-    }
-  },
-  {
-    "title": "Iran’s Army Says Missile Damaged US F-16 Over Gulf, CENTCOM Denies - https://houseofsaud.com/",
-    "summary": "Iran’s Army Says Missile Damaged US F-16 Over Gulf, CENTCOM Denies https://houseofsaud.com/",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MSlhZRVVEYzNCb2VONnBZcjFtcjJWMEJLOV9MNm5oTTlfTzVDOWI2U25vb3ZvTkJpY05SdW1oZVVxWmhnaWlPRXhOTVhoeWhoanpwdU1RbmxJT0dYVS1xV1V2cnQ3LUpo?oc=5",
-    "source": "https://houseofsaud.com/",
-    "published_at": "2026-11-21T19:41:55+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 19:41:55 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3af6d32f3180820aeb9cec482b50fb99e2a2f90b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "strike_or_retaliation",
-      "strength": 0.7,
-      "reason": "Alleged missile strike on a US F-16 over the Gulf constitutes a direct military attack, despite CENTCOM denial.",
-      "event_key": "iran missile damaged us f16 claim"
-    }
-  },
-  {
-    "title": "Iran's IRGC says targeted U.S. positions at 2 bases in Bahrain with missiles, drones - Xinhua",
-    "summary": "Iran's IRGC says targeted U.S. positions at 2 bases in Bahrain with missiles, drones Xinhua",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhQnNxa1p3SEQ1MmRacm11NTFpRDlmN2JpZmV3eWtDemdDOEFrNXlGcUNPQWVOZVpzT05yUGh2cFlyZlZoRl8zMFk2cVpzV09Xb1BRNFVVTGJQRHplTVNfV3VrYXkwYmdZQVM1UjJEaUU0eTRCYy1ES3BEVFY?oc=5",
-    "source": "Xinhua",
-    "published_at": "2026-11-21T22:09:15+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 22:09:15 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "295a155e892dba106b2a8bad93c08db8079d82d3",
-    "source_weight": 1.0,
+    "title": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions - The Times of Israel",
+    "summary": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTJxdl9Zc0s1RUVOT2FNRTg1OFBaallUdkk5LV9fRzE5TXlibjVfZVNST201S1BMQ2tTNXFNajJXaWZQeDR0TjJocHVuUnpfbW9IOGRzSVJuYm9zMHNlOTJMckVna1N5M245cmdlTzM4WHc0RFhPa0ZQQ3pxRWEtdEFFcEEwZzZ4TWhLMEZvclRHbmpVRW0xeXJvZWowcm5ndW9KVUo1ejVqck1xWUllcFdvdm96S0dm0gG-AUFVX3lxTE5KbjBzMXN0aF9ZX3g3eHpWUHRZNC0zTTd1SHZsbnk0VU04NjdFcXdGV04tVFdmTDJJV0dqMTBDcXRoTkE2YnNPQ2ZFSjZicEh3YS1CMmJJdkI2VTZVdjBBMUh3bFcyOENxM2ZhY0xvaTJHTDBkd0llLWlTU2hxc0ZtQzJ2blpFbDRRRWFXRmhfTy1LdWwxcDBvSlIxZGZoOUp3Y3RWajNjS3ZQaE5RZXA4MjBYemJRTDhrMUhWcmc?oc=5",
+    "source": "The Times of Israel",
+    "published_at": "2026-11-22T01:10:45+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 01:10:45 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "b28afdc1db1d80677f7441b544338bb4c66d67b1",
+    "source_weight": 0.95,
     "classification": {
       "label": "strike_or_retaliation",
       "strength": 0.9,
-      "reason": "IRGC claims missile and drone strikes on U.S. positions at two Bahrain bases—direct military attack.",
-      "event_key": "irgc strikes us bases bahrain"
+      "reason": "IRGC carried out an attack claiming US targets; Bahrain reports an industrial facility was hit.",
+      "event_key": "irgc attack bahrain industrial facility claimed us targets"
     }
   },
   {
-    "title": "US Military Rejects Iranian Claims of Missile Strike on F-16 Fighter Jet Over the Gulf - Aviation News.eu",
-    "summary": "US Military Rejects Iranian Claims of Missile Strike on F-16 Fighter Jet Over the Gulf Aviation News.eu",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHY2TURNc1dScDItZzQ4R3hxNmZvWmlJMnhMcm5oZ2l3amhqY081RjU3OUdVVm9qWldsci1WSGxqS2RpeUtIOVRLM1VEYldOMVRid1d2VjQ4ZkQyWVlzeWpYQ1NmQzFpTTQzUTZWcFBZNjc2RGV6X1JEYVg0bjNiXzVPQ3FLb0RpWENIU3liQVlFZFYyQ3M5T1JYNTdiUkNHN3NWQVhtNkF1cFVXek5FVFNvSUJyVzE1LUhiWlJrdU40QQ?oc=5",
-    "source": "Aviation News.eu",
-    "published_at": "2026-11-21T21:32:11+00:00",
-    "raw_pub_date": "Sat, 21 Nov 2026 21:32:11 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "23585ef1e7dcdaf5a10890d4acb66748b28d907a",
+    "title": "Israel, US agree on joint plans for possible Iran escalation, media report - Yeni Safak English",
+    "summary": "Israel, US agree on joint plans for possible Iran escalation, media report Yeni Safak English",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHhwRFVVVDBHLTRWNHl5Q1FQbW9wbHB0eUJGbzFveUZ3dmppR3BNNE0xcGZzWDgyUFVZV01aMGZrUC1HNHVPWkhSM0J2LUZVcDFDc0gxY3FlYXh5Qnhxdzh5V3VCcFVWTGdFOHVuYzBvWFBMektZZWtjQTBCM19HU1B3RHFsbmFBUkd5bmY0TlkzVEdOT0pZTERVbmNGOEdCbFRUYkZXSFMwTklWUS1QWQ?oc=5",
+    "source": "Yeni Safak English",
+    "published_at": "2026-11-22T10:15:30+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 10:15:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "25fcd6440d0a453df27afe254221ba1567bff0de",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US and Israel agreeing joint plans signals military preparedness and rising tensions regarding Iran.",
+      "event_key": "us israel joint plans iran escalation"
+    }
+  },
+  {
+    "title": "Israel and US Agree on Joint Plans for Possible Escalation Against Iran: Report - www.businesstimes-bd.com",
+    "summary": "Israel and US Agree on Joint Plans for Possible Escalation Against Iran: Report www.businesstimes-bd.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40Y0pmN0N1TTVhQ1hUSWhQZ2tyRHU2ZVlhbV91aDBEUTh6WV9OWE0xY0hKMVI4cGpJT3VBT0Ytd0xKU0hOLWY1TTFhUDlDMGtYVU82QTBIc2V4aVJPOUVuc3RySEV5cEI5aUx4MjVwU3ZHQQ?oc=5",
+    "source": "www.businesstimes-bd.com",
+    "published_at": "2026-11-22T10:28:47+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 10:28:47 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "fa9bbdcb23299c866cd3cb796cd4f9a67d3e3ff3",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.86,
+      "reason": "US and Israel agreeing joint plans for possible escalation indicates rising tensions and preparation for conflict.",
+      "event_key": "us israel joint plans possible escalation iran"
+    }
+  },
+  {
+    "title": "Bessent confirms he’s living on US military base over Iran fears - Al Jazeera",
+    "summary": "Bessent confirms he’s living on US military base over Iran fears Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTA0Z0ZJbmw1NWJwcUdqNnFGNWlwYjJCTDFTdkJGcHZGTHZYcnB5cjBXRmNscG5DUWtsdDFydDJvTl9YNW9rbEdzX0hoWC1SUFhyOUlpQUFqVlVBdHp1T1V0Q0JERDNoOW1uaTdiUTdKQ1NOaTltMnVNaXFDc05zMDVPMmF6dzdSZG9vZDRrM2xEUTRnekdMWUY0NXRNcVpMOXJKZkw5OW1uUUNpWXNBcXdfZXlkZ9IBuwFBVV95cUxOR0FiekJzVnRUMjhXQlFxbVJKUWNPMmpNNm5Lb25aWkVyV3EzV2tfbFBpM0YyaHlWVUZZb1ZzeXphakQ2ZkU3MGFOOUs2SEN2MGNDWTZIczFkZDdmYXBWaG56MUNrUTlwaVQ3UEZkeUNPYldiVXBYOEUtRlNOTXcwRld4LXVJTFFybDZ6TVc5MFdrYkc5cmJtNXB1a1Z4b0c3ZGpLcEtwT3Nob0Z2WnZ5QlFQbUtKQURvWkow?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-22T02:13:34+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 02:13:34 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c3454c0e0a71848f97e4860ebd458b39f10a7f30",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.2,
+      "reason": "Personal safety relocation to a US base; not describing diplomatic, military, or proxy actions between Iran and US.",
+      "event_key": "bessent living on us base over iran fears"
+    }
+  },
+  {
+    "title": "Watch: Missile seen approaching aircraft in video as Iran claims US F-16 was hit - The Times of India",
+    "summary": "Watch: Missile seen approaching aircraft in video as Iran claims US F-16 was hit The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUjBHSGlZQk1jREpoLVpKM2I3NVFzNk9IWDdtVHNnZ0wtdk1PUkNDUk1MLUJJb05XNXJSZjd3bWpsWE82RUc0Q1E2OF9nRF9odUhVWkFMV1VESElrQjhWVkllZ0Z5X0VhLVBBemRpbHJJZk0wZkwyc2dJTVJ5cnFGYTVEUWc4NEJOSDg2bGFVR2FvY0lTYkF5a053Zkt2RWRVaHg2SFpuZE5Fa3dMTGlFNF94WkQwejJjVU8zNHhTOGQ5X1R1cEdJSzE1MllpcnpiODRIMXF6aV8wSWUtWXZWMHNUekxleTgzZ3RPdFdJaWjSAfYBQVVfeXFMUE5QRkpCUDhWRjl5U3NOdjhQN09qVHh5aUF0VXBLSlFicmk3ZUd2U1JSLXJia0VBWWRPV2JLSGdKTUNIWnhhMDhjbFNWZngwZzZrZ1pLZVQ5N1p6V3g5RndnN2xybGRLenlUX28yNU0tdlBOdHVOVFo1T3dTcUZOWkZ2bk8tQldxVUt4ek0xYllvMDIzbHozRW11RF9HVkROXzJfSVdOTjZzTE9ORWU0aXFNbDhfMXdJUWNtSzFKZ2MtVHV2UGQzS1JwQzJEN2N1NU8tOWUxaU5pUEtUNml1YTNYTmNwRmp5R3Zjekhic01nMmxFai1R?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-22T01:38:00+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 01:38:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "9daff83bf8defc688017b01719f4a025bdc9da01",
     "source_weight": 1.0,
     "classification": {
       "label": "strike_or_retaliation",
-      "strength": 0.6,
-      "reason": "Iran claimed a missile strike on a US F-16 over the Gulf; US military denies the attack—direct strike allegation between Iran and US.",
-      "event_key": "iran claimed missile strike on us f16 over gulf"
+      "strength": 0.85,
+      "reason": "Iran claims it hit a US F-16; video shows missile approaching an aircraft.",
+      "event_key": "iran claims us f16 hit missile video"
+    }
+  },
+  {
+    "title": "Iranian Missiles Chase Away US Jets & Warships; Mystery Explosion Reported Near Hormuz In Sirik - The Times of India",
+    "summary": "Iranian Missiles Chase Away US Jets & Warships; Mystery Explosion Reported Near Hormuz In Sirik The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOXpUUHM1X1lWMllsVWdtMnhWLWE0eUxnamVqSm5CVEJGR3lRdEExTWkxeVVfMnlicEt1ZHF6TmdhWTRBaXYtQTFPOGtrdHFmTEhXcjNsenZCZDN6UXphTU53b1VJclhiVXMzX1pFZGxkUjk5ZE9jcFkxMW5vZ2V1M1BhbzhKaUFyVVhPMUVUdWdYR18xZTR1eF9ZM1NrNUtTWVVXeUJiUGdFVHZGRlNoOWpUYTQzYXFqY0xzcHJYUTNhTUN1c0R6cXVsTFQtVXdJWWJMTHpMS0IzZU9tVFlUSjNxLWZDRDRLN2FhVkNGTlI1UmpzaUp1dm9kc1VqZENoX1Rv0gGIAkFVX3lxTFBZa2NzS0Zqa2plZC13VnJKa2M3cmw4cy1wRDZ2cHZycVVvMHBXNTRua290c1RRWWxKd0JmbWFvUzdJZW9INFJzTXRJX05FQ1BWSHRiM294dFE5RXZxUExlVVVFcFVRNmVwd2U1NzhrLVZ6akFHbFZvU2RjblpWVUdPeEV4MDAwdUY5NlBkc1M5bFgwY2R5NnpGSXpVT2Jpc2dST2ZySm9pdXBMS2YwSnMtaTdOYWlVeFljZ3h1dDlVbDVDcUhTSmh3UkJRTHh4MVJlSmEzOUZ4bW1HMHlYeXNPdGpLc3NqMnZVcU5YaXRCQVIzcDNObENjNjczUkN3bjdYMUtKOUxHOA?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-22T05:58:41+00:00",
+    "raw_pub_date": "Sun, 22 Nov 2026 05:58:41 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "749b546b6e230d194911a18fc5898399c29a7e98",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.85,
+      "reason": "Iran launched missiles that forced US jets and warships to withdraw; direct military action and explosion reported near Hormuz.",
+      "event_key": "iran missiles chase us jets warships sirik explosion"
     }
   }
 ]
