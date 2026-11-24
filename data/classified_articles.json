@@ -1,274 +1,189 @@
 [
   {
-    "title": "Qatar PM’s visit to Washington part of attempt to revive US-Iran ceasefire talks - Bangladesh Post",
-    "summary": "Qatar PM’s visit to Washington part of attempt to revive US-Iran ceasefire talks Bangladesh Post",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTI3NFM5bllPQzd2YlV1MVVqY1VlY2JNMU1KTFY2cG9qclV0RnEyUC1sRnBVWEZRU2hnazFMalYzbEw2WG1zenR5SV9kOHRDSFZMbERXclZmcW9SRlg2Y3N1MjBESmgxQkRNZkFTQ2UtWW1hdzFHdHNHbE5NQUpzdXhHNV9nQWVsa0xZMkdZZ3ZjeXpfMV9UZUpfNDBiZUc2YlJVam9rVG1CcW5tZURkb3lBNTlzMW1ibEtPZg?oc=5",
-    "source": "Bangladesh Post",
-    "published_at": "2026-11-24T04:03:45+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 04:03:45 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+ceasefire&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "fd5ac29e1758e997f716facd1ffb1d3036db4965",
+    "title": "Iran rules out talks with U.S. until its 7 conditions are met, and other Mideast news - The Tribune-Democrat",
+    "summary": "Iran rules out talks with U.S. until its 7 conditions are met, and other Mideast news The Tribune-Democrat",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRl9heWhCUEdmMFpBRTlvWEUySHpWV1hka2Y2R29CSmJ2bXZfX0Q5c3MwZzg3dlgyV1Jxb1JEVEk2SmQ2dHYteG5rWTJscTRHSU1RcmtZRzRIblhmQVZrY2hrZVBmZ2tvaE4ybGJhUTRtN2RENTkyaFNLSV9ySlNVUHI2ZnpYYWpKTlpnbHFLellJV2tBdVJkbWFNcWtJUU1fMHo1bkhtUFhEZFg2NGt1OFJCSEJzSTRsYUJ5TWYtTERFbHRRTnp4ZlZ2ZjZuY0tXbXoxcS1jVXhRY0U2TFJuaFZEV2dkR3ViRGhoU29fYkc4X0E?oc=5",
+    "source": "The Tribune-Democrat",
+    "published_at": "2026-11-24T13:30:00+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 13:30:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "13c0aae96392157aa57d2b478282e72ba73ddb9a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran rejects talks with the U.S., imposing seven conditions and stalling diplomacy.",
+      "event_key": "iran rules out talks until 7 conditions"
+    }
+  },
+  {
+    "title": "Ghalibaf warns of \"no negotiation\" with US until Iran's seven conditions met - ANI News",
+    "summary": "Ghalibaf warns of \"no negotiation\" with US until Iran's seven conditions met ANI News",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdG5HdU56MUdMWDlsSmlTZWdGbDNxbWVnVkpncjBUX3c1dzJ2R3VETXB0MXlTdms5TzNsT3lBcDFxMUpJZ0RSWXo5RUEwaFNYNWkyVzUydXFXeDU0TnBTVE1yYW5JMW5sWXA5c1hlVTBlaHFQdjBiOEo4cGsxTVVObndUYkhYRDdMNzZKNlhGbmxGN1Viak5CeExLWHdwTEQxa2hDeFJRb2IyVFU5LVlsQmZPdVZnYmVBNy1BcWNZZ211b0ZLWFJTck1kQktydw?oc=5",
+    "source": "ANI News",
+    "published_at": "2026-11-24T11:43:00+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 11:43:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+negotiation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "dca406bdedd505f9cb61410788360183bdcd01b0",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Speaker Ghalibaf refuses talks until seven conditions met, rejecting diplomacy and raising tensions.",
+      "event_key": "ghalibaf no negotiation until seven conditions"
+    }
+  },
+  {
+    "title": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news - Chicago Tribune",
+    "summary": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news Chicago Tribune",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUJ2SlVRekc2cjlZNnFtOWxSWTBqbEVrRE1VdGlmbXY1N1JXLW5GV2d4R3dSdHJIcXF6OGlQNkU1N1h6YURIQlhsajN4TjAtLWthM1dRcmc5U243QjRZMDh3UEpFQ3gzckhoTElIVGdFV1hpT1h5N1RCdm93TU5YRlE0SE9rdzA?oc=5",
+    "source": "Chicago Tribune",
+    "published_at": "2026-11-24T13:39:11+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 13:39:11 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "efb7ae1ad445decafc1605b9dd4a87e913532544",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran publicly rejects talks with the U.S., demanding conditions, signaling breakdown of diplomacy and rising tensions.",
+      "event_key": "iran rejects talks until 7 conditions"
+    }
+  },
+  {
+    "title": "Iran says no talks with the U.S. will take place until \"seven conditions\" met - Investing.com",
+    "summary": "Iran says no talks with the U.S. will take place until \"seven conditions\" met Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzFiV1RhcUVJcGJYQjhMWC1DNUlTeXNGVUNVN0dhc3lmN05GaGJ4Wk1fTlpFRXRTaXF3amFENVNxQlZJcFpKeDViOVphMXQ2M21KekgtVFIwd0xTRjZfZ0F2Zy1wREpyMHhUdWNEU2k4RUNVaS14XzJ2OHlWSy0zcFRLcGtMT1h2ajM4cndxVVZacXRhRmF5UU4zb3V1ZW1lU29FUTVpdHpiajJuX0xwNkc3enJYelJhQ05NVEotbUVoR2M?oc=5",
+    "source": "Investing.com",
+    "published_at": "2026-11-24T13:55:33+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 13:55:33 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "bdbcbaff885563f447d8d01c3c9bf15df70de068",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.7,
+      "reason": "Tehran rejects talks, setting seven preconditions, indicating a breakdown in diplomacy and heightened tensions.",
+      "event_key": "iran refuses talks seven conditions"
+    }
+  },
+  {
+    "title": "Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns - Ynetnews",
+    "summary": "Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43NjZHZXlqNXRLX0MxdlZlUzBvSEVjZ2FVZ2VGVjRGNnNJRmEyY2w3VmdSazViTEo0M0l2Um5Pc2xmZHNWR3g1TENQNnlGUmtEWWtiOVdR?oc=5",
+    "source": "Ynetnews",
+    "published_at": "2026-11-24T14:46:30+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 14:46:30 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "76342529e68584840af1d6ee353201e00aeb3c79",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "US ambassador warns Trump ready to strike if diplomacy fails — explicit threat increases tensions.",
+      "event_key": "us threat to strike iran trump warns"
+    }
+  },
+  {
+    "title": "Iran Insists No Talks with the US Until Its Conditions Are Met - ASHARQ AL-AWSAT English",
+    "summary": "Iran Insists No Talks with the US Until Its Conditions Are Met ASHARQ AL-AWSAT English",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHRoczZhbzUweVp5TVNiVHN3QUxJaGFWX0w5cjBkeUZvOWxTb2MyR1JpQngzNldwRGhTRGYxOV9WTUJ1VS15MmJBX1NRdmYxVV91TjN5S1JhSTRLRFRmeFY0TTZ3YS13UC1SQ3haai13c0NRVDdFZ0tsclRLY0ZuYm9qakt5M18yTF9mWGhMUmQzMVlRUFVIdThB?oc=5",
+    "source": "ASHARQ AL-AWSAT English",
+    "published_at": "2026-11-24T11:21:53+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 11:21:53 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "00bdefa3f33d41205fb4d267468ea4eeb1695e7d",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "escalation",
+      "strength": 0.75,
+      "reason": "Iran's outright refusal to hold talks until its conditions are met signals rejection of diplomacy and rising tensions.",
+      "event_key": "iran refuses us talks conditions"
+    }
+  },
+  {
+    "title": "Qatar urges restoration of Hormuz navigation, return to US-Iran talks - Middle East Monitor",
+    "summary": "Qatar urges restoration of Hormuz navigation, return to US-Iran talks Middle East Monitor",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXNITzVBYUNva01Ed2FpTmVMNEVrdFJrRV9WbGJ2UlB6aVFmVEJZYTB1MjBreXRoMXJLN0FqODkzWWR4b1RZQXdqZVFIbVBxWnRicC0zY3d4enBETjZDZ0JSdW5jMXNqaEdnY05SdldGZmhQN3BWOUM5akowY29EelJERVVzUFdZSllucjBoY191T2RBeVE1b3oyX0Fvbk85LWhjYkY0TndlLTRMYWpHdmhn0gG3AUFVX3lxTE9BcUVOd2s3SHlFeFdkTnRCbGpwMlFFQUdBeDUxU3FHcnBxeU14ZEUwWWN6NVFpLXRlSHF2VFE3cFptVmxZZXRqR0Z5YS01MWJrVGZmV1E2dXpkR3MtT0NyQ3ZfeVdwRlJ2TWFhQUMtdEF0RUdEclJaN2l0U1pma2lDYjExVXFyVVU4Z2xSaDdUYWt1QmFYZ2dyaTlwV2N6ZGVhRWhhZVRrcGJ0ZmUtdktBby05VnlNbw?oc=5",
+    "source": "Middle East Monitor",
+    "published_at": "2026-11-24T14:48:00+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 14:48:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "51e077875375d94d6607e39620f76ddc8260f962",
     "source_weight": 1.0,
     "classification": {
       "label": "negotiation",
       "strength": 0.8,
-      "reason": "Qatar PM visiting Washington to revive US-Iran ceasefire talks—mediation and diplomatic engagement.",
-      "event_key": "qatar pm visit revive ceasefire talks"
+      "reason": "Qatar urges resumption of US‑Iran talks and restoration of Hormuz navigation, promoting diplomatic engagement.",
+      "event_key": "qatar urges return to us iran talks"
     }
   },
   {
-    "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio - Al Jazeera",
-    "summary": "Qatar PM looks to revive US-Iran talks after meeting Rubio Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzlEWWZwbVJFVmdINU5CYUx0NDZMT2hGeFdUZURXUzl2bVI1VzFsT1FHQm5Oa0M4M0t2SU4tTEx5TGdrUTJrS2VieGhsUWIzd3RsaVRub1VZTGRPeHpXQnYwSWxFdWNCU2ZIal9pMzU3T0NuemVyT3ZwelN0QThLTmlhYXoxdWNjRlcySjhJeWlmLUJISFg3b3RtbG9yeWJ5QS11bzViYjBxWHROZ2sw0gG0AUFVX3lxTE5acHVZV1ZwTWRLTDdIMDNJbTZ3Vl9laDg4SzFjNkJPbnk4MTkwU3BZMHRSd25ISlIyY0NZMVdJWkhHVTUxamxWS3BJNG1lOFVyUUdmckpoVkEyaFN6eEZjN1FBWm85aTE3VEZ6MjIwOEFsNzNzRExLZEZLYkRXVTc0Q29ieDF1Tm9qM2dHZ0UzVU1hVEFJMkhtYVlhOUt1dHRzblBZZHdhUFdsTFV0MkdNdm1ZOQ?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-11-24T01:56:04+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 01:56:04 GMT",
+    "title": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news - Ottumwa Courier",
+    "summary": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news Ottumwa Courier",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeS1sclI3T1hyS0xRNWNSaGUtaW5yUXd4eW9lWGxtU3VCSlZmYTNBakoyZy1FaVk2ekVHZ3pPVGZaSklfVVJxdFpVbUFpbUZpZEtIOGxVR29zREZ3dzhCR2NOV3BQQjBqSTVDV1REV052OHZEVGplcmUwdS1xUnVwZ3JqcG1BQjRpSF9NZmlZUmpneHkwR2VjZ0hCcm9NY1lRbHB2RmF3SERqNTZqME81cDlaYXdPaG1jemNJbkF0WnFjbXZZenNOaDJnbHNVaGd2czdPb0xPMGViN0NzcTM4WVdxU25VbzZ0QWdfY3FnX0NFRTFJMW9SM1MwQUhKT2pxVFZ3YzRHbTU?oc=5",
+    "source": "Ottumwa Courier",
+    "published_at": "2026-11-24T13:30:07+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 13:30:07 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "40f32c3e210e2b1ea668dd141c8ead31be7683a5",
+    "article_id": "4e6d85f6e4926a071fb99659ad99b2f43188dd54",
     "source_weight": 1.0,
     "classification": {
-      "label": "negotiation",
+      "label": "escalation",
       "strength": 0.7,
-      "reason": "Qatar PM seeking to revive US–Iran talks after meeting Rubio indicates mediation and resumed diplomatic engagement.",
-      "event_key": "qatar revive us iran talks"
+      "reason": "Tehran rules out talks with Washington until seven conditions met, signaling a diplomatic breakdown.",
+      "event_key": "iran rules out talks until 7 conditions"
     }
   },
   {
-    "title": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation - Anadolu Ajansı",
-    "summary": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2NUOFZHRGFlZ29ORmtoVFBHMVVtNDNITTBYcVduZWgweG1QaGZfb0tKNktQdmxJQ3JrUHB2M1I1TEp2OFhOYXN1X2hRS1F3aU9CaXVzMENjaGlJZV9Yazd3SW93YWhjLWlUNEdiYkxFc0N0ZWQwckpzb3g5ZEdNSDZfNFQ1bXN5OHREakJJVlJtS2JIeFNjbm9KbDlOZnNkZnlPcVVod0Z1UklhbXE0RXRtQ0dKSVMteWpLRkMtZXMzQQ?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-11-24T02:24:17+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 02:24:17 GMT",
+    "title": "Iran rules out US talks until seven conditions are met - The Business Standard",
+    "summary": "Iran rules out US talks until seven conditions are met The Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb2F3MUV5RG93bVRCRjU0WGRTWW5rd0lyS2ZheVFaVlZaeDEwWVZLX0lGVDRHTVJPU3RTbUlhZzE0bnNRamY2X1RuSEF4dkZrR3psTHBIdjRNUU1iMmw0R1hDZmhkNWdsMkNDOU1ibnZ5Q1dDel9nNGJ2bi10Y1dhcl9PLUg1QXNhRzZMaXJZalVGV3VlYlBNc0lPeTIwNVhyVGFhRFpsaTktakE?oc=5",
+    "source": "The Business Standard",
+    "published_at": "2026-11-24T16:08:34+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 16:08:34 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "1d208fea4ddd615738b940bb83758fc2e91d6da4",
+    "article_id": "47143e11efc5f4d483ac00527708e5c5b70a359f",
     "source_weight": 1.0,
     "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.7,
-      "reason": "Qatari PM urging restraint, warning against further US-Iran escalation.",
-      "event_key": "qatari pm warns against us iran escalation"
+      "label": "escalation",
+      "strength": 0.8,
+      "reason": "Iran explicitly rules out talks until seven conditions met, signaling diplomatic breakdown and increased tensions.",
+      "event_key": "iran rules out us talks seven conditions"
     }
   },
   {
-    "title": "Qatar PM Sheikh Mohammed Al Thani Seeks US-Iran Talks After Meeting Marco Rubio: 10 outlets compared - NewsCord",
-    "summary": "Qatar PM Sheikh Mohammed Al Thani Seeks US-Iran Talks After Meeting Marco Rubio: 10 outlets compared NewsCord",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEZ0VWtnZkt5Nm90cVVvMmx3OHZfckI2RVV2Tl9rREJjdlJjR3U1TV9BX3pLZDZpWHp5NzhtcG5fbElqaU9jLWxaNmFIaFBpdFlrMFdSME1HenFjWnNyVXZEM3R5aFo0d1p2bnEtVWNsVUsyOThOS244dFhWRXcybklwVXhLSGpUcVVPVHBtdnpNT2RXYmg1U3Qtb2ZDdDY5VFp4dGZyVTVkYi1TMnJ1bmhwUG9vZmI3b0t5TzNkZ1dIamo3TDEwXzUtQXFrXy1RdUFHemx3OHBUa0dQLWpDVjc1azNoS3M1?oc=5",
-    "source": "NewsCord",
-    "published_at": "2026-11-24T05:19:36+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 05:19:36 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "9df09b1245a1aba56aced5ad5a3bc791468cdc9d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.7,
-      "reason": "Qatar PM sought US-Iran talks after meeting Rubio, indicating active diplomatic outreach and mediation efforts.",
-      "event_key": "qatar pm seeks us iran talks"
-    }
-  },
-  {
-    "title": "Middle East cannot afford renewed US-Iran escalation: Qatar - TRT World",
-    "summary": "Middle East cannot afford renewed US-Iran escalation: Qatar TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16d3ZuQV9HT25GSnBBazVDNHZnMk83YmxoZU5tVlZmNE1UM1ZGTVE1dURWZFRUVS1hUFZQd1FuSGdYaGlFR3FWMHQxVXR2VDdveVh2ZXdVa3U?oc=5",
-    "source": "TRT World",
-    "published_at": "2026-11-24T03:21:27+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 03:21:27 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+talks&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dd111c20a5afc9faa9467a0e02c6f9e311bdfb53",
+    "title": "Qatar urges restraint and diplomacy amid US-Iran tensions - Middle East Eye",
+    "summary": "Qatar urges restraint and diplomacy amid US-Iran tensions Middle East Eye",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTdWSE1kS2lPdUdmTnZsUXo0OGptY01WalJMd1hFbFIyUzRtbnNMQVM4N19Lc3djMC1Ka3NFREdHaVVMSXVzMWl2d1pGZFB3M3V6RGgyUTd3WHAtS3h0YllUbkxFNmRCSGhuaHRKeXY4TjlrRG1XMXZPbjl1cExIcE14Zk1SUmRVdkpSOXE5anN5UG02SUs3UEllZkJOa1VGWnNQQkpWMWRVbTRYWTAzYm9mS3E?oc=5",
+    "source": "Middle East Eye",
+    "published_at": "2026-11-24T12:51:00+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 12:51:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "c0cf34bdd9fdf1c8b8e283b0510230eab7b69701",
     "source_weight": 1.0,
     "classification": {
       "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Qatar warns against renewed US-Iran escalation, signaling desire to avoid wider conflict.",
-      "event_key": "qatar warns against us iran escalation"
+      "reason": "Qatar's call for restraint and diplomacy signals calming intent without a formal ceasefire.",
+      "event_key": "qatar calls for restraint"
     }
   },
   {
-    "title": "Oil Extends Decline on Signs of Continuing US-Iran Diplomacy - Energy Connects",
-    "summary": "Oil Extends Decline on Signs of Continuing US-Iran Diplomacy Energy Connects",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOF9CTnc3ZlRyQVdRamwyQVRHQlo2XzdoTzVud1pFNjJnTWxkSjZsRHRVcGNuMlVqN1NVbVB1MW1IV0JydFRBdmEzLTlaNW1vSXRSdGlDVC1QSW1JTFVDUzNlQ2s0eGtZNmNjNjlRYVFCSFRuQ0dueWFlUDkycWVqRjJGQlpfVkx2RWNudEFtUHBlakQ0LXhNYURkV24zUVNlRHZSM2ZaZlhLUVd0QmZ4Q20zWWpTQQ?oc=5",
-    "source": "Energy Connects",
-    "published_at": "2026-11-24T05:46:03+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 05:46:03 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "4bb6f53d37ae7e02b0802931c26d9f623f3f458d",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Article cites ongoing US-Iran diplomatic engagement impacting markets.",
-      "event_key": "us iran continuing diplomacy"
-    }
-  },
-  {
-    "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
-    "summary": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-11-24T08:01:57+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 08:01:57 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "aaa1535994f6bd086ca7c9bd4bbe030fe15709cf",
-    "source_weight": 1.1,
-    "classification": {
-      "label": "negotiation",
-      "strength": 0.8,
-      "reason": "Reports continuing US-Iran diplomatic engagement affecting oil markets, indicating active talks rather than conflict.",
-      "event_key": "us iran diplomacy continuing"
-    }
-  },
-  {
-    "title": "Iran signals it is expanding the scope of its retaliation, and the IRGC warns the US and Israel. - Vietnam.vn",
-    "summary": "Iran signals it is expanding the scope of its retaliation, and the IRGC warns the US and Israel. Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzVCd2xhS0hBLUpzN19aekJlODFKT0R0aFVGR1VNX2RGd2FSdjhPSGRnMzVQT1hJUDFrRnV2cWxtaGtCUHl6VXhFdF83ZmRIbHo3YjZjR2ZsNHYtT3ZoQWE4b3pfb2ZDcDRiS2NmUG9GcmxBSXMtYU1vdzJMNW16NURrR2pqdE51MzZOSTYxRFg3cnRsN0dpU1NCQQ?oc=5",
-    "source": "Vietnam.vn",
-    "published_at": "2026-11-24T05:31:38+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 05:31:38 GMT",
+    "title": "Iran's Parliament Speaker Reiterates Stance on US Talks, Warns of Retaliation - Ratopati",
+    "summary": "Iran's Parliament Speaker Reiterates Stance on US Talks, Warns of Retaliation Ratopati",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTZQQXNDanZBVnpkcjhDODgtRkVwUGNEWWpCeENaRmgzVHAwMjNuSGtDQ3pyNG05eFI1eXprWXN3MXBhbXFWajh6c0d6d2lnZ3RkZEtPOHVkaW02MlFqQ3RVUmZPTXFPTk9qN3hDSjltNHZpdWV6T2lscFpaQUNmTm5ZeXdnNUZic0IyRjA0VUswZlB3SmtkZVpOdnRKdVRfSTFZQURKUjVLTnNXcUxXTEpocHZCOUk5UTR0WHlnbFI1ZXpxYkxRNWtFdWI?oc=5",
+    "source": "Ratopati",
+    "published_at": "2026-11-24T09:26:13+00:00",
+    "raw_pub_date": "Tue, 24 Nov 2026 09:26:13 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+retaliation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "2a7fecd426d67b656b1318692b70dfc97087cef3",
+    "article_id": "95bce217e4b236b9f2cf002884a4914ebf090bb1",
     "source_weight": 1.0,
     "classification": {
       "label": "escalation",
-      "strength": 0.8,
-      "reason": "Iran signals broadened retaliation and IRGC warnings to the US and Israel, indicating rising threats and tensions.",
-      "event_key": "iran signals expanded retaliation irgc warning"
-    }
-  },
-  {
-    "title": "Exclusive | U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships - WSJ",
-    "summary": "Exclusive | U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDNLV040WjYxakp4SFpkLW1ZSWo1M3dJOE8xV3pZTmRDZ0EwclVFclVWQlZpazJiRTJwNWtCdmZGeTZkcmJqQUlWbVo5ME92cFZXSUFFOUkyUmp3SldOYmR5S2xXZUVHR1lSZXgzSEFWdHhkTm5HeEM4NVEyc0djNFNrTW9GTFh5WW1j?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-11-24T00:00:00+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 00:00:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "369381c9d233bf656f4beacfd01f25f4943fd158",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "U.S. suspects Iran of dozens of cyberattacks on ships, signaling rising hostile activity and tensions.",
-      "event_key": "iran suspected cyberattacks on ships"
-    }
-  },
-  {
-    "title": "Trump Leans Toward New Year Iran Strikes, Dares Tehran to Test U.S. Naval Blockade - The SOFX Report",
-    "summary": "Trump Leans Toward New Year Iran Strikes, Dares Tehran to Test U.S. Naval Blockade The SOFX Report",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0tmZk8zbjBPeHY2UFFLREhFU1hZeFR1NUFWbUZEN3lDMFhteGJHRjlSX1hXUWdzX3pZYXlmamVkdTlOSlR3VFc0QjVwUW5lQU9Qc1Zjelp0M3JWUGFfRHE1Zl9JNWRfTkFLOUh4XzlWWFpZZ1dsWXVCMS11aEhiS0JZMXZuUmRrR3Y1SVphMjdLRVgydk1jR19tZU96eEd1RkxQRA?oc=5",
-    "source": "The SOFX Report",
-    "published_at": "2026-11-24T04:05:21+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 04:05:21 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+strike&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "5bd709320e1a0cf286d2264b24b29d370f9d8230",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.8,
-      "reason": "U.S. leader leaning toward strikes and daring Tehran over a naval blockade indicates rising tensions and hostile posture.",
-      "event_key": "trump considering iran strikes dares tehran blockade"
-    }
-  },
-  {
-    "title": "Qatar warns Middle Eas cannot afford another US-Iran escalation - FXStreet",
-    "summary": "Qatar warns Middle Eas cannot afford another US-Iran escalation FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUhDOEVnamlfeUk1LW1sRGs3R1puaHpXOFZxMVpBYU53T2p1cFVoTHQ0NEZqanFTUU5VcGloRGRMWXJYaXU5aDVHWTVFWmM2NlhMRWdKTnlQbU91ckVWeHZadTV3SklUa19JSUVDX0NaTlQ5VlNlaVhLam40clFwaC0zbm40SVpwcURmaFV6bVpBWWgtZS1Rdnh6RmRkaS1XVW1UU1BCSjJLUQ?oc=5",
-    "source": "FXStreet",
-    "published_at": "2026-11-23T23:42:01+00:00",
-    "raw_pub_date": "Mon, 23 Nov 2026 23:42:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "3e44fbb7a62be574b3aa9433c6979805a51e564b",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Qatar's warning urges restraint and avoidance of further US-Iran escalation, a calming diplomatic signal.",
-      "event_key": "qatar warns against us iran escalation"
-    }
-  },
-  {
-    "title": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation - Anadolu Ajansı",
-    "summary": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWdycno0MFlPOC1LSUpDYV9mTFpkRnhVdDNlcVFzUWFSclctR1VSZzhWcFZOT3lWeXpERmNaczVUOHNzMl9wWEJWTEVUdDN1RHNCWWFJa2RFanVIU1ZvekJvak1FWjhqTlRhSHlRVGZCZDdNWWYwS3FObFVrMTFRSmVsVmRPREp6bExOMERnSW8zWDRWcE4yeEtxT3ZHUXBsY3EzQmZwNzhZb05TMmhjUEtMYVhDUDNLQi01aA?oc=5",
-    "source": "Anadolu Ajansı",
-    "published_at": "2026-11-24T02:24:17+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 02:24:17 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a73b0cdbfc9a8271bb840630ea25a44b725b7442",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.6,
-      "reason": "Qatari PM urging restraint and warning against renewed US-Iran escalation, signaling desire to avoid wider conflict.",
-      "event_key": "qatari pm warns against us iran escalation"
-    }
-  },
-  {
-    "title": "Qatari PM warns Middle East can’t afford another US-Iran escalation - Saudi Gazette",
-    "summary": "Qatari PM warns Middle East can’t afford another US-Iran escalation Saudi Gazette",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFA1WmdCWjFGNnRLc0RxNjBrWkdTTldfSVYwR1Npd2JMOFl3eTFFcW8tMlNWUzl2VV9KQXhlR0g0Z2NkNVQ0VTdieGZ2VU1mVGJ2ZXhNODNqbkJfTGw2d3Jkc25UbjhNODNzOXFJSkNIdDV0a0xPZTEyWnkwUDdvV3l5amJHTElGQWM2LWZvTFZjcy1SNl9POTlRNmxNSDRHLTBtSDVvdEtoTVJsamZOMVlNWHJfUQ?oc=5",
-    "source": "Saudi Gazette",
-    "published_at": "2026-11-24T06:01:00+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 06:01:00 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "ad215b395156c5f66eb46178e7cfb30e337a3f76",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "deescalation_signal",
-      "strength": 0.8,
-      "reason": "Qatari PM publicly warns against further US-Iran escalation, urging regional restraint to avoid wider conflict.",
-      "event_key": "qatari pm warns against us iran escalation"
-    }
-  },
-  {
-    "title": "US Treasury Imposes Fresh Sanctions on Iran Amid Regional Tensions - India News Network",
-    "summary": "US Treasury Imposes Fresh Sanctions on Iran Amid Regional Tensions India News Network",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUFLNmNfcVV6bVk2ZExaaW90RzBpa1VRdHdBbE9NRmZKbFhzME1MVUlfNXVwWGFWV2VQbFFYQ2RuWTB2RXhOZENfN04tU1Ixc21NZmw1OW5CcEg0Ql95WFZlNnY2U0hiT1pCU3RuTFBwdlVINkFLdWx6THUzWjlqSlZ5eXhMQWxyZW9DOVc1NDRJVGg3UE1TZjlZQWdNVDJYNURDYWZaWmMtRVVX?oc=5",
-    "source": "India News Network",
-    "published_at": "2026-11-24T07:00:42+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 07:00:42 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "58b6fbc205651d101cd56504121e0e7dfc39dd04",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "New US Treasury sanctions are punitive measures that raise tensions and constitute an escalation in Iran-US confrontations.",
-      "event_key": "us treasury sanctions iran"
-    }
-  },
-  {
-    "title": "Middle East cannot withstand renewed US-Iran escalation: PM - The Peninsula Qatar",
-    "summary": "Middle East cannot withstand renewed US-Iran escalation: PM The Peninsula Qatar",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDMyRzFKQlJ2cVNuVTVrbWduOTIxZ3JTeWZWWnNDRUF4WHpOc05TR2VaSHNKTWh4VHZYeUpVaHR2MUhKd3dqZTQ2YmxoMUJlNHJWUVB4ZFRNckFGcnEyMEhtc09uRlU0NW9VRTZ0ZDVkekdSSmZiUjl3OE9PaEF4YzVRS3hfakxmNXdGZU9lMFRzQnV0R0dWbVFUYWZVcE1jQnlJRXkxZzhmdWc?oc=5",
-    "source": "The Peninsula Qatar",
-    "published_at": "2026-11-24T05:26:12+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 05:26:12 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+de-escalation&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "dac7ffe52c1c750ccda445384c9f55b1c7b06ba3",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "PM warns against renewed US-Iran escalation, signaling heightened tensions and risk of conflict.",
-      "event_key": "pm warns against us iran escalation"
-    }
-  },
-  {
-    "title": "Cyber threats targeting 50 ships spark fears of escalating US-Iran conflict in maritime trade - Gulf News",
-    "summary": "Cyber threats targeting 50 ships spark fears of escalating US-Iran conflict in maritime trade Gulf News",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWDNQa0hEVy1aRXJCdmhCRFY4amxpSlZWVzFMamR1a01jNk5LTGtndGpNbGNZbFNiTHQ5ZkQ0dWZvb0tfTTlqU0ZNUEJLZ1R4Sjc1SW9LbFRlcTJQR2V4Tk8zUkw5d3daRTZwWkFVVWZ3LVFOZnNKcDVYdmltZ3FGZXJLR2VIcHViUUZJTjBVZGRSaC11SF9QMndMWklqRU1jbE1nWVYwZ2xxNGhFMXZVNm05c2w3SS05OVNDZW52NEQ1ZWEycC1DQUYzb1BaTXBHcDZZ0gHmAUFVX3lxTE5qTWNpQXgtYXBzUUdmdHpCTzJoN0FaOXFFeFBDeEVaekpTVzZWalE2eHhGRUhiMVA0U1dvSVB4Yk93ZUdoSlIwZnlXSUVYSnFkZndCN1lvazdEb3ZUMmU3NURMdFU3VFlmUE5wejJmNUg1dTBJNVdLUGoySThXbmUtQklSVHVQamZiNVJQb1F1TnpUcWFRdzhtMmh6WlVzdGhFb2RTVGpKTVVWb0M0U2JpVDUtWU1xZFRuMnV0Z0RqX0RwcVlRcE5fOUUwdnNIcXllLTcwNGhvZEtIRDFKMV9uaWNhNUJB?oc=5",
-    "source": "Gulf News",
-    "published_at": "2026-11-24T02:35:01+00:00",
-    "raw_pub_date": "Tue, 24 Nov 2026 02:35:01 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "b66720d375a2a31fbf5438ff0d20d9e42c0a22a0",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Cyber threats to commercial ships raise tensions and risk escalation in US‑Iran relations.",
-      "event_key": "cyber threats ships escalation"
+      "strength": 0.75,
+      "reason": "Speaker reiterates stance on US talks and warns retaliation—hostile rhetoric raising tensions.",
+      "event_key": "iran speaker warns retaliation against us"
     }
   }
 ]
