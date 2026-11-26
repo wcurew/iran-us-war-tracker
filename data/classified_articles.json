@@ -1,53 +1,87 @@
 [
   {
-    "title": "Diplomacy or war? Tensions simmer as US mulls next steps on Iran - The New Arab",
-    "summary": "Diplomacy or war? Tensions simmer as US mulls next steps on Iran The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkJoQ20zVHM5Z0IwVDc3OGJGQTJPQUUtakoyeUV0Yy0xUk9UWXd6UTdCNi1oMVprS1ItTXY5Z0FRZlIxcEktWG04dWV3Vmdpbjlrdk1GOFk0SDBhRUlKTmJJelNEMWZvLUstQVVxeTRKSTdodEhPS24yUko1em16TzRNbTg3VWU5RURnVVNod9IBlAFBVV95cUxQOU8yR1BsRVpSZktIMlJxSkxIeWdlWlpydm93WEh2c0ZnSmo2TUNiSms0ejFvRHZMNXJhQTE2MndKTnRuMDNfb1hyMDJEc3R0alNTY3Q2YXQ3N1hVZFJVMEdtRzh3NFVkTFkyOXhReWl3VjZ5QktQaUNETVc1eFNkM1pnTTBTVmFaTEVhcjk4V0l3VUxI?oc=5",
-    "source": "The New Arab",
-    "published_at": "2026-11-25T17:19:08+00:00",
-    "raw_pub_date": "Wed, 25 Nov 2026 17:19:08 GMT",
+    "title": "Israel ready to strike Iran alone, but US has a message for Netanyahu: End the ‘wartime mindset’ - Gulf News",
+    "summary": "Israel ready to strike Iran alone, but US has a message for Netanyahu: End the ‘wartime mindset’ Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTRiTlVacFNYemtZNDlidXpPb2t0Q19RM29tZFpjYVJnYWlZcEx6bHYwU1hHNzFPUGxGbUJzbjVFNEZlV3p1ZTJjeFhlRTZJTW1qNkwwT2c4dENCMElpWHNNS3gyS3hKWUlQajVLUEJzZkhTa3BLbnZldF95STg0YWdSRHNNeXFfUDB3NjlsS2N3STV4c2ZKNy1UYkVsUFY4WUlBcmd2YkFvbzc5LWtyRVhJNWZjeDRxb3U5SmZ3RVhULTFPT3JuaHhyaWlCUFVQZ1HSAeQBQVVfeXFMTjBsNlFrekdEZWVBUVBVQjc3S3hjSTg0blZPXzd4RVljN3kxYXNWVngtU1BGakpBYksxTlNTczF4X09PMGFpb2JZbDNYamVhQWptQjNZNUNqeW9INnh0ejVMNDRteG1JOGJwVDhBRHNtU1c3UmtxMFV4MHYzUGRRZFlON0Z4YkxNNm8xOHdPTG45WHRVbi1VVFNPc2FUMWdHREZQTG5HVTFJMlBSUmhQV1NGWl9rV1BTSl9xNndLZ1VBa1lSTElxNS1lN3Z1R05ubkxsS1BBR3FBZ0Q0NXl3RDdxVFRE?oc=5",
+    "source": "Gulf News",
+    "published_at": "2026-11-26T09:44:19+00:00",
+    "raw_pub_date": "Thu, 26 Nov 2026 09:44:19 GMT",
     "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "acb5b94b905edd7105bda49b535318105eca3865",
+    "article_id": "a770d018036c4047c1689f9647c9da7460a15225",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.7,
-      "reason": "US weighing tougher/military options; tensions rising rather than active diplomacy or ceasefire.",
-      "event_key": "us weighs options against iran"
-    }
-  },
-  {
-    "title": "Can XBR sustain gains as US-Iran diplomacy develops and risk premium uncertainties persist? - Traders Union",
-    "summary": "Can XBR sustain gains as US-Iran diplomacy develops and risk premium uncertainties persist? Traders Union",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXFFRGNTR2RMMUQ2OFVzcDdwNmtFNHRkTWZzUW1uRkNQUUljOVBhU3hkQkxwN2p4bEN1eGpFVnZPR2NkVnV0Qm9xcE14OElnWlk4MkduV0RWcFU5VWZ0QkVrZGU3REJ3bEZzVGt4WVNuSmtEU3lmNDY0enZ6UTFYNGtrdXprSzAz?oc=5",
-    "source": "Traders Union",
-    "published_at": "2026-11-25T17:11:33+00:00",
-    "raw_pub_date": "Wed, 25 Nov 2026 17:11:33 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+diplomacy&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "f2d481b48b16458200ef94b44e698d49b6a514cf",
-    "source_weight": 1.0,
-    "classification": {
-      "label": "negotiation",
+      "label": "deescalation_signal",
       "strength": 0.6,
-      "reason": "Discusses developing US-Iran diplomatic engagement affecting markets, implying active talks.",
-      "event_key": "us iran diplomacy develops"
+      "reason": "US urging Israel to end 'wartime mindset' signals restraint despite Israeli threats to strike Iran.",
+      "event_key": "us urges israel restraint over iran strike threat"
     }
   },
   {
-    "title": "Iran-Linked Threat Raises Alarm In UK! RAF Protects Jets At Bases Housing US Warplanes - The Times of India",
-    "summary": "Iran-Linked Threat Raises Alarm In UK! RAF Protects Jets At Bases Housing US Warplanes The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMWRxRmpESDZkX2FsVkI0ZG1FUFhaRzZNMWMwSmNfZFVlb0RJMFgzRGtSdEdPNTZoOGdUcHBjU0cydXRFQU16a1FMZU43ajVYbVZOUVR1eThxSDJWTjd5TlhuTE8xSTVjMUdfOGpkeUx4VTlWUEE2RVB6TGZKWG5wcHhnWXo1ck9vRXhhaWJfMzQ3anY2MVpwTVlVdW1QUzIzY2ZCZXlqTHhrblZHLWN5ak0tOEk4eHExTjVlVkxqVWhmZGttdjh6Z2Nka2lCQjRPTDJ5MWo0clVWQU40N29LcjQtNUpieGw1bHF0emlVTGJsMDQ2cWVFNC130gH_AUFVX3lxTE9ETVdid0VZT180c3BETW11M0hJWkNLa0h1Tk4wdXFidnRuNEFmbkNYVWdLTjhyaFRoM3JrbGhHM2stYlg4WUdBNWlKVmtZSXIwdDRDNmtlVENtdU1XY1A2d2s4a2VQdHZHRUFYWUJMc2dHMkl6dGh5YUhKb1RyQ3FCMWlaUWJCeENTdGhlcndYeTVRN1FGVl9lRlN6NXFNa1FkVkdLNUhVeHJMbU1ITHB6aU55cWNYUVR3a040QWZTUWxwMG5iTkRBUXBsRFI2eExxdXNLbHYxXzFBSUZ1Ym40N3pqRFBMYjJrVlNMYWVCTmdCNGN5dWtJaS0yZ3BhZw?oc=5",
+    "title": "America's missile stockpiles will take years to rebuild after Iran—and a watchdog warns the Pentagon has a blind spot - Fortune",
+    "summary": "America's missile stockpiles will take years to rebuild after Iran—and a watchdog warns the Pentagon has a blind spot Fortune",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJnM3N5Tm5vTHhYcWNmdDJobWRGOThaOHVRVFhwQzkwZEc2MGtuWGdpbzJ6dl9oRTRsX0d2bGtIcjQ4eTZmeGN4Z2JMa1IwSE8zTjZfSktCV0ZpaXY4aEpERFVtcHRYNm1QX05CSXVvbllTN3prYjlfZVF4MWR3aWxORTI2MjluREFwZzVhN0ZoQ1E?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-11-26T08:55:00+00:00",
+    "raw_pub_date": "Thu, 26 Nov 2026 08:55:00 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "22c3bb6545f1cf784399baee5829a21078bd0250",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.6,
+      "reason": "Analyzes U.S. missile depletion after direct actions linked to Iran and Pentagon oversight concerns.",
+      "event_key": "us missile stockpile depletion after iran"
+    }
+  },
+  {
+    "title": "Iran's Biggest US Hit? 100,000 Ton Aircraft Carrier Mysteriously Left Mideast Amid Missile Hit Claim - The Times of India",
+    "summary": "Iran's Biggest US Hit? 100,000 Ton Aircraft Carrier Mysteriously Left Mideast Amid Missile Hit Claim The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRFlZYWZMeDVNRG9oaE50V3ltNGYyNzN6cFNnMk9IelZSTnpnWVRvTzBEd3h2dUxTMEhFVjNKSWNJeE1lVlo1NGNDenlyWWxFemdPSzhjV0Q4SXRfYzdoWmo0cE1HQ3JEaFFud0h2bUFBX29LdmtiNDU1SEFaZ1JrNU1iMnI0eEF2UDRWQUZMS2g3Vl9aRzRyb1BmYUtSLXA1VlJjRlVPVlhTVS14RDlndUZCbmU2cnZsVGpvRVVYRl9wWVdaWkJBbzhTQ2FwWlhUQk9Bd2hoeDZIUFE4MHVFX0pudHR6UW43T1lVVmNWWmJHUlVwU1ZVbEZhRVpPaVJhOEZHMV91WTBNQdIBjwJBVV95cUxONUw1RGRpMGswWUp2ZFlqZFY1MlVzNDFhcm5aNElLS0dBbEVvcTdpR3JPRVh4RjROa1FvbE1HcW1xdGE0M3hfdGJOMDNyRFVCNFhRVlRwRXdKTG9NcmtlRVVmLWFsT0huVUlMNzNjTnNQcDAxa2twZTJYR2pPZFlhblRncVB6UzV6dDQ0T09yblZjV2YxWmZMbEVBaWk3akp6TkpCSkdfTE1RUTRtcFEyM1hZWUY3Qmd1SFlTSW5tU3ZMWlJ5U0VCd05EZ1lmRjhxWVN5d0dMcTdiTENBWkFXdzVpNWd4MWJYalZxbVBfZDJHRC1IZXJhQnBtZzFtaVhMbkJNUmRGXzNqTTRLalZv?oc=5",
     "source": "The Times of India",
-    "published_at": "2026-11-25T19:56:16+00:00",
-    "raw_pub_date": "Wed, 25 Nov 2026 19:56:16 GMT",
-    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+warning&hl=en-US&gl=US&ceid=US:en",
-    "article_id": "a89bdeadc3444076cfbc903731c67a52d886199e",
+    "published_at": "2026-11-26T08:05:58+00:00",
+    "raw_pub_date": "Thu, 26 Nov 2026 08:05:58 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "cd130c750fb70cb6559a83c938754c9cd8d3f533",
     "source_weight": 1.0,
     "classification": {
-      "label": "escalation",
-      "strength": 0.6,
-      "reason": "Iran-linked threat prompted RAF defensive measures protecting bases hosting US aircraft, indicating heightened tensions and mobilization.",
-      "event_key": "iran linked threat raf protects us bases"
+      "label": "strike_or_retaliation",
+      "strength": 0.7,
+      "reason": "Iran reportedly claimed a missile hit on a US aircraft carrier and the carrier left the region, implying a direct attack allegation.",
+      "event_key": "claimed missile hit on us aircraft carrier"
+    }
+  },
+  {
+    "title": "Iranian Missile Hits US-Escorted Ship Near Dubai; Trump's Navy 'Helpless'; IRGC Expands Attacks - The Times of India",
+    "summary": "Iranian Missile Hits US-Escorted Ship Near Dubai; Trump's Navy 'Helpless'; IRGC Expands Attacks The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaEFRVFhkTF9XUW8xTl9Fd29HbG5IRTB1Ql9acXEyZUQ5NHliMndTLUtiamd6VU5IVWdnU0MxZFRpaEJ0emh5ZDNIci1obl92RWRDWGtGVXR6SFdmb1FzV0h4NWxYaEdYanoteFJqb3ZkLWtGLWRJb3B4Y3Q1QWl3X084cnRraGxIaVdNVWxwV0M2V2M0V0ZzcGlxajBJRGlSRkl2bUd6Vk5yeEY3T1F6cW5hRE00aHp2NjhRdGZrRFlXc0FiZTNLa3dRLVhhUkkyTzhMZTVWRXkyU3ZPMzdBdjlDc01LdXVjWUh5N1dTMmpZU0lRU096akR5RG5BVTZo0gGGAkFVX3lxTE9KbjQyZFJJb0JnQTRaenpteXB3bF9DQWNFdkFUbXZ0a3hvWHJmbzd4aGwxYjNoc0dWeHBlQWo5WEd1R3pGTnlxSDVRbUNpR29VYVAwYWJFbU1YeFRmSHlhQmpmQjFka0lKVllhclc5QjI5aWg0N0ZGT0hsSVdMR3JteEwya1dONFdLbFEwZ1U5ajdYNFI3OFR3Zjk3cmllTV9zRUNOcHlJeEV0aWhObE5qMG1vZkhjS0NIX19DVGw3V1BYMEpVb0oxUFBuWUtKa3JhRWxaTkhJeVRHTUJvZGN3b25pRzladDlvQVZIWGs5anMtTkxYT2dnam9JMHNSTzVHcC1HcGc?oc=5",
+    "source": "The Times of India",
+    "published_at": "2026-11-26T03:17:56+00:00",
+    "raw_pub_date": "Thu, 26 Nov 2026 03:17:56 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+missile&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "ac1491a91aaad2e6ef5979a317aedb73d87b760a",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "strike_or_retaliation",
+      "strength": 0.9,
+      "reason": "Iranian missile struck a US-escorted ship and IRGC expanded attacks, indicating direct military strikes/retaliation.",
+      "event_key": "iran missile hit us escorted ship near dubai"
+    }
+  },
+  {
+    "title": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next? - investingLive",
+    "summary": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next? investingLive",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHk1SmVQR3ZralZfblg5dnRuUllkdFE3MkFUUVhsYnV2TkF3UDNPczVTOVlBM2NmS0NZNTBWNkVyRi1ldzZlYkZtTGZQdnZfcTMwUHFwc0xIM3pLeTR0ZkpGYklId1UtdER6NS1LQUhZY2x6WGwybHljRElxbnRnTkFtMHBQaXNLeW11SHphajdWSzVMS3pyTEdiN1h5R2R1bDZhbExVb2t0SWxBYi1LQnNjMVdaWTllSU55dDZqajBXa1hXaTc1UmZuUXkzd0lV?oc=5",
+    "source": "investingLive",
+    "published_at": "2026-11-26T10:08:04+00:00",
+    "raw_pub_date": "Thu, 26 Nov 2026 10:08:04 GMT",
+    "feed_url": "https://news.google.com/rss/search?q=%28%22Iran%22+OR+%22Iranian%22%29+%28%22United+States%22+OR+U.S.+OR+US+OR+American%29+escalation&hl=en-US&gl=US&ceid=US:en",
+    "article_id": "5f0690f10eac97ace280e3debd04ffc489e087f2",
+    "source_weight": 1.0,
+    "classification": {
+      "label": "irrelevant",
+      "strength": 0.1,
+      "reason": "Market commentary on oil citing US-Iran tensions, not reporting diplomatic or military developments.",
+      "event_key": "oil prices tensions"
     }
   }
 ]
